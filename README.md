@@ -40,6 +40,7 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
   }
 ]
 ```
+Note: `letsplaywtf` was the name of the site before I changed it to All Bad Cards :P
 
 In the above example, the `mongo` URLs are the connection strings to MongoDB in each given environment. Same with `redisHost` for Redis.
 
