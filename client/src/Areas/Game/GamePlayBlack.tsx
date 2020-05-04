@@ -132,7 +132,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 				<Grid container spacing={2} style={{justifyContent: "center"}}>
 					{(!hasWinner) && (
 						<Grid item xs={12} sm={6} md={4} lg={3}>
-							<BlackCard>
+							<BlackCard packId={gameData.game?.blackCard.packId}>
 								{gameData.blackCardDef?.content}
 							</BlackCard>
 						</Grid>

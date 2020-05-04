@@ -86,6 +86,7 @@ export const WhiteCardHand: React.FC<Props> =
 				<Grid item xs={12} sm={6} md={4} lg={3}>
 					{cardId && (
 						<WhiteCard
+							packId={cardId.packId}
 							key={cardId.cardIndex+cardId.cardIndex}
 							actions={!hasPlayed && (
 								<>

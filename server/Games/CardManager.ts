@@ -3,6 +3,7 @@ import * as path from "path";
 import {CardId, GameItem, ICardPackDefinition, ICardTypes, CardPackMap} from "./Contract";
 import {CardCastConnector} from "./CardCastConnector";
 import deepEqual from "deep-equal";
+import cloneDeep from "clone-deep";
 
 export class CardManager
 {
@@ -70,7 +71,7 @@ export class CardManager
 
 		const newCard = this.getAllowedCard(allowedCards, gameItem.usedBlackCards);
 
-		const newGame = {...gameItem};
+		const newGame = cloneDeep(gameItem);
 		newGame.blackCard = newCard;
 		newGame.usedBlackCards[newCard.packId] = newGame.usedBlackCards[newCard.packId] ?? {};
 		newGame.usedBlackCards[newCard.packId][newCard.cardIndex] = newCard;
@@ -80,7 +81,7 @@ export class CardManager
 
 	public static async dealWhiteCards(gameItem: GameItem)
 	{
-		const newGame = {...gameItem};
+		const newGame = cloneDeep(gameItem);
 
 		let usedWhiteCards: CardPackMap = {...gameItem.usedWhiteCards};
 

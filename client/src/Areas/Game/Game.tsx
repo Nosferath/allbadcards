@@ -119,6 +119,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			chooserGuid,
 			ownerGuid,
 			spectators,
+			pendingPlayers,
 			players,
 			settings
 		} = this.state.gameData.game ?? {};
@@ -136,7 +137,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const isOwner = ownerGuid === this.state.userData.playerGuid;
 		const isChooser = playerGuid === chooserGuid;
 		const amInGame = playerGuid in (players ?? {});
-		const amSpectating = playerGuid in (spectators ?? {});
+		const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
 		const title = `${owner?.nickname}'s game`;
 
 		const playerGuids = Object.keys(players ?? {});

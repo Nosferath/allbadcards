@@ -25,12 +25,12 @@ export const SettingsBlockMainPacks = () =>
 
 	const selectDefault = () =>
 	{
-		GameDataStore.setIncludedPacks(Array.from(new Set([...gameData.ownerSettings.includedPacks, ...GameDataStore.getDefaultPacks(gameData.packs)])));
+		GameDataStore.setIncludedPacks(Array.from(new Set([...gameData.ownerSettings.includedPacks, ...GameDataStore.getDefaultPacks(gameData.loadedPacks)])));
 	};
 
 	const selectAll = () =>
 	{
-		GameDataStore.setIncludedPacks(gameData.packs?.map(p => p.packId));
+		GameDataStore.setIncludedPacks(gameData.loadedPacks?.map(p => p.packId));
 	};
 
 	const selectNone = () =>
@@ -40,7 +40,7 @@ export const SettingsBlockMainPacks = () =>
 
 	const selectOfficial = () =>
 	{
-		const packs = gameData.packs
+		const packs = gameData.loadedPacks
 			?.filter(pack => pack.isOfficial)
 			?.map(pack => pack.packId);
 
@@ -49,7 +49,7 @@ export const SettingsBlockMainPacks = () =>
 
 	const selectThirdParty = () =>
 	{
-		const packs = gameData.packs
+		const packs = gameData.loadedPacks
 			?.filter(pack => !pack.isOfficial)
 			?.map(pack => pack.packId);
 
@@ -74,7 +74,7 @@ export const SettingsBlockMainPacks = () =>
 				</Typography>
 			</div>
 			<List>
-				{gameData.packs?.map(pack => (
+				{gameData.loadedPacks?.map(pack => (
 					<>
 					<ListItem>
 						<ListItemText primary={pack.name} secondary={`${pack.quantity.black} black cards, ${pack.quantity.white} white cards`}/>

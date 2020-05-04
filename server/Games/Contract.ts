@@ -1,3 +1,5 @@
+import {Message} from "protobufjs";
+
 export type PlayerMap = { [key: string]: GamePlayer };
 
 export type CardPackMap = { [packId: string]: { [cardIndex: number]: CardId } };
@@ -62,7 +64,7 @@ export interface GameItem
 	settings: IGameSettings;
 }
 
-export interface GamePayload extends GameItem
+export interface GamePayload extends Partial<GameItem>
 {
 	buildVersion: number;
 }

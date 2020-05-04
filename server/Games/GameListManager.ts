@@ -25,8 +25,8 @@ class _GameListManager
 				}
 			})
 			.sort({dateUpdated: -1})
-			.skip(20 * zeroBasedPage)
-			.limit(20);
+			.skip(8 * zeroBasedPage)
+			.limit(8);
 
 		return found.toArray();
 	}

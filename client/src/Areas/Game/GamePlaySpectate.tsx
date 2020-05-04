@@ -8,10 +8,8 @@ import {Typography} from "@material-ui/core";
 import {RevealWhites} from "./Components/RevealWhites";
 import {ShowWinner} from "./Components/ShowWinner";
 import {PickWinner} from "./Components/PickWinner";
-import Chip from "@material-ui/core/Chip";
-import {AiFillCrown} from "react-icons/all";
-import {ClockLoader} from "react-spinners";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
+import {Alert, AlertTitle} from "@material-ui/lab";
 
 interface IGamePlaySpectateProps
 {
@@ -70,7 +68,7 @@ export class GamePlaySpectate extends React.Component<Props, State>
 			userData
 		} = this.state;
 
-		const me = gameData.game?.spectators?.[this.state.userData.playerGuid];
+		const me = gameData.game?.spectators?.[this.state.userData.playerGuid] ?? gameData.game?.pendingPlayers?.[this.state.userData.playerGuid];
 
 		const cardDefsLoaded = Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
 
@@ -98,17 +96,26 @@ export class GamePlaySpectate extends React.Component<Props, State>
 		const revealMode = timeToPick && revealedIndex < roundCardKeys.length;
 
 		const hasWinner = !!gameData.game?.lastWinner;
+		const isPending = this.state.userData.playerGuid in gameData.game.pendingPlayers;
 
 		return (
 			<>
 				<div>
 					<PlayersRemaining/>
 				</div>
+				{isPending && (
+					<div>
+						<Alert severity="info">
+							<AlertTitle>Waiting for next round...</AlertTitle>
+							You have joined, but the round already started. You will be added to the game when this round is complete.
+						</Alert>
+					</div>
+				)}
 				<Divider style={{margin: "1rem 0"}}/>
 				<Grid container spacing={2} style={{justifyContent: "center"}}>
 					{(roundStarted && !hasWinner) && (
 						<Grid item xs={12} sm={6} md={4} lg={3}>
-							<BlackCard>
+							<BlackCard packId={gameData.game?.blackCard.packId}>
 								{gameData.blackCardDef?.content}
 							</BlackCard>
 						</Grid>

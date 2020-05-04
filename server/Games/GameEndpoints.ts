@@ -68,7 +68,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/games/public", cache("1 minute"), async (req, res) =>
+	app.get("/api/games/public", cache("15 seconds"), async (req, res) =>
 	{
 		logMessage(req.url, req.query);
 

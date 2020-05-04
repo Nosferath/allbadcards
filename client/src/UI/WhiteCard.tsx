@@ -4,12 +4,14 @@ import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 import CardActions from "@material-ui/core/CardActions";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {GameDataStore} from "../Global/DataStore/GameDataStore";
 
 interface IWhiteCardProps
 {
 	onSelect?: () => void;
 	actions?: React.ReactNode;
 	style?: React.CSSProperties;
+	packId?: string;
 }
 
 const useStyles = makeStyles({
@@ -31,6 +33,13 @@ export const WhiteCard: React.FC<IWhiteCardProps> = (props) =>
 
 	const classes = useStyles();
 
+	const packId = props.packId;
+	let pack;
+	if(packId)
+	{
+		pack = GameDataStore.state.loadedPacks.find(p => p.packId === packId);
+	}
+
 	return (
 		<Card
 			className={classes.card}
@@ -39,6 +48,11 @@ export const WhiteCard: React.FC<IWhiteCardProps> = (props) =>
 			style={style}
 		>
 			<CardContent style={{flex: "1"}}>
+				{pack && (
+					<Typography variant={"caption"} style={{opacity: 0.5}}>
+						<em>{pack.name}</em>
+					</Typography>
+				)}
 				<Typography variant={"h6"}>
 					{children}
 				</Typography>

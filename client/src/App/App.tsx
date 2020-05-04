@@ -1,10 +1,10 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, CardContent, CardMedia, Container, Dialog, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, CardContent, CardMedia, Container, Dialog, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {MdBugReport, MdPeople, MdShare, TiLightbulb} from "react-icons/all";
+import {MdBugReport, MdPeople, MdSettings, MdShare, TiLightbulb} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
 import {Link, matchPath} from "react-router-dom";
 import {CopyGameLink} from "../UI/CopyGameLink";
@@ -20,6 +20,7 @@ import {ErrorBoundary} from "./ErrorBoundary";
 import {BrowserUtils} from "../Global/Utils/BrowserUtils";
 import {createStyles, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {GameSettings} from "../Areas/Game/Components/GameSettings";
 
 const useStyles = makeStyles(theme => createStyles({
 	logoIcon: {
@@ -211,15 +212,25 @@ const AppBarButtons = () =>
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
 	const [shareOpen, setShareOpen] = useState(false);
+	const [settingsOpen, setSettingsOpen] = useState(false);
 
 	return (
 		<>
-			<Button aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => setShareOpen(true)}>
-				<MdShare/>
-			</Button>
-			<Button aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
-				<MdPeople/>
-			</Button>
+			<Tooltip title={"Share"} arrow>
+				<Button aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => setShareOpen(true)}>
+					<MdShare/>
+				</Button>
+			</Tooltip>
+			<Tooltip title={"Scoreboard"} arrow>
+				<Button aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
+					<MdPeople/>
+				</Button>
+			</Tooltip>
+			<Tooltip title={"Game settings"} arrow>
+				<Button aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
+					<MdSettings/>
+				</Button>
+			</Tooltip>
 			<Dialog open={shareOpen} onClose={() => setShareOpen(false)}>
 				<DialogContent style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
 					<Typography variant={"h4"}>Game: {GameDataStore.state.game?.id}</Typography>
@@ -232,6 +243,12 @@ const AppBarButtons = () =>
 				<DialogTitle id="form-dialog-title">Game Roster</DialogTitle>
 				<DialogContent>
 					<GameRoster/>
+				</DialogContent>
+			</Dialog>
+			<Dialog open={settingsOpen} onClose={() => setSettingsOpen(false)}>
+				<DialogTitle id="form-dialog-title">Settings</DialogTitle>
+				<DialogContent>
+					<GameSettings/>
 				</DialogContent>
 			</Dialog>
 		</>

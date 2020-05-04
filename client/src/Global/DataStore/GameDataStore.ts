@@ -23,7 +23,7 @@ export interface IGameDataStorePayload
 	loaded: boolean;
 	familyMode: boolean;
 	game: GamePayload | null;
-	packs: ICardPackSummary[];
+	loadedPacks: ICardPackSummary[];
 	cardcastPackDefs: { [key: string]: IDeck };
 	cardcastPacksLoading: boolean;
 	roundCardDefs: WhiteCardMap;
@@ -41,7 +41,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		hasConnection: false,
 		familyMode: location.hostname.startsWith("not."),
 		game: null,
-		packs: [],
+		loadedPacks: [],
 		roundCardDefs: {},
 		playerCardDefs: {},
 		cardcastPackDefs: {},
@@ -326,20 +326,23 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 					ownerSettings: data.settings
 				});
 
-				if (this.state.packs.length === 0)
+				if (this.state.loadedPacks.length === 0)
 				{
 					Platform.getPacks(this.state.familyMode ? "family" : undefined)
 						.then(data =>
 						{
-							const defaultPacks = this.getDefaultPacks(data);
+							let ownerSettings = {...this.state.ownerSettings};
+							// If this is a game that was just created, set the default packs
+							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started)
+							{
+								const defaultPacks = this.getDefaultPacks(data);
+								ownerSettings.includedPacks = defaultPacks;
+							}
 
 							this.update({
-								packs: data,
-								ownerSettings: {
-									...this.state.ownerSettings,
-									includedPacks: defaultPacks
-								}
-							})
+								loadedPacks: data,
+								ownerSettings
+							});
 						});
 				}
 			})

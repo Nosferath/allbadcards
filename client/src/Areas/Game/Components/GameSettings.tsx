@@ -26,6 +26,7 @@ import {SettingsBlockMainPacks} from "./Settings/SettingsBlockMainPacks";
 import IconButton from "@material-ui/core/IconButton";
 import {SettingsBlockCustomPacks} from "./Settings/SettingsBlockCustomPacks";
 import Avatar from "@material-ui/core/Avatar";
+import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
@@ -47,10 +48,21 @@ const useStyles = makeStyles({
 
 export const GameSettings = () =>
 {
+	const userData = useDataStore(UserDataStore);
 	const gameData = useDataStore(GameDataStore);
 	const [gameSettingsVisible, setGameSettingsVisible] = useState(false);
 	const [mainPackSettingsVisible, setMainPackSettingsVisible] = useState(false);
 	const [customPackSettingsVisible, setCustomPackSettingsVisible] = useState(false);
+	const isOwner = userData.playerGuid === gameData.game?.ownerGuid;
+
+	if(!isOwner)
+	{
+		return (
+			<div>
+				<Typography>Only the game owner can edit settings</Typography>
+			</div>
+		)
+	}
 
 	return (
 		<div>

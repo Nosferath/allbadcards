@@ -27,7 +27,10 @@ if (Config.Environment !== "local")
 
 // Set up basic settings
 app.use(express.static(clientFolder, {
-	cacheControl: true
+	cacheControl: true,
+	lastModified: true,
+	maxAge: 24 * 60 * 60 * 1000,
+	etag: true
 }));
 app.use(compression() as any);
 app.use(cookieParser() as any);

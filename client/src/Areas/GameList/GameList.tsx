@@ -114,7 +114,7 @@ const GameList = () =>
 			<Typography variant={"subtitle2"}>
 				To add a game to this list, turn on Settings&nbsp;&raquo;&nbsp;General&nbsp;&raquo;&nbsp;Make&nbsp;Public
 			</Typography>
-			<Pagination count={currentPageGames.length >= 20 ? 10 : currentPage + 1} onChange={handleChange} style={{marginTop: "1rem"}}/>
+			<Pagination page={currentPage + 1} count={currentPageGames.length >= 8 ? currentPage + 2 : currentPage + 1} onChange={handleChange} style={{marginTop: "1rem"}}/>
 			<Grid container spacing={2} className={classes.cardContainer}>
 				{currentPageGames.map(game => (
 					<Grid item xs={12} sm={6} md={4} lg={3}>
@@ -130,18 +130,17 @@ const GameList = () =>
 							<CardContent>
 								<Typography className={classes.cardListItem}>
 									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{game.settings.includedPacks.length}</span>
+										<span className={classes.avatarText}>{game.settings.includedPacks.length + game.settings.includedCardcastPacks.length}</span>
 									</Avatar> included packs
-								</Typography>
-								<Typography className={classes.cardListItem}>
-									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{game.settings.includedCardcastPacks.length}</span>
-									</Avatar> custom packs
 								</Typography>
 								<Typography className={classes.cardListItem}>
 									<Avatar className={classes.avatar}>
 										<span className={classes.avatarText}>{game.settings.roundsToWin}</span>
 									</Avatar> rounds to win
+								</Typography>
+								<Typography className={classes.cardListItem}>
+									{game.started && <>In Progress</>}
+									{!game.started && <>Not Started</>}
 								</Typography>
 							</CardContent>
 							<Divider/>
@@ -160,7 +159,7 @@ const GameList = () =>
 			<Typography variant={"subtitle2"} style={{opacity: 0.75, marginBottom: "1rem"}}>
 				<em>Games idle for 15 minutes will not appear in this list</em>
 			</Typography>
-			<Pagination count={currentPageGames.length >= 20 ? 10 : currentPage + 1} onChange={handleChange}/>
+			<Pagination page={currentPage + 1} count={currentPageGames.length >= 8 ? currentPage + 2 : currentPage + 1} onChange={handleChange}/>
 		</div>
 	);
 };
