@@ -76,7 +76,7 @@ export class BlackCard extends React.Component<Props, State>
 			>
 				<CardContent style={{flex: 1}}>
 					{pack && (
-						<Typography variant={"caption"} style={{color: "white", opacity: 0.5}}>
+						<Typography variant={"caption"} style={{color: "white", letterSpacing: "normal", opacity: 0.5, fontSize: "0.75em", overflow: "hidden", textOverflow: "ellipsis"}}>
 							<em>{pack.name}</em>
 						</Typography>
 					)}
@@ -86,7 +86,7 @@ export class BlackCard extends React.Component<Props, State>
 				</CardContent>
 				<CardActions>
 					<Typography variant={"caption"} style={{color: "white", display: "flex", alignContent: "center"}}>
-						<img src={"/public/logo-tiny-inverted.png"} width={18} style={{marginRight: "0.5rem"}} /> all bad cards
+						<img src={"/logo-tiny-inverted.png"} width={18} style={{marginRight: "0.5rem"}} /> all bad cards
 					</Typography>
 				</CardActions>
 			</Card>

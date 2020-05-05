@@ -10,6 +10,7 @@ import {NicknameDialog} from "../../UI/NicknameDialog";
 import {useHistory} from "react-router";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {LoadingButton} from "../../UI/LoadingButton";
+import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
 
 interface IGameJoinProps
 {
@@ -48,6 +49,8 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 
 	const onSpectate = () =>
 	{
+		BrowserUtils.scrollToTop();
+
 		setSpecLoading(true);
 		Platform.joinGame(userData.playerGuid, props.id, "", true)
 			.catch(e => alert(e))
@@ -62,6 +65,8 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 
 	const onConfirm = (nickname: string) =>
 	{
+		BrowserUtils.scrollToTop();
+
 		Platform.joinGame(userData.playerGuid, props.id, nickname.substr(0, 25), false)
 			.catch(e => alert(e))
 			.finally(() => setJoinLoading(false));

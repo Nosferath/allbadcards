@@ -1,5 +1,5 @@
 import GameStart from "./GameStart";
-import {RouteComponentProps, withRouter} from "react-router";
+import {Redirect, RouteComponentProps, withRouter} from "react-router";
 import React from "react";
 import GameJoin from "./GameJoin";
 import {GameDataStore, IGameDataStorePayload} from "../../Global/DataStore/GameDataStore";
@@ -17,6 +17,7 @@ import {Sponsor} from "../GameDashboard/SponsorList";
 import Divider from "@material-ui/core/Divider";
 import {ErrorBoundary} from "../../App/ErrorBoundary";
 import {ShowWinner} from "./Components/ShowWinner";
+import {Alert} from "@material-ui/lab";
 
 interface IGameParams
 {
@@ -114,6 +115,11 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			id,
 		} = this.props.match.params;
 
+		if(!id)
+		{
+			return <Redirect to={"/"} />;
+		}
+
 		const {
 			started,
 			chooserGuid,
@@ -121,7 +127,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			spectators,
 			pendingPlayers,
 			players,
-			settings
+			settings,
+			kickedPlayers
 		} = this.state.gameData.game ?? {};
 
 		if (!this.state.gameData.game || !this.state.gameData.loaded || !this.state.gameData.hasConnection)
@@ -147,12 +154,21 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			? `${settings?.inviteLink?.substr(0, 25)}...`
 			: settings?.inviteLink;
 
+		const iWasKicked = !!kickedPlayers?.[playerGuid];
+
 		return (
 			<>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
 				<div style={{minHeight: "100vh"}}>
+					{iWasKicked && (
+						<Alert variant={"filled"} severity={"error"}>
+							<Typography>
+								You left or were kicked from this game
+							</Typography>
+						</Alert>
+					)}
 					{!winnerGuid && settings?.inviteLink && (
 						<Typography variant={"caption"}>
 							Chat/Video Invite: <a href={settings.inviteLink} target={"_blank"} rel={"nofollow noreferrer"}>{inviteLink}</a>

@@ -228,6 +228,11 @@ export class GamePlayWhite extends React.Component<Props, State>
 		const metPickTarget = targetPicked <= pickedCards.length;
 		const timeToPick = remainingPlayers.length === 0;
 		const revealMode = timeToPick && revealedIndex < roundCardKeys.length;
+		let czar = "the Card Czar";
+		if(chooserGuid)
+		{
+			czar = gameData.game.players[chooserGuid].nickname;
+		}
 
 		return (
 			<div style={{paddingBottom: "4rem"}}>
@@ -242,7 +247,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 						</Grid>
 					)}
 					{!roundStarted && (
-						<Typography>Waiting for the round to start...</Typography>
+						<Typography>Waiting for {czar} to start the round...</Typography>
 					)}
 					<RevealWhites canReveal={false}/>
 					<ShowWinner/>

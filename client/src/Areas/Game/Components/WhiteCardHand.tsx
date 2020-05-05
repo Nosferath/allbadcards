@@ -87,7 +87,7 @@ export const WhiteCardHand: React.FC<Props> =
 					{cardId && (
 						<WhiteCard
 							packId={cardId.packId}
-							key={cardId.cardIndex+cardId.cardIndex}
+							key={cardId.cardIndex + cardId.cardIndex}
 							actions={!hasPlayed && (
 								<>
 									<Button
@@ -109,7 +109,7 @@ export const WhiteCardHand: React.FC<Props> =
 								</>
 							)}
 						>
-							<div dangerouslySetInnerHTML={{__html: sanitize(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "")}} />
+							<div dangerouslySetInnerHTML={{__html: sanitize(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "")}}/>
 						</WhiteCard>
 					)}
 				</Grid>
@@ -117,6 +117,13 @@ export const WhiteCardHand: React.FC<Props> =
 		});
 
 		return <>
+			<div style={{width: "100%", textAlign: "center", margin: "0.5rem 0"}}>
+				<strong>Time to pick a card (or cards!)</strong>
+				<br/>
+				Try to make the funniest combination between your cards and the black card.
+				<br/>
+				What will make the Czar laugh the most?
+			</div>
 			{renderedHand}
 		</>;
 	};

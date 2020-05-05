@@ -6,6 +6,8 @@ import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
 import {CardId, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
+import {BrowserUtils} from "../Utils/BrowserUtils";
+import {AudioUtils} from "../Utils/AudioUtils";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -29,6 +31,7 @@ export interface IGameDataStorePayload
 	roundCardDefs: WhiteCardMap;
 	playerCardDefs: WhiteCardMap;
 	blackCardDef: IBlackCardDefinition | null;
+	lostConnection: boolean;
 }
 
 let manualClose = false;
@@ -59,6 +62,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			roundsToWin: 7,
 			winnerBecomesCzar: false
 		},
+		lostConnection: false
 	};
 
 	public static Instance = new _GameDataStore(_GameDataStore.InitialState);
@@ -89,7 +93,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			this.ws?.send(JSON.stringify(UserDataStore.state));
 
 			this.update({
-				hasConnection: true
+				hasConnection: true,
+				lostConnection: false
 			});
 		};
 
@@ -133,6 +138,11 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		this.update(_GameDataStore.InitialState);
 	}
 
+	public reconnect()
+	{
+		this.retry(5);
+	}
+
 	private retry(count = 0)
 	{
 		this.update({
@@ -153,7 +163,9 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 				}
 				else
 				{
-					alert("You've lost your connection to the server - please try refreshing! If this continues happening, the server is probably under load. Sorry about that!");
+					this.update({
+						lostConnection: true
+					});
 				}
 			}
 		}, 2000);
@@ -200,7 +212,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			this.loadRoundCards();
 		}
 
-		if (!deepEqual(prev.game?.players[meGuid], this.state.game?.players[meGuid]))
+		const iAmAPlayer = meGuid in (this.state.game?.players ?? {});
+		if (iAmAPlayer && !deepEqual(prev.game?.players[meGuid], this.state.game?.players[meGuid]))
 		{
 			this.loadPlayerCards(meGuid);
 		}
@@ -244,6 +257,11 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 				});
 		});
 
+		const becameCzar = prev.game?.chooserGuid !== meGuid && this.state.game?.chooserGuid === meGuid;
+		if(becameCzar)
+		{
+			AudioUtils.multiTone(3);
+		}
 	}
 
 	private loadRoundCards()
@@ -357,6 +375,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 
 	public playWhiteCards(cardIds: CardId[] | undefined, userGuid: string)
 	{
+		BrowserUtils.scrollToTop();
+
 		console.log("[GameDataStore] Played white cards...", cardIds, userGuid);
 
 		if (!this.state.game || !cardIds)
@@ -370,6 +390,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 
 	public chooseWinner(chooserGuid: string, winningPlayerGuid: string)
 	{
+		BrowserUtils.scrollToTop();
+
 		if (!this.state.game || !chooserGuid)
 		{
 			throw new Error("Invalid card or game!");
@@ -403,6 +425,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 
 	public startRound(userGuid: string)
 	{
+		BrowserUtils.scrollToTop();
+
 		if (!this.state.game)
 		{
 			throw new Error("Invalid card or game!");
@@ -540,6 +564,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 				toPlay.push(card);
 			}
 		}
+
+		BrowserUtils.scrollToTop();
 
 		return this.playWhiteCards(toPlay, playerGuid)
 			.then(() =>

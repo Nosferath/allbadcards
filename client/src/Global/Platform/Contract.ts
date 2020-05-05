@@ -50,6 +50,7 @@ export interface GameItem
 	players: PlayerMap;
 	spectators: PlayerMap;
 	pendingPlayers: PlayerMap;
+	kickedPlayers: PlayerMap;
 	blackCard: CardId;
 	// key = player guid, value = white card ID
 	roundCards: { [key: string]: CardId[] };

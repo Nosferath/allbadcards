@@ -1,10 +1,10 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, CardContent, CardMedia, Container, Dialog, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, CardContent, CardMedia, Container, Dialog, DialogActions, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {MdBugReport, MdPeople, MdSettings, MdShare, TiLightbulb} from "react-icons/all";
+import {IoMdVolumeHigh, IoMdVolumeOff, MdBugReport, MdPeople, MdSettings, MdShare, TiLightbulb} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
 import {Link, matchPath} from "react-router-dom";
 import {CopyGameLink} from "../UI/CopyGameLink";
@@ -21,6 +21,7 @@ import {BrowserUtils} from "../Global/Utils/BrowserUtils";
 import {createStyles, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameSettings} from "../Areas/Game/Components/GameSettings";
+import {MuteDataStore} from "../Global/DataStore/MuteDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	logoIcon: {
@@ -209,16 +210,24 @@ const Errors = () =>
 
 const AppBarButtons = () =>
 {
+	const muteData = useDataStore(MuteDataStore);
+	const gameData = useDataStore(GameDataStore);
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
-	const [shareOpen, setShareOpen] = useState(false);
 	const [settingsOpen, setSettingsOpen] = useState(false);
+
+	const muteLabel = muteData.muted ? "Unmute" : "Mute";
 
 	return (
 		<>
-			<Tooltip title={"Share"} arrow>
-				<Button aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => setShareOpen(true)}>
-					<MdShare/>
+			<Tooltip title={`${muteLabel} game sounds`} arrow>
+				<Button aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => MuteDataStore.setMute(!muteData.muted)}>
+					{muteData.muted && (
+						<IoMdVolumeOff />
+					)}
+					{!muteData.muted && (
+						<IoMdVolumeHigh />
+					)}
 				</Button>
 			</Tooltip>
 			<Tooltip title={"Scoreboard"} arrow>
@@ -231,14 +240,6 @@ const AppBarButtons = () =>
 					<MdSettings/>
 				</Button>
 			</Tooltip>
-			<Dialog open={shareOpen} onClose={() => setShareOpen(false)}>
-				<DialogContent style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
-					<Typography variant={"h4"}>Game: {GameDataStore.state.game?.id}</Typography>
-					<br/>
-					<br/>
-					<CopyGameLink buttonSize={"large"}/>
-				</DialogContent>
-			</Dialog>
 			<Dialog open={rosterOpen} onClose={() => setRosterOpen(false)}>
 				<DialogTitle id="form-dialog-title">Game Roster</DialogTitle>
 				<DialogContent>
@@ -251,8 +252,22 @@ const AppBarButtons = () =>
 					<GameSettings/>
 				</DialogContent>
 			</Dialog>
+			<Dialog open={gameData.lostConnection} onClose={() =>
+			{
+			}}>
+				<DialogTitle id="form-dialog-title">Lost Connection</DialogTitle>
+				<DialogContent>
+					You have lost your connection to the server. Please check your connection, or retry. The most common reason for this to happen is switching tabs or leaving your browser for a while.
+					<br/>
+					<br/>
+					If this behavior continues, please <a target={"_blank"} href={"https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md"}>click here</a> to report it.
+				</DialogContent>
+				<DialogActions>
+					<Button color={"primary"} variant={"outlined"} onClick={() => GameDataStore.reconnect()}>Retry</Button>
+				</DialogActions>
+			</Dialog>
 		</>
 	);
-}
+};
 
 export default App;

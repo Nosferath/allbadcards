@@ -1,6 +1,6 @@
 import * as React from "react";
 import {ComponentType} from "react";
-import {Route, Switch} from "react-router";
+import {Redirect, Route, Switch} from "react-router";
 import {ContainerProgress} from "../UI/ContainerProgress";
 import {SiteRoutes} from "../Global/Routes/Routes";
 
@@ -31,7 +31,7 @@ export class Routes extends React.Component<Props, State>
 	public render()
 	{
 		return (
-			<>
+			<Switch>
 				<Route exact path={"/"}>
 					<Suspender importer={() => import("../Areas/GameDashboard/GameDashboard")}/>
 				</Route>
@@ -41,7 +41,10 @@ export class Routes extends React.Component<Props, State>
 				<Route path={SiteRoutes.Games.path}>
 					<Suspender importer={() => import("../Areas/GameList/GameList")}/>
 				</Route>
-			</>
+				<Route>
+					<Redirect to={"/"}/>
+				</Route>
+			</Switch>
 		);
 	}
 }

@@ -5,7 +5,7 @@ import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
 import React, {useEffect, useState} from "react";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import {ListItemSecondaryAction} from "@material-ui/core";
+import {Dialog, DialogActions, DialogContent, DialogTitle, ListItemSecondaryAction} from "@material-ui/core";
 import Button from "@material-ui/core/Button";
 import {makeStyles} from "@material-ui/styles";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
@@ -34,6 +34,7 @@ export const GameRoster = () =>
 	const classes = useStyles();
 	const [gameData, setGameData] = useState(GameDataStore.state);
 	const [userData, setUserData] = useState(UserDataStore.state);
+	const [kickCandidate, setKickCandidate] = useState<string | null>(null);
 
 	useEffect(() =>
 	{
@@ -51,8 +52,17 @@ export const GameRoster = () =>
 
 	const onClickKick = (playerGuid: string) =>
 	{
-		Platform.removePlayer(gameId, playerGuid, userData.playerGuid)
-			.catch(e => console.error(e));
+		setKickCandidate(playerGuid);
+	};
+
+	const onKickConfirm = () =>
+	{
+		if(kickCandidate)
+		{
+			setKickCandidate(null);
+			Platform.removePlayer(gameId, kickCandidate, userData.playerGuid)
+				.catch(e => console.error(e));
+		}
 	};
 
 	const playerGuids = Object.keys({...game.players, ...game.pendingPlayers});
@@ -115,6 +125,18 @@ export const GameRoster = () =>
 			<Typography style={{margin: "1rem 0"}}>
 				Spectators: {spectatorCount}
 			</Typography>
+
+			<Dialog open={!!kickCandidate} onClose={() => setKickCandidate(null)}>
+				<DialogTitle>Confirm</DialogTitle>
+				{!!kickCandidate && (
+					<DialogContent>
+						Are you sure you want to remove {gameData.game?.players?.[kickCandidate]?.nickname} from this game?
+					</DialogContent>
+				)}
+				<DialogActions>
+					<Button variant={"contained"} color={"primary"} onClick={onKickConfirm}>Kick em!</Button>
+				</DialogActions>
+			</Dialog>
 		</div>
 	);
 };

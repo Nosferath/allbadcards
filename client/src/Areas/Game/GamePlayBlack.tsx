@@ -13,6 +13,7 @@ import {AiFillCrown} from "react-icons/all";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {BounceLoader, ClockLoader} from "react-spinners";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
+import {AudioUtils} from "../../Global/Utils/AudioUtils";
 
 interface IGamePlayBlackProps
 {
@@ -127,7 +128,12 @@ export class GamePlayBlack extends React.Component<Props, State>
 				</div>
 				<Divider style={{margin: "1rem 0"}}/>
 				{!roundStarted && (
-					<Typography style={{marginBottom: "0.5rem", textAlign: "center"}}>Read the card aloud, then click Start The Round!</Typography>
+					<Typography style={{marginBottom: "1rem", textAlign: "center"}}>
+						<strong>You are the Card Czar!</strong>
+						<br/>
+						Read the card aloud, then click Start The Round.
+						<br/>Once everyone plays, you will choose your favorite!
+					</Typography>
 				)}
 				<Grid container spacing={2} style={{justifyContent: "center"}}>
 					{(!hasWinner) && (
@@ -142,7 +148,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 				</Grid>
 				{!roundStarted && (
 					<div style={{marginTop: "1rem", textAlign: "center"}}>
-						<LoadingButton loading={buttonLoading} color={"primary"} variant={"contained"} onClick={this.onClickSkipBlack}>
+						<LoadingButton loading={buttonLoading} color={"primary"} variant={"outlined"} onClick={this.onClickSkipBlack}>
 							Skip Card
 						</LoadingButton>
 						<LoadingButton loading={buttonLoading} color={"primary"} variant={"contained"} onClick={this.onClickStartRound} style={{marginLeft: "1rem"}}>

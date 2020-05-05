@@ -159,6 +159,16 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/4</strong>
+								<li>Added mutable audio cue for Card Czar</li>
+								<li>Improved kick/leave game behavior</li>
+								<li>Added confirmation step before leaving/kicking player</li>
+								<li>Improved instructions for new players</li>
+								<li>Removed 2012 holiday pack due to duplicate cards</li>
+								<li>Added ability to edit settings during game</li>
+								<li>Improved speed of game updates</li>
+								<li>Fixed some typos</li>
+								<br/>
 								<strong>Updates - 5/1</strong>
 								<li>Added support for creating and browsing public games</li>
 								<li>Added Dark Mode switch in footer</li>
@@ -168,16 +178,6 @@ class GameDashboard extends React.Component<Props, State>
 								<li>Improved layout for larger screens</li>
 								<li>Fix for some mobile devices not being able to use My Cards Suck options</li>
 								<li>Card typo fixes</li>
-								<br/>
-								<strong>Updates - 4/30</strong>
-								<li>Added option to hide white cards during reveal</li>
-								<li>Added option to limit the maximum number of players for a game</li>
-								<li>Added option to skip white card reveal and go straight to picking the winner</li>
-								<li>Winner screen now shows the winning hand</li>
-								<li>Settings are saved during editing so refreshing does not reset settings</li>
-								<li>Added Venmo/Cash App as donation options</li>
-								<li>Updated default card packs to include some of the third-party packs</li>
-								<li>Added selected pack count to settings summary</li>
 								<br/>
 							</Typography>
 						</Grid>

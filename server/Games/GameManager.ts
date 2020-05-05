@@ -150,7 +150,8 @@ class _GameManager
 
 		this.wss = new WebSocket.Server({
 			server,
-			...port
+			...port,
+			perMessageDeflate: true
 		});
 
 		this.wss.on("connection", (ws, req) =>
@@ -238,7 +239,7 @@ class _GameManager
 
 	private updateSocketGames(game: GameItem)
 	{
-		const playerGuids = Object.keys({...game.players, ...game.pendingPlayers, ...game.spectators});
+		const playerGuids = Object.keys({...game.players, ...game.pendingPlayers, ...game.spectators, ...game.kickedPlayers});
 
 		// Get every socket that needs updating
 		const wsIds = playerGuids
@@ -285,6 +286,7 @@ class _GameManager
 				playerOrder: [],
 				spectators: {},
 				pendingPlayers: {},
+				kickedPlayers: {},
 				started: false,
 				blackCard: {
 					cardIndex: -1,
@@ -343,20 +345,31 @@ class _GameManager
 		const newGame = {...existingGame};
 		newGame.revealIndex = -1;
 
-		const newPlayer = _GameManager.createPlayer(playerGuid, nickname, isSpectating, isRandom);
-		if (isSpectating)
+		// If the player was kicked before and is rejoining, add them back
+		const playerWasKicked = !!newGame.kickedPlayers[playerGuid];
+		if (playerWasKicked)
 		{
-			newGame.spectators[playerGuid] = newPlayer;
+			newGame.players[playerGuid] = newGame.kickedPlayers[playerGuid];
+			delete newGame.kickedPlayers[playerGuid];
 		}
+		// Otherwise, make a new player
 		else
 		{
-			if (newGame.started)
+			const newPlayer = _GameManager.createPlayer(playerGuid, nickname, isSpectating, isRandom);
+			if (isSpectating)
 			{
-				newGame.pendingPlayers[playerGuid] = newPlayer;
+				newGame.spectators[playerGuid] = newPlayer;
 			}
 			else
 			{
-				newGame.players[playerGuid] = newPlayer;
+				if (newGame.started)
+				{
+					newGame.pendingPlayers[playerGuid] = newPlayer;
+				}
+				else
+				{
+					newGame.players[playerGuid] = newPlayer;
+				}
 			}
 		}
 
@@ -386,6 +399,8 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
+		newGame.kickedPlayers[targetGuid] = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+		delete newGame.pendingPlayers[targetGuid];
 		delete newGame.players[targetGuid];
 		delete newGame.roundCards[targetGuid];
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
@@ -593,6 +608,24 @@ class _GameManager
 		if (!isRandom)
 		{
 			this.validateUser(player, existingGame);
+		}
+
+		const cardsAreInPlayerHand = cardIds.every(cid =>
+			existingGame.players[playerGuid].whiteCards.find(
+				wc => deepEqual(wc, cid)
+			)
+		);
+
+		if (!cardsAreInPlayerHand)
+		{
+			throw new Error("You cannot play cards that aren't in your hand.");
+		}
+
+		const blackCardDef = await CardManager.getBlackCard(existingGame.blackCard);
+		const targetPicked = blackCardDef.pick;
+		if (targetPicked !== cardIds.length)
+		{
+			throw new Error("You submitted the wrong number of cards. Expected " + targetPicked + " but received " + cardIds.length);
 		}
 
 		const newGame = {...existingGame};

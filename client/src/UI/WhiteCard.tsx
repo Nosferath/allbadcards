@@ -49,7 +49,7 @@ export const WhiteCard: React.FC<IWhiteCardProps> = (props) =>
 		>
 			<CardContent style={{flex: "1"}}>
 				{pack && (
-					<Typography variant={"caption"} style={{opacity: 0.5}}>
+					<Typography variant={"caption"} style={{letterSpacing: "normal", opacity: 0.5, fontSize: "0.75em", overflow: "hidden", textOverflow: "ellipsis"}}>
 						<em>{pack.name}</em>
 					</Typography>
 				)}
