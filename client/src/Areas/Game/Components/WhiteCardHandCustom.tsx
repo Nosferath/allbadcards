@@ -38,7 +38,7 @@ export const WhiteCardHandCustom: React.FC<Props> =
 	{
 		const [cardValues, setCardValues] = useState<string[]>([]);
 
-		if(targetPicked > cardValues.length)
+		if (targetPicked > cardValues.length)
 		{
 			setCardValues((new Array(targetPicked)).fill(undefined));
 		}
@@ -105,17 +105,12 @@ export const WhiteCardHandCustom: React.FC<Props> =
 		});
 
 		return <>
-			<div style={{width: "100%", textAlign: "center", margin: "0.5rem 0"}}>
-				<strong>Fill out your answers!</strong>
-				<br/>
-				Try to make the funniest combination between your cards and the black card.
-				<br/>
-				What will make the Czar laugh the most?
-			</div>
 			{!hasPlayed && (
-				<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
-					{renderedHand}
-				</Grid>
+				<>
+					<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
+						{renderedHand}
+					</Grid>
+				</>
 			)}
 		</>;
 	};

@@ -89,7 +89,7 @@ export class GamePlaySpectate extends React.Component<Props, State>
 		const remainingPlayerGuids = Object.keys(players ?? {})
 			.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
-		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 
 		const revealedIndex = this.state.gameData.game?.revealIndex ?? 0;
 		const timeToPick = remainingPlayers.length === 0;

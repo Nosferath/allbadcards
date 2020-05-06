@@ -85,7 +85,7 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 									<LoadingButton
 										loading={pickWinnerLoading}
 										variant={"contained"}
-										color={"primary"}
+										color={"secondary"}
 										onClick={() => pickWinner(playerGuid)}
 									>
 										Pick Winner
@@ -93,7 +93,7 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 								)}>
 									{roundCardValues[i]?.map(card => card && (
 										<>
-											<div dangerouslySetInnerHTML={{__html: sanitize(card)}}/>
+											<div dangerouslySetInnerHTML={{__html: sanitize(unescape(card))}}/>
 											<Divider style={{margin: "1rem 0"}}/>
 										</>
 									))}

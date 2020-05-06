@@ -1,4 +1,4 @@
-import {MuteDataStore} from "../DataStore/MuteDataStore";
+import {PreferencesDataStore} from "../DataStore/PreferencesDataStore";
 import "./audiocontext-monkeypatch";
 
 window["AudioContext"] = window["AudioContext"] || {fake: true};
@@ -21,7 +21,7 @@ class _AudioUtils
 
 	public makeSound(wave: OscillatorType = "sine", freq = 840, duration = 1)
 	{
-		if(MuteDataStore.state.muted || (window["AudioContext"] as any)?.fake)
+		if(PreferencesDataStore.state.muted || (window["AudioContext"] as any)?.fake)
 		{
 			return;
 		}

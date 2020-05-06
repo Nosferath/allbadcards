@@ -20,10 +20,10 @@ const useStyles = makeStyles(theme => createStyles({
 		width: "2rem",
 		height: "2rem",
 		marginRight: "0.5rem",
-		background: "black"
+		background: theme.palette.secondary.main
 	},
 	avatarText: {
-		color: theme.palette.primary.contrastText,
+		color: theme.palette.secondary.contrastText,
 		fontSize: "0.75rem"
 	},
 	cardListItem: {
@@ -118,9 +118,9 @@ const GameList = () =>
 			<Grid container spacing={2} className={classes.cardContainer}>
 				{currentPageGames.map(game => (
 					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<Card>
+						<Card elevation={5}>
 							<CardHeader
-								title={<>{game.players[game.ownerGuid].nickname}'s game</>}
+								title={<>{unescape(game.players[game.ownerGuid].nickname)}'s game</>}
 								subheader={
 									<>{Object.keys(game.players).length} / {game.settings.playerLimit} players</>
 								}
@@ -148,7 +148,7 @@ const GameList = () =>
 								<Typography variant={"caption"} style={{opacity: 0.75, flex: 1}}>
 									<em>{game.id}</em>
 								</Typography>
-								<IconButton color={"primary"} component={p => <Link {...p} to={`/game/${game.id}`} />}>
+								<IconButton color={"secondary"} component={p => <Link {...p} to={`/game/${game.id}`} />}>
 									<FaArrowAltCircleRight/>
 								</IconButton>
 							</CardActions>

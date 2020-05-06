@@ -357,7 +357,7 @@ class _GameManager
 		// Otherwise, make a new player
 		else
 		{
-			const newPlayer = _GameManager.createPlayer(playerGuid, nickname, isSpectating, isRandom);
+			const newPlayer = _GameManager.createPlayer(playerGuid, escape(nickname), isSpectating, isRandom);
 			if (isSpectating)
 			{
 				newGame.spectators[playerGuid] = newPlayer;
@@ -414,7 +414,13 @@ class _GameManager
 		if (targetGuid === ownerGuid)
 		{
 			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
-			newGame.ownerGuid = nonRandoms[0];
+			if(nonRandoms.length > 0)
+			{
+				newGame.ownerGuid = nonRandoms[0];
+			}
+			else{
+				throw new Error("You can't leave the game if you're the only player");
+			}
 		}
 
 		// If the owner deletes themselves, pick a new owner
@@ -665,7 +671,8 @@ class _GameManager
 		{
 			newGame.roundCardsCustom = {};
 		}
-		newGame.roundCardsCustom[playerGuid] = cards;
+		const sanitizedCards = cards.map(c => escape(c));
+		newGame.roundCardsCustom[playerGuid] = sanitizedCards;
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
 		await this.updateGame(newGame);

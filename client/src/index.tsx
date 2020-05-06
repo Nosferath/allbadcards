@@ -10,33 +10,46 @@ import {SimplePaletteColorOptions} from "@material-ui/core/styles";
 import ReactGA from "react-ga";
 import * as Sentry from "@sentry/browser";
 import CssBaseline from "@material-ui/core/CssBaseline";
+import {useDataStore} from "./Global/Utils/HookUtils";
+import {PreferencesDataStore} from "./Global/DataStore/PreferencesDataStore";
 
 require('es6-promise').polyfill();
 const promiseFinally = require('promise.prototype.finally');
 promiseFinally.shim();
 
-const primary: SimplePaletteColorOptions = {
-	main: "#000",
-	contrastText: "#FFFFFF",
-	dark: "#222",
-	light: "#EEE",
-};
-
-const secondary: SimplePaletteColorOptions = {
-	main: "#FFF",
-	contrastText: "#000",
-	dark: "#EEE",
-	light: "#222",
-};
-
-const savedTheme = localStorage.getItem("theme") as "light" | "dark";
-const setTheme = savedTheme ? savedTheme : "light";
-
-const theme = createMuiTheme({
+const lightTheme = createMuiTheme({
 	palette: {
-		primary,
-		secondary,
-		type: setTheme,
+		primary: {
+			main: "#FFF",
+			contrastText: "#000",
+			dark: "#CCC",
+			light: "#EEE",
+		},
+		secondary: {
+			main: "#000",
+			contrastText: "#FFF",
+			dark: "#111",
+			light: "#EEE",
+		},
+		type: "light",
+	},
+});
+
+const darkTheme = createMuiTheme({
+	palette: {
+		primary: {
+			main: "#000",
+			contrastText: "#FFF",
+			dark: "#111",
+			light: "#FFF",
+		},
+		secondary: {
+			main: "#FFF",
+			contrastText: "#000",
+			dark: "#CCC",
+			light: "#FFF",
+		},
+		type: "dark",
 	},
 });
 
@@ -74,12 +87,22 @@ ReactGA.initialize('UA-23730353-5', {
 });
 ReactGA.pageview(window.location.pathname + window.location.search);
 
+const ThemeWrapper: React.FC = (props) => {
+	const preferences = useDataStore(PreferencesDataStore);
+
+	return (
+		<MuiThemeProvider theme={preferences.darkMode ? darkTheme : lightTheme}>
+			{props.children}
+		</MuiThemeProvider>
+	);
+};
+
 ReactDOM.render(
 	<BrowserRouter>
-		<MuiThemeProvider theme={theme}>
+		<ThemeWrapper>
 			<CssBaseline/>
 			<App/>
-		</MuiThemeProvider>
+		</ThemeWrapper>
 	</BrowserRouter>
 	, document.getElementById('root'));
 

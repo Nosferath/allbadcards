@@ -1,13 +1,12 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, CardContent, CardMedia, Container, Dialog, DialogActions, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {IoMdVolumeHigh, IoMdVolumeOff, MdBugReport, MdPeople, MdSettings, MdShare, TiLightbulb} from "react-icons/all";
+import {FaPlus, IoMdVolumeHigh, IoMdVolumeOff, MdArrowUpward, MdBugReport, MdPeople, MdSettings, TiLightbulb} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
 import {Link, matchPath} from "react-router-dom";
-import {CopyGameLink} from "../UI/CopyGameLink";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import {useHistory} from "react-router";
 import {SiteRoutes} from "../Global/Routes/Routes";
@@ -18,12 +17,17 @@ import {useDataStore} from "../Global/Utils/HookUtils";
 import {ErrorDataStore} from "../Global/DataStore/ErrorDataStore";
 import {ErrorBoundary} from "./ErrorBoundary";
 import {BrowserUtils} from "../Global/Utils/BrowserUtils";
-import {createStyles, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameSettings} from "../Areas/Game/Components/GameSettings";
-import {MuteDataStore} from "../Global/DataStore/MuteDataStore";
+import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
+import {NicknameDialog} from "../UI/NicknameDialog";
+import {Platform} from "../Global/Platform/platform";
 
 const useStyles = makeStyles(theme => createStyles({
+	appBar: {
+		background: "black",
+		color: "white"
+	},
 	logoIcon: {
 		height: "2rem",
 		width: "auto",
@@ -43,19 +47,12 @@ const useStyles = makeStyles(theme => createStyles({
 		fontSize: "1.5rem"
 	},
 	logo: {
-		color: theme.palette.text.primary,
+		color: "white",
 		textDecoration: "none",
 		display: "flex",
 		alignItems: "center",
 		fontWeight: 700
 	},
-	appBar: {
-		padding: "0 1rem"
-	},
-	centerBar: {
-		display: "flex",
-		justifyContent: "center"
-	}
 }));
 
 const OuterContainer = styled(Container)({
@@ -69,15 +66,10 @@ const OuterContainer = styled(Container)({
 const App: React.FC = () =>
 {
 	const classes = useStyles();
-
 	const history = useHistory();
 
 	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
-	const isHome = history.location.pathname === "/";
-
-	const appBarClasses = classNames(classes.appBar, {
-		[classes.centerBar]: isHome
-	});
+	const appBarClasses = classNames(classes.appBar, {});
 
 	history.listen(() => BrowserUtils.scrollToTop());
 
@@ -116,40 +108,29 @@ const App: React.FC = () =>
 				<meta name="description" content={`Play Cards Against Humanity${familyEdition} online, for free! Over 10,000 cards in total. Play with friends over video chat, or in your house with your family. `}/>
 			</Helmet>
 			<OuterContainer>
-				<Paper elevation={10}>
-					<Container maxWidth={"lg"} style={{position: "relative", padding: 0, minHeight: "100vh"}}>
-						<CardMedia>
-							<AppBar color={"transparent"} position="static" elevation={0}>
-								<Toolbar className={appBarClasses}>
-									<Typography variant={mobile ? "body1" : "h5"}>
-										<Link to={"/"} className={classes.logo}>
-											{!isFamilyMode && <img className={classes.logoIcon} src={"/logo-small.png"}/>}
-											{isFamilyMode ? "(not) " : ""} all bad cards
-										</Link>
-									</Typography>
-									{isGame && (
-										<AppBarButtons/>
-									)}
-								</Toolbar>
-							</AppBar>
-						</CardMedia>
-						<CardContent style={{paddingTop: 0}}>
-							<ErrorBoundary>
-								<Routes/>
-							</ErrorBoundary>
-						</CardContent>
+				<AppBar className={classes.appBar} position="static" elevation={0}>
+					<Toolbar className={appBarClasses}>
+						<Typography variant={mobile ? "body1" : "h5"}>
+							<Link to={"/"} className={classes.logo}>
+								{!isFamilyMode && <img className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>}
+								{isFamilyMode ? "(not) " : ""} all bad cards
+							</Link>
+						</Typography>
+						{!isGame && (
+							<AppBarLeftButtons isFamilyMode={isFamilyMode}/>
+						)}
+						{isGame && (
+							<AppBarButtons/>
+						)}
+					</Toolbar>
+				</AppBar>
+				<Paper square style={{padding: "0 1rem"}}>
+					<Container maxWidth={"lg"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
+						<ErrorBoundary>
+							<Routes/>
+						</ErrorBoundary>
 					</Container>
-					<div style={{textAlign: "center"}}>
-						Dark Mode
-						<Switch
-							onChange={e =>
-							{
-								localStorage.setItem("theme", e.target.checked ? "dark" : "light");
-								location.reload();
-							}}
-							checked={localStorage.getItem("theme") === "dark"}
-						/>
-					</div>
+					<DarkModeSwitch/>
 					<div style={{textAlign: "center", padding: "0.5rem 0"}}>
 						<ButtonGroup style={{margin: "1rem 0 2rem"}}>
 							<Button
@@ -176,7 +157,11 @@ const App: React.FC = () =>
 							</Button>
 						</ButtonGroup>
 						<Typography>
-							&copy; {year}. Created by <a href={"http://jakelauer.com"} style={{color: "lightblue"}}>Jake Lauer</a> (<a style={{color: "lightblue"}} href={"https://reddit.com/u/HelloControl_"}>HelloControl_</a>)
+							&copy; {year}. Created by <a href={"http://jakelauer.com"}>Jake Lauer</a> (<a href={"https://reddit.com/u/HelloControl_"}>HelloControl_</a>)
+							<br/>
+							<br/>
+							Email me at <strong>allbadcards(at)gmail.com</strong>
+							<br/>
 						</Typography>
 					</div>
 				</Paper>
@@ -224,33 +209,35 @@ const Errors = () =>
 
 const AppBarButtons = () =>
 {
-	const muteData = useDataStore(MuteDataStore);
+	const preferences = useDataStore(PreferencesDataStore);
 	const gameData = useDataStore(GameDataStore);
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
 	const [settingsOpen, setSettingsOpen] = useState(false);
 
-	const muteLabel = muteData.muted ? "Unmute" : "Mute";
+	const muteLabel = preferences.muted ? "Unmute" : "Mute";
+
+	const buttonColor = preferences.darkMode ? "secondary" : "primary";
 
 	return (
 		<>
 			<Tooltip title={`${muteLabel} game sounds`} arrow>
-				<Button aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => MuteDataStore.setMute(!muteData.muted)}>
-					{muteData.muted && (
-						<IoMdVolumeOff />
+				<Button color={buttonColor} aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => PreferencesDataStore.setMute(!preferences.muted)}>
+					{preferences.muted && (
+						<IoMdVolumeOff/>
 					)}
-					{!muteData.muted && (
-						<IoMdVolumeHigh />
+					{!preferences.muted && (
+						<IoMdVolumeHigh/>
 					)}
 				</Button>
 			</Tooltip>
 			<Tooltip title={"Scoreboard"} arrow>
-				<Button aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
+				<Button color={buttonColor} aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
 					<MdPeople/>
 				</Button>
 			</Tooltip>
 			<Tooltip title={"Game settings"} arrow>
-				<Button aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
+				<Button color={buttonColor} aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
 					<MdSettings/>
 				</Button>
 			</Tooltip>
@@ -277,9 +264,79 @@ const AppBarButtons = () =>
 					If this behavior continues, please <a target={"_blank"} href={"https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md"}>click here</a> to report it.
 				</DialogContent>
 				<DialogActions>
-					<Button color={"primary"} variant={"outlined"} onClick={() => GameDataStore.reconnect()}>Retry</Button>
+					<Button color={"secondary"} variant={"outlined"} onClick={() => GameDataStore.reconnect()}>Retry</Button>
 				</DialogActions>
 			</Dialog>
+		</>
+	);
+};
+
+const DarkModeSwitch = () =>
+{
+	const preferences = useDataStore(PreferencesDataStore);
+
+	return (
+		<div style={{textAlign: "center", marginTop: "1rem"}}>
+			Dark Mode
+			<Switch
+				onChange={e => PreferencesDataStore.setDarkMode(e.target.checked)}
+				checked={preferences.darkMode}
+			/>
+		</div>
+	)
+};
+
+const AppBarLeftButtons: React.FC<{isFamilyMode: boolean}> = (props) =>
+{
+	const history = useHistory();
+	const preferences = useDataStore(PreferencesDataStore);
+	const userData = useDataStore(UserDataStore);
+	const [nicknameDialogOpen, setNicknameDialogOpen] = useState(false);
+
+	const onNicknameConfirm = async (nickname: string) =>
+	{
+		GameDataStore.clear();
+		const game = await Platform.createGame(userData.playerGuid, nickname);
+		GameDataStore.storeOwnedGames(game);
+		history.push(`/game/${game.id}`)
+	};
+
+	const mobile = useMediaQuery('(max-width:600px)');
+	if(mobile)
+	{
+		return null;
+	}
+
+	return (
+		<>
+			<Button
+				variant="contained"
+				color={preferences.darkMode ? "secondary" : "primary"}
+				size="small"
+				style={{marginLeft: "2rem"}}
+				onClick={() => setNicknameDialogOpen(true)}
+				startIcon={<FaPlus/>}
+			>
+				New Game
+			</Button>
+			{!props.isFamilyMode && (
+				<Button
+					variant="outlined"
+					color={preferences.darkMode ? "secondary" : "primary"}
+					size="small"
+					style={{marginLeft: "1rem"}}
+					component={p => <Link to={"/games"} {...p} />}
+					startIcon={<MdArrowUpward/>}
+				>
+					Join Game
+				</Button>
+			)}
+			<NicknameDialog
+				open={nicknameDialogOpen}
+				onClose={() => setNicknameDialogOpen(false)}
+				onConfirm={onNicknameConfirm}
+				title={"Please enter your nickname:"}
+			/>
 		</>
 	);
 };

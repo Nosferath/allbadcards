@@ -31,16 +31,16 @@ export const PlayersRemaining = () =>
 	const remainingPlayerGuids = Object.keys(players ?? {})
 		.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
 
-	const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+	const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 	const chooserIsMe = userData.playerGuid === chooserGuid;
-	const chooser = chooserIsMe ? "You!" : players?.[chooserGuid!]?.nickname;
+	const chooser = chooserIsMe ? "You!" : unescape(players?.[chooserGuid!]?.nickname);
 
 	const hasWinner = !!gameData.game?.lastWinner;
 
 	return (
 		<>
 			<Chip
-				color={"primary"}
+				color={"secondary"}
 				style={{marginBottom: 3, paddingLeft: 8}}
 				icon={<AiFillCrown/>}
 				label={chooser}
@@ -54,7 +54,7 @@ export const PlayersRemaining = () =>
 			))}
 			{!hasWinner && remainingPlayers.length === 0 && (
 				<Typography variant={"body1"} style={{marginTop: "0.5rem"}}>
-					{`Waiting for ${players?.[chooserGuid ?? ""]?.nickname} to pick the winner.`}
+					{`Waiting for ${unescape(players?.[chooserGuid ?? ""]?.nickname)} to pick the winner.`}
 				</Typography>
 			)}
 		</>

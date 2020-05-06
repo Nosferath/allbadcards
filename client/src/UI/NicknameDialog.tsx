@@ -79,13 +79,14 @@ export class NicknameDialog extends React.Component<Props, State>
 						id="name"
 						label="Nickname"
 						type="nickname"
+						color={"secondary"}
 						onChange={this.onChange}
 						onKeyPress={this.onEnter}
 						fullWidth
 					/>
 				</DialogContent>
 				<DialogActions>
-					<Button onClick={this.onConfirm} color="primary">
+					<Button onClick={this.onConfirm} color="secondary" variant={"contained"}>
 						Confirm
 					</Button>
 				</DialogActions>

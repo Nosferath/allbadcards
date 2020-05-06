@@ -113,7 +113,7 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 				<div>
 					<div>
 						<br/>
-						<Button variant={"contained"} color={"primary"} style={{color: "white"}} onClick={this.openEmail}>
+						<Button variant={"contained"} color={"secondary"} style={{color: "white"}} onClick={this.openEmail}>
 							Please click here to send an error report
 						</Button>
 					</div>

@@ -118,7 +118,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 		const remainingPlayerGuids = Object.keys(players ?? {})
 			.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
 
-		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 
 		const revealedIndex = this.state.gameData.game?.revealIndex ?? 0;
 		const timeToPick = remainingPlayers.length === 0;
@@ -152,10 +152,10 @@ export class GamePlayBlack extends React.Component<Props, State>
 				</Grid>
 				{!roundStarted && (
 					<div style={{marginTop: "1rem", textAlign: "center"}}>
-						<LoadingButton loading={buttonLoading} color={"primary"} variant={"outlined"} onClick={this.onClickSkipBlack}>
+						<LoadingButton loading={buttonLoading} color={"secondary"} variant={"outlined"} onClick={this.onClickSkipBlack}>
 							Skip Card
 						</LoadingButton>
-						<LoadingButton loading={buttonLoading} color={"primary"} variant={"contained"} onClick={this.onClickStartRound} style={{marginLeft: "1rem"}}>
+						<LoadingButton loading={buttonLoading} color={"secondary"} variant={"contained"} onClick={this.onClickStartRound} style={{marginLeft: "1rem"}}>
 							Start the round!
 						</LoadingButton>
 					</div>

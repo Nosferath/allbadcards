@@ -4,10 +4,11 @@ import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
-import {CardId, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
+import {CardId, GameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
+import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -134,6 +135,14 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		);
 
 		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
+	}
+
+	public storeOwnedGames(game: GameItem)
+	{
+		const gamesOwnedString = localStorage.getItem(gamesOwnedLsKey) ?? "[]";
+		const gamesOwned = JSON.parse(gamesOwnedString) as string[];
+		gamesOwned.push(game.id);
+		localStorage.setItem(gamesOwnedLsKey, JSON.stringify(gamesOwned));
 	}
 
 	public clear()

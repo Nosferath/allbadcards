@@ -78,7 +78,7 @@ export const GameSettings = () =>
 						</ListItemAvatar>
 						<ListItemText primary={"General"} secondary={"General settings"}/>
 						<ListItemSecondaryAction style={{right: 0}}>
-							<IconButton color={"primary"} onClick={() => setGeneralSettingsVisible(true)}>
+							<IconButton color={"secondary"} onClick={() => setGeneralSettingsVisible(true)}>
 								<MdEdit/>
 							</IconButton>
 						</ListItemSecondaryAction>
@@ -91,7 +91,7 @@ export const GameSettings = () =>
 						</ListItemAvatar>
 						<ListItemText primary={"Gameplay"} secondary={"Change how the game is played"}/>
 						<ListItemSecondaryAction style={{right: 0}}>
-							<IconButton color={"primary"} onClick={() => setGameSettingsVisible(true)}>
+							<IconButton color={"secondary"} onClick={() => setGameSettingsVisible(true)}>
 								<MdEdit/>
 							</IconButton>
 						</ListItemSecondaryAction>
@@ -104,7 +104,7 @@ export const GameSettings = () =>
 						</ListItemAvatar>
 						<ListItemText primary={"Main Card Packs"} secondary={"Pick from official and third-party card packs for your game"}/>
 						<ListItemSecondaryAction style={{right: 0}}>
-							<IconButton color={"primary"} onClick={() => setMainPackSettingsVisible(true)}>
+							<IconButton color={"secondary"} onClick={() => setMainPackSettingsVisible(true)}>
 								<MdEdit/>
 							</IconButton>
 						</ListItemSecondaryAction>
@@ -121,7 +121,7 @@ export const GameSettings = () =>
 							</span>
 						}/>
 						<ListItemSecondaryAction style={{right: 0}}>
-							<IconButton color={"primary"} onClick={() => setCustomPackSettingsVisible(true)}>
+							<IconButton color={"secondary"} onClick={() => setCustomPackSettingsVisible(true)}>
 								<MdEdit/>
 							</IconButton>
 						</ListItemSecondaryAction>
@@ -135,7 +135,7 @@ export const GameSettings = () =>
 				</DialogContent>
 				<Divider/>
 				<DialogActions>
-					<Button onClick={() => setGeneralSettingsVisible(false)} color="primary">
+					<Button onClick={() => setGeneralSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
@@ -148,7 +148,7 @@ export const GameSettings = () =>
 				</DialogContent>
 				<Divider/>
 				<DialogActions>
-					<Button onClick={() => setGameSettingsVisible(false)} color="primary">
+					<Button onClick={() => setGameSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
@@ -161,7 +161,7 @@ export const GameSettings = () =>
 				</DialogContent>
 				<Divider/>
 				<DialogActions>
-					<Button onClick={() => setMainPackSettingsVisible(false)} color="primary">
+					<Button onClick={() => setMainPackSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
@@ -174,7 +174,7 @@ export const GameSettings = () =>
 				</DialogContent>
 				<Divider/>
 				<DialogActions>
-					<Button onClick={() => setCustomPackSettingsVisible(false)} color="primary">
+					<Button onClick={() => setCustomPackSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>

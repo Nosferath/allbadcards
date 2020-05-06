@@ -161,7 +161,7 @@ export class ShowWinner extends React.Component<Props, State>
 						<WhiteCard>
 							{winnerCards.map(card => card && (
 								<>
-									<div dangerouslySetInnerHTML={{__html: sanitize(card)}}/>
+									<div dangerouslySetInnerHTML={{__html: sanitize(unescape(card))}}/>
 									<Divider/>
 								</>
 							))}
@@ -183,7 +183,7 @@ export class ShowWinner extends React.Component<Props, State>
                                             />
 										}
 										size={"large"}
-										color={"primary"}
+										color={"secondary"}
 										variant={"contained"}
 										onClick={this.roundStartClick}
 										disabled={this.state.beforeContinueRemaining > 0}
@@ -210,7 +210,7 @@ export class ShowWinner extends React.Component<Props, State>
 					)}
 					<Divider style={{margin: "1rem 0"}}/>
 					<Typography variant={"h4"}>
-						Winner: {winner?.nickname}!
+						Winner: {unescape(winner?.nickname)}!
 					</Typography>
 					<div style={{marginTop: "1rem"}}>
 						<Typography>Scoreboard</Typography>
@@ -228,7 +228,7 @@ export class ShowWinner extends React.Component<Props, State>
 										</ListItemAvatar>
 										<ListItemText>
 											<Typography>
-												{game?.players[pg].nickname}
+												{unescape(game?.players[pg].nickname)}
 											</Typography>
 										</ListItemText>
 									</ListItem>

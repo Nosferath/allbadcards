@@ -80,17 +80,9 @@ class GameDashboard extends React.Component<Props, State>
 		this.setState({
 			createLoading: false
 		});
-		this.storeOwnedGames(game);
+		GameDataStore.storeOwnedGames(game);
 		this.props.history.push(`/game/${game.id}`)
 	};
-
-	private storeOwnedGames(game: GameItem)
-	{
-		const gamesOwnedString = localStorage.getItem(gamesOwnedLsKey) ?? "[]";
-		const gamesOwned = JSON.parse(gamesOwnedString) as string[];
-		gamesOwned.push(game.id);
-		localStorage.setItem(gamesOwnedLsKey, JSON.stringify(gamesOwned));
-	}
 
 	public render()
 	{
@@ -98,22 +90,15 @@ class GameDashboard extends React.Component<Props, State>
 
 		return (
 			<Container style={{textAlign: "center"}}>
-				<Typography>the best cards against humanity clone!</Typography>
+				<Typography variant={"h1"} style={{opacity: 0, height: 0}}>the best cards against humanity online experience!</Typography>
+				<Typography variant={mobile ? "h5" : "h3"}>the best cards against humanity online experience!</Typography>
 
 				{GameDataStore.state.familyMode && (
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>Family-friendly edition!</Typography>
 				)}
+
 				<img style={{width: "50%", margin: "2rem auto", maxWidth: "13rem"}} src={"/logo-large.png"}/>
 
-				<Typography variant={"h4"}>Click "New Game" to start playing now!</Typography>
-
-				{!GameDataStore.state.familyMode && (
-					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "1rem"}}>
-						<Button href={"https://not.allbad.cards"}>
-							Family Edition &nbsp; <MdArrowForward/>
-						</Button>
-					</ButtonGroup>
-				)}
 				<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
 					<ButtonGroup orientation={mobile ? "vertical" : "horizontal"}>
 						{!GameDataStore.state.familyMode && (
@@ -122,7 +107,7 @@ class GameDashboard extends React.Component<Props, State>
 								color="default"
 								size="large"
 								style={{
-									fontSize: "1.5rem"
+									fontSize: "2rem"
 								}}
 								component={p => <Link to={"/games"} {...p} />}
 								startIcon={<MdArrowUpward/>}
@@ -133,10 +118,10 @@ class GameDashboard extends React.Component<Props, State>
 						<LoadingButton
 							loading={this.state.createLoading}
 							variant="contained"
-							color="primary"
+							color="secondary"
 							size="large"
 							style={{
-								fontSize: "1.5rem"
+								fontSize: "2rem"
 							}}
 							onClick={this.createGame}
 							startIcon={<FaPlus/>}
@@ -145,6 +130,13 @@ class GameDashboard extends React.Component<Props, State>
 						</LoadingButton>
 					</ButtonGroup>
 				</ButtonGroup>
+				{!GameDataStore.state.familyMode && (
+					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
+						<Button href={"https://not.allbad.cards"}>
+							Family-Friendly Version &nbsp; <MdArrowForward/>
+						</Button>
+					</ButtonGroup>
+				)}
 				<NicknameDialog
 					open={this.state.nicknameDialogOpen}
 					onClose={this.onNicknameClose}
@@ -188,9 +180,9 @@ class GameDashboard extends React.Component<Props, State>
 						</Grid>
 					</Grid>
 				</Paper>
-				<Paper style={{padding: "1rem", marginTop: "3rem"}} elevation={5}>
+				<Paper style={{padding: "1rem", marginTop: "3rem"}}>
 					<Typography variant={"caption"}>
-						Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"} style={{color: "lightblue"}}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
+						Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
 					</Typography>
 				</Paper>
 			</Container>

@@ -100,9 +100,6 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			familyOnly: true
 		},
 		undefined,
-		undefined,
-		undefined,
-		undefined
 	];
 
 	const sponsorsToUse = props.familyMode
@@ -137,7 +134,7 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 						<Card style={{maxWidth: "30rem", margin: "4rem auto 0"}} elevation={7}>
 							<CardMedia style={{paddingTop: "22.66667%"}} image={"/sponsors/shl.png"}/>
 							<CardContent>
-								<div style={{color: "blue"}}>
+								<div style={{color: "#3090FF"}}>
 									senahugheslauer.com
 								</div>
 								<Typography>

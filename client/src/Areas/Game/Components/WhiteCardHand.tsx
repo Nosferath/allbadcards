@@ -92,7 +92,7 @@ export const WhiteCardHand: React.FC<Props> =
 								<>
 									<Button
 										variant={"contained"}
-										color={"primary"}
+										color={"secondary"}
 										disabled={metPickTarget || !!pickedCards.find(c => deepEqual(c, cardId))}
 										onClick={() => onPick(cardId)}
 									>
@@ -100,7 +100,7 @@ export const WhiteCardHand: React.FC<Props> =
 									</Button>
 									<Button
 										variant={"contained"}
-										color={"primary"}
+										color={"secondary"}
 										disabled={!pickedCards.find(c => deepEqual(c, cardId))}
 										onClick={() => onUnpick(cardId)}
 									>
@@ -109,7 +109,7 @@ export const WhiteCardHand: React.FC<Props> =
 								</>
 							)}
 						>
-							<div dangerouslySetInnerHTML={{__html: sanitize(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "")}}/>
+							<div dangerouslySetInnerHTML={{__html: sanitize(unescape(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""))}}/>
 						</WhiteCard>
 					)}
 				</Grid>
@@ -117,13 +117,6 @@ export const WhiteCardHand: React.FC<Props> =
 		});
 
 		return <>
-			<div style={{width: "100%", textAlign: "center", margin: "0.5rem 0"}}>
-				<strong>Time to pick a card (or cards!)</strong>
-				<br/>
-				Try to make the funniest combination between your cards and the black card.
-				<br/>
-				What will make the Czar laugh the most?
-			</div>
 			<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
 				{renderedHand}
 			</Grid>

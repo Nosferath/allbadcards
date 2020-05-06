@@ -80,11 +80,11 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 		<GamePreview id={props.id}>
 			{!joined && (
 				<>
-					<LoadingButton loading={joinLoading} variant={"contained"} color={"primary"} onClick={onJoinClick}>
+					<LoadingButton loading={joinLoading} variant={"contained"} color={"secondary"} onClick={onJoinClick}>
 						Join
 					</LoadingButton>
 
-					<LoadingButton loading={specLoading} variant={"contained"} color={"primary"} onClick={onSpectate} style={{marginLeft: "1rem"}}>
+					<LoadingButton loading={specLoading} variant={"contained"} color={"secondary"} onClick={onSpectate} style={{marginLeft: "1rem"}}>
 						Spectate
 					</LoadingButton>
 

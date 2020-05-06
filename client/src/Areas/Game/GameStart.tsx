@@ -62,7 +62,7 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 		<GamePreview id={props.id}>
 			<Tooltip placement={"top"} arrow title={canStart ? "Start the game!" : "You must have one more human player to start the game."} >
 				<span>
-					<LoadingButton loading={startLoading} variant={"contained"} color={"primary"} onClick={onClickStart}
+					<LoadingButton loading={startLoading} variant={"contained"} color={"secondary"} onClick={onClickStart}
 					               disabled={!canStart} style={{pointerEvents: "auto"}}>
 						Start
 					</LoadingButton>
@@ -74,7 +74,7 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 						loading={startLoading || randomPlayerLoading}
 						startIcon={<MdAdd/>}
 						variant={"contained"}
-						color={"primary"}
+						color={"secondary"}
 						onClick={onClickAddRandom}
 						style={{marginLeft: "1rem"}}
 						disabled={!canAddRandom}>

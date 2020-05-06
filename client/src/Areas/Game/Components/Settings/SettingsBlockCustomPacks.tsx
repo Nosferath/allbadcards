@@ -49,8 +49,8 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 	return (
 		<>
 			<div>
-				<TextField value={cardCastDeckCode} style={{margin: "0 1rem 1rem 0"}} size={"small"} onChange={e => setCardCastDeckCode(e.target.value)} id="outlined-basic" label="CardCast Deck Code" variant="outlined"/>
-				<Button variant={"contained"} color={"primary"} onClick={onAddCardCastDeck} disabled={cardCastDeckCode.length !== 5 && !cardCastDeckCode.includes(",")}>
+				<TextField color={"secondary"} value={cardCastDeckCode} style={{margin: "0 1rem 1rem 0"}} size={"small"} onChange={e => setCardCastDeckCode(e.target.value)} id="outlined-basic" label="CardCast Deck Code" variant="outlined"/>
+				<Button variant={"contained"} color={"secondary"} onClick={onAddCardCastDeck} disabled={cardCastDeckCode.length !== 5 && !cardCastDeckCode.includes(",")}>
 					Add Deck
 				</Button>
 				<Typography variant={"subtitle2"}>
@@ -77,7 +77,7 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 									<ListItem>
 										<ListItemText>{packDef.name}</ListItemText>
 										<ListItemSecondaryAction>
-											<IconButton color={"primary"} onClick={() => removeCardCastDeck(packId)}>
+											<IconButton color={"secondary"} onClick={() => removeCardCastDeck(packId)}>
 												<MdDelete/>
 											</IconButton>
 										</ListItemSecondaryAction>
@@ -91,7 +91,7 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 				null
 			}
 			{gameData.cardcastPacksLoading && (
-				<LinearProgress color="primary"/>
+				<LinearProgress color="secondary"/>
 			)}
 		</>
 	);

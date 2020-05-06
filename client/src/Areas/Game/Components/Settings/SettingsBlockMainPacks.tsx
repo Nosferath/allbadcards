@@ -81,7 +81,7 @@ export const SettingsBlockMainPacks = () =>
 						<ListItemSecondaryAction>
 							<Switch
 								edge="end"
-								color={"primary"}
+								color={"secondary"}
 								onChange={onPacksChange}
 								name={pack.packId}
 								checked={gameData.ownerSettings.includedPacks.indexOf(pack.packId) > -1}

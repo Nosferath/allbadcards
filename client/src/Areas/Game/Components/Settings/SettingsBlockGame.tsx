@@ -99,7 +99,7 @@ const MakePrivate: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"isPublic"}
 						checked={gameData.ownerSettings.public}
@@ -128,7 +128,7 @@ const CustomWhites: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"isPublic"}
 						disabled={gameData.game?.started}
@@ -164,6 +164,7 @@ const RoundsRequiredField: React.FC<IGameDataProps> = ({
 					onChange={onChange}
 					aria-labelledby="discrete-slider"
 					valueLabelDisplay="auto"
+					color={"secondary"}
 					step={1}
 					marks
 					min={1}
@@ -197,6 +198,7 @@ const PlayerLimitField: React.FC<IGameDataProps> = ({
 					onChange={onChange}
 					aria-labelledby="discrete-slider"
 					valueLabelDisplay="auto"
+					color={"secondary"}
 					step={1}
 					marks
 					min={3}
@@ -223,7 +225,7 @@ const WinnerBecomesCzar: React.FC<IGameDataProps> = ({
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"winnerBecomesCzar"}
 						checked={gameData.ownerSettings.winnerBecomesCzar}
@@ -250,7 +252,7 @@ const HideDuringReveal: React.FC<IGameDataProps> = ({
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"hideDuringReveal"}
 						checked={gameData.ownerSettings.hideDuringReveal}
@@ -279,7 +281,7 @@ const SkipReveal: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"hideDuringReveal"}
 						checked={gameData.ownerSettings.skipReveal}

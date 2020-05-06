@@ -11,6 +11,7 @@ import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import Switch from "@material-ui/core/Switch";
 import List from "@material-ui/core/List";
+import Button from "@material-ui/core/Button";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
@@ -63,7 +64,7 @@ const UrlField: React.FC<IGameDataProps> = ({
 			<FormControl component="fieldset" style={{width: "100%"}}>
 				<Typography>Chat / Video invite URL</Typography>
 				<Typography style={{marginBottom: "0.5rem"}} variant={"caption"}>Allow players to easily join your video chat by adding an invite URL</Typography>
-				<TextField value={url} label="URL" variant="outlined" onChange={(e) => setOuter(e.target.value)} error={invalid}/>
+				<TextField color={"secondary"} value={url} label="URL" variant="outlined" onChange={(e) => setOuter(e.target.value)} error={invalid}/>
 			</FormControl>
 		</ListItem>
 	);
@@ -87,7 +88,7 @@ const MakePrivate: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"isPublic"}
 						checked={gameData.ownerSettings.public}
@@ -116,7 +117,7 @@ const CustomWhites: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"isPublic"}
 						checked={gameData.ownerSettings.public}
@@ -210,7 +211,7 @@ const WinnerBecomesCzar: React.FC<IGameDataProps> = ({
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"winnerBecomesCzar"}
 						checked={gameData.ownerSettings.winnerBecomesCzar}
@@ -237,7 +238,7 @@ const HideDuringReveal: React.FC<IGameDataProps> = ({
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"hideDuringReveal"}
 						checked={gameData.ownerSettings.hideDuringReveal}
@@ -266,7 +267,7 @@ const SkipReveal: React.FC<IGameDataProps> = (
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"
-						color={"primary"}
+						color={"secondary"}
 						onChange={onChange}
 						name={"hideDuringReveal"}
 						checked={gameData.ownerSettings.skipReveal}

@@ -23,6 +23,7 @@ import DialogContent from "@material-ui/core/DialogContent";
 import {SettingsBlockCustomPacks} from "./Components/Settings/SettingsBlockCustomPacks";
 import Button from "@material-ui/core/Button";
 import {WhiteCardHandCustom} from "./Components/WhiteCardHandCustom";
+import {Instructions} from "./Components/Instructions";
 
 interface IGamePlayWhiteProps
 {
@@ -250,7 +251,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 		const remainingPlayerGuids = Object.keys(players ?? {})
 			.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
-		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 
 		const hasPlayed = userData.playerGuid in roundCards || userData.playerGuid in (roundCardsCustom ?? {});
 		const hasWinner = !!gameData.game?.lastWinner;
@@ -266,7 +267,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 		let czar = "the Card Czar";
 		if (chooserGuid)
 		{
-			czar = gameData.game.players[chooserGuid].nickname;
+			czar = unescape(gameData.game.players[chooserGuid].nickname);
 		}
 
 		return (
@@ -288,6 +289,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 					<ShowWinner/>
 				</Grid>
 				<Divider style={{margin: "1rem 0"}}/>
+				<Instructions/>
 				{!hasWinner && roundStarted && !revealMode && (
 					<Grid container spacing={2}>
 						{gameData.game?.settings.customWhites ? (
@@ -313,7 +315,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 													loading={suckButtonLoading}
 													size={"large"}
 													variant={"contained"}
-													color={"primary"}
+													color={"secondary"}
 													disabled={hasPlayed || revealMode || !roundStarted || !canUseMyCardsSuck}
 													onClick={this.showForfeitConfirm}
 													style={{
@@ -345,7 +347,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 							loading={playButtonLoading}
 							size={"large"}
 							variant={"contained"}
-							color={"primary"}
+							color={"secondary"}
 							onClick={customWhites ? this.onCommitCustom : this.onCommit}
 						>
 							Play
@@ -361,10 +363,10 @@ export class GamePlayWhite extends React.Component<Props, State>
 					</DialogContent>
 					<Divider/>
 					<DialogActions>
-						<Button onClick={this.hideForfeitConfirm} color="primary" variant={"outlined"}>
+						<Button onClick={this.hideForfeitConfirm} color="secondary" variant={"outlined"}>
 							Cancel
 						</Button>
-						<Button onClick={this.onForfeit} color="primary" variant={"contained"}>
+						<Button onClick={this.onForfeit} color="secondary" variant={"contained"}>
 							Confirm
 						</Button>
 					</DialogActions>

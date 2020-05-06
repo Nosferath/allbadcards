@@ -27,7 +27,7 @@ export const Support = () =>
 	const thankYous = [
 		<Button
 			variant={"contained"}
-			color={"primary"}
+			color={"secondary"}
 			style={{color: "white", textDecoration: "none", marginTop: "1rem", backgroundColor: "#058dc7"}}
 			startIcon={<Twemoji text={"☕"}/>}
 			onClick={() => Platform.trackEvent("support-link-click", "kofi")}
@@ -45,7 +45,7 @@ export const Support = () =>
 		</a>,
 		<Button
 			variant={"contained"}
-			color={"primary"}
+			color={"secondary"}
 			style={{color: "white", textDecoration: "none", marginTop: "1rem", backgroundColor: "#058dc7"}}
 			startIcon={<Twemoji text={"☕"}/>}
 			onClick={() => Platform.trackEvent("support-link-click", "bmac-coffee")}

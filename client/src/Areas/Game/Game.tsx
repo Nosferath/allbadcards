@@ -145,7 +145,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const isChooser = playerGuid === chooserGuid;
 		const amInGame = playerGuid in (players ?? {});
 		const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
-		const title = `${owner?.nickname}'s game`;
+		const title = `${unescape(owner?.nickname ?? "")}'s game`;
 
 		const playerGuids = Object.keys(players ?? {});
 		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
@@ -205,7 +205,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
 						<DialogContent style={{padding: "2rem"}}>
 							<Typography variant={"h4"} style={{textAlign: "center"}}>
-								Game over! {players?.[winnerGuid].nickname} is the winner.
+								Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
 							</Typography>
 
 							<Support/>
@@ -215,7 +215,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 									marginTop: "7rem",
 									textAlign: "center"
 								}}>
-									<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"primary"} onClick={() => this.restartClick(playerGuid)}>
+									<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"secondary"} onClick={() => this.restartClick(playerGuid)}>
 										Restart this game?
 									</LoadingButton>
 								</div>

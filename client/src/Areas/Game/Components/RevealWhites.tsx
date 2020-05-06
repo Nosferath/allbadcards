@@ -95,7 +95,7 @@ export class RevealWhites extends React.Component <Props, State>
 		const roundPlayers = Object.keys(cardBucket ?? {});
 		const remainingPlayerGuids = Object.keys(players ?? {})
 			.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
-		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 		const realRevealIndex = revealIndex ?? -1;
 		const revealedIndex = realRevealIndex % roundPlayers.length;
 		const playerGuidAtIndex = roundPlayerOrder[isNaN(revealedIndex) ? 0 : revealedIndex];
@@ -123,12 +123,12 @@ export class RevealWhites extends React.Component <Props, State>
 						<WhiteCard key={revealedIndex} style={{marginBottom: "0.5rem"}}>
 							{cardsRevealed.map(card => card && (
 								<>
-									<div dangerouslySetInnerHTML={{__html: sanitize(card)}}/>
+									<div dangerouslySetInnerHTML={{__html: sanitize(unescape(card))}}/>
 									<Divider style={{margin: "1rem 0"}}/>
 								</>
 							))}
 							{this.props.canReveal && (
-								<LoadingButton loading={revealLoading} color={"primary"} variant={"contained"} onClick={this.onReveal}>
+								<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
 									{label}
 								</LoadingButton>
 							)}
@@ -139,7 +139,7 @@ export class RevealWhites extends React.Component <Props, State>
 					<Typography>Revealed: {realRevealIndex + 1} / {totalCardLength}</Typography>
 				)}
 				{realRevealIndex === -1 && this.props.canReveal && (
-					<LoadingButton loading={revealLoading} color={"primary"} variant={"contained"} onClick={this.onReveal}>
+					<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
 						Show me the cards!
 					</LoadingButton>
 				)}

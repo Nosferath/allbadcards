@@ -7,22 +7,25 @@ import React, {useEffect, useState} from "react";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
 import {Dialog, DialogActions, DialogContent, DialogTitle, ListItemSecondaryAction} from "@material-ui/core";
 import Button from "@material-ui/core/Button";
-import {makeStyles} from "@material-ui/styles";
+import {createStyles} from "@material-ui/styles";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import {Platform} from "../../../Global/Platform/platform";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import Avatar from "@material-ui/core/Avatar";
 import Typography from "@material-ui/core/Typography";
-import {ContainerProgress} from "../../../UI/ContainerProgress";
 import Tooltip from "@material-ui/core/Tooltip";
 import {GamePayload} from "../../../Global/Platform/Contract";
+import makeStyles from "@material-ui/core/styles/makeStyles";
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
 		minWidth: 0,
 		fontSize: "1.5rem",
 	},
-});
+	avatarText: {
+		color: theme.palette.secondary.contrastText
+	}
+}));
 
 const getPlayerOrPending = (game: GamePayload | undefined, guid: string) =>
 {
@@ -92,12 +95,12 @@ export const GameRoster = () =>
 								{game.started && (
 									<ListItemAvatar>
 										<Avatar>
-											<strong style={{color: "black"}}>{player?.wins}</strong>
+											<strong className={classes.avatarText}>{player?.wins}</strong>
 										</Avatar>
 									</ListItemAvatar>
 								)}
 								<ListItemText>
-									{player.nickname}
+									{unescape(player.nickname)}
 									{player.guid === gameData.game?.ownerGuid && <>
                                         <span> (Owner)</span>
                                     </>}
@@ -130,11 +133,11 @@ export const GameRoster = () =>
 				<DialogTitle>Confirm</DialogTitle>
 				{!!kickCandidate && (
 					<DialogContent>
-						Are you sure you want to remove {gameData.game?.players?.[kickCandidate]?.nickname} from this game?
+						Are you sure you want to remove {unescape(gameData.game?.players?.[kickCandidate]?.nickname)} from this game?
 					</DialogContent>
 				)}
 				<DialogActions>
-					<Button variant={"contained"} color={"primary"} onClick={onKickConfirm}>Kick em!</Button>
+					<Button variant={"contained"} color={"secondary"} onClick={onKickConfirm}>Kick em!</Button>
 				</DialogActions>
 			</Dialog>
 		</div>

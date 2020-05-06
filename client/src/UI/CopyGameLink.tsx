@@ -19,6 +19,11 @@ const useStyles = makeStyles(theme => createStyles({
 		"&:hover": {
 			textDecoration: "underline"
 		}
+	},
+	chipButton: {
+		width: 75,
+		color: `${theme.palette.secondary.contrastText} !important`,
+		backgroundColor: theme.palette.secondary.main
 	}
 }));
 
@@ -59,6 +64,7 @@ export const CopyGameLink: React.FC<ICopyGameLinkProps> = (props) =>
 			</Typography>
 			<br/>
 			<Chip
+				style={{maxWidth: "100%"}}
 				variant={"outlined"}
 				label={
 					<a href={fullLink} className={classes.link}>
@@ -73,7 +79,8 @@ export const CopyGameLink: React.FC<ICopyGameLinkProps> = (props) =>
 						<Chip
 							color={"primary"}
 							label={shareLabel}
-							style={{width: 75, color: "white"}}
+							style={{width: 75}}
+							classes={{root: classes.chipButton}}
 						/>
 					</CopyToClipboard>
 				}
