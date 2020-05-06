@@ -22,6 +22,7 @@ import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import {SettingsBlockCustomPacks} from "./Components/Settings/SettingsBlockCustomPacks";
 import Button from "@material-ui/core/Button";
+import {WhiteCardHandCustom} from "./Components/WhiteCardHandCustom";
 
 interface IGamePlayWhiteProps
 {
@@ -40,6 +41,7 @@ interface IGamePlayWhiteState
 	userData: IUserData;
 	didForfeit: boolean;
 	pickedCards: CardId[];
+	pickedCardsCustom: string[];
 	canUseMyCardsSuck: boolean;
 	suckButtonLoading: boolean,
 	playButtonLoading: boolean,
@@ -58,6 +60,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 			suckButtonLoading: false,
 			playButtonLoading: false,
 			pickedCards: [],
+			pickedCardsCustom: [],
 			cardsSuckVisible: false,
 			didForfeit: false,
 			canUseMyCardsSuck: this.determineCanUseMyCardsSuck(GameDataStore.state.game?.roundIndex ?? 0, GameDataStore.state.game?.id)
@@ -135,10 +138,37 @@ export class GamePlayWhite extends React.Component<Props, State>
 		BrowserUtils.scrollToTop();
 	};
 
+	private onCommitCustom = () =>
+	{
+		const hasSelected = this.state.userData.playerGuid in (this.state.gameData.game?.roundCardsCustom ?? {});
+		if (hasSelected)
+		{
+			return;
+		}
+
+		this.setState({
+			playButtonLoading: true
+		});
+
+		GameDataStore.playCustomCards(this.state.pickedCardsCustom, this.state.userData.playerGuid)
+			.finally(() => this.setState({
+				playButtonLoading: false
+			}));
+
+		BrowserUtils.scrollToTop();
+	};
+
 	private onPickUpdate = (pickedCards: CardId[]) =>
 	{
 		this.setState({
 			pickedCards
+		});
+	};
+
+	private onPickUpdateCustom = (pickedCardsCustom: string[]) =>
+	{
+		this.setState({
+			pickedCardsCustom
 		});
 	};
 
@@ -152,13 +182,15 @@ export class GamePlayWhite extends React.Component<Props, State>
 		localStorage.setItem(this.getCardsSuckLsKey(gameId), String(roundIndex ?? 0));
 	}
 
-	private showForfeitConfirm = () => {
+	private showForfeitConfirm = () =>
+	{
 		this.setState({
 			cardsSuckVisible: true
 		});
 	};
 
-	private hideForfeitConfirm = () => {
+	private hideForfeitConfirm = () =>
+	{
 		this.setState({
 			cardsSuckVisible: false
 		});
@@ -197,6 +229,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 			canUseMyCardsSuck,
 			didForfeit,
 			pickedCards,
+			pickedCardsCustom,
 			playButtonLoading,
 			suckButtonLoading
 		} = this.state;
@@ -209,6 +242,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 		const {
 			players,
 			roundCards,
+			roundCardsCustom,
 			chooserGuid,
 			roundStarted
 		} = gameData.game;
@@ -218,18 +252,19 @@ export class GamePlayWhite extends React.Component<Props, State>
 
 		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
 
-		const hasPlayed = userData.playerGuid in roundCards;
+		const hasPlayed = userData.playerGuid in roundCards || userData.playerGuid in roundCardsCustom;
 		const hasWinner = !!gameData.game?.lastWinner;
 
 		let targetPicked = gameData.blackCardDef?.pick ?? 1;
 
+		const customWhites = gameData.game.settings.customWhites;
 		const roundCardKeys = Object.keys(roundCards ?? {});
 		const revealedIndex = this.state.gameData.game?.revealIndex ?? 0;
-		const metPickTarget = targetPicked <= pickedCards.length;
+		const metPickTarget = targetPicked <= pickedCards.length || targetPicked <= pickedCardsCustom.length;
 		const timeToPick = remainingPlayers.length === 0;
 		const revealMode = timeToPick && revealedIndex < roundCardKeys.length;
 		let czar = "the Card Czar";
-		if(chooserGuid)
+		if (chooserGuid)
 		{
 			czar = gameData.game.players[chooserGuid].nickname;
 		}
@@ -255,34 +290,45 @@ export class GamePlayWhite extends React.Component<Props, State>
 				<Divider style={{margin: "1rem 0"}}/>
 				{!hasWinner && roundStarted && !revealMode && (
 					<Grid container spacing={2}>
-						<WhiteCardHand
-							gameData={gameData}
-							userData={userData}
-							targetPicked={targetPicked}
-							onPickUpdate={this.onPickUpdate}
-						/>
-
-						{!hasPlayed && !didForfeit && !revealMode && (
-							<Grid item xs={12} style={{display: "flex", justifyContent: "center", padding: "4rem 0 2rem"}}>
-								<Tooltip enterTouchDelay={0} enterDelay={0} title={canUseMyCardsSuck ? "Forfeit round and get new cards?" : "You can only do this every 5 rounds"} arrow>
-									<div>
-										<LoadingButton
-											loading={suckButtonLoading}
-											size={"large"}
-											variant={"contained"}
-											color={"primary"}
-											disabled={hasPlayed || revealMode || !roundStarted || !canUseMyCardsSuck}
-											onClick={this.showForfeitConfirm}
-											style={{
-												marginLeft: "0.5rem"
-											}}
-										>
-											My cards suck
-										</LoadingButton>
-									</div>
-								</Tooltip>
-							</Grid>
+						{gameData.game?.settings.customWhites ? (
+							<WhiteCardHandCustom
+								gameData={gameData}
+								userData={userData}
+								targetPicked={targetPicked}
+								onPickUpdate={this.onPickUpdateCustom}
+							/>
+						) : (
+							<>
+								<WhiteCardHand
+									gameData={gameData}
+									userData={userData}
+									targetPicked={targetPicked}
+									onPickUpdate={this.onPickUpdate}
+								/>
+								{!hasPlayed && !didForfeit && !revealMode && (
+									<Grid item xs={12} style={{display: "flex", justifyContent: "center", padding: "4rem 0 2rem"}}>
+										<Tooltip enterTouchDelay={0} enterDelay={0} title={canUseMyCardsSuck ? "Forfeit round and get new cards?" : "You can only do this every 5 rounds"} arrow>
+											<div>
+												<LoadingButton
+													loading={suckButtonLoading}
+													size={"large"}
+													variant={"contained"}
+													color={"primary"}
+													disabled={hasPlayed || revealMode || !roundStarted || !canUseMyCardsSuck}
+													onClick={this.showForfeitConfirm}
+													style={{
+														marginLeft: "0.5rem"
+													}}
+												>
+													My cards suck
+												</LoadingButton>
+											</div>
+										</Tooltip>
+									</Grid>
+								)}
+							</>
 						)}
+
 					</Grid>
 				)}
 
@@ -300,7 +346,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 							size={"large"}
 							variant={"contained"}
 							color={"primary"}
-							onClick={this.onCommit}
+							onClick={customWhites ? this.onCommitCustom : this.onCommit}
 						>
 							Play
 						</LoadingButton>

@@ -25,12 +25,12 @@ export interface IGameSettings
 	skipReveal: boolean;
 	public: boolean;
 	playerLimit: number;
-	password: string | null;
 	roundsToWin: number;
 	inviteLink: string | null;
 	includedPacks: string[];
 	includedCardcastPacks: string[];
 	winnerBecomesCzar: boolean;
+	customWhites: boolean;
 }
 
 export interface GamesList extends WithBuildVersion
@@ -54,6 +54,7 @@ export interface GameItem
 	blackCard: CardId;
 	// key = player guid, value = white card ID
 	roundCards: { [key: string]: CardId[] };
+	roundCardsCustom: { [key: string]: string[] };
 	playerOrder: string[];
 	usedBlackCards: CardPackMap;
 	usedWhiteCards: CardPackMap;

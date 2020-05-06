@@ -151,6 +151,17 @@ class _Platform
 		});
 	}
 
+	public async playCardsCustom(gameId: string, guid: string, cards: string[])
+	{
+		this.trackEvent("play-cards-custom", gameId);
+
+		return _Platform.doPost<GameItem>("/api/game/play-cards-custom", {
+			gameId,
+			guid,
+			cards
+		});
+	}
+
 	public async forfeit(gameId: string, guid: string, playedCards: CardId[])
 	{
 		this.trackEvent("my-cards-suck", gameId);

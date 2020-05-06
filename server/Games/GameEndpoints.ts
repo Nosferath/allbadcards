@@ -311,6 +311,22 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
+	app.post("/api/game/play-cards-custom", async (req, res, next) =>
+	{
+		logMessage(req.url, req.body);
+		try
+		{
+			const player = playerFromReq(req);
+			await GameManager.playCardsCustom(req.body.gameId, player, req.body.cards);
+
+			sendWithBuildVersion({success: true}, res);
+		}
+		catch (error)
+		{
+			onError(res, error, req.url, req.query, req.body);
+		}
+	});
+
 	app.post("/api/game/forfeit", async (req, res, next) =>
 	{
 		logMessage(req.url, req.body);

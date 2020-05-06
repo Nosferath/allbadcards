@@ -12,6 +12,7 @@ import {useDataStore} from "../../Global/Utils/HookUtils";
 import {Tooltip} from "@material-ui/core";
 import Button from "@material-ui/core/Button";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
+import {Alert} from "@material-ui/lab";
 
 interface IGameStartProps
 {
@@ -52,7 +53,10 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 	const nonRandomPlayers = playerGuids.filter(pg => !players[pg]?.isRandom) ?? [];
 	const canAddRandom = randomPlayers.length < 10;
 	const selectedPacks = [...gameData.ownerSettings.includedPacks, ...gameData.ownerSettings.includedCardcastPacks];
-	const canStart = nonRandomPlayers.length > 1 && selectedPacks.length > 0;
+	const hasRandoms = randomPlayers.length > 0;
+	const isCustomWhites = gameData.ownerSettings?.customWhites;
+	const badCustomState = isCustomWhites && hasRandoms;
+	const canStart = nonRandomPlayers.length > 1 && selectedPacks.length > 0 && !badCustomState;
 
 	return (
 		<GamePreview id={props.id}>
@@ -78,6 +82,11 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 					</LoadingButton>
 				</span>
 			</Tooltip>
+			{badCustomState && (
+				<Alert severity={"error"} style={{marginTop: "1rem"}}>
+					You can't have AI players if you are using the <strong>Write Your Own</strong> option. The AI players are too dumb for that!
+				</Alert>
+			)}
 			<Divider style={{margin: "3rem 0"}}/>
 			<Typography variant={"h4"}>Settings</Typography>
 			<GameSettings/>

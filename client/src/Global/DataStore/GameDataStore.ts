@@ -56,8 +56,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			includedCardcastPacks: [],
 			includedPacks: [],
 			inviteLink: null,
-			password: null,
 			playerLimit: 50,
+			customWhites: false,
 			public: false,
 			roundsToWin: 7,
 			winnerBecomesCzar: false
@@ -103,6 +103,10 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			const data = JSON.parse(e.data) as { game: GamePayload };
 			if (!this.state.game?.id || data.game.id === this.state.game?.id)
 			{
+				if(!data.game.roundCardsCustom)
+				{
+					data.game.roundCardsCustom = {};
+				}
 				this.update(data);
 			}
 		};
@@ -388,6 +392,21 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			.catch(e => console.error(e));
 	}
 
+	public playCustomCards(cards: string[] | undefined, userGuid: string)
+	{
+		BrowserUtils.scrollToTop();
+
+		console.log("[GameDataStore] Played white cards...", cards, userGuid);
+
+		if (!this.state.game || !cards)
+		{
+			throw new Error("Invalid card or game!");
+		}
+
+		return Platform.playCardsCustom(this.state.game.id, userGuid, cards)
+			.catch(e => console.error(e));
+	}
+
 	public chooseWinner(chooserGuid: string, winningPlayerGuid: string)
 	{
 		BrowserUtils.scrollToTop();
@@ -495,6 +514,13 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 	{
 		this.setSetting({
 			public: isPublic
+		});
+	}
+
+	public setCustomWhites(customWhites: boolean)
+	{
+		this.setSetting({
+			customWhites
 		});
 	}
 

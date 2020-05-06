@@ -38,6 +38,7 @@ export interface IGameSettings
 	includedPacks: string[];
 	includedCardcastPacks: string[];
 	winnerBecomesCzar: boolean;
+	customWhites: boolean;
 }
 
 export interface GameItem
@@ -56,7 +57,8 @@ export interface GameItem
 	kickedPlayers: PlayerMap;
 	blackCard: CardId;
 	// key = player guid, value = white card ID
-	roundCards: { [key: string]: CardId[] };
+	roundCards: { [playerGuid: string]: CardId[] };
+	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
 	usedBlackCards: CardPackMap;
 	usedWhiteCards: CardPackMap;

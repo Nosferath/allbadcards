@@ -293,6 +293,7 @@ class _GameManager
 					packId: ""
 				},
 				roundCards: {},
+				roundCardsCustom: {},
 				usedBlackCards: {},
 				usedWhiteCards: {},
 				revealIndex: -1,
@@ -307,7 +308,8 @@ class _GameManager
 					inviteLink: null,
 					includedPacks: [],
 					includedCardcastPacks: [],
-					winnerBecomesCzar: false
+					winnerBecomesCzar: false,
+					customWhites: false
 				}
 			};
 
@@ -346,7 +348,7 @@ class _GameManager
 		newGame.revealIndex = -1;
 
 		// If the player was kicked before and is rejoining, add them back
-		const playerWasKicked = !!newGame.kickedPlayers[playerGuid];
+		const playerWasKicked = !!newGame.kickedPlayers?.[playerGuid];
 		if (playerWasKicked)
 		{
 			newGame.players[playerGuid] = newGame.kickedPlayers[playerGuid];
@@ -399,7 +401,10 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		newGame.kickedPlayers[targetGuid] = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+		if (newGame.kickedPlayers)
+		{
+			newGame.kickedPlayers[targetGuid] = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+		}
 		delete newGame.pendingPlayers[targetGuid];
 		delete newGame.players[targetGuid];
 		delete newGame.roundCards[targetGuid];
@@ -468,21 +473,25 @@ class _GameManager
 		newGame.lastWinner = undefined;
 
 		// Remove the played white card from each player's hand
-		newGame.players = playerGuids.reduce((acc, playerGuid) =>
+		if(!newGame.settings.customWhites)
 		{
-			const player = newGame.players[playerGuid];
-			const newPlayer = {...player};
-			const usedCards = newGame.roundCards[playerGuid] ?? [];
-			newPlayer.whiteCards = player.whiteCards.filter(wc =>
-				!usedCards.find(uc => deepEqual(uc, wc))
-			);
-			acc[playerGuid] = newPlayer;
+			newGame.players = playerGuids.reduce((acc, playerGuid) =>
+			{
+				const player = newGame.players[playerGuid];
+				const newPlayer = {...player};
+				const usedCards = newGame.roundCards[playerGuid] ?? [];
+				newPlayer.whiteCards = player.whiteCards.filter(wc =>
+					!usedCards.find(uc => deepEqual(uc, wc))
+				);
+				acc[playerGuid] = newPlayer;
 
-			return acc;
-		}, {} as PlayerMap);
+				return acc;
+			}, {} as PlayerMap);
+		}
 
 		// Reset the played cards for the round
 		newGame.roundCards = {};
+		newGame.roundCardsCustom = {};
 
 		// Deal a new hand
 		newGame = await CardManager.dealWhiteCards(newGame);
@@ -630,6 +639,33 @@ class _GameManager
 
 		const newGame = {...existingGame};
 		newGame.roundCards[playerGuid] = cardIds;
+		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
+
+		await this.updateGame(newGame);
+
+		return newGame;
+	}
+
+	public async playCardsCustom(gameId: string, player: IPlayer, cards: string[])
+	{
+		const playerGuid = player.guid;
+
+		const existingGame = await this.getGame(gameId);
+		const playerData = existingGame.players[playerGuid];
+
+		const blackCardDef = await CardManager.getBlackCard(existingGame.blackCard);
+		const targetPicked = blackCardDef.pick;
+		if (targetPicked !== cards.length)
+		{
+			throw new Error("You submitted the wrong number of cards. Expected " + targetPicked + " but received " + cards.length);
+		}
+
+		const newGame = {...existingGame};
+		if(!newGame.roundCardsCustom)
+		{
+			newGame.roundCardsCustom = {};
+		}
+		newGame.roundCardsCustom[playerGuid] = cards;
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
 		await this.updateGame(newGame);

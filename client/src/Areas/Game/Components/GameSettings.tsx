@@ -21,12 +21,13 @@ import ListItemText from "@material-ui/core/ListItemText";
 import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import {SettingsBlockGame} from "./Settings/SettingsBlockGame";
-import {MdEdit, MdSettings} from "react-icons/all";
+import {GiCardPlay, MdEdit, MdSettings} from "react-icons/all";
 import {SettingsBlockMainPacks} from "./Settings/SettingsBlockMainPacks";
 import IconButton from "@material-ui/core/IconButton";
 import {SettingsBlockCustomPacks} from "./Settings/SettingsBlockCustomPacks";
 import Avatar from "@material-ui/core/Avatar";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {SettingsBlockGeneral} from "./Settings/SettingsBlockGeneral";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
@@ -51,6 +52,7 @@ export const GameSettings = () =>
 	const userData = useDataStore(UserDataStore);
 	const gameData = useDataStore(GameDataStore);
 	const [gameSettingsVisible, setGameSettingsVisible] = useState(false);
+	const [generalSettingsVisible, setGeneralSettingsVisible] = useState(false);
 	const [mainPackSettingsVisible, setMainPackSettingsVisible] = useState(false);
 	const [customPackSettingsVisible, setCustomPackSettingsVisible] = useState(false);
 	const isOwner = userData.playerGuid === gameData.game?.ownerGuid;
@@ -74,7 +76,20 @@ export const GameSettings = () =>
 								<MdSettings style={{color: "black"}}/>
 							</Avatar>
 						</ListItemAvatar>
-						<ListItemText primary={"General"} secondary={"Basic game settings"}/>
+						<ListItemText primary={"General"} secondary={"General settings"}/>
+						<ListItemSecondaryAction style={{right: 0}}>
+							<IconButton color={"primary"} onClick={() => setGeneralSettingsVisible(true)}>
+								<MdEdit/>
+							</IconButton>
+						</ListItemSecondaryAction>
+					</ListItem>
+					<ListItem>
+						<ListItemAvatar>
+							<Avatar>
+								<GiCardPlay style={{color: "black"}}/>
+							</Avatar>
+						</ListItemAvatar>
+						<ListItemText primary={"Gameplay"} secondary={"Change how the game is played"}/>
 						<ListItemSecondaryAction style={{right: 0}}>
 							<IconButton color={"primary"} onClick={() => setGameSettingsVisible(true)}>
 								<MdEdit/>
@@ -113,6 +128,19 @@ export const GameSettings = () =>
 					</ListItem>
 				</List>
 			</div>
+			<Dialog open={generalSettingsVisible} onClose={() => setGeneralSettingsVisible(false)}>
+				<DialogTitle>General</DialogTitle>
+				<DialogContent>
+					<SettingsBlockGeneral/>
+				</DialogContent>
+				<Divider/>
+				<DialogActions>
+					<Button onClick={() => setGeneralSettingsVisible(false)} color="primary">
+						Save
+					</Button>
+				</DialogActions>
+			</Dialog>
+
 			<Dialog open={gameSettingsVisible} onClose={() => setGameSettingsVisible(false)}>
 				<DialogTitle>General</DialogTitle>
 				<DialogContent>

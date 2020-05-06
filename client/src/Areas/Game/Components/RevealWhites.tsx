@@ -8,6 +8,7 @@ import {IUserData, UserDataStore} from "../../../Global/DataStore/UserDataStore"
 import sanitize from "sanitize-html";
 import {LoadingButton} from "../../../UI/LoadingButton";
 import {Typography} from "@material-ui/core";
+import {CardId} from "../../../Global/Platform/Contract";
 
 interface IRevealWhitesProps
 {
@@ -77,18 +78,31 @@ export class RevealWhites extends React.Component <Props, State>
 		}
 
 		const game = gameData.game;
-		const playerOrder = game.playerOrder ?? Object.keys(game.players);
-		const roundPlayerOrder = playerOrder.filter(a => a !== game.chooserGuid);
-		const roundCardKeys = Object.keys(game.roundCards ?? {});
-		const roundPlayers = Object.keys(game.roundCards ?? {});
-		const remainingPlayerGuids = Object.keys(game.players ?? {})
-			.filter(pg => !(pg in (game.roundCards ?? {})) && pg !== game.chooserGuid);
-		const remainingPlayers = remainingPlayerGuids.map(pg => game.players?.[pg]?.nickname);
-		const realRevealIndex = game.revealIndex ?? -1;
+		const {
+			settings,
+			roundCardsCustom,
+			roundCards,
+			revealIndex,
+			playerOrder: ogPlayerOrder,
+			chooserGuid,
+			players
+		} = game;
+		
+		const cardBucket = settings.customWhites ? roundCardsCustom : roundCards;
+		const playerOrder = ogPlayerOrder ?? Object.keys(players);
+		const roundPlayerOrder = playerOrder.filter(a => a !== chooserGuid);
+		const roundCardKeys = Object.keys(cardBucket ?? {});
+		const roundPlayers = Object.keys(cardBucket ?? {});
+		const remainingPlayerGuids = Object.keys(players ?? {})
+			.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
+		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
+		const realRevealIndex = revealIndex ?? -1;
 		const revealedIndex = realRevealIndex % roundPlayers.length;
 		const playerGuidAtIndex = roundPlayerOrder[isNaN(revealedIndex) ? 0 : revealedIndex];
-		const cardsIdsRevealed = game.roundCards[playerGuidAtIndex] ?? [];
-		const cardsRevealed = cardsIdsRevealed.map(cid => gameData.roundCardDefs?.[cid.packId]?.[cid.cardIndex]);
+		const cardsIdsRevealed = cardBucket[playerGuidAtIndex] ?? [];
+		const cardsRevealed = settings.customWhites
+			? cardsIdsRevealed as string[]
+			: (cardsIdsRevealed as CardId[]).map(cid => gameData.roundCardDefs?.[cid.packId]?.[cid.cardIndex]);
 		const timeToPick = remainingPlayers.length === 0;
 		const revealMode = timeToPick && realRevealIndex < roundCardKeys.length;
 

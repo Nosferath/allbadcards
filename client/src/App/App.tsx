@@ -190,6 +190,7 @@ const Errors = () =>
 {
 	const errorData = useDataStore(ErrorDataStore);
 	const errors = errorData.errors ?? [];
+	const bugReportUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md";
 
 	return (
 		<Dialog open={errors.length > 0} onClose={() => ErrorDataStore.clear()}>
@@ -204,6 +205,19 @@ const Errors = () =>
 					))}
 				</List>
 			</DialogContent>
+			<DialogActions>
+				<Button
+					size={"small"}
+					color={"default"}
+					variant={"outlined"}
+					href={bugReportUrl}
+					target={"_blank"}
+					rel={"noreferrer nofollow"}
+					startIcon={<MdBugReport/>}
+				>
+					Report a Bug
+				</Button>
+			</DialogActions>
 		</Dialog>
 	);
 };

@@ -3,12 +3,13 @@ import Button from "@material-ui/core/Button";
 import Divider from "@material-ui/core/Divider";
 import * as React from "react";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
+import {GameDataStore, WhiteCardMap} from "../../../Global/DataStore/GameDataStore";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
 import {useState} from "react";
 import {LoadingButton} from "../../../UI/LoadingButton";
+import {CardId} from "../../../Global/Platform/Contract";
 
 export interface IPickWinnerProps
 {
@@ -58,13 +59,17 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 	const {
 		roundCards,
 		playerOrder,
-		chooserGuid
+		chooserGuid,
+		settings,
+		roundCardsCustom
 	} = gameData.game;
 
-	const roundCardsDefined = roundCards ?? {};
+	const cardBucket = settings.customWhites ? roundCardsCustom : roundCards;
+	const roundCardsDefined = cardBucket ?? {};
 	const roundCardKeys = playerOrder.filter(a => a !== chooserGuid);
-	const roundCardValues = roundCardKeys
-		.map(playerGuid => roundCardsDefined[playerGuid]?.map(cardId =>
+	const roundCardValues = settings.customWhites
+		? roundCardKeys.map(playerGuid => roundCardsDefined[playerGuid] as string[])
+		: roundCardKeys.map(playerGuid => (roundCardsDefined[playerGuid] as CardId[])?.map(cardId =>
 			gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
 		));
 

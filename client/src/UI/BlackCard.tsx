@@ -86,7 +86,10 @@ export class BlackCard extends React.Component<Props, State>
 				</CardContent>
 				<CardActions>
 					<Typography variant={"caption"} style={{color: "white", display: "flex", alignContent: "center"}}>
-						<img src={"/logo-tiny-inverted.png"} width={18} style={{marginRight: "0.5rem"}} /> all bad cards
+						<img src={"/logo-tiny-inverted.png"} width={18} style={{marginRight: "0.5rem",
+							height: "auto",
+							width: 18,
+							maxHeight: 18}} /> all bad cards
 					</Typography>
 				</CardActions>
 			</Card>

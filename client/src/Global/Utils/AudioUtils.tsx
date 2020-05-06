@@ -1,4 +1,7 @@
 import {MuteDataStore} from "../DataStore/MuteDataStore";
+import "./audiocontext-monkeypatch";
+
+window["AudioContext"] = window["AudioContext"] || {fake: true};
 
 class _AudioUtils
 {
@@ -9,17 +12,21 @@ class _AudioUtils
 
 	constructor()
 	{
+		if(!AudioContext || (window["AudioContext"] as any)?.fake)
+		{
+			return;
+		}
 		// @ts-ignore
-		this.ctx = new AudioContext();
 	}
 
 	public makeSound(wave: OscillatorType = "sine", freq = 840, duration = 1)
 	{
-		if(MuteDataStore.state.muted)
+		if(MuteDataStore.state.muted || (window["AudioContext"] as any)?.fake)
 		{
 			return;
 		}
 
+		this.ctx = new AudioContext();
 		const osc = this.ctx.createOscillator();
 		const gain = this.ctx.createGain();
 		osc.connect(gain);

@@ -14,28 +14,16 @@ import List from "@material-ui/core/List";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
-export const SettingsBlockGame: React.FC = () =>
+export const SettingsBlockGeneral: React.FC = () =>
 {
 	const gameData = useDataStore(GameDataStore);
 
 	return (
 		<List style={{paddingBottom: "1rem"}}>
-			<CustomWhites gameData={gameData}/>
+			<MakePrivate gameData={gameData} />
 
 			<Divider style={{margin: "0 0 1rem 0"}}/>
-			<WinnerBecomesCzar gameData={gameData}/>
-
-			<Divider style={{margin: "0 0 1rem 0"}}/>
-			<HideDuringReveal gameData={gameData}/>
-
-			<Divider style={{margin: "0 0 1rem 0"}}/>
-			<SkipReveal gameData={gameData}/>
-
-			<Divider style={{margin: "0 0 1rem 0"}}/>
-			<RoundsRequiredField gameData={gameData}/>
-
-			<Divider style={{margin: "0 0 1rem 0"}}/>
-			<PlayerLimitField gameData={gameData}/>
+			<UrlField gameData={gameData}/>
 		</List>
 	);
 };
@@ -131,8 +119,7 @@ const CustomWhites: React.FC<IGameDataProps> = (
 						color={"primary"}
 						onChange={onChange}
 						name={"isPublic"}
-						disabled={gameData.game?.started}
-						checked={gameData.ownerSettings.customWhites}
+						checked={gameData.ownerSettings.public}
 					/>
 				</ListItemSecondaryAction>
 			</ListItem>

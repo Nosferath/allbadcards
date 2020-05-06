@@ -81,6 +81,11 @@ export class CardManager
 
 	public static async dealWhiteCards(gameItem: GameItem)
 	{
+		if(gameItem.settings.customWhites)
+		{
+			return gameItem;
+		}
+
 		const newGame = cloneDeep(gameItem);
 
 		let usedWhiteCards: CardPackMap = {...gameItem.usedWhiteCards};

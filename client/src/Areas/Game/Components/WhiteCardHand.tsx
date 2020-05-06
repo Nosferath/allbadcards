@@ -62,7 +62,7 @@ export const WhiteCardHand: React.FC<Props> =
 
 		const hasPlayed = userData.playerGuid in roundCards;
 
-		const renderedCardIds = hasPlayed
+		let renderedCardIds = hasPlayed
 			? []
 			: playerCardIds;
 
@@ -124,6 +124,8 @@ export const WhiteCardHand: React.FC<Props> =
 				<br/>
 				What will make the Czar laugh the most?
 			</div>
-			{renderedHand}
+			<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
+				{renderedHand}
+			</Grid>
 		</>;
 	};
