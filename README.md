@@ -16,6 +16,7 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
 - NodeJS
 - Redis 
 - MongoDB
+- Yarn (classic) https://classic.yarnpkg.com/lang/en/
 
 ### Setup
 
