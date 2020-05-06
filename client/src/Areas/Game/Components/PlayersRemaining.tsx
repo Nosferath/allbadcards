@@ -41,6 +41,7 @@ export const PlayersRemaining = () =>
 		<>
 			<Chip
 				color={"primary"}
+				style={{marginBottom: 3, paddingLeft: 8}}
 				icon={<AiFillCrown/>}
 				label={chooser}
 			/>

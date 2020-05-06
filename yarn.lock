@@ -679,6 +679,13 @@ ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+allbadcards-human-readable-ids@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/allbadcards-human-readable-ids/-/allbadcards-human-readable-ids-1.1.1.tgz#d308fd8117466127c949f80a7d05df23af74df30"
+  integrity sha512-/44CpurAPsUZox/KfI4DaKQCO/vOKSCMd05oGuVqWcuqHIxgGF+EIf5yG2/Sl4ox3jyqveOkleQjsfZ1clxH5A==
+  dependencies:
+    knuth-shuffle "^1.0.0"
+
 ansi-align@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ansi-align/-/ansi-align-2.0.0.tgz#c36aeccba563b89ceb556f3690f0b1d9e3547f7f"
@@ -2843,13 +2850,6 @@ https-proxy-agent@^4.0.0:
   dependencies:
     agent-base "5"
     debug "4"
-
-human-readable-ids@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/human-readable-ids/-/human-readable-ids-1.0.4.tgz#41b3a2a6966636e104e41e0673b984b36dfde202"
-  integrity sha512-h1zwThTims8A/SpqFGWyTx+jG1+WRMJaEeZgbtPGrIpj2AZjsOgy8Y+iNzJ0yAyN669Q6F02EK66WMWcst+2FA==
-  dependencies:
-    knuth-shuffle "^1.0.0"
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@~0.4.13:
   version "0.4.24"

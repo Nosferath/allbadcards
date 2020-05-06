@@ -159,6 +159,9 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/5</strong>
+								<li>Added option for writing your own answers!</li>
+								<br/>
 								<strong>Updates - 5/4</strong>
 								<li>Added mutable audio cue for Card Czar</li>
 								<li>Improved kick/leave game behavior</li>
@@ -168,16 +171,6 @@ class GameDashboard extends React.Component<Props, State>
 								<li>Added ability to edit settings during game</li>
 								<li>Improved speed of game updates</li>
 								<li>Fixed some typos</li>
-								<br/>
-								<strong>Updates - 5/1</strong>
-								<li>Added support for creating and browsing public games</li>
-								<li>Added Dark Mode switch in footer</li>
-								<li>Modified the method for user identification to reduce hackability of games (in preparation for public games list)</li>
-								<li>Added new option (off by default) for the winning player to become the new Card Czar</li>
-								<li>Fix for game restart not working</li>
-								<li>Improved layout for larger screens</li>
-								<li>Fix for some mobile devices not being able to use My Cards Suck options</li>
-								<li>Card typo fixes</li>
 								<br/>
 							</Typography>
 						</Grid>

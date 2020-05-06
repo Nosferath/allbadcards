@@ -1,4 +1,4 @@
-declare module "human-readable-ids"
+declare module "allbadcards-human-readable-ids"
 {
 	export const hri: {
 		random: () => string;

@@ -1,6 +1,6 @@
 import {Database} from "../DB/Database";
 import shortid from "shortid";
-import {hri} from "human-readable-ids";
+import {hri} from "allbadcards-human-readable-ids";
 import {CardManager} from "./CardManager";
 import WebSocket from "ws";
 import {GameMessage} from "../SocketMessages/GameMessage";
@@ -413,7 +413,8 @@ class _GameManager
 		// If the owner deletes themselves, pick a new owner
 		if (targetGuid === ownerGuid)
 		{
-			newGame.ownerGuid = Object.keys(newGame.players)[0];
+			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
+			newGame.ownerGuid = nonRandoms[0];
 		}
 
 		// If the owner deletes themselves, pick a new owner
@@ -651,7 +652,6 @@ class _GameManager
 		const playerGuid = player.guid;
 
 		const existingGame = await this.getGame(gameId);
-		const playerData = existingGame.players[playerGuid];
 
 		const blackCardDef = await CardManager.getBlackCard(existingGame.blackCard);
 		const targetPicked = blackCardDef.pick;

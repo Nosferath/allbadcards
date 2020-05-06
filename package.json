@@ -52,7 +52,7 @@
     "ws": "^7.2.3",
     "shortid": "^2.2.15",
     "dotenv": "^8.2.0",
-    "human-readable-ids": "^1.0.4",
+    "allbadcards-human-readable-ids": "1.1.1",
     "js-levenshtein": "^1.1.6",
     "log-timestamp": "^0.3.0"
   },

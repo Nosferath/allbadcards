@@ -30,14 +30,10 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 
 	const onAddCardCastDeck = () =>
 	{
-		if (cardCastDeckCode.length !== 5)
-		{
-			return;
-		}
-
 		if (!gameData.ownerSettings.includedCardcastPacks?.includes(cardCastDeckCode))
 		{
-			GameDataStore.setIncludedCardcastPacks([...gameData.ownerSettings.includedCardcastPacks, cardCastDeckCode]);
+			const allCodes = cardCastDeckCode.split(",").map(c => c.trim());
+			GameDataStore.setIncludedCardcastPacks([...gameData.ownerSettings.includedCardcastPacks, ...allCodes]);
 		}
 
 		setCardCastDeckCode("");
@@ -54,9 +50,12 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 		<>
 			<div>
 				<TextField value={cardCastDeckCode} style={{margin: "0 1rem 1rem 0"}} size={"small"} onChange={e => setCardCastDeckCode(e.target.value)} id="outlined-basic" label="CardCast Deck Code" variant="outlined"/>
-				<Button variant={"contained"} color={"primary"} onClick={onAddCardCastDeck} disabled={cardCastDeckCode.length !== 5}>
+				<Button variant={"contained"} color={"primary"} onClick={onAddCardCastDeck} disabled={cardCastDeckCode.length !== 5 && !cardCastDeckCode.includes(",")}>
 					Add Deck
 				</Button>
+				<Typography variant={"subtitle2"}>
+					Add one code, or a comma-separated list
+				</Typography>
 			</div>
 
 			{(gameData.ownerSettings.includedCardcastPacks?.length ?? 0 > 0) ?

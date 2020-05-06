@@ -105,7 +105,7 @@ export class GamePlaySpectate extends React.Component<Props, State>
 				</div>
 				{isPending && (
 					<div>
-						<Alert severity="info">
+						<Alert severity="info" style={{marginTop: "1rem"}}>
 							<AlertTitle>Waiting for next round...</AlertTitle>
 							You have joined, but the round already started. You will be added to the game when this round is complete.
 						</Alert>

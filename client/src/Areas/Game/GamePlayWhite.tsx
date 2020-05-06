@@ -252,7 +252,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 
 		const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]?.nickname);
 
-		const hasPlayed = userData.playerGuid in roundCards || userData.playerGuid in roundCardsCustom;
+		const hasPlayed = userData.playerGuid in roundCards || userData.playerGuid in (roundCardsCustom ?? {});
 		const hasWinner = !!gameData.game?.lastWinner;
 
 		let targetPicked = gameData.blackCardDef?.pick ?? 1;
