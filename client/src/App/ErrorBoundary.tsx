@@ -5,7 +5,7 @@ import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
 import * as Sentry from "@sentry/browser";
 import Typography from "@material-ui/core/Typography";
-import {GameItem} from "../Global/Platform/Contract";
+import {ClientGameItem} from "../Global/Platform/Contract";
 
 interface IErrorBoundaryProps
 {
@@ -74,11 +74,9 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 
 	private generateReportLines(joinWith: string)
 	{
-		let gameData = {...GameDataStore.state.game ?? {}} as Partial<GameItem>;
+		let gameData = {...GameDataStore.state.game ?? {}} as Partial<ClientGameItem>;
 		delete gameData.settings;
 		delete gameData.spectators;
-		delete gameData.usedWhiteCards;
-		delete gameData.usedBlackCards;
 
 		Object.keys(gameData?.players ?? {}).forEach(pg =>
 		{

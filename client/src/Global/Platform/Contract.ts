@@ -35,10 +35,10 @@ export interface IGameSettings
 
 export interface GamesList extends WithBuildVersion
 {
-	games: GameItem[];
+	games: ClientGameItem[];
 }
 
-export interface GameItem
+export interface ClientGameItem
 {
 	id: string;
 	roundIndex: number;
@@ -46,24 +46,21 @@ export interface GameItem
 	ownerGuid: string;
 	chooserGuid: string | null;
 	started: boolean;
-	dateCreated: Date;
 	players: PlayerMap;
 	spectators: PlayerMap;
 	pendingPlayers: PlayerMap;
 	kickedPlayers: PlayerMap;
 	blackCard: CardId;
 	// key = player guid, value = white card ID
-	roundCards: { [key: string]: CardId[] };
-	roundCardsCustom: { [key: string]: string[] };
+	roundCards: { [playerGuid: string]: CardId[] };
+	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
-	usedBlackCards: CardPackMap;
-	usedWhiteCards: CardPackMap;
 	revealIndex: number;
 	lastWinner: GamePlayer | undefined;
 	settings: IGameSettings;
 }
 
-export interface GamePayload extends GameItem
+export interface GamePayload extends ClientGameItem
 {
 	buildVersion: number;
 }

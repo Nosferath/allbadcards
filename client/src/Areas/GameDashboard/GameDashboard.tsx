@@ -14,7 +14,7 @@ import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import {Divider, Grid} from "@material-ui/core";
 import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {GameItem} from "../../Global/Platform/Contract";
+import {ClientGameItem} from "../../Global/Platform/Contract";
 import {Link} from "react-router-dom";
 
 interface IGameDashboardProps extends RouteComponentProps

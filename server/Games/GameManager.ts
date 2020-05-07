@@ -12,9 +12,10 @@ import {logError, logMessage, logWarning} from "../logger";
 import {AbortError, createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
-import {CardId, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
+import {CardId, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../User/UserUtils";
+import {serverGameToClientGame} from "../Utils/GameUtils";
 
 interface IWSMessage
 {
@@ -239,6 +240,8 @@ class _GameManager
 
 	private updateSocketGames(game: GameItem)
 	{
+		const clientGame = serverGameToClientGame(game);
+
 		const playerGuids = Object.keys({...game.players, ...game.pendingPlayers, ...game.spectators, ...game.kickedPlayers});
 
 		// Get every socket that needs updating
@@ -247,7 +250,7 @@ class _GameManager
 			.reduce((acc, val) => acc.concat(val), []);
 
 		const gameWithVersion: GamePayload = {
-			...game,
+			...clientGame,
 			buildVersion: Config.Version
 		};
 

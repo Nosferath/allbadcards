@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react";
 import {Avatar, Card, CardActions, CardContent, CardHeader, Container, createStyles, Divider, Grid, IconButton, Input, TextField, Typography} from "@material-ui/core";
 import {Pagination} from "@material-ui/lab";
 import {Platform} from "../../Global/Platform/platform";
-import {GameItem} from "../../Global/Platform/Contract";
+import {ClientGameItem} from "../../Global/Platform/Contract";
 import {FaArrowAltCircleRight} from "react-icons/all";
 import {useHistory} from "react-router";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
@@ -39,7 +39,7 @@ const useStyles = makeStyles(theme => createStyles({
 const GameList = () =>
 {
 	const [currentPage, setCurrentPage] = useState(0);
-	const [currentPageGames, setCurrentPageGames] = useState<GameItem[]>([]);
+	const [currentPageGames, setCurrentPageGames] = useState<ClientGameItem[]>([]);
 	const [gameIdSearch, setGameIdSearch] = useState("");
 	const history = useHistory();
 
