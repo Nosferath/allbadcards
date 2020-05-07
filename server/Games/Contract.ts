@@ -67,6 +67,13 @@ export interface GameItem
 	settings: IGameSettings;
 }
 
+export interface ChatPayload
+{
+	message: string;
+	playerGuid: string;
+	gameId: string;
+}
+
 export interface GamePayload extends Partial<GameItem>
 {
 	buildVersion: number;

@@ -38,6 +38,13 @@ export interface GamesList extends WithBuildVersion
 	games: GameItem[];
 }
 
+export interface ChatPayload
+{
+	message: string;
+	playerGuid: string;
+	gameId: string;
+}
+
 export interface GameItem
 {
 	id: string;

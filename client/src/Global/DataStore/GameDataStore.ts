@@ -4,7 +4,7 @@ import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
-import {CardId, GameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
+import {CardId, ChatPayload, GameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -26,6 +26,7 @@ export interface IGameDataStorePayload
 	loaded: boolean;
 	familyMode: boolean;
 	game: GamePayload | null;
+	chat: ChatPayload[];
 	loadedPacks: ICardPackSummary[];
 	cardcastPackDefs: { [key: string]: IDeck };
 	cardcastPacksLoading: boolean;
@@ -45,6 +46,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		hasConnection: false,
 		familyMode: location.hostname.startsWith("not."),
 		game: null,
+		chat: [],
 		loadedPacks: [],
 		roundCardDefs: {},
 		playerCardDefs: {},
@@ -101,14 +103,28 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 
 		this.ws.onmessage = (e) =>
 		{
-			const data = JSON.parse(e.data) as { game: GamePayload };
-			if (!this.state.game?.id || data.game.id === this.state.game?.id)
+			const parsed = JSON.parse(e.data);
+			if("game" in parsed)
 			{
-				if(!data.game.roundCardsCustom)
+				const data = JSON.parse(e.data) as { game: GamePayload };
+				if (!this.state.game?.id || data.game.id === this.state.game?.id)
 				{
-					data.game.roundCardsCustom = {};
+					if (!data.game.roundCardsCustom)
+					{
+						data.game.roundCardsCustom = {};
+					}
+					this.update(data);
 				}
-				this.update(data);
+			}
+			else if("chat" in parsed)
+			{
+				const data = JSON.parse(e.data) as { chat: ChatPayload };
+				if (!this.state.game?.id || data.chat.gameId === this.state.game?.id)
+				{
+					this.update({
+						chat: [...this.state.chat, data.chat]
+					});
+				}
 			}
 		};
 
@@ -182,7 +198,6 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 				}
 			}
 		}, 2000);
-
 	}
 
 	protected update(data: Partial<IGameDataStorePayload>)

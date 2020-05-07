@@ -18,6 +18,9 @@ import Divider from "@material-ui/core/Divider";
 import {ErrorBoundary} from "../../App/ErrorBoundary";
 import {ShowWinner} from "./Components/ShowWinner";
 import {Alert} from "@material-ui/lab";
+import Fab from "@material-ui/core/Fab";
+import {FiMessageCircle} from "react-icons/all";
+import {GameChatFab} from "./Components/Chat/GameChatFab";
 
 interface IGameParams
 {
@@ -223,6 +226,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 						</DialogContent>
 					</Dialog>
 				)}
+				<GameChatFab showChat={amInGame || amSpectating}/>
 			</>
 		);
 	}
