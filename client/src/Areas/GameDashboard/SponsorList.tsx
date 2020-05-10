@@ -94,11 +94,19 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			src: "/sponsors/reboot.jpg"
 		},
 		{
+			byline: "Everyone will notice, no one will know",
+			url: "https://www.novellusaesthetics.co.uk/",
+			src: "/sponsors/novellusauesthetics2.jpeg",
+			familyOnly: false
+		},
+		{
 			byline: "🌿 Earth-friendly products for body & bath 🌼",
 			url: "https://www.justlikejane.com/?source=abc",
 			src: "/sponsors/justlikejane.jpg",
 			familyOnly: true
 		},
+		undefined,
+		undefined,
 		undefined,
 	];
 
