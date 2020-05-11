@@ -7,6 +7,8 @@ assignees: jakelauer
 
 ---
 
+***NOTE***: IF YOU DO NOT PROVIDE DETAILS, YOUR BUG WILL BE CLOSED
+
 BEFORE SUBMITTING:
 Please fill out the following to the best of your ability, to help with investigating your report.
 
