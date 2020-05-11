@@ -37,7 +37,7 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 					<FiMessageCircle style={{marginRight: "1rem"}}/> Chat
 				</Fab>
 			)}
-			<Dialog open={dialogOpen} classes={{
+			<Dialog open={dialogOpen} maxWidth={"md"} fullWidth={true} classes={{
 				paper: classes.dialogContent,
 				container: classes.dialogContainer,
 			}} onClose={() => setDialogOpen(false)} style={{bottom: 15}}>

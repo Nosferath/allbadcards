@@ -97,7 +97,10 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			manualClose = false;
 			connectionOpen = true;
 			console.log(e);
-			this.ws?.send(JSON.stringify(UserDataStore.state));
+			this.ws?.send(JSON.stringify({
+				user: UserDataStore.state,
+				gameId: GameDataStore.state.game?.id ?? "-1"
+			}));
 
 			this.update({
 				hasConnection: true,
@@ -383,6 +386,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 					ownerSettings: data.settings
 				});
 
+				this.initialize()
+
 				if (this.state.loadedPacks.length === 0)
 				{
 					Platform.getPacks(this.state.familyMode ? "family" : undefined)
@@ -399,7 +404,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 							this.update({
 								loadedPacks: data,
 								ownerSettings
-							});
+							});;
 						});
 				}
 			})

@@ -50,7 +50,7 @@ export interface GameItem extends ClientGameItem
 	usedWhiteCards: CardPackMap;
 }
 
-export interface GameItem
+export interface ClientGameItem
 {
 	id: string;
 	roundIndex: number;

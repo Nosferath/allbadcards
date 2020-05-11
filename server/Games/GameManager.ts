@@ -12,7 +12,7 @@ import {logError, logMessage, logWarning} from "../logger";
 import {AbortError, createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
-import {CardId, ChatPayload, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
+import {CardId, ChatPayload, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../User/UserUtils";
 import {ChatMessage} from "../SocketMessages/ChatMessage";
@@ -20,7 +20,10 @@ import {serverGameToClientGame} from "../Utils/GameUtils";
 
 interface IWSMessage
 {
-	playerGuid: string;
+	user: {
+		playerGuid: string;
+	};
+	gameId: string;
 }
 
 export let GameManager: _GameManager;
@@ -180,8 +183,10 @@ class _GameManager
 				ws.on("message", (message) =>
 				{
 					const data = JSON.parse(message as string) as IWSMessage;
-					const existingConnections = this.wsClientPlayerMap[data.playerGuid] ?? [];
-					this.wsClientPlayerMap[data.playerGuid] = [id, ...existingConnections];
+					const existingPlayerConnections = this.wsClientPlayerMap[data.user.playerGuid] ?? [];
+					const existingGameConnections = this.wsGameIdPlayerMap[data.gameId] ?? [];
+					this.wsClientPlayerMap[data.user.playerGuid] = [id, ...existingPlayerConnections];
+					this.wsGameIdPlayerMap[data.gameId] = [id, ...existingGameConnections];
 				});
 
 				ws.on("close", () =>

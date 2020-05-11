@@ -37,9 +37,7 @@ class _UserDataStore extends DataStore<IUserData>
 
 	public initialize()
 	{
-		this.register().then(() => {
-			GameDataStore.initialize();
-		});
+		this.register();
 	}
 }
 
