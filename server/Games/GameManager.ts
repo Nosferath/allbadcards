@@ -233,7 +233,7 @@ class _GameManager
 
 		if(!existingGame.settings.roundTimeoutSeconds)
 		{
-			existingGame.settings.roundTimeoutSeconds = 30;
+			existingGame.settings.roundTimeoutSeconds = 60;
 		}
 
 		return existingGame;
@@ -357,7 +357,7 @@ class _GameManager
 					includedCardcastPacks: [],
 					winnerBecomesCzar: false,
 					customWhites: false,
-					roundTimeoutSeconds: 30
+					roundTimeoutSeconds: 60
 				}
 			};
 
@@ -758,6 +758,8 @@ class _GameManager
 
 	public async revealNext(gameId: string, player: IPlayer)
 	{
+		clearTimeout(this.gameCardTimers[gameId]);
+
 		const playerGuid = player.guid;
 
 		const existingGame = await this.getGame(gameId);
