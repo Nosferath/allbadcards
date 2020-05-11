@@ -31,7 +31,7 @@ export interface IGameSettings
 	includedCardcastPacks: string[];
 	winnerBecomesCzar: boolean;
 	customWhites: boolean;
-	roundTimeoutSeconds: number;
+	roundTimeoutSeconds: number | null;
 }
 
 export interface GamesList extends WithBuildVersion

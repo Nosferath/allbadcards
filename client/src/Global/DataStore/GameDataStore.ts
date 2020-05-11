@@ -516,7 +516,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		});
 	}
 
-	public setRoundTimeout(seconds: number)
+	public setRoundTimeout(seconds: number | null)
 	{
 		this.setSetting({
 			roundTimeoutSeconds: seconds

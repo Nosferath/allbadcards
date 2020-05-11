@@ -216,7 +216,7 @@ class _GameManager
 			throw new Error("Game not found!");
 		}
 
-		if(!existingGame.settings.roundTimeoutSeconds)
+		if (existingGame.settings.roundTimeoutSeconds === undefined)
 		{
 			existingGame.settings.roundTimeoutSeconds = 60;
 		}
@@ -424,11 +424,12 @@ class _GameManager
 		if (targetGuid === ownerGuid)
 		{
 			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
-			if(nonRandoms.length > 0)
+			if (nonRandoms.length > 0)
 			{
 				newGame.ownerGuid = nonRandoms[0];
 			}
-			else{
+			else
+			{
 				throw new Error("You can't leave the game if you're the only player");
 			}
 		}
@@ -490,7 +491,7 @@ class _GameManager
 		newGame.lastWinner = undefined;
 
 		// Remove the played white card from each player's hand
-		if(!newGame.settings.customWhites)
+		if (!newGame.settings.customWhites)
 		{
 			newGame.players = playerGuids.reduce((acc, playerGuid) =>
 			{
@@ -675,7 +676,7 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		if(!newGame.roundCardsCustom)
+		if (!newGame.roundCardsCustom)
 		{
 			newGame.roundCardsCustom = {};
 		}
@@ -786,10 +787,14 @@ class _GameManager
 
 		this.randomPlayersPlayCard(gameId);
 
-		this.gameCardTimers[gameId] = setTimeout(() => {
-			console.log("TIMEOUT REACHED");
-			this.playCardsForSlowPlayers(gameId);
-		}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
+		if (newGame.settings.roundTimeoutSeconds !== null)
+		{
+			this.gameCardTimers[gameId] = setTimeout(() =>
+			{
+				console.log("TIMEOUT REACHED");
+				this.playCardsForSlowPlayers(gameId);
+			}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
+		}
 
 		return newGame;
 	}
@@ -799,7 +804,7 @@ class _GameManager
 		const existingGame = await this.getGame(gameId);
 		const newGame = {...existingGame};
 
-		if(newGame.settings.customWhites)
+		if (newGame.settings.customWhites)
 		{
 			return;
 		}

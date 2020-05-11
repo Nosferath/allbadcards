@@ -2,7 +2,7 @@ import React, {ChangeEvent, useState} from "react";
 import {GameDataStore, IGameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import FormControl from "@material-ui/core/FormControl";
 import Divider from "@material-ui/core/Divider";
-import {ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
+import {Checkbox, ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
@@ -324,25 +324,42 @@ const RoundTimeout: React.FC<IGameDataProps> = ({
 		}, 500);
 	};
 
+	const toggle = (e: ChangeEvent<HTMLInputElement>) =>
+	{
+		GameDataStore.setRoundTimeout(e.currentTarget.checked ? 60 : null);
+	};
+
 	const classes = useStyles();
+
+	const timeoutLabel = gameData.ownerSettings.roundTimeoutSeconds !== null
+		? `${gameData.ownerSettings?.roundTimeoutSeconds} seconds`
+		: "Disabled";
 
 	return (
 		<ListItem>
 			<FormControl component="fieldset" style={{width: "100%"}}>
-				<Typography>Round Timeout: {gameData.ownerSettings?.roundTimeoutSeconds} seconds</Typography>
+				<Typography>Round Timeout: {timeoutLabel}</Typography>
 				<Typography style={{marginBottom: "0.5rem"}} variant={"caption"}>After this long, anyone who has not chosen a card will have one played at random automatically.</Typography>
-				<Slider
-					defaultValue={gameData.ownerSettings.roundTimeoutSeconds}
-					classes={{
-						thumb: classes.sliderText
-					}}
-					valueLabelDisplay="auto"
-					onChange={onChange}
-					color={"secondary"}
-					step={5}
-					min={15}
-					max={90}
-				/>
+
+				<div style={{display: "flex", alignItems: "center"}}>
+					<Checkbox
+						checked={gameData.ownerSettings.roundTimeoutSeconds !== null}
+						onChange={toggle}
+					/>
+					<Slider
+						defaultValue={gameData.ownerSettings.roundTimeoutSeconds ?? 60}
+						disabled={gameData.ownerSettings.roundTimeoutSeconds === null}
+						classes={{
+							thumb: classes.sliderText
+						}}
+						valueLabelDisplay="auto"
+						onChange={onChange}
+						color={"secondary"}
+						step={5}
+						min={15}
+						max={90}
+					/>
+				</div>
 			</FormControl>
 		</ListItem>
 	);
