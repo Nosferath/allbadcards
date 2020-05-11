@@ -135,8 +135,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 					<Typography style={{marginBottom: "1rem", textAlign: "center"}}>
 						<strong>You are the Card Czar!</strong>
 						<br/>
-						Read the card aloud, then click Start The Round.
-						<br/>Once everyone plays, you will choose your favorite!
+						Read the card aloud, then click Start The Round. Once everyone plays, you will choose your favorite!
 					</Typography>
 				)}
 				<Grid container spacing={2} style={{justifyContent: "center"}}>

@@ -39,6 +39,7 @@ export interface IGameSettings
 	includedCardcastPacks: string[];
 	winnerBecomesCzar: boolean;
 	customWhites: boolean;
+	roundTimeoutSeconds: number;
 }
 
 export interface GameItem extends ClientGameItem

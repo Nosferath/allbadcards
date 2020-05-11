@@ -1,18 +1,24 @@
-import ExpansionPanelDetails from "@material-ui/core/ExpansionPanelDetails";
 import React, {ChangeEvent, useState} from "react";
 import {GameDataStore, IGameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import FormControl from "@material-ui/core/FormControl";
 import Divider from "@material-ui/core/Divider";
 import {ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import Game from "../../Game";
-import Checkbox from "@material-ui/core/Checkbox";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import Switch from "@material-ui/core/Switch";
 import List from "@material-ui/core/List";
+import makeStyles from "@material-ui/core/styles/makeStyles";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
+
+const useStyles = makeStyles(theme => ({
+	sliderText: {
+		"& span span span": {
+			color: `${theme.palette.secondary.contrastText} !important`
+		}
+	}
+}));
 
 export const SettingsBlockGame: React.FC = () =>
 {
@@ -30,6 +36,9 @@ export const SettingsBlockGame: React.FC = () =>
 
 			<Divider style={{margin: "0 0 1rem 0"}}/>
 			<SkipReveal gameData={gameData}/>
+
+			<Divider style={{margin: "0 0 1rem 0"}}/>
+			<RoundTimeout gameData={gameData}/>
 
 			<Divider style={{margin: "0 0 1rem 0"}}/>
 			<RoundsRequiredField gameData={gameData}/>
@@ -154,6 +163,8 @@ const RoundsRequiredField: React.FC<IGameDataProps> = ({
 		}, 500);
 	};
 
+	const classes = useStyles();
+
 	return (
 		<ListItem>
 			<FormControl component="fieldset" style={{width: "100%"}}>
@@ -163,6 +174,9 @@ const RoundsRequiredField: React.FC<IGameDataProps> = ({
 					defaultValue={gameData.ownerSettings?.roundsToWin}
 					onChange={onChange}
 					aria-labelledby="discrete-slider"
+					classes={{
+						thumb: classes.sliderText
+					}}
 					valueLabelDisplay="auto"
 					color={"secondary"}
 					step={1}
@@ -188,6 +202,8 @@ const PlayerLimitField: React.FC<IGameDataProps> = ({
 		}, 500);
 	};
 
+	const classes = useStyles();
+
 	return (
 		<ListItem>
 			<FormControl component="fieldset" style={{width: "100%"}}>
@@ -197,6 +213,9 @@ const PlayerLimitField: React.FC<IGameDataProps> = ({
 					defaultValue={gameData.ownerSettings.playerLimit}
 					onChange={onChange}
 					aria-labelledby="discrete-slider"
+					classes={{
+						thumb: classes.sliderText
+					}}
 					valueLabelDisplay="auto"
 					color={"secondary"}
 					step={1}
@@ -289,5 +308,42 @@ const SkipReveal: React.FC<IGameDataProps> = (
 				</ListItemSecondaryAction>
 			</ListItem>
 		</FormControl>
+	);
+};
+
+const RoundTimeout: React.FC<IGameDataProps> = ({
+	                                                gameData
+                                                }) =>
+{
+	const onChange = (e: ChangeEvent<{}>, v: number | number[]) =>
+	{
+		clearTimeout(sliderTimeout);
+		sliderTimeout = window.setTimeout(() =>
+		{
+			GameDataStore.setRoundTimeout(v as number)
+		}, 500);
+	};
+
+	const classes = useStyles();
+
+	return (
+		<ListItem>
+			<FormControl component="fieldset" style={{width: "100%"}}>
+				<Typography>Round Timeout: {gameData.ownerSettings?.roundTimeoutSeconds} seconds</Typography>
+				<Typography style={{marginBottom: "0.5rem"}} variant={"caption"}>After this long, anyone who has not chosen a card will have one played at random automatically.</Typography>
+				<Slider
+					defaultValue={gameData.ownerSettings.roundTimeoutSeconds}
+					classes={{
+						thumb: classes.sliderText
+					}}
+					valueLabelDisplay="auto"
+					onChange={onChange}
+					color={"secondary"}
+					step={5}
+					min={15}
+					max={90}
+				/>
+			</FormControl>
+		</ListItem>
 	);
 };

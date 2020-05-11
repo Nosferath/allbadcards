@@ -9,6 +9,7 @@ import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
 import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
+import moment from "moment";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -27,6 +28,7 @@ export interface IGameDataStorePayload
 	familyMode: boolean;
 	game: GamePayload | null;
 	loadedPacks: ICardPackSummary[];
+	roundStartTime: moment.Moment;
 	cardcastPackDefs: { [key: string]: IDeck };
 	cardcastPacksLoading: boolean;
 	roundCardDefs: WhiteCardMap;
@@ -51,6 +53,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		cardcastPackDefs: {},
 		cardcastPacksLoading: false,
 		blackCardDef: null,
+		roundStartTime: moment(),
 		ownerSettings: {
 			skipReveal: false,
 			hideDuringReveal: false,
@@ -61,7 +64,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			customWhites: false,
 			public: false,
 			roundsToWin: 7,
-			winnerBecomesCzar: false
+			winnerBecomesCzar: false,
+			roundTimeoutSeconds: 30
 		},
 		lostConnection: false
 	};
@@ -242,6 +246,13 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		{
 			this.update({
 				cardcastPacksLoading: true
+			});
+		}
+
+		if(!prev.game?.roundStarted && this.state.game?.roundStarted)
+		{
+			this.update({
+				roundStartTime: moment()
 			});
 		}
 
@@ -502,6 +513,13 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 	{
 		this.setSetting({
 			playerLimit: limit
+		});
+	}
+
+	public setRoundTimeout(seconds: number)
+	{
+		this.setSetting({
+			roundTimeoutSeconds: seconds
 		});
 	}
 
