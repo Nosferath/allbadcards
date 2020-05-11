@@ -4,7 +4,7 @@ import Button from "@material-ui/core/Button";
 import {Twemoji} from "react-emoji-render";
 import {Platform} from "../../../Global/Platform/platform";
 import List from "@material-ui/core/List";
-import {RiExternalLinkLine} from "react-icons/all";
+import {FaDollarSign, FaPaypal, RiExternalLinkLine} from "react-icons/all";
 import {makeStyles} from "@material-ui/styles";
 
 const useStyles = makeStyles({
@@ -65,22 +65,26 @@ export const Support = () =>
 			textAlign: "center"
 		}}>
 			<Typography variant={"h6"}>Did you enjoy the game? One dude made this site and it runs on donations!</Typography>
-			{thankYouButton}
 			<Typography style={{marginTop: "1rem"}}>
 				<List>
 					<ListItem>
 						<ListItemText style={{textAlign: "center"}} primary={<>
-							<ButtonGroup>
-								<Button endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"small"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
+							<ButtonGroup orientation={"vertical"}>
+								<Button startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
+									paypal
+								</Button>
+								<Button startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"} />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
 									venmo
 								</Button>
-								<Button endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"small"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
-									cash app
+								<Button startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
+									$cash
 								</Button>
 							</ButtonGroup>
 						</>}/>
 					</ListItem>
 				</List>
+				<div>or</div>
+				{thankYouButton}
 			</Typography>
 		</div>
 	);

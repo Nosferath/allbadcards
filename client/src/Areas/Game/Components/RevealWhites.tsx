@@ -99,7 +99,7 @@ export class RevealWhites extends React.Component <Props, State>
 		const realRevealIndex = revealIndex ?? -1;
 		const revealedIndex = realRevealIndex % roundPlayers.length;
 		const playerGuidAtIndex = roundPlayerOrder[isNaN(revealedIndex) ? 0 : revealedIndex];
-		const cardsIdsRevealed = cardBucket[playerGuidAtIndex] ?? [];
+		const cardsIdsRevealed = cardBucket?.[playerGuidAtIndex] ?? [];
 		const cardsRevealed = settings.customWhites
 			? cardsIdsRevealed as string[]
 			: (cardsIdsRevealed as CardId[]).map(cid => gameData.roundCardDefs?.[cid.packId]?.[cid.cardIndex]);

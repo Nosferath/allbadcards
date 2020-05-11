@@ -14,6 +14,7 @@ import {LoadingButton} from "../../UI/LoadingButton";
 import {BounceLoader, ClockLoader} from "react-spinners";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
 import {AudioUtils} from "../../Global/Utils/AudioUtils";
+import {CardPlayTimeRemaining} from "./Components/CardPlayTimeRemaining";
 
 interface IGamePlayBlackProps
 {
@@ -135,11 +136,13 @@ export class GamePlayBlack extends React.Component<Props, State>
 					<Typography style={{marginBottom: "1rem", textAlign: "center"}}>
 						<strong>You are the Card Czar!</strong>
 						<br/>
-						Read the card aloud, then click Start The Round.
-						<br/>Once everyone plays, you will choose your favorite!
+						Read the card aloud, then click Start The Round. Once everyone plays, you will choose your favorite!
 					</Typography>
 				)}
-				<Grid container spacing={2} style={{justifyContent: "center"}}>
+				{!timeToPick && roundStarted && (
+					<CardPlayTimeRemaining gameData={gameData}/>
+				)}
+				<Grid container spacing={2} style={{justifyContent: "center", marginTop: "1rem"}}>
 					{(!hasWinner) && (
 						<Grid item xs={12} sm={6} md={4} lg={3}>
 							<BlackCard packId={gameData.game?.blackCard.packId}>

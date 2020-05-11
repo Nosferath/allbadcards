@@ -19,6 +19,7 @@ fs.mkdir(buildDir);
 const compiler = webpack(configFactory(serverEnv, outputDir));
 compiler.run((err, stats) => {
     finalize.finalize(buildDirName, buildDir, outputDir);
+    console.log("Build is complete! Deleting build directory..");
     setTimeout(() => {
         fs.rmdir(buildDir, {recursive: true});
         console.log("Finished at " + (new Date()));

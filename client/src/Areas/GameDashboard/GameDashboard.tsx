@@ -14,7 +14,7 @@ import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import {Divider, Grid} from "@material-ui/core";
 import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {GameItem} from "../../Global/Platform/Contract";
+import {ClientGameItem} from "../../Global/Platform/Contract";
 import {Link} from "react-router-dom";
 
 interface IGameDashboardProps extends RouteComponentProps
@@ -90,8 +90,7 @@ class GameDashboard extends React.Component<Props, State>
 
 		return (
 			<Container style={{textAlign: "center"}}>
-				<Typography variant={"h1"} style={{opacity: 0, height: 0}}>the best cards against humanity online experience!</Typography>
-				<Typography variant={mobile ? "h5" : "h3"}>the best cards against humanity online experience!</Typography>
+				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>the best cards against humanity online experience!</Typography>
 
 				{GameDataStore.state.familyMode && (
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>Family-friendly edition!</Typography>
@@ -151,18 +150,12 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/10</strong>
+								<li>Added round timer to prevent games stopping if players leave</li>
+								<li>Removed the limitation preventing games from starting without human players</li>
+								<br/>
 								<strong>Updates - 5/5</strong>
 								<li>Added option for writing your own answers!</li>
-								<br/>
-								<strong>Updates - 5/4</strong>
-								<li>Added mutable audio cue for Card Czar</li>
-								<li>Improved kick/leave game behavior</li>
-								<li>Added confirmation step before leaving/kicking player</li>
-								<li>Improved instructions for new players</li>
-								<li>Removed 2012 holiday pack due to duplicate cards</li>
-								<li>Added ability to edit settings during game</li>
-								<li>Improved speed of game updates</li>
-								<li>Fixed some typos</li>
 								<br/>
 							</Typography>
 						</Grid>

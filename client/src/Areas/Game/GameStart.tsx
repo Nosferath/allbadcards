@@ -50,17 +50,16 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 	const players = gameData.game?.players ?? {};
 	const playerGuids = Object.keys(gameData.game?.players ?? {});
 	const randomPlayers = playerGuids.filter(pg => players[pg]?.isRandom) ?? [];
-	const nonRandomPlayers = playerGuids.filter(pg => !players[pg]?.isRandom) ?? [];
 	const canAddRandom = randomPlayers.length < 10;
 	const selectedPacks = [...gameData.ownerSettings.includedPacks, ...gameData.ownerSettings.includedCardcastPacks];
 	const hasRandoms = randomPlayers.length > 0;
 	const isCustomWhites = gameData.ownerSettings?.customWhites;
 	const badCustomState = isCustomWhites && hasRandoms;
-	const canStart = nonRandomPlayers.length > 1 && selectedPacks.length > 0 && !badCustomState;
+	const canStart = selectedPacks.length > 0 && !badCustomState;
 
 	return (
 		<GamePreview id={props.id}>
-			<Tooltip placement={"top"} arrow title={canStart ? "Start the game!" : "You must have one more human player to start the game."} >
+			<Tooltip placement={"top"} arrow title={canStart ? "Start the game!" : "You must have packs selected to play."} >
 				<span>
 					<LoadingButton loading={startLoading} variant={"contained"} color={"secondary"} onClick={onClickStart}
 					               disabled={!canStart} style={{pointerEvents: "auto"}}>

@@ -4,10 +4,13 @@ import Button from "@material-ui/core/Button";
 import * as React from "react";
 import {IGameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
 import {IUserData} from "../../../Global/DataStore/UserDataStore";
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import sanitize from "sanitize-html";
 import {CardId} from "../../../Global/Platform/Contract";
 import deepEqual from "deep-equal";
+import moment from "moment";
+import {CircularProgress, Typography} from "@material-ui/core";
+import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 
 interface Props
 {
@@ -117,7 +120,10 @@ export const WhiteCardHand: React.FC<Props> =
 		});
 
 		return <>
-			<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
+			{!(me.guid in (gameData.game?.roundCards ?? {})) && (
+				<CardPlayTimeRemaining gameData={gameData}/>
+			)}
+			<Grid container style={{justifyContent: "center", marginTop: "1rem"}} spacing={3}>
 				{renderedHand}
 			</Grid>
 		</>;

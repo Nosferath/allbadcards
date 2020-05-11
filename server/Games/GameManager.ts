@@ -12,10 +12,11 @@ import {logError, logMessage, logWarning} from "../logger";
 import {AbortError, createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
-import {CardId, ChatPayload, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
+import {CardId, ChatPayload, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../User/UserUtils";
 import {ChatMessage} from "../SocketMessages/ChatMessage";
+import {serverGameToClientGame} from "../Utils/GameUtils";
 
 interface IWSMessage
 {
@@ -35,6 +36,7 @@ class _GameManager
 	private wsClientPlayerMap: { [playerGuid: string]: string[] } = {};
 	private wsGameIdPlayerMap: { [gameid: string]: string[] } = {};
 	private gameRoundTimers: { [gameId: string]: NodeJS.Timeout } = {};
+	private gameCardTimers: { [gameId: string]: NodeJS.Timeout } = {};
 
 	constructor(server: http.Server)
 	{
@@ -229,6 +231,11 @@ class _GameManager
 			throw new Error("Game not found!");
 		}
 
+		if(!existingGame.settings.roundTimeoutSeconds)
+		{
+			existingGame.settings.roundTimeoutSeconds = 30;
+		}
+
 		return existingGame;
 	}
 
@@ -261,6 +268,8 @@ class _GameManager
 
 	private updateSocketGames(game: GameItem)
 	{
+		const clientGame = serverGameToClientGame(game);
+
 		const playerGuids = Object.keys({...game.players, ...game.pendingPlayers, ...game.spectators, ...game.kickedPlayers});
 
 		// Get every socket that needs updating
@@ -271,7 +280,7 @@ class _GameManager
 		this.wsGameIdPlayerMap[game.id] = wsIds;
 
 		const gameWithVersion: GamePayload = {
-			...game,
+			...clientGame,
 			buildVersion: Config.Version
 		};
 
@@ -347,7 +356,8 @@ class _GameManager
 					includedPacks: [],
 					includedCardcastPacks: [],
 					winnerBecomesCzar: false,
-					customWhites: false
+					customWhites: false,
+					roundTimeoutSeconds: 30
 				}
 			};
 
@@ -653,14 +663,12 @@ class _GameManager
 		return newGame;
 	}
 
-	public async playCard(gameId: string, player: IPlayer, cardIds: CardId[])
+	public async playCard(gameId: string, player: IPlayer, cardIds: CardId[], overrideValidation = false)
 	{
 		const playerGuid = player.guid;
 
 		const existingGame = await this.getGame(gameId);
-		const playerData = existingGame.players[playerGuid];
-		const isRandom = playerData.isRandom;
-		if (!isRandom)
+		if (!overrideValidation)
 		{
 			this.validateUser(player, existingGame);
 		}
@@ -815,7 +823,33 @@ class _GameManager
 
 		this.randomPlayersPlayCard(gameId);
 
+		this.gameCardTimers[gameId] = setTimeout(() => {
+			console.log("TIMEOUT REACHED");
+			this.playCardsForSlowPlayers(gameId);
+		}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
+
 		return newGame;
+	}
+
+	private async playCardsForSlowPlayers(gameId: string)
+	{
+		const existingGame = await this.getGame(gameId);
+		const newGame = {...existingGame};
+
+		if(newGame.settings.customWhites)
+		{
+			return;
+		}
+
+		const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
+		const targetPicked = blackCardDef.pick;
+		const allEligiblePlayerGuids = newGame.playerOrder.filter(pg => pg !== newGame.chooserGuid);
+		const remaining = allEligiblePlayerGuids.filter(pg => !(pg in newGame.roundCards));
+
+		for (let pg of remaining)
+		{
+			await this.playRandomCardForPlayer(newGame, pg, targetPicked);
+		}
 	}
 
 	private randomPlayersPlayCard(gameId: string)
@@ -830,20 +864,25 @@ class _GameManager
 
 				for (let pg of randomPlayerGuids)
 				{
-					const player = newGame.players[pg];
-					let cards: CardId[] = [];
-					for (let i = 0; i < targetPicked; i++)
-					{
-						const [, newCards] = ArrayUtils.getRandomUnused(player.whiteCards, cards);
-						cards = newCards;
-					}
-
-					await this.playCard(gameId, {
-						secret: "",
-						guid: player.guid
-					}, cards);
+					await this.playRandomCardForPlayer(newGame, pg, targetPicked);
 				}
 			});
+	}
+
+	private async playRandomCardForPlayer(game: GameItem, playerGuid: string, targetPicked: number)
+	{
+		const player = game.players[playerGuid];
+		let cards: CardId[] = [];
+		for (let i = 0; i < targetPicked; i++)
+		{
+			const [, newCards] = ArrayUtils.getRandomUnused(player.whiteCards, cards);
+			cards = newCards;
+		}
+
+		await this.playCard(game.id, {
+			secret: "",
+			guid: player.guid
+		}, cards, true);
 	}
 
 	public async addRandomPlayer(gameId: string, owner: IPlayer)

@@ -39,6 +39,15 @@ export interface IGameSettings
 	includedCardcastPacks: string[];
 	winnerBecomesCzar: boolean;
 	customWhites: boolean;
+	roundTimeoutSeconds: number;
+}
+
+export interface GameItem extends ClientGameItem
+{
+	dateCreated: Date;
+	dateUpdated: Date;
+	usedBlackCards: CardPackMap;
+	usedWhiteCards: CardPackMap;
 }
 
 export interface GameItem
@@ -49,8 +58,6 @@ export interface GameItem
 	ownerGuid: string;
 	chooserGuid: string | null;
 	started: boolean;
-	dateCreated: Date;
-	dateUpdated: Date;
 	players: PlayerMap;
 	spectators: PlayerMap;
 	pendingPlayers: PlayerMap;
@@ -60,11 +67,14 @@ export interface GameItem
 	roundCards: { [playerGuid: string]: CardId[] };
 	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
-	usedBlackCards: CardPackMap;
-	usedWhiteCards: CardPackMap;
 	revealIndex: number;
 	lastWinner: GamePlayer | undefined;
 	settings: IGameSettings;
+}
+
+export interface GamePayload extends Partial<ClientGameItem>
+{
+	buildVersion: number;
 }
 
 export interface ChatPayload
@@ -72,11 +82,6 @@ export interface ChatPayload
 	message: string;
 	playerGuid: string;
 	gameId: string;
-}
-
-export interface GamePayload extends Partial<GameItem>
-{
-	buildVersion: number;
 }
 
 export interface ICardTypes

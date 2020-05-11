@@ -4,7 +4,7 @@ import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
-import {CardId, ChatPayload, GameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
+import {CardId, ChatPayload, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -28,6 +28,7 @@ export interface IGameDataStorePayload
 	game: GamePayload | null;
 	chat: ChatPayload[];
 	loadedPacks: ICardPackSummary[];
+	roundStartTime: moment.Moment;
 	cardcastPackDefs: { [key: string]: IDeck };
 	cardcastPacksLoading: boolean;
 	roundCardDefs: WhiteCardMap;
@@ -53,6 +54,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		cardcastPackDefs: {},
 		cardcastPacksLoading: false,
 		blackCardDef: null,
+		roundStartTime: moment(),
 		ownerSettings: {
 			skipReveal: false,
 			hideDuringReveal: false,
@@ -153,7 +155,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
 	}
 
-	public storeOwnedGames(game: GameItem)
+	public storeOwnedGames(game: ClientGameItem)
 	{
 		const gamesOwnedString = localStorage.getItem(gamesOwnedLsKey) ?? "[]";
 		const gamesOwned = JSON.parse(gamesOwnedString) as string[];
@@ -257,6 +259,13 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		{
 			this.update({
 				cardcastPacksLoading: true
+			});
+		}
+
+		if(!prev.game?.roundStarted && this.state.game?.roundStarted)
+		{
+			this.update({
+				roundStartTime: moment()
 			});
 		}
 
@@ -517,6 +526,13 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 	{
 		this.setSetting({
 			playerLimit: limit
+		});
+	}
+
+	public setRoundTimeout(seconds: number)
+	{
+		this.setSetting({
+			roundTimeoutSeconds: seconds
 		});
 	}
 

@@ -1,8 +1,8 @@
 import {ErrorDataStore} from "../DataStore/ErrorDataStore";
 import ReactGA from "react-ga";
-import {CardId, GameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "./Contract";
 
-export interface GamePayload extends GameItem, WithBuildVersion
+export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
 }
 
@@ -76,14 +76,14 @@ class _Platform
 
 	public async getGame(gameId: string)
 	{
-		return _Platform.doGet<GameItem>(`/api/game/get?gameId=${gameId}`);
+		return _Platform.doGet<ClientGameItem>(`/api/game/get?gameId=${gameId}`);
 	}
 
 	public async createGame(guid: string, nickname: string)
 	{
 		this.trackEvent("create");
 
-		return _Platform.doPost<GameItem>("/api/game/create", {
+		return _Platform.doPost<ClientGameItem>("/api/game/create", {
 			guid,
 			nickname
 		});
@@ -102,7 +102,7 @@ class _Platform
 	{
 		this.trackEvent("join", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/join", {
+		return _Platform.doPost<ClientGameItem>("/api/game/join", {
 			guid,
 			gameId,
 			nickname,
@@ -114,7 +114,7 @@ class _Platform
 	{
 		this.trackEvent("remove-player", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/kick", {
+		return _Platform.doPost<ClientGameItem>("/api/game/kick", {
 			gameId,
 			targetGuid,
 			guid
@@ -128,7 +128,7 @@ class _Platform
 	{
 		this.trackEvent("start", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/start", {
+		return _Platform.doPost<ClientGameItem>("/api/game/start", {
 			gameId,
 			guid,
 			settings
@@ -142,7 +142,7 @@ class _Platform
 	{
 		this.trackEvent("start", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/update-settings", {
+		return _Platform.doPost<ClientGameItem>("/api/game/update-settings", {
 			gameId,
 			guid,
 			settings
@@ -153,7 +153,7 @@ class _Platform
 	{
 		this.trackEvent("play-cards", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/play-cards", {
+		return _Platform.doPost<ClientGameItem>("/api/game/play-cards", {
 			gameId,
 			guid,
 			cardIds
@@ -164,7 +164,7 @@ class _Platform
 	{
 		this.trackEvent("play-cards-custom", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/play-cards-custom", {
+		return _Platform.doPost<ClientGameItem>("/api/game/play-cards-custom", {
 			gameId,
 			guid,
 			cards
@@ -175,7 +175,7 @@ class _Platform
 	{
 		this.trackEvent("my-cards-suck", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/forfeit", {
+		return _Platform.doPost<ClientGameItem>("/api/game/forfeit", {
 			gameId,
 			guid,
 			playedCards
@@ -186,7 +186,7 @@ class _Platform
 	{
 		this.trackEvent("game-restart", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/restart", {
+		return _Platform.doPost<ClientGameItem>("/api/game/restart", {
 			gameId,
 			guid,
 		});
@@ -196,7 +196,7 @@ class _Platform
 	{
 		this.trackEvent("selected-winner", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/select-winner-card", {
+		return _Platform.doPost<ClientGameItem>("/api/game/select-winner-card", {
 			gameId,
 			guid,
 			winningPlayerGuid
@@ -205,7 +205,7 @@ class _Platform
 
 	public async revealNext(gameId: string, guid: string)
 	{
-		return _Platform.doPost<GameItem>("/api/game/reveal-next", {
+		return _Platform.doPost<ClientGameItem>("/api/game/reveal-next", {
 			gameId,
 			guid,
 		});
@@ -215,7 +215,7 @@ class _Platform
 	{
 		this.trackEvent("round-start", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/start-round", {
+		return _Platform.doPost<ClientGameItem>("/api/game/start-round", {
 			gameId,
 			guid,
 		});
@@ -225,7 +225,7 @@ class _Platform
 	{
 		this.trackEvent("round-start", gameId);
 
-		return _Platform.doPost<GameItem>("/api/game/add-random-player", {
+		return _Platform.doPost<ClientGameItem>("/api/game/add-random-player", {
 			gameId,
 			guid,
 		});
@@ -233,7 +233,7 @@ class _Platform
 
 	public async nextRound(gameId: string, guid: string)
 	{
-		return _Platform.doPost<GameItem>("/api/game/next-round", {
+		return _Platform.doPost<ClientGameItem>("/api/game/next-round", {
 			gameId,
 			guid,
 		});
@@ -241,7 +241,7 @@ class _Platform
 
 	public async skipBlack(gameId: string, guid: string)
 	{
-		return _Platform.doPost<GameItem>("/api/game/skip-black", {
+		return _Platform.doPost<ClientGameItem>("/api/game/skip-black", {
 			gameId,
 			guid,
 		});

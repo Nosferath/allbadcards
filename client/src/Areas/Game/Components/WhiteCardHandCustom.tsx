@@ -76,7 +76,7 @@ export const WhiteCardHandCustom: React.FC<Props> =
 			return null;
 		}
 
-		const hasPlayed = userData.playerGuid in roundCardsCustom;
+		const hasPlayed = userData.playerGuid in (roundCardsCustom ?? {});
 
 		const classes = useStyles();
 
