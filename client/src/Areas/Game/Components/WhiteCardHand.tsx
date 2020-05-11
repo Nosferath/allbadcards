@@ -10,6 +10,7 @@ import {CardId} from "../../../Global/Platform/Contract";
 import deepEqual from "deep-equal";
 import moment from "moment";
 import {CircularProgress, Typography} from "@material-ui/core";
+import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 
 interface Props
 {
@@ -19,7 +20,6 @@ interface Props
 	onPickUpdate: (cards: CardId[]) => void;
 }
 
-let interval = 0;
 export const WhiteCardHand: React.FC<Props> =
 	({
 		 userData,
@@ -29,23 +29,6 @@ export const WhiteCardHand: React.FC<Props> =
 	 }) =>
 	{
 		const [pickedCards, setPickedCards] = useState<CardId[]>([]);
-		const [timeRemaining, setTimeRemaining] = useState(0);
-
-		const endTime = gameData.roundStartTime.clone().add(gameData.ownerSettings.roundTimeoutSeconds, "seconds");
-
-		const calculateRemaining = () =>
-		{
-			const diff = endTime.diff(moment());
-			setTimeRemaining(Math.max(diff, 0));
-		};
-
-		useEffect(() =>
-		{
-			clearInterval(interval);
-			interval = window.setInterval(calculateRemaining, 1000 / 30);
-
-			return () => clearInterval(interval);
-		});
 
 		const onPick = (id: CardId) =>
 		{
@@ -91,8 +74,6 @@ export const WhiteCardHand: React.FC<Props> =
 			: gameData.playerCardDefs;
 
 		const metPickTarget = targetPicked <= pickedCards.length;
-
-		const remainingPct = timeRemaining / (gameData.ownerSettings.roundTimeoutSeconds * 1000);
 
 		const renderedHand = renderedCardIds.map((cardId, i) =>
 		{
@@ -140,12 +121,7 @@ export const WhiteCardHand: React.FC<Props> =
 
 		return <>
 			{!(me.guid in (gameData.game?.roundCards ?? {})) && (
-				<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>
-					<CircularProgress size={20} color={"secondary"} variant={"static"} value={remainingPct * 100} />
-					<Typography style={{marginLeft: "1rem"}}>
-						{Math.floor(timeRemaining / 1000)} seconds remaining to pick cards
-					</Typography>
-				</Grid>
+				<CardPlayTimeRemaining gameData={gameData}/>
 			)}
 			<Grid container style={{justifyContent: "center", marginTop: "1rem"}} spacing={3}>
 				{renderedHand}

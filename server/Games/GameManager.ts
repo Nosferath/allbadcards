@@ -216,6 +216,11 @@ class _GameManager
 			throw new Error("Game not found!");
 		}
 
+		if(!existingGame.settings.roundTimeoutSeconds)
+		{
+			existingGame.settings.roundTimeoutSeconds = 30;
+		}
+
 		return existingGame;
 	}
 
