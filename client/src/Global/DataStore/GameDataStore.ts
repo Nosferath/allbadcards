@@ -9,6 +9,7 @@ import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
 import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
+import moment from "moment";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -65,7 +66,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			customWhites: false,
 			public: false,
 			roundsToWin: 7,
-			winnerBecomesCzar: false
+			winnerBecomesCzar: false,
+			roundTimeoutSeconds: 30
 		},
 		lostConnection: false
 	};

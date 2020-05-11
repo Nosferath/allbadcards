@@ -68,7 +68,7 @@ export interface ClientGameItem
 	settings: IGameSettings;
 }
 
-export interface GamePayload extends GameItem
+export interface GamePayload extends ClientGameItem
 {
 	buildVersion: number;
 }
