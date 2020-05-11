@@ -150,18 +150,12 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/10</strong>
+								<li>Added round timer to prevent games stopping if players leave</li>
+								<li>Removed the limitation preventing games from starting without human players</li>
+								<br/>
 								<strong>Updates - 5/5</strong>
 								<li>Added option for writing your own answers!</li>
-								<br/>
-								<strong>Updates - 5/4</strong>
-								<li>Added mutable audio cue for Card Czar</li>
-								<li>Improved kick/leave game behavior</li>
-								<li>Added confirmation step before leaving/kicking player</li>
-								<li>Improved instructions for new players</li>
-								<li>Removed 2012 holiday pack due to duplicate cards</li>
-								<li>Added ability to edit settings during game</li>
-								<li>Improved speed of game updates</li>
-								<li>Fixed some typos</li>
 								<br/>
 							</Typography>
 						</Grid>
