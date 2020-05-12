@@ -1,13 +1,16 @@
 import {DataStore} from "../DataStore/DataStore";
 import {useEffect, useRef, useState} from "react";
 
-export const useDataStore = <T>(ds: DataStore<T>) =>
+export const useDataStore = <T>(ds: DataStore<T>, onUpdate?: () => void) =>
 {
 	const [current, setCurrent] = useState(ds.state);
 
 	useEffect(() =>
 	{
-		const destroy = ds.listen(setCurrent);
+		const destroy = ds.listen(data => {
+			setCurrent(data);
+			onUpdate?.();
+		});
 
 		return () => destroy();
 	});

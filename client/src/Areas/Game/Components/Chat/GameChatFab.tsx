@@ -14,12 +14,17 @@ interface IGameChatProps
 }
 
 const useStyles = makeStyles({
+	root: {
+		overflowX: "hidden"
+	},
 	dialogContent: {
-		margin: "3rem"
+		overflowX: "hidden",
+		height: "100%"
 	},
 	dialogContainer: {
 		alignItems: "flex-end",
-		justifyContent: "flex-end"
+		justifyContent: "flex-end",
+		height: "100%"
 	}
 });
 
@@ -35,14 +40,14 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 		ChatDataStore.acknowledge();
 	};
 
-	if (!tablet)
-	{
-		return null;
-	}
-
 	if(dialogOpen && chatData.unseenChatMessages > 0)
 	{
 		ChatDataStore.acknowledge();
+	}
+
+	if (!tablet)
+	{
+		return null;
 	}
 
 	return (
@@ -58,11 +63,12 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 					</Badge>
 				</Fab>
 			)}
-			<Dialog open={dialogOpen} maxWidth={"md"} fullWidth={true} classes={{
+			<Dialog open={dialogOpen} maxWidth={"xl"} fullWidth={true} classes={{
+				root: classes.root,
 				paper: classes.dialogContent,
 				container: classes.dialogContainer,
 			}} onClose={() => setDialogOpen(false)} style={{bottom: 15}}>
-				<DialogContent>
+				<DialogContent style={{overflowX: "hidden", display: "flex", flexDirection: "column"}}>
 					<GameChat/>
 				</DialogContent>
 			</Dialog>

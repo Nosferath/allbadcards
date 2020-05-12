@@ -13,6 +13,7 @@ export interface ChatDataStorePayload
 class _ChatDataStore extends DataStore<ChatDataStorePayload>
 {
 	private initialized = false;
+	private destroyer: (() => void) | null = null;
 
 	public static Instance = new _ChatDataStore({
 		chat: [],
@@ -29,15 +30,17 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 
 		this.initialized = true;
 
-		SocketDataStore.listen(data =>
+		this.destroyer = SocketDataStore.listen(data =>
 		{
 			if (data.updateType === "chat" && data.chatPayload)
 			{
 				const lastMessageSame = deepEqual(this.state.chat[this.state.chat.length - 1], data.chatPayload);
+				let newChat = !lastMessageSame
+					? [...this.state.chat, data.chatPayload]
+					: this.state.chat;
+
 				this.update({
-					chat: !lastMessageSame
-						? [...this.state.chat, data.chatPayload]
-						: this.state.chat,
+					chat: newChat,
 					unseenChatMessages: this.state.unseenChatMessages + (lastMessageSame ? 0 : 1)
 				});
 			}
@@ -49,6 +52,17 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 		this.update({
 			unseenChatMessages: 0
 		});
+	}
+
+	public clear()
+	{
+		this.destroyer?.();
+		this.initialized = false;
+		this.update({
+			chat: [],
+			newMessages: false,
+			unseenChatMessages: 0
+		})
 	}
 }
 

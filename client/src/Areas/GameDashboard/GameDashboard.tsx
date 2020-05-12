@@ -14,7 +14,6 @@ import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import {Divider, Grid} from "@material-ui/core";
 import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {ClientGameItem} from "../../Global/Platform/Contract";
 import {Link} from "react-router-dom";
 import {SocketDataStore} from "../../Global/DataStore/SocketDataStore";
 

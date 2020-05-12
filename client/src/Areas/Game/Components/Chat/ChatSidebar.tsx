@@ -1,7 +1,8 @@
 import {GameChat} from "./GameChat";
 import {Drawer, useMediaQuery} from "@material-ui/core";
-import React from "react";
+import React, {useEffect, useRef} from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 
 interface Props
 {
@@ -9,9 +10,13 @@ interface Props
 }
 
 const useStyles = makeStyles({
+	root: {
+		overflow: "hidden"
+	},
 	paper: {
 		paddingTop: 64,
-		width: 320
+		overflow: "hidden",
+		width: 320,
 	}
 });
 
@@ -32,7 +37,7 @@ export const ChatSidebar: React.FC<Props> = (
 	return (
 		<Drawer
 			classes={classes}
-			style={{flex: chatDrawerOpen ? 1 : 0}}
+			style={{flex: chatDrawerOpen ? 1 : 0, overflow: "hidden"}}
 			variant="persistent"
 			anchor="right"
 			open={chatDrawerOpen}

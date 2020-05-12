@@ -14,11 +14,20 @@ const useStyles = makeStyles(theme => ({
 		flex: "1 0",
 		justifyContent: "flex-end",
 		display: "flex",
-		flexDirection: "column"
+		flexDirection: "column",
+		maxHeight: "calc(100% - 74px)",
+		overflowY: "auto",
+		overflowX: "hidden",
+		"&::-webkit-scrollbar": {
+			display: "none"
+		},
+		width: "calc(100% + 50px)",
+		paddingRight: 50
 	},
 	chatWrap: {
 		display: "flex",
-		flexDirection: "column"
+		flexDirection: "column",
+		height: "100%",
 	},
 	chatMessage: {
 		width: "80%",
@@ -45,12 +54,20 @@ const useStyles = makeStyles(theme => ({
 
 export const GameChat = () =>
 {
-	const userData = useDataStore(UserDataStore);
+	const userData = useDataStore(UserDataStore, () =>
+	{
+		if (cardContentRef.current)
+		{
+			const el = cardContentRef.current as HTMLDivElement;
+			el.scrollTo({top: el.scrollHeight + el.clientHeight});
+		}
+	});
 	const gameData = useDataStore(GameDataStore);
 	const chatData = useDataStore(ChatDataStore);
 	const [pendingMessage, setPendingMessage] = useState("");
 
 	const inputRef = useRef<HTMLInputElement>();
+	const cardContentRef = useRef<HTMLDivElement>() as React.MutableRefObject<HTMLDivElement>;
 
 	useEffect(() => inputRef.current?.focus());
 
@@ -64,16 +81,13 @@ export const GameChat = () =>
 	};
 
 	const getNickname = (playerGuid: string) => gameData.game?.players?.[playerGuid]?.nickname ?? "Spectator";
-
 	const me = userData.playerGuid;
-
 	const classes = useStyles();
-
 	const noMessages = !chatData.chat || chatData.chat.length === 0;
 
 	return (
 		<>
-			<CardContent className={classes.cardContent}>
+			<CardContent className={classes.cardContent} ref={cardContentRef}>
 				<div className={classes.chatWrap}>
 					{noMessages && (
 						<div style={{textAlign: "center", opacity: 0.5}}>Send a message to the rest of the players!</div>
@@ -133,7 +147,7 @@ const ChatMessage: React.FC<MessageProps> = (props) =>
 					</Linkify>
 				</div>
 				{!props.isConsecutive && (
-					<div style={{opacity: 0.5, marginTop: 3}}>{props.nickname}</div>
+					<div style={{opacity: 0.5, marginTop: 3}}>{unescape(props.nickname)}</div>
 				)}
 			</div>
 		</>
