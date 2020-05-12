@@ -1,6 +1,6 @@
 import * as React from "react";
-import {GameDataStore, IGameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {IUserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import {Typography} from "@material-ui/core";
 import Divider from "@material-ui/core/Divider";
 import {Platform} from "../../../Global/Platform/platform";
@@ -29,8 +29,8 @@ type State = IShowWinnerState;
 
 interface IShowWinnerState
 {
-	gameData: IGameDataStorePayload;
-	userData: IUserData;
+	gameData: GameDataStorePayload;
+	userData: UserData;
 	timeDownStarted: boolean,
 	beforeContinueRemaining: number;
 	autoProceedRemaining: number;

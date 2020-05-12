@@ -89,6 +89,15 @@ class _Platform
 		});
 	}
 
+	public async sendChat(guid: string, gameId: string, message: string)
+	{
+		return _Platform.doPost(`/api/game/send-chat`, {
+			gameId: gameId,
+			message: message,
+			playerGuid: guid
+		})
+	}
+
 	public async joinGame(guid: string, gameId: string, nickname: string, isSpectating = false)
 	{
 		this.trackEvent("join", gameId);

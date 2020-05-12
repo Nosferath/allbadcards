@@ -44,7 +44,6 @@ export interface IGameSettings
 
 export interface GameItem extends ClientGameItem
 {
-	dateCreated: Date;
 	dateUpdated: Date;
 	usedBlackCards: CardPackMap;
 	usedWhiteCards: CardPackMap;
@@ -52,6 +51,7 @@ export interface GameItem extends ClientGameItem
 
 export interface ClientGameItem
 {
+	dateCreated: Date;
 	id: string;
 	roundIndex: number;
 	roundStarted: boolean;
@@ -75,6 +75,13 @@ export interface ClientGameItem
 export interface GamePayload extends Partial<ClientGameItem>
 {
 	buildVersion: number;
+}
+
+export interface ChatPayload
+{
+	message: string;
+	playerGuid: string;
+	gameId: string;
 }
 
 export interface ICardTypes

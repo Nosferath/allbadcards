@@ -33,13 +33,16 @@ export abstract class DataStore<TState extends {},
 		return this._observers;
 	}
 
-	public listen(callback: (data: TState) => void, params?: TObserverParams)
+	public listen(callback: (data: TState) => void, params?: TObserverParams, callbackOnListen = true)
 	{
 		const observer = new DataStoreObserver(callback, params);
 
 		this._observers.push(observer);
 
-		observer.callback(this._currentState);
+		if(callbackOnListen)
+		{
+			observer.callback(this._currentState);
+		}
 
 		return () => { this._observers.splice(this._observers.indexOf(observer), 1) };
 	}

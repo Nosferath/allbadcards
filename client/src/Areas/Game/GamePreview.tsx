@@ -8,6 +8,7 @@ import {GameRoster} from "./Components/GameRoster";
 import {CopyGameLink} from "../../UI/CopyGameLink";
 import Divider from "@material-ui/core/Divider";
 import {useDataStore} from "../../Global/Utils/HookUtils";
+import {SocketDataStore} from "../../Global/DataStore/SocketDataStore";
 
 interface IGamePreviewProps
 {
@@ -28,8 +29,9 @@ const GamePreview: React.FC<IGamePreviewProps> = (props) =>
 	const classes = useStyles();
 
 	const gameData = useDataStore(GameDataStore);
+	const socketData = useDataStore(SocketDataStore);
 
-	if(props.id && !gameData.game && gameData.loaded && gameData.hasConnection)
+	if(props.id && !gameData.game && gameData.loaded && socketData.hasConnection)
 	{
 		return <Typography>No Game Found</Typography>;
 	}

@@ -1,8 +1,8 @@
 import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import * as React from "react";
-import {IGameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {IUserData} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
+import {UserData} from "../../../Global/DataStore/UserDataStore";
 import {useState} from "react";
 import sanitize from "sanitize-html";
 import {CardId} from "../../../Global/Platform/Contract";
@@ -13,8 +13,8 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 
 interface Props
 {
-	gameData: IGameDataStorePayload;
-	userData: IUserData;
+	gameData: GameDataStorePayload;
+	userData: UserData;
 	targetPicked: number;
 	onPickUpdate: (cards: string[]) => void;
 }

@@ -12,14 +12,18 @@ import {logError, logMessage, logWarning} from "../logger";
 import {AbortError, createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
-import {CardId, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
+import {CardId, ChatPayload, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../User/UserUtils";
+import {ChatMessage} from "../SocketMessages/ChatMessage";
 import {serverGameToClientGame} from "../Utils/GameUtils";
 
 interface IWSMessage
 {
-	playerGuid: string;
+	user: {
+		playerGuid: string;
+	};
+	gameId: string;
 }
 
 export let GameManager: _GameManager;
@@ -32,7 +36,8 @@ class _GameManager
 	private redisReconnectInterval: NodeJS.Timeout | null = null;
 
 	// key = playerGuid, value = WS key
-	private wsClientPlayerMap: { [key: string]: string[] } = {};
+	private wsClientPlayerMap: { [playerGuid: string]: string[] } = {};
+	private wsGameIdPlayerMap: { [gameid: string]: string[] } = {};
 	private gameRoundTimers: { [gameId: string]: NodeJS.Timeout } = {};
 	private gameCardTimers: { [gameId: string]: NodeJS.Timeout } = {};
 
@@ -135,15 +140,28 @@ class _GameManager
 
 		this.redisSub.on("error", onError);
 		this.redisSub.on("connect", () => this.redisReconnectInterval && clearInterval(this.redisReconnectInterval));
-		this.redisSub.on("message", async (channel, gameDataString) =>
+		this.redisSub.on("message", async (channel, dataString) =>
 		{
-			const gameItem = JSON.parse(gameDataString) as GameItem;
-			logMessage(`Redis update for game ${gameItem.id}`);
+			logMessage(channel, dataString);
+			switch (channel)
+			{
+				case "games":
+					const gameItem = JSON.parse(dataString) as GameItem;
+					logMessage(`Redis update for game ${gameItem.id}`);
 
-			this.updateSocketGames(gameItem);
+					this.updateSocketGames(gameItem);
+					break;
+
+				case "chat":
+					const chatPayload = JSON.parse(dataString) as ChatPayload;
+					logMessage(`Chat update for game ${chatPayload.gameId}`);
+
+					this.updateSocketChat(chatPayload);
+					break;
+			}
 		});
 
-		this.redisSub.subscribe(`games`);
+		this.redisSub.subscribe(`games`, `chat`);
 	}
 
 	private initializeWebSockets(server: http.Server)
@@ -165,8 +183,15 @@ class _GameManager
 				ws.on("message", (message) =>
 				{
 					const data = JSON.parse(message as string) as IWSMessage;
-					const existingConnections = this.wsClientPlayerMap[data.playerGuid] ?? [];
-					this.wsClientPlayerMap[data.playerGuid] = [id, ...existingConnections];
+
+					if(data.user)
+					{
+						const existingPlayerConnections = this.wsClientPlayerMap[data.user.playerGuid] ?? [];
+						this.wsClientPlayerMap[data.user.playerGuid] = [id, ...existingPlayerConnections];
+					}
+
+					const existingGameConnections = this.wsGameIdPlayerMap[data.gameId] ?? [];
+					this.wsGameIdPlayerMap[data.gameId] = [id, ...existingGameConnections];
 				});
 
 				ws.on("close", () =>
@@ -234,14 +259,21 @@ class _GameManager
 			$set: newGame
 		});
 
-		this.updateRedis(newGame);
+		this.updateRedisGame(newGame);
 
 		return newGame;
 	}
 
-	private updateRedis(gameItem: GameItem)
+	private updateRedisGame(gameItem: GameItem)
 	{
 		this.redisPub.publish("games", JSON.stringify(gameItem));
+	}
+
+	public updateRedisChat(player: IPlayer, chatPayload: ChatPayload)
+	{
+		this.validateUser(player);
+
+		this.redisPub.publish("chat", JSON.stringify(chatPayload));
 	}
 
 	private updateSocketGames(game: GameItem)
@@ -255,6 +287,8 @@ class _GameManager
 			.map(pg => this.wsClientPlayerMap[pg])
 			.reduce((acc, val) => acc.concat(val), []);
 
+		this.wsGameIdPlayerMap[game.id] = wsIds;
+
 		const gameWithVersion: GamePayload = {
 			...clientGame,
 			buildVersion: Config.Version
@@ -262,9 +296,23 @@ class _GameManager
 
 		this.wss.clients.forEach(ws =>
 		{
-			if (wsIds.includes((ws as any).id))
+			if (wsIds?.includes((ws as any).id))
 			{
 				ws.send(GameMessage.send(gameWithVersion));
+			}
+		});
+	}
+
+	private updateSocketChat(chatPayload: ChatPayload)
+	{
+		// Get every socket that needs updating
+		const wsIds = this.wsGameIdPlayerMap[chatPayload.gameId];
+
+		this.wss.clients.forEach(ws =>
+		{
+			if (wsIds.includes((ws as any).id))
+			{
+				ws.send(ChatMessage.send(chatPayload));
 			}
 		});
 	}
@@ -896,7 +944,6 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		const played = existingGame.roundCards[winnerPlayerGuid];
 		newGame.players[winnerPlayerGuid].wins = newGame.players[winnerPlayerGuid].wins + 1;
 		newGame.lastWinner = newGame.players[winnerPlayerGuid];
 

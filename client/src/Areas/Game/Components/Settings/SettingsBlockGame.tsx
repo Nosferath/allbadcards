@@ -1,5 +1,5 @@
 import React, {ChangeEvent, useState} from "react";
-import {GameDataStore, IGameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import FormControl from "@material-ui/core/FormControl";
 import Divider from "@material-ui/core/Divider";
 import {Checkbox, ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
@@ -52,7 +52,7 @@ export const SettingsBlockGame: React.FC = () =>
 
 interface IGameDataProps
 {
-	gameData: IGameDataStorePayload;
+	gameData: GameDataStorePayload;
 }
 
 let timeout = 0;

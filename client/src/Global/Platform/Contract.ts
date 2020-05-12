@@ -39,9 +39,17 @@ export interface GamesList extends WithBuildVersion
 	games: ClientGameItem[];
 }
 
+export interface ChatPayload
+{
+	message: string;
+	playerGuid: string;
+	gameId: string;
+}
+
 export interface ClientGameItem
 {
 	id: string;
+	dateCreated: Date;
 	roundIndex: number;
 	roundStarted: boolean;
 	ownerGuid: string;

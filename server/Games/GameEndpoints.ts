@@ -423,6 +423,26 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
+	app.post("/api/game/send-chat", async(req, res) => {
+		logMessage(req.url, req.body);
+		try
+		{
+			const player = playerFromReq(req);
+
+			await GameManager.updateRedisChat(player, {
+				gameId: req.body.gameId,
+				message: escape(req.body.message),
+				playerGuid: player.guid
+			});
+
+			sendWithBuildVersion({success: true}, res);
+		}
+		catch (error)
+		{
+			onError(res, error, req.url, req.query, req.body);
+		}
+	});
+
 	app.post("/api/game/next-round", async (req, res, next) =>
 	{
 		logMessage(req.url, req.body);

@@ -3,8 +3,8 @@ import Grid from "@material-ui/core/Grid";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import Divider from "@material-ui/core/Divider";
 import Button from "@material-ui/core/Button";
-import {GameDataStore, IGameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {IUserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
 import {LoadingButton} from "../../../UI/LoadingButton";
 import {Typography} from "@material-ui/core";
@@ -24,8 +24,8 @@ type State = IRevealWhitesState;
 
 interface IRevealWhitesState
 {
-	gameData: IGameDataStorePayload;
-	userData: IUserData;
+	gameData: GameDataStorePayload;
+	userData: UserData;
 	revealLoading: boolean;
 }
 
