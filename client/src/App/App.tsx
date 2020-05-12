@@ -22,11 +22,16 @@ import {GameSettings} from "../Areas/Game/Components/GameSettings";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 import {NicknameDialog} from "../UI/NicknameDialog";
 import {Platform} from "../Global/Platform/platform";
+import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
+	header: {
+		position: "relative",
+		zIndex: 1300
+	},
 	appBar: {
 		background: "black",
-		color: "white"
+		color: "white",
 	},
 	logoIcon: {
 		height: "2rem",
@@ -108,7 +113,7 @@ const App: React.FC = () =>
 				<meta name="description" content={`Play Cards Against Humanity${familyEdition} online, for free! Over 10,000 cards in total. Play with friends over video chat, or in your house with your family. `}/>
 			</Helmet>
 			<OuterContainer>
-				<AppBar className={classes.appBar} position="static" elevation={0}>
+				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
 					<Toolbar className={appBarClasses}>
 						<Typography variant={mobile ? "body1" : "h5"}>
 							<Link to={"/"} className={classes.logo}>
@@ -125,7 +130,7 @@ const App: React.FC = () =>
 					</Toolbar>
 				</AppBar>
 				<Paper square style={{padding: "0 1rem"}}>
-					<Container maxWidth={"lg"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
+					<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
 						<ErrorBoundary>
 							<Routes/>
 						</ErrorBoundary>
@@ -211,6 +216,7 @@ const AppBarButtons = () =>
 {
 	const preferences = useDataStore(PreferencesDataStore);
 	const gameData = useDataStore(GameDataStore);
+	const socketData = useDataStore(SocketDataStore);
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
 	const [settingsOpen, setSettingsOpen] = useState(false);
@@ -253,7 +259,7 @@ const AppBarButtons = () =>
 					<GameSettings/>
 				</DialogContent>
 			</Dialog>
-			<Dialog open={gameData.lostConnection} onClose={() =>
+			<Dialog open={socketData.lostConnection} onClose={() =>
 			{
 			}}>
 				<DialogTitle id="form-dialog-title">Lost Connection</DialogTitle>
@@ -264,7 +270,7 @@ const AppBarButtons = () =>
 					If this behavior continues, please <a target={"_blank"} href={"https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md"}>click here</a> to report it.
 				</DialogContent>
 				<DialogActions>
-					<Button color={"secondary"} variant={"outlined"} onClick={() => GameDataStore.reconnect()}>Retry</Button>
+					<Button color={"secondary"} variant={"outlined"} onClick={() => SocketDataStore.reconnect()}>Retry</Button>
 				</DialogActions>
 			</Dialog>
 		</>
@@ -295,7 +301,7 @@ const AppBarLeftButtons: React.FC<{isFamilyMode: boolean}> = (props) =>
 
 	const onNicknameConfirm = async (nickname: string) =>
 	{
-		GameDataStore.clear();
+		SocketDataStore.clear();
 		const game = await Platform.createGame(userData.playerGuid, nickname);
 		GameDataStore.storeOwnedGames(game);
 		history.push(`/game/${game.id}`)

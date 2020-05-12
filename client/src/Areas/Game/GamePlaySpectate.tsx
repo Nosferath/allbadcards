@@ -1,6 +1,6 @@
 import * as React from "react";
-import {GameDataStore, IGameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {IUserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
 import Grid from "@material-ui/core/Grid";
 import {BlackCard} from "../../UI/BlackCard";
 import Divider from "@material-ui/core/Divider";
@@ -24,8 +24,8 @@ type State = IGamePlaySpectateState;
 
 interface IGamePlaySpectateState
 {
-	gameData: IGameDataStorePayload;
-	userData: IUserData;
+	gameData: GameDataStorePayload;
+	userData: UserData;
 }
 
 export class GamePlaySpectate extends React.Component<Props, State>

@@ -1,26 +1,17 @@
-import GameStart from "./GameStart";
 import {Redirect, RouteComponentProps, withRouter} from "react-router";
 import React from "react";
-import GameJoin from "./GameJoin";
-import {GameDataStore, IGameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {GamePlayWhite} from "./GamePlayWhite";
-import {IUserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
-import {GamePlayBlack} from "./GamePlayBlack";
+import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
 import Helmet from "react-helmet";
-import {GamePlaySpectate} from "./GamePlaySpectate";
 import {Dialog, DialogContent, Typography} from "@material-ui/core";
 import {ContainerProgress} from "../../UI/ContainerProgress";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {Support} from "./Components/Support";
-import Grid from "@material-ui/core/Grid";
-import {Sponsor} from "../GameDashboard/SponsorList";
-import Divider from "@material-ui/core/Divider";
-import {ErrorBoundary} from "../../App/ErrorBoundary";
-import {ShowWinner} from "./Components/ShowWinner";
-import {Alert} from "@material-ui/lab";
-import Fab from "@material-ui/core/Fab";
-import {FiMessageCircle} from "react-icons/all";
 import {GameChatFab} from "./Components/Chat/GameChatFab";
+import {ChatSidebar} from "./Components/Chat/ChatSidebar";
+import {GameInner} from "./Components/GameInner";
+import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
+import moment from "moment";
 
 interface IGameParams
 {
@@ -29,34 +20,41 @@ interface IGameParams
 
 interface IGameState
 {
-	gameData: IGameDataStorePayload;
-	userData: IUserData;
+	socketData: SocketDataStorePayload;
+	gameData: GameDataStorePayload;
+	userData: UserData;
 	restartLoading: boolean;
 	restartDelayed: boolean;
 	showSupport: boolean;
+	chatDrawerOpen: boolean;
 }
 
 class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 {
 	private supportDelayTimeout = 0;
-	private restartDelayTimeout = 0;
 
 	constructor(props: RouteComponentProps<IGameParams>)
 	{
 		super(props);
 
 		this.state = {
+			socketData: SocketDataStore.state,
 			gameData: GameDataStore.state,
 			userData: UserDataStore.state,
 			restartLoading: false,
 			restartDelayed: true,
-			showSupport: false
+			showSupport: false,
+			chatDrawerOpen: true
 		};
 	}
 
 	public componentDidMount(): void
 	{
 		GameDataStore.hydrate(this.props.match.params.id);
+
+		SocketDataStore.listen(data => this.setState({
+			socketData: data
+		}));
 
 		GameDataStore.listen(data => this.setState({
 			gameData: data
@@ -118,23 +116,25 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			id,
 		} = this.props.match.params;
 
-		if(!id)
+		const {
+			chatDrawerOpen
+		} = this.state;
+
+		if (!id)
 		{
-			return <Redirect to={"/"} />;
+			return <Redirect to={"/"}/>;
 		}
 
 		const {
-			started,
-			chooserGuid,
+			dateCreated,
 			ownerGuid,
 			spectators,
 			pendingPlayers,
 			players,
 			settings,
-			kickedPlayers
 		} = this.state.gameData.game ?? {};
 
-		if (!this.state.gameData.game || !this.state.gameData.loaded || !this.state.gameData.hasConnection)
+		if (!this.state.gameData.game || !this.state.gameData.loaded || !this.state.socketData.hasConnection)
 		{
 			return <ContainerProgress/>;
 		}
@@ -144,66 +144,20 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		} = this.state.userData;
 
 		const owner = players?.[ownerGuid ?? ""];
-		const isOwner = ownerGuid === this.state.userData.playerGuid;
-		const isChooser = playerGuid === chooserGuid;
 		const amInGame = playerGuid in (players ?? {});
 		const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
 		const title = `${unescape(owner?.nickname ?? "")}'s game`;
 
 		const playerGuids = Object.keys(players ?? {});
 		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
-
-		const inviteLink = (settings?.inviteLink?.length ?? 0) > 25
-			? `${settings?.inviteLink?.substr(0, 25)}...`
-			: settings?.inviteLink;
-
-		const iWasKicked = !!kickedPlayers?.[playerGuid];
+		const canChat = moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 
 		return (
 			<>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
-				<div style={{minHeight: "100vh"}}>
-					{iWasKicked && (
-						<Alert variant={"filled"} severity={"error"}>
-							<Typography>
-								You left or were kicked from this game
-							</Typography>
-						</Alert>
-					)}
-					{!winnerGuid && settings?.inviteLink && (
-						<Typography variant={"caption"}>
-							Chat/Video Invite: <a href={settings.inviteLink} target={"_blank"} rel={"nofollow noreferrer"}>{inviteLink}</a>
-						</Typography>
-					)}
-					{winnerGuid && (
-						<ShowWinner/>
-					)}
-					{!winnerGuid && (
-						<ErrorBoundary>
-							{(!started || !(amInGame || amSpectating)) && (
-								<BeforeGame gameId={id} isOwner={isOwner}/>
-							)}
-
-							{started && amInGame && !isChooser && (
-								<GamePlayWhite/>
-							)}
-
-							{started && amInGame && isChooser && (
-								<GamePlayBlack/>
-							)}
-
-							{started && amSpectating && (
-								<GamePlaySpectate/>
-							)}
-						</ErrorBoundary>
-					)}
-				</div>
-				<Grid style={{marginTop: "5rem"}}>
-					<Divider style={{margin: "1rem 0"}}/>
-					<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
-				</Grid>
+				<GameInner gameId={id} chatDrawerOpen={chatDrawerOpen}/>
 				{winnerGuid && (
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
 						<DialogContent style={{padding: "2rem"}}>
@@ -226,31 +180,15 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 						</DialogContent>
 					</Dialog>
 				)}
-				<GameChatFab showChat={amInGame || amSpectating}/>
+				{canChat && (
+					<>
+						<GameChatFab showChat={amInGame || amSpectating}/>
+						<ChatSidebar chatDrawerOpen={chatDrawerOpen}/>
+					</>
+				)}
 			</>
 		);
 	}
-};
-
-interface BeforeGameProps
-{
-	isOwner: boolean;
-	gameId: string;
-}
-
-const BeforeGame: React.FC<BeforeGameProps> = (props) =>
-{
-	return (
-		<>
-			{props.isOwner && (
-				<GameStart id={props.gameId}/>
-			)}
-
-			{!props.isOwner && (
-				<GameJoin id={props.gameId}/>
-			)}
-		</>
-	);
 };
 
 export default withRouter(Game);

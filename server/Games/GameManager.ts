@@ -183,9 +183,14 @@ class _GameManager
 				ws.on("message", (message) =>
 				{
 					const data = JSON.parse(message as string) as IWSMessage;
-					const existingPlayerConnections = this.wsClientPlayerMap[data.user.playerGuid] ?? [];
+
+					if(data.user)
+					{
+						const existingPlayerConnections = this.wsClientPlayerMap[data.user.playerGuid] ?? [];
+						this.wsClientPlayerMap[data.user.playerGuid] = [id, ...existingPlayerConnections];
+					}
+
 					const existingGameConnections = this.wsGameIdPlayerMap[data.gameId] ?? [];
-					this.wsClientPlayerMap[data.user.playerGuid] = [id, ...existingPlayerConnections];
 					this.wsGameIdPlayerMap[data.gameId] = [id, ...existingGameConnections];
 				});
 

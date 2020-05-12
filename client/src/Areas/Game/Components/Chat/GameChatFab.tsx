@@ -1,10 +1,12 @@
-import {Dialog, DialogContent} from "@material-ui/core";
+import {Badge, Dialog, DialogContent, useMediaQuery} from "@material-ui/core";
 import React, {useState} from "react";
 import Helmet from "react-helmet";
 import Fab from "@material-ui/core/Fab";
 import {FiMessageCircle} from "react-icons/all";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameChat} from "./GameChat";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 
 interface IGameChatProps
 {
@@ -25,6 +27,23 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 {
 	const classes = useStyles();
 	const [dialogOpen, setDialogOpen] = useState(false);
+	const tablet = useMediaQuery('(max-width:1200px)');
+	const chatData = useDataStore(ChatDataStore);
+
+	const openDialog = () => {
+		setDialogOpen(true);
+		ChatDataStore.acknowledge();
+	};
+
+	if (!tablet)
+	{
+		return null;
+	}
+
+	if(dialogOpen && chatData.unseenChatMessages > 0)
+	{
+		ChatDataStore.acknowledge();
+	}
 
 	return (
 		<>
@@ -32,9 +51,11 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 				<Fab variant="extended"
 				     color="secondary"
 				     aria-label="add"
-				     onClick={() => setDialogOpen(true)}
+				     onClick={openDialog}
 				     style={{position: "fixed", bottom: 15, right: 15, zIndex: 15}}>
-					<FiMessageCircle style={{marginRight: "1rem"}}/> Chat
+					<Badge badgeContent={chatData.unseenChatMessages} color="primary">
+						<FiMessageCircle style={{marginRight: "1rem", fontSize: "1.5rem"}}/> Chat
+					</Badge>
 				</Fab>
 			)}
 			<Dialog open={dialogOpen} maxWidth={"md"} fullWidth={true} classes={{

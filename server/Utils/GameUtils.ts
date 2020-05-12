@@ -3,6 +3,7 @@ import {ClientGameItem, GameItem} from "../Games/Contract";
 export const serverGameToClientGame = (game: GameItem): ClientGameItem =>
 {
 	const {
+		dateCreated,
 		blackCard,
 		chooserGuid,
 		id,
@@ -23,6 +24,7 @@ export const serverGameToClientGame = (game: GameItem): ClientGameItem =>
 	} = game;
 
 	return {
+		dateCreated,
 		blackCard,
 		chooserGuid,
 		id,

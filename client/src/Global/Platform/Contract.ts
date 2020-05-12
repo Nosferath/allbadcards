@@ -49,6 +49,7 @@ export interface ChatPayload
 export interface ClientGameItem
 {
 	id: string;
+	dateCreated: Date;
 	roundIndex: number;
 	roundStarted: boolean;
 	ownerGuid: string;

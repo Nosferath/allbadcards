@@ -16,6 +16,8 @@ import Typography from "@material-ui/core/Typography";
 import Tooltip from "@material-ui/core/Tooltip";
 import {GamePayload} from "../../../Global/Platform/Contract";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {useDataStore} from "../../../Global/Utils/HookUtils";
+import {SocketDataStore} from "../../../Global/DataStore/SocketDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
@@ -35,17 +37,12 @@ const getPlayerOrPending = (game: GamePayload | undefined, guid: string) =>
 export const GameRoster = () =>
 {
 	const classes = useStyles();
-	const [gameData, setGameData] = useState(GameDataStore.state);
-	const [userData, setUserData] = useState(UserDataStore.state);
+	const socketData = useDataStore(SocketDataStore);
+	const gameData = useDataStore(GameDataStore);
+	const userData = useDataStore(UserDataStore);
 	const [kickCandidate, setKickCandidate] = useState<string | null>(null);
 
-	useEffect(() =>
-	{
-		GameDataStore.listen(setGameData);
-		UserDataStore.listen(setUserData);
-	}, []);
-
-	if (!gameData.game || !gameData.loaded || !gameData.hasConnection)
+	if (!gameData.game || !gameData.loaded || !socketData.hasConnection)
 	{
 		return null;
 	}

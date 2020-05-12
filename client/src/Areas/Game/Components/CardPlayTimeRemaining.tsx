@@ -2,13 +2,13 @@ import Grid from "@material-ui/core/Grid";
 import {CircularProgress, Typography} from "@material-ui/core";
 import * as React from "react";
 import {useState} from "react";
-import {IGameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
+import {GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
 import moment from "moment";
 import {useEffect} from "react";
 
 interface Props
 {
-	gameData: IGameDataStorePayload;
+	gameData: GameDataStorePayload;
 }
 
 let interval = 0;

@@ -4,7 +4,7 @@ import Button from "@material-ui/core/Button";
 import {RouteComponentProps, withRouter} from "react-router";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import {Platform} from "../../Global/Platform/platform";
-import {IUserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
+import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
 import {NicknameDialog} from "../../UI/NicknameDialog";
 import Container from "@material-ui/core/Container";
 import Paper from "@material-ui/core/Paper";
@@ -16,6 +16,7 @@ import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {ClientGameItem} from "../../Global/Platform/Contract";
 import {Link} from "react-router-dom";
+import {SocketDataStore} from "../../Global/DataStore/SocketDataStore";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -30,7 +31,7 @@ type State = ICreationState;
 
 interface ICreationState
 {
-	userData: IUserData;
+	userData: UserData;
 	nicknameDialogOpen: boolean;
 	createLoading: boolean;
 }
@@ -75,7 +76,7 @@ class GameDashboard extends React.Component<Props, State>
 
 	private onNicknameConfirm = async (nickname: string) =>
 	{
-		GameDataStore.clear();
+		SocketDataStore.clear();
 		const game = await Platform.createGame(this.state.userData.playerGuid, nickname);
 		this.setState({
 			createLoading: false
@@ -150,12 +151,12 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/11</strong>
+								<li>Adding chat!</li>
+								<br/>
 								<strong>Updates - 5/10</strong>
 								<li>Added round timer to prevent games stopping if players leave</li>
 								<li>Removed the limitation preventing games from starting without human players</li>
-								<br/>
-								<strong>Updates - 5/5</strong>
-								<li>Added option for writing your own answers!</li>
 								<br/>
 							</Typography>
 						</Grid>

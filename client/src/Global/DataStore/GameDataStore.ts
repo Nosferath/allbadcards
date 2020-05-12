@@ -10,6 +10,8 @@ import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
 import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
 import moment from "moment";
+import {SocketDataStore} from "./SocketDataStore";
+import {ChatDataStore} from "./ChatDataStore";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -17,17 +19,15 @@ export type WhiteCardMap = {
 	}
 };
 
-export interface IGameDataStorePayload
+export interface GameDataStorePayload
 {
 	/**
 	 * This is used just to SET settings. Reading settings should be done using the `game` property
 	 */
 	ownerSettings: IGameSettings,
-	hasConnection: boolean;
 	loaded: boolean;
 	familyMode: boolean;
 	game: GamePayload | null;
-	chat: ChatPayload[];
 	loadedPacks: ICardPackSummary[];
 	roundStartTime: moment.Moment;
 	cardcastPackDefs: { [key: string]: IDeck };
@@ -35,20 +35,16 @@ export interface IGameDataStorePayload
 	roundCardDefs: WhiteCardMap;
 	playerCardDefs: WhiteCardMap;
 	blackCardDef: IBlackCardDefinition | null;
-	lostConnection: boolean;
 }
 
-let manualClose = false;
-let connectionOpen = false;
-
-class _GameDataStore extends DataStore<IGameDataStorePayload>
+class _GameDataStore extends DataStore<GameDataStorePayload>
 {
-	private static InitialState: IGameDataStorePayload = {
+	private initialized = false;
+
+	private static InitialState: GameDataStorePayload = {
 		loaded: false,
-		hasConnection: false,
 		familyMode: location.hostname.startsWith("not."),
 		game: null,
-		chat: [],
 		loadedPacks: [],
 		roundCardDefs: {},
 		playerCardDefs: {},
@@ -69,80 +65,35 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			winnerBecomesCzar: false,
 			roundTimeoutSeconds: 60
 		},
-		lostConnection: false
 	};
 
 	public static Instance = new _GameDataStore(_GameDataStore.InitialState);
 
-	private ws: WebSocket | null = null;
-
 	public initialize()
 	{
-		if (this.ws)
+		if (this.initialized)
 		{
-			this.ws.close();
-			manualClose = true;
+			return;
 		}
 
-		const isLocal = !!location.hostname.match("local");
-		const protocol = location.protocol === "http:" ? "ws:" : "wss:";
-		const url = isLocal
-			? `ws://${location.hostname}:8080`
-			: `${protocol}//${location.hostname}`;
+		this.initialized = true;
 
-		this.ws = new WebSocket(url);
-
-		this.ws.onopen = (e) =>
+		SocketDataStore.listen(data =>
 		{
-			manualClose = false;
-			connectionOpen = true;
-			console.log(e);
-			this.ws?.send(JSON.stringify({
-				user: UserDataStore.state,
-				gameId: GameDataStore.state.game?.id ?? "-1"
-			}));
-
-			this.update({
-				hasConnection: true,
-				lostConnection: false
-			});
-		};
-
-		this.ws.onmessage = (e) =>
-		{
-			const parsed = JSON.parse(e.data);
-			if("game" in parsed)
+			if(data.updateType === "game" && data.gamePayload)
 			{
-				const data = JSON.parse(e.data) as { game: GamePayload };
-				if (!this.state.game?.id || data.game.id === this.state.game?.id)
+				if (!this.state.game?.id || data.gamePayload?.id === this.state.game?.id)
 				{
-					if (!data.game.roundCardsCustom)
+					if (data.gamePayload && !data.gamePayload?.roundCardsCustom)
 					{
-						data.game.roundCardsCustom = {};
+						data.gamePayload.roundCardsCustom = {};
 					}
-					this.update(data);
-				}
-			}
-			else if("chat" in parsed)
-			{
-				const data = JSON.parse(e.data) as { chat: ChatPayload };
-				if (!this.state.game?.id || data.chat.gameId === this.state.game?.id)
-				{
 					this.update({
-						chat: [...this.state.chat, data.chat]
+						game: data.gamePayload
 					});
 				}
 			}
-		};
-
-		this.ws.onclose = () =>
-		{
-			connectionOpen = false;
-			if (!manualClose)
-			{
-				this.retry();
-			}
-		};
+		});
 	}
 
 	public getDefaultPacks(packs: ICardPackSummary[])
@@ -170,44 +121,11 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 
 	public clear()
 	{
-		this.ws?.close();
 		this.update(_GameDataStore.InitialState);
 	}
 
-	public reconnect()
-	{
-		this.retry(5);
-	}
 
-	private retry(count = 0)
-	{
-		this.update({
-			hasConnection: false
-		});
-
-		console.log("Lost server connection. Retrying...", count);
-
-		this.initialize();
-
-		setTimeout(() =>
-		{
-			if (!connectionOpen)
-			{
-				if (count < 5)
-				{
-					this.retry(count + 1);
-				}
-				else
-				{
-					this.update({
-						lostConnection: true
-					});
-				}
-			}
-		}, 2000);
-	}
-
-	protected update(data: Partial<IGameDataStorePayload>)
+	protected update(data: Partial<GameDataStorePayload>)
 	{
 		let prev = {...this.state};
 
@@ -267,7 +185,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 			});
 		}
 
-		if(!prev.game?.roundStarted && this.state.game?.roundStarted)
+		if (!prev.game?.roundStarted && this.state.game?.roundStarted)
 		{
 			this.update({
 				roundStartTime: moment()
@@ -300,7 +218,7 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 		});
 
 		const becameCzar = prev.game?.chooserGuid !== meGuid && this.state.game?.chooserGuid === meGuid;
-		if(becameCzar)
+		if (becameCzar)
 		{
 			AudioUtils.multiTone(3);
 		}
@@ -386,7 +304,9 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 					ownerSettings: data.settings
 				});
 
-				this.initialize()
+				SocketDataStore.initialize();
+				ChatDataStore.initialize();
+				this.initialize();
 
 				if (this.state.loadedPacks.length === 0)
 				{
@@ -404,7 +324,8 @@ class _GameDataStore extends DataStore<IGameDataStorePayload>
 							this.update({
 								loadedPacks: data,
 								ownerSettings
-							});;
+							});
+							;
 						});
 				}
 			})

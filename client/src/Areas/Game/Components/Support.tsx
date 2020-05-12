@@ -66,6 +66,7 @@ export const Support = () =>
 		}}>
 			<Typography variant={"h6"}>Did you enjoy the game? One dude made this site and it runs on donations!</Typography>
 			<Typography style={{marginTop: "1rem"}}>
+				{thankYouButton}
 				<List>
 					<ListItem>
 						<ListItemText style={{textAlign: "center"}} primary={<>
@@ -83,8 +84,6 @@ export const Support = () =>
 						</>}/>
 					</ListItem>
 				</List>
-				<div>or</div>
-				{thankYouButton}
 			</Typography>
 		</div>
 	);

@@ -4,13 +4,13 @@ import {GameDataStore} from "./GameDataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
 
-export interface IUserData
+export interface UserData
 {
 	wsId: string | null;
 	playerGuid: string;
 }
 
-class _UserDataStore extends DataStore<IUserData>
+class _UserDataStore extends DataStore<UserData>
 {
 	private static lsKey = "guid";
 
@@ -19,7 +19,7 @@ class _UserDataStore extends DataStore<IUserData>
 		wsId: null
 	});
 
-	constructor(params: IUserData)
+	constructor(params: UserData)
 	{
 		super(params);
 	}
