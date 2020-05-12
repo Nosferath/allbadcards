@@ -305,7 +305,10 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 				});
 
 				SocketDataStore.initialize();
+
+				ChatDataStore.clear();
 				ChatDataStore.initialize();
+
 				this.initialize();
 
 				if (this.state.loadedPacks.length === 0)

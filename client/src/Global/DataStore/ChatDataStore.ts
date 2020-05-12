@@ -5,7 +5,7 @@ import deepEqual from "deep-equal";
 
 export interface ChatDataStorePayload
 {
-	chat: ChatPayload[];
+	chat: { [gameId: string]: ChatPayload[] };
 	unseenChatMessages: number;
 	newMessages: boolean;
 }
@@ -16,7 +16,7 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 	private destroyer: (() => void) | null = null;
 
 	public static Instance = new _ChatDataStore({
-		chat: [],
+		chat: {},
 		unseenChatMessages: 0,
 		newMessages: false
 	});
@@ -34,10 +34,17 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 		{
 			if (data.updateType === "chat" && data.chatPayload)
 			{
-				const lastMessageSame = deepEqual(this.state.chat[this.state.chat.length - 1], data.chatPayload);
-				let newChat = !lastMessageSame
-					? [...this.state.chat, data.chatPayload]
-					: this.state.chat;
+				const gameId = data.chatPayload.gameId;
+				let newChat = {...this.state.chat};
+				if(!(gameId in newChat))
+				{
+					newChat[gameId] = [];
+				}
+
+				const thisGameChat = newChat[gameId];
+				const lastMessageSame = deepEqual(thisGameChat[thisGameChat.length - 1], data.chatPayload);
+
+				newChat[gameId] = [...newChat[gameId], data.chatPayload];
 
 				this.update({
 					chat: newChat,
@@ -59,7 +66,7 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 		this.destroyer?.();
 		this.initialized = false;
 		this.update({
-			chat: [],
+			chat: {},
 			newMessages: false,
 			unseenChatMessages: 0
 		})

@@ -83,7 +83,8 @@ export const GameChat = () =>
 	const getNickname = (playerGuid: string) => gameData.game?.players?.[playerGuid]?.nickname ?? "Spectator";
 	const me = userData.playerGuid;
 	const classes = useStyles();
-	const noMessages = !chatData.chat || chatData.chat.length === 0;
+	const thisGameChat = chatData.chat[gameData.game?.id ?? ""] ?? [];
+	const noMessages = !thisGameChat || thisGameChat.length === 0;
 
 	return (
 		<>
@@ -92,12 +93,12 @@ export const GameChat = () =>
 					{noMessages && (
 						<div style={{textAlign: "center", opacity: 0.5}}>Send a message to the rest of the players!</div>
 					)}
-					{chatData.chat?.map((chatPayload, i) => (
+					{thisGameChat?.map((chatPayload, i) => (
 						<ChatMessage
 							isSelf={chatPayload.playerGuid === me}
 							nickname={getNickname(chatPayload.playerGuid)}
 							message={unescape(chatPayload.message)}
-							isConsecutive={chatData.chat?.[i + 1]?.playerGuid === chatPayload.playerGuid}
+							isConsecutive={thisGameChat?.[i + 1]?.playerGuid === chatPayload.playerGuid}
 						/>
 					))}
 				</div>
