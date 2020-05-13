@@ -1,7 +1,7 @@
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import React, {useEffect, useRef, useState} from "react";
-import {Button, CardActions, CardContent, Chip, TextField} from "@material-ui/core";
+import React, {ChangeEvent, useEffect, useRef, useState} from "react";
+import {Button, CardActions, CardContent, TextField} from "@material-ui/core";
 import {Platform} from "../../../../Global/Platform/platform";
 import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
 import classNames from "classnames";
@@ -15,13 +15,12 @@ const useStyles = makeStyles(theme => ({
 		justifyContent: "flex-end",
 		display: "flex",
 		flexDirection: "column",
-		maxHeight: "calc(100% - 74px)",
 		overflowY: "auto",
 		overflowX: "hidden",
 		"&::-webkit-scrollbar": {
 			display: "none"
 		},
-		width: "calc(100% + 50px)",
+		width: "calc(100% + 30px)",
 		paddingRight: 50
 	},
 	chatWrap: {
@@ -50,6 +49,14 @@ const useStyles = makeStyles(theme => ({
 	theirsWrapper: {
 		alignSelf: "flex-start"
 	},
+	cardActions: {
+		padding: 0
+	},
+	sendButton: {
+		margin: "0 !important",
+		height: "100%",
+		borderRadius: 0
+	}
 }));
 
 export const GameChat = () =>
@@ -59,7 +66,7 @@ export const GameChat = () =>
 		if (cardContentRef.current)
 		{
 			const el = cardContentRef.current as HTMLDivElement;
-			el.scrollTo({top: el.scrollHeight + el.clientHeight});
+			el.scrollTop = el.scrollHeight + el.clientHeight;
 		}
 	});
 	const gameData = useDataStore(GameDataStore);
@@ -103,21 +110,35 @@ export const GameChat = () =>
 					))}
 				</div>
 			</CardContent>
-			<CardActions>
+			<CardActions classes={{
+				root: classes.cardActions
+			}}>
 				<TextField
 					style={{flex: "1 0"}}
 					ref={inputRef as any}
 					value={pendingMessage}
 					variant={"outlined"}
 					multiline
+					InputProps={{
+						style: {
+							borderRadius: 0
+						}
+					}}
 					inputProps={{
 						maxLength: 500,
-						onKeyDown: (e) => e.which === 13 && send()
+						onKeyDown: (e) =>
+						{
+							if(e.which === 13 && !e.shiftKey)
+							{
+								send();
+								e.preventDefault();
+							}
+						}
 					}}
-					onChange={e => setPendingMessage(e.currentTarget.value)}
+					onChange={(e: ChangeEvent<HTMLTextAreaElement>) => setPendingMessage(e.currentTarget.value)}
 					color={"secondary"}
 				/>
-				<Button color={"secondary"} onClick={send} variant={"contained"}>Send</Button>
+				<Button color={"secondary"} onClick={send} variant={"contained"} className={classes.sendButton}>Send</Button>
 			</CardActions>
 		</>
 	);

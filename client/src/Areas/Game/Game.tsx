@@ -26,7 +26,6 @@ interface IGameState
 	restartLoading: boolean;
 	restartDelayed: boolean;
 	showSupport: boolean;
-	chatDrawerOpen: boolean;
 }
 
 class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
@@ -44,7 +43,6 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			restartLoading: false,
 			restartDelayed: true,
 			showSupport: false,
-			chatDrawerOpen: true
 		};
 	}
 
@@ -116,10 +114,6 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			id,
 		} = this.props.match.params;
 
-		const {
-			chatDrawerOpen
-		} = this.state;
-
 		if (!id)
 		{
 			return <Redirect to={"/"}/>;
@@ -157,7 +151,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
-				<GameInner gameId={id} chatDrawerOpen={chatDrawerOpen}/>
+				<GameInner gameId={id}/>
 				{winnerGuid && (
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
 						<DialogContent style={{padding: "2rem"}}>
@@ -183,7 +177,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				{canChat && (
 					<>
 						<GameChatFab showChat={amInGame || amSpectating}/>
-						<ChatSidebar chatDrawerOpen={chatDrawerOpen}/>
+						<ChatSidebar />
 					</>
 				)}
 			</>

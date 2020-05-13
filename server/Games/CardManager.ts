@@ -1,8 +1,7 @@
 import fs from "fs";
 import * as path from "path";
-import {CardId, GameItem, ICardPackDefinition, ICardTypes, CardPackMap} from "./Contract";
+import {CardId, CardPackMap, GameItem, ICardPackDefinition, ICardTypes} from "./Contract";
 import {CardCastConnector} from "./CardCastConnector";
-import deepEqual from "deep-equal";
 import cloneDeep from "clone-deep";
 
 export class CardManager
@@ -30,17 +29,17 @@ export class CardManager
 
 	private static getAllowedCard(allowedCards: CardPackMap, usedCards: CardPackMap): CardId
 	{
-		const packKeys = Object.keys(allowedCards);
-		const validPacksIds = packKeys.filter(k => {
+		const allowedCardsKeys = Object.keys(allowedCards);
+		const validPacksIds = allowedCardsKeys.filter(k => {
 			const totalPackCards = Object.keys(allowedCards[k]).length;
 			const usedPackCards = Object.keys(usedCards[k] ?? {}).length;
 			return usedPackCards < totalPackCards;
 		});
 		const randomPack = Math.floor(Math.random() * validPacksIds.length);
 		const chosenPackId = validPacksIds[randomPack];
-		const pack = allowedCards[chosenPackId];
-		const allowedPackCards = Object.keys(pack)
-			.filter(cardIndex => !Object.keys(usedCards[chosenPackId] ?? {}).includes(cardIndex));
+		const pack = allowedCards[chosenPackId] ?? {};
+		const packKeys = Object.keys(pack);
+		const allowedPackCards = packKeys.filter(cardIndex => !(cardIndex in (usedCards[chosenPackId] ?? {})));
 		const index = Math.floor(Math.random() * allowedPackCards.length);
 		const chosenCardIndex = parseInt(allowedPackCards[index]);
 
@@ -114,20 +113,25 @@ export class CardManager
 			return acc;
 		}, 0);
 
-		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
-
-		// If we run out of white cards, reset them
-		if (availableCardRemainingCount < playerKeys.length)
-		{
-			usedWhiteCards = {};
-		}
-
 		const blackCardPack = await CardManager.getPack(gameItem.blackCard.packId);
 		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
 		const pick = blackCard.pick;
 
 		// Assume the hand size is 10. If pick is more than 1, pick that many more.
 		const targetHandSize = 10 + (pick - 1);
+
+		const requiredCardCount = playerKeys.reduce((acc, pk) => {
+			acc += targetHandSize - gameItem.players[pk].whiteCards.length;
+			return acc;
+		}, 0);
+
+		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
+
+		// If we run out of white cards, reset them
+		if (availableCardRemainingCount < requiredCardCount)
+		{
+			usedWhiteCards = {};
+		}
 
 		let allowedCards: CardPackMap = {};
 		const includedPacks = [...gameItem.settings.includedPacks, ...gameItem.settings.includedCardcastPacks];

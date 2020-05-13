@@ -1,6 +1,8 @@
 import * as React from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {Container} from "@material-ui/core";
+import {ChatDataStore} from "../../../Global/DataStore/ChatDataStore";
+import {useDataStore} from "../../../Global/Utils/HookUtils";
 
 const useStyles = makeStyles({
 	container: {
@@ -26,10 +28,14 @@ const useStyles = makeStyles({
 
 export const Confirmation: React.FC = (props) =>
 {
+	const chatData = useDataStore(ChatDataStore);
+
 	const classes = useStyles();
 
+	const chatDrawerOpen = chatData.sidebarOpen;
+
 	return (
-		<div className={classes.container}>
+		<div className={classes.container} style={{maxWidth: chatDrawerOpen ? "calc(100% - 320px)" : "100%"}}>
 			<Container maxWidth={"xl"} style={{padding :0}}>
 				<div className={classes.inner}>
 					{props.children}
@@ -37,4 +43,4 @@ export const Confirmation: React.FC = (props) =>
 			</Container>
 		</div>
 	);
-}
+};
