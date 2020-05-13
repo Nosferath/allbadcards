@@ -3,6 +3,7 @@ import {GamePayload} from "../Platform/platform";
 import {ChatPayload} from "../Platform/Contract";
 import {UserDataStore} from "./UserDataStore";
 import {GameDataStore} from "./GameDataStore";
+import {ChatDataStore} from "./ChatDataStore";
 
 export interface SocketDataStorePayload
 {
@@ -99,7 +100,13 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 	public clear()
 	{
 		this.ws?.close();
+		this.update({
+			chatPayload: null,
+			gamePayload: null,
+			updateType: "chat"
+		});
 		GameDataStore.clear();
+		ChatDataStore.clear();
 	}
 
 	private retry(count = 0)

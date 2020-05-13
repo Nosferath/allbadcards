@@ -111,7 +111,7 @@ class _GameManager
 			throw new Error("Game not found!");
 		}
 
-		if(!existingGame.settings.roundTimeoutSeconds)
+		if (existingGame.settings.roundTimeoutSeconds === undefined)
 		{
 			existingGame.settings.roundTimeoutSeconds = 60;
 		}
@@ -641,10 +641,14 @@ class _GameManager
 
 		this.randomPlayersPlayCard(gameId);
 
-		this.gameCardTimers[gameId] = setTimeout(() => {
-			console.log("TIMEOUT REACHED");
-			this.playCardsForSlowPlayers(gameId);
-		}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
+		if (newGame.settings.roundTimeoutSeconds !== null)
+		{
+			this.gameCardTimers[gameId] = setTimeout(() =>
+			{
+				console.log("TIMEOUT REACHED");
+				this.playCardsForSlowPlayers(gameId);
+			}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
+		}
 
 		return newGame;
 	}
@@ -654,7 +658,7 @@ class _GameManager
 		const existingGame = await this.getGame(gameId);
 		const newGame = {...existingGame};
 
-		if(newGame.settings.customWhites)
+		if (newGame.settings.customWhites)
 		{
 			return;
 		}

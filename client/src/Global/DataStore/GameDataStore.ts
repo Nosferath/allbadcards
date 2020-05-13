@@ -305,7 +305,10 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 				});
 
 				SocketDataStore.initialize();
+
+				ChatDataStore.clear();
 				ChatDataStore.initialize();
+
 				this.initialize();
 
 				if (this.state.loadedPacks.length === 0)
@@ -460,7 +463,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		});
 	}
 
-	public setRoundTimeout(seconds: number)
+	public setRoundTimeout(seconds: number | null)
 	{
 		this.setSetting({
 			roundTimeoutSeconds: seconds

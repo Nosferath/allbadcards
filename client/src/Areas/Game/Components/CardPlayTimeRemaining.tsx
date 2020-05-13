@@ -18,9 +18,24 @@ export const CardPlayTimeRemaining: React.FC<Props> = (props) =>
 		gameData
 	} = props;
 
+	const timeoutEnabled = gameData.game?.settings.roundTimeoutSeconds !== null;
+
+	const timeoutValue = gameData.game?.settings.roundTimeoutSeconds ?? 0;
+
+	useEffect(() =>
+	{
+		if(timeoutEnabled)
+		{
+			clearInterval(interval);
+			interval = window.setInterval(calculateRemaining, 1000 / 30);
+
+			return () => clearInterval(interval);
+		}
+	});
+
 	const [timeRemaining, setTimeRemaining] = useState(0);
 
-	const endTime = gameData.roundStartTime.clone().add(gameData.ownerSettings.roundTimeoutSeconds, "seconds");
+	const endTime = gameData.roundStartTime.clone().add(timeoutValue, "seconds");
 
 	const calculateRemaining = () =>
 	{
@@ -28,15 +43,13 @@ export const CardPlayTimeRemaining: React.FC<Props> = (props) =>
 		setTimeRemaining(Math.max(diff, 0));
 	};
 
-	useEffect(() =>
+	const remainingPct = timeRemaining / (timeoutValue * 1000);
+
+
+	if(!timeoutEnabled)
 	{
-		clearInterval(interval);
-		interval = window.setInterval(calculateRemaining, 1000 / 30);
-
-		return () => clearInterval(interval);
-	});
-
-	const remainingPct = timeRemaining / (gameData.ownerSettings.roundTimeoutSeconds * 1000);
+		return null;
+	}
 
 	return (
 		<Grid container style={{justifyContent: "center", marginTop: "2rem"}} spacing={3}>

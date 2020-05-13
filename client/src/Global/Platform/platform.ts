@@ -91,6 +91,8 @@ class _Platform
 
 	public async sendChat(guid: string, gameId: string, message: string)
 	{
+		this.trackEvent("chat-message", gameId);
+
 		return _Platform.doPost(`/api/game/send-chat`, {
 			gameId: gameId,
 			message: message,
@@ -304,6 +306,8 @@ class _Platform
 
 	public registerUser()
 	{
+		this.trackEvent("register-user");
+
 		return _Platform.doGet<{ guid: string }>(`/api/user/register`);
 	}
 }

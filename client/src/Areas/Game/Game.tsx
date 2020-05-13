@@ -146,7 +146,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 
 		const playerGuids = Object.keys(players ?? {});
 		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
-		const canChat = moment(dateCreated).isAfter(moment(new Date(1589260798170)));
+		const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 
 		return (
 			<>

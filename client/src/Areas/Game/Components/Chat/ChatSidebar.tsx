@@ -1,12 +1,12 @@
 import {GameChat} from "./GameChat";
 import {Drawer, useMediaQuery} from "@material-ui/core";
-import React from "react";
+import React, {useEffect, useRef} from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
-import {useDataStore} from "../../../../Global/Utils/HookUtils";
 
 interface Props
 {
+	chatDrawerOpen: boolean;
 }
 
 const useStyles = makeStyles({
@@ -20,9 +20,12 @@ const useStyles = makeStyles({
 	}
 });
 
-export const ChatSidebar: React.FC<Props> = () =>
+export const ChatSidebar: React.FC<Props> = (
+	{
+		chatDrawerOpen
+	}
+) =>
 {
-	const chatData = useDataStore(ChatDataStore);
 	const classes = useStyles();
 	const tablet = useMediaQuery('(max-width:1200px)');
 
@@ -30,8 +33,6 @@ export const ChatSidebar: React.FC<Props> = () =>
 	{
 		return null;
 	}
-
-	const chatDrawerOpen = chatData.sidebarOpen;
 
 	return (
 		<Drawer
