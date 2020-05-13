@@ -1,13 +1,14 @@
-import {Express, Response, Request} from "express";
+import {Express, Request, Response} from "express";
 import {GameManager} from "./GameManager";
-import {CardManager} from "./CardManager";
+import {CardManager} from "../Cards/CardManager";
 import apicache from "apicache";
-import {logError, logMessage} from "../logger";
-import {Config} from "../../config/config";
+import {logError, logMessage} from "../../../logger";
+import {Config} from "../../../../config/config";
 import {ICardPackSummary, IPlayer} from "./Contract";
-import {UserUtils} from "../User/UserUtils";
+import {UserUtils} from "../../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
+import {PackManager} from "../Cards/PackManager";
 
 const cache = apicache.middleware;
 
@@ -127,17 +128,17 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 			switch (which)
 			{
 				case "all":
-					packIds = CardManager.packTypeDefinition.types.reduce((acc, type) =>
+					packIds = PackManager.packTypeDefinition.types.reduce((acc, type) =>
 					{
 						acc.push(...type.packs);
 						return acc;
 					}, [] as string[]);
 					break;
 				case "official":
-					packIds = CardManager.packTypeDefinition.types[0].packs;
+					packIds = PackManager.packTypeDefinition.types[0].packs;
 					break;
 				case "thirdParty":
-					packIds = CardManager.packTypeDefinition.types[1].packs;
+					packIds = PackManager.packTypeDefinition.types[1].packs;
 					break;
 				case "family":
 					packIds = ["family_edition"];
@@ -148,11 +149,11 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 			const packs = packIds.map(packId =>
 			{
-				const packDef = CardManager.packs[packId];
+				const packDef = PackManager.packs[packId];
 				return {
 					name: packDef.pack.name,
 					quantity: packDef.quantity,
-					isOfficial: CardManager.packTypeDefinition.types[0].packs.includes(packId),
+					isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
 					packId
 				} as ICardPackSummary
 			});

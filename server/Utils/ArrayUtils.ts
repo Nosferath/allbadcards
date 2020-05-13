@@ -29,5 +29,9 @@ export class ArrayUtils
 		const newValue = available[randomIndex];
 		const newUsed = [...used, newValue];
 		return [newValue, newUsed];
+	};
+
+	public static flatten = (arr: any[]) => {
+		return arr.reduce((acc, val) => acc.concat(val), []);
 	}
 }

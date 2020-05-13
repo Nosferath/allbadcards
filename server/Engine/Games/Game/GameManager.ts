@@ -1,22 +1,23 @@
-import {Database} from "../DB/Database";
+import {Database} from "../../../DB/Database";
 import shortid from "shortid";
 import {hri} from "allbadcards-human-readable-ids";
-import {CardManager} from "./CardManager";
-import WebSocket from "ws";
-import {GameMessage} from "../SocketMessages/GameMessage";
+import {CardManager} from "../Cards/CardManager";
 import * as http from "http";
-import {Config} from "../../config/config";
-import {ArrayUtils} from "../Utils/ArrayUtils";
+import {Config} from "../../../../config/config";
+import {ArrayUtils} from "../../../Utils/ArrayUtils";
 import {RandomPlayerNicknames} from "./RandomPlayers";
-import {logError, logMessage, logWarning} from "../logger";
-import {AbortError, createClient, RedisClient, RetryStrategy} from "redis";
-import * as fs from "fs";
-import * as path from "path";
-import {CardId, ChatPayload, ClientGameItem, GameItem, GamePayload, GamePlayer, IGameSettings, IPlayer, PlayerMap} from "./Contract";
+import {logError, logMessage} from "../../../logger";
+import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer} from "./Contract";
 import deepEqual from "deep-equal";
-import {UserUtils} from "../User/UserUtils";
-import {ChatMessage} from "../SocketMessages/ChatMessage";
-import {serverGameToClientGame} from "../Utils/GameUtils";
+import {UserUtils} from "../../User/UserUtils";
+import {PackManager} from "../Cards/PackManager";
+import cloneDeep from "clone-deep";
+import {CardCastConnector} from "./CardCastConnector";
+import {UserManager} from "../../User/UserManager";
+import {RedisConnector} from "../../Redis/RedisClient";
+import {PlayerManager} from "../Players/PlayerManager";
+import {GameSockets} from "../../Sockets/GameSockets";
+import {Game} from "./Game";
 
 interface IWSMessage
 {
@@ -30,14 +31,11 @@ export let GameManager: _GameManager;
 
 class _GameManager
 {
-	private wss: WebSocket.Server;
-	private redisPub: RedisClient;
-	private redisSub: RedisClient;
-	private redisReconnectInterval: NodeJS.Timeout | null = null;
+	private redisPub: RedisConnector;
+	private redisSub: RedisConnector;
+	private gameSockets: GameSockets;
 
 	// key = playerGuid, value = WS key
-	private wsClientPlayerMap: { [playerGuid: string]: string[] } = {};
-	private wsGameIdPlayerMap: { [gameid: string]: string[] } = {};
 	private gameRoundTimers: { [gameId: string]: NodeJS.Timeout } = {};
 	private gameCardTimers: { [gameId: string]: NodeJS.Timeout } = {};
 
@@ -46,7 +44,12 @@ class _GameManager
 		logMessage("Starting WebSocket Server");
 
 		Database.initialize();
-		this.initializeWebSockets(server);
+
+		const wsPort = Config.Environment === "local"
+			? 8080
+			: undefined;
+		this.gameSockets = new GameSockets(server, wsPort);
+
 		this.initializeRedis();
 	}
 
@@ -60,87 +63,12 @@ class _GameManager
 		return Database.db.collection<GameItem>("games");
 	}
 
-	private validateUser(user: IPlayer, game?: GameItem)
-	{
-		if (game)
-		{
-			const creationDate = game.dateCreated;
-			if (creationDate < new Date(1588317168552))
-			{
-				return true;
-			}
-		}
-
-		if (!UserUtils.validateUser(user))
-		{
-			throw new Error("You cannot perform this action because you are not this user.");
-		}
-	}
-
 	private initializeRedis()
 	{
-		const keysFile = fs.readFileSync(path.resolve(process.cwd(), "./config/keys.json"), "utf8");
-		const keys = JSON.parse(keysFile)[0];
-		const redisHost = keys.redisHost[Config.Environment];
-		const redisPort = keys.redisPort;
+		this.redisPub = RedisConnector.create();
+		this.redisSub = RedisConnector.create();
 
-		const retry_strategy: RetryStrategy = options =>
-		{
-			if (options.error && options.error.code === "ECONNREFUSED")
-			{
-				// End reconnecting on a specific error and flush all commands with
-				// a individual error
-				return new Error("The server refused the connection");
-			}
-			if (options.total_retry_time > 1000 * 60 * 60)
-			{
-				// End reconnecting after a specific timeout and flush all commands
-				// with a individual error
-				return new Error("Retry time exhausted");
-			}
-			if (options.attempt > 10)
-			{
-				// End reconnecting with built in error
-				return new Error("Too many retries");
-			}
-			// reconnect after
-			return Math.min(options.attempt * 100, 3000);
-		};
-
-		const onError = (error: any) =>
-		{
-			if (error instanceof AbortError)
-			{
-				this.redisReconnectInterval && clearInterval(this.redisReconnectInterval);
-				this.redisReconnectInterval = setInterval(() =>
-				{
-					logWarning("Attempting to reconnect to Redis...");
-					this.initializeRedis();
-				}, 10000);
-			}
-			logError(`Error from pub/sub: `, error);
-		};
-
-		this.redisPub = createClient({
-			host: redisHost,
-			port: redisPort,
-			auth_pass: keys.redisKey,
-			retry_strategy
-		});
-
-		this.redisPub.on("error", onError);
-		this.redisPub.on("connect", () => this.redisReconnectInterval && clearInterval(this.redisReconnectInterval));
-
-		this.redisSub = createClient({
-			host: redisHost,
-			port: redisPort,
-			auth_pass: keys.redisKey,
-			retry_strategy
-		});
-
-		this.redisSub.on("error", onError);
-		this.redisSub.on("connect", () => this.redisReconnectInterval && clearInterval(this.redisReconnectInterval));
-		this.redisSub.on("message", async (channel, dataString) =>
+		this.redisSub.client.on("message", async (channel, dataString) =>
 		{
 			logMessage(channel, dataString);
 			switch (channel)
@@ -149,77 +77,19 @@ class _GameManager
 					const gameItem = JSON.parse(dataString) as GameItem;
 					logMessage(`Redis update for game ${gameItem.id}`);
 
-					this.updateSocketGames(gameItem);
+					this.gameSockets.updateGames(gameItem);
 					break;
 
 				case "chat":
 					const chatPayload = JSON.parse(dataString) as ChatPayload;
 					logMessage(`Chat update for game ${chatPayload.gameId}`);
 
-					this.updateSocketChat(chatPayload);
+					this.gameSockets.updateChats(chatPayload);
 					break;
 			}
 		});
 
-		this.redisSub.subscribe(`games`, `chat`);
-	}
-
-	private initializeWebSockets(server: http.Server)
-	{
-		const port = Config.Environment === "local" ? {port: 8080} : undefined;
-
-		this.wss = new WebSocket.Server({
-			server,
-			...port,
-			perMessageDeflate: true
-		});
-
-		this.wss.on("connection", (ws, req) =>
-		{
-			const id = req.headers['sec-websocket-key'] as string | undefined;
-			if (id)
-			{
-				(ws as any)["id"] = id;
-				ws.on("message", (message) =>
-				{
-					const data = JSON.parse(message as string) as IWSMessage;
-
-					if(data.user)
-					{
-						const existingPlayerConnections = this.wsClientPlayerMap[data.user.playerGuid] ?? [];
-						this.wsClientPlayerMap[data.user.playerGuid] = [id, ...existingPlayerConnections];
-					}
-
-					const existingGameConnections = this.wsGameIdPlayerMap[data.gameId] ?? [];
-					this.wsGameIdPlayerMap[data.gameId] = [id, ...existingGameConnections];
-				});
-
-				ws.on("close", () =>
-				{
-					const matchingPlayerGuid = Object.keys(this.wsClientPlayerMap)
-						.find(playerGuid => this.wsClientPlayerMap[playerGuid].includes(id));
-
-					if (matchingPlayerGuid)
-					{
-						const existingConnections = this.wsClientPlayerMap[matchingPlayerGuid];
-						this.wsClientPlayerMap[matchingPlayerGuid] = existingConnections.filter(a => a !== id);
-					}
-				});
-			}
-		});
-
-	}
-
-	private static createPlayer(playerGuid: string, nickname: string, isSpectating: boolean, isRandom: boolean): GamePlayer
-	{
-		return {
-			guid: playerGuid,
-			whiteCards: [],
-			nickname,
-			wins: 0,
-			isSpectating,
-			isRandom
-		};
+		this.redisSub.client.subscribe(`games`, `chat`);
 	}
 
 	public async getGame(gameId: string)
@@ -266,60 +136,19 @@ class _GameManager
 
 	private updateRedisGame(gameItem: GameItem)
 	{
-		this.redisPub.publish("games", JSON.stringify(gameItem));
+		this.redisPub.client.publish("games", JSON.stringify(gameItem));
 	}
 
 	public updateRedisChat(player: IPlayer, chatPayload: ChatPayload)
 	{
-		this.validateUser(player);
+		UserManager.validateUser(player);
 
-		this.redisPub.publish("chat", JSON.stringify(chatPayload));
-	}
-
-	private updateSocketGames(game: GameItem)
-	{
-		const clientGame = serverGameToClientGame(game);
-
-		const playerGuids = Object.keys({...game.players, ...game.pendingPlayers, ...game.spectators, ...game.kickedPlayers});
-
-		// Get every socket that needs updating
-		const wsIds = playerGuids
-			.map(pg => this.wsClientPlayerMap[pg])
-			.reduce((acc, val) => acc.concat(val), []);
-
-		this.wsGameIdPlayerMap[game.id] = wsIds;
-
-		const gameWithVersion: GamePayload = {
-			...clientGame,
-			buildVersion: Config.Version
-		};
-
-		this.wss.clients.forEach(ws =>
-		{
-			if (wsIds?.includes((ws as any).id))
-			{
-				ws.send(GameMessage.send(gameWithVersion));
-			}
-		});
-	}
-
-	private updateSocketChat(chatPayload: ChatPayload)
-	{
-		// Get every socket that needs updating
-		const wsIds = this.wsGameIdPlayerMap[chatPayload.gameId];
-
-		this.wss.clients.forEach(ws =>
-		{
-			if (wsIds.includes((ws as any).id))
-			{
-				ws.send(ChatMessage.send(chatPayload));
-			}
-		});
+		this.redisPub.client.publish("chat", JSON.stringify(chatPayload));
 	}
 
 	public async createGame(owner: IPlayer, nickname: string, roundsToWin = 7, password = ""): Promise<GameItem>
 	{
-		this.validateUser(owner);
+		UserManager.validateUser(owner);
 
 		const ownerGuid = owner.guid;
 
@@ -339,7 +168,9 @@ class _GameManager
 				chooserGuid: null,
 				dateCreated: now,
 				dateUpdated: now,
-				players: {[ownerGuid]: _GameManager.createPlayer(ownerGuid, nickname, false, false)},
+				players: {
+					[ownerGuid]: PlayerManager.createPlayer(ownerGuid, nickname, false, false)
+				},
 				playerOrder: [],
 				spectators: {},
 				pendingPlayers: {},
@@ -377,7 +208,7 @@ class _GameManager
 
 			logMessage(`Created game for ${ownerGuid}: ${game.id}`);
 
-			this.updateSocketGames(game);
+			this.gameSockets.updateGames(game);
 
 			return game;
 		}
@@ -395,7 +226,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		if (Object.keys(existingGame.players).length >= existingGame.settings.playerLimit)
 		{
@@ -415,7 +246,7 @@ class _GameManager
 		// Otherwise, make a new player
 		else
 		{
-			const newPlayer = _GameManager.createPlayer(playerGuid, escape(nickname), isSpectating, isRandom);
+			const newPlayer = PlayerManager.createPlayer(playerGuid, escape(nickname), isSpectating, isRandom);
 			if (isSpectating)
 			{
 				newGame.spectators[playerGuid] = newPlayer;
@@ -436,7 +267,7 @@ class _GameManager
 		// If the game already started, deal in this new person
 		if (newGame.started && !isSpectating && !newGame.started)
 		{
-			const newGameWithCards = await CardManager.dealWhiteCards(newGame);
+			const newGameWithCards = await this.dealWhiteCards(newGame);
 			newGame.players[playerGuid].whiteCards = newGameWithCards.players[playerGuid].whiteCards;
 		}
 
@@ -451,7 +282,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(owner, existingGame);
+		UserManager.validateUser(owner);
 
 		if (existingGame.ownerGuid !== ownerGuid && targetGuid !== ownerGuid)
 		{
@@ -493,9 +324,11 @@ class _GameManager
 		return newGame;
 	}
 
-	public async nextRound(gameId: string, chooser: IPlayer)
+	public async nextRound(gameId: string, lastChooser: IPlayer)
 	{
-		const chooserGuid = chooser.guid;
+		UserManager.validateUser(lastChooser);
+
+		const lastChooserGuid = lastChooser.guid;
 
 		if (gameId in this.gameRoundTimers)
 		{
@@ -504,66 +337,39 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(chooser, existingGame);
-
-		if (existingGame.chooserGuid !== chooserGuid)
+		if (existingGame.chooserGuid !== lastChooserGuid)
 		{
 			throw new Error("You are not the chooser!");
 		}
 
-		let newGame = {...existingGame};
 
-		// Reset white card reveal
-		newGame.revealIndex = -1;
-
-		newGame.roundStarted = false;
-
-		// Iterate the round index
-		newGame.roundIndex = existingGame.roundIndex + 1;
-
-		newGame.players = {...newGame.players, ...newGame.pendingPlayers};
-		newGame.pendingPlayers = {};
-		const playerGuids = Object.keys(newGame.players);
-		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
-
-		// Grab a new chooser
-		const chooserIndex = newGame.roundIndex % nonRandomPlayerGuids.length;
-		newGame.chooserGuid = nonRandomPlayerGuids[chooserIndex];
-
-		if (newGame.settings.winnerBecomesCzar && newGame.lastWinner && !newGame.lastWinner.isRandom)
-		{
-			newGame.chooserGuid = newGame.lastWinner.guid;
-		}
-
-		// Remove last winner
-		newGame.lastWinner = undefined;
+		const game = new Game(existingGame);
 
 		// Remove the played white card from each player's hand
-		if (!newGame.settings.customWhites)
+		if (!existingGame.settings.customWhites)
 		{
-			newGame.players = playerGuids.reduce((acc, playerGuid) =>
-			{
-				const player = newGame.players[playerGuid];
-				const newPlayer = {...player};
-				const usedCards = newGame.roundCards[playerGuid] ?? [];
-				newPlayer.whiteCards = player.whiteCards.filter(wc =>
-					!usedCards.find(uc => deepEqual(uc, wc))
-				);
-				acc[playerGuid] = newPlayer;
-
-				return acc;
-			}, {} as PlayerMap);
+			game.removeUsedCardsFromPlayers();
 		}
 
-		// Reset the played cards for the round
-		newGame.roundCards = {};
-		newGame.roundCardsCustom = {};
+		game.resetReveal();
+		game.nextCzar();
+		game.addPendingPlayers();
+
+		game.update({
+			roundStarted: false,
+			roundIndex: existingGame.roundIndex + 1,
+			roundCards: {},
+			roundCardsCustom: {},
+			lastWinner: undefined
+		});
+
+		let newGame = game.result;
 
 		// Deal a new hand
-		newGame = await CardManager.dealWhiteCards(newGame);
+		newGame = await this.dealWhiteCards(newGame);
 
 		// Grab the new black card
-		newGame = await CardManager.nextBlackCard(newGame);
+		newGame = await this.gameDealNewBlackCard(newGame);
 
 		await this.updateGame(newGame);
 
@@ -580,7 +386,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(owner, existingGame);
+		UserManager.validateUser(owner);
 
 		if (existingGame.ownerGuid !== ownerGuid)
 		{
@@ -594,8 +400,8 @@ class _GameManager
 		newGame.started = true;
 		newGame.settings = {...newGame.settings, ...settings};
 
-		newGame = await CardManager.nextBlackCard(newGame);
-		newGame = await CardManager.dealWhiteCards(newGame);
+		newGame = await this.gameDealNewBlackCard(newGame);
+		newGame = await this.dealWhiteCards(newGame);
 
 		await this.updateGame(newGame);
 
@@ -608,7 +414,7 @@ class _GameManager
 		settings: IGameSettings,
 	)
 	{
-		this.validateUser(owner);
+		UserManager.validateUser(owner);
 
 		const ownerGuid = owner.guid;
 
@@ -642,7 +448,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		const newGame = {...existingGame};
 
@@ -680,7 +486,7 @@ class _GameManager
 		const existingGame = await this.getGame(gameId);
 		if (!overrideValidation)
 		{
-			this.validateUser(player, existingGame);
+			UserManager.validateUser(player);
 		}
 
 		const cardsAreInPlayerHand = cardIds.every(cid =>
@@ -743,7 +549,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		const newGame = {...existingGame};
 
@@ -774,7 +580,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		if (existingGame.chooserGuid !== playerGuid)
 		{
@@ -799,7 +605,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		if (existingGame.chooserGuid !== playerGuid)
 		{
@@ -807,7 +613,7 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		const newGameWithBlackCard = await CardManager.nextBlackCard(newGame);
+		const newGameWithBlackCard = await this.gameDealNewBlackCard(newGame);
 
 		await this.updateGame(newGameWithBlackCard);
 
@@ -820,7 +626,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		if (existingGame.chooserGuid !== playerGuid)
 		{
@@ -899,7 +705,7 @@ class _GameManager
 
 	public async addRandomPlayer(gameId: string, owner: IPlayer)
 	{
-		this.validateUser(owner);
+		UserManager.validateUser(owner);
 
 		const ownerGuid = owner.guid;
 
@@ -932,7 +738,7 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		this.validateUser(player, existingGame);
+		UserManager.validateUser(player);
 
 		if (existingGame.chooserGuid !== playerGuid)
 		{
@@ -957,6 +763,117 @@ class _GameManager
 				this.nextRound(gameId, player);
 			}, 10000);
 		}
+
+		return newGame;
+	}
+
+	public async gameDealNewBlackCard(gameItem: GameItem)
+	{
+		const allowedCards: CardPackMap = {};
+		const includedPacks = PackManager.getPacksForGame(gameItem);
+
+		for (let packId of includedPacks)
+		{
+			const pack = await PackManager.getPack(packId);
+			allowedCards[packId] = PackManager.definitionsToCardPack(packId, pack.black);
+		}
+
+		const newCard = CardManager.getAllowedCard(allowedCards, gameItem.usedBlackCards);
+
+		const newGame = cloneDeep(gameItem);
+		newGame.blackCard = newCard;
+		newGame.usedBlackCards[newCard.packId] = newGame.usedBlackCards[newCard.packId] ?? {};
+		newGame.usedBlackCards[newCard.packId][newCard.cardIndex] = newCard;
+
+		return newGame;
+	}
+
+	public async dealWhiteCards(gameItem: GameItem)
+	{
+		if (gameItem.settings.customWhites)
+		{
+			return gameItem;
+		}
+
+		const newGame = cloneDeep(gameItem);
+
+		let usedWhiteCards: CardPackMap = {...gameItem.usedWhiteCards};
+
+		const playerKeys = Object.keys(gameItem.players);
+
+		let allWhiteCards = gameItem.settings.includedPacks.reduce((acc, packId) =>
+		{
+			const packCount = PackManager.packs[packId].white.length;
+			acc += packCount;
+			return acc;
+		}, 0);
+
+		if (gameItem.settings.includedCardcastPacks.length > 0)
+		{
+			for (let packId of gameItem.settings.includedCardcastPacks)
+			{
+				const pack = await CardCastConnector.getDeck(packId);
+				const whiteCardsForPack = pack.white;
+				allWhiteCards += whiteCardsForPack.length;
+			}
+		}
+
+		const usedWhiteCardCount = Object.keys(usedWhiteCards).reduce((acc, packId) =>
+		{
+			acc += Object.keys(usedWhiteCards[packId]).length;
+			return acc;
+		}, 0);
+
+		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
+
+		// If we run out of white cards, reset them
+		if (availableCardRemainingCount < playerKeys.length)
+		{
+			usedWhiteCards = {};
+		}
+
+		const blackCardPack = await PackManager.getPack(gameItem.blackCard.packId);
+		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
+		const pick = blackCard.pick;
+
+		// Assume the hand size is 10. If pick is more than 1, pick that many more.
+		const targetHandSize = 10 + (pick - 1);
+
+		let allowedCards: CardPackMap = {};
+		const includedPacks = PackManager.getPacksForGame(gameItem);
+		for (let packId of includedPacks)
+		{
+			const pack = await PackManager.getPack(packId);
+			const cardMap = pack.white.reduce((acc, cardVal, cardIndex) =>
+			{
+				acc[cardIndex] = {
+					cardIndex,
+					packId
+				};
+
+				return acc;
+			}, {} as { [cardIndex: number]: CardId });
+
+			allowedCards[packId] = cardMap;
+		}
+
+		playerKeys.forEach(playerGuid =>
+		{
+			const cards = [...gameItem.players[playerGuid].whiteCards];
+
+			while (cards.length < targetHandSize)
+			{
+				const newCard = CardManager.getAllowedCard(allowedCards, usedWhiteCards);
+				usedWhiteCards[newCard.packId] = usedWhiteCards[newCard.packId] ?? {};
+				usedWhiteCards[newCard.packId][newCard.cardIndex] = newCard;
+
+				cards.push(newCard);
+			}
+
+			newGame.players[playerGuid].whiteCards = cards;
+		});
+
+		newGame.usedWhiteCards = usedWhiteCards;
 
 		return newGame;
 	}

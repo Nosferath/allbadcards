@@ -1,4 +1,3 @@
-import {CardPackMap} from "../../../../server/Games/Contract";
 import {WithBuildVersion} from "./platform";
 
 export type PlayerMap = { [key: string]: GamePlayer };

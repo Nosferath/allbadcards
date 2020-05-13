@@ -4,7 +4,7 @@ import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
-import {CardId, ChatPayload, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
+import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -313,9 +313,12 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 					Platform.getPacks(this.state.familyMode ? "family" : undefined)
 						.then(data =>
 						{
+							const gameDateCreated = moment(this.state.game?.dateCreated ?? Date.now());
+							const tenSecondsLater = gameDateCreated.add(10, "seconds");
+
 							let ownerSettings = {...this.state.ownerSettings};
 							// If this is a game that was just created, set the default packs
-							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started)
+							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started && moment().isBefore(tenSecondsLater))
 							{
 								const defaultPacks = this.getDefaultPacks(data);
 								ownerSettings.includedPacks = defaultPacks;

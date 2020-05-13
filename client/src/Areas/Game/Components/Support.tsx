@@ -70,12 +70,12 @@ export const Support = () =>
 				<List>
 					<ListItem>
 						<ListItemText style={{textAlign: "center"}} primary={<>
-							<ButtonGroup orientation={"vertical"}>
-								<Button startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
-									paypal
-								</Button>
+							<ButtonGroup orientation={"horizontal"}>
 								<Button startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"} />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
 									venmo
+								</Button>
+								<Button startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
+									paypal
 								</Button>
 								<Button startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
 									$cash

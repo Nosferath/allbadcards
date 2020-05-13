@@ -14,23 +14,25 @@ import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import GameStart from "../GameStart";
 import GameJoin from "../GameJoin";
+import moment from "moment";
+import {ChatDataStore} from "../../../Global/DataStore/ChatDataStore";
 
 interface Props
 {
 	gameId: string;
-	chatDrawerOpen: boolean;
 }
 
 export const GameInner: React.FC<Props> = (
 	{
 		gameId,
-		chatDrawerOpen
 	}
 ) => {
 	const gameData = useDataStore(GameDataStore);
 	const userData = useDataStore(UserDataStore);
+	const chatData = useDataStore(ChatDataStore);
 
 	const {
+		dateCreated,
 		started,
 		chooserGuid,
 		ownerGuid,
@@ -60,7 +62,8 @@ export const GameInner: React.FC<Props> = (
 	const iWasKicked = !!kickedPlayers?.[playerGuid];
 
 	const tablet = useMediaQuery('(max-width:1200px)');
-	const chatBarExpanded = chatDrawerOpen && !tablet;
+	const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
+	const chatBarExpanded = chatData.sidebarOpen && !tablet && canChat;
 
 	return (
 		<div style={{maxWidth: chatBarExpanded ? "calc(100% - 320px)" : "100%"}}>
