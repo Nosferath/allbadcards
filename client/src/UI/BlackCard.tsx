@@ -2,7 +2,6 @@ import * as React from "react";
 import {Card, CardActions} from "@material-ui/core";
 import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
-import {ReactNode} from "react";
 import sanitize from "sanitize-html";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 
@@ -66,7 +65,7 @@ export class BlackCard extends React.Component<Props, State>
 				style={{
 					minHeight: "25vh",
 					cursor: "default",
-					backgroundColor: "black",
+					backgroundColor: "#333",
 					display: "flex",
 					flexDirection: "column"
 				}}

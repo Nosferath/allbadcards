@@ -8,6 +8,8 @@ import Tooltip from "@material-ui/core/Tooltip";
 import Card from "@material-ui/core/Card";
 import CardMedia from "@material-ui/core/CardMedia";
 import CardContent from "@material-ui/core/CardContent";
+import {useDataStore} from "../../Global/Utils/HookUtils";
+import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	callout: {
@@ -64,9 +66,15 @@ interface ISponsor
 	familyOnly: boolean;
 }
 
-export const SponsorList = (props: {familyMode: boolean}) =>
+export const SponsorList = () =>
 {
 	const classes = useStyles();
+	const envData = useDataStore(EnvDataStore);
+
+	if(!envData.site?.base)
+	{
+		return null;
+	}
 
 	const sponsors: (ISponsor | undefined)[] = [
 		{
@@ -99,20 +107,16 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			src: "/sponsors/novellusauesthetics2.jpeg",
 			familyOnly: false
 		},
-		{
+		/*{
 			byline: "🌿 Earth-friendly products for body & bath 🌼",
 			url: "https://www.justlikejane.com/?source=abc",
 			src: "/sponsors/justlikejane.jpg",
 			familyOnly: true
-		},
+		},*/
 		undefined,
 		undefined,
 		undefined,
 	];
-
-	const sponsorsToUse = props.familyMode
-		? sponsors
-		: sponsors.map(a => a?.familyOnly ? undefined : a)
 
 	return (
 		<>
@@ -133,7 +137,7 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			<Grid className={classes.sponsors}>
 				<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
 
-				{sponsorsToUse.map((s, i)=>
+				{sponsors.map((s, i)=>
 					<Sponsor key={i} sponsor={s}/>
 				)}
 

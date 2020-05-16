@@ -16,6 +16,7 @@ import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {Link} from "react-router-dom";
 import {SocketDataStore} from "../../Global/DataStore/SocketDataStore";
+import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -88,11 +89,13 @@ class GameDashboard extends React.Component<Props, State>
 	{
 		const mobile = matchMedia('(max-width:600px)').matches;
 
+		const familyMode = EnvDataStore.state.site.family;
+
 		return (
 			<Container style={{textAlign: "center"}}>
-				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>the best cards against humanity online experience!</Typography>
+				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>be rude. be irreverent. be hilarious!</Typography>
 
-				{GameDataStore.state.familyMode && (
+				{familyMode && (
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>Family-friendly edition!</Typography>
 				)}
 
@@ -100,7 +103,7 @@ class GameDashboard extends React.Component<Props, State>
 
 				<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
 					<ButtonGroup orientation={mobile ? "vertical" : "horizontal"}>
-						{!GameDataStore.state.familyMode && (
+						{!familyMode && (
 							<Button
 								variant="outlined"
 								color="default"
@@ -129,7 +132,7 @@ class GameDashboard extends React.Component<Props, State>
 						</LoadingButton>
 					</ButtonGroup>
 				</ButtonGroup>
-				{!GameDataStore.state.familyMode && (
+				{!familyMode && (
 					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
 						<Button href={"https://not.allbad.cards"}>
 							Family-Friendly Version &nbsp; <MdArrowForward/>
@@ -143,7 +146,7 @@ class GameDashboard extends React.Component<Props, State>
 					title={"Please enter your nickname:"}
 				/>
 				<div>
-					<SponsorList familyMode={GameDataStore.state.familyMode}/>
+					<SponsorList />
 				</div>
 
 				<Paper style={{padding: "1rem", margin: "3rem 0 1rem", textAlign: "left"}}>
@@ -173,11 +176,13 @@ class GameDashboard extends React.Component<Props, State>
 						</Grid>
 					</Grid>
 				</Paper>
-				<Paper style={{padding: "1rem", marginTop: "3rem"}}>
-					<Typography variant={"caption"}>
-						Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
-					</Typography>
-				</Paper>
+				{EnvDataStore.state.site.lite && (
+					<Paper style={{padding: "1rem", marginTop: "3rem"}}>
+						<Typography variant={"caption"}>
+							Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
+						</Typography>
+					</Paper>
+				)}
 			</Container>
 		);
 	}

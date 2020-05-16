@@ -44,7 +44,7 @@ const useStyles = makeStyles(theme => ({
 	},
 	theirs: {
 		backgroundColor: "#CCC",
-		color: "#000",
+		color: "#333",
 	},
 	theirsWrapper: {
 		alignSelf: "flex-start"

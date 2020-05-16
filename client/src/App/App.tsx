@@ -30,7 +30,7 @@ const useStyles = makeStyles(theme => createStyles({
 		zIndex: 1300
 	},
 	appBar: {
-		background: "black",
+		background: theme.palette.secondary.main,
 		color: "white",
 	},
 	logoIcon: {
@@ -95,8 +95,8 @@ const App: React.FC = () =>
 	const mobile = useMediaQuery('(max-width:600px)');
 
 	const titleDefault = isFamilyMode
-		? "(Not) All Bad Cards | Play the Family Edition of Cards Against Humanity online!"
-		: "All Bad Cards | Play Cards Against Humanity online!";
+		? "(Not) All Bad Cards | Play the Family Edition of All Bad Cards online!"
+		: "All Bad Cards | Be rude. Be irreverent. Be Hilarious!";
 
 	const template = isFamilyMode
 		? "(Not) All Bad Cards"

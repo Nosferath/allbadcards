@@ -1,20 +1,10 @@
-import React, {ChangeEvent, useState} from "react";
-import {DialogActions, DialogTitle, LinearProgress, ListItemAvatar, ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
+import React, {useState} from "react";
+import {DialogActions, DialogTitle, ListItemAvatar, ListItemSecondaryAction, Typography} from "@material-ui/core";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import Checkbox from "@material-ui/core/Checkbox";
-import FormControl from "@material-ui/core/FormControl";
-import FormControlLabel from "@material-ui/core/FormControlLabel";
-import FormGroup from "@material-ui/core/FormGroup";
-import ButtonGroup from "@material-ui/core/ButtonGroup";
 import Button from "@material-ui/core/Button";
-import ExpansionPanel from "@material-ui/core/ExpansionPanel";
-import ExpansionPanelSummary from "@material-ui/core/ExpansionPanelSummary";
-import {ExpandMore} from "@material-ui/icons";
-import ExpansionPanelDetails from "@material-ui/core/ExpansionPanelDetails";
 import Divider from "@material-ui/core/Divider";
 import makeStyles from "@material-ui/styles/makeStyles/makeStyles";
-import useMediaQuery from "@material-ui/core/useMediaQuery";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
@@ -41,8 +31,8 @@ const useStyles = makeStyles({
 		marginLeft: 20,
 		padding: 5,
 		height: "1rem",
-		background: "black",
-		border: "1px solid black",
+		background: "#333",
+		border: "1px solid #333",
 		color: "white",
 	}
 });

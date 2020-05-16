@@ -6,7 +6,6 @@ import App from "./App/App";
 import {BrowserRouter} from "react-router-dom";
 import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import {MuiThemeProvider} from "@material-ui/core";
-import {SimplePaletteColorOptions} from "@material-ui/core/styles";
 import ReactGA from "react-ga";
 import * as Sentry from "@sentry/browser";
 import CssBaseline from "@material-ui/core/CssBaseline";
@@ -21,12 +20,12 @@ const lightTheme = createMuiTheme({
 	palette: {
 		primary: {
 			main: "#FFF",
-			contrastText: "#000",
+			contrastText: "#333",
 			dark: "#CCC",
 			light: "#EEE",
 		},
 		secondary: {
-			main: "#000",
+			main: "#333",
 			contrastText: "#FFF",
 			dark: "#111",
 			light: "#EEE",
@@ -38,14 +37,14 @@ const lightTheme = createMuiTheme({
 const darkTheme = createMuiTheme({
 	palette: {
 		primary: {
-			main: "#000",
+			main: "#333",
 			contrastText: "#FFF",
 			dark: "#111",
 			light: "#FFF",
 		},
 		secondary: {
 			main: "#FFF",
-			contrastText: "#000",
+			contrastText: "#333",
 			dark: "#CCC",
 			light: "#FFF",
 		},

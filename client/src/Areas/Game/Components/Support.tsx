@@ -6,6 +6,8 @@ import {Platform} from "../../../Global/Platform/platform";
 import List from "@material-ui/core/List";
 import {FaDollarSign, FaPaypal, RiExternalLinkLine} from "react-icons/all";
 import {makeStyles} from "@material-ui/styles";
+import {EnvDataStore} from "../../../Global/DataStore/EnvDataStore";
+import {useDataStore} from "../../../Global/Utils/HookUtils";
 
 const useStyles = makeStyles({
 	link: {
@@ -17,12 +19,18 @@ export const Support = () =>
 {
 	const classes = useStyles();
 	const [randomThankYou, setRandomThankYou] = useState(0);
+	const envData = useDataStore(EnvDataStore);
 
 	useEffect(() =>
 	{
 		setRandomThankYou(Math.random());
 		Platform.trackEvent("saw-support-message");
 	}, []);
+
+	if (!envData.site.base)
+	{
+		return null;
+	}
 
 	const thankYous = [
 		<Button
@@ -74,10 +82,10 @@ export const Support = () =>
 								<Button startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
 									paypal
 								</Button>
-								<Button startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"} />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
+								<Button startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"}/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
 									venmo
 								</Button>
-								<Button startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
+								<Button startIcon={<FaDollarSign/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
 									$cash
 								</Button>
 							</ButtonGroup>

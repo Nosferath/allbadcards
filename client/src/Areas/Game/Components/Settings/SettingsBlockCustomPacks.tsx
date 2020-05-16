@@ -1,19 +1,7 @@
-import {LinearProgress, TextField, Typography} from "@material-ui/core";
-import Button from "@material-ui/core/Button";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
-import ListItemText from "@material-ui/core/ListItemText";
-import ExpansionPanelDetails from "@material-ui/core/ExpansionPanelDetails";
 import React, {useState} from "react";
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import {SettingsBlockMainPacks} from "./SettingsBlockMainPacks";
-import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
-import IconButton from "@material-ui/core/IconButton";
-import {MdDelete, MdEdit} from "react-icons/all";
-import DialogContent from "@material-ui/core/DialogContent";
-import Divider from "@material-ui/core/Divider";
-import Dialog from "@material-ui/core/Dialog";
+import {Alert, AlertTitle} from "@material-ui/lab";
 
 export const SettingsBlockCustomPacks: React.FC = () =>
 {
@@ -49,50 +37,11 @@ export const SettingsBlockCustomPacks: React.FC = () =>
 	return (
 		<>
 			<div>
-				<TextField color={"secondary"} value={cardCastDeckCode} style={{margin: "0 1rem 1rem 0"}} size={"small"} onChange={e => setCardCastDeckCode(e.target.value)} id="outlined-basic" label="CardCast Deck Code" variant="outlined"/>
-				<Button variant={"contained"} color={"secondary"} onClick={onAddCardCastDeck} disabled={cardCastDeckCode.length !== 5 && !cardCastDeckCode.includes(",")}>
-					Add Deck
-				</Button>
-				<Typography variant={"subtitle2"}>
-					Add one code, or a comma-separated list
-				</Typography>
+				<Alert color={"error"}>
+					<AlertTitle>Sorry!</AlertTitle>
+					CardCast shut down. CardCast packs are no longer supported.
+				</Alert>
 			</div>
-
-			{(gameData.ownerSettings.includedCardcastPacks?.length ?? 0 > 0) ?
-				(
-					<List>
-						{gameData.ownerSettings.includedCardcastPacks?.map((packId, index) =>
-						{
-							const packDef = gameData.cardcastPackDefs[packId];
-							if (!packDef)
-							{
-								return null;
-							}
-
-							return (
-								<>
-									{index > 0 && (
-										<Divider/>
-									)}
-									<ListItem>
-										<ListItemText>{packDef.name}</ListItemText>
-										<ListItemSecondaryAction>
-											<IconButton color={"secondary"} onClick={() => removeCardCastDeck(packId)}>
-												<MdDelete/>
-											</IconButton>
-										</ListItemSecondaryAction>
-									</ListItem>
-								</>
-							);
-						})}
-					</List>
-				)
-				:
-				null
-			}
-			{gameData.cardcastPacksLoading && (
-				<LinearProgress color="secondary"/>
-			)}
 		</>
 	);
 };

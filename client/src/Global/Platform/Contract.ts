@@ -1,7 +1,8 @@
-import {CardPackMap} from "../../../../server/Games/Contract";
 import {WithBuildVersion} from "./platform";
 
 export type PlayerMap = { [key: string]: GamePlayer };
+
+export type PackTypes = "all" | "official" | "thirdParty" | "family";
 
 export interface GamePlayer
 {

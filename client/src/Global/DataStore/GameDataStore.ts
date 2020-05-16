@@ -4,7 +4,7 @@ import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
-import {CardId, ChatPayload, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "../Platform/Contract";
+import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -12,6 +12,7 @@ import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
 import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
+import {EnvDataStore} from "./EnvDataStore";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -26,7 +27,6 @@ export interface GameDataStorePayload
 	 */
 	ownerSettings: IGameSettings,
 	loaded: boolean;
-	familyMode: boolean;
 	game: GamePayload | null;
 	loadedPacks: ICardPackSummary[];
 	roundStartTime: moment.Moment;
@@ -43,7 +43,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 	private static InitialState: GameDataStorePayload = {
 		loaded: false,
-		familyMode: location.hostname.startsWith("not."),
 		game: null,
 		loadedPacks: [],
 		roundCardDefs: {},
@@ -80,7 +79,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 		SocketDataStore.listen(data =>
 		{
-			if(data.updateType === "game" && data.gamePayload)
+			if (data.updateType === "game" && data.gamePayload)
 			{
 				if (!this.state.game?.id || data.gamePayload?.id === this.state.game?.id)
 				{
@@ -105,7 +104,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 		const thirdPartyDefaults = packs.filter(a =>
 			!a.isOfficial
-			&& !!a.packId.match(/crabs|carbs|guards|punishment/gi)
+			&& !a.packId.match(/toronto|knit|colorado|kentucky|texas/gi)
 		);
 
 		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
@@ -313,7 +312,18 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 				if (this.state.loadedPacks.length === 0)
 				{
-					Platform.getPacks(this.state.familyMode ? "family" : undefined)
+					const envSite = EnvDataStore.state.site;
+					let packs: PackTypes = "thirdParty";
+					if (envSite.lite)
+					{
+						packs = "official";
+					}
+					else if (envSite.family)
+					{
+						packs = "family";
+					}
+
+					Platform.getPacks(packs)
 						.then(data =>
 						{
 							let ownerSettings = {...this.state.ownerSettings};

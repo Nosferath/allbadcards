@@ -1,6 +1,6 @@
 import {ErrorDataStore} from "../DataStore/ErrorDataStore";
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings, PackTypes} from "./Contract";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -294,7 +294,7 @@ class _Platform
 		return Promise.all(promises);
 	}
 
-	public async getPacks(type: "all" | "official" | "thirdParty" | "family" = "all")
+	public async getPacks(type: PackTypes)
 	{
 		return _Platform.doGet<ICardPackSummary[]>("/api/game/get-packnames?type=" + type);
 	}
