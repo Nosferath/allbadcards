@@ -100,12 +100,17 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			familyOnly: false
 		},
 		{
+			url: "https://soundcloud.com/damndirtydrivein?source=abc",
+			src: "/sponsors/damndirtydrivein.jpg",
+			byline: "Stay Curious.",
+			familyOnly: false
+		},
+		{
 			byline: "🌿 Earth-friendly products for body & bath 🌼",
 			url: "https://www.justlikejane.com/?source=abc",
 			src: "/sponsors/justlikejane.jpg",
 			familyOnly: true
 		},
-		undefined,
 		undefined,
 		undefined,
 	];
