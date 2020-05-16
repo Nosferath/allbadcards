@@ -1,4 +1,4 @@
-import {Express, Response, Request} from "express";
+import {Express, Request, Response} from "express";
 import {GameManager} from "./GameManager";
 import {CardManager} from "./CardManager";
 import apicache from "apicache";
@@ -32,6 +32,18 @@ const playerFromReq = (req: Request): IPlayer =>
 		guid: req.cookies["guid"],
 		secret: req.cookies["secret"]
 	};
+};
+
+const logReq = (req: Request) => {
+	const body = req.body
+		? JSON.stringify(req.body)
+		: undefined;
+
+	const query = req.query
+		? JSON.stringify(req.query)
+		: undefined;
+
+	logMessage(req.url, body, query);
 };
 
 export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
@@ -70,7 +82,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/games/public", cache("15 seconds"), async (req, res) =>
 	{
-		logMessage(req.url, req.query);
+		logReq(req);
 
 		try
 		{
@@ -85,7 +97,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get", cache("10 seconds"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logReq(req);
 
 		try
 		{
@@ -100,7 +112,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get-white-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logReq(req);
 		try
 		{
 			const card = await CardManager.getWhiteCard({
@@ -166,7 +178,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get-black-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logReq(req);
 		try
 		{
 			const card = await CardManager.getBlackCard({
@@ -184,7 +196,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/create", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -201,7 +213,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/join", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -222,7 +234,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/kick", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -238,7 +250,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/start", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -257,7 +269,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/update-settings", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -276,7 +288,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/restart", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -297,7 +309,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/play-cards", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -313,7 +325,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/play-cards-custom", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -329,7 +341,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/forfeit", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -345,7 +357,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/reveal-next", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -361,7 +373,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/skip-black", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -377,7 +389,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/start-round", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -393,7 +405,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/add-random-player", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -409,7 +421,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/select-winner-card", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -424,7 +436,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 	});
 
 	app.post("/api/game/send-chat", async(req, res) => {
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -445,7 +457,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/next-round", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logReq(req);
 		try
 		{
 			const player = playerFromReq(req);
