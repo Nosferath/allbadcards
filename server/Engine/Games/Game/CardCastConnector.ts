@@ -3,8 +3,8 @@ import {IBlackCardDefinition, ICardPackDefinition} from "./Contract";
 import {createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
-import {Config} from "../../config/config";
-import {logError, logMessage} from "../logger";
+import {Config} from "../../../../config/config";
+import {logError, logMessage} from "../../../logger";
 
 class _CardCastConnector
 {

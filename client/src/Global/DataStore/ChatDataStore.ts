@@ -5,10 +5,10 @@ import deepEqual from "deep-equal";
 
 export interface ChatDataStorePayload
 {
+	sidebarOpen: boolean;
 	chat: { [gameId: string]: ChatPayload[] };
 	unseenChatMessages: number;
 	newMessages: boolean;
-	sidebarOpen: boolean;
 }
 
 class _ChatDataStore extends DataStore<ChatDataStorePayload>
@@ -20,7 +20,7 @@ class _ChatDataStore extends DataStore<ChatDataStorePayload>
 		chat: {},
 		unseenChatMessages: 0,
 		newMessages: false,
-		sidebarOpen: true
+		sidebarOpen: true,
 	});
 
 	public initialize()

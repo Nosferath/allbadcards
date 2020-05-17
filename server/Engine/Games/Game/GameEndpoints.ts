@@ -1,14 +1,15 @@
 import {Express, Request, Response} from "express";
 import {GameManager} from "./GameManager";
-import {CardManager} from "./CardManager";
+import {CardManager} from "../Cards/CardManager";
 import apicache from "apicache";
-import {logError, logMessage} from "../logger";
-import {Config} from "../../config/config";
+import {logError, logMessage} from "../../../logger";
+import {Config} from "../../../../config/config";
 import {ICardPackSummary, IPlayer} from "./Contract";
-import {UserUtils} from "../User/UserUtils";
+import {UserUtils} from "../../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
 import {CardCastConnector} from "./CardCastConnector";
+import {PackManager} from "../Cards/PackManager";
 
 const cache = apicache.middleware;
 
@@ -84,7 +85,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/games/public", cache("15 seconds"), async (req, res) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.query);
 
 		try
 		{
@@ -99,7 +100,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get", cache("10 seconds"), async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.query);
 
 		try
 		{
@@ -114,7 +115,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get-white-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.query);
 		try
 		{
 			const card = await CardManager.getWhiteCard({
@@ -141,17 +142,17 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 			switch (which)
 			{
 				case "all":
-					packIds = CardManager.packTypeDefinition.types.reduce((acc, type) =>
+					packIds = PackManager.packTypeDefinition.types.reduce((acc, type) =>
 					{
 						acc.push(...type.packs);
 						return acc;
 					}, [] as string[]);
 					break;
 				case "official":
-					packIds = CardManager.packTypeDefinition.types[0].packs;
+					packIds = PackManager.packTypeDefinition.types[0].packs;
 					break;
 				case "thirdParty":
-					packIds = CardManager.packTypeDefinition.types[1].packs;
+					packIds = PackManager.packTypeDefinition.types[1].packs;
 					break;
 				case "family":
 					packIds = ["family_edition"];
@@ -162,11 +163,11 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 			const packs = packIds.map(packId =>
 			{
-				const packDef = CardManager.packs[packId];
+				const packDef = PackManager.packs[packId];
 				return {
 					name: packDef.pack.name,
 					quantity: packDef.quantity,
-					isOfficial: CardManager.packTypeDefinition.types[0].packs.includes(packId),
+					isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
 					packId
 				} as ICardPackSummary
 			});
@@ -180,7 +181,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.get("/api/game/get-black-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.query);
 		try
 		{
 			const card = await CardManager.getBlackCard({
@@ -198,7 +199,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/create", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -215,7 +216,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/join", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -236,7 +237,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/kick", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -252,7 +253,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/start", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -271,7 +272,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/update-settings", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -290,7 +291,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/restart", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -311,7 +312,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/play-cards", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -327,7 +328,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/play-cards-custom", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -343,7 +344,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/forfeit", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -359,7 +360,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/reveal-next", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -375,7 +376,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/skip-black", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -391,7 +392,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/start-round", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -407,7 +408,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/add-random-player", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -423,7 +424,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/select-winner-card", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -437,9 +438,8 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/send-chat", async (req, res) =>
-	{
-		logReq(req);
+	app.post("/api/game/send-chat", async(req, res) => {
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
@@ -460,28 +460,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/next-round", async (req, res, next) =>
 	{
-		logReq(req);
+		logMessage(req.url, req.body);
 		try
 		{
 			const player = playerFromReq(req);
 			await GameManager.nextRound(req.body.gameId, player);
 
 			sendWithBuildVersion({success: true}, res);
-		}
-		catch (error)
-		{
-			onError(res, error, req.url, req.query, req.body);
-		}
-	});
-
-	app.get("/api/cardcast-pack-export", cache("10 minutes"), async (req, res) =>
-	{
-		try
-		{
-			const pack = await CardCastConnector.getCachedDeck(req.query.deck);
-			sendWithBuildVersion({
-				pack
-			}, res);
 		}
 		catch (error)
 		{

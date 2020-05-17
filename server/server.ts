@@ -5,10 +5,9 @@ import compression from "compression";
 import cookieParser from "cookie-parser";
 import serveStatic from "serve-static";
 import bodyParser from "body-parser";
-import {RegisterGameEndpoints} from "./Games/GameEndpoints";
+import {RegisterGameEndpoints} from "./Engine/Games/Game/GameEndpoints";
 import {Config} from "../config/config";
-import {CardManager} from "./Games/CardManager";
-import {CreateGameManager} from "./Games/GameManager";
+import {CreateGameManager} from "./Engine/Games/Game/GameManager";
 import * as Sentry from "@sentry/node";
 
 // Create the app
@@ -47,7 +46,6 @@ app.get("/service-worker.js", (req, res) =>
 	serveStatic("/service-worker.js");
 });
 
-CardManager.initialize();
 RegisterGameEndpoints(app, clientFolder);
 
 app.use(Sentry.Handlers.errorHandler() as any);

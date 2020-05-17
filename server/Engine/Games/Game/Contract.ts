@@ -1,8 +1,6 @@
-import {Message} from "protobufjs";
-
 export type PlayerMap = { [key: string]: GamePlayer };
-
-export type CardPackMap = { [packId: string]: { [cardIndex: number]: CardId } };
+export type CardPack = { [cardIndex: number]: CardId };
+export type CardPackMap = { [packId: string]: CardPack };
 
 export interface IPlayer
 {

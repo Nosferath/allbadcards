@@ -22,6 +22,7 @@ const useStyles = makeStyles({
 
 export const ChatSidebar: React.FC<Props> = () =>
 {
+	const chatData = useDataStore(ChatDataStore);
 	const classes = useStyles();
 	const tablet = useMediaQuery('(max-width:1200px)');
 	const chatData = useDataStore(ChatDataStore);
@@ -31,6 +32,8 @@ export const ChatSidebar: React.FC<Props> = () =>
 	{
 		return null;
 	}
+
+	const chatDrawerOpen = chatData.sidebarOpen;
 
 	return (
 		<Drawer
