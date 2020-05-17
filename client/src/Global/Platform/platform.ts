@@ -1,6 +1,6 @@
 import {ErrorDataStore} from "../DataStore/ErrorDataStore";
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IGameSettings} from "./Contract";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -297,6 +297,13 @@ class _Platform
 	public async getPacks(type: "all" | "official" | "thirdParty" | "family" = "all")
 	{
 		return _Platform.doGet<ICardPackSummary[]>("/api/game/get-packnames?type=" + type);
+	}
+
+	public async getCardCastPackCached(deckId: string)
+	{
+		this.trackEvent("cardcast-cached", deckId);
+
+		return _Platform.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
 	}
 
 	public async getGames(zeroBasedPage = 0)

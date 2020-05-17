@@ -102,7 +102,7 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 		{
 			url: "https://soundcloud.com/damndirtydrivein?source=abc",
 			src: "/sponsors/damndirtydrivein.jpg",
-			byline: "Stay Curious.",
+			byline: "Damn Dirty Drive-In Podcast",
 			familyOnly: false
 		},
 		{
@@ -111,7 +111,6 @@ export const SponsorList = (props: {familyMode: boolean}) =>
 			src: "/sponsors/justlikejane.jpg",
 			familyOnly: true
 		},
-		undefined,
 		undefined,
 	];
 
@@ -179,7 +178,7 @@ export const Sponsor: React.FC<ISponsorProps> = (props) =>
 	});
 
 	return (
-		<Grid item xs={12} sm={props.isDiamondSponsor ? 12 : 6} md={props.isDiamondSponsor ? 12 : 4} className={wrapperClasses}>
+		<Grid item xs={12} sm={props.isDiamondSponsor ? 12 : 6} md={props.isDiamondSponsor ? 12 : 3} className={wrapperClasses}>
 			<SponsorInner {...props} />
 		</Grid>
 	);
@@ -214,7 +213,7 @@ const SponsorInner: React.FC<ISponsorProps> = (props) =>
 			{hasSponsor && (
 				<div style={{
 					width: "100%",
-					height: "5rem",
+					height: "6rem",
 					backgroundImage: `url(${props.sponsor?.src})`,
 					backgroundSize: "contain",
 					backgroundRepeat: "no-repeat",

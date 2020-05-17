@@ -1,4 +1,4 @@
-import {CardCastApi, ICallResponseSet, IDeck, IDeckParams} from "isomorphic-cardcast-api";
+import {CardCastApi, ICallResponseSet, IDeck} from "isomorphic-cardcast-api";
 import {IBlackCardDefinition, ICardPackDefinition} from "./Contract";
 import {createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
@@ -51,6 +51,31 @@ class _CardCastConnector
 		});
 	}
 
+	public async getCachedDeck(deckId: string): Promise<ICardPackDefinition>
+	{
+		return new Promise((resolve, reject) =>
+		{
+			this.redisClient.get(`cardcast:${deckId}`, async (error, storedDeckString) =>
+			{
+				let shouldFetch = false;
+				if (error)
+				{
+					reject(error);
+				}
+				else if (storedDeckString)
+				{
+					const storedDeck = JSON.parse(storedDeckString) as ICardPackDefinition;
+					resolve(storedDeck);
+				}
+				else
+				{
+					reject("Not Found");
+				}
+
+			});
+		});
+	}
+
 	public async getDeck(deckId: string): Promise<ICardPackDefinition>
 	{
 		logMessage(`Getting deck ${deckId}`);
@@ -68,7 +93,8 @@ class _CardCastConnector
 				}
 
 				// Remove from memory if not requested in the last hour
-				this.memoryTimeouts[deckId] = setTimeout(() => {
+				this.memoryTimeouts[deckId] = setTimeout(() =>
+				{
 					delete this.memoryTimeouts[deckId];
 					delete this.cachedDecks[deckId];
 				}, 60 * 60 * 1000);
