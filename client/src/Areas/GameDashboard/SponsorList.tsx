@@ -66,7 +66,7 @@ interface ISponsor
 	familyOnly: boolean;
 }
 
-export const SponsorList = () =>
+export const SponsorList = (props: {familyMode: boolean}) =>
 {
 	const classes = useStyles();
 	const envData = useDataStore(EnvDataStore);
@@ -107,14 +107,19 @@ export const SponsorList = () =>
 			src: "/sponsors/novellusauesthetics2.jpeg",
 			familyOnly: false
 		},
+		{
+			url: "https://soundcloud.com/damndirtydrivein?source=abc",
+			src: "/sponsors/damndirtydrivein.jpg",
+			byline: "Damn Dirty Drive-In Podcast",
+			familyOnly: false
+		},
+		{
 		/*{
 			byline: "🌿 Earth-friendly products for body & bath 🌼",
 			url: "https://www.justlikejane.com/?source=abc",
 			src: "/sponsors/justlikejane.jpg",
 			familyOnly: true
 		},*/
-		undefined,
-		undefined,
 		undefined,
 	];
 
@@ -137,7 +142,7 @@ export const SponsorList = () =>
 			<Grid className={classes.sponsors}>
 				<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
 
-				{sponsors.map((s, i)=>
+				{sponsorsToUse.map((s, i)=>
 					<Sponsor key={i} sponsor={s}/>
 				)}
 
