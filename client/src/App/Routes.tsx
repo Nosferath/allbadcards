@@ -41,6 +41,9 @@ export class Routes extends React.Component<Props, State>
 				<Route path={SiteRoutes.Games.path}>
 					<Suspender importer={() => import("../Areas/GameList/GameList")}/>
 				</Route>
+				<Route path={SiteRoutes.CardCastExport.path}>
+					<Suspender importer={() => import("../Areas/CardCastExport/CardCastExport")}/>
+				</Route>
 				<Route>
 					<Redirect to={"/"}/>
 				</Route>

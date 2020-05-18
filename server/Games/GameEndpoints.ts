@@ -8,6 +8,7 @@ import {ICardPackSummary, IPlayer} from "./Contract";
 import {UserUtils} from "../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
+import {CardCastConnector} from "./CardCastConnector";
 
 const cache = apicache.middleware;
 
@@ -34,7 +35,8 @@ const playerFromReq = (req: Request): IPlayer =>
 	};
 };
 
-const logReq = (req: Request) => {
+const logReq = (req: Request) =>
+{
 	const body = req.body
 		? JSON.stringify(req.body)
 		: undefined;
@@ -435,7 +437,8 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/send-chat", async(req, res) => {
+	app.post("/api/game/send-chat", async (req, res) =>
+	{
 		logReq(req);
 		try
 		{
@@ -464,6 +467,21 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 			await GameManager.nextRound(req.body.gameId, player);
 
 			sendWithBuildVersion({success: true}, res);
+		}
+		catch (error)
+		{
+			onError(res, error, req.url, req.query, req.body);
+		}
+	});
+
+	app.get("/api/cardcast-pack-export", cache("10 minutes"), async (req, res) =>
+	{
+		try
+		{
+			const pack = await CardCastConnector.getCachedDeck(req.query.deck);
+			sendWithBuildVersion({
+				pack
+			}, res);
 		}
 		catch (error)
 		{
