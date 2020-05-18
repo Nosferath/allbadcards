@@ -1,6 +1,6 @@
 import {ErrorDataStore} from "../DataStore/ErrorDataStore";
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackSummary, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IGameSettings} from "./Contract";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -309,6 +309,13 @@ class _Platform
 		this.trackEvent("register-user");
 
 		return _Platform.doGet<{ guid: string }>(`/api/user/register`);
+	}
+
+	public async getCardCastPackCached(deckId: string)
+	{
+		this.trackEvent("cardcast-cached", deckId);
+
+		return _Platform.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
 	}
 }
 
