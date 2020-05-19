@@ -1,4 +1,4 @@
-import {GameItem, PlayerMap} from "./Contract";
+import {GameItem, PlayerMap} from "./GameContract";
 import deepEqual from "deep-equal";
 
 export class Game

@@ -128,3 +128,39 @@ export interface IBlackCardDefinition
 	pick: number;
 	draw: number;
 }
+
+export enum BackerType
+{
+	None = "",
+	Backer = "Backer",
+	Sponsor = "Sponsor",
+	DiamondSponsor = "DiamondSponsor",
+}
+
+export interface IClientAuthStatus
+{
+	userId: string | null;
+	accessToken: string | null;
+	accessTokenExpiry: Date | null;
+	levels: BackerType;
+}
+
+export interface ICustomPackDataInput
+{
+	id: string | null;
+	packName: string,
+	whiteCards: string[],
+	blackCards: string[],
+	isNsfw: boolean,
+	isPublic: boolean
+}
+
+export interface ICustomCardPack
+{
+	owner: string;
+	definition: ICardPackDefinition;
+	dateCreated: Date;
+	dateUpdated: Date;
+	isNsfw: boolean,
+	isPublic: boolean
+}

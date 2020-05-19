@@ -13,7 +13,7 @@ export const useDataStore = <T>(ds: DataStore<T>, onUpdate?: () => void) =>
 		});
 
 		return () => destroy();
-	});
+	}, []);
 
 	return current;
 };
@@ -32,4 +32,4 @@ export const usePrevious = <T>(value: T) =>
 
 	// Return previous value (happens before update in useEffect above)
 	return ref.current;
-}
+};

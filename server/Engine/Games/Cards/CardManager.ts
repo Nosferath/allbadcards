@@ -1,4 +1,4 @@
-import {CardId, CardPackMap} from "../Game/Contract";
+import {CardId, CardPackMap} from "../Game/GameContract";
 import {PackManager} from "./PackManager";
 import {cardPackIndex, cardPackMapToHashTable} from "./CardUtils";
 

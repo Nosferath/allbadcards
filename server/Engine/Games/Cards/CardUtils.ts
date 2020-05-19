@@ -1,4 +1,4 @@
-import {CardId, CardPackMap} from "../Game/Contract";
+import {CardId, CardPackMap} from "../Game/GameContract";
 
 export const getAllCardsInPackMap = (map: CardPackMap) =>
 {

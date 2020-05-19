@@ -1,5 +1,5 @@
 import {CardCastApi, ICallResponseSet, IDeck} from "isomorphic-cardcast-api";
-import {IBlackCardDefinition, ICardPackDefinition} from "./Contract";
+import {IBlackCardDefinition, ICardPackDefinition} from "./GameContract";
 import {createClient, RedisClient, RetryStrategy} from "redis";
 import * as fs from "fs";
 import * as path from "path";
@@ -44,9 +44,9 @@ class _CardCastConnector
 		const keys = JSON.parse(keysFile)[0];
 
 		this.redisClient = createClient({
-			host: keys.redisHost[Config.Environment],
-			port: keys.redisPort,
-			auth_pass: keys.redisKey,
+			host: keys.redis.host[Config.Environment],
+			port: keys.redis.port,
+			auth_pass: keys.redis.key,
 			retry_strategy
 		});
 	}

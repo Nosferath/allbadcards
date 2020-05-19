@@ -1,5 +1,5 @@
 import {Database} from "../../../DB/Database";
-import {GameItem} from "./Contract";
+import {GameItem} from "./GameContract";
 
 class _GameListManager
 {

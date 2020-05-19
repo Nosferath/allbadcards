@@ -1,7 +1,7 @@
 import {Config} from "../../../config/config";
 import WebSocket from "ws";
 import * as http from "http";
-import {ChatPayload, GameItem, GamePayload} from "../Games/Game/Contract";
+import {ChatPayload, GameItem, GamePayload} from "../Games/Game/GameContract";
 import {serverGameToClientGame} from "../../Utils/GameUtils";
 import {GameMessage} from "./Messages/GameMessage";
 import {ArrayUtils} from "../../Utils/ArrayUtils";

@@ -1,14 +1,19 @@
 import * as React from "react";
+import {useState} from "react";
 import {Card, CardActions} from "@material-ui/core";
 import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 import sanitize from "sanitize-html";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
+import makeStyles from "@material-ui/core/styles/makeStyles";
+import classNames from "classnames";
 
 interface IBlackCardProps
 {
-	children?: string;
+	children?: React.ReactNode;
+	className?: string;
 	packId?: string;
+	actions?: React.ReactNode;
 }
 
 interface DefaultProps
@@ -23,75 +28,84 @@ interface IBlackCardState
 	elevation: number;
 }
 
-export class BlackCard extends React.Component<Props, State>
-{
-	constructor(props: Props)
-	{
-		super(props);
+const useStyles = makeStyles(theme => ({
+	card: {
+		minHeight: "25vh",
+		cursor: "default",
+		backgroundColor: "#222",
+		display: "flex",
+		flexDirection: "column"
+	}
+}));
 
-		this.state = {
-			elevation: 2
-		};
+export const BlackCard: React.FC<Props> = (props) =>
+{
+	const [elevation, setElevation] = useState(2);
+
+	const onMouseEnter = () =>
+	{
+		setElevation(10);
+	};
+
+	const onMouseLeave = () =>
+	{
+		setElevation(2);
+	};
+
+	let children: (React.ReactNode | string) = props.children;
+
+	if (typeof props.children === "string")
+	{
+		const replaceUnderscores = props.children?.replace(/(_){1,}\1/g, "_").replace(/_/g, "_________") ?? "";
+		children = sanitize(replaceUnderscores);
 	}
 
-	private onMouseEnter = () =>
+	const packId = props.packId;
+	let pack;
+	if (packId)
 	{
-		this.setState({
-			elevation: 10
-		});
-	};
+		pack = GameDataStore.state.loadedPacks.find(p => p.packId === packId);
+	}
 
-	private onMouseLeave = () =>
-	{
-		this.setState({
-			elevation: 2
-		});
-	};
+	const classes = useStyles();
 
-	public render()
-	{
-		const children = this.props.children?.replace(/(_){1,}\1/g, "_").replace(/_/g, "_________") ?? "";
-		const sanitized = sanitize(children);
-
-		const packId = this.props.packId;
-		let pack;
-		if(packId)
-		{
-			pack = GameDataStore.state.loadedPacks.find(p => p.packId === packId);
-		}
-
-		return (
-			<Card
-				style={{
-					minHeight: "25vh",
-					cursor: "default",
-					backgroundColor: "#333",
-					display: "flex",
-					flexDirection: "column"
-				}}
-				elevation={this.state.elevation}
-				onMouseEnter={this.onMouseEnter}
-				onMouseLeave={this.onMouseLeave}
-			>
-				<CardContent style={{flex: 1}}>
-					{pack && (
-						<Typography variant={"caption"} style={{color: "white", letterSpacing: "normal", opacity: 0.5, fontSize: "0.75em", overflow: "hidden", textOverflow: "ellipsis"}}>
-							<em>{pack.name}</em>
-						</Typography>
-					)}
-					<Typography variant={"h6"} style={{color: "white"}}>
-						<span dangerouslySetInnerHTML={{__html: sanitized}} />
+	return (
+		<Card
+			className={classNames(classes.card, props.className)}
+			elevation={elevation}
+			onMouseEnter={onMouseEnter}
+			onMouseLeave={onMouseLeave}
+		>
+			<CardContent style={{flex: 1}}>
+				{pack && (
+					<Typography variant={"caption"} style={{color: "white", letterSpacing: "normal", opacity: 0.5, fontSize: "0.75em", overflow: "hidden", textOverflow: "ellipsis"}}>
+						<em>{pack.name}</em>
 					</Typography>
-				</CardContent>
+				)}
+				{typeof props.children === "string" ? (
+					<Typography variant={"h6"} style={{color: "white"}}>
+						<span dangerouslySetInnerHTML={{__html: children as string}}/>
+					</Typography>
+				) : (
+					children
+				)}
+			</CardContent>
+			{props.actions ? (
+				<CardActions>
+					{props.actions}
+				</CardActions>
+			) : (
 				<CardActions>
 					<Typography variant={"caption"} style={{color: "white", display: "flex", alignContent: "center"}}>
-						<img src={"/logo-tiny-inverted.png"} width={18} style={{marginRight: "0.5rem",
+						<img src={"/logo-tiny-inverted.png"} width={18} style={{
+							marginRight: "0.5rem",
 							height: "auto",
 							width: 18,
-							maxHeight: 18}} /> all bad cards
+							maxHeight: 18
+						}}/> all bad cards
 					</Typography>
 				</CardActions>
-			</Card>
-		);
-	}
-}
+			)}
+		</Card>
+	);
+};

@@ -1,6 +1,11 @@
-import {CardPack, GameItem, ICardPackDefinition, ICardTypes} from "../Game/Contract";
+import {CardPack, GameItem, ICardPackDefinition, ICardTypes, ICustomCardPack, ICustomPackDataInput} from "../Game/GameContract";
 import {loadFileAsJson} from "../../../Utils/FileUtils";
 import {CardCastConnector} from "../Game/CardCastConnector";
+import shortid from "shortid";
+import {Database} from "../../../DB/Database";
+import {packInputToPackDef} from "../../../Utils/PackUtils";
+import {AuthCookie} from "../../Auth/AuthCookie";
+import {Request} from "express";
 
 class _PackManager
 {
@@ -47,7 +52,8 @@ class _PackManager
 
 	public definitionsToCardPack<T>(packId: string, defs: T[])
 	{
-		return defs.reduce((acc, cardVal, cardIndex) => {
+		return defs.reduce((acc, cardVal, cardIndex) =>
+		{
 			acc[cardIndex] = {
 				cardIndex,
 				packId
@@ -55,6 +61,56 @@ class _PackManager
 
 			return acc;
 		}, {} as CardPack);
+	}
+
+	public async getCustomPack(packId: string)
+	{
+		return await Database.collections.packs.findOne({
+			["definition.pack.id"]: packId
+		});
+	}
+
+	public async upsertPack(req: Request, packInput: ICustomPackDataInput)
+	{
+		const storedUserData = AuthCookie.get(req);
+		if(!storedUserData || !storedUserData.userId)
+		{
+			throw new Error("Not logged in!");
+		}
+
+		let existingPack: ICustomCardPack | null = null;
+		if (packInput.id)
+		{
+			existingPack = await this.getCustomPack(packInput.id);
+
+			if(existingPack && storedUserData.userId !== existingPack.owner)
+			{
+				throw new Error("You don't have permission to update this pack");
+			}
+		}
+
+		const packDefFromInput = packInputToPackDef(packInput);
+
+		const now = new Date();
+		const toSave: ICustomCardPack = {
+			packId: existingPack?.packId ?? shortid(),
+			owner: storedUserData.userId,
+			definition: packDefFromInput,
+			dateCreated: existingPack?.dateCreated ?? now,
+			dateUpdated: now,
+			isNsfw: packInput.isNsfw,
+			isPublic: packInput.isPublic
+		};
+
+		await Database.collections.packs.updateOne({
+			id: toSave.packId
+		}, {
+			$set: toSave
+		}, {
+			upsert: true
+		});
+
+		return toSave;
 	}
 }
 

@@ -1,5 +1,9 @@
-import {IPlayer} from "../Games/Game/Contract";
+import {IPlayer} from "../Games/Game/GameContract";
 import {UserUtils} from "./UserUtils";
+import {Request} from "express";
+import {Database} from "../../DB/Database";
+import {PatronSettings} from "../Auth/UserContract";
+import {AuthCookie} from "../Auth/AuthCookie";
 
 class _UserManager
 {
@@ -11,6 +15,38 @@ class _UserManager
 		{
 			throw new Error("You cannot perform this action because you are not this user.");
 		}
+	}
+
+	public async saveSettings(req: Request)
+	{
+		const storedUserData = AuthCookie.get(req);
+		if (storedUserData && storedUserData.accessToken)
+		{
+			// Refresh the current users access token.
+			await Database.collections.users.updateOne({id: storedUserData.userId, accessToken: storedUserData.accessToken}, {
+				$set: {
+					settings: req.body as PatronSettings
+				}
+			}, {upsert: false});
+		}
+	}
+
+	public async getSettings(req: Request)
+	{
+		const storedUserData = AuthCookie.get(req);
+		if (storedUserData)
+		{
+			const foundUsers = await Database.collections.users.find({
+				id: storedUserData.userId
+			}).toArray();
+
+			if (foundUsers && foundUsers.length === 1)
+			{
+				return foundUsers[0].settings;
+			}
+		}
+
+		return null;
 	}
 }
 

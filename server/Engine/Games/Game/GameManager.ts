@@ -7,7 +7,7 @@ import {Config} from "../../../../config/config";
 import {ArrayUtils} from "../../../Utils/ArrayUtils";
 import {RandomPlayerNicknames} from "./RandomPlayers";
 import {logError, logMessage} from "../../../logger";
-import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer} from "./Contract";
+import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer} from "./GameContract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../../User/UserUtils";
 import {PackManager} from "../Cards/PackManager";

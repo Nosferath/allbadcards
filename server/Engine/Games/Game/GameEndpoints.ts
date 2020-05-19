@@ -1,53 +1,15 @@
-import {Express, Request, Response} from "express";
+import {Express} from "express";
 import {GameManager} from "./GameManager";
 import {CardManager} from "../Cards/CardManager";
 import apicache from "apicache";
-import {logError, logMessage} from "../../../logger";
-import {Config} from "../../../../config/config";
-import {ICardPackSummary, IPlayer} from "./Contract";
+import {ICardPackSummary} from "./GameContract";
 import {UserUtils} from "../../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
-import {CardCastConnector} from "./CardCastConnector";
 import {PackManager} from "../Cards/PackManager";
+import {logRequest, onExpressError, playerFromReq, sendWithBuildVersion} from "../../../Utils/ExpressUtils";
 
 const cache = apicache.middleware;
-
-const onError = (res: Response, error: Error, ...more: any[]) =>
-{
-	logError({message: error.message, stack: error.stack}, more);
-	res.status(500).send({message: error.message, stack: error.stack});
-	throw error;
-};
-
-const sendWithBuildVersion = (data: any, res: Response) =>
-{
-	res.send({
-		...data,
-		buildVersion: Config.Version
-	});
-};
-
-const playerFromReq = (req: Request): IPlayer =>
-{
-	return {
-		guid: req.cookies["guid"],
-		secret: req.cookies["secret"]
-	};
-};
-
-const logReq = (req: Request) =>
-{
-	const body = req.body
-		? JSON.stringify(req.body)
-		: undefined;
-
-	const query = req.query
-		? JSON.stringify(req.query)
-		: undefined;
-
-	logMessage(req.url, body, query);
-};
 
 export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 {
@@ -79,13 +41,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.get("/api/games/public", cache("15 seconds"), async (req, res) =>
 	{
-		logMessage(req.url, req.query);
+		logRequest(req);
 
 		try
 		{
@@ -94,13 +56,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.get("/api/game/get", cache("10 seconds"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logRequest(req);
 
 		try
 		{
@@ -109,13 +71,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.get("/api/game/get-white-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logRequest(req);
 		try
 		{
 			const card = await CardManager.getWhiteCard({
@@ -129,7 +91,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
@@ -175,13 +137,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.get("/api/game/get-black-card", cache("1 hour"), async (req, res, next) =>
 	{
-		logMessage(req.url, req.query);
+		logRequest(req);
 		try
 		{
 			const card = await CardManager.getBlackCard({
@@ -193,13 +155,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/create", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -210,13 +172,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/join", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -231,13 +193,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/kick", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -247,13 +209,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/start", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -266,13 +228,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/update-settings", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -285,13 +247,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/restart", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -306,13 +268,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/play-cards", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -322,13 +284,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/play-cards-custom", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -338,13 +300,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/forfeit", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -354,13 +316,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/reveal-next", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -370,13 +332,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/skip-black", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -386,13 +348,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/start-round", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -402,13 +364,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/add-random-player", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -418,13 +380,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/select-winner-card", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -434,12 +396,12 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/send-chat", async(req, res) => {
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -454,13 +416,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 
 	app.post("/api/game/next-round", async (req, res, next) =>
 	{
-		logMessage(req.url, req.body);
+		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
@@ -470,7 +432,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 		catch (error)
 		{
-			onError(res, error, req.url, req.query, req.body);
+			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
 

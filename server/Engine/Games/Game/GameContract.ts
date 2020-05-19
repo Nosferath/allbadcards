@@ -129,9 +129,30 @@ export interface ICardPackDefinition
 	dateStoredMs?: number;
 }
 
+export interface ICustomCardPack
+{
+	packId: string;
+	owner: string;
+	definition: ICardPackDefinition;
+	dateCreated: Date;
+	dateUpdated: Date;
+	isNsfw: boolean,
+	isPublic: boolean
+}
+
 export interface IBlackCardDefinition
 {
 	content: string;
 	pick: number;
 	draw: number;
+}
+
+export interface ICustomPackDataInput
+{
+	id: string | null;
+	packName: string,
+	whiteCards: string[],
+	blackCards: string[],
+	isNsfw: boolean,
+	isPublic: boolean
 }

@@ -1,15 +1,13 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, List, ListItem, ListItemText, Paper, styled, Switch, Tooltip, Typography, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, IconButton, List, ListItem, ListItemText, Menu, MenuItem, Paper, styled, Switch, Tooltip, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {FaPlus, IoMdVolumeHigh, IoMdVolumeOff, MdArrowUpward, MdBugReport, MdPeople, MdSettings, TiLightbulb} from "react-icons/all";
+import {FaUserCircle, IoMdVolumeHigh, IoMdVolumeOff, MdBugReport, MdPeople, MdSettings, TiLightbulb} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
-import {Link, matchPath} from "react-router-dom";
-import {GameDataStore} from "../Global/DataStore/GameDataStore";
+import {Link} from "react-router-dom";
 import {useHistory} from "react-router";
-import {SiteRoutes} from "../Global/Routes/Routes";
 import ReactGA from "react-ga";
 import classNames from "classnames";
 import Helmet from "react-helmet";
@@ -20,9 +18,10 @@ import {BrowserUtils} from "../Global/Utils/BrowserUtils";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameSettings} from "../Areas/Game/Components/GameSettings";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
-import {NicknameDialog} from "../UI/NicknameDialog";
-import {Platform} from "../Global/Platform/platform";
 import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
+import {getPatreonUrl} from "../Global/Utils/UserUtils";
+import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
+import cookies from "browser-cookies";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -58,6 +57,15 @@ const useStyles = makeStyles(theme => createStyles({
 		alignItems: "center",
 		fontWeight: 700
 	},
+	appBarButton: {
+		marginLeft: "0.5rem"
+	},
+	appBarButtonRight: {
+		marginRight: "0.5rem"
+	},
+	rightButtons: {
+		marginLeft: "auto"
+	}
 }));
 
 const OuterContainer = styled(Container)({
@@ -72,12 +80,8 @@ const App: React.FC = () =>
 {
 	const classes = useStyles();
 	const history = useHistory();
-
-	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
-	const appBarClasses = classNames(classes.appBar, {});
-
+	const mobile = useMediaQuery('(max-width:600px)');
 	history.listen(() => BrowserUtils.scrollToTop());
-
 	useEffect(() =>
 	{
 		UserDataStore.initialize();
@@ -88,11 +92,11 @@ const App: React.FC = () =>
 		});
 	}, []);
 
+	const appBarClasses = classNames(classes.appBar, {});
 	const date = new Date();
 	const year = date.getFullYear();
 	const isFamilyMode = location.hostname.startsWith("not.");
 
-	const mobile = useMediaQuery('(max-width:600px)');
 
 	const titleDefault = isFamilyMode
 		? "(Not) All Bad Cards | Play the Family Edition of All Bad Cards online!"
@@ -118,21 +122,17 @@ const App: React.FC = () =>
 						<Typography variant={mobile ? "body1" : "h5"}>
 							<Link to={"/"} className={classes.logo}>
 								{!isFamilyMode && <img className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>}
-								{isFamilyMode ? "(not) " : ""} all bad cards
+								{isFamilyMode ? "(not) " : ""} ALL BAD CARDS
 							</Link>
 						</Typography>
-						{!isGame && (
-							<AppBarLeftButtons isFamilyMode={isFamilyMode}/>
-						)}
-						{isGame && (
-							<AppBarButtons/>
-						)}
+						<AppBarLeftButtons/>
+						<AppBarRightButtons/>
 					</Toolbar>
 				</AppBar>
-				<Paper square style={{padding: "0 1rem"}}>
+				<Paper square style={{padding: "0 1rem 6rem"}}>
 					<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
 						<ErrorBoundary>
-							<Routes/>
+							<Routes />
 						</ErrorBoundary>
 					</Container>
 					<DarkModeSwitch/>
@@ -212,10 +212,9 @@ const Errors = () =>
 	);
 };
 
-const AppBarButtons = () =>
+const AppBarGameButtons = () =>
 {
 	const preferences = useDataStore(PreferencesDataStore);
-	const gameData = useDataStore(GameDataStore);
 	const socketData = useDataStore(SocketDataStore);
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
@@ -292,58 +291,76 @@ const DarkModeSwitch = () =>
 	)
 };
 
-const AppBarLeftButtons: React.FC<{isFamilyMode: boolean}> = (props) =>
+const AppBarLeftButtons: React.FC = () =>
 {
-	const history = useHistory();
-	const preferences = useDataStore(PreferencesDataStore);
-	const userData = useDataStore(UserDataStore);
-	const [nicknameDialogOpen, setNicknameDialogOpen] = useState(false);
-
-	const onNicknameConfirm = async (nickname: string) =>
-	{
-		SocketDataStore.clear();
-		const game = await Platform.createGame(userData.playerGuid, nickname);
-		GameDataStore.storeOwnedGames(game);
-		history.push(`/game/${game.id}`)
-	};
-
+	const classes = useStyles();
 	const mobile = useMediaQuery('(max-width:600px)');
-	if(mobile)
+	if (mobile)
 	{
 		return null;
 	}
 
 	return (
-		<>
-			<Button
-				variant="contained"
-				color={preferences.darkMode ? "secondary" : "primary"}
-				size="small"
-				style={{marginLeft: "2rem"}}
-				onClick={() => setNicknameDialogOpen(true)}
-				startIcon={<FaPlus/>}
-			>
-				New Game
+		<div style={{marginLeft: "2rem"}}>
+			<Button className={classes.appBarButton} color="inherit" component={p => <Link {...p} to={"/"}/>}>
+				Play
 			</Button>
-			{!props.isFamilyMode && (
-				<Button
-					variant="outlined"
-					color={preferences.darkMode ? "secondary" : "primary"}
-					size="small"
-					style={{marginLeft: "1rem"}}
-					component={p => <Link to={"/games"} {...p} />}
-					startIcon={<MdArrowUpward/>}
-				>
-					Join Game
+			<Button className={classes.appBarButton} color="inherit" component={p => <Link {...p} to={"/packs"}/>}>
+				Custom Packs
+			</Button>
+		</div>
+	);
+};
+
+const AppBarRightButtons = () =>
+{
+	const authData = useDataStore(AuthDataStore);
+	const [userMenuOpen, setUserMenuOpen] = useState(false);
+	const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null);
+	const history = useHistory();
+
+	const logOut = () =>
+	{
+		cookies.erase("auth");
+
+		AuthDataStore.refresh();
+	};
+
+	const openMenu = (element: HTMLElement) => {
+		setAnchorEl(element);
+		setUserMenuOpen(true);
+	};
+
+	const classes = useStyles();
+
+	return (
+		<div className={classes.rightButtons}>
+			{authData.authorized ? (
+				<>
+					<IconButton aria-label={"User Page"} className={classes.appBarButtonRight} color="inherit" onClick={(e) => openMenu(e.currentTarget)}>
+						<FaUserCircle/>
+					</IconButton>
+					<Menu
+						anchorEl={anchorEl}
+						keepMounted
+						open={userMenuOpen}
+						getContentAnchorEl={null}
+						anchorOrigin={{
+							vertical: 'bottom',
+							horizontal: 'left',
+						}}
+						onClose={() => setUserMenuOpen(false)}
+					>
+						<MenuItem href={"/"}>Settings</MenuItem>
+						<MenuItem onClick={logOut}>Logout</MenuItem>
+					</Menu>
+				</>
+			) : (
+				<Button className={classes.appBarButtonRight} color="inherit" href={getPatreonUrl(history.location.pathname)}>
+					Log In
 				</Button>
 			)}
-			<NicknameDialog
-				open={nicknameDialogOpen}
-				onClose={() => setNicknameDialogOpen(false)}
-				onConfirm={onNicknameConfirm}
-				title={"Please enter your nickname:"}
-			/>
-		</>
+		</div>
 	);
 };
 

@@ -14,9 +14,9 @@ export class RedisConnector
 	constructor(private clientOpts?: ClientOpts)
 	{
 		const keys = loadFileAsJson("./config/keys.json")[0];
-		this.host = keys.redisHost[Config.Environment];
-		this.port = keys.redisPort;
-		this.authKey = keys.redisKey;
+		this.host = keys.redis.host[Config.Environment];
+		this.port = keys.redis.port;
+		this.authKey = keys.redis.key;
 	}
 
 	public initialize()

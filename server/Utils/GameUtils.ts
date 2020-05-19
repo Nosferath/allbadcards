@@ -1,4 +1,4 @@
-import {ClientGameItem, GameItem} from "../Engine/Games/Game/Contract";
+import {ClientGameItem, GameItem} from "../Engine/Games/Game/GameContract";
 
 export const serverGameToClientGame = (game: GameItem): ClientGameItem =>
 {

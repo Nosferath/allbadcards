@@ -1,6 +1,6 @@
-import {ErrorDataStore} from "../DataStore/ErrorDataStore";
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, IGameSettings} from "./Contract";
+import {Fetcher} from "./Fetcher";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -29,61 +29,16 @@ class _Platform
 		});
 	}
 
-	private static doGet<TData>(url: string)
-	{
-		return new Promise<TData>((resolve, reject) =>
-		{
-			fetch(url)
-				.then(r =>
-				{
-					const jsonResponse = r.json() as Promise<TData>;
-
-					if (r.ok)
-					{
-						jsonResponse
-							.then((data: TData) => resolve(data))
-							.catch(reject);
-					}
-					else
-					{
-						jsonResponse.then(reject);
-					}
-				})
-				.catch(ErrorDataStore.add);
-		});
-	}
-
-	private static async doPost<TData>(url: string, data: any)
-	{
-		return await fetch(url, {
-			method: "POST",
-			headers: {"Content-Type": "application/json"},
-			body: JSON.stringify(data)
-		})
-			.then(async r =>
-			{
-				if (r.ok)
-				{
-					return r.json();
-				}
-				else
-				{
-					throw await r.json();
-				}
-			})
-			.catch(ErrorDataStore.add) as Promise<TData>;
-	}
-
 	public async getGame(gameId: string)
 	{
-		return _Platform.doGet<ClientGameItem>(`/api/game/get?gameId=${gameId}`);
+		return Fetcher.doGet<ClientGameItem>(`/api/game/get?gameId=${gameId}`);
 	}
 
 	public async createGame(guid: string, nickname: string)
 	{
 		this.trackEvent("create");
 
-		return _Platform.doPost<ClientGameItem>("/api/game/create", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/create", {
 			guid,
 			nickname
 		});
@@ -93,7 +48,7 @@ class _Platform
 	{
 		this.trackEvent("chat-message", gameId);
 
-		return _Platform.doPost(`/api/game/send-chat`, {
+		return Fetcher.doPost(`/api/game/send-chat`, {
 			gameId: gameId,
 			message: message,
 			playerGuid: guid
@@ -104,7 +59,7 @@ class _Platform
 	{
 		this.trackEvent("join", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/join", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/join", {
 			guid,
 			gameId,
 			nickname,
@@ -116,7 +71,7 @@ class _Platform
 	{
 		this.trackEvent("remove-player", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/kick", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/kick", {
 			gameId,
 			targetGuid,
 			guid
@@ -130,7 +85,7 @@ class _Platform
 	{
 		this.trackEvent("start", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/start", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/start", {
 			gameId,
 			guid,
 			settings
@@ -144,7 +99,7 @@ class _Platform
 	{
 		this.trackEvent("start", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/update-settings", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/update-settings", {
 			gameId,
 			guid,
 			settings
@@ -155,7 +110,7 @@ class _Platform
 	{
 		this.trackEvent("play-cards", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/play-cards", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/play-cards", {
 			gameId,
 			guid,
 			cardIds
@@ -166,7 +121,7 @@ class _Platform
 	{
 		this.trackEvent("play-cards-custom", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/play-cards-custom", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/play-cards-custom", {
 			gameId,
 			guid,
 			cards
@@ -177,7 +132,7 @@ class _Platform
 	{
 		this.trackEvent("my-cards-suck", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/forfeit", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/forfeit", {
 			gameId,
 			guid,
 			playedCards
@@ -188,7 +143,7 @@ class _Platform
 	{
 		this.trackEvent("game-restart", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/restart", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/restart", {
 			gameId,
 			guid,
 		});
@@ -198,7 +153,7 @@ class _Platform
 	{
 		this.trackEvent("selected-winner", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/select-winner-card", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/select-winner-card", {
 			gameId,
 			guid,
 			winningPlayerGuid
@@ -207,7 +162,7 @@ class _Platform
 
 	public async revealNext(gameId: string, guid: string)
 	{
-		return _Platform.doPost<ClientGameItem>("/api/game/reveal-next", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/reveal-next", {
 			gameId,
 			guid,
 		});
@@ -217,7 +172,7 @@ class _Platform
 	{
 		this.trackEvent("round-start", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/start-round", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/start-round", {
 			gameId,
 			guid,
 		});
@@ -227,7 +182,7 @@ class _Platform
 	{
 		this.trackEvent("round-start", gameId);
 
-		return _Platform.doPost<ClientGameItem>("/api/game/add-random-player", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/add-random-player", {
 			gameId,
 			guid,
 		});
@@ -235,7 +190,7 @@ class _Platform
 
 	public async nextRound(gameId: string, guid: string)
 	{
-		return _Platform.doPost<ClientGameItem>("/api/game/next-round", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/next-round", {
 			gameId,
 			guid,
 		});
@@ -243,7 +198,7 @@ class _Platform
 
 	public async skipBlack(gameId: string, guid: string)
 	{
-		return _Platform.doPost<ClientGameItem>("/api/game/skip-black", {
+		return Fetcher.doPost<ClientGameItem>("/api/game/skip-black", {
 			gameId,
 			guid,
 		});
@@ -264,7 +219,7 @@ class _Platform
 			}
 			else
 			{
-				_Platform.doGet<{ card: IWhiteCard }>(`/api/game/get-white-card?packId=${packId}&cardIndex=${cardIndex}`)
+				Fetcher.doGet<{ card: IWhiteCard }>(`/api/game/get-white-card?packId=${packId}&cardIndex=${cardIndex}`)
 					.then(data =>
 					{
 						if (!data)
@@ -284,7 +239,7 @@ class _Platform
 
 	public async getBlackCard(cardId: CardId)
 	{
-		return _Platform.doGet<IBlackCardDefinition>(`/api/game/get-black-card?packId=${cardId.packId}&cardIndex=${cardId.cardIndex}`);
+		return Fetcher.doGet<IBlackCardDefinition>(`/api/game/get-black-card?packId=${cardId.packId}&cardIndex=${cardId.cardIndex}`);
 	}
 
 	public async getWhiteCards(cards: CardId[])
@@ -296,26 +251,43 @@ class _Platform
 
 	public async getPacks(type: "all" | "official" | "thirdParty" | "family" = "all")
 	{
-		return _Platform.doGet<ICardPackSummary[]>("/api/game/get-packnames?type=" + type);
+		return Fetcher.doGet<ICardPackSummary[]>("/api/game/get-packnames?type=" + type);
 	}
 
 	public async getGames(zeroBasedPage = 0)
 	{
-		return _Platform.doGet<GamesList>(`/api/games/public?zeroBasedPage=${zeroBasedPage}`);
-	}
-
-	public registerUser()
-	{
-		this.trackEvent("register-user");
-
-		return _Platform.doGet<{ guid: string }>(`/api/user/register`);
+		return Fetcher.doGet<GamesList>(`/api/games/public?zeroBasedPage=${zeroBasedPage}`);
 	}
 
 	public async getCardCastPackCached(deckId: string)
 	{
 		this.trackEvent("cardcast-cached", deckId);
 
-		return _Platform.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
+		return Fetcher.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
+	}
+
+	public registerUser()
+	{
+		this.trackEvent("register-user");
+
+		return Fetcher.doGet<{ guid: string }>(`/api/user/register`);
+	}
+
+	public getAuthStatus()
+	{
+		return Fetcher.doGet<{status: IClientAuthStatus}>("/auth/status")
+	}
+
+	public getPack(packId: string)
+	{
+		return Fetcher.doGet<ICustomCardPack>(`/api/pack/get?pack=${packId}`);
+	}
+
+	public savePack(packData: ICustomPackDataInput)
+	{
+		return Fetcher.doPost<ICustomCardPack>("/api/pack/update", {
+			pack: packData
+		});
 	}
 }
 

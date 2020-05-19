@@ -1,7 +1,7 @@
 import * as crypto from "crypto";
 import * as fs from "fs";
 import * as path from "path";
-import {IPlayer} from "../Games/Game/Contract";
+import {IPlayer} from "../Games/Game/GameContract";
 
 class _UserUtils
 {

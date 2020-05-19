@@ -3,6 +3,8 @@ import {ComponentType} from "react";
 import {Redirect, Route, Switch} from "react-router";
 import {ContainerProgress} from "../UI/ContainerProgress";
 import {SiteRoutes} from "../Global/Routes/Routes";
+import {useDataStore} from "../Global/Utils/HookUtils";
+import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
 
 interface IRoutesProps
 {
@@ -19,38 +21,46 @@ interface IRoutesState
 {
 }
 
-export class Routes extends React.Component<Props, State>
+export const Routes: React.FC<Props> = (props) =>
 {
-	constructor(props: Props)
-	{
-		super(props);
+	const authData = useDataStore(AuthDataStore);
 
-		this.state = {};
+	console.log(authData);
+
+	if(!authData.loaded)
+	{
+		return <ContainerProgress />;
 	}
 
-	public render()
-	{
-		return (
-			<Switch>
-				<Route exact path={"/"}>
-					<Suspender importer={() => import("../Areas/GameDashboard/GameDashboard")}/>
-				</Route>
-				<Route path={SiteRoutes.Game.path}>
-					<Suspender importer={() => import("../Areas/Game/Game")}/>
-				</Route>
-				<Route path={SiteRoutes.Games.path}>
-					<Suspender importer={() => import("../Areas/GameList/GameList")}/>
-				</Route>
-				<Route path={SiteRoutes.CardCastExport.path}>
-					<Suspender importer={() => import("../Areas/CardCastExport/CardCastExport")}/>
-				</Route>
-				<Route>
-					<Redirect to={"/"}/>
-				</Route>
-			</Switch>
-		);
-	}
-}
+	return (
+		<Switch>
+			<Route exact path={"/"}>
+				<Suspender importer={() => import("../Areas/GameDashboard/GameDashboard")}/>
+			</Route>
+			<Route path={SiteRoutes.Game.path}>
+				<Suspender importer={() => import("../Areas/Game/Game")}/>
+			</Route>
+			<Route path={SiteRoutes.Games.path}>
+				<Suspender importer={() => import("../Areas/GameList/GameList")}/>
+			</Route>
+			<Route path={SiteRoutes.PackCreate.path}>
+				<Suspender importer={() => import("../Areas/Pack/Create")}/>
+			</Route>
+			<Route path={SiteRoutes.PackDetail.path}>
+				<Suspender importer={() => import("../Areas/Pack/Detail")}/>
+			</Route>
+			<Route path={SiteRoutes.PacksBrowser.path}>
+				<Suspender importer={() => import("../Areas/Packs/PacksBrowser")}/>
+			</Route>
+			<Route path={SiteRoutes.CardCastExport.path}>
+				<Suspender importer={() => import("../Areas/CardCastExport/CardCastExport")}/>
+			</Route>
+			<Route>
+				<Redirect to={"/"}/>
+			</Route>
+		</Switch>
+	);
+};
 
 const Suspender: React.FC<{ importer: () => Promise<{ default: ComponentType<any> }> }> = ({importer}) =>
 {

@@ -1,8 +1,9 @@
 import * as React from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {Container} from "@material-ui/core";
-import {ChatDataStore} from "../../../Global/DataStore/ChatDataStore";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
+import {Container, Paper, useMediaQuery} from "@material-ui/core";
+import {ChatDataStore} from "../Global/DataStore/ChatDataStore";
+import {useDataStore} from "../Global/Utils/HookUtils";
+import {useHistory} from "react-router";
 
 const useStyles = makeStyles({
 	container: {
@@ -28,19 +29,20 @@ const useStyles = makeStyles({
 
 export const Confirmation: React.FC = (props) =>
 {
+	const history = useHistory();
 	const chatData = useDataStore(ChatDataStore);
-
 	const classes = useStyles();
-
 	const chatDrawerOpen = chatData.sidebarOpen;
+	const mobile = useMediaQuery('(max-width:600px)');
+	const isGamePage = history.location.pathname.startsWith("/game/");
 
 	return (
-		<div className={classes.container} style={{maxWidth: chatDrawerOpen ? "calc(100% - 320px)" : "100%"}}>
+		<Paper className={classes.container} style={{maxWidth: (isGamePage && chatDrawerOpen && !mobile) ? "calc(100% - 320px)" : "100%"}}>
 			<Container maxWidth={"xl"} style={{padding :0}}>
 				<div className={classes.inner}>
 					{props.children}
 				</div>
 			</Container>
-		</div>
+		</Paper>
 	);
 };

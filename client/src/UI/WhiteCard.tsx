@@ -5,22 +5,27 @@ import Typography from "@material-ui/core/Typography";
 import CardActions from "@material-ui/core/CardActions";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
+import classNames from "classnames";
+import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 
 interface IWhiteCardProps
 {
 	onSelect?: () => void;
 	actions?: React.ReactNode;
 	style?: React.CSSProperties;
+	className?: string;
 	packId?: string;
+	parentCols?: number;
 }
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
 	card: {
+		backgroundColor: PreferencesDataStore.state.darkMode ? "#CCC" : "#FFF",
 		display: "flex",
 		flexDirection: "column",
 		minHeight: "25vh",
 	}
-});
+}));
 
 export const WhiteCard: React.FC<IWhiteCardProps> = (props) =>
 {
@@ -42,7 +47,7 @@ export const WhiteCard: React.FC<IWhiteCardProps> = (props) =>
 
 	return (
 		<Card
-			className={classes.card}
+			className={classNames(classes.card, props.className)}
 			onClick={onSelect}
 			elevation={5}
 			style={style}

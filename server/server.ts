@@ -1,4 +1,4 @@
-require('dotenv').config();
+import {RegisterAuthEndpoints} from "./Engine/Auth/AuthEndpoints";
 import express from "express";
 import * as path from "path";
 import compression from "compression";
@@ -9,6 +9,10 @@ import {RegisterGameEndpoints} from "./Engine/Games/Game/GameEndpoints";
 import {Config} from "../config/config";
 import {CreateGameManager} from "./Engine/Games/Game/GameManager";
 import * as Sentry from "@sentry/node";
+import {Auth} from "./Engine/Auth/Auth";
+import {RegisterPackEndpoints} from "./Engine/Games/Cards/PackEndpoints";
+
+require('dotenv').config();
 
 // Create the app
 const app = express();
@@ -46,46 +50,17 @@ app.get("/service-worker.js", (req, res) =>
 	serveStatic("/service-worker.js");
 });
 
+RegisterAuthEndpoints(app, clientFolder);
+RegisterPackEndpoints(app, clientFolder);
+
+// must go last
 RegisterGameEndpoints(app, clientFolder);
 
 app.use(Sentry.Handlers.errorHandler() as any);
 
-const resolveKey = (keypath: string) =>
-{
-	return path.resolve(process.cwd(), path.join("../../keys", keypath));
-};
-
 // Start the server
-
-let pemPrefix = "";
-switch(Config.Environment)
-{
-	case "prod":
-		pemPrefix = "allbad.cards";
-		break;
-
-	case "beta":
-		pemPrefix = "beta.allbad.cards";
-		break;
-}
-
-
 const server = app.listen(port, () => console.log(`Listening on port ${port}, environment: ${Config.Environment}`))
 	.setTimeout(10000);
 
 CreateGameManager(server);
-
-// if (Config.Environment === "prod")
-// {
-// 	const server = https.createServer({
-// 		key: fs.readFileSync(resolveKey(`./${pemPrefix}-key.pem`)),
-// 		cert: fs.readFileSync(resolveKey(`./${pemPrefix}-crt.pem`)),
-// 		ca: fs.readFileSync(resolveKey(`./${pemPrefix}-chain.pem`)),
-// 	}, app).listen(443, () => console.log(`Listening on port ${port}, environment: ${Config.Environment}`))
-// 		.setTimeout(10000);
-//
-// 	CreateGameManager(server);
-// }
-// else
-// {
-// }
+Auth.initialize();

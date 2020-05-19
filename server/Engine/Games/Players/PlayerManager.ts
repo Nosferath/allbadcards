@@ -1,4 +1,4 @@
-import {GamePlayer} from "../Game/Contract";
+import {GamePlayer} from "../Game/GameContract";
 
 class _PlayerManager
 {
