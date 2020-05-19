@@ -1,4 +1,7 @@
 import {WithBuildVersion} from "./platform";
+import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
+
+type valueof<T> = T[keyof T]
 
 export type PlayerMap = { [key: string]: GamePlayer };
 
@@ -153,6 +156,7 @@ export interface ICustomPackDataInput
 	blackCards: string[],
 	isNsfw: boolean,
 	isPublic: boolean
+	categories: valueof<typeof PackCategories>[];
 }
 
 export interface ICustomCardPack
@@ -163,4 +167,40 @@ export interface ICustomCardPack
 	dateUpdated: Date;
 	isNsfw: boolean,
 	isPublic: boolean
+	categories: valueof<typeof PackCategories>[];
+}
+
+export interface IUserPackFavorite
+{
+	packId: string;
+	userId: string;
+}
+
+export interface ICustomPackSearchResult
+{
+	packs: ICustomCardPack[];
+	hasMore: boolean;
+	userFavorites: PackFavorites;
+}
+
+export type PackFavorites = { [packId: string]: boolean };
+
+export const PackCategories = [
+	"General",
+	"Insulting",
+	"Movies, Music, & TV",
+	"Family-Friendly",
+	"Business",
+	"Events & Holidays",
+	"News & Politics",
+	"Places & Things",
+	"Hobbies & Activities",
+	"Languages"
+] as const;
+
+export interface PackSearch
+{
+	search?: string;
+	category?: ValuesOf<typeof PackCategories>;
+	nsfw?: boolean;
 }

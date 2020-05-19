@@ -1,5 +1,5 @@
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, IGameSettings} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameSettings, PackSearch} from "./Contract";
 import {Fetcher} from "./Fetcher";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
@@ -283,10 +283,36 @@ class _Platform
 		return Fetcher.doGet<ICustomCardPack>(`/api/pack/get?pack=${packId}`);
 	}
 
+	public getMyPacks()
+	{
+		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/mine`);
+	}
+
+	public searchPacks(input: PackSearch, zeroBasedPage = 0)
+	{
+		const search = input.search ? `&search=${input.search}` : "";
+		const category = input.category ? `&category=${input.category}` : "";
+		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}`);
+	}
+
 	public savePack(packData: ICustomPackDataInput)
 	{
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/update", {
 			pack: packData
+		});
+	}
+
+	public favoritePack(packId: string)
+	{
+		return Fetcher.doPost<ICustomCardPack>("/api/pack/favorite", {
+			packId
+		});
+	}
+
+	public unfavoritePack(packId: string)
+	{
+		return Fetcher.doPost<ICustomCardPack>("/api/pack/unfavorite", {
+			packId
 		});
 	}
 }

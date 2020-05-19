@@ -3,7 +3,7 @@ import * as fs from "fs";
 import * as path from "path";
 import {Config} from "../../config/config";
 import {logError, logMessage} from "../logger";
-import {GameItem, ICustomCardPack} from "../Engine/Games/Game/GameContract";
+import {GameItem, ICustomCardPack, IUserPackFavorite} from "../Engine/Games/Game/GameContract";
 import {Patron} from "../Engine/Auth/UserContract";
 
 class _Database
@@ -71,7 +71,14 @@ class _Database
 				["definition.pack.id"]: 1,
 				["definition.pack.name"]: 1,
 				dateCreated: 1,
-				dateUpdated: 1
+				dateUpdated: 1,
+				owner: 1,
+				categories: 1
+			});
+
+			await this.collections.packFavorites.createIndex({
+				packId: 1,
+				userId: 1
 			});
 		});
 	}
@@ -110,6 +117,11 @@ class Collections
 	public get packs()
 	{
 		return this.db.collection<ICustomCardPack>("packs");
+	}
+
+	public get packFavorites()
+	{
+		return this.db.collection<IUserPackFavorite>("pack_favorites");
 	}
 }
 

@@ -1,11 +1,11 @@
-import {CardPack, GameItem, ICardPackDefinition, ICardTypes, ICustomCardPack, ICustomPackDataInput} from "../Game/GameContract";
+import {CardPack, GameItem, ICardPackDefinition, ICardTypes, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, PackFavorites} from "../Game/GameContract";
 import {loadFileAsJson} from "../../../Utils/FileUtils";
 import {CardCastConnector} from "../Game/CardCastConnector";
-import shortid from "shortid";
 import {Database} from "../../../DB/Database";
 import {packInputToPackDef} from "../../../Utils/PackUtils";
 import {AuthCookie} from "../../Auth/AuthCookie";
 import {Request} from "express";
+import {FilterQuery} from "mongodb";
 
 class _PackManager
 {
@@ -73,7 +73,7 @@ class _PackManager
 	public async upsertPack(req: Request, packInput: ICustomPackDataInput)
 	{
 		const storedUserData = AuthCookie.get(req);
-		if(!storedUserData || !storedUserData.userId)
+		if (!storedUserData || !storedUserData.userId)
 		{
 			throw new Error("Not logged in!");
 		}
@@ -83,7 +83,7 @@ class _PackManager
 		{
 			existingPack = await this.getCustomPack(packInput.id);
 
-			if(existingPack && storedUserData.userId !== existingPack.owner)
+			if (existingPack && storedUserData.userId !== existingPack.owner)
 			{
 				throw new Error("You don't have permission to update this pack");
 			}
@@ -93,13 +93,14 @@ class _PackManager
 
 		const now = new Date();
 		const toSave: ICustomCardPack = {
-			packId: existingPack?.packId ?? shortid(),
+			packId: packDefFromInput.pack.id,
 			owner: storedUserData.userId,
 			definition: packDefFromInput,
 			dateCreated: existingPack?.dateCreated ?? now,
 			dateUpdated: now,
 			isNsfw: packInput.isNsfw,
-			isPublic: packInput.isPublic
+			isPublic: packInput.isPublic,
+			categories: packInput.categories
 		};
 
 		await Database.collections.packs.updateOne({
@@ -111,6 +112,106 @@ class _PackManager
 		});
 
 		return toSave;
+	}
+
+	public async getPacks(req: Request, query: FilterQuery<ICustomCardPack>, zeroBasedPage: number = 0): Promise<ICustomPackSearchResult>
+	{
+		const packs = await Database.collections.packs
+			.find(query)
+			.sort({dateUpdated: -1})
+			.skip(12 * zeroBasedPage)
+			.limit(12)
+			.toArray();
+
+		const storedUserData = AuthCookie.get(req);
+		let userFavorites: PackFavorites = {};
+		if (storedUserData?.userId)
+		{
+			const packIds = packs.map(p => p.packId);
+
+			const favorites = await Database.collections.packFavorites.find({
+				userId: storedUserData.userId,
+				packId: {
+					$in: packIds
+				}
+			}).toArray();
+
+			userFavorites = favorites.reduce((acc, item) => {
+				acc[item.packId] = true;
+				return acc;
+			}, {} as PackFavorites);
+		}
+
+		return {
+			packs,
+			hasMore: packs.length === 12,
+			userFavorites
+		};
+	}
+
+	public async getPacksForOwner(req: Request)
+	{
+		const storedUserData = AuthCookie.get(req);
+
+		const owner = storedUserData?.userId;
+		if (!owner)
+		{
+			throw new Error("You must be logged in to get your packs");
+		}
+
+		return this.getPacks(req, {
+			owner
+		});
+	}
+
+	public async addFavorite(req: Request, packId: string)
+	{
+		const storedUserData = AuthCookie.get(req);
+		if (!storedUserData || !storedUserData.userId)
+		{
+			throw new Error("Not logged in!");
+		}
+
+		const result = await Database.collections.packFavorites
+			.updateOne({
+				packId,
+				userId: storedUserData.userId
+			}, {
+				$set: {
+					packId,
+					userId: storedUserData.userId
+				}
+			}, {
+				upsert: true
+			});
+
+		if (result.upsertedCount < 1)
+		{
+			throw new Error("This item is already favorited!")
+		}
+
+		return;
+	}
+
+	public async removeFavorite(req: Request, packId: string)
+	{
+		const storedUserData = AuthCookie.get(req);
+		if (!storedUserData || !storedUserData.userId)
+		{
+			throw new Error("Not logged in!");
+		}
+
+		const result = await Database.collections.packFavorites.deleteOne({
+			packId,
+			userId: storedUserData.userId
+		});
+
+		if (result.deletedCount && result.deletedCount < 1)
+		{
+			throw new Error("This item was not favorited!")
+		}
+
+		return;
 	}
 }
 

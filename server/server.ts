@@ -11,6 +11,7 @@ import {CreateGameManager} from "./Engine/Games/Game/GameManager";
 import * as Sentry from "@sentry/node";
 import {Auth} from "./Engine/Auth/Auth";
 import {RegisterPackEndpoints} from "./Engine/Games/Cards/PackEndpoints";
+import mongoSanitize from 'express-mongo-sanitize';
 
 require('dotenv').config();
 
@@ -41,6 +42,10 @@ app.use(bodyParser.json({
 	type: ['application/json', 'text/plain']
 }) as any);
 app.use(bodyParser.urlencoded({extended: true}) as any);
+
+app.use(mongoSanitize({
+	replaceWith: '_'
+}));
 
 app.get("/service-worker.js", (req, res) =>
 {

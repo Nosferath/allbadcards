@@ -11,6 +11,7 @@ export interface Patron
 export interface PatronSettings
 {
 	nickname: string;
+	favoritePackIds: string[];
 }
 
 export interface IClientAuthStatus

@@ -86,7 +86,8 @@ class _Auth
 		{
 			await this.updateDatabaseUser(userId, {
 				settings: {
-					nickname: profileData.data.attributes.first_name
+					nickname: profileData.data.attributes.first_name,
+					favoritePackIds: []
 				}
 			}, false);
 		}

@@ -25,8 +25,7 @@ export class SiteRoutes
 {
 	public static CardCastExport = new SiteRoute("/cardcast-export");
 	public static PacksBrowser = new SiteRoute("/packs");
-	public static PackDetail = new SiteRoute("/pack/:id/:throwaway?");
-	public static PackCreate = new SiteRoute<{ id?: string }>("/pack/edit/:id?");
+	public static PackCreate = new SiteRoute<{ id?: string }>("/pack/detail/:id?");
 	public static Games = new SiteRoute("/games");
 	public static Game = new SiteRoute<{ id: string }>("/game/:id/:throwaway?");
 }

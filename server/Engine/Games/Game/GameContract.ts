@@ -2,6 +2,8 @@ export type PlayerMap = { [key: string]: GamePlayer };
 export type CardPack = { [cardIndex: number]: CardId };
 export type CardPackMap = { [packId: string]: CardPack };
 
+export type ValuesOf<T> = T[keyof T]
+
 export interface IPlayer
 {
 	guid: string;
@@ -137,7 +139,8 @@ export interface ICustomCardPack
 	dateCreated: Date;
 	dateUpdated: Date;
 	isNsfw: boolean,
-	isPublic: boolean
+	isPublic: boolean;
+	categories: ValuesOf<typeof PackCategories>[];
 }
 
 export interface IBlackCardDefinition
@@ -155,4 +158,33 @@ export interface ICustomPackDataInput
 	blackCards: string[],
 	isNsfw: boolean,
 	isPublic: boolean
+	categories: ValuesOf<typeof PackCategories>[];
 }
+
+export interface IUserPackFavorite
+{
+	packId: string;
+	userId: string;
+}
+
+export interface ICustomPackSearchResult
+{
+	packs: ICustomCardPack[];
+	hasMore: boolean;
+	userFavorites: PackFavorites;
+}
+
+export type PackFavorites = { [packId: string]: boolean };
+
+export const PackCategories = [
+	"General",
+	"Insulting",
+	"Movies, Music, & TV",
+	"Family-Friendly",
+	"Business",
+	"Events & Holidays",
+	"News & Politics",
+	"Places & Things",
+	"Hobbies & Activities",
+	"Languages"
+] as const;

@@ -1,10 +1,12 @@
 import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
-import {ICustomCardPack} from "../Platform/Contract";
+import {ICustomCardPack, PackCategories} from "../Platform/Contract";
+import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 
 export interface PackCreatorDataStorePayload
 {
+	ownerId: string | null;
 	packId: string | null;
 	packName: string;
 	blackCards: string[];
@@ -14,11 +16,13 @@ export interface PackCreatorDataStorePayload
 	isEdited: boolean;
 	isNsfw: boolean;
 	isPublic: boolean;
+	categories: ValuesOf<typeof PackCategories>[];
 }
 
 class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 {
 	private static InitialState: PackCreatorDataStorePayload = {
+		ownerId: null,
 		packId: null,
 		packName: "",
 		whiteCards: [],
@@ -27,7 +31,8 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		whiteCardErrors: [],
 		isEdited: false,
 		isNsfw: true,
-		isPublic: false
+		isPublic: false,
+		categories: []
 	};
 
 	public static Instance = new _PackCreatorDataStore(_PackCreatorDataStore.InitialState);
@@ -35,8 +40,10 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 	public hydrate(id: string)
 	{
 		Platform.getPack(id)
-			.then(data => {
+			.then(data =>
+			{
 				this.update({
+					ownerId: data.owner,
 					packId: data.definition.pack.id,
 					isNsfw: data.isNsfw,
 					isPublic: data.isPublic,
@@ -45,7 +52,8 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 					packName: data.definition.pack.name,
 					isEdited: false,
 					blackCardErrors: [],
-					whiteCardErrors: []
+					whiteCardErrors: [],
+					categories: data.categories
 				})
 			})
 			.catch(ErrorDataStore.add);
@@ -156,11 +164,22 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		{
 			return "You need at least one card";
 		}
+
+		if(this.state.categories.length === 0)
+		{
+			return "You must select a category";
+		}
+
+		if(this.state.categories.length > 3)
+		{
+			return "You can only select 3 categories";
+		}
 	}
 
 	public setIsNsfw = (nsfw: boolean) =>
 	{
 		this.update({
+			isEdited: true,
 			isNsfw: nsfw
 		});
 	};
@@ -168,6 +187,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 	public setIsPublic = (isPublic: boolean) =>
 	{
 		this.update({
+			isEdited: true,
 			isPublic
 		});
 	};
@@ -182,13 +202,32 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 				id: this.state.packId,
 				packName: this.state.packName,
 				blackCards: this.state.blackCards,
-				whiteCards: this.state.whiteCards
-			}).then(resolve)
-				.catch(e => {
+				whiteCards: this.state.whiteCards,
+				categories: this.state.categories
+			}).then(data =>
+			{
+				resolve(data);
+				this.update({
+					isEdited: false
+				});
+			})
+				.catch(e =>
+				{
 					ErrorDataStore.add(e);
 					reject(e);
 				});
 		});
+	};
+
+	public setCategories(categories: ValuesOf<typeof PackCategories>[])
+	{
+		if (categories.length <= 3)
+		{
+			this.update({
+				isEdited: true,
+				categories
+			});
+		}
 	}
 }
 
