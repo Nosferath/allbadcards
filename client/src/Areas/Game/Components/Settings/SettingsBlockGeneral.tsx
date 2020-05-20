@@ -1,17 +1,13 @@
-import ExpansionPanelDetails from "@material-ui/core/ExpansionPanelDetails";
 import React, {ChangeEvent, useState} from "react";
 import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import FormControl from "@material-ui/core/FormControl";
 import Divider from "@material-ui/core/Divider";
 import {ListItemSecondaryAction, Slider, TextField, Typography} from "@material-ui/core";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import Game from "../../Game";
-import Checkbox from "@material-ui/core/Checkbox";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import Switch from "@material-ui/core/Switch";
 import List from "@material-ui/core/List";
-import Button from "@material-ui/core/Button";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
@@ -207,7 +203,7 @@ const WinnerBecomesCzar: React.FC<IGameDataProps> = ({
 	return (
 		<FormControl component="fieldset" style={{width: "100%"}}>
 			<ListItem>
-				<ListItemText primary={"Winner Becomes Card Czar"} secondary={`Make the winner of the last round become the Card Czar for the next round.`}/>
+				<ListItemText primary={"Winner Becomes Card Queen"} secondary={`Make the winner of the last round become the Card Queen for the next round.`}/>
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"

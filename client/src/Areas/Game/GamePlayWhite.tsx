@@ -260,7 +260,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 		const metPickTarget = targetPicked <= pickedCards.length || targetPicked <= pickedCardsCustom.length;
 		const timeToPick = remainingPlayers.length === 0;
 		const revealMode = timeToPick && revealedIndex < roundCardKeys.length;
-		let czar = "the Card Czar";
+		let czar = "the Card Queen";
 		if (chooserGuid)
 		{
 			czar = unescape(gameData.game.players[chooserGuid].nickname);

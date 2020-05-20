@@ -295,6 +295,11 @@ class _Platform
 		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}`);
 	}
 
+	public getMyFavoritePacks()
+	{
+		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/myfaves`);
+	}
+
 	public savePack(packData: ICustomPackDataInput)
 	{
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/update", {

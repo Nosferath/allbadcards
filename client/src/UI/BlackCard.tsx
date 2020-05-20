@@ -7,6 +7,7 @@ import sanitize from "sanitize-html";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import classNames from "classnames";
+import {colors} from "../colors";
 
 interface IBlackCardProps
 {
@@ -32,7 +33,7 @@ const useStyles = makeStyles(theme => ({
 	card: {
 		minHeight: "25vh",
 		cursor: "default",
-		backgroundColor: "#222",
+		backgroundColor: colors.dark.main,
 		display: "flex",
 		flexDirection: "column"
 	}

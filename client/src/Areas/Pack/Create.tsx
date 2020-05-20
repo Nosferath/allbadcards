@@ -72,7 +72,7 @@ const Create = () =>
 		}
 	}, []);
 
-	const canEdit = authState.userId === packCreatorData.ownerId;
+	const canEdit = !packCreatorData.ownerId || authState.userId === packCreatorData.ownerId;
 
 	const save = () =>
 	{
@@ -167,7 +167,7 @@ const Create = () =>
 			</Grid>
 
 			<Grid item xs={12} md={12} lg={6} className={classes.section}>
-				<Typography variant={"h5"}>Black Cards ({packCreatorData.blackCards?.length ?? 0})</Typography>
+				<Typography variant={"h5"}>Questions ({packCreatorData.blackCards?.length ?? 0})</Typography>
 				<Divider className={classes.divider}/>
 				<Grid container spacing={3} style={{marginBottom: "1rem"}}>
 					{packCreatorData.blackCards.map((value, index) => (
@@ -195,7 +195,7 @@ const Create = () =>
 			</Grid>
 
 			<Grid item xs={12} md={12} lg={6} className={classes.section}>
-				<Typography variant={"h5"}>White Cards ({packCreatorData.whiteCards?.length ?? 0})</Typography>
+				<Typography variant={"h5"}>Answers ({packCreatorData.whiteCards?.length ?? 0})</Typography>
 				<Divider className={classes.divider}/>
 				<Grid container spacing={3} style={{marginBottom: "1rem"}}>
 					{packCreatorData.whiteCards.map((value, index) => (
@@ -271,7 +271,7 @@ const EditableBlack: React.FC<IEditableCard> = (props) =>
 				inputRef?.current?.focus();
 			}, 200);
 		}
-	}, [])
+	}, []);
 
 	const updateError = (errorVal: string) =>
 	{
@@ -295,14 +295,13 @@ const EditableBlack: React.FC<IEditableCard> = (props) =>
 	};
 
 	return (
-		<Grid item sm={12} lg={6}>
+		<Grid item xs={12} md={6}>
 			<BlackCard className={classes.shortCard} actions={props.canEdit && (
 				<Button onClick={() => props.onRemove(props.index)} style={{color: "white"}}>Remove</Button>
 			)}>
 				<TextField
 					variant={"outlined"}
 					value={props.value}
-					color={"primary"}
 					error={!!error}
 					helperText={error}
 					disabled={!props.canEdit}
@@ -314,6 +313,9 @@ const EditableBlack: React.FC<IEditableCard> = (props) =>
 					}}
 					inputProps={{
 						className: classes.blackInput,
+						style: {
+							color: "white"
+						}
 					}}
 					onChange={e => onEdit(e.currentTarget.value)}
 				/>
@@ -326,8 +328,21 @@ const EditableWhite: React.FC<IEditableCard> = (props) =>
 {
 	const classes = useStyles();
 
+	const inputRef = React.useRef<HTMLInputElement>();
+
+	useEffect(() =>
+	{
+		if (props.focus)
+		{
+			setTimeout(() =>
+			{
+				inputRef?.current?.focus();
+			}, 200);
+		}
+	}, []);
+
 	return (
-		<Grid item sm={12} lg={6}>
+		<Grid item xs={12} md={6}>
 			<WhiteCard className={classes.shortCard} actions={props.canEdit && (
 				<Button onClick={() => props.onRemove(props.index)} style={{color: "black"}}>Remove</Button>
 			)}>
@@ -336,12 +351,16 @@ const EditableWhite: React.FC<IEditableCard> = (props) =>
 					value={props.value}
 					fullWidth
 					multiline
+					inputRef={inputRef}
 					disabled={!props.canEdit}
 					classes={{
 						root: classes.whiteCardTextField
 					}}
 					inputProps={{
-						className: classes.whiteInput
+						className: classes.whiteInput,
+						style: {
+							color: "black"
+						}
 					}}
 					onChange={e => props.onEdit(props.index, e.currentTarget.value)}
 				/>

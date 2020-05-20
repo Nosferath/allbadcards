@@ -240,7 +240,7 @@ const WinnerBecomesCzar: React.FC<IGameDataProps> = ({
 	return (
 		<FormControl component="fieldset" style={{width: "100%"}}>
 			<ListItem>
-				<ListItemText primary={"Winner Becomes Card Czar"} secondary={`Make the winner of the last round become the Card Czar for the next round.`}/>
+				<ListItemText primary={"Winner Becomes Card Queen"} secondary={`Make the winner of the last round become the Card Queen for the next round.`}/>
 				<ListItemSecondaryAction>
 					<Switch
 						edge="end"

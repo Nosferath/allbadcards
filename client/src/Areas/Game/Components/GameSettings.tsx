@@ -1,14 +1,11 @@
 import React, {useState} from "react";
-import {DialogActions, DialogTitle, ListItemAvatar, ListItemSecondaryAction, Typography} from "@material-ui/core";
+import {DialogActions, ListItemAvatar, ListItemSecondaryAction, Typography} from "@material-ui/core";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
 import Button from "@material-ui/core/Button";
-import Divider from "@material-ui/core/Divider";
-import makeStyles from "@material-ui/styles/makeStyles/makeStyles";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
-import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import {SettingsBlockGame} from "./Settings/SettingsBlockGame";
 import {GiCardPlay, MdEdit, MdSettings} from "react-icons/all";
@@ -18,24 +15,9 @@ import {SettingsBlockCustomPacks} from "./Settings/SettingsBlockCustomPacks";
 import Avatar from "@material-ui/core/Avatar";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import {SettingsBlockGeneral} from "./Settings/SettingsBlockGeneral";
-
-const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
-
-const useStyles = makeStyles({
-	whiteBox: {
-		height: "1rem",
-		border: "1px solid black",
-		padding: 5
-	},
-	blackBox: {
-		marginLeft: 20,
-		padding: 5,
-		height: "1rem",
-		background: "#333",
-		border: "1px solid #333",
-		color: "white",
-	}
-});
+import {Link} from "react-router-dom";
+import {SiteRoutes} from "../../../Global/Routes/Routes";
+import {CloseableDialog} from "../../../UI/CloseableDialog";
 
 export const GameSettings = () =>
 {
@@ -92,7 +74,7 @@ export const GameSettings = () =>
 								<strong style={{color: "black"}}>{(gameData.ownerSettings?.includedPacks.length ?? 0).toString()}</strong>
 							</Avatar>
 						</ListItemAvatar>
-						<ListItemText primary={"Main Card Packs"} secondary={"Pick from official and third-party card packs for your game"}/>
+						<ListItemText primary={"Built-in Card Packs"} secondary={"Pick from built-in card packs for your game"}/>
 						<ListItemSecondaryAction style={{right: 0}}>
 							<IconButton color={"secondary"} onClick={() => setMainPackSettingsVisible(true)}>
 								<MdEdit/>
@@ -102,12 +84,12 @@ export const GameSettings = () =>
 					<ListItem>
 						<ListItemAvatar>
 							<Avatar>
-								<strong style={{color: "black"}}>{(gameData.ownerSettings?.includedCardcastPacks.length ?? 0).toString()}</strong>
+								<strong style={{color: "black"}}>{(gameData.ownerSettings?.includedCustomPackIds.length ?? 0).toString()}</strong>
 							</Avatar>
 						</ListItemAvatar>
 						<ListItemText primary={"Custom Card Packs"} secondary={
 							<span>
-								Add custom card packs from <a href={"https://www.cardcastgame.com/browse"} target={"_null"}>CardCast's</a> robust custom deck list.
+								Add custom card packs from our growing list of <Link to={SiteRoutes.PacksBrowser.resolve()}>Custom Packs</Link>.
 							</span>
 						}/>
 						<ListItemSecondaryAction style={{right: 0}}>
@@ -118,57 +100,49 @@ export const GameSettings = () =>
 					</ListItem>
 				</List>
 			</div>
-			<Dialog open={generalSettingsVisible} onClose={() => setGeneralSettingsVisible(false)}>
-				<DialogTitle>General</DialogTitle>
-				<DialogContent>
+			<CloseableDialog open={generalSettingsVisible} onClose={() => setGeneralSettingsVisible(false)} TitleProps={{children: "General"}}>
+				<DialogContent dividers>
 					<SettingsBlockGeneral/>
 				</DialogContent>
-				<Divider/>
 				<DialogActions>
 					<Button onClick={() => setGeneralSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
-			</Dialog>
+			</CloseableDialog>
 
-			<Dialog open={gameSettingsVisible} onClose={() => setGameSettingsVisible(false)}>
-				<DialogTitle>General</DialogTitle>
-				<DialogContent>
+			<CloseableDialog open={gameSettingsVisible} onClose={() => setGameSettingsVisible(false)} TitleProps={{children: "Game"}}>
+				<DialogContent dividers>
 					<SettingsBlockGame/>
 				</DialogContent>
-				<Divider/>
 				<DialogActions>
 					<Button onClick={() => setGameSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
-			</Dialog>
+			</CloseableDialog>
 
-			<Dialog open={mainPackSettingsVisible} onClose={() => setMainPackSettingsVisible(false)} maxWidth={"xl"}>
-				<DialogTitle>Main Card Packs</DialogTitle>
-				<DialogContent>
+			<CloseableDialog open={mainPackSettingsVisible} onClose={() => setMainPackSettingsVisible(false)} maxWidth={"xl"} TitleProps={{children: "Built-in Card Packs"}}>
+				<DialogContent dividers>
 					<SettingsBlockMainPacks/>
 				</DialogContent>
-				<Divider/>
 				<DialogActions>
 					<Button onClick={() => setMainPackSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
-			</Dialog>
+			</CloseableDialog>
 
-			<Dialog open={customPackSettingsVisible} onClose={() => setCustomPackSettingsVisible(false)} maxWidth={"xl"}>
-				<DialogTitle>Custom Card Packs</DialogTitle>
-				<DialogContent>
+			<CloseableDialog open={customPackSettingsVisible} onClose={() => setCustomPackSettingsVisible(false)} maxWidth={"xl"} TitleProps={{children: "Custom Card Packs"}}>
+				<DialogContent dividers>
 					<SettingsBlockCustomPacks/>
 				</DialogContent>
-				<Divider/>
 				<DialogActions>
 					<Button onClick={() => setCustomPackSettingsVisible(false)} color="secondary">
 						Save
 					</Button>
 				</DialogActions>
-			</Dialog>
+			</CloseableDialog>
 		</div>
 	);
 };

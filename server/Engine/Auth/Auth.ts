@@ -7,6 +7,7 @@ import {IClientAuthStatus, Patron} from "./UserContract";
 import {PatreonConnector} from "./PatreonConnector";
 import {AuthCookie} from "./AuthCookie";
 import {MatchKeysAndValues} from "mongodb";
+import moment from "moment";
 
 interface TokenWithExpires extends ClientOAuth2.Token
 {
@@ -110,21 +111,22 @@ class _Auth
 			levels: []
 		};
 
-		if (storedUserData)
+		if (!!storedUserData?.userId)
 		{
 			authStatus.accessToken = storedUserData.accessToken;
 			authStatus.userId = storedUserData.userId;
 
 			const foundUsers = await Database.collections.users.find({
-				id: storedUserData.userId
+				userId: storedUserData.userId
 			}).toArray();
 
 			if (foundUsers && foundUsers.length === 1)
 			{
 				const dbUser = foundUsers[0];
 
-				const now = new Date();
-				const refreshExpired = now > dbUser.refresh_expiry;
+				const now = moment();
+				const refreshExpiry = moment(dbUser.refresh_expiry);
+				const refreshExpired = now.isAfter(refreshExpiry);
 				if (refreshExpired)
 				{
 					authStatus.userId = null;
@@ -134,7 +136,7 @@ class _Auth
 					return authStatus;
 				}
 
-				const accessExpired = !storedUserData.accessTokenExpiry || now > storedUserData.accessTokenExpiry;
+				const accessExpired = !storedUserData.accessTokenExpiry || now.isAfter(moment(storedUserData.accessTokenExpiry));
 				if (accessExpired && storedUserData.accessToken)
 				{
 					try

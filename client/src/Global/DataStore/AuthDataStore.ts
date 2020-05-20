@@ -12,6 +12,7 @@ export interface IAuthContext
 }
 
 const BackerLevelMap = {
+	[BackerType.None]: [BackerType.None],
 	[BackerType.Backer]: [BackerType.Backer],
 	[BackerType.Sponsor]: [BackerType.Backer, BackerType.Sponsor],
 	[BackerType.DiamondSponsor]: [BackerType.Backer, BackerType.Sponsor, BackerType.DiamondSponsor],
@@ -43,8 +44,8 @@ class _AuthDatastore extends DataStore<IAuthContext>
 			userId,
 		} = status;
 
-		const ownedLevels = levels
-			? BackerLevelMap[levels]
+		const ownedLevels = levels.length
+			? BackerLevelMap[levels[0]]
 			: [BackerType.None];
 
 		this.update({

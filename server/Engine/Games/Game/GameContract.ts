@@ -36,7 +36,7 @@ export interface IGameSettings
 	roundsToWin: number;
 	inviteLink: string | null;
 	includedPacks: string[];
-	includedCardcastPacks: string[];
+	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	customWhites: boolean;
 	roundTimeoutSeconds: number | null;

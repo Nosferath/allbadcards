@@ -36,6 +36,22 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
+	app.get("/api/packs/myfaves", async (req, res) =>
+	{
+		logRequest(req);
+		try
+		{
+			const result = await PackManager.getMyFavoritePacks(req);
+			sendWithBuildVersion({
+				result
+			}, res);
+		}
+		catch (error)
+		{
+			onExpressError(res, error, req.url, req.query, req.body);
+		}
+	});
+
 	app.get("/api/packs/search", async (req, res) =>
 	{
 		logRequest(req);
@@ -57,7 +73,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 				query["definition.pack.name"] = '.*' + req.query.search + '.*';
 			}
 
-			const result = await PackManager.getPacks(req, query);
+			const result = await PackManager.getPacks(req, query, req.query.sort);
 
 			sendWithBuildVersion({
 				result

@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import GamePreview from "./GamePreview";
 import {Platform} from "../../Global/Platform/platform";
 import {UserDataStore} from "../../Global/DataStore/UserDataStore";
@@ -10,7 +10,6 @@ import {LoadingButton} from "../../UI/LoadingButton";
 import {MdAdd} from "react-icons/all";
 import {useDataStore} from "../../Global/Utils/HookUtils";
 import {Tooltip} from "@material-ui/core";
-import Button from "@material-ui/core/Button";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
 import {Alert} from "@material-ui/lab";
 
@@ -51,7 +50,7 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 	const playerGuids = Object.keys(gameData.game?.players ?? {});
 	const randomPlayers = playerGuids.filter(pg => players[pg]?.isRandom) ?? [];
 	const canAddRandom = randomPlayers.length < 10;
-	const selectedPacks = [...gameData.ownerSettings.includedPacks, ...gameData.ownerSettings.includedCardcastPacks];
+	const selectedPacks = [...gameData.ownerSettings.includedPacks, ...gameData.ownerSettings.includedCustomPackIds];
 	const hasRandoms = randomPlayers.length > 0;
 	const isCustomWhites = gameData.ownerSettings?.customWhites;
 	const badCustomState = isCustomWhites && hasRandoms;

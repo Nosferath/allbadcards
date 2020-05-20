@@ -1,6 +1,5 @@
 import {Badge, Dialog, DialogContent, useMediaQuery} from "@material-ui/core";
 import React, {useState} from "react";
-import Helmet from "react-helmet";
 import Fab from "@material-ui/core/Fab";
 import {FiMessageCircle} from "react-icons/all";
 import makeStyles from "@material-ui/core/styles/makeStyles";
@@ -58,7 +57,7 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 				     aria-label="add"
 				     onClick={openDialog}
 				     style={{position: "fixed", bottom: 15, right: 15, zIndex: 15}}>
-					<Badge badgeContent={chatData.unseenChatMessages} color="primary">
+					<Badge badgeContent={chatData.unseenChatMessages} color="secondary">
 						<FiMessageCircle style={{marginRight: "1rem", fontSize: "1.5rem"}}/> Chat
 					</Badge>
 				</Fab>

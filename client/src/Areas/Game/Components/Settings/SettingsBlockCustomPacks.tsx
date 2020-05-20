@@ -1,47 +1,61 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import {Alert, AlertTitle} from "@material-ui/lab";
+import {ICustomPackSearchResult} from "../../../../Global/Platform/Contract";
+import {Platform} from "../../../../Global/Platform/platform";
+import {AuthDataStore} from "../../../../Global/DataStore/AuthDataStore";
+import {ErrorDataStore} from "../../../../Global/DataStore/ErrorDataStore";
+import {List, ListItem, ListItemSecondaryAction, ListItemText, Switch} from "@material-ui/core";
 
 export const SettingsBlockCustomPacks: React.FC = () =>
 {
+	const authState = useDataStore(AuthDataStore);
 	const gameData = useDataStore(GameDataStore);
-	const [cardCastDeckCode, setCardCastDeckCode] = useState("");
+	const [favs, setFavs] = useState<ICustomPackSearchResult | null>(null);
 
-	const onPacksChange = (event: React.ChangeEvent<HTMLInputElement>) =>
+	useEffect(() =>
 	{
-		const newPacks = event.target.checked
-			? [...gameData.ownerSettings.includedPacks, event.target.name]
-			: gameData.ownerSettings.includedPacks.filter(a => a !== event.target.name);
-		GameDataStore.setIncludedPacks(newPacks);
-	};
-
-	const onAddCardCastDeck = () =>
-	{
-		if (!gameData.ownerSettings.includedCardcastPacks?.includes(cardCastDeckCode))
+		if (authState.authorized)
 		{
-			const allCodes = cardCastDeckCode.split(",").map(c => c.trim());
-			GameDataStore.setIncludedCardcastPacks([...gameData.ownerSettings.includedCardcastPacks, ...allCodes]);
+			Platform.getMyFavoritePacks()
+				.then(data => setFavs(data.result))
+				.catch(ErrorDataStore.add);
+		}
+	}, []);
+
+	const setPacks = (packId: string, included: boolean) =>
+	{
+		let packs = [...gameData.ownerSettings.includedCustomPackIds];
+		if (included && !packs.includes(packId))
+		{
+			packs.push(packId);
+		}
+		else
+		{
+			packs = packs.filter(pid => pid === packId);
 		}
 
-		setCardCastDeckCode("");
+		GameDataStore.setIncludeCustomPacks(packs);
 	};
 
-	const removeCardCastDeck = (packId: string) =>
-	{
-		const newDecks = [...gameData.ownerSettings.includedCardcastPacks].filter(p => p !== packId);
-
-		GameDataStore.setIncludedCardcastPacks(newDecks);
-	};
 
 	return (
 		<>
-			<div>
-				<Alert color={"error"}>
-					<AlertTitle>Sorry!</AlertTitle>
-					CardCast shut down. CardCast packs are no longer supported.
-				</Alert>
-			</div>
+			<List style={{width: "75vw", maxWidth: "40rem"}}>
+				{favs?.packs?.map(pack => (
+					<ListItem>
+						<ListItemText
+							primary={pack.definition.pack.name}
+							secondary={<>
+								Q: <strong>{pack.definition.quantity.black}</strong> // A: <strong>{pack.definition.quantity.white}</strong> // {pack.isNsfw ? "NSFW" : "SFW"}
+							</>}
+						/>
+						<ListItemSecondaryAction>
+							<Switch onChange={e => setPacks(pack.definition.pack.id, e.target.checked)}/>
+						</ListItemSecondaryAction>
+					</ListItem>
+				))}
+			</List>
 		</>
 	);
 };

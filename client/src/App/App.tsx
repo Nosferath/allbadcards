@@ -1,12 +1,11 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, IconButton, List, ListItem, ListItemText, Menu, MenuItem, Paper, styled, Switch, Tooltip, Typography, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, IconButton, List, ListItem, ListItemText, Menu, MenuItem, Paper, styled, SwipeableDrawer, Switch, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {FaUserCircle, IoMdVolumeHigh, IoMdVolumeOff, MdBugReport, MdPeople, MdSettings, TiLightbulb} from "react-icons/all";
-import {GameRoster} from "../Areas/Game/Components/GameRoster";
-import {Link} from "react-router-dom";
+import {FaUser, FiMenu, MdBugReport, TiLightbulb} from "react-icons/all";
+import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
 import ReactGA from "react-ga";
 import classNames from "classnames";
@@ -16,12 +15,15 @@ import {ErrorDataStore} from "../Global/DataStore/ErrorDataStore";
 import {ErrorBoundary} from "./ErrorBoundary";
 import {BrowserUtils} from "../Global/Utils/BrowserUtils";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {GameSettings} from "../Areas/Game/Components/GameSettings";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
-import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
 import {getPatreonUrl} from "../Global/Utils/UserUtils";
 import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
 import cookies from "browser-cookies";
+import {SiteRoutes} from "../Global/Routes/Routes";
+import {CloseableDialog} from "../UI/CloseableDialog";
+import {NavButtons} from "./NavButtons";
+import {colors} from "../colors";
+import {AppBarGameButtons} from "./GameButtons";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -29,29 +31,16 @@ const useStyles = makeStyles(theme => createStyles({
 		zIndex: 1300
 	},
 	appBar: {
-		background: theme.palette.secondary.main,
-		color: "white",
+		background: colors.dark.main,
+		color: colors.dark.contrastText,
 	},
 	logoIcon: {
 		height: "2rem",
 		width: "auto",
 		paddingRight: "1rem"
 	},
-	settingsButton: {
-		minWidth: 0,
-		fontSize: "1.5rem",
-	},
-	firstButton: {
-		minWidth: 0,
-		marginLeft: "auto",
-		fontSize: "1.5rem"
-	},
-	rosterButton: {
-		minWidth: 0,
-		fontSize: "1.5rem"
-	},
 	logo: {
-		color: "white",
+		color: colors.dark.contrastText,
 		textDecoration: "none",
 		display: "flex",
 		alignItems: "center",
@@ -63,13 +52,19 @@ const useStyles = makeStyles(theme => createStyles({
 	appBarButtonRight: {
 		marginRight: "0.5rem"
 	},
-	rightButtons: {
-		marginLeft: "auto"
+	drawer: {
+		minWidth: "50vw",
+		"& a": {
+			display: "flex",
+			justifyContent: "flex-start",
+			marginTop: "0.5rem",
+			marginBottom: "0.5rem"
+		}
 	}
 }));
 
 const OuterContainer = styled(Container)({
-	background: "#EEE",
+	background: colors.light.main,
 	minHeight: "100vh",
 	width: "100%",
 	padding: 0,
@@ -80,7 +75,7 @@ const App: React.FC = () =>
 {
 	const classes = useStyles();
 	const history = useHistory();
-	const mobile = useMediaQuery('(max-width:600px)');
+	const mobile = useMediaQuery('(max-width:768px)');
 	history.listen(() => BrowserUtils.scrollToTop());
 	useEffect(() =>
 	{
@@ -97,7 +92,6 @@ const App: React.FC = () =>
 	const year = date.getFullYear();
 	const isFamilyMode = location.hostname.startsWith("not.");
 
-
 	const titleDefault = isFamilyMode
 		? "(Not) All Bad Cards | Play the Family Edition of All Bad Cards online!"
 		: "All Bad Cards | Be rude. Be irreverent. Be Hilarious!";
@@ -110,29 +104,36 @@ const App: React.FC = () =>
 
 	const bugReportUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md";
 	const featureRequestUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=enhancement&template=feature_request.md";
+	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
 
 	return (
 		<div>
 			<Helmet titleTemplate={`%s | ${template}`} defaultTitle={titleDefault}>
-				<meta name="description" content={`Play Cards Against Humanity${familyEdition} online, for free! Over 10,000 cards in total. Play with friends over video chat, or in your house with your family. `}/>
+				<meta name="description" content={`Play All Bad Cards${familyEdition} online, for free! Play with friends over video chat, or in your house with your family. `}/>
 			</Helmet>
 			<OuterContainer>
 				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
 					<Toolbar className={appBarClasses}>
-						<Typography variant={mobile ? "body1" : "h5"}>
+						{mobile && (
+							<AppDrawer/>
+						)}
+						<Typography variant={mobile ? "body1" : "h5"} style={{marginRight: mobile ? "auto" : undefined}}>
 							<Link to={"/"} className={classes.logo}>
-								{!isFamilyMode && <img className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>}
-								{isFamilyMode ? "(not) " : ""} ALL BAD CARDS
+								<img className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>
+								{isFamilyMode && !mobile ? "(not) " : ""} {!mobile && "ALL BAD CARDS"}
 							</Link>
 						</Typography>
 						<AppBarLeftButtons/>
+						{isGame && (
+							<AppBarGameButtons/>
+						)}
 						<AppBarRightButtons/>
 					</Toolbar>
 				</AppBar>
 				<Paper square style={{padding: "0 1rem 6rem"}}>
 					<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
 						<ErrorBoundary>
-							<Routes />
+							<Routes/>
 						</ErrorBoundary>
 					</Container>
 					<DarkModeSwitch/>
@@ -212,70 +213,6 @@ const Errors = () =>
 	);
 };
 
-const AppBarGameButtons = () =>
-{
-	const preferences = useDataStore(PreferencesDataStore);
-	const socketData = useDataStore(SocketDataStore);
-	const classes = useStyles();
-	const [rosterOpen, setRosterOpen] = useState(false);
-	const [settingsOpen, setSettingsOpen] = useState(false);
-
-	const muteLabel = preferences.muted ? "Unmute" : "Mute";
-
-	const buttonColor = preferences.darkMode ? "secondary" : "primary";
-
-	return (
-		<>
-			<Tooltip title={`${muteLabel} game sounds`} arrow>
-				<Button color={buttonColor} aria-label={"Share"} className={classes.firstButton} size={"large"} onClick={() => PreferencesDataStore.setMute(!preferences.muted)}>
-					{preferences.muted && (
-						<IoMdVolumeOff/>
-					)}
-					{!preferences.muted && (
-						<IoMdVolumeHigh/>
-					)}
-				</Button>
-			</Tooltip>
-			<Tooltip title={"Scoreboard"} arrow>
-				<Button color={buttonColor} aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
-					<MdPeople/>
-				</Button>
-			</Tooltip>
-			<Tooltip title={"Game settings"} arrow>
-				<Button color={buttonColor} aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
-					<MdSettings/>
-				</Button>
-			</Tooltip>
-			<Dialog open={rosterOpen} onClose={() => setRosterOpen(false)}>
-				<DialogTitle id="form-dialog-title">Game Roster</DialogTitle>
-				<DialogContent>
-					<GameRoster/>
-				</DialogContent>
-			</Dialog>
-			<Dialog open={settingsOpen} onClose={() => setSettingsOpen(false)}>
-				<DialogTitle id="form-dialog-title">Settings</DialogTitle>
-				<DialogContent>
-					<GameSettings/>
-				</DialogContent>
-			</Dialog>
-			<Dialog open={socketData.lostConnection} onClose={() =>
-			{
-			}}>
-				<DialogTitle id="form-dialog-title">Lost Connection</DialogTitle>
-				<DialogContent>
-					You have lost your connection to the server. Please check your connection, or retry. The most common reason for this to happen is switching tabs or leaving your browser for a while.
-					<br/>
-					<br/>
-					If this behavior continues, please <a target={"_blank"} href={"https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md"}>click here</a> to report it.
-				</DialogContent>
-				<DialogActions>
-					<Button color={"secondary"} variant={"outlined"} onClick={() => SocketDataStore.reconnect()}>Retry</Button>
-				</DialogActions>
-			</Dialog>
-		</>
-	);
-};
-
 const DarkModeSwitch = () =>
 {
 	const preferences = useDataStore(PreferencesDataStore);
@@ -291,23 +228,17 @@ const DarkModeSwitch = () =>
 	)
 };
 
-const AppBarLeftButtons: React.FC = () =>
+const AppBarLeftButtons: React.FC = (props) =>
 {
-	const classes = useStyles();
-	const mobile = useMediaQuery('(max-width:600px)');
+	const mobile = useMediaQuery('(max-width:768px)');
 	if (mobile)
 	{
 		return null;
 	}
 
 	return (
-		<div style={{marginLeft: "2rem"}}>
-			<Button className={classes.appBarButton} color="inherit" component={p => <Link {...p} to={"/"}/>}>
-				Play
-			</Button>
-			<Button className={classes.appBarButton} color="inherit" component={p => <Link {...p} to={"/packs"}/>}>
-				Custom Packs
-			</Button>
+		<div style={{marginLeft: "2rem", marginRight: "auto"}}>
+			<NavButtons/>
 		</div>
 	);
 };
@@ -317,6 +248,7 @@ const AppBarRightButtons = () =>
 	const authData = useDataStore(AuthDataStore);
 	const [userMenuOpen, setUserMenuOpen] = useState(false);
 	const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null);
+	const [logInDialogVisible, setLogInDialogVisible] = useState(false);
 	const history = useHistory();
 
 	const logOut = () =>
@@ -326,7 +258,8 @@ const AppBarRightButtons = () =>
 		AuthDataStore.refresh();
 	};
 
-	const openMenu = (element: HTMLElement) => {
+	const openMenu = (element: HTMLElement) =>
+	{
 		setAnchorEl(element);
 		setUserMenuOpen(true);
 	};
@@ -334,11 +267,11 @@ const AppBarRightButtons = () =>
 	const classes = useStyles();
 
 	return (
-		<div className={classes.rightButtons}>
+		<div>
 			{authData.authorized ? (
 				<>
 					<IconButton aria-label={"User Page"} className={classes.appBarButtonRight} color="inherit" onClick={(e) => openMenu(e.currentTarget)}>
-						<FaUserCircle/>
+						<FaUser/>
 					</IconButton>
 					<Menu
 						anchorEl={anchorEl}
@@ -351,16 +284,72 @@ const AppBarRightButtons = () =>
 						}}
 						onClose={() => setUserMenuOpen(false)}
 					>
-						<MenuItem href={"/"}>Settings</MenuItem>
+						<MenuItem component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()} />}>My Card Packs</MenuItem>
+						<MenuItem component={p => <Link {...p} to={SiteRoutes.Settings.resolve()} />}>Settings</MenuItem>
 						<MenuItem onClick={logOut}>Logout</MenuItem>
 					</Menu>
 				</>
 			) : (
-				<Button className={classes.appBarButtonRight} color="inherit" href={getPatreonUrl(history.location.pathname)}>
+				<Button className={classes.appBarButtonRight} color="inherit" onClick={() => setLogInDialogVisible(true)}>
 					Log In
 				</Button>
 			)}
+			<CloseableDialog open={logInDialogVisible} onClose={() => setLogInDialogVisible(false)} TitleProps={{children: "Log In"}}>
+				<DialogContent dividers>
+					<Typography variant={"h6"}>All Bad Cards uses Patreon for authentication.</Typography>
+					<br/>
+					<br/>
+					<Typography>You <strong>do not</strong> need to be a Patreon supporter to log in.</Typography>
+					<br/>
+					<Typography>
+						Patrons may receive extra benefits, but all users can log in!
+					</Typography>
+					<br/>
+				</DialogContent>
+				<DialogActions>
+					<Button href={getPatreonUrl(history.location.pathname)} variant={"contained"} color={"secondary"} style={{margin: "auto", background: "#E64413"}} size={"large"}>
+						Log In with Patreon
+					</Button>
+				</DialogActions>
+			</CloseableDialog>
 		</div>
+	);
+};
+
+const AppDrawer = () =>
+{
+	const history = useHistory();
+	const [drawerOpen, setDrawerOpen] = useState(false);
+
+	const classes = useStyles();
+	const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+
+	history.listen(() => setDrawerOpen(false));
+
+	return (
+		<>
+			<IconButton onClick={() => setDrawerOpen(true)} style={{color: "white"}}>
+				<FiMenu/>
+			</IconButton>
+			<SwipeableDrawer
+				disableBackdropTransition={!iOS}
+				disableDiscovery={iOS}
+				anchor={"left"}
+				open={drawerOpen}
+				onOpen={() => setDrawerOpen(true)}
+				onClose={() => setDrawerOpen(false)}
+				classes={{
+					paper: classes.drawer
+				}}
+			>
+				<div style={{minWidth: "50vw"}}>
+					<Typography style={{textAlign: "center", padding: "1rem 0", background: colors.dark.main, color: colors.dark.contrastText}}>
+						ALL BAD CARDS
+					</Typography>
+					<NavButtons/>
+				</div>
+			</SwipeableDrawer>
+		</>
 	);
 };
 

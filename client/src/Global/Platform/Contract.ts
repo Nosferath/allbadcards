@@ -32,7 +32,7 @@ export interface IGameSettings
 	roundsToWin: number;
 	inviteLink: string | null;
 	includedPacks: string[];
-	includedCardcastPacks: string[];
+	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	customWhites: boolean;
 	roundTimeoutSeconds: number | null;
@@ -134,7 +134,7 @@ export interface IBlackCardDefinition
 
 export enum BackerType
 {
-	None = "",
+	None = "None",
 	Backer = "Backer",
 	Sponsor = "Sponsor",
 	DiamondSponsor = "DiamondSponsor",
@@ -145,7 +145,7 @@ export interface IClientAuthStatus
 	userId: string | null;
 	accessToken: string | null;
 	accessTokenExpiry: Date | null;
-	levels: BackerType;
+	levels: BackerType[];
 }
 
 export interface ICustomPackDataInput
@@ -203,4 +203,7 @@ export interface PackSearch
 	search?: string;
 	category?: ValuesOf<typeof PackCategories>;
 	nsfw?: boolean;
+	sort?: PackSearchSort;
 }
+
+export type PackSearchSort = "favorites" | "newest" | "largest";

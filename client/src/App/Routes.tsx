@@ -46,11 +46,17 @@ export const Routes: React.FC<Props> = (props) =>
 			<Route path={SiteRoutes.PackCreate.path}>
 				<Suspender importer={() => import("../Areas/Pack/Create")}/>
 			</Route>
+			<Route path={SiteRoutes.MyPacks.path}>
+				<Suspender importer={() => import("../Areas/Packs/MyPacks")}/>
+			</Route>
 			<Route path={SiteRoutes.PacksBrowser.path}>
 				<Suspender importer={() => import("../Areas/Packs/PacksBrowser")}/>
 			</Route>
 			<Route path={SiteRoutes.CardCastExport.path}>
 				<Suspender importer={() => import("../Areas/CardCastExport/CardCastExport")}/>
+			</Route>
+			<Route path={SiteRoutes.Settings.path}>
+				<Suspender importer={() => import("../Areas/User/Settings")}/>
 			</Route>
 			<Route>
 				<Redirect to={"/"}/>

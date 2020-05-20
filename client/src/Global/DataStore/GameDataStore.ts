@@ -3,7 +3,6 @@ import {GamePayload, IWhiteCard, Platform} from "../Platform/platform";
 import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
-import {CardCastApi, IDeck} from "isomorphic-cardcast-api";
 import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
@@ -30,8 +29,6 @@ export interface GameDataStorePayload
 	game: GamePayload | null;
 	loadedPacks: ICardPackSummary[];
 	roundStartTime: moment.Moment;
-	cardcastPackDefs: { [key: string]: IDeck };
-	cardcastPacksLoading: boolean;
 	roundCardDefs: WhiteCardMap;
 	playerCardDefs: WhiteCardMap;
 	blackCardDef: IBlackCardDefinition | null;
@@ -47,14 +44,12 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		loadedPacks: [],
 		roundCardDefs: {},
 		playerCardDefs: {},
-		cardcastPackDefs: {},
-		cardcastPacksLoading: false,
 		blackCardDef: null,
 		roundStartTime: moment(),
 		ownerSettings: {
 			skipReveal: false,
 			hideDuringReveal: false,
-			includedCardcastPacks: [],
+			includedCustomPackIds: [],
 			includedPacks: [],
 			inviteLink: null,
 			playerLimit: 50,
@@ -175,46 +170,12 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			this.loadBlackCard();
 		}
 
-		const newCardcastPacks = this.state.ownerSettings.includedCardcastPacks.filter(p => !prev.ownerSettings?.includedCardcastPacks.includes(p));
-
-		if (newCardcastPacks.length > 0)
-		{
-			this.update({
-				cardcastPacksLoading: true
-			});
-		}
-
 		if (!prev.game?.roundStarted && this.state.game?.roundStarted)
 		{
 			this.update({
 				roundStartTime: moment()
 			});
 		}
-
-		let loaded = 0;
-		newCardcastPacks.forEach(pack =>
-		{
-			CardCastApi.getDeck(pack)
-				.then(packData =>
-				{
-					this.update({
-						cardcastPackDefs: {
-							...this.state.cardcastPackDefs,
-							[pack]: packData
-						}
-					});
-				})
-				.finally(() =>
-				{
-					loaded++;
-					if (loaded === newCardcastPacks.length)
-					{
-						this.update({
-							cardcastPacksLoading: false
-						});
-					}
-				});
-		});
 
 		const becameCzar = prev.game?.chooserGuid !== meGuid && this.state.game?.chooserGuid === meGuid;
 		if (becameCzar)
@@ -447,12 +408,10 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		});
 	}
 
-	public setIncludedCardcastPacks(includedCardcastPacks: string[])
+	public setIncludeCustomPacks(includedCustomPackIds: string[])
 	{
-		const currentIncluded = this.state.ownerSettings.includedCardcastPacks;
-
 		this.setSetting({
-			includedCardcastPacks
+			includedCustomPackIds
 		});
 	}
 

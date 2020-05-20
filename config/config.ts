@@ -27,7 +27,7 @@ export class Config
 				host = "http://jlauer.local:5000";
 				break;
 			case "beta":
-				host = "http://beta.allbad.cards";
+				host = "https://beta.allbad.cards";
 				break;
 			case "prod":
 				host = "https://allbad.cards";

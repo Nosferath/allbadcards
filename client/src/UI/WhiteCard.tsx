@@ -20,7 +20,7 @@ interface IWhiteCardProps
 
 const useStyles = makeStyles(theme => ({
 	card: {
-		backgroundColor: PreferencesDataStore.state.darkMode ? "#CCC" : "#FFF",
+		backgroundColor: PreferencesDataStore.state.darkMode ? "#EEE" : "#FFF",
 		display: "flex",
 		flexDirection: "column",
 		minHeight: "25vh",

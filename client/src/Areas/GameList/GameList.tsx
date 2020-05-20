@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {Avatar, Card, CardActions, CardContent, CardHeader, Container, createStyles, Divider, Grid, IconButton, Input, TextField, Typography} from "@material-ui/core";
+import {Avatar, Card, CardActions, CardContent, CardHeader, createStyles, Divider, Grid, IconButton, TextField, Typography} from "@material-ui/core";
 import {Pagination} from "@material-ui/lab";
 import {Platform} from "../../Global/Platform/platform";
 import {ClientGameItem} from "../../Global/Platform/Contract";
@@ -8,6 +8,7 @@ import {useHistory} from "react-router";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import {Link} from "react-router-dom";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {JoinNewButtons} from "../../UI/JoinNewButtons";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -82,31 +83,39 @@ const GameList = () =>
 
 	return (
 		<div>
-			<Typography variant={"h5"}>
-				Know the name of your game?
-			</Typography>
-			<Typography variant={"subtitle2"}>
-				Enter it below
-			</Typography>
-			<TextField
-				id="standard-adornment-weight"
-				placeholder={"Game (e.g. annoying-horse-43)"}
-				value={gameIdSearch}
-				onKeyDown={onEnter}
-				onChange={(e) => setGameIdSearch(e.target.value)}
-				InputProps={{
-					endAdornment: <FaArrowAltCircleRight onClick={searchGame} style={{
-						cursor: "pointer",
-						fontSize: "1.5rem"
-					}}/>
-				}}
-				variant={"outlined"}
-				style={{minWidth: "20rem", margin: "1rem 0"}}
-				aria-describedby="standard-weight-helper-text"
-				inputProps={{
-					'aria-label': 'game ID',
-				}}
-			/>
+			<Grid container>
+				<Grid item xl={12}>
+					<Typography variant={"h5"}>
+						Know the name of your game?
+					</Typography>
+					<Typography variant={"subtitle2"}>
+						Enter it below
+					</Typography>
+					<TextField
+						id="standard-adornment-weight"
+						placeholder={"Game (e.g. annoying-horse-43)"}
+						value={gameIdSearch}
+						onKeyDown={onEnter}
+						onChange={(e) => setGameIdSearch(e.target.value)}
+						InputProps={{
+							endAdornment: <FaArrowAltCircleRight onClick={searchGame} style={{
+								cursor: "pointer",
+								fontSize: "1.5rem"
+							}}/>
+						}}
+						variant={"outlined"}
+						style={{minWidth: "20rem", margin: "1rem 0"}}
+						aria-describedby="standard-weight-helper-text"
+						inputProps={{
+							'aria-label': 'game ID',
+						}}
+					/>
+					<Typography variant={"h5"} style={{marginBottom: "1rem"}}>
+						- or -
+					</Typography>
+					<JoinNewButtons hideJoin={true} fontSize={"1rem"}/>
+				</Grid>
+			</Grid>
 			<Divider style={{margin: "2rem 0"}}/>
 			<Typography variant={"h5"}>
 				Public Games
@@ -130,7 +139,7 @@ const GameList = () =>
 							<CardContent>
 								<Typography className={classes.cardListItem}>
 									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{game.settings.includedPacks.length + game.settings.includedCardcastPacks.length}</span>
+										<span className={classes.avatarText}>{game.settings.includedPacks.length + game.settings.includedCustomPackIds.length}</span>
 									</Avatar> included packs
 								</Typography>
 								<Typography className={classes.cardListItem}>
@@ -148,7 +157,7 @@ const GameList = () =>
 								<Typography variant={"caption"} style={{opacity: 0.75, flex: 1}}>
 									<em>{game.id}</em>
 								</Typography>
-								<IconButton color={"secondary"} component={p => <Link {...p} to={`/game/${game.id}`} />}>
+								<IconButton color={"secondary"} component={p => <Link {...p} to={`/game/${game.id}`}/>}>
 									<FaArrowAltCircleRight/>
 								</IconButton>
 							</CardActions>

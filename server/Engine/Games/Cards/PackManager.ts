@@ -1,6 +1,5 @@
 import {CardPack, GameItem, ICardPackDefinition, ICardTypes, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, PackFavorites} from "../Game/GameContract";
 import {loadFileAsJson} from "../../../Utils/FileUtils";
-import {CardCastConnector} from "../Game/CardCastConnector";
 import {Database} from "../../../DB/Database";
 import {packInputToPackDef} from "../../../Utils/PackUtils";
 import {AuthCookie} from "../../Auth/AuthCookie";
@@ -34,20 +33,33 @@ class _PackManager
 
 	public async getPack(packId: string)
 	{
-		const isCardCast = !(packId in PackManager.packs);
-		if (isCardCast)
+		let pack: ICardPackDefinition | null = null;
+
+		const isCustom = !(packId in PackManager.packs);
+		if (isCustom)
 		{
-			return await CardCastConnector.getDeck(packId);
+			const foundPack = await this.getCustomPack(packId);
+			if(foundPack)
+			{
+				pack = foundPack.definition;
+			}
 		}
 		else
 		{
-			return PackManager.packs[packId];
+			pack = PackManager.packs[packId];
 		}
+
+		if(!pack)
+		{
+			throw new Error(`Could not find pack with ID '${packId}'`);
+		}
+
+		return pack;
 	}
 
 	public getPacksForGame(gameItem: GameItem)
 	{
-		return [...gameItem.settings.includedPacks, ...gameItem.settings.includedCardcastPacks];
+		return [...gameItem.settings.includedPacks, ...gameItem.settings.includedCustomPackIds];
 	}
 
 	public definitionsToCardPack<T>(packId: string, defs: T[])
@@ -114,14 +126,35 @@ class _PackManager
 		return toSave;
 	}
 
-	public async getPacks(req: Request, query: FilterQuery<ICustomCardPack>, zeroBasedPage: number = 0): Promise<ICustomPackSearchResult>
+	public async getPacks(req: Request, query: FilterQuery<ICustomCardPack>, sort: string = "newest", zeroBasedPage: number = 0, fetchAll = false): Promise<ICustomPackSearchResult>
 	{
-		const packs = await Database.collections.packs
-			.find(query)
-			.sort({dateUpdated: -1})
-			.skip(12 * zeroBasedPage)
-			.limit(12)
-			.toArray();
+		let packsPromise = Database.collections.packs
+			.find(query);
+
+		switch(sort)
+		{
+			case "favorites":
+				packsPromise = packsPromise.sort({dateUpdated: -1});
+				break;
+			case "newest":
+				packsPromise = packsPromise.sort({dateUpdated: -1});
+				break;
+			case "largest":
+				packsPromise = packsPromise.sort({
+					["definition.pack.quantity.total"]: -1
+				});
+				break;
+			default: break;
+		}
+
+		if(!fetchAll)
+		{
+			packsPromise = packsPromise.sort({dateUpdated: -1})
+				.skip(12 * zeroBasedPage)
+				.limit(12);
+		}
+
+		const packs = await packsPromise.toArray();
 
 		const storedUserData = AuthCookie.get(req);
 		let userFavorites: PackFavorites = {};
@@ -147,6 +180,25 @@ class _PackManager
 			hasMore: packs.length === 12,
 			userFavorites
 		};
+	}
+
+	public async getMyFavoritePacks(req: Request): Promise<ICustomPackSearchResult>
+	{
+		const storedUserData = AuthCookie.get(req);
+		if(!storedUserData?.userId)
+		{
+			throw new Error("Log in required");
+		}
+
+		const userFavorites = await Database.collections.packFavorites.find({
+			userId: storedUserData.userId
+		}).toArray();
+
+		return await this.getPacks(req, {
+			packId: {
+				$in: userFavorites.map(fav => fav.packId)
+			}
+		}, "favorites", undefined, true);
 	}
 
 	public async getPacksForOwner(req: Request)

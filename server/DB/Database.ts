@@ -48,9 +48,9 @@ class _Database
 		}, async (err, client) =>
 		{
 			logMessage("Mongo connection attempt finished");
-			logError(err);
 			if (err)
 			{
+				logError(err);
 				throw err;
 			}
 
@@ -70,6 +70,7 @@ class _Database
 			await this.collections.packs.createIndex({
 				["definition.pack.id"]: 1,
 				["definition.pack.name"]: 1,
+				["definition.pack.quantity.total"]: 1,
 				dateCreated: 1,
 				dateUpdated: 1,
 				owner: 1,

@@ -8,12 +8,8 @@ import {Typography} from "@material-ui/core";
 import {RevealWhites} from "./Components/RevealWhites";
 import {ShowWinner} from "./Components/ShowWinner";
 import {PickWinner} from "./Components/PickWinner";
-import Chip from "@material-ui/core/Chip";
-import {AiFillCrown} from "react-icons/all";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {BounceLoader, ClockLoader} from "react-spinners";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
-import {AudioUtils} from "../../Global/Utils/AudioUtils";
 import {CardPlayTimeRemaining} from "./Components/CardPlayTimeRemaining";
 
 interface IGamePlayBlackProps
@@ -134,7 +130,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 				<Divider style={{margin: "1rem 0"}}/>
 				{!roundStarted && (
 					<Typography style={{marginBottom: "1rem", textAlign: "center"}}>
-						<strong>You are the Card Czar!</strong>
+						<strong>You are the Card Queen!</strong>
 						<br/>
 						Read the card aloud, then click Start The Round. Once everyone plays, you will choose your favorite!
 					</Typography>

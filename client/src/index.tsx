@@ -11,6 +11,7 @@ import * as Sentry from "@sentry/browser";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import {useDataStore} from "./Global/Utils/HookUtils";
 import {PreferencesDataStore} from "./Global/DataStore/PreferencesDataStore";
+import {colors} from "./colors";
 
 require('es6-promise').polyfill();
 const promiseFinally = require('promise.prototype.finally');
@@ -19,34 +20,29 @@ promiseFinally.shim();
 const lightTheme = createMuiTheme({
 	palette: {
 		primary: {
-			main: "#FFF",
-			contrastText: "#222",
-			dark: "#CCC",
-			light: "#EEE",
+			...colors.light
 		},
 		secondary: {
-			main: "#222",
-			contrastText: "#FFF",
-			dark: "#111",
-			light: "#EEE",
+			...colors.secondary
 		},
 		type: "light",
 	},
+	overrides: {
+		MuiListItem: {
+			secondaryAction: {
+				paddingRight: 84
+			}
+		}
+	}
 });
 
 const darkTheme = createMuiTheme({
 	palette: {
 		primary: {
-			main: "#333",
-			contrastText: "#FFF",
-			dark: "#111",
-			light: "#FFF",
+			...colors.dark
 		},
 		secondary: {
-			main: "#FFF",
-			contrastText: "#333",
-			dark: "#CCC",
-			light: "#FFF",
+			...colors.secondary
 		},
 		type: "dark",
 	},

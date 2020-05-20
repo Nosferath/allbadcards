@@ -12,7 +12,6 @@ import deepEqual from "deep-equal";
 import {UserUtils} from "../../User/UserUtils";
 import {PackManager} from "../Cards/PackManager";
 import cloneDeep from "clone-deep";
-import {CardCastConnector} from "./CardCastConnector";
 import {UserManager} from "../../User/UserManager";
 import {RedisConnector} from "../../Redis/RedisClient";
 import {PlayerManager} from "../Players/PlayerManager";
@@ -195,7 +194,7 @@ class _GameManager
 					playerLimit: 50,
 					inviteLink: null,
 					includedPacks: [],
-					includedCardcastPacks: [],
+					includedCustomPackIds: [],
 					winnerBecomesCzar: false,
 					customWhites: false,
 					roundTimeoutSeconds: 60
@@ -812,11 +811,11 @@ class _GameManager
 			return acc;
 		}, 0);
 
-		if (gameItem.settings.includedCardcastPacks.length > 0)
+		if (gameItem.settings.includedCustomPackIds.length > 0)
 		{
-			for (let packId of gameItem.settings.includedCardcastPacks)
+			for (let packId of gameItem.settings.includedCustomPackIds)
 			{
-				const pack = await CardCastConnector.getDeck(packId);
+				const pack = await PackManager.getPack(packId);
 				const whiteCardsForPack = pack.white;
 				allWhiteCards += whiteCardsForPack.length;
 			}

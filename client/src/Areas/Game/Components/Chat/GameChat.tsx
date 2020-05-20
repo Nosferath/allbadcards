@@ -8,6 +8,7 @@ import classNames from "classnames";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Linkify from "linkifyjs/react";
 import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
+import {colors} from "../../../../colors";
 
 const useStyles = makeStyles(theme => ({
 	cardContent: {
@@ -43,8 +44,8 @@ const useStyles = makeStyles(theme => ({
 		padding: "0.5rem",
 	},
 	theirs: {
-		backgroundColor: "#CCC",
-		color: "#333",
+		backgroundColor: colors.light.dark,
+		color: colors.light.contrastText,
 	},
 	theirsWrapper: {
 		alignSelf: "flex-start"

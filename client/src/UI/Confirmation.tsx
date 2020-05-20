@@ -33,7 +33,7 @@ export const Confirmation: React.FC = (props) =>
 	const chatData = useDataStore(ChatDataStore);
 	const classes = useStyles();
 	const chatDrawerOpen = chatData.sidebarOpen;
-	const mobile = useMediaQuery('(max-width:600px)');
+	const mobile = useMediaQuery('(max-width:768px)');
 	const isGamePage = history.location.pathname.startsWith("/game/");
 
 	return (

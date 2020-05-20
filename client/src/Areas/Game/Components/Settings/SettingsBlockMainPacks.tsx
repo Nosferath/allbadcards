@@ -1,7 +1,7 @@
 import Divider from "@material-ui/core/Divider";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import Button from "@material-ui/core/Button";
-import {Dialog, DialogContent, ListItemSecondaryAction, Typography} from "@material-ui/core";
+import {DialogContent, ListItemSecondaryAction, Typography} from "@material-ui/core";
 import React, {useState} from "react";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
@@ -11,6 +11,7 @@ import ListItemText from "@material-ui/core/ListItemText";
 import List from "@material-ui/core/List";
 import Switch from "@material-ui/core/Switch";
 import {FaQuestionCircle} from "react-icons/all";
+import {CloseableDialog} from "../../../../UI/CloseableDialog";
 
 export const SettingsBlockMainPacks = () =>
 {
@@ -40,7 +41,7 @@ export const SettingsBlockMainPacks = () =>
 		GameDataStore.setIncludedPacks([]);
 	};
 
-	const mobile = useMediaQuery('(max-width:600px)');
+	const mobile = useMediaQuery('(max-width:768px)');
 
 	return (
 		<>
@@ -77,25 +78,15 @@ export const SettingsBlockMainPacks = () =>
 					</>
 				))}
 			</List>
-			<Dialog open={expDialogOpen} onClose={() => setExpDialogOpen(false)}>
-				<DialogContent>
-					On May 15, 2020, we received communication from Cards Against Humanity that our usage of the official Cards Against Humanity packs
-					was not permitted under their interpretation of the CC-BY-NC license. At the same time, they removed the license from their website.
+			<CloseableDialog open={expDialogOpen} onClose={() => setExpDialogOpen(false)} TitleProps={{children: ":("}}>
+				<DialogContent dividers>
+					Due to a legal request, Official Packs are no longer available on All Bad Cards.
+					Due to the nature of the license for those cards, we cannot provide them while also requesting donations to keep the site running.
 					<br/>
 					<br/>
-					Under their interpretation, requesting donations violates the "non-commercial" portion of the license. We disagreed, as the language
-					of the license stipulates "non-commercial" to mean: "not primarily intended for or directed towards commercial advantage or monetary compensation".
-					Given that we are clear that donations primarily are used to run the website, we thought All Bad Cards would be fine.
-					<br/>
-					<br/>
-					Cards Against Humanity disagreed. As such, we have created a version of All Bad Cards that only uses the official packs, and does not
-					include donations or sponsors. You can access it at <strong>lite.allbad.cards</strong>:
-					<br/><br/>
-					<Button href={`https://lite.${location.host}/`} variant={"outlined"}>
-						Go to the Lite version
-					</Button>
+					Sorry about that!
 				</DialogContent>
-			</Dialog>
+			</CloseableDialog>
 		</>
 	);
 };
