@@ -32,7 +32,6 @@ export const CopyGameLink: React.FC<ICopyGameLinkProps> = (props) =>
 	const classes = useStyles();
 
 	const [copied, setCopied] = useState(false);
-
 	const [gameData, setGameData] = useState(GameDataStore.state);
 
 	useEffect(() =>

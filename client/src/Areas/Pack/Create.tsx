@@ -13,6 +13,8 @@ import {useHistory, useParams} from "react-router";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {PackCategories} from "../../Global/Platform/Contract";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
+import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
+import {ContainerProgress} from "../../UI/ContainerProgress";
 
 const useStyles = makeStyles(theme => ({
 	divider: {
@@ -59,12 +61,22 @@ const Create = () =>
 	const authState = useDataStore(AuthDataStore);
 	const packCreatorData = useDataStore(PackCreatorDataStore);
 	const history = useHistory();
+	const [loading, setLoading] = useState(false);
 
 	useEffect(() =>
 	{
 		if (params.id)
 		{
-			PackCreatorDataStore.hydrate(params.id);
+			setLoading(true);
+			PackCreatorDataStore.hydrate(params.id)
+				.finally(() =>
+				{
+					setLoading(false);
+					setTimeout(() =>
+					{
+						BrowserUtils.scrollToTop();
+					}, 250);
+				});
 		}
 		else
 		{
@@ -98,6 +110,11 @@ const Create = () =>
 				This page requires you to log in. You can log in at the top right corner.
 			</Alert>
 		);
+	}
+
+	if (loading)
+	{
+		return <ContainerProgress/>;
 	}
 
 	return (

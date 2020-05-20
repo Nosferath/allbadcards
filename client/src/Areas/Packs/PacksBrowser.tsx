@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {createStyles, FormControl, FormControlLabel, FormGroup, Grid, InputLabel, MenuItem, Select, Switch, TextField, Typography} from "@material-ui/core";
+import {Button, createStyles, Divider, FormControl, FormControlLabel, FormGroup, Grid, InputLabel, MenuItem, Select, Switch, TextField, Typography} from "@material-ui/core";
 import {Pagination} from "@material-ui/lab";
 import {Platform} from "../../Global/Platform/platform";
 import {ICustomPackSearchResult, PackCategories, PackSearchSort} from "../../Global/Platform/Contract";
@@ -9,6 +9,9 @@ import {PackSummary} from "./PackSummary";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 import {useDataStore} from "../../Global/Utils/HookUtils";
 import {AuthDataStore} from "../../Global/DataStore/AuthDataStore";
+import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
+import {SiteRoutes} from "../../Global/Routes/Routes";
+import {Link} from "react-router-dom";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -44,17 +47,21 @@ const useStyles = makeStyles(theme => createStyles({
 
 let searchTimer = 0;
 
-const PacksBrowser = () =>
+interface IPacksBrowserProps
+{
+}
+
+const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 {
 	const [currentPage, setCurrentPage] = useState(0);
 	const [searchedPacks, setSearchedPacks] = useState<ICustomPackSearchResult | null>(null);
 
 	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | undefined>(undefined);
 	const [sort, setSort] = useState<PackSearchSort>("newest");
-	const [searchText, setSearchText] = useState("");
-	const [searchNsfw, setSearchNsfw] = useState(true);
 	const authData = useDataStore(AuthDataStore);
-
+	const envData = useDataStore(EnvDataStore);
+	const [searchText, setSearchText] = useState("");
+	const [searchNsfw, setSearchNsfw] = useState(false);
 	useEffect(() =>
 	{
 		searchPacks(0);
@@ -92,11 +99,19 @@ const PacksBrowser = () =>
 
 	return (
 		<div>
+			<Typography variant={"h6"}>
+				Want to create your own pack?
+				<br/>
+				<Button component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()} />} color={"secondary"} variant={"contained"}>
+					Create a Pack
+				</Button>
+			</Typography>
+			<Divider style={{margin: "1rem 0"}} />
 			<Typography variant={"h5"}>
 				Search Custom Packs
 			</Typography>
 			<Typography variant={"subtitle2"}>
-				Favorite a pack to make it easier to add to new games!
+				Save a pack to make it easier to add to new games!
 			</Typography>
 			<Grid container>
 				<FormControl component="fieldset" style={{width: "100%"}}>
@@ -161,9 +176,9 @@ const PacksBrowser = () =>
 								>
 									{
 										/*
-										<MenuItem value={"favorites"}>
-											Most Favorited
-										</MenuItem>
+										 <MenuItem value={"favorites"}>
+										 Most Saved
+										 </MenuItem>
 										 */
 									}
 									<MenuItem value={"largest"}>
@@ -180,6 +195,7 @@ const PacksBrowser = () =>
 						<Grid item xs={12} md={3}>
 							<FormControlLabel
 								control={<Switch checked={searchNsfw} onChange={e => setSearchNsfw(e.target.checked)}/>}
+								disabled={!envData.site?.base}
 								label="NSFW"
 							/>
 						</Grid>
@@ -190,7 +206,11 @@ const PacksBrowser = () =>
 			<Grid container spacing={2} className={classes.cardContainer}>
 				{searchedPacks?.packs?.map(pack => (
 					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<PackSummary canEdit={pack.owner === authData.userId} pack={pack} favorited={searchedPacks.userFavorites[pack.definition.pack.id]}/>
+						<PackSummary
+							authed={authData.authorized}
+							canEdit={pack.owner === authData.userId}
+							pack={pack}
+							favorited={searchedPacks.userFavorites[pack.definition.pack.id]}/>
 					</Grid>
 				))}
 

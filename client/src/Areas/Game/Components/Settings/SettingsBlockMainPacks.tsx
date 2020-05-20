@@ -80,7 +80,7 @@ export const SettingsBlockMainPacks = () =>
 			</List>
 			<CloseableDialog open={expDialogOpen} onClose={() => setExpDialogOpen(false)} TitleProps={{children: ":("}}>
 				<DialogContent dividers>
-					Due to a legal request, Official Packs are no longer available on All Bad Cards.
+					In response to a legal request, Official Packs are no longer available on All Bad Cards.
 					Due to the nature of the license for those cards, we cannot provide them while also requesting donations to keep the site running.
 					<br/>
 					<br/>

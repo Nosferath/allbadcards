@@ -1,6 +1,6 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Button, ButtonGroup, Container, createStyles, Dialog, DialogActions, DialogContent, IconButton, List, ListItem, ListItemText, Menu, MenuItem, Paper, styled, SwipeableDrawer, Switch, Typography, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, ButtonGroup, Container, createStyles, DialogActions, DialogContent, IconButton, List, ListItem, ListItemText, Menu, MenuItem, Paper, styled, SwipeableDrawer, Switch, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
@@ -24,6 +24,10 @@ import {CloseableDialog} from "../UI/CloseableDialog";
 import {NavButtons} from "./NavButtons";
 import {colors} from "../colors";
 import {AppBarGameButtons} from "./GameButtons";
+import {EnvDataStore} from "../Global/DataStore/EnvDataStore";
+import Grid from "@material-ui/core/Grid";
+import Divider from "@material-ui/core/Divider";
+import {Sponsor} from "../Areas/GameDashboard/SponsorList";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -105,6 +109,7 @@ const App: React.FC = () =>
 	const bugReportUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md";
 	const featureRequestUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=enhancement&template=feature_request.md";
 	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
+	const isHome = history.location.pathname === "/";
 
 	return (
 		<div>
@@ -136,6 +141,12 @@ const App: React.FC = () =>
 							<Routes/>
 						</ErrorBoundary>
 					</Container>
+					{!isHome && (
+						<Grid style={{marginTop: "5rem"}}>
+							<Divider style={{margin: "1rem 0"}}/>
+							<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
+						</Grid>
+					)}
 					<DarkModeSwitch/>
 					<div style={{textAlign: "center", padding: "0.5rem 0"}}>
 						<ButtonGroup style={{margin: "1rem 0 2rem"}}>
@@ -181,12 +192,11 @@ const Errors = () =>
 {
 	const errorData = useDataStore(ErrorDataStore);
 	const errors = errorData.errors ?? [];
-	const bugReportUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md";
 
 	return (
-		<Dialog open={errors.length > 0} onClose={() => ErrorDataStore.clear()}>
+		<CloseableDialog open={errors.length > 0} onClose={() => ErrorDataStore.clear()} TitleProps={{children: "Error Encountered"}}>
 			<DialogContent style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
-				<List>
+				<List style={{minWidth: "20rem"}}>
 					{errors.map(e => (
 						<ListItem>
 							<ListItemText>
@@ -196,20 +206,7 @@ const Errors = () =>
 					))}
 				</List>
 			</DialogContent>
-			<DialogActions>
-				<Button
-					size={"small"}
-					color={"default"}
-					variant={"outlined"}
-					href={bugReportUrl}
-					target={"_blank"}
-					rel={"noreferrer nofollow"}
-					startIcon={<MdBugReport/>}
-				>
-					Report a Bug
-				</Button>
-			</DialogActions>
-		</Dialog>
+		</CloseableDialog>
 	);
 };
 
@@ -250,6 +247,7 @@ const AppBarRightButtons = () =>
 	const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null);
 	const [logInDialogVisible, setLogInDialogVisible] = useState(false);
 	const history = useHistory();
+	const envData = useDataStore(EnvDataStore);
 
 	const logOut = () =>
 	{
@@ -263,6 +261,11 @@ const AppBarRightButtons = () =>
 		setAnchorEl(element);
 		setUserMenuOpen(true);
 	};
+
+	history.listen(() =>
+	{
+		setUserMenuOpen(false);
+	});
 
 	const classes = useStyles();
 
@@ -284,15 +287,17 @@ const AppBarRightButtons = () =>
 						}}
 						onClose={() => setUserMenuOpen(false)}
 					>
-						<MenuItem component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()} />}>My Card Packs</MenuItem>
-						<MenuItem component={p => <Link {...p} to={SiteRoutes.Settings.resolve()} />}>Settings</MenuItem>
+						<MenuItem component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()}/>}>My Card Packs</MenuItem>
+						<MenuItem component={p => <Link {...p} to={SiteRoutes.Settings.resolve()}/>}>Settings</MenuItem>
 						<MenuItem onClick={logOut}>Logout</MenuItem>
 					</Menu>
 				</>
 			) : (
-				<Button className={classes.appBarButtonRight} color="inherit" onClick={() => setLogInDialogVisible(true)}>
-					Log In
-				</Button>
+				envData.site.base && (
+					<Button className={classes.appBarButtonRight} color="inherit" onClick={() => setLogInDialogVisible(true)}>
+						Log In
+					</Button>
+				)
 			)}
 			<CloseableDialog open={logInDialogVisible} onClose={() => setLogInDialogVisible(false)} TitleProps={{children: "Log In"}}>
 				<DialogContent dividers>

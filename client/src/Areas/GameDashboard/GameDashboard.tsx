@@ -87,8 +87,13 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
-								<strong>Updates - 5/11</strong>
-								<li>Adding chat!</li>
+								<strong>Updates - 5/19</strong>
+								<li>Brand new custom card pack system</li>
+								<li>Tight integration with custom card packs and game settings</li>
+								<li>Improved dark mode</li>
+								<li>User authentication (log in system)</li>
+								<li>Revamped color scheme</li>
+								<li>Removed official packs (explanation available in card pack settings)</li>
 								<br/>
 								<strong>Updates - 5/10</strong>
 								<li>Added round timer to prevent games stopping if players leave</li>

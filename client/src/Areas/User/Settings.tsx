@@ -19,6 +19,12 @@ const Settings: React.FC = () => {
 					/>
 				</ListItem>
 				<Divider />
+				<ListItem>
+					<ListItemText
+						primary={"More Coming Soon!"}
+						secondary={"Seriously"}
+					/>
+				</ListItem>
 			</List>
 		</div>
 	);

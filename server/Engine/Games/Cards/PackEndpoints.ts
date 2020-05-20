@@ -3,15 +3,22 @@ import {logRequest, onExpressError, sendWithBuildVersion} from "../../../Utils/E
 import {PackManager} from "./PackManager";
 import {FilterQuery} from "mongodb";
 import {ICustomCardPack} from "../Game/GameContract";
+import apicache from "apicache";
+
+const cache = apicache.middleware;
 
 export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 {
-	app.get("/api/pack/get", async (req, res) =>
+	app.get("/api/pack/get", cache("5 minutes"), async (req, res) =>
 	{
 		logRequest(req);
 		try
 		{
 			const pack = await PackManager.getCustomPack(req.query.pack);
+			if (!pack)
+			{
+				throw new Error("Pack not found!");
+			}
 			sendWithBuildVersion(pack, res);
 		}
 		catch (error)
@@ -36,7 +43,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/myfaves", async (req, res) =>
+	app.get("/api/packs/myfaves", cache("5 seconds"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -52,7 +59,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/search", async (req, res) =>
+	app.get("/api/packs/search", cache("1 minute"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -61,14 +68,14 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 				isNsfw: req.query.nsfw === "true",
 			};
 
-			if(req.query.category)
+			if (req.query.category)
 			{
 				query.categories = {
 					$in: [req.query.category]
 				};
 			}
 
-			if(req.query.search)
+			if (req.query.search)
 			{
 				query["definition.pack.name"] = '.*' + req.query.search + '.*';
 			}

@@ -170,12 +170,18 @@ interface ISponsorProps
 
 export const Sponsor: React.FC<ISponsorProps> = (props) =>
 {
+	const envData = useDataStore(EnvDataStore);
 	const classes = useStyles();
 
 	const wrapperClasses = classNames(classes.sponsor, {
 		[classes.hasSponsor]: !!props.sponsor,
 		[classes.noSponsor]: !props.sponsor,
 	});
+
+	if(!envData.site?.base)
+	{
+		return null;
+	}
 
 	return (
 		<Grid item xs={12} sm={props.isDiamondSponsor ? 12 : 6} md={props.isDiamondSponsor ? 12 : 4} className={wrapperClasses}>

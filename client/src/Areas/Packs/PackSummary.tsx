@@ -1,6 +1,6 @@
 import {ICustomCardPack} from "../../Global/Platform/Contract";
 import React, {useState} from "react";
-import {Button, Card, CardActions, CardHeader, CardMedia} from "@material-ui/core";
+import {Button, Card, CardActions, CardContent, CardHeader, CardMedia, Chip} from "@material-ui/core";
 import {Link} from "react-router-dom";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {FaArrowRight, MdEdit, MdFavorite, MdFavoriteBorder} from "react-icons/all";
@@ -10,11 +10,13 @@ import {Platform} from "../../Global/Platform/platform";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import {colors} from "../../colors";
 import shuffle from "shuffle-array";
+import {CopyToClipboard} from "react-copy-to-clipboard";
 
 interface IPackSummaryProps
 {
 	pack: ICustomCardPack;
 	hideExamples?: boolean;
+	authed: boolean;
 	favorited: boolean;
 	canEdit: boolean;
 }
@@ -22,30 +24,39 @@ interface IPackSummaryProps
 const useStyles = makeStyles(theme => ({
 	cardListWrap: {
 		position: "relative",
-		minHeight: "10rem"
+		display: "flex",
+		margin: "0.5rem",
+		borderRadius: 4,
+		overflow: "hidden"
 	},
 	cardList: {
-		fontSize: "0.75rem"
+		fontSize: "0.75rem",
+		width: "50%"
 	},
 	blackCardList: {},
 	whiteCardList: {},
 	blackItem: {
-		background: colors.dark.dark,
-		color: colors.dark.contrastText,
-		borderBottom: "1px solid rgba(245,245,245,0.2)",
+		background: colors.dark.main,
+		color: colors.light.dark,
+		borderBottom: "1px solid rgba(245,245,245,0.1)",
 		padding: "0.25rem",
 		overflow: "hidden",
 		whiteSpace: "nowrap",
 		textOverflow: "ellipsis"
 	},
 	whiteItem: {
-		background: colors.light.light,
-		color: colors.light.contrastText,
-		borderBottom: "1px solid rgba(0,0,0,0.2)",
+		background: colors.light.main,
+		color: colors.dark.light,
+		borderBottom: "1px solid rgba(0,0,0,0.1)",
 		padding: "0.25rem",
 		overflow: "hidden",
 		whiteSpace: "nowrap",
 		textOverflow: "ellipsis"
+	},
+	packCode: {
+		fontFamily: "monospace",
+		fontWeight: "bold",
+		fontSize: "1.5rem"
 	}
 }));
 
@@ -56,6 +67,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 	const [isFaved, setIsFaved] = useState(props.favorited);
 	const [shuffledBlack, setShuffledBlack] = useState([...props.pack.definition.black]);
 	const [shuffledWhite, setShuffledWhite] = useState([...props.pack.definition.white]);
+	const [copied, setCopied] = useState(false);
 
 	const {
 		pack,
@@ -76,11 +88,19 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 			.catch(ErrorDataStore.add);
 	};
 
-	const onClick = () => {
+	const onClick = () =>
+	{
 		const newBlackShuffle = shuffle([...definition.black]);
 		const newWhiteShuffle = shuffle([...definition.white]);
 		setShuffledBlack(newBlackShuffle);
 		setShuffledWhite(newWhiteShuffle);
+	};
+
+	const onCopy = () =>
+	{
+		setCopied(true);
+
+		setTimeout(() => setCopied(false), 3000);
 	};
 
 	return (
@@ -107,9 +127,19 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 					Q:<strong>{definition.quantity.black}</strong> A:<strong>{definition.quantity.white}</strong>
 				</span>}
 			/>
+			<CardContent>
+				<span className={classes.packCode}>{definition.pack.id}</span>
+				<CopyToClipboard text={definition.pack.id} onCopy={onCopy}>
+					<Chip label={copied ? "Copied!" : "Copy Pack Code"} style={{marginLeft: "1rem"}}/>
+				</CopyToClipboard>
+			</CardContent>
 			<CardActions>
-				<Button onClick={setFavorite} startIcon={isFaved ? <MdFavorite/> : <MdFavoriteBorder/>} color={"secondary"}>
-					{isFaved ? "Unfavorite" : "Favorite"}
+				<Button onClick={setFavorite} startIcon={isFaved ? <MdFavorite/> : <MdFavoriteBorder/>} color={"secondary"} disabled={!props.authed}>
+					{isFaved
+						? "Unsave"
+						: props.authed
+							? "Save"
+							: "Log in to Save"}
 				</Button>
 				<Button
 					component={p => <Link {...p} to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})}/>}

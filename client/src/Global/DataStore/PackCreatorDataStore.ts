@@ -39,7 +39,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 
 	public hydrate(id: string)
 	{
-		Platform.getPack(id)
+		return Platform.getPack(id)
 			.then(data =>
 			{
 				this.update({

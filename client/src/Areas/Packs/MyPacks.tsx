@@ -1,16 +1,16 @@
 import React, {useEffect, useState} from "react";
 import {Button, createStyles, Grid, Typography} from "@material-ui/core";
 import {Platform} from "../../Global/Platform/platform";
-import {ICustomPackSearchResult, PackCategories} from "../../Global/Platform/Contract";
+import {ICustomPackSearchResult} from "../../Global/Platform/Contract";
 import {FaPlus} from "react-icons/all";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import {Link} from "react-router-dom";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {PackSummary} from "./PackSummary";
-import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 import {useDataStore} from "../../Global/Utils/HookUtils";
 import {AuthDataStore} from "../../Global/DataStore/AuthDataStore";
+import {Alert, AlertTitle} from "@material-ui/lab";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -49,13 +49,7 @@ let searchTimer = 0;
 
 const MyPacks = () =>
 {
-	const [currentPage, setCurrentPage] = useState(0);
 	const [myPacks, setMyPacks] = useState<ICustomPackSearchResult | null>(null);
-	const [searchedPacks, setSearchedPacks] = useState<ICustomPackSearchResult | null>(null);
-
-	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | undefined>(undefined);
-	const [searchText, setSearchText] = useState("");
-	const [searchNsfw, setSearchNsfw] = useState(true);
 	const authData = useDataStore(AuthDataStore);
 
 	useEffect(() =>
@@ -69,60 +63,39 @@ const MyPacks = () =>
 				})
 				.catch(ErrorDataStore.add);
 		}
-
-		searchPacks(0);
 	}, []);
 
-	useEffect(() => {
-		searchPacks(0);
-	}, [searchText, searchNsfw, searchCategory]);
-
-	const searchPacks = (page = 0) =>
+	if(!authData.authorized)
 	{
-		window.clearTimeout(searchTimer);
-
-		searchTimer = window.setTimeout(() =>
-		{
-			Platform.searchPacks({
-				nsfw: searchNsfw,
-				category: searchCategory ?? undefined,
-				search: searchText
-			}, page)
-				.then(data =>
-				{
-					setSearchedPacks(data.result);
-				})
-				.catch(ErrorDataStore.add);
-		}, 250);
-	};
-
-	const handleChange = (event: React.ChangeEvent<unknown>, value: number) =>
-	{
-		setCurrentPage(value - 1);
-		searchPacks(value - 1);
-	};
-
-	const classes = useStyles();
-
-	const packCount = searchedPacks?.packs?.length ?? 0;
+		return (
+			<Alert color={"error"}>
+				<AlertTitle>Log In Required</AlertTitle>
+				This page requires you to log in. You can log in at the top right corner.
+			</Alert>
+		);
+	}
 
 	return (
 		<div>
 			<Typography variant={"h5"}>
 				My Card Packs
 			</Typography>
-			<div style={{padding: "1rem 0"}}>
-				<Button startIcon={<FaPlus/>} size={"large"} style={{fontSize: "1.25rem"}} color={"secondary"} variant={"contained"} component={p => <Link {...p} to={SiteRoutes.PackCreate.resolve()}/>}>
-					Create My Custom Pack
-				</Button>
-			</div>
-			<Grid container spacing={3}>
+			<Grid container spacing={3} style={{padding: "2rem 0"}}>
 				{myPacks?.packs?.map(pack => (
 					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<PackSummary hideExamples={true} canEdit={true} pack={pack} favorited={myPacks.userFavorites[pack.definition.pack.id]}/>
+						<PackSummary
+							authed={authData.authorized}
+							canEdit={pack.owner === authData.userId}
+							pack={pack}
+							favorited={myPacks.userFavorites[pack.definition.pack.id]}/>
 					</Grid>
 				))}
 			</Grid>
+			<div style={{padding: "1rem 0"}}>
+				<Button startIcon={<FaPlus/>} size={"large"} style={{fontSize: "1.25rem"}} color={"secondary"} variant={"contained"} component={p => <Link {...p} to={SiteRoutes.PackCreate.resolve()}/>}>
+					New Custom Pack
+				</Button>
+			</div>
 		</div>
 	);
 };

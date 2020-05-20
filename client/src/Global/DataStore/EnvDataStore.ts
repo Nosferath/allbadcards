@@ -5,7 +5,6 @@ interface EnvSite
 {
 	family: boolean;
 	base: boolean;
-	lite: boolean;
 }
 
 export interface EnvDataStorePayload
@@ -27,12 +26,10 @@ class _EnvDataStore extends DataStore<EnvDataStorePayload>
 	{
 		const url = location.hostname;
 		const isFamily = url.startsWith("not.");
-		const isLite = url.startsWith("lite.");
 
 		return {
-			base: !isFamily && !isLite,
+			base: !isFamily,
 			family: isFamily,
-			lite: isLite
 		};
 	}
 

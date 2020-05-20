@@ -23,6 +23,7 @@ export class SiteRoute<T extends object = {}>
 
 export class SiteRoutes
 {
+	public static Home = new SiteRoute("/");
 	public static CardCastExport = new SiteRoute("/cardcast-export");
 	public static PacksBrowser = new SiteRoute("/packs");
 	public static MyPacks = new SiteRoute("/packs/mine");

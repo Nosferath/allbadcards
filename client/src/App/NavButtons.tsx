@@ -4,6 +4,8 @@ import {FaHome, GiCardPlay, GiCardRandom} from "react-icons/all";
 import {SiteRoutes} from "../Global/Routes/Routes";
 import * as React from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {EnvDataStore} from "../Global/DataStore/EnvDataStore";
+import {useDataStore} from "../Global/Utils/HookUtils";
 
 const useStyles = makeStyles(theme => createStyles({
 	appBarButton: {
@@ -13,14 +15,18 @@ const useStyles = makeStyles(theme => createStyles({
 
 export const NavButtons = () =>
 {
+	const envData = useDataStore(EnvDataStore);
+
 	return (
 		<>
 			<NavButton to={"/"} icon={<FaHome/>}>
 				Home
 			</NavButton>
-			<NavButton to={SiteRoutes.Games.resolve()} icon={<GiCardPlay/>}>
-				Games
-			</NavButton>
+			{envData.site.base && (
+				<NavButton to={SiteRoutes.Games.resolve()} icon={<GiCardPlay/>}>
+					Games
+				</NavButton>
+			)}
 			<NavButton to={SiteRoutes.PacksBrowser.resolve()} icon={<GiCardRandom/>}>
 				Card Packs
 			</NavButton>

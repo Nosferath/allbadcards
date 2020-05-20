@@ -3,7 +3,7 @@ import {GamePayload, IWhiteCard, Platform} from "../Platform/platform";
 import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
 import {ArrayFlatten} from "../Utils/ArrayUtils";
-import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, IGameSettings, PackTypes} from "../Platform/Contract";
+import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -12,6 +12,7 @@ import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
+import {AuthDataStore} from "./AuthDataStore";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -32,6 +33,8 @@ export interface GameDataStorePayload
 	roundCardDefs: WhiteCardMap;
 	playerCardDefs: WhiteCardMap;
 	blackCardDef: IBlackCardDefinition | null;
+	customPackDefs: { [key: string]: ICustomCardPack };
+	customPacksLoading: boolean;
 }
 
 class _GameDataStore extends DataStore<GameDataStorePayload>
@@ -46,6 +49,8 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		playerCardDefs: {},
 		blackCardDef: null,
 		roundStartTime: moment(),
+		customPackDefs: {},
+		customPacksLoading: false,
 		ownerSettings: {
 			skipReveal: false,
 			hideDuringReveal: false,
@@ -99,7 +104,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 		const thirdPartyDefaults = packs.filter(a =>
 			!a.isOfficial
-			&& !a.packId.match(/toronto|knit|colorado|kentucky|texas/gi)
+			&& !a.packId.match(/toronto|knit|colorado|kentucky|texas|hombres|corps|insanity/gi)
 		);
 
 		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
@@ -153,6 +158,40 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 				this.state.ownerSettings)
 				.catch(ErrorDataStore.add);
 		}
+
+		const newCustomPacks = this.state.ownerSettings.includedCustomPackIds.filter(p => !prev.ownerSettings?.includedCustomPackIds.includes(p));
+
+		if (newCustomPacks.length > 0)
+		{
+			this.update({
+				customPacksLoading: true
+			});
+		}
+
+		let loaded = 0;
+		newCustomPacks.forEach(pack =>
+		{
+			Platform.getPack(pack)
+				.then(packData =>
+				{
+					this.update({
+						customPackDefs: {
+							...this.state.customPackDefs,
+							[pack]: packData
+						}
+					});
+				})
+				.finally(() =>
+				{
+					loaded++;
+					if (loaded === newCustomPacks.length)
+					{
+						this.update({
+							customPacksLoading: false
+						});
+					}
+				});
+		});
 
 		if (!deepEqual(prev.game?.roundCards, this.state.game?.roundCards))
 		{
@@ -275,21 +314,21 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 				{
 					const envSite = EnvDataStore.state.site;
 					let packs: PackTypes = "thirdParty";
-					if (envSite.lite)
-					{
-						packs = "official";
-					}
-					else if (envSite.family)
+					if (envSite.family)
 					{
 						packs = "family";
 					}
+
+					const gameDateCreated = moment(this.state.game?.dateCreated ?? Date.now());
+					const tenSecondsLater = gameDateCreated.add(10, "seconds");
+					const isInitialLoad = moment().isBefore(tenSecondsLater);
 
 					Platform.getPacks(packs)
 						.then(data =>
 						{
 							let ownerSettings = {...this.state.ownerSettings};
 							// If this is a game that was just created, set the default packs
-							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started)
+							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started && isInitialLoad)
 							{
 								const defaultPacks = this.getDefaultPacks(data);
 								ownerSettings.includedPacks = defaultPacks;
@@ -299,8 +338,19 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 								loadedPacks: data,
 								ownerSettings
 							});
-							;
+
 						});
+
+					if(isInitialLoad && AuthDataStore.state.authorized)
+					{
+						Platform.getMyFavoritePacks()
+							.then(data =>
+							{
+								const favoritePackIds = data.result.packs.map(p => p.definition.pack.id);
+								this.setIncludeCustomPacks(favoritePackIds);
+							})
+							.catch(ErrorDataStore.add);
+					}
 				}
 			})
 			.catch(e =>

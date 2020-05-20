@@ -275,6 +275,8 @@ class _Platform
 
 	public getAuthStatus()
 	{
+		this.trackEvent("auth-status");
+
 		return Fetcher.doGet<{status: IClientAuthStatus}>("/auth/status")
 	}
 
@@ -285,11 +287,15 @@ class _Platform
 
 	public getMyPacks()
 	{
+		this.trackEvent("get-my-packs");
+
 		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/mine`);
 	}
 
 	public searchPacks(input: PackSearch, zeroBasedPage = 0)
 	{
+		this.trackEvent("pack-search");
+
 		const search = input.search ? `&search=${input.search}` : "";
 		const category = input.category ? `&category=${input.category}` : "";
 		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}`);
@@ -302,6 +308,8 @@ class _Platform
 
 	public savePack(packData: ICustomPackDataInput)
 	{
+		this.trackEvent("pack-edit-or-create");
+
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/update", {
 			pack: packData
 		});
@@ -309,6 +317,8 @@ class _Platform
 
 	public favoritePack(packId: string)
 	{
+		this.trackEvent("pack-favorite");
+
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/favorite", {
 			packId
 		});
@@ -316,6 +326,8 @@ class _Platform
 
 	public unfavoritePack(packId: string)
 	{
+		this.trackEvent("pack-unfavorite");
+
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/unfavorite", {
 			packId
 		});

@@ -46,6 +46,13 @@ const darkTheme = createMuiTheme({
 		},
 		type: "dark",
 	},
+	overrides: {
+		MuiListItem: {
+			secondaryAction: {
+				paddingRight: 84
+			}
+		}
+	}
 });
 
 if (!location.hostname.includes("local"))
