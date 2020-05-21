@@ -129,7 +129,7 @@ export const SponsorList = () =>
 					Follow the Patreon link below to contribute!
 				</Typography>
 				<div>
-					<a href={"https://www.patreon.com/user?u=32889715"} target={"_blank"} rel={"noreferrer nofollow"}>
+					<a href={"http://patreon.com/allbadcards"} target={"_blank"} rel={"noreferrer nofollow"}>
 						<img src={"/become_a_patron_button.png"}/>
 					</a>
 				</div>
@@ -203,7 +203,7 @@ const useStylesBootstrap = makeStyles((theme: Theme) => ({
 
 const SponsorInner: React.FC<ISponsorProps> = (props) =>
 {
-	const url = props.sponsor?.url ?? "https://www.patreon.com/user?u=32889715";
+	const url = props.sponsor?.url ?? "http://patreon.com/allbadcards";
 
 	const byline = props.sponsor?.byline ?? (props.isDiamondSponsor ? "+ Diamond Sponsor" : "+ Sponsor");
 

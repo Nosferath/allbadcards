@@ -161,6 +161,7 @@ export interface ICustomPackDataInput
 
 export interface ICustomCardPack
 {
+	id: string;
 	owner: string;
 	definition: ICardPackDefinition;
 	dateCreated: Date;
@@ -188,6 +189,7 @@ export type PackFavorites = { [packId: string]: boolean };
 export const PackCategories = [
 	"General",
 	"Insulting",
+	"Non-English Language",
 	"Movies, Music, & TV",
 	"Family-Friendly",
 	"Business",
@@ -195,7 +197,6 @@ export const PackCategories = [
 	"News & Politics",
 	"Places & Things",
 	"Hobbies & Activities",
-	"Languages"
 ] as const;
 
 export interface PackSearch

@@ -280,9 +280,10 @@ class _Platform
 		return Fetcher.doGet<{status: IClientAuthStatus}>("/auth/status")
 	}
 
-	public getPack(packId: string)
+	public getPack(packId: string, bustCache = false)
 	{
-		return Fetcher.doGet<ICustomCardPack>(`/api/pack/get?pack=${packId}`);
+		const append = bustCache ? Date.now() : "";
+		return Fetcher.doGet<ICustomCardPack>(`/api/pack/get?pack=${packId}&${append}`);
 	}
 
 	public getMyPacks()
@@ -298,7 +299,8 @@ class _Platform
 
 		const search = input.search ? `&search=${input.search}` : "";
 		const category = input.category ? `&category=${input.category}` : "";
-		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}`);
+		const sort = input.sort ? `&sort=${input.sort}` : "";
+		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}${sort}`);
 	}
 
 	public getMyFavoritePacks()

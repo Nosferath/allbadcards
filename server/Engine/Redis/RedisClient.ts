@@ -1,7 +1,7 @@
 import {Config} from "../../../config/config";
 import {loadFileAsJson} from "../../Utils/FileUtils";
 import {AbortError, ClientOpts, createClient, RedisClient, RetryStrategy} from "redis";
-import {logError, logWarning} from "../../logger";
+import {logError, logMessage, logWarning} from "../../logger";
 
 export class RedisConnector
 {
@@ -30,7 +30,10 @@ export class RedisConnector
 		});
 
 		this.client.on("error", this.onError);
-		this.client.on("connect", () => this.redisReconnectInterval && clearInterval(this.redisReconnectInterval));
+		this.client.on("connect", () => {
+			this.redisReconnectInterval && clearInterval(this.redisReconnectInterval);
+			logMessage("Redis client successfully connected");
+		});
 	}
 
 	private retry_strategy: RetryStrategy = (options) =>
@@ -72,6 +75,7 @@ export class RedisConnector
 
 	public static create(options?: ClientOpts)
 	{
+		logMessage("Creating RedisClient");
 		const instance = new RedisConnector(options);
 		instance.initialize();
 

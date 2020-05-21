@@ -36,5 +36,5 @@ export const logRequest = (req: Request) =>
 		? JSON.stringify(req.query)
 		: undefined;
 
-	logMessage(req.url, body, query);
+	logMessage(req.url, body?.substr(0, 500), query?.substr(0, 500));
 };

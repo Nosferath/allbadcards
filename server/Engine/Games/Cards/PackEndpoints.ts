@@ -59,7 +59,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/search", cache("1 minute"), async (req, res) =>
+	app.get("/api/packs/search", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -77,10 +77,12 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 
 			if (req.query.search)
 			{
-				query["definition.pack.name"] = '.*' + req.query.search + '.*';
+				query["definition.pack.name"] = {
+					$regex: new RegExp(".*" + req.query.search + ".*", "gi")
+				};
 			}
 
-			const result = await PackManager.getPacks(req, query, req.query.sort);
+			const result = await PackManager.getPacks(req, query, req.query.sort, req.query.zeroBasedPage);
 
 			sendWithBuildVersion({
 				result

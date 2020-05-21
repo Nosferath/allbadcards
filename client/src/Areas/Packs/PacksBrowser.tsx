@@ -57,15 +57,15 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 	const [searchedPacks, setSearchedPacks] = useState<ICustomPackSearchResult | null>(null);
 
 	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | undefined>(undefined);
-	const [sort, setSort] = useState<PackSearchSort>("newest");
+	const [sort, setSort] = useState<PackSearchSort>("favorites");
 	const authData = useDataStore(AuthDataStore);
 	const envData = useDataStore(EnvDataStore);
 	const [searchText, setSearchText] = useState("");
-	const [searchNsfw, setSearchNsfw] = useState(false);
+	const [searchNsfw, setSearchNsfw] = useState(!!envData.site.base);
 	useEffect(() =>
 	{
 		searchPacks(0);
-	}, [searchText, searchNsfw, searchCategory]);
+	}, [searchText, searchNsfw, searchCategory, sort]);
 
 	const searchPacks = (page = 0) =>
 	{
@@ -96,17 +96,18 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 	const classes = useStyles();
 
 	const packCount = searchedPacks?.packs?.length ?? 0;
+	const pageCount = packCount >= 8 ? currentPage + 8 : currentPage + 1;
 
 	return (
 		<div>
 			<Typography variant={"h6"}>
 				Want to create your own pack?
 				<br/>
-				<Button component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()} />} color={"secondary"} variant={"contained"}>
+				<Button component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()}/>} color={"secondary"} variant={"contained"}>
 					Create a Pack
 				</Button>
 			</Typography>
-			<Divider style={{margin: "1rem 0"}} />
+			<Divider style={{margin: "1rem 0"}}/>
 			<Typography variant={"h5"}>
 				Search Custom Packs
 			</Typography>
@@ -174,13 +175,9 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 									}}
 									onChange={e => setSort(e.target.value as PackSearchSort)}
 								>
-									{
-										/*
-										 <MenuItem value={"favorites"}>
-										 Most Saved
-										 </MenuItem>
-										 */
-									}
+									<MenuItem value={"favorites"}>
+										Most Popular
+									</MenuItem>
 									<MenuItem value={"largest"}>
 										Most Cards
 									</MenuItem>
@@ -202,23 +199,27 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 					</FormGroup>
 				</FormControl>
 			</Grid>
-			<Pagination page={currentPage + 1} count={packCount >= 8 ? currentPage + 8 : currentPage + 1} onChange={handleChange} style={{marginTop: "3rem"}}/>
+			<Pagination page={currentPage + 1} count={pageCount} onChange={handleChange} style={{marginTop: "3rem"}}/>
 			<Grid container spacing={2} className={classes.cardContainer}>
-				{searchedPacks?.packs?.map(pack => (
-					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<PackSummary
-							authed={authData.authorized}
-							canEdit={pack.owner === authData.userId}
-							pack={pack}
-							favorited={searchedPacks.userFavorites[pack.definition.pack.id]}/>
-					</Grid>
-				))}
+				{searchedPacks?.packs?.map(pack =>
+				{
+					const faved = !!searchedPacks.userFavorites[pack.id];
+					return (
+						<Grid item xs={12} sm={6} md={4} lg={3}>
+							<PackSummary
+								authed={authData.authorized}
+								canEdit={pack.owner === authData.userId}
+								pack={pack}
+								favorited={faved}/>
+						</Grid>
+					);
+				})}
 
 				{(!searchedPacks?.packs?.length) ? (
 					<Typography style={{padding: "3rem 1rem"}} variant={"h5"}>No results.</Typography>
 				) : undefined}
 			</Grid>
-			<Pagination page={currentPage + 1} count={packCount >= 8 ? currentPage + 8 : currentPage + 1} onChange={handleChange}/>
+			<Pagination page={currentPage + 1} count={pageCount} onChange={handleChange}/>
 		</div>
 	);
 };

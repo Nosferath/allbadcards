@@ -33,11 +33,11 @@ export const Confirmation: React.FC = (props) =>
 	const chatData = useDataStore(ChatDataStore);
 	const classes = useStyles();
 	const chatDrawerOpen = chatData.sidebarOpen;
-	const mobile = useMediaQuery('(max-width:768px)');
+	const tablet = useMediaQuery('(max-width:1200px)');
 	const isGamePage = history.location.pathname.startsWith("/game/");
 
 	return (
-		<Paper className={classes.container} style={{maxWidth: (isGamePage && chatDrawerOpen && !mobile) ? "calc(100% - 320px)" : "100%"}}>
+		<Paper className={classes.container} style={{maxWidth: (isGamePage && chatDrawerOpen && !tablet) ? "calc(100% - 320px)" : "100%"}}>
 			<Container maxWidth={"xl"} style={{padding :0}}>
 				<div className={classes.inner}>
 					{props.children}

@@ -8,6 +8,7 @@ import {PatreonConnector} from "./PatreonConnector";
 import {AuthCookie} from "./AuthCookie";
 import {MatchKeysAndValues} from "mongodb";
 import moment from "moment";
+import {logError} from "../../logger";
 
 interface TokenWithExpires extends ClientOAuth2.Token
 {
@@ -158,7 +159,12 @@ class _Auth
 					}
 					catch (e)
 					{
-						console.error(e);
+						logError(e);
+
+						if (Config.Environment !== "local")
+						{
+							res.clearCookie("auth");
+						}
 
 						return authStatus;
 					}

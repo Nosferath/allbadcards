@@ -7,6 +7,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import classNames from "classnames";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
+import {colors} from "../colors";
 
 interface IWhiteCardProps
 {
@@ -24,6 +25,7 @@ const useStyles = makeStyles(theme => ({
 		display: "flex",
 		flexDirection: "column",
 		minHeight: "25vh",
+		color: colors.light.contrastText
 	}
 }));
 

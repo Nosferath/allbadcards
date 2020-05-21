@@ -25,8 +25,6 @@ export const Routes: React.FC<Props> = (props) =>
 {
 	const authData = useDataStore(AuthDataStore);
 
-	console.log(authData);
-
 	if(!authData.loaded)
 	{
 		return <ContainerProgress />;

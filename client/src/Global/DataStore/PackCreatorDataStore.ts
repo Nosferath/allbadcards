@@ -1,7 +1,7 @@
 import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
-import {ICustomCardPack, PackCategories} from "../Platform/Contract";
+import {ICardPackDefinition, ICustomCardPack, PackCategories} from "../Platform/Contract";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 
 export interface PackCreatorDataStorePayload
@@ -31,7 +31,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		whiteCardErrors: [],
 		isEdited: false,
 		isNsfw: true,
-		isPublic: false,
+		isPublic: true,
 		categories: []
 	};
 
@@ -39,7 +39,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 
 	public hydrate(id: string)
 	{
-		return Platform.getPack(id)
+		return Platform.getPack(id, true)
 			.then(data =>
 			{
 				this.update({
@@ -59,6 +59,17 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 			.catch(ErrorDataStore.add);
 	}
 
+	public hydrateFromData(pack: Partial<ICardPackDefinition>)
+	{
+		const blackCards = pack.black?.map(bc => bc.content) ?? [];
+
+		this.update({
+			blackCards,
+			whiteCards: pack.white ?? [],
+			packName: pack?.pack?.name ?? ""
+		})
+	}
+
 	public reset()
 	{
 		this.update(_PackCreatorDataStore.InitialState);
@@ -74,7 +85,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 
 	public editBlackCard = (index: number, value: string) =>
 	{
-		const newCards = [...this.state.blackCards];
+		const newCards = this.state.blackCards;
 		newCards[index] = value;
 
 		this.update({

@@ -3,7 +3,7 @@ import {DataStoreObserver} from "./DataStoreObserver";
 export abstract class DataStore<TState extends {},
 	TObserverParams extends {} = never>
 {
-	private _currentState: TState;
+	protected _currentState: TState;
 	private readonly _observers: DataStoreObserver<TState, TObserverParams>[] = [];
 
 	protected constructor(initialState: TState)
@@ -22,7 +22,7 @@ export abstract class DataStore<TState extends {},
 		return {...this._currentState, ...data};
 	}
 
-	private broadcast()
+	protected broadcast()
 	{
 		const toUpdate = this.selectListenersForUpdate();
 		toUpdate.forEach(listener => listener.callback(this._currentState));

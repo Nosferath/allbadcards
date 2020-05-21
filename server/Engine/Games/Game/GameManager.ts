@@ -64,6 +64,7 @@ class _GameManager
 
 	private initializeRedis()
 	{
+		logMessage("Initializing Redis connections...");
 		this.redisPub = RedisConnector.create();
 		this.redisSub = RedisConnector.create();
 

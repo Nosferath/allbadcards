@@ -4,7 +4,7 @@ import {AppBar, Button, ButtonGroup, Container, createStyles, DialogActions, Dia
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {FaUser, FiMenu, MdBugReport, TiLightbulb} from "react-icons/all";
+import {FaGithub, FaPatreon, FaTwitter, FaUser, FiMenu, MdBugReport, TiLightbulb} from "react-icons/all";
 import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
 import ReactGA from "react-ga";
@@ -180,6 +180,17 @@ const App: React.FC = () =>
 							Email me at <strong>allbadcards(at)gmail.com</strong>
 							<br/>
 						</Typography>
+						<ButtonGroup>
+							<IconButton href={"https://github.com/jakelauer/allbadcards"} target={"_blank"} color={"secondary"}>
+								<FaGithub/>
+							</IconButton>
+							<IconButton href={"http://twitter.com/allbadcards/"} target={"_blank"} color={"secondary"}>
+								<FaTwitter/>
+							</IconButton>
+							<IconButton href={"http://patreon.com/allbadcards/"} target={"_blank"} color={"secondary"}>
+								<FaPatreon/>
+							</IconButton>
+						</ButtonGroup>
 					</div>
 				</Paper>
 			</OuterContainer>

@@ -1,5 +1,5 @@
 import {ICustomCardPack} from "../../Global/Platform/Contract";
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {Button, Card, CardActions, CardContent, CardHeader, CardMedia, Chip} from "@material-ui/core";
 import {Link} from "react-router-dom";
 import {SiteRoutes} from "../../Global/Routes/Routes";
@@ -69,6 +69,10 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 	const [shuffledWhite, setShuffledWhite] = useState([...props.pack.definition.white]);
 	const [copied, setCopied] = useState(false);
 
+	useEffect(() => {
+		setIsFaved(props.favorited);
+	}, [props.favorited]);
+
 	const {
 		pack,
 	} = props;
@@ -104,7 +108,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 	};
 
 	return (
-		<Card elevation={5}>
+		<Card elevation={5} style={{height: "100%"}}>
 			<CardMedia onClick={onClick}>
 				{!props.hideExamples && (
 					<div className={classes.cardListWrap}>

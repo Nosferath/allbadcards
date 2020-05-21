@@ -39,7 +39,7 @@ class _PackManager
 		if (isCustom)
 		{
 			const foundPack = await this.getCustomPack(packId);
-			if(foundPack)
+			if (foundPack)
 			{
 				pack = foundPack.definition;
 			}
@@ -49,7 +49,7 @@ class _PackManager
 			pack = PackManager.packs[packId];
 		}
 
-		if(!pack)
+		if (!pack)
 		{
 			throw new Error(`Could not find pack with ID '${packId}'`);
 		}
@@ -112,7 +112,8 @@ class _PackManager
 			dateUpdated: now,
 			isNsfw: packInput.isNsfw,
 			isPublic: packInput.isPublic,
-			categories: packInput.categories
+			categories: packInput.categories,
+			favorites: existingPack?.favorites ?? 0
 		};
 
 		await Database.collections.packs.updateOne({
@@ -131,10 +132,12 @@ class _PackManager
 		let packsPromise = Database.collections.packs
 			.find(query);
 
-		switch(sort)
+		switch (sort)
 		{
 			case "favorites":
-				packsPromise = packsPromise.sort({dateUpdated: -1});
+				packsPromise = packsPromise.sort({
+					favorites: -1
+				});
 				break;
 			case "newest":
 				packsPromise = packsPromise.sort({dateUpdated: -1});
@@ -144,12 +147,13 @@ class _PackManager
 					["definition.pack.quantity.total"]: -1
 				});
 				break;
-			default: break;
+			default:
+				break;
 		}
 
-		if(!fetchAll)
+		if (!fetchAll)
 		{
-			packsPromise = packsPromise.sort({dateUpdated: -1})
+			packsPromise = packsPromise
 				.skip(12 * zeroBasedPage)
 				.limit(12);
 		}
@@ -169,7 +173,8 @@ class _PackManager
 				}
 			}).toArray();
 
-			userFavorites = favorites.reduce((acc, item) => {
+			userFavorites = favorites.reduce((acc, item) =>
+			{
 				acc[item.packId] = true;
 				return acc;
 			}, {} as PackFavorites);
@@ -185,7 +190,7 @@ class _PackManager
 	public async getMyFavoritePacks(req: Request): Promise<ICustomPackSearchResult>
 	{
 		const storedUserData = AuthCookie.get(req);
-		if(!storedUserData?.userId)
+		if (!storedUserData?.userId)
 		{
 			throw new Error("Log in required");
 		}
@@ -237,6 +242,14 @@ class _PackManager
 				upsert: true
 			});
 
+		const result2 = await Database.collections.packs.updateOne({
+			packId
+		}, {
+			$inc: {
+				favorites: 1
+			}
+		});
+
 		if (result.upsertedCount < 1)
 		{
 			throw new Error("This item is already favorited!")
@@ -256,6 +269,14 @@ class _PackManager
 		const result = await Database.collections.packFavorites.deleteOne({
 			packId,
 			userId: storedUserData.userId
+		});
+
+		await Database.collections.packs.updateOne({
+			packId
+		}, {
+			$inc: {
+				favorites: -1
+			}
 		});
 
 		if (result.deletedCount && result.deletedCount < 1)

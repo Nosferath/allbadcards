@@ -141,6 +141,7 @@ export interface ICustomCardPack
 	isNsfw: boolean,
 	isPublic: boolean;
 	categories: ValuesOf<typeof PackCategories>[];
+	favorites: number | undefined;
 }
 
 export interface IBlackCardDefinition

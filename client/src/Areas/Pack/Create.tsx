@@ -1,11 +1,9 @@
 import React, {useEffect, useState} from "react";
-import {Button, Divider, FormControl, FormControlLabel, FormGroup, Grid, InputLabel, MenuItem, Select, Switch, TextField, Typography} from "@material-ui/core";
+import {Button, Divider, FormControl, FormControlLabel, FormGroup, Grid, InputLabel, MenuItem, Select, Switch, TextField, Typography, useMediaQuery} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {BlackCard} from "../../UI/BlackCard";
-import {Alert, AlertTitle} from "@material-ui/lab";
+import {Alert, AlertTitle, Pagination} from "@material-ui/lab";
 import {useDataStore} from "../../Global/Utils/HookUtils";
 import {PackCreatorDataStore} from "../../Global/DataStore/PackCreatorDataStore";
-import {WhiteCard} from "../../UI/WhiteCard";
 import {AuthDataStore} from "../../Global/DataStore/AuthDataStore";
 import {Confirmation} from "../../UI/Confirmation";
 import {FaSave} from "react-icons/all";
@@ -15,6 +13,9 @@ import {PackCategories} from "../../Global/Platform/Contract";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
 import {ContainerProgress} from "../../UI/ContainerProgress";
+import {JsonUpload} from "./Create/JsonUpload";
+import {EditableWhite} from "./Create/EditableWhite";
+import {EditableBlack} from "./Create/EditableBlack";
 
 const useStyles = makeStyles(theme => ({
 	divider: {
@@ -54,6 +55,20 @@ const useStyles = makeStyles(theme => ({
 	}
 }));
 
+const perPage = 10;
+
+const getRenderedCards = <T extends any>(cards: T[], page: number) =>
+{
+	const cardCount = cards.length;
+	const pageCount = Math.ceil(cardCount / perPage);
+	const sliceStart = (page - 1) * perPage;
+
+	return {
+		cards: cards?.slice(sliceStart, sliceStart + perPage),
+		pageCount: Math.max(pageCount, 1)
+	};
+};
+
 const Create = () =>
 {
 	const params = useParams<{ id?: string }>();
@@ -62,6 +77,11 @@ const Create = () =>
 	const packCreatorData = useDataStore(PackCreatorDataStore);
 	const history = useHistory();
 	const [loading, setLoading] = useState(false);
+
+	const [whitePage, setWhitePage] = useState(1);
+	const [blackPage, setBlackPage] = useState(1);
+
+	const mobile = useMediaQuery('(max-width:768px)');
 
 	useEffect(() =>
 	{
@@ -98,6 +118,21 @@ const Create = () =>
 					}));
 				}
 			});
+	};
+
+	const whiteCardPage = getRenderedCards(packCreatorData.whiteCards, whitePage);
+	const blackCardPage = getRenderedCards(packCreatorData.blackCards, blackPage);
+
+	const addBlackCard = () =>
+	{
+		PackCreatorDataStore.addBlackCard();
+		setBlackPage(blackCardPage.pageCount);
+	};
+
+	const addWhiteCard = () =>
+	{
+		PackCreatorDataStore.addWhiteCard();
+		setWhitePage(whiteCardPage.pageCount);
 	};
 
 	const validityMessage = PackCreatorDataStore.getValidity();
@@ -141,7 +176,7 @@ const Create = () =>
 				)}
 			</Grid>
 
-			<Grid item xs={12}>
+			<Grid item md={9} xs={12}>
 				<FormControl component="fieldset">
 					<FormGroup>
 						<FormControlLabel
@@ -183,25 +218,40 @@ const Create = () =>
 				</FormControl>
 			</Grid>
 
+			{canEdit && (
+				<Grid item xs={12} md={3} style={{display: "flex", alignItems: "flex-end", justifyContent: mobile ? "flex-start" : "flex-end"}}>
+					<JsonUpload/>
+				</Grid>
+			)}
 			<Grid item xs={12} md={12} lg={6} className={classes.section}>
 				<Typography variant={"h5"}>Questions ({packCreatorData.blackCards?.length ?? 0})</Typography>
 				<Divider className={classes.divider}/>
 				<Grid container spacing={3} style={{marginBottom: "1rem"}}>
-					{packCreatorData.blackCards.map((value, index) => (
+					<Grid item xs={12}>
+						<Pagination count={blackCardPage.pageCount} page={blackPage} onChange={(_, page) => setBlackPage(page)}/>
+					</Grid>
+
+					{blackCardPage.cards.map((value, index) => (
 						<EditableBlack
+							key={index}
 							value={value}
-							index={index}
+							index={index + ((blackPage - 1) * perPage)}
 							canEdit={canEdit}
-							focus={index === packCreatorData.blackCards.length - 1}
+							focus={index === blackCardPage.cards.length - 1}
 							onEdit={PackCreatorDataStore.editBlackCard}
 							onRemove={PackCreatorDataStore.removeBlackCard}
 							updateErrorState={PackCreatorDataStore.setBlackCardErrorState}
 						/>
 					))}
+
+					<Grid item xs={12}>
+						<Pagination count={blackCardPage.pageCount} page={blackPage} onChange={(_, page) => setBlackPage(page)}/>
+					</Grid>
+
 				</Grid>
 				{canEdit && (
 					<>
-						<Button variant={"contained"} color={"secondary"} onClick={PackCreatorDataStore.addBlackCard}>
+						<Button variant={"contained"} color={"secondary"} onClick={addBlackCard}>
 							Add Card
 						</Button>
 						<Alert color={"info"} style={{marginTop: "1rem"}}>
@@ -215,20 +265,29 @@ const Create = () =>
 				<Typography variant={"h5"}>Answers ({packCreatorData.whiteCards?.length ?? 0})</Typography>
 				<Divider className={classes.divider}/>
 				<Grid container spacing={3} style={{marginBottom: "1rem"}}>
-					{packCreatorData.whiteCards.map((value, index) => (
+					<Grid item xs={12}>
+						<Pagination count={whiteCardPage.pageCount} page={whitePage} onChange={(_, page) => setWhitePage(page)}/>
+					</Grid>
+
+					{whiteCardPage.cards.map((value, index) => (
 						<EditableWhite
+							key={index}
 							value={value}
-							index={index}
+							index={index + ((whitePage - 1) * perPage)}
 							canEdit={canEdit}
-							focus={index === packCreatorData.whiteCards.length - 1}
+							focus={index === whiteCardPage.cards.length - 1}
 							onEdit={PackCreatorDataStore.editWhiteCard}
 							onRemove={PackCreatorDataStore.removeWhiteCard}
 							updateErrorState={PackCreatorDataStore.setWhiteCardErrorState}
 						/>
 					))}
+
+					<Grid item xs={12}>
+						<Pagination count={whiteCardPage.pageCount} page={whitePage} onChange={(_, page) => setWhitePage(page)}/>
+					</Grid>
 				</Grid>
 				{canEdit && (
-					<Button variant={"contained"} color={"secondary"} onClick={PackCreatorDataStore.addWhiteCard}>
+					<Button variant={"contained"} color={"secondary"} onClick={addWhiteCard}>
 						Add Card
 					</Button>
 				)}
@@ -261,129 +320,8 @@ const Create = () =>
 	);
 };
 
-interface IEditableCard
-{
-	index: number;
-	focus: boolean;
-	value: string;
-	canEdit: boolean;
-	onEdit: (index: number, value: string) => void;
-	onRemove: (index: number) => void;
-	updateErrorState: (index: number, hasError: boolean) => void;
-}
 
-const EditableBlack: React.FC<IEditableCard> = (props) =>
-{
-	const classes = useStyles();
 
-	const [error, setError] = useState("");
-	const inputRef = React.useRef<HTMLInputElement>();
 
-	useEffect(() =>
-	{
-		if (props.focus)
-		{
-			setTimeout(() =>
-			{
-				inputRef?.current?.focus();
-			}, 200);
-		}
-	}, []);
-
-	const updateError = (errorVal: string) =>
-	{
-		setError(errorVal);
-		props.updateErrorState(props.index, !!errorVal);
-	};
-
-	const onEdit = (value: string) =>
-	{
-		props.onEdit(props.index, value);
-
-		const underscores = value.match(/_/g) ?? [];
-		if (underscores.length > 3)
-		{
-			updateError("You can use a maximum of 3 blanks");
-		}
-		else
-		{
-			updateError("");
-		}
-	};
-
-	return (
-		<Grid item xs={12} md={6}>
-			<BlackCard className={classes.shortCard} actions={props.canEdit && (
-				<Button onClick={() => props.onRemove(props.index)} style={{color: "white"}}>Remove</Button>
-			)}>
-				<TextField
-					variant={"outlined"}
-					value={props.value}
-					error={!!error}
-					helperText={error}
-					disabled={!props.canEdit}
-					fullWidth
-					multiline
-					inputRef={inputRef}
-					classes={{
-						root: classes.blackCardTextField
-					}}
-					inputProps={{
-						className: classes.blackInput,
-						style: {
-							color: "white"
-						}
-					}}
-					onChange={e => onEdit(e.currentTarget.value)}
-				/>
-			</BlackCard>
-		</Grid>
-	)
-};
-
-const EditableWhite: React.FC<IEditableCard> = (props) =>
-{
-	const classes = useStyles();
-
-	const inputRef = React.useRef<HTMLInputElement>();
-
-	useEffect(() =>
-	{
-		if (props.focus)
-		{
-			setTimeout(() =>
-			{
-				inputRef?.current?.focus();
-			}, 200);
-		}
-	}, []);
-
-	return (
-		<Grid item xs={12} md={6}>
-			<WhiteCard className={classes.shortCard} actions={props.canEdit && (
-				<Button onClick={() => props.onRemove(props.index)} style={{color: "black"}}>Remove</Button>
-			)}>
-				<TextField
-					variant={"outlined"}
-					value={props.value}
-					fullWidth
-					multiline
-					inputRef={inputRef}
-					disabled={!props.canEdit}
-					classes={{
-						root: classes.whiteCardTextField
-					}}
-					inputProps={{
-						className: classes.whiteInput,
-						style: {
-							color: "black"
-						}
-					}}
-					onChange={e => props.onEdit(props.index, e.currentTarget.value)}
-				/>
-			</WhiteCard>
-		</Grid>
-	)
-};
 
 export default Create;
