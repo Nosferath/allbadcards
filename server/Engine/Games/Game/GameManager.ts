@@ -352,8 +352,8 @@ class _GameManager
 		}
 
 		game.resetReveal();
-		game.nextCzar();
 		game.addPendingPlayers();
+		game.nextCzar();
 
 		game.update({
 			roundStarted: false,
