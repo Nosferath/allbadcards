@@ -113,13 +113,13 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 				{!props.hideExamples && (
 					<div className={classes.cardListWrap}>
 						<div className={classNames(classes.cardList, classes.blackCardList)}>
-							{shuffledBlack.slice(0, 3).map(bc => (
-								<div className={classes.blackItem}>{bc.content}</div>
+							{shuffledBlack.slice(0, 3).map((bc, i) => (
+								<div key={i} className={classes.blackItem}>{bc.content}</div>
 							))}
 						</div>
 						<div className={classNames(classes.cardList, classes.whiteCardList)}>
-							{shuffledWhite.slice(0, 3).map(wc => (
-								<div className={classes.whiteItem}>{wc}</div>
+							{shuffledWhite.slice(0, 3).map((wc, i) => (
+								<div key={i} className={classes.whiteItem}>{wc}</div>
 							))}
 						</div>
 					</div>

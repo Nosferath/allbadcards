@@ -33,6 +33,11 @@ class _UserUtils
 
 	public validateUser(user: IPlayer)
 	{
+		if(!user.guid || !user.secret)
+		{
+			return false;
+		}
+
 		return this.validateUserId(user.guid, user.secret);
 	}
 

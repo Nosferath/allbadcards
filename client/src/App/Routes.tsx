@@ -5,6 +5,7 @@ import {ContainerProgress} from "../UI/ContainerProgress";
 import {SiteRoutes} from "../Global/Routes/Routes";
 import {useDataStore} from "../Global/Utils/HookUtils";
 import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
+import {UserDataStore} from "../Global/DataStore/UserDataStore";
 
 interface IRoutesProps
 {
@@ -24,8 +25,9 @@ interface IRoutesState
 export const Routes: React.FC<Props> = (props) =>
 {
 	const authData = useDataStore(AuthDataStore);
+	const userData = useDataStore(UserDataStore);
 
-	if(!authData.loaded)
+	if(!authData.loaded || !userData.loaded)
 	{
 		return <ContainerProgress />;
 	}
