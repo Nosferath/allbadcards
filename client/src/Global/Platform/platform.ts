@@ -263,7 +263,7 @@ class _Platform
 	{
 		this.trackEvent("cardcast-cached", deckId);
 
-		return Fetcher.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
+		return Fetcher.doGet<{packs: ICardPackDefinition[]}>(`/api/cardcast-pack-export?input=${deckId}`);
 	}
 
 	public registerUser()

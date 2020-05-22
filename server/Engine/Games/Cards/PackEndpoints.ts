@@ -64,10 +64,10 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 	{
 		try
 		{
-			const pack = await CardCastConnector.getCachedDeck(req.query.input);
-			sendWithBuildVersion({
-				pack
-			}, res);
+			const packs = await CardCastConnector.getCachedDeck(req.query.input);
+			res.send({
+				packs
+			})
 		}
 		catch (error)
 		{
