@@ -805,6 +805,13 @@ class _GameManager
 
 		const playerKeys = Object.keys(gameItem.players);
 
+		const blackCardPack = await PackManager.getPack(gameItem.blackCard.packId);
+		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
+		const pick = blackCard.pick;
+
+		// Assume the hand size is 10. If pick is more than 1, pick that many more.
+		const targetHandSize = 10 + (pick - 1);
+
 		let allWhiteCards = gameItem.settings.includedPacks.reduce((acc, packId) =>
 		{
 			const packCount = PackManager.packs[packId].white.length;
@@ -829,19 +836,23 @@ class _GameManager
 		}, 0);
 
 		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
+		const requiredCards = playerKeys.reduce((acc: number, pg) => {
+			const needed = targetHandSize - gameItem.players[pg].whiteCards.length;
+			acc += needed;
+			return acc;
+		}, 0);
+		const totalCardsRequired = playerKeys.length * targetHandSize;
 
 		// If we run out of white cards, reset them
-		if (availableCardRemainingCount < playerKeys.length)
+		if (availableCardRemainingCount < requiredCards)
 		{
 			usedWhiteCards = {};
 		}
 
-		const blackCardPack = await PackManager.getPack(gameItem.blackCard.packId);
-		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
-		const pick = blackCard.pick;
-
-		// Assume the hand size is 10. If pick is more than 1, pick that many more.
-		const targetHandSize = 10 + (pick - 1);
+		if(allWhiteCards < requiredCards)
+		{
+			throw new Error(`Your packs only contain ${allWhiteCards} cards, but you need at least ${totalCardsRequired}`);
+		}
 
 		let allowedCards: CardPackMap = {};
 		const includedPacks = PackManager.getPacksForGame(gameItem);

@@ -24,3 +24,11 @@ export const cardPackMapToHashTable = (map: CardPackMap): { [cardPackIndex: stri
 };
 
 export const cardPackIndex = (card: CardId) => `${card.packId}:${card.cardIndex}`;
+
+export const getCardPackMapCount = (map: CardPackMap) => {
+	return Object.keys(map).reduce((acc, packId) =>
+	{
+		acc += Object.keys(map[packId]).length;
+		return acc;
+	}, 0);
+};

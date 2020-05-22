@@ -73,6 +73,13 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 		setIsFaved(props.favorited);
 	}, [props.favorited]);
 
+	useEffect(() => {
+		const newBlackShuffle = shuffle([...props.pack.definition.black]);
+		const newWhiteShuffle = shuffle([...props.pack.definition.white]);
+		setShuffledBlack(newBlackShuffle);
+		setShuffledWhite(newWhiteShuffle);
+	}, [props.pack]);
+
 	const {
 		pack,
 	} = props;
@@ -126,7 +133,11 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 				)}
 			</CardMedia>
 			<CardHeader
-				title={definition.pack.name}
+				title={
+					<Link to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})} style={{textDecoration: "none"}}>
+						{definition.pack.name}
+					</Link>
+				}
 				subheader={<span>
 					Q:<strong>{definition.quantity.black}</strong> A:<strong>{definition.quantity.white}</strong>
 				</span>}
