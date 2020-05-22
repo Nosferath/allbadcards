@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "Frankly, I think _ would make a better president.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will Donald Trump have installed in the whitehouse when he gets elected? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's the first thing Mr. Trump sees when he wakes up and the last thing when he goes to bed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump is clearly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's Donald Trump?! Why he's _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fucking Donald Trump so hard, when you finished said you \"Trumped\" him.",
+    "Donald Trump's Presidential Campaign.",
+    "Plotting revenge on Donal Trump for firing you.",
+    "Sex with Donald Trump.",
+    "Mother Fucking Donald Trump.",
+    "Donald Trump's tiny, flacid-mushroom penis.",
+    "Getting a bunch of honest, hard working, good-natured immigrants to actually rape Donald Trump, for real.",
+    "Getting to fire Donald Trump.",
+    "Donald Trump.",
+    "The massive paycheck given to the man who kills Donald Trump."
+  ],
+  "pack": {
+    "id": "G8J4F",
+    "name": "Politically Trumped Pack"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 10,
+    "total": 15
+  },
+  "dateStoredMs": 1589576965214
+}

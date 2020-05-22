@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "A_kedvenc_söröm:",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Nemecsko.",
+    "Hitler.",
+    "Aha.",
+    "Igen."
+  ],
+  "pack": {
+    "id": "AGV9A",
+    "name": "BDG_1"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1589303806500
+}

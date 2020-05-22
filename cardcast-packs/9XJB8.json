@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "Aby stworzyć ten eliksir, musisz dodać oko traszki, język trolla i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym roku na halloween przebiorę się za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Panicznie boję się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, wiatru szum, wodo, wodo, zmień się w rum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie miałem cukierków, więc dałem dzieciom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uważaj! Ten dom nawiedzony jest przez _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Plastikowe widły z Biedronki.",
+    "Jason Voorhees z maską z szynki.",
+    "Duch spuszczający się ektoplazmą.",
+    "Dynia wypełniona miłością.",
+    "Wampir wysysający krew z miesiączki.",
+    "Polskie horrory.",
+    "Meksykanie tańczący na grobach.",
+    "Hitler-Wampir.",
+    "Cukierkowy penis."
+  ],
+  "pack": {
+    "id": "9XJB8",
+    "name": "Karty Przeciwko Halloween"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 9,
+    "total": 15
+  },
+  "dateStoredMs": 1588613271577
+}

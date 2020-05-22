@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "\t\"Are you classified as human?\" \"Negative, I am _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tNow it's time for Korben to say the word of the day. What is the word of the day: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWhat does \"ecto gammat\" mean? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mangalores won't fight without _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tA meat popsicle.",
+    "\tBig bada boom.",
+    "\tNever, without my permission.",
+    "\tMoool-ti-pass.",
+    "A sci-fi movie full of supermodels.",
+    "\tBruce Willis, squinting at danger.",
+    "\tThe Dive Plavalaguna.",
+    "\tWaif fu."
+  ],
+  "pack": {
+    "id": "WSEB3",
+    "name": "Nerds Against Humanity / 5th Element"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 8,
+    "total": 12
+  },
+  "dateStoredMs": 1588527760082
+}

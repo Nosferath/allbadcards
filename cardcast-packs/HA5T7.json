@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "Oggi da Barbara durso : Aiuto mio figlio è _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La prima volta che ho visto _ ho pensato _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cos'è questa puzza? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho sempre pensato che _ sia un ottimo regalo per natale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perchè non riesco a dormire tutta la notte? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho 99 problemi ma _ non è uno di quelli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quale sarà il prossimo regalo del happy meal? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tra il dire e il fare c'è di mezzo _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HA5T7",
+    "name": "Italian deck"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 0,
+    "total": 8
+  },
+  "dateStoredMs": 1589150310986
+}

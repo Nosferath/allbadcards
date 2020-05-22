@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "bo jadzia robi _ mu _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak często SZPILOSZKA używa wibratora od Daika?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ile paczek pali dziennie kardacha_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ile kutasów wchodzi do dupy od oli_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "kto nie żyje?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "router sie zjebiepo_maciej widzac to_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "a maciej to_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "kto wali cie w kakało_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "kto rucha Ewe_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "co ma najwiecej koni_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "a seba to_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Robert ty kurwo.",
+    "Sajmon ty ŚWINIO.",
+    "Nowroty ruchaly sie z maciaszkami..",
+    "Pilosz ty ruda kurwooo.",
+    "Błasiaczce jebie z japy.",
+    "Jebie wam matki.",
+    "I will chease.",
+    "Rucham jadzie.",
+    "Stary od kardachy.",
+    "Er jeden the best.",
+    "Szymon ty tam rolki smaruj.",
+    "Kardacha to paszztet pierdolony w dupsko.",
+    "Stary od kardachy_."
+  ],
+  "pack": {
+    "id": "KUXXA",
+    "name": "twoj stary"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 13,
+    "total": 24
+  },
+  "dateStoredMs": 1589282217209
+}

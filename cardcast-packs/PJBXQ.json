@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "Ha meleg vagy illik _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az igazgato bevezette a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem lehet csapatni _  nélkül",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nincs élet _ nélkül",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dávid elismerte hogy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De ne _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A(z) _ és a(z) _ fogják megmenteni a világot.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Bemenni valakihez és felmelegiteni a hanhulatot.",
+    "Dávid playe.",
+    "Lsc playek.",
+    "A tanárok éneke.",
+    "League Of Legends.",
+    "Kicsi a fasza.",
+    "Emeletes fasz."
+  ],
+  "pack": {
+    "id": "PJBXQ",
+    "name": "BDeck"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 7,
+    "total": 14
+  },
+  "dateStoredMs": 1589196614134
+}

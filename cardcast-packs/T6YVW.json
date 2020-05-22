@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "The best part of waking up is _ in your cup.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I regret getting a tattoo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn't find a condom, so I used a _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only you can prevent _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I kissed a _ and I liked it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night, I used _ as lube, it didn't end well.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A boy's best friend is his _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ goes in, _ comes out.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like my coffee like I like my _ black.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I smoke _ to get high.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You. Me. _. Now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New York's hottest club is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your test results are back. I'm sorry, but you seem to have stage-4 _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ That's a deal breaker.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "t6yvw",
+    "name": "Favorites"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 0,
+    "total": 15
+  },
+  "dateStoredMs": 1589068829307
+}

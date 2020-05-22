@@ -1,0 +1,79 @@
+{
+  "black": [
+    {
+      "content": "Mon activité de confinement préférée : _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je m'ennuie tellement que je me suis mis(e) à _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce qui me manque le plus du monde d'avant c'est _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Madame l'infirmière, pourquoi sur ma perfusion il est écrit _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si j'étais flic j'en profiterais pour tabasser _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gender reveal party ! Le bébé est _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non monsieur l'agent, ce n'est pas moi qui ai _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Et ce que la Police déteste par dessus tout : _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mes chers concitoyens, jusqu'au 11 mai, il faudra _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je fais un nouveau régime à base de _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Aller en teuf.",
+    "Se bourrer la gueule tout seul dans son salon.",
+    "Une montagne de kétamine.",
+    "Les buveurs de 8.6.",
+    "Rester chez vous.",
+    "Hurler ACAB dans un commissariat de banlieue.",
+    "Rien du tout.",
+    "Attraper le corona virus et mourir dans d'attroces souffrances.",
+    "L'ennui qui donne envie de se pendre.",
+    "La dernière feuille de PQ.",
+    "Tousser sur ma grand-mère.",
+    "Tous ces batards de flics.",
+    "Se laver les mains avec du sperme."
+  ],
+  "pack": {
+    "id": "RFGJ8",
+    "name": "COVID19"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 13,
+    "total": 23
+  },
+  "dateStoredMs": 1589306589949
+}

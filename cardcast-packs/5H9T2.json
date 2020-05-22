@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "Down here, LOVE is shared by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Flirting with Toriel and then calling her mom.",
+    "Grillby's.",
+    "Chara.exe."
+  ],
+  "pack": {
+    "id": "5H9T2",
+    "name": "undertale"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1588648321769
+}

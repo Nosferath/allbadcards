@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "WHY IS THERE GOLD ON THE CEILING?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The stains on my walls remind me of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beauty is defined as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The order of the dogs is ruled by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I belive in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You thought that _ means _ ?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "An acronym for PAIN is Putrefaction, _ , _ , _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Don't got a lot of time, don't give a cuss, don't tell me what to do, I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You smell worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OH SHWACK! MY PLANS HAVE BEEN FOILED AGAIN BY _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are a fool because of this reason _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nothing matters.",
+    "THE WORLD IS A LIE.",
+    "That's my bicep.",
+    "Arnie Grape.",
+    "You aren't real.",
+    "Two turtles tearing into a tub of twizzlers.",
+    "Two giraffes necking.",
+    "A hellion rascal up to no good.",
+    "The lines on your forehead.",
+    "All the orphans in the world.",
+    "Wooden potatoes."
+  ],
+  "pack": {
+    "id": "HKNGJ",
+    "name": "Zognardog"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 11,
+    "total": 22
+  },
+  "dateStoredMs": 1588833288504
+}

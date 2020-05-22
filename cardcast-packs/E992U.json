@@ -1,0 +1,666 @@
+{
+  "black": [
+    {
+      "content": "If you're _ in space you'll immediately regret it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is closed on the weekends.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know when you start _... what's it called... oh! _. Does that hurt?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ burnt to the ground, but nobody noticed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just wait until I activate _ mode! Everyone will be _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "PM me  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can't have _ without _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is gone forever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what's stupid? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything changed when _ attacked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bet you didn't know that _ causes _. Well, now you do.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Card Czar's mom is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite war is a tossup between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My future is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar's wang is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't say you're _ if you enjoy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The last thing my wife ever said to me was, \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My father is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's no way that's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're the first person I've ever met that's tried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're just reinforcing tired stereotypes by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ron's _ was/were just as bad as Ron himself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're taking our _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw away your hardest-to-use cards. _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Burning down my city in the name of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are an important fabric in which we coexist in a general sphere of influence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throwaway the cards you're tired of looking at in your hand. _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Victory will be ours, even if we must use _ to achieve it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bet no one's ever told you _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fell out of Peter's hat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stuart has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing makes me cringe harder than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is _? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I wasn't _ maybe I would relax.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar hasn't been able to go _ since 2003.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: Mars Curiosity rover encounters extraterrestrial life closely resembling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? 'tis but a scratch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HANDS IN THE AIR! GET ON THE GROUND! FREEZE! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Little Timmy got _ when he forgot to bring in his homework.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - hey, accidents happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can try _ if you really want to, but don't say I didn't warn you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ looks like she smells good to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a lifestyle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The American people are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nibba I'm gonna need you to stop _ , thanks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A relationship is just a long and drawn out process of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Send _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys!, Subscribe to my Youtube channel, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Technically, there's no law stating that you can't go _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar is dumber than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of sending nudes to each other this Valentine's Day, Trump and Putin are defying tradition by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll gut you like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are more _ here than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: and then everything fell apart.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There ain't no such thing as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his latest headline, Florida Man is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will ruin your life, guaranteed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pennsylvania elementary schools are known for their unusual punishments, one being _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just _ , bro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most dangerous serial killer of the 21st century is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you want to see _? No? Well I'm gonna show you anyway.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ currently.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Well... whatever makes you happy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar will give you a chance as long as you aren't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you end up _ just make sure you use protection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The third player was _ as a child.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come, my child. Do you see _? It's all yours.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One minute you're _ , and then the next thing you know, you're _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "2018: Year of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar is _ and needs immediate medical attention.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone on Reddit is _ except you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ stresses me out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get this straight: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saying that the Card Czar is _ would be a compliment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think the year 2018 has _ in store for us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kind of tastes like Saturn.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You could say I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here comes another _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, cut it out. No _ on Tuesdays.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to take mom to the hospital when we found out she was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why won't she call me back? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watch _ fly away with your dreams",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A good round of cards is like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm allergic to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Compare and contrast every film that has ever been made: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Florida Man injects himself with _ and _ and fails epically at both",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Last Thanksgiving dinner, we found out uncle Claude is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do not give 8th Dimension Man your _ , or the fabric of spacetime will tear and unleash _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My neighbor was robbed by _, so I bought a new home security system called, \"_.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Remember, _ is always watching you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar is sexually attracted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will you join me in _? Of course you won't, pussy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ ya dumb fuck, I do what i want!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ stole the dildos from the sex shop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandfather was _ after _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No one should ever sexualize _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick, help me escape _ or we're all fucked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First thing on my bucket list for 2018: _. Second thing: Driving off a goddamn bridge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you say you like _ more than _ , I call bullshit.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Faux Führer.",
+    "Everything the light touches.",
+    "Urethras in very close proximity.",
+    "D a m n i t ,  b o b b y.",
+    "Mmmmmoist.",
+    "🆗.",
+    "Cucked by his own dad.",
+    "Tiny creatures that can survive at temperatures as low as -58º.",
+    "He who sits.",
+    "In my pants.",
+    "Standing on my grandson's thighs.",
+    "The most illegal meme of all.",
+    "A midget with a learning disability.",
+    "Abandoned in the Mall of America.",
+    "The desk. :/ ᵒᵏ.",
+    "Slide it in.",
+    "The 115 Americans that die every day of accidental opioid overdose.",
+    "Being raped by the desert mutant that crucified and immolated your father.",
+    "Frongs.",
+    "The hatred exuding from every pore in my body.",
+    "The entire FBI.",
+    "Hurling you into orbit.",
+    "Your untimely death...",
+    "Certified stale.",
+    "Six bags o' dicks.",
+    "Calling pants \"longs\".",
+    "A jail-type situation.",
+    "Chemical burns.",
+    "Infested with fleas.",
+    "So deep that Adele is rolling in it as we speak.",
+    "The Tide PODS® challenge.",
+    "An almost negligible number of housecats.",
+    "3 small piles of ashes.",
+    "Angery.",
+    "A horker.",
+    "Dicked down by life.",
+    "Plebble my neck with rubber gloves.",
+    "🅱eter.",
+    "Melanoma.",
+    "One hot tamale in a cold, cold world.",
+    "Your girl getting rawed by the fourth player.",
+    "Electrocuting someone into cardiac arrest because a scientist told you to.",
+    "Scientifically accurate.",
+    "Using my shotgun's recoil as a primitive jetpack.",
+    "God's canker sore.",
+    "A garage dad.",
+    "Yoko Ono interpretive dancing her way into a higher dimension.",
+    "Passing through a membrane from another reality.",
+    "Little Johnny cannoli.",
+    "Slightly haunted.",
+    "Bursting into flames and floating into the upper atmosphere.",
+    "Too small to be art.",
+    "Sending nukes.",
+    "Paying a guy to put eggs in your shoes.",
+    "Florida Man.",
+    "My shortcomings.",
+    "Autists per capita.",
+    "Sneakers with lights in them.",
+    "Uncle Touchy.",
+    "A Quaker® Oats advertisement.",
+    "Yellow discharge.",
+    "🔥Leopard🔥.",
+    "Spilling 300 million gallons of oil onto a field of babies.",
+    "🍳.",
+    "Not believing in jaguars.",
+    "Couscous.",
+    "A facility that distributes both wolves and poison gas.",
+    "Ghosts in your blood.",
+    "Giving himself brain damage to start Skyrim anew.",
+    "Insanity of cosmic proportions.",
+    "Round.",
+    "A chunk of moon.",
+    "Clearly alive, with a mechanical heart.",
+    "Philadephia.",
+    "Kanye West's Yeezy Baked Ovens™.",
+    "Deep fried memes.",
+    "Lemon zest.",
+    "All of my bones.",
+    "Grand Theft Auto V, except everyone is a frog.",
+    "My wife's favourite finger.",
+    "Filling his void.",
+    "Stapling a frog to a tree.",
+    "A baby rhino.",
+    "19% clergy, 6% nobles, 37% workers, 19% servants, and 18% soldiers and sailors.⁶⁵.",
+    "Maple surple.",
+    "Tessellating inside my butt.",
+    "You were a mistake.",
+    "Being hurled out into the expansive void.",
+    "Mom boi.",
+    "Another Michael.",
+    "Frankly terrified.",
+    "Spaghet.",
+    "Laying eggs in his brain.",
+    "Taking turns sodomizing a statue of Larry Flynt.",
+    "Attached to the tailgate and being towed behind us.",
+    "A prostate the size of a honeydew and a head full of bad memories.",
+    "Flirting with Death himself.",
+    "A crusty sock.",
+    "The guy with the tracheotomy.",
+    "Where am i?.",
+    "An endless stream of dead Uncle Dave's.",
+    "Yolo Swaggins from the Fire Shire.",
+    "Protected by laserbeams.",
+    "Triangles.",
+    "Mostly biodegradable.",
+    "Confiscated during the arrest.",
+    "All of my sins.",
+    "Malignant tumors.",
+    "Boggle?.",
+    "Geeked on speed.",
+    "Studying psychopathic behaviour only to learn that you were a psychopath all along.",
+    "Baleen whales are the largest mammals that eat the smallest organisms.",
+    "Lethal doses of ball sweat.",
+    "A happy accident.",
+    "Rustled jimmies.",
+    "Putting stairs in all of the wheelchair ramps.",
+    "Wames.",
+    "Allergy Man.",
+    "Quietly praying to Cole Sprouse.",
+    "Hawks and bdsm.",
+    "Nonexistent.",
+    "🚔ᵂᴱᴱᵂᴼᴼᵂᴱᴱᵂᴼᴼ 🚔.",
+    "A child's hopes and dreams.",
+    "Jerbs.",
+    "Being at the cool kids' table at the insane asylum.",
+    "Completely filled with landmines.",
+    "A little close to the ceiling fan.",
+    "Barely feeling it.",
+    "ᵐᵃᵏᵉ ᵗʰᵉᵐ ʷʰᵉᵉˡˢ ʳᵒˡˡ 🌪.",
+    "Angelina Jolie's missing child.",
+    "Small gnomes stealing and returning your nipples while you sleep.",
+    "S portSBALL! !!.",
+    "1 money.",
+    "Slags on me willy.",
+    "A website like match.com except serial killers are matched with people who want death.",
+    "Militant pacifism.",
+    "So autistic.",
+    "Dildo sticks.",
+    "Suffocating under Gam Gam's ass.",
+    "Screaming, forever. Screaming so much and so loud that it erodes at the marrow of your soul. It's been happening for so long that you can't remember anything but screaming. By the time you were a teenager, the shriek increased to a decibel that drove you into perpetual solitude. You became the screaming, pissing your pants and slowly dying of dehydration.  Legend has it that your corpse will scream for all of eternity.",
+    "Some dick named Brian.",
+    "Fuck off, dad.",
+    "Well-known pornstar and vigilante, Zach Galifinakis.",
+    "A fun vlog in Japan's \"Suicide Forest.\".",
+    "A shitwipe.",
+    "Fisting yourself with a live hand grenade on Twitch for $20.",
+    "So sexual.",
+    "Being a cunt online.",
+    "Fucking around and wasting your life.",
+    "Nonspecific touching."
+  ],
+  "pack": {
+    "id": "E992U",
+    "name": "chemdawg (6.66)"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 150,
+    "total": 250
+  },
+  "dateStoredMs": 1588629838711
+}

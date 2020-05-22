@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Paul Hollywood was impressed by the contestant's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "sue perkins liked _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ultimate moistness.",
+    "Moist.",
+    "Mary Berry's floofy hair.",
+    "Dropped cake."
+  ],
+  "pack": {
+    "id": "RUJA3",
+    "name": "Great British Bake Off"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1588711163402
+}

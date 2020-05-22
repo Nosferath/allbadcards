@@ -1,0 +1,515 @@
+{
+  "black": [
+    {
+      "content": "What is the first thing I will do with my invisibility? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vs. _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "LOOK OUT, IT'S _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn't find a condom, so I had to use _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During my time at Hogwarts, I discovered that my Patronus was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's big and jiggly? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on Oprah, teens addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Da-da-da-DA! You got _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how we solve world hunger.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My daily routine involves _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In two cards, describe yourself. _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It should be a goal of the human race to ensure that _ never happens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so ashamed of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear Santa, what I want for Christmas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My stripper name would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing hotter than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, I killed _. How, you ask? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Everybody loves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. Still a better love story than Twilight.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This week, Oprah is giving the studio audience something they'll never forget: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the new Olympic event.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The children sprung from their beds and ran down the stairs to find _ under the Christmas tree.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on a plane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The judge acquitted me because _ technically isn't a crime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing a woman hates more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Well, that's suspicious...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "911, what's your emergency? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once did porn, until _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who stole the cookies from the cookie jar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steven King's next book is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's that upstairs? _. That's who!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's what she said!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "4 out of 5 dentists recommend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someday I want to write a dirty fanfic about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do for a Klondike Bar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got fired from my job today. My boss caught me looking at _ on the computer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how I get rid of a boner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the best hangover cure? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love it when you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's behind a Shy Guy's mask? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Bad.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Get rid of your two worst cards. _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do I want for my birthday? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been framed for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the anti-Christ.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sore throat home remedy: 1 parts water 3 parts _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Happiness.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Silly rabbit, _ are for kids!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At first glance, _ looks fun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My signature sex move is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I caught my son _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man, fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so hyped for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey girl, you want some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was introduced to the kids' petting zoo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret 11th Commandment is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a thin line between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Describe me, the Card Czar! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems but _ ain't one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the new deadly sin? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish we had the technology for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do old people smell like? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I rule the world, how will I punish people? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't knock _ until you try it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest advancement in sex toy technology is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Part of a balanced breakfast!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar's guilty pleasure is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will cause the end of the world? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm ashamed that I traded sexual favors for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But mom, _ kills people!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vs the world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason I've gathered you all here today: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest character to the Smash Bros. 5 roster: _ Smashes in!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well shit, there's (a) _ in my ass again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the dinosaurs die? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What finally made me snap? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst part of having superpowers? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one expected _ to be the end of the world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J...just stop it. Stop _. It's not a good look.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm hungry for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I forever alone? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Give me one reason to stay here, and I'll turn right back around. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you give me some of that _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck is that? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't illegal, right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ really spices things up in the bedroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is fun for the whole family!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new hit TV show has _ and _ as roommates.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My tummy was making rumblies that only _ could satisfy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the chicken cross the road? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yup. _. That's my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Presenting the newest Disney World attraction: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A comic about _? Funnily enough, I think I've read that comic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My wrestler name would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new nickname is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the worst thing to say in a job interview? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My motto? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the newest trend on social media? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maybe she's born with it. Maybe it's _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "QYKSH",
+    "name": "Black Cards Only (Pack 3)"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 0,
+    "total": 100
+  },
+  "dateStoredMs": 1589405692136
+}

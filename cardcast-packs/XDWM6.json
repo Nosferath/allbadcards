@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "\"Prince Ali, fabulous he, Ali Ababwa! Strong as _ definitely!\" - Alladin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I can show you _. Shining, shimmering, splendid!\" - Alladin.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The world.",
+    "Ten regular men."
+  ],
+  "pack": {
+    "id": "XDWM6",
+    "name": "Disney Song Quotes"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588205954103
+}

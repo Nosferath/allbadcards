@@ -1,0 +1,98 @@
+{
+  "black": [
+    {
+      "content": "_ to nowa reforma wprowadzona w naszym kraju.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widziałem dzisiaj na mieście _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasz prezydent myśli o _ gdy jest głodny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasza nauczycielka od matmy _ patrząc na nas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stworzyłem nową postań do LoL'a. Nazwałem ją _ . Jej super mocą jest _ oraz _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hannah Montana podarowała ludziom z Afryki _ bo sądziła, że _  jest dla nich dobry/a",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jutro w bibliotece nowa wystawa znanego malarza _. Wystawa będzie dotyczyła _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mój kolega ogląda _ , bo _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ dla Ciebie, dla rodziny!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzisiejsza młodzież zamiast wychodzić na dwór _ , ponieważ  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Znasz tego nowego youtubera? Nazywa się _ i nagrywa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wycieczka szkolna została zrujnowana przez  _ , ponieważ  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dzisiaj mój kolega idzie do _ bo musi _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Nie.",
+    "Tak.",
+    "Nie chce mi się.",
+    "Telefon.",
+    "Sprzątać.",
+    "Minecraft.",
+    "Telewizor.",
+    "Simsy.",
+    "Masturbuje się.",
+    "Natura.",
+    "Jest głupia.",
+    "Kraina grzybów."
+  ],
+  "pack": {
+    "id": "2EZKE",
+    "name": "Polish Cards 2"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 12,
+    "total": 26
+  },
+  "dateStoredMs": 1588607420696
+}

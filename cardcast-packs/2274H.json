@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "When I join Isis the first thing I want to do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I join Isis? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where does Isis get their wives? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Isis get children? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Isis get the good sex?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder... Can I be shipped off to a orphanage in Iraq and be adopted by an Isis member? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where does Isis get their goats? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What kind of music does Isis listen to? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "You move to Iraq or Syria while you're 2 years old.",
+    "Kill all the children.",
+    "Joining Isis.",
+    "Salil sawarim.",
+    "They kidnapp them from Niger and take them back to claim them as their own.",
+    "Only if you're not loved from getting aborted from a coat hanger.",
+    "They go to New Zealand and spray paint ISIS on a sheep.",
+    "Fuck goats."
+  ],
+  "pack": {
+    "id": "2274H",
+    "name": "Isis."
+  },
+  "quantity": {
+    "black": 8,
+    "white": 8,
+    "total": 16
+  },
+  "dateStoredMs": 1588774190122
+}

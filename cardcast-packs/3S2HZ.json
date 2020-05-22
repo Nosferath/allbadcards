@@ -1,0 +1,128 @@
+{
+  "black": [
+    {
+      "content": "The first rule of not being seen; _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother was _ and your father smelt of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What I wouldn't give to be _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't want to work in a pet shop! I'd rather be _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Meaning of Life, part 5: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help! Help! I'm _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ and so's my wife!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crucifixion isn't so bad - could be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did I, or did I not, do, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "okay, apart from _, _ and _, what have the Romans ever done for us?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "And now for _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Weleasing Woddewick.",
+    "Requesting buttock fondling from a shopkeeper.",
+    "Elderberries.",
+    "Failing to answer a question and being pitched into the gorge of endless peril.",
+    "Bravely running away-away.",
+    "Being a knight of the round table, and dancing whenever able.",
+    "Killing each other.",
+    "Soiling my armour, twice.",
+    "Saying \"Ni!\" to you again, if you do not appease us.",
+    "Getting carried away and killing everyone and everything.",
+    "Dressing in women's clothing and hanging around in bars.",
+    "Not knowing what the capital of Assyria is.",
+    "Something completely different.",
+    "Being taunted by Frenchmen.",
+    "Live organ transplants.",
+    "A fish that went wherever I did go.",
+    "Cutting down the mightiest tree in the forest with a herring.",
+    "Competing for upper class twit of the year.",
+    "Pushing up daisies, if he hadn't been nailed to the perch.",
+    "Escaping with your own specific idiom.",
+    "Not standing up.",
+    "Painting \"Romans go home\" a hundred times, in letters 20 feet high.",
+    "Not the messiah, but a very naughty boy.",
+    "Using coconuts because you can't afford horses.",
+    "Putting it all in a bucket, with the eggs on top.",
+    "Treading in a bucket full of sick.",
+    "Fancying a little giggle when I mention my friend, \"Biggus Dickus\".",
+    "A shrubber - who arranges, designs and sells shrubberies.",
+    "Distributing coconuts by means of carrier-doves.",
+    "Learning to defend yourself from a man armed with a piece of fresh fruit.",
+    "A hamster.",
+    "Seeing the violence inherent in the system.",
+    "Having great big... ...tracts of land.",
+    "Being a lumberjack and being okay, sleeping all night and working all day.",
+    "Donating the kids to medical science.",
+    "Nearly standing up to the chicken of Bristol.",
+    "The earth, which we know to be banana shaped.",
+    "The air speed velocity of an unladen swallow.",
+    "Blowing thy foe to tiny bits with the Holy Hand Grenade of Antioch.",
+    "Answering all 3 questions and being allowed to cross the bridge of death.",
+    "Successfully negotiating the loopholes of organ donation.",
+    "Not reading all the terms and conditions of an organ donors card.",
+    "Vaginal juices.",
+    "Trying not to get arrested and accidentally starting a new religion.",
+    "Finding that your hovercraft is full of eels.",
+    "The aqueduct.",
+    "Saying \"NI!\" to old women.",
+    "Singing from the diaphragm a looooooooooooooooooooooooot.",
+    "Being so learned in the ways of science.",
+    "Being repressed.",
+    "The beast of caerbannog.",
+    "Weighing the same as a duck, therefore being made of wood.",
+    "Jumping out of the rabbit and catching them  not only by surprise but totally unarmed.",
+    "Being sacred, like the sperm that you are.",
+    "Having a watery tart throw a sword at you.",
+    "Enjoying a wafer-thin after dinner mint.",
+    "Casting aside the gourd and following the shoe."
+  ],
+  "pack": {
+    "id": "3S2HZ",
+    "name": "Monty Python"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 57,
+    "total": 68
+  },
+  "dateStoredMs": 1588786064602
+}

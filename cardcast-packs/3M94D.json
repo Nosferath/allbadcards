@@ -1,0 +1,56 @@
+{
+  "black": [
+    {
+      "content": "Kasia Międła jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wielka czarna pała _ ma moc _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Widziałem _ i była to najbardziej przerażająca rzecz w moim życiu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego _ jest taki agresywny?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wkurwiony pęchu.",
+    "Afrykańskie najedzone dziecko.",
+    "Potężny gej.",
+    "Ssanie pręta owłosionemu kuglarzowi.",
+    "Szmaciura.",
+    "Nakurwianie baranka w ściane.",
+    "Kalafior pędziwiatr.",
+    "Czyszczenie muszli zrogowaciałemu piratowi.",
+    "Dres z wielkim drągiem na czole.",
+    "Mercedes znanego gangstera.",
+    "Kabanos ocierający się o zużyty papier toaletowy.",
+    "Kasia Trocha.",
+    "Popierdolona gra w której wszyscy srają do czajnika a później robią z tego kawę.",
+    "Ruchacz bez fiuta.",
+    "Śledź prosto z łożyska.",
+    "Opierdalanie kabla czeczeńskim cyganom.",
+    "Areczek siadający na butli.",
+    "Pizgania łechtaczką na prawo i lewo.",
+    "Targanie wiewióra.",
+    "Grzebień do czyszczenia łoniaków."
+  ],
+  "pack": {
+    "id": "3M94D",
+    "name": "Polish cards"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 20,
+    "total": 24
+  },
+  "dateStoredMs": 1588607420624
+}

@@ -1,0 +1,109 @@
+{
+  "black": [
+    {
+      "content": "We will, we will, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When i was, a young boy, my father, took me into the city to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turn down for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I enjoyed this song until it was ruined for me by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my favorite new song.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This new song _ has moved me to tears.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Epic rap battles now pins _ against each other instead of historical figures.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whoa! That bass dropped harder than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest rap battle puts _ against _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Recently i have discovered a new type of music so bad it makes _ look good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ok. Our new band name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am enjoying this song. its called _. it features the famous artist _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We are number one but its _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have been traumatized by the music video for _. It features _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "D D D D Drop the _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A redeeming game soundtrack that makes up for a mediocre game overall.",
+    "Epic sax guy.",
+    "The evil creation Known as country music.",
+    "CRAWLING IN MY SKIN.",
+    "NIGHTCORE.",
+    "Lucio.",
+    "A sweet remix of game music.",
+    "A Weird Al Yankovic parody.",
+    "Hearing whats new pussy cat for the 7th time in a row.",
+    "That moment when you realize a song fits you pertfectly.",
+    "Crab scream.",
+    "An actual bass, like the fish.",
+    "Singing poorly in the shower.",
+    "Emo music.",
+    "A super sad video game soundtrack paired with a super sad scene.",
+    "The funky tunes of electro-swing.",
+    "Sweet Caroline, BUM BUM BUUUUM.",
+    "Country nightcore."
+  ],
+  "pack": {
+    "id": "X2H4J",
+    "name": "Muusic stuuf"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 18,
+    "total": 33
+  },
+  "dateStoredMs": 1589035222511
+}

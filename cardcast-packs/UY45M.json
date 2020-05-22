@@ -1,0 +1,321 @@
+{
+  "black": [
+    {
+      "content": "What about _ , does that give you the rumbly tummy too?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fondue is just _ and _ , my friend.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Remember when I made you ride the _  on Coney Island?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of these days I'm gonna have a _ of my own.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've been _ , Cap, for almost 70 years.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Howard Stark's latest invention? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Agent Romanoff is comfortable with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's stronger than steel and a third the weight.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He'd walk home every night with _ stuffed in his _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Looks like you're giving the _ now, Captain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry about this, we need to _. Everyone we know is trying to _ us.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cut off one _ , two more shall take it's place. (hail hydra)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peggy, I'm gonna need a rain check on that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schmidt believes he walks in the footsteps of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've got to get Iron Man to stop by my niece's _ party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes I think you like getting _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not gonna fight you... you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before we get _ , does anyone want to get out?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, _, and _ should have a 3 some.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Well I couldn't leave my best _ , not when she owes me a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The answer to your question is _. Unfortunately, you shall be too _ to _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Steve Rogers declares the new American past time is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The man on the bridge... who was he? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are to be the new _ of Hydra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last time I trusted someone, I lost a/an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good becomes great, bad becomes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Führer digs for _ in the desert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are going to win this war because we have the best _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well what's not damaged? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Alexander Pierce decline the Nobel Peace Prize? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I asked for a/an _ and all I got was you. You are not enough.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey fellas, either one of you know where the Smithsonian is? I'm here to pick up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can bring order to the lives of seven billion people, by sacrificing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steve Rogers thought fondue actually meant _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was that your first _ since 1945?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've knocked out _ over 200 times.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "General Patton has said that wars are fought with _ but are won by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Well, if it isn't the star spangled man with a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeez! Somebody get that kid a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It'll be fun. All you gotta do is _ and maybe _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you're gonna fight a war,  you gotta _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wonderful weather this morning, isn't it? Yes, I always carry a/an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The price of _ is _ , it always has been... but it's a price I'm willing to pay.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Not a perfect soldier, but a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because _ until the end of the line.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He'd say _ , people would say _ back.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This isn't freedom, this is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Public displays of _ make people very uncomfortable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going after Schmidt. I'm not gonna stop until the rest of Hydra is _ or _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who the hell is Bucky? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you brought a ninety-pound _ onto my army base, I let it slide. I thought \"What the hell, maybe he'd be useful to you like a _.\"",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Realizing Hydra shaved Bucky's chest but didn't give him a hair cut or wash.",
+    "Nat and Cap's hipster disguises.",
+    "Maria Hill.",
+    "Putting a gun to everyone's head and calling it freedom.",
+    "Nick Fury's scary eye.",
+    "Bucky Barnes.",
+    "Getting yanked out of a car window and then thrown at a truck on a highway.",
+    "Whispering \"hail Hydra\" in the ears of small children.",
+    "Brock Rumlow.",
+    "Tricking The Winter Soldier with modern technology.",
+    "Howard Stark.",
+    "Airconditioning is fully operational.",
+    "The Winter Soldier's fingers stuck on vibrate setting.",
+    "Taking out the Zola computer with extra strong magnets.",
+    "Steve Rogers saying \"om nom nom Murica' while eating McDonalds.",
+    "Fondue.",
+    "Singing \"Bucky take the wheel\" instead of \"Jesus take the wheel\".",
+    "That old lady that's packin' heat in the antique store.",
+    "Winter's thighs.",
+    "Injecting skinny dudes with strange blue liquid.",
+    "The Winter Soldier.",
+    "Lying on enlistment forms.",
+    "Black Widow.",
+    "Captain America.",
+    "FALCON PUNCH.",
+    "HAIL HYDRA!!!.",
+    "Natasha Romanoff's hips.",
+    "Finding out your hot neighbor is an under cover S.H.I.E.L.D agent.",
+    "Realizing that Dr. Zola is Dobby and wishing he'd iron his hands already.",
+    "Therapy with Falcon.",
+    "Playing ultimate Frisbee with Cap's shield.",
+    "Everyone's response to Steve's abs: \"God bless America\".",
+    "You're taking all the stupid with you.",
+    "My star spangled nut sack.",
+    "Steve Rogers.",
+    "Peggy Carter.",
+    "Shooting your housekeeper to keep Bucky all to yourself.",
+    "Hydra's zappy badges that'll leave a 2 inch hole in your sternum.",
+    "Hydra actually attacking you with a pocket knife.",
+    "Wondering if the Red Skull's carpet still matches the drapes.",
+    "Stucky smut.",
+    "Steve Rogers is actually a golden retriever.",
+    "Hiding a super important secret flash drive in a fucking vending machine.",
+    "Sam flying past Steve as he jogs saying \"I'm on YOUR left now, motherfucker.\".",
+    "Fucking the Winter Soldier in the brainwashing chair.",
+    "Wishing Nick Fury would have said \"surprise, mothafucka\" when Steve finds out he's still alive.",
+    "Vibrator made from vibranium.",
+    "Peggy Carter's sexy red dress.",
+    "Sexy murder strut.",
+    "Johann Schmidt's wrinkly red balls."
+  ],
+  "pack": {
+    "id": "UY45M",
+    "name": "Captain America"
+  },
+  "quantity": {
+    "black": 51,
+    "white": 50,
+    "total": 101
+  },
+  "dateStoredMs": 1589299380448
+}

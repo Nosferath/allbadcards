@@ -1,0 +1,191 @@
+{
+  "black": [
+    {
+      "content": "One hundred thousand refugees crossed the desert to escape _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fighters of Boko Haram threaten to bring _ to the West.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A renowned Muslim preacher denounced _ in favour of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ruined the afternoon prayer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People are so quick to judge they assume all _ are _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Russia promises a swift end to Islamic extremists via _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When it comes down to it, _ is just _ with a little _ mixed in.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "An Islamic wedding isn't complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is more terrifying to a Muslim than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Forgive me Allah, for I have _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When he died, Abdul finally got his reward of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ISIS held their ground in Syria for a long time, but they were eventually thwarted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The conflict between Sunni and Shiite Muslims will only be resolved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muslims and _ remain mortal enemies to this day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite the fear they cause, _ is nothing more than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing is sadder than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muhammed Al Jaheed was arrested for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was brought to its knees by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A peaceful protest calling for the acceptance of refugees turned sour when _ gatecrashed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During a Muslim boy's coming-of-age, it is tradition that he partake in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ISIS promised that the streets of the West would be filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Islam is a religion of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I urge our citizens not to give into fear at the terrorism of _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahmed Ahmed didn't like the idea of being a Jihad. He wanted to be _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In its latest propaganda video, ISIS demonstrated their unflinching resolve by _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Al Qaeda vs ISIS deathmatch.",
+    "Forced celibacy.",
+    "Heat-stroke from Burkas.",
+    "Playing Minesweeper IRL with Muslim prayer mats.",
+    "Pig foreskins.",
+    "Getting \"randomly selected\" at airports, you know why.",
+    "Screaming \"Allahu Akbar\" during TSA checks.",
+    "A soulful rendition of Saleel Al Sawarim.",
+    "Nubile Jewish slave boys.",
+    "Having a real BLAST.",
+    "Catastrophic testicular torsion.",
+    "Nubile Muslim slave girls.",
+    "Seventy two virgins.",
+    "Burning copies of the Quran onto CD.",
+    "Terrorists kidnapping women.",
+    "ISIS religious music.",
+    "The prophet Muhammed.",
+    "Nubile  Jewish slave girls.",
+    "Converting to Islam just so you can claim benefits.",
+    "The call to prayer.",
+    "Pre-arranged marriages.",
+    "Women with equal rights.",
+    "Constant urethral discharge.",
+    "Nubile Muslim slave boys.",
+    "Thinking the Muslim dude's backpack is a little too big.",
+    "A one thousand year caliphate.",
+    "Bombing the Boston Marathon.",
+    "A premature detonation.",
+    "Learning a verse from The Quran to get free stuff from Muslim shops.",
+    "Accidentally strapping party poppers to your bomb vest.",
+    "Pretending to behead someone for the banter.",
+    "Your local 7/11 cashier.",
+    "An elite strike team of Kurdish women.",
+    "A life without bacon, ham, or sausages.",
+    "A beeping backpack carried by a brown man.",
+    "An inappropriate circumcision.",
+    "Allahu Akbar.",
+    "Using neon pink sticks of dynamite.",
+    "Halal haircuts.",
+    "A loose sphincter and a tight urethra.",
+    "Ominous Islamic chanting.",
+    "Accidentally answering the wrong cell phone during a Jihad.",
+    "Circumcised dick-tips.",
+    "A penis with a thirteen inch girth.",
+    "Hiding a hand grenade in your anus.",
+    "Smacking Rakish for being dumb enough to \"practice\" a suicide bombing.",
+    "Grabbing the wrong vest before the Jihad.",
+    "Recruiting via the Suicide Hotline.",
+    "Twelve consecutive hours of goat porn.",
+    "Paying three hundred dollars for animal sex."
+  ],
+  "pack": {
+    "id": "23947",
+    "name": "Absolutely Haram"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 50,
+    "total": 75
+  },
+  "dateStoredMs": 1588367196421
+}

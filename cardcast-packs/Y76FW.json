@@ -1,0 +1,120 @@
+{
+  "black": [
+    {
+      "content": "Qua raider è un po' _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taz challengia anche se sta usando _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ non vincerebbe nemmeno un 1v1 contro _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "L'unico che poteva proporre di _ anche se c'era _ era Edopardo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dopo aver ucciso l'ultimo nemico, _ decise bene di non disinnescare la bomba.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi si è scollegato _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa hai trovato nel pacchetto da 100 vittorie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se _ entrasse in politica lo voterebbe solo _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Il passatempo preferito di _ è _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "E quando tutto sembrava andare per il meglio, _ entrò nell'obiettivo alla terrona facendosi stuprare da _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ è un po' femmina.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Luca non può venire in palestra perché deve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per assicurarsi la vittoria,  Raider decise di _ con _ all'inizio del round.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Questa merda è _!? Non lo capisco proprio!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Un dildo viola.",
+    "Pulse.",
+    "50 centesimi in monete di rame.",
+    "Giocare a Rainbow.",
+    "Mangiare un burrito.",
+    "La kuzza.",
+    "I Noi si voleva.",
+    "Un freddo porco.",
+    "Un caldo maiale.",
+    "Una torta al limone.",
+    "Giocare a ping pong.",
+    "Donald Trump.",
+    "Trastullarsi ogni sera.",
+    "Raidersbrauzzz.",
+    "Giammi.",
+    "Una montagna di sterco.",
+    "La mamma di Manny.",
+    "Jäger.",
+    "Un bambino.",
+    "Mangiare vongole cinesi scadute.",
+    "Stuprare l'ostaggio.",
+    "Il sibber.",
+    "Un pancake rosa gigante.",
+    "La Patty.",
+    "Farsi scopare la testa.",
+    "Crocodile.",
+    "Il drone di Twitch.",
+    "Crashare dal party.",
+    "Un treno a letame.",
+    "Tritare i suoi alleati.",
+    "Perdere i gunfight.",
+    "Lanciare il controller a terra.",
+    "Un vento boia.",
+    "Tachanka."
+  ],
+  "pack": {
+    "id": "Y76FW",
+    "name": "Degrado Family"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 34,
+    "total": 48
+  },
+  "dateStoredMs": 1589489433992
+}

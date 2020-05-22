@@ -1,0 +1,961 @@
+{
+  "black": [
+    {
+      "content": "Every time someone mentions DDLC, I get flashbacks of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A rare glitch in Act 2 causes _ to look like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You wouldn't like me when I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Are you doing anything?\" \"Not really man, just thinking about _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a beautiful day outside. Birds are singing, flowers are blooming. On days like these, kids like you should be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ flickers. I flicker back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I told a girl I love her, and now she's _, What do I do?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what I heard about _? She likes _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "renpy.os.remove(_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I LIKE _ SO MUCH THAT I COULD DIE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Step 1: _. Step 2: _. Step 3: Profit.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sayori likes _ in her free time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry! I'm late because I had _ to do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The universe has existed for billions of years and you somehow existed at the same time as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Theory: _ is _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "[SPOILERS REGARDING _ AHEAD]",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But before I kill you, Sayori, I must show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika left the debate club in pursuit of her life long wish, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you hate it when you realise _ isn't real?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cheer up, Sayori! At least you have _ to help you hang in there!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Theory: Is _ actually true?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And thus, today marks the day I sold my soul for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Monika talking about in the Space Classroom right now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's how I want to die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the _ Club!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've endowed _ with my scent.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why won't the _ go away?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can't handle _, you better stay away from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The thought of _ turns me on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's lilmonix3's latest tweet about? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will it take just to find _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best ending in DDLC would be an ending where you could be with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Every path leads to nothing but _.\" -Sayori",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope I won't have to see _ in 2018.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't need drugs, I'm high on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't mind me, just writing a fanfiction about _,",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dan Salvato has confirmed that the next Doki Doki Literature Club update is going to contain a whole lot of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This club is full of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Theory: _ DECODED! (Doki Doki Literature Club)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sayori... you will always be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just as predicted, the DDLC fanbase has drove \"_\" to the ground.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I drink to forget _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Project Libitina is actually about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every day, I imagine _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not Oki Doki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natsuki's poems are full of cute words and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No items. _ only. Final Destination.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the hero we all needed, just not the one we expected.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only value that Monika can't modify is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my next trick, I will pull _ out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "An exception has occurred. See _ for details.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Doki Doki Fan Club Discord proudly introduces our new channel, dedicated to discussions about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This game is not suitable for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "It's gross. She's gross. The world is better off without _ lovers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you considered _? It would be beneficial to your mental health!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IS LITERATURE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry officer, she's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ continues to expose innocent minds to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only thing that Monika can't delete is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They said we were crazy. They said we couldn't put _ inside of _. They were wrong.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like it when Papa is too tired for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eagles can fly. _ can try. But that's about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just move your hand, write your way into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spent the weekend _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Man cannot live on _ alone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll give myself paper cuts so _ enters my bloodstream.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika gave everyone a fun assignment to do today. We had to write a poem about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see strange things outside of the space classroom, but today I saw something different. Today, I saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Natsuki ran out of the classroom vomiting? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How can I write _ into reality?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IS A LIE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The year is 20XX. Everyone is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's be real, the only reason you like _ is because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yuri! Stop _ right now!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Literature Club is truly a place where _ can be found.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my hand is a pen that will write a poem of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The true villain of Doki Doki Literature Club was _ all along!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika freaked out when she looked at my browser history and found _.com/_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ 2: Electric Boogaloo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay everyone! It's time to start _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Way to leave her _, MC!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Monika hang in the back wall of the classroom this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From the same studio that brought you JoJo's Bizzare Adventure, I present to you: _'s _ Adventure!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you just accuse me of _?!?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But _ is never finished. It just stops moving.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a world ravaged by _, our only solace is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How did I lose my virginity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one would care if she was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me, an intellectual: \"Clearly _ is the best girl\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To be fair, you have to have a very high IQ to understand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hmm, this tea tastes like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Sayori's final moments, she thought about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amy likes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science will never explain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that Natsuki was actually adopted? Her real father is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we're learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natsuki's cupcake smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll be the beach that washes _ away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She kind of botched the whole \"_\" thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst part about it all? I have to clean up _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tomorrow will be brighter with _ around.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, it's not because she gets off to it. Yuri cuts herself because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the secret ingredient for Natsuki's cupcake is: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dreams of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Must you always interrupt _ with your incessant yelling?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Betcha can't have just one!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, this? It's just Monika _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll touch myself with _ over and over again!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doki Doki _ Club.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You really left her _ this morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You thought it was _, but it was me, _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's Yuri and Natsuki fighting about this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. Name a more iconic duo. I'll wait.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What never fails to liven up the party? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright everyone! I'd like to introduce a new activity to the Literature Club, cleverly titled _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan for world domination begins with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My poems are about a recent epiphany I've had about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika may look normal at first glance, but she has a strange addiction: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do I hurt all over? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natsuki says she's not cute, but _ proves otherwise.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it weird that _  kinda turns me on?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "404: _ not found.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest DDLC update to Monika's After Story introduces _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dad would beat the shit out of me if he found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah, shit, _ is here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When all else fails, I can always masturbate to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ brought the orgy to a grinding halt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After years of releasing DLCs for Doki Doki Literature Club, Team Salvato has announced their newest project, \"Codename: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She's really into _. I think it's a sexual thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a shocking plot twist, Yuri now cuts herself with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "fucking _mmmmmmmmm",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why were Sayori's fingertips bloody? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Natsuki's dad.",
+    "Leaving her hanging.",
+    "Doki Doki Literature Club's ending.",
+    "Yuri's giant rack.",
+    "Net Neutrality being repealed.",
+    "Sayori.",
+    "Mien Kampf.",
+    "Lewds.",
+    "Getting blue balled by Sayori.",
+    "Calling Team Yuri edgelords.",
+    "Underage drinking.",
+    "A reason to live.",
+    "Staying with Monika in the space classroom forever.",
+    "Yuri's bottle of wine.",
+    "Suicidal girls.",
+    "Using a noose as a neckwarmer.",
+    "The FBI.",
+    "Doki Doki Literature Club.",
+    "Yuri's back pain that is TOTALLY caused by her reading posture.",
+    "Child Protective Services.",
+    "How dense Protag-kun is.",
+    "DDLC.exe.",
+    "Team Salvato.",
+    "\"I gently open the door.\".",
+    "Sayori hanging the Chrismas decorations.",
+    "The Lady who Knows Everything.",
+    "Liking 3D girls.",
+    "A lolicum.",
+    "Psychological horror.",
+    "The festival.",
+    "Protag making everything worse than they already are, as usual.",
+    "Just Monika.",
+    "Fatsuki.",
+    "The delete button.",
+    "Dan Salvato.",
+    "Monika.chr.",
+    "Endowing things with your scent.",
+    "Engaging in blood play with Yuri.",
+    "Bulli-ing someone to death.",
+    "Justifying the equivalent of murder because \"They weren't real\".",
+    "Theorizing about DDLC's sequel even though Dan Salvato has made it clear that their next project doesn't involve DDLC.",
+    "Everyone's favorite character, MC.",
+    "Unoriginal jokes.",
+    "Sayori's death scene except she's dabbing.",
+    "Lolis.",
+    "The Dark Soul of Visual Novels.",
+    "All the girls in the Literature Club getting uncomfortably close to you.",
+    "Practicing piano.",
+    "Uploading their consciousness onto the digital realm just so they could be with Monika forever.",
+    "Breaking the 4th wall.",
+    "Yuri's bloodshot eyes staring deep into your soul.",
+    "The sound of your heartbeat.",
+    "Oolong tea.",
+    "Asking Natsuki's dad for his approval.",
+    "Sniffing glue.",
+    "Traps.",
+    "Yuri R34.",
+    "Dancing.",
+    "The fact that Monika knows when you look up lewds of her.",
+    "Snapping her neck 90 degrees to the left.",
+    "\"....Haah.....haah....\".",
+    "Act 2 Yuri fans.",
+    "Exposing innocent minds to a horrific reality.",
+    "Cute anime girls with depressing backstories.",
+    "The biggest pen you've ever seen in your entire life.",
+    "Pulling someone's skin open and crawling inside them.",
+    "\"The person above triple gay\" memes.",
+    "Parfait Girls erotica.",
+    "Yuri's reading posture.",
+    "Daddy Salvato.",
+    "The fact that Monika is an anagram of Konami.",
+    "Arguments about which Doki is best Doki.",
+    "Doki Doki Literature Club: The Musical.",
+    "Natsuki R34.",
+    "Getting promoted to club president, realising that the world isn't real and everything that you have ever loved is fake.",
+    "Beating Natsuki so hard that she cries out \"daddy\".",
+    "Bringing underage girls to my house and assaulting them.",
+    "A heartfelt confession to your childhood friend.",
+    "Rainclouds.",
+    "Getting right into the noose.",
+    "Yuri castrating Protag with one of her many knives.",
+    "Hella gay.",
+    "Idiots who thinks that the DDLC Game Theory is fact.",
+    "Reading the disclaimer.",
+    "Just the tip.",
+    "Deleting monika.chr.",
+    "My best friend, Sayori.",
+    "Being fat and stupid.",
+    "Straining yourself.",
+    "Vegetarians.",
+    "The biggest, blackest pen.",
+    "Monikinky.",
+    "Realizing that the DDLC OST is just one song remade in different ways.",
+    "League of Lolis.",
+    "Your Reality.",
+    "Yuri stabbing herself over and over again.",
+    "Monika.",
+    "The deletion of #waifu-wars.",
+    "Happy thots.",
+    "This world of infinite choices.",
+    "How long Natsuki's neck is.",
+    "A big black pen.",
+    "The shards of Sayori's broken happiness.",
+    "PICKLE RIIICK!.",
+    "Natsuki's deadbeat father.",
+    "MechaMonika.",
+    "Memes.",
+    "Flat-chesters.",
+    "Monika's giant sack.",
+    "Cutting yourself.",
+    "Monika's child-bearing hips.",
+    "Suicidal thoughts.",
+    "\"...Sayo-\".",
+    "How superior Monika is compared to the other girls.",
+    "Knowing fully well that whatever you do, she dies anyways.",
+    "Saying \"I love you.\".",
+    "The same rope that Sayori used to kill herself.",
+    "The Thot Destroyer™.",
+    "Best girl.",
+    "Worst waifu.",
+    "The feeling of being deleted from existence.",
+    "Sayo-nara.",
+    "Cupcake mix.",
+    "Yuri's decomposing body.",
+    "A poster of my dead best friend.",
+    "Yuri and Natsuki making out at the bookstore during Act 4.",
+    "Sayori's happiness.",
+    "Doki Doki Literature Club's happy ending.",
+    "Fellating the icing off of Natsuki's fingertips.",
+    "Turning the game off and on over and over again just to mess with Monika's feelings.",
+    "Yuri.",
+    "MC's sad life without Sayori.",
+    "Natsuki being underage.",
+    "#natsuki-memers.",
+    "A nice weekend.",
+    "Gay.",
+    "The smaller, whiter knife.",
+    "Traceback.txt.",
+    "A Sub/Dom relationship with Monika.",
+    "A knock on the door from the FBI.",
+    "Mommy Monika.",
+    "Fondling.",
+    "Posting low-effort memes onto /r/DDLC for quick karma.",
+    "A malnourished girl with daddy issues.",
+    "Sans.",
+    "Sayori's hanging.",
+    "C E A S E  N O  B U L L I.",
+    "Looking for coins under the vending machine.",
+    "Daddy issues.",
+    "Deleting everyone else so I can be with you.",
+    "The life-long debate of whether Natsuki is a trap or not.",
+    "Incredibly cute girls.",
+    "Selling my soul for a cupcake.",
+    "The DDLC Dialogue Generator.",
+    "Getting erased from existence.",
+    "Getting pregnant, with Protag-kun being the father.",
+    "Severe malnourishment.",
+    "S̻W̺̬̘̭͚͓̺Y̹̩̱g̗͇̬̭͈e̤̞ͅW9̖̭̪̹͓1̹̹I͏̪̣̤G̶̩Z̲̻̩̻v̠̰͈̥̰d̙͖̫͈W5̴̯̳̜ͅͅk͉̙̲I̩̱̣͓H̤̭̤̲͇̘͟R̯̪͎̮̘͕ͅo̲͟a̦̟̜̣͍͍̯͟X̪͔͉͎M͖̲g̺b̜̼̖m̢̬̱9̟͉̻͍0̼̭̱̣͈̞ͅZ̙S̗̦̻͖̩̦͞Bp̘̲̝̩̰̝͔b͖͓̺͕̱̙̥ị̩͞ͅB̭̰̖̪̺̲ͅh̗̭̦͈̳̦Í̬̼H̯̻̼͍N̛t̟̻Y̭̖̮͓̝̩̞͞W͖̤̱̪̼͠x̷͓͇̗̺̼̞s̨̝͖I̞̲̥͕̲̗ͅH̀d̷̫̻̲̼̗͍͓v̱̦̳͢b̟2̝̪̟̦̤R̛͈̙̹͔̲̠ḻ̭̠͙͇̤͕b̘̥̼i͉̠B҉͎̭̟͚i̘̦̬͇͔̱̣͠b̳̞̟̪3͚͙̗͚̳͍͟g̛̩̮̻̝̥̝ͅg̸̳̱̘̞͇d̵͍̠̖̩2l͏0à̯C̫͔̣B̭̬͎̭͍ͅh҉̗̹̜͖̟̮̖I̳͔̺̬ͅG̹͔h̼̺͙̫̥̱̻l͓̭͍̣̟̀ͅY̻̟̮͕̟̘X̡̟̰͈̦̮̲̞J͇͙̥͝0͍̣̝͎̰ͅĮ̫G̫̫̲̱͙͇̗9̨ų̭ͅI͏͕̜G̩̬l͞0Ḷ̤̭̩͕C͙̠̙͍͍ͅB̘0̨̺̥̩̰̥͉̟a̡̦̯͚G͓̰V͏͖̗͕͎u̸͕̜͔̤̳̙I̪̦͓͠.",
+    "The DDLC Fan Club Discord.",
+    "2D women.",
+    "Protag-kun.",
+    "Buffsuki.",
+    "Trying.",
+    "Hxppy thxughts.",
+    "Cutting myself on that edge.",
+    "The bigger, blacker pen.",
+    "Killing themself.",
+    "Taking a 10-minute Python tutorial.",
+    "Paper cuts.",
+    "Just Sayori.",
+    "Not being there for her when she needs it the most.",
+    "Monika's crippling existential crisis.",
+    "All good times coming to an end.",
+    "Monika's thighs.",
+    "Going to kill herself no matter what you do.",
+    "The teddy bear in Sayori's room.",
+    "MatPat's latest DDLC theory.",
+    "Thots.",
+    "The strange beauty of Yuri's knife collection.",
+    "The thought that no matter what you try to do, there is no real happy ending in Doki Doki's Literature Club.",
+    "Dead bodies of Yuri's previous lovers.",
+    "Natsuki.chr.",
+    "#waifu-wars.",
+    "A piano.",
+    "Sayori's will to live.",
+    "A pen that will write a poem of me and you.",
+    "Judging a bookkkkkkkkkkkkkkkkk kkkkk kk k k k k k.",
+    "Visiting your friend with crippling depression.",
+    "The police station.",
+    "Dan Salvato saying that all the girls in DDLC are 18 to avoid getting into legal trouble.",
+    "Natsuki's dad's cooking.",
+    "Death.",
+    "The Anti-Bulli Proteccion Squad.",
+    "Yuri's massive knife collection.",
+    "The Recycle Bin.",
+    "DDLC body pillows.",
+    "Yuri's love juices.",
+    "Natsuki.",
+    "Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of.",
+    "Sayori.chr.",
+    "Not knowing how to love you, therefore leaving you be.",
+    "Yuri padding her bra.",
+    "Being trapped in a religious camp that was turned into a human experiment prison and turning into killing machines that lust for blood.",
+    "Yuri.chr.",
+    "Crippling depression.",
+    "Wanting breakfast.",
+    "Ness.",
+    "Necrophilia.",
+    "The same hanging meme reposted for the 134th time.",
+    "EXTRA THICC.",
+    "Natsuki's erotic manga collection.",
+    "Trapsuki.",
+    "A sticky pen.",
+    "Tea leaves infused with the blood of Yuri's enemies.",
+    "Hanging on a thread.",
+    "Sayori's limp body hanging from the ceiling.",
+    "Sayori accidentally hanging herself along with the Chrismas decorations.",
+    "Yuri's CS:GO knife collection.",
+    "A poem that is literally 20 random words put together onto a piece of A5 paper.",
+    "Post-DDLC depression.",
+    "Doki equality.",
+    "Playing a KNIFE on a BREATHING RIBCAGE.",
+    "Monika admitting that she has, in fact, granted kids to hell.",
+    "Monika's Ultra HD futanari cock.",
+    "Natsuki uncontrollably guzzling cum.",
+    "Gay ass fanfictions of Yuri x Natsuki.",
+    "Licking the blood off of your crush's fingertips after he accidentally cuts himself.",
+    "The Holocaust.",
+    "Calling everyone on Team Natsuki pedophiles.",
+    "Monika's shitty basic bitch piano song.",
+    "Being covered in Yuri's suicide blood.",
+    "Yuri's blood-and-piss stained poem.",
+    "Suicide.",
+    "Natsuki's tiny trap penis.",
+    "Yuri shoving a knife up her vagina because it turns her on.",
+    "Using Sayori's corpse as a punching bag.",
+    "A wannabe edgy bitch.",
+    "Sayori's failed suicide attempt.",
+    "A doujinshi about tentacle rape.",
+    "How sad I am after playing Doki Doki Literature Club.",
+    "Getting that sweet sweet cupcake pussy.",
+    "Violently fucking Sayori's corpse.",
+    "Getting naked and watching Sayori's suicide over and over again.",
+    "Finding Sayori's dead body in the Japanese Suicide Forest.",
+    "The knife that Yuri used to stab herself after confessing to you.",
+    "The cancerous shitstorm that is #natsuki-memes.",
+    "Protag-kun's flaccid penis.",
+    "Friendzoning someone to suicide.",
+    "Committing suicide.",
+    "Natsuki's underage pussy.",
+    "Monika's Bad Dragon Dildo™ collection.",
+    "Natsuki's dad beating the living shit out of her.",
+    "Monika futa porn.",
+    "Pinning Sayori against the wall and fucking the living daylight out of her until she is unconscious then making it so it looks like she killed herself.",
+    "Nazis.",
+    "Another fucking weeaboo.",
+    "A really fucked up visual novel/dating sim.",
+    "Furiously cutting herself while masturbating with my pen.",
+    "Touching yourself with the pen you stole from your crush.",
+    "Realizing the song that plays when Sayori dies is a fucking pun.",
+    "Fucking Yuri's self-inflicted stab wounds.",
+    "Faggots.",
+    "Suffocating on Protag's dick.",
+    "Fucking Monikammmmmmmmm.",
+    "Monika joking about Sayori's suicide over and over again.",
+    "Sayori bondage porn.",
+    "A wannabe edgy bitch.",
+    "That one fucked up fanfiction of MC violating Sayori's dead body.",
+    "How much DDLC R34 there is and how you sick fucks need to die.",
+    "Posting screenshots of Monika After Story dialogue onto /r/DDLC for free karma."
+  ],
+  "pack": {
+    "id": "STHA2",
+    "name": "Doki Doki Cards Against Humanity Club: Main Deck"
+  },
+  "quantity": {
+    "black": 135,
+    "white": 270,
+    "total": 405
+  },
+  "dateStoredMs": 1589422725704
+}

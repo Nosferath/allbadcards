@@ -1,0 +1,101 @@
+{
+  "black": [
+    {
+      "content": "Nobody:       Cameron: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Country boy, I _ you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whoever threw that paper, your mom's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Mom: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Dad: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Olivia: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Road work ahead, ugh yeah, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ooooooooo, that boi needs some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Mollie: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two bros, chilling in a hot tub, 5 feet apart because _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, welcome to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ STAYS _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is my sleep paralysis demon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Hannah _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody:     Dylan: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Oooof.",
+    "Reee.",
+    "Fat Oof.",
+    "The Younglings.",
+    "Ooof.",
+    "Ooooooooooooof.",
+    "Concerned Reee.",
+    "Asthmatic Coughing.",
+    "Oof.",
+    "Die Pellopear."
+  ],
+  "pack": {
+    "id": "YPMG4",
+    "name": "VINES"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 10,
+    "total": 25
+  },
+  "dateStoredMs": 1589567172052
+}

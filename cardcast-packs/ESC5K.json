@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Zeus decided to make love to _ today.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ESC5K",
+    "name": "Greek Mythology"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588668441382
+}

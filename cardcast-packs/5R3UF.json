@@ -1,0 +1,126 @@
+{
+  "black": [
+    {
+      "content": "Hospitals, grocery stores, and _ are not subjected to quarantine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My job said _ was not possible, but changed their mind when the pandemic happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Day one of quarantine: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight's balcony mass-performance: a rousing rendition of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walmart is out of toilet paper, _ , and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What cures coronavirus? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh my god and they were _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finally, due to the pandemic, republicans agree to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a hot spot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Just quarantine things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "the only thing saving my mental health right now is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Just covid things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're 35 and healthy, Karen, you don't need _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buying an excess of frozen goods, running out of storage, and instead of donating them _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To avoid spreading covid-19, try not to touch _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING: Covid-19 may be transmitted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his latest tweet, President Trump blamed the coronavirus on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week _ contracted Covid-19.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Watching every show available on Hulu.",
+    "The inevitable baby boom of December 2020.",
+    "A five pound bag of lentils.",
+    "Fighting over the last roll of toilet paper as your family starve.",
+    "Sanitary alternative greetings.",
+    "The threat of a handshake.",
+    "A second press conference to correct the lies of the first press conference.",
+    "Baptizing your child in purel.",
+    "Being supplexed in a Walmart over shelf stable goods.",
+    "Sharing custody of the one surgical mask.",
+    "Instant mac and cheese.",
+    "Writing quarantine AU smut.",
+    "Infected elevator buttons.",
+    "More frozen meals than you can shake a stick at.",
+    "An improperly fitting n95 mask.",
+    "Stealing pocket sized sanitizer off of the backpack of a child.",
+    "Treating corona virus with essential oils.",
+    "Drinking hand sanitzier.",
+    "Still attending therapy during the apocalypse.",
+    "Coughing into your hand before opening a door."
+  ],
+  "pack": {
+    "id": "5R3UF",
+    "name": "quarantine against humanity"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 20,
+    "total": 38
+  },
+  "dateStoredMs": 1589566855396
+}

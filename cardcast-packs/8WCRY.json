@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "Yo Danny Fenton he was just 14 when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not gay if he's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who you gonna call? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who cares for a _ like you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Phantom never leaves without _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Tucker Foley.",
+    "Fentonworks.",
+    "Danny Fenton.",
+    "Pink pants.",
+    "Obsession.",
+    "Fenton thermos.",
+    "Fenton anti-creeper stick.",
+    "Half dead memes.",
+    "Singing the entire Danny Phantom theme song.",
+    "Sam Manson.",
+    "Half-dead."
+  ],
+  "pack": {
+    "id": "8WCRY",
+    "name": "Danny Phantom Phandom"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 11,
+    "total": 16
+  },
+  "dateStoredMs": 1589357570090
+}

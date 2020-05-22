@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "BOOGITY BOOGITY BOOGITY! LET'S GO _ BOYS!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! And we have a caution!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brad Keselowski's horse face."
+  ],
+  "pack": {
+    "id": "HCT79",
+    "name": "NASCAR"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1589002473225
+}

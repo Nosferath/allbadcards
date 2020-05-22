@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "I will never forgive the Japanese! But...I do love my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? It must be the work of an enemy Stand!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your next line will be \"_\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GERMAN _ IS THE BEST IN THE WORLD!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is my Stand's power? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have to destroy a _ everytime I use my Stand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's time for Joestar Family Technique: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Stand Proud doesn't go with is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trapped in the cold depths of space, _ eventually stopped thinking altogether.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You thought JoJo would be your first kiss, but it was me, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I regret shipping _ and _ before I found out she was his mother.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How many _ have you eaten in your life?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than Joseph Joestar's history with planes is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Silver Chariot.",
+    "Esidisi.",
+    "Green Heirophant.",
+    "MUDAMUDAMUDAMUDA.",
+    "Lisa Lisa.",
+    "Posing.",
+    "ORAORAORAORAORAORAORAORA.",
+    "EMERALD SPLASHU.",
+    "ZA WARUDO.",
+    "Star Platinum.",
+    "Mohammod Avdol.",
+    "Dio.",
+    "Dubstep squirrels.",
+    "Joseph Joestar.",
+    "The Joestar birthmark.",
+    "Peeking on your naked mother.",
+    "Jean Pierre Polnareff.",
+    "Whammu.",
+    "Speedwagon.",
+    "RERORERORERORERORERO.",
+    "The Speedwagon Foundation.",
+    "Noriaki Kakyoin.",
+    "The burnt  corpse of Danny.",
+    "Caesar Zeppeli.",
+    "Will A. Zeppeli.",
+    "Kars.",
+    "Hirohiko Araki's strange obsession with posing.",
+    "Jonathan Joestar.",
+    "Speedwagon's abs of healing.",
+    "Magician's Red.",
+    "Rudol von Stroheim.",
+    "Joseph Joestar in drag.",
+    "Stopping midway through a fight to have a good cry."
+  ],
+  "pack": {
+    "id": "2BYUR",
+    "name": "Cards Against JoJo"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 33,
+    "total": 46
+  },
+  "dateStoredMs": 1589392497721
+}

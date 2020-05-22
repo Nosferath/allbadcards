@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Nigdy nie przypuszczałem, że _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PashaBiceps to tak naprawdę _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak naprawdę _ był tylko zwykłym frajerem zanim został _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sosnowiec to miasto grzechu i _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brutalnego seksu.",
+    "Tutaj nic nie ma i nie będzie.",
+    "Prostytutką.",
+    "Li Seen.",
+    "Zwykły frajer i pustak."
+  ],
+  "pack": {
+    "id": "643R6",
+    "name": "[PL] PlayForFun"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 5,
+    "total": 9
+  },
+  "dateStoredMs": 1588607420526
+}

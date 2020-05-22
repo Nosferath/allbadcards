@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "Krish crashed the Minecraft server by teleporting _ to _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Farbod's calves are massive, but I think _ would give him a run for his money",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the worst thing about Arsovan's class",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zain's favorite book to eat is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sid just spent 20 fucking minutes getting _ to eat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ice outside be blacker than _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you for calling tech support this is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've heard of light up sketchers, now get ready for light up _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than Matt's tiktoks is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maanav ran out of shampoo. Luckily he has _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mutu grind.",
+    "Max's Physics grade.",
+    "\"I Will Survive\" by Gloria Gaynor.",
+    "Zain's bald head.",
+    "Thangababu.",
+    "Sid's pecs.",
+    "Northview High School's Honor Code.",
+    "Max's dollar store mouse.",
+    "Koen's sharpie hair.",
+    "Baddie.",
+    "Mastering Physics.",
+    "Krish's fresh fade.",
+    "Supranavja.",
+    "Jasmine and Jafar.",
+    "Krish's soundboard.",
+    "All 2.4 million of Zain's n-words."
+  ],
+  "pack": {
+    "id": "UMAVB",
+    "name": "chat of people"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 16,
+    "total": 26
+  },
+  "dateStoredMs": 1588310455981
+}

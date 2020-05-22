@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "_. Choca los 5, papá.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Choca los 5, papá.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "No ponerla nunca."
+  ],
+  "pack": {
+    "id": "3B5EP",
+    "name": "EspañolesAgainstHumanityAndCorona"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588806684112
+}

@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "I WANT MAX AND CHLOE TO _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chloe sees Max as a/an  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That time when Max saved _ in the bathroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chloe actually wanted to _ when Max kissed her.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Max feels _ towards Chloe.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "_.",
+    "_.",
+    "Victoria.",
+    "Nathan Prescott.",
+    "Max Caulfield.",
+    "Chloe Price.",
+    "Marry and have children until death does them apart."
+  ],
+  "pack": {
+    "id": "HW76A",
+    "name": "Life Is Strange"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 7,
+    "total": 12
+  },
+  "dateStoredMs": 1589493239978
+}

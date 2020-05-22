@@ -1,0 +1,130 @@
+{
+  "black": [
+    {
+      "content": "Wouldn't it be the day to see _ brought back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would never let so many _ into my country!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can tell ISIS _ your mom's _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I bet _'s compound smells like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I think of Palestine, I think of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Israel needs to _ itself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I believe it's time to call a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where were you when 9/11 Happened?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man it sucks that a _ happened in Paris.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man, Obama really needs to stop _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't hate Jews, I just want to _ them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't really want to take part in this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I saw that Arab get on my plane, I feared a _ would happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would really like to go to see the _ right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When we attacked Syria, I never thought I would see so many _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I heard about 9/11, all I could think about was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jewish Occupation.",
+    "The Benghazi Attacks.",
+    "Rashid the Syrian Refugee.",
+    "Mass Exodus.",
+    "Islamic Jihad.",
+    "The Hajj.",
+    "Waterboarding.",
+    "Osama Bin Laden.",
+    "Sub-Saharan Child Soldiers.",
+    "Dirty Infidels.",
+    "Screaming \"ALLAHU AKBAR!\" while flying a Boeing-747 into the WTC.",
+    "Palestinian Bombing.",
+    "Terrorist Hijacking.",
+    "Raping all the women in the village.",
+    "Genocide.",
+    "Nubian Slaves.",
+    "Al-Qaeda.",
+    "Saddam Hussein.",
+    "Castrate.",
+    "12 Lbs. of C4.",
+    "A lot of dead Jews.",
+    "12 Hairy Camel Jockeys shouting at a camera.",
+    "The rise of ISIS.",
+    "Observing Ramadan.",
+    "The Anal Umbrella.",
+    "Flying a Boeing-747.",
+    "A Strategically placed I.E.D.",
+    "The Quran.",
+    "Israeli Agenda.",
+    "72 Virgins.",
+    "Abu Bakr Al-Baghdadi.",
+    "Syrian Refugees.",
+    "My Scimitar.",
+    "Anonymous bomb threat."
+  ],
+  "pack": {
+    "id": "A7YU7",
+    "name": "ISIS Pack"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 34,
+    "total": 50
+  },
+  "dateStoredMs": 1588716547632
+}

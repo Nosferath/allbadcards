@@ -1,0 +1,74 @@
+{
+  "black": [
+    {
+      "content": "I opened the curtains after school one night and saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your rival gets the lead role, what is your plan to dispose of them? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uh.. I just found a cockroach in my costume.. can someone help me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I accidentally walked on stage when it wasn't my cue, and someone wacked me with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I _ on stage and the crowd _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why do you always wear black clothes? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "UGH! I can't believe I have to kiss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I gotta be off-book by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Puking on stage.",
+    "Timothée Chalamet.",
+    "Canned laughter.",
+    "Wearing jeans under your sweatpants.",
+    "Failing accents.",
+    "Grieving over the fact that a cockroach wears it better than me.",
+    "Getting confused between stage right and audience right.",
+    "Mr. Davidson.",
+    "Stage right.",
+    "The audience just left.",
+    "Being called emo.",
+    "Crying on the floor behind stage.",
+    "SDF's.",
+    "Screams.",
+    "The crowd throwing roses.",
+    "Falling offstage.",
+    "Wearing stage curtains.",
+    "Coming onstage at the wrong time."
+  ],
+  "pack": {
+    "id": "UABMN",
+    "name": "lag kiddos: drama major edition"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 18,
+    "total": 26
+  },
+  "dateStoredMs": 1588277800639
+}

@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "The Gang Finds _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Gang gets _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: A National Concern",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Making a mess all over the city",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Sets _ On Fire",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mac Bangs: _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mac.",
+    "Dennis' Mom.",
+    "Lethal Weapon 6.",
+    "Lethal Weapon 7.",
+    "Kitten Mittens.",
+    "Nightman.",
+    "The Gang.",
+    "The D.E.N.N.I.S System.",
+    "Danny Devito.",
+    "Underage Drinking.",
+    "Ronald McDonald.",
+    "The Waitress.",
+    "Cricket.",
+    "Frank.",
+    "Charlie Kelly.",
+    "Dennis.",
+    "Dayman.",
+    "Sweet Dee.",
+    "A dead guy."
+  ],
+  "pack": {
+    "id": "45EUE",
+    "name": "Cards Against The Gang"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 19,
+    "total": 25
+  },
+  "dateStoredMs": 1588447445009
+}

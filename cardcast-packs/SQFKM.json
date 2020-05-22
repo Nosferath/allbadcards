@@ -1,0 +1,204 @@
+{
+  "black": [
+    {
+      "content": "Everything changed after_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scandinavian food is basically the same thing as_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is more useless than the WHO",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sharknado 9:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The school trip was ruined by_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is bringing sexy back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fight of the century: _ vs _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best thing since sliced bread has to be_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather eat Chinese bat soup than try_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kids these days can't get enough of_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Kim Jong ill?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. Name a more iconic duo. I'll wait.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nick Wells can't go a day without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looking forward to the new hit, _: The Musical",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And on the third day, God said let there be_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it a bird? Is it a plane? No it's_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's lighter than Victor Bakker? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The true cause of Coronavirus was_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Manson murders.",
+    "Death by mortar.",
+    "Poorly timed 9/11 jokes.",
+    "Ben Shapiro podcasts.",
+    "Turtling.",
+    "South East Asian diets.",
+    "Budgie's tongue.",
+    "Oedipus.",
+    "Lady and the Tramp featuring Michael Vick.",
+    "Social Darwinism.",
+    "Wellsy's receding hairline.",
+    "The King of clammy hands.",
+    "A period in a Tarantino movie.",
+    "Michael Jackson survivors.",
+    "Gravesandy.",
+    "Dr Lloyd's banana.",
+    "Child protection services.",
+    "NFL concussions.",
+    "Dropping the soap.",
+    "The minor technicality of the Great Leap Forward.",
+    "Workers' rights in the Third World.",
+    "Africans.",
+    "Harvey Weinstein's casting couch.",
+    "The Fall of Saigon.",
+    "VE Day in Germany.",
+    "Casper's resemblance to Stella.",
+    "The Nuremberg Trials.",
+    "Nagasaki.",
+    "The long term effects of Columbus' voyage.",
+    "Iraq war veterans.",
+    "Teenage Mutant Ninja Bats.",
+    "Necrozoophilia.",
+    "The glory of the British Empire.",
+    "Natural Selection.",
+    "President Xi's electoral rivals.",
+    "Dementia.",
+    "African Americans.",
+    "Ritual disembowlment.",
+    "Burgess' sweaty palms.",
+    "The Turkish Republic of Northern Cyprus.",
+    "Harvey Price's future career prospects.",
+    "Rusty tromboning.",
+    "Edgy memes for prepubescent teens.",
+    "The gender pay gap.",
+    "Chernobyl mutant babies.",
+    "Mao and Stalin's combined death count.",
+    "Bracton Law Society.",
+    "Three way vibrators.",
+    "AR-15 rifles.",
+    "Fidel Castro's pubey beard.",
+    "Fudge krinkles.",
+    "The continuous rejection of the Armenian Genocide.",
+    "Foot fetishes.",
+    "Necrophilia.",
+    "Victor's knobbly knees.",
+    "The slums of Detroit.",
+    "Casper's asian heritage.",
+    "Spanish conquistadors.",
+    "Percy's survival chances in North Korea.",
+    "Mia Khalifa.",
+    "Kony 2020?.",
+    "Anders Brevik.",
+    "OJ Simpson.",
+    "African child soldiers.",
+    "Tigers with Down's Syndrome.",
+    "Blowing up Anne Frank's house.",
+    "Prince Andrew's favourite Pizza Express.",
+    "Gay marriage in Palestine.",
+    "Amputees.",
+    "Little beasty.",
+    "Brazzers.",
+    "Miscarriages.",
+    "Vincent Macalik.",
+    "Amy Winehouse's nostrils.",
+    "The Texas Chainsaw Massacre.",
+    "Adam Johnson.",
+    "Flushing Chinese babies down toilets.",
+    "Saudi Arabian flying lessons.",
+    "Sascrotch.",
+    "Hiroshima.",
+    "The newly appointed head of the Saudi Arabian military.",
+    "Native Americans celebrating thanksgiving.",
+    "Jimmy Saville.",
+    "Donald Trump's Mexican restaurants.",
+    "Racist Chelsea fans.",
+    "The KKK.",
+    "Columbine.",
+    "Sauerkraut.",
+    "Pretending to give a shit.",
+    "Tentacle porn.",
+    "Anal fissures.",
+    "Nazis.",
+    "The Holocaust.",
+    "Revenge porn.",
+    "Jeremy Corbyn and Diane Abbott's sex tape.",
+    "Granny porn.",
+    "Swiss Nazi gold.",
+    "Scientologist alien sex slaves."
+  ],
+  "pack": {
+    "id": "SQFKM",
+    "name": "Wellsy"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 98,
+    "total": 116
+  },
+  "dateStoredMs": 1589055945826
+}

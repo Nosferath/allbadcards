@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Why should you go to Tem Shop? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why won't the rock move on the switch? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Papyrus's Cool Song.",
+    "A mysterious artifact."
+  ],
+  "pack": {
+    "id": "8KYSG",
+    "name": "Undertale (Shrilleth)"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588648322337
+}

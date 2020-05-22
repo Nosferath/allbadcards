@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "La vita e' nulla senza _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Acqua.",
+    "Pizza."
+  ],
+  "pack": {
+    "id": "Q6N5N",
+    "name": "CartePazze"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588509152599
+}

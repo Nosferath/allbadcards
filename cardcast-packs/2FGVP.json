@@ -1,0 +1,129 @@
+{
+  "black": [
+    {
+      "content": "Some may call this junk. Me, I call them _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got to thinking. Maybe I'm  _ and I just don't know it yet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They say Ulfric MURDERED the High King... With his _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me guess: someone stole your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not a man, I'm a _ in human form.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My cousin is out fighting dragons, and what do I get? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite drinking buddy! Let's get some _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where did my horse go? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another adventurer, here to lick my father's _. Good job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Psst! I know who you are... Hail _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You see those warriors from Hammerfell? They've got curved _. Curved. [same card].",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to be an adventurer like you. Then I took  _ to the knee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you get to the _ District very often? Oh, what am I saying? Of course you don't.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nords' armor has lots of _. This sometime makes M'aiq nervous.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boys, girls, dogs, _, there's nobody I won't fight!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd be a lot warmer and a lot happier with a belly full of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stealing someone's valuables and selling them back to them.",
+    "Tainted mead.",
+    "Thu'um.",
+    "The Greybeards.",
+    "A giant punting your dead body into the air.",
+    "The Dragonborn.",
+    "Stealing the clothes off of dead bodies.",
+    "The Cloud District.",
+    "Changing your race to horse, trying to mount your horse, and crashing the game.",
+    "Clipping through the ground and falling into the void.",
+    "Mead.",
+    "Treasures.",
+    "It's a feature, not a bug.",
+    "Bethesda bugs.",
+    "The stuck-item noise.",
+    "Unnecessary hunting.",
+    "Guard duty.",
+    "An arrow.",
+    "Fur.",
+    "Taking an arrow to the knee.",
+    "Elders.",
+    "Theft.",
+    "You are carrying too much to be able to run.",
+    "Sweetrolls.",
+    "Draugr.",
+    "Fus roh dah!.",
+    "Curved swords.",
+    "Eating 21 whole cheese wheels mid-battle.",
+    "Losing your horse.",
+    "Sithis.",
+    "Putting buckets on NPCs' heads.",
+    "Resurrecting your horse.",
+    "Resurrect."
+  ],
+  "pack": {
+    "id": "2FGVP",
+    "name": "Skyrim"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 33,
+    "total": 49
+  },
+  "dateStoredMs": 1589074574000
+}

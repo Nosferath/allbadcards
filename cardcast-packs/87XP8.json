@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "Nas reuniões do AA eu gosto de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu fico acordado à noite pensando em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No dia dos namorados eu gosto de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando eu vou no shopping Serra Sul eu gosto de ver _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "EU sOu JoÃo MaRcElO.",
+    "Ser prensado.",
+    "Como eu não deveria ter dispensado a menina do shopping.",
+    "Yuki.",
+    "Lasanha de pedra.",
+    "Pizza de frango com catupiry sem milho.",
+    "Estar sozinho.",
+    "A Júlia Maria comendo no balcão do Burger King."
+  ],
+  "pack": {
+    "id": "87XP8",
+    "name": "AA: Volume 1"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 8,
+    "total": 12
+  },
+  "dateStoredMs": 1588882823364
+}

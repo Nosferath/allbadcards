@@ -1,0 +1,91 @@
+{
+  "black": [
+    {
+      "content": "So lange in _ Cheaten bis man gebannt wird.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Kerbal Space Program _ bauen um zum Mün zu fliegen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein Mod für Rimworld, der _ hinzufügt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eine Rüstung aus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pandora muss vor _ gerettet werden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wurde als neues Monster in Monster Hunter World eingefügt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Claptraps Kopf sind wir auf _ gestoßen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein Bug in Star Citizen, der alle Raumschiffe durch _ ersetzt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im neuen Forzathon kann man _ gewinnen.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Undertale.",
+    "Gemeinsam in Euro Truck Simulator LKW fahren.",
+    "Einer Deathclaw mit Anlauf in die Eier treten.",
+    "Ein Hole in One in Tower Unite.",
+    "T-Posen.",
+    "Early-Access-Leichen.",
+    "Ein männliches Gardevoir.",
+    "Molag-Bahls Knüppel.",
+    "Die Borderlands 2 DLCs spielen.",
+    "Fus-Roh-Da niesen.",
+    "Feuer/Kampf Start-Pokemon.",
+    "Das Badewasser eines Gamer Girl.",
+    "Kriegsverbrechen in Rimworld begehen.",
+    "Doki Doki Literature Club.",
+    "Drachenschreie furzen.",
+    "Die mega laute Forza Horizon 4 Startsequenz.",
+    "Ein Randalerun in PayDay 2.",
+    "Claptrap.",
+    "Gefangene zu Hüten verarbeiten.",
+    "Turbo Kadachi.",
+    "Klarsichtfolie.",
+    "Handsome Jack.",
+    "In Minecraft direkt nach unten graben.",
+    "In einer Kutsche in Himmelsrand aufwachen.",
+    "TK Baha.",
+    "Tobias Kachelmann.",
+    "GTA Online.",
+    "Runescape.",
+    "Wiesenior.",
+    "Dark Souls."
+  ],
+  "pack": {
+    "id": "QKGRQ",
+    "name": "CAH | Deutsch | Spiele"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 30,
+    "total": 39
+  },
+  "dateStoredMs": 1588281522664
+}

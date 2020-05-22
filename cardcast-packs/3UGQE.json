@@ -1,0 +1,283 @@
+{
+  "black": [
+    {
+      "content": "\"You're running low on fuel, we advise _.\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You might not think it's _ , and you'd be right, it's Motor Racing.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'For sure pole position today, but tomorrow comes _'\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"When you no longer _, you are no longer a _\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's kids isn't it ... kids with _ . You do a good job and then they _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "  At the end of the season, Alonso vented his frustrations by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do my eyes deceive me, or is Senna's Lotus sounding like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Williams had to make an unplanned pitstop late in the race because of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worst way to lose the championship: _\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry to interrupt you Ted but _ has just _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "'_Has gone off in sector 2 due to _'\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"What do you need to be a racing driver?\" \"_\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hamilton replied over the radio \"I'll move over if Nico _\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Martin's random person: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turn in, _ out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During his gridwalk, Martin Brundle asked Nicole Scherzinger if she was _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ won his first championship, _ was so angry he _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "  At Interlagos, Kimi was very surprised to see _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You'd never be able to _, not in a month of Sundays\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": " What did you think of today's performance Kimi? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_'s hopes, which were nil before, are absolutely _ now.\"\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If Felipe doesn't apologise, I'm  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fernando is _ can you confirm you understand this message\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"One light, two lights, three lights, four lights, five lights, and we're _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The notorious fan car generated too much _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Bernie was very surprised when he saw _ on the grid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lewis Hamilton surprised his team by incredibly tweeting his _\t  ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unless I'm very much mistaken, I am very much _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mark, your _ isn't working\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're quicker than _ in sector one, use your _ to pass them.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Do that too many times and you'll head straight to the scene of the _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ok Nico, lets have 3 and a half _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  yes, yes, yes, yes I'm doing _ all the time. You don't have to remind me every second. ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's pulled out of the _ .\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tyrell surprised everyone by having a car with _ wheels.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like on normal roads, you have some _ driving around. It seems there is also _ driving here\t  ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "'Temps are low, keep warming the _'\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've said it before and I'll say it again, catching in Formula 1 is one thing, _ is another.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alain Prost was sacked form Ferrari following _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Francois Cevert is famous for his death at Watkins Glen following his decision to _\t",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Alain Prost.",
+    "Red Bull Racing.",
+    "\"I just threw up in my helmet.\".",
+    "Marussia's ever-changing name.",
+    "Caterham.",
+    "Arrows.",
+    "James Hunt.",
+    "And then I said I was sorry.",
+    "KERS.",
+    "Carbon fibre monocoque.",
+    "Rear wing damage.",
+    "Brabham.",
+    "Lewis Hamilton.",
+    "Oh, deer.",
+    "Yes, yes, I know what I'm doing.",
+    "Niki Lauda.",
+    "Crashing head-on into a recovery vehicle.",
+    "Multi-21.",
+    "Breaking a marshals leg.",
+    "Bernie Eccleston.",
+    "'Clean race'.",
+    "Cadence braking.",
+    "Trulli train.",
+    "Mercedes.",
+    "Williams.",
+    "Tyre wear.",
+    "Crashtor Maldonado.",
+    "Exploding Pirelli Tyres.",
+    "Apex.",
+    "Burning in a crashed Ferrari.",
+    "Double points.",
+    "Right rear puncture.",
+    "Cutting your teammates tyre with your front wing.",
+    "Ferrari.",
+    "Having your race ruined by Maldonado.",
+    "Going for a gap that exists.",
+    "Fernando Alonso.",
+    "Sticking wheel nut.",
+    "Jim Clark.",
+    "Driving into the wrong pit-box.",
+    "Hammer time.",
+    "Box Box Box.",
+    "Sebastion Vettel.",
+    "Schumacher.",
+    "Being run off the road by Sutil on the first lap.",
+    "Modulating the throttle.",
+    "Pole position.",
+    "Mclaren.",
+    "Tyrell.",
+    "Flat spot.",
+    "130R.",
+    "DRS.",
+    "5 place grid penalty.",
+    "Mark Webber.",
+    "And now, we push.",
+    "Hamilton's fault.",
+    "Minardi.",
+    "Sauber.",
+    "Not bad for a number 2 driver.",
+    "Ayrton Senna.",
+    "The ass clinching tightness of Lowe's hairpin.",
+    "Fucking Räikkönen.",
+    "Jonathan Legard's shitty coverage.",
+    "It's a shitbox.",
+    "Caterham's retarded nose cone.",
+    "You broke my fucking head.",
+    "I was having a shit."
+  ],
+  "pack": {
+    "id": "3UGQE",
+    "name": "Formula 1"
+  },
+  "quantity": {
+    "black": 40,
+    "white": 67,
+    "total": 107
+  },
+  "dateStoredMs": 1588679591434
+}

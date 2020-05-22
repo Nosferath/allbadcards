@@ -1,0 +1,107 @@
+{
+  "black": [
+    {
+      "content": "Get a _ ready.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Katniss accidently shot _ in the _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the secret to winning the Hunger Games? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May the _ be ever in your favor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the Capitol REALLY thinks about is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make a haiku about The Hunger Games. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are never in our favor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To make things harder, the 1st Quarter Quell also had _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For his next invention, Beetee needs _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Katniss, there is no _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ didn't die for this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the 6th day, the staff added _ and _ in the Cornucopia.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I volunteer as _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I still have my money on you, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What secretly turns you on when in an enclosed arena? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Snow's stupid-ass white roses.",
+    "Seneca Crane.",
+    "Those District 1 assholes.",
+    "KILLER MONKEYS.",
+    "Finnick Odair's nipples.",
+    "Finnick kissing Peeta.",
+    "Fucking hovercrafts.",
+    "The District 6 druggie.",
+    "Berries.",
+    "Effie's hair.",
+    "Everlark.",
+    "Cinna's swaggity style.",
+    "Caesar Flickerman.",
+    "Rue's whistle.",
+    "Haymitch's drinking problems.",
+    "Gale getting whipped in the back."
+  ],
+  "pack": {
+    "id": "P3VZ4",
+    "name": "Hunger Games"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 16,
+    "total": 31
+  },
+  "dateStoredMs": 1589138162505
+}

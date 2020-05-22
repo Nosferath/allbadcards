@@ -1,0 +1,187 @@
+{
+  "black": [
+    {
+      "content": "I am not _! I am _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Sounds gay; I'm in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright, which one of you fuckers said _ was easy?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"This culture is so strange. Why is it that you _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imma 'bout to _ all up in dis' bitch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, don't do a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am not just 'some bird', I am _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, what's that? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the glory of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _? That's like 50% of my interests!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing quite like coming back to your bedchamber after a long day of manipulating the king, only to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Say what you want, but I have the power of _ and _ on my side!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tlasha watches in mortification as _ attempts to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh, phooey, I knew I shouldn't have left those _ unattended!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the age of _ , things were proceeding quite nicely until _ happened.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The ancenstral land of Fredan is touted in legend for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Sounds straight; I'm in!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heels to the sky, American spy. Heels to the ground, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me? Well, I rather enjoy the feeling of _. It serves as a constant reminder that I exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Korisj knew things were off when he looked up and saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heh, nice shot kid. Hitting me with _ really did a number on me! I don't know how I can recover from this... Good thing I have my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Let 'em in I say, we can use more _ 'round here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Axum Clan has reemerged, under new leadership and fully intent on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Straight up just sucking the life out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That moment when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Asjee, a proud race of creatures renknown for their _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some days I just wanna leave it all behind, uproot and go to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A fragile male ego.",
+    "A nice diet of giant mushrooms and beetle ichor.",
+    "The Sojitt desert.",
+    "Gachimuchi pants wreslting.",
+    "The showers at Ram Ranch.",
+    "Korisj.",
+    "Just a straight up god.",
+    "Your characters turn against you.",
+    "Being on the bottom in bed.",
+    "Daantek.",
+    "Manifesting a character in an unwelcome way.",
+    "Asert dominace via interpretive dance.",
+    "Absorbing your sister and pretending  super hard that you're NOT like her.",
+    "Korisj trying really really hard to do something simple.",
+    "18 wild coyboys in the yard.",
+    "Two suns orbiting each other.",
+    "Self-propel via projectile vommiting.",
+    "Stag.",
+    "Getting so high your characters start talking to you.",
+    "Just a random asjee.",
+    "The ancient ones.",
+    "18 wild cowboys in the yard.",
+    "Asserting your manilness by furiously cleaning the house.",
+    "28 U.S marines.",
+    "Unwtittingly setting in motion a chain of events that, when started, will begin an inexorable march to the worlds end! You fool! I never thought you to be so... Er, whoops, sorry about that.",
+    "Having a cold-blooded heart in a warm-blooded world.",
+    "Peakless.",
+    "Accidentially astral projecting across dimensions.",
+    "Tlasha.",
+    "Ricardo Milos.",
+    "Walking in on someone half-sleeping.",
+    "The preciscion vaxing of anti-vaxers.",
+    "All of a sudden being surrounded by a gaggle of flamboyant bright bois.",
+    "Stepping in a puddle and fucking dying.",
+    "Just fucking falling face first onto the floor.",
+    "Suddenly looking really gay, like, holy shit."
+  ],
+  "pack": {
+    "id": "QJEPM",
+    "name": "2"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 36,
+    "total": 63
+  },
+  "dateStoredMs": 1589250501969
+}

@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "Red One, Checking In. Red Two, Checking In. Red Three, Checking In. Red Four, Checking In. _, Checking In.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That isn't the _ you're looking for.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can rule the galaxy as _ and _ !",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Sheev Palpatine.",
+    "A black man saying he IS the father for once.",
+    "Kill him; kill him now.",
+    "The existence of Jar Jar Binks.",
+    "We're still flying half a ship!.",
+    "Do it.",
+    "It's a trap!.",
+    "This is where the fun begins!.",
+    "Obi-Wan Kenobi.",
+    "Qui-Gon Jinn.",
+    "Executing order 66.",
+    "Meesa very greatful.",
+    "They're going up the ventilation shaft!."
+  ],
+  "pack": {
+    "id": "XTD4Z",
+    "name": "Star Wars"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 13,
+    "total": 16
+  },
+  "dateStoredMs": 1589051561987
+}

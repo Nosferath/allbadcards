@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Mrs. Pelora told Joshua to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gia wants _ to _ later today.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why are black people so _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The sounds of africa.",
+    "Gay."
+  ],
+  "pack": {
+    "id": "3j65x",
+    "name": "Minecraft minorities deck"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 2,
+    "total": 5
+  },
+  "dateStoredMs": 1588333355683
+}

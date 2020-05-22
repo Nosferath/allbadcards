@@ -1,0 +1,69 @@
+{
+  "black": [
+    {
+      "content": "What is a callback?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happens when you call JavaScript \"Java\" in front of a web developer?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do male web developers do on nights when they can't get a date?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "for(let i = 0; i < array.length; i++){ if (array[i] === _){ return true; } }",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does CSS REALLY stand for?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most popular new programming language is called_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do seasoned web developers like to talk about with their significant others?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Promises.",
+    "Stack overflow.",
+    "A Promise chain.",
+    "The backend.",
+    "A many-to-many relationship.",
+    "A one-to-many relationship.",
+    "Web developers who don't swear.",
+    "\"git reset double dash hard head\".",
+    "Cursing like a web developer.",
+    "Forking and cloning.",
+    "Whiteboarding.",
+    "Handlebars.",
+    "A full-stack application.",
+    "Calling JavaScript \"Java\".",
+    "The frontend.",
+    "A nerd fight.",
+    "A fat-arrow function.",
+    "Parent-child relationships."
+  ],
+  "pack": {
+    "id": "4DESD",
+    "name": "Web Developers"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 18,
+    "total": 25
+  },
+  "dateStoredMs": 1588377457176
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Kim jong un's favorite thing to do is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Burn Down the white house."
+  ],
+  "pack": {
+    "id": "c5ru4",
+    "name": "More fucked up than fucked up"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589179678913
+}

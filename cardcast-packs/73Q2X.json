@@ -1,0 +1,521 @@
+{
+  "black": [
+    {
+      "content": "HR just scheduled 1:1s with all of us. I think they want to discuss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The remaining test262s can be fixed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I trained a ML pipeline on Hermes diffs, and it predicted _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It added a lot of technical debt, but we finally have an awesome demo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spend at least 40% of my time on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While waiting for _, I finally have time for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only remaining launch blocker is related to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We should establish a new team that can focus entirely on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We will help bring the world closer together through the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If we've learned anything, it's that _ inevitably leads to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My optimization is simple, elegant and efficient, but we can't do it because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Recently, I've spent some time thinking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By the end of the half, we expect to be able to handle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's status meeting is cancelled due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are now five teams at Facebook that are working on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't come to work sick unless there is an emergency about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone volunteered for _ instead of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I joined Hermes because of my burning passion for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week, the top voted Q&A is a pointed question about our plan for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to roll back the latest release because of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Working at Facebook is great, except for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The DevInfra newsletter incorrectly claimed that we now have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Great idea for a bootcamp task: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are lies, damned lies, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're seeing a massive spike in crashes, most likely due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My strategy for increasing my impact? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since we're all getting Exceeds anyways, I'll spend my half on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our stock dropped 35 points, most likely due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can fix our MobileLab tests if only we prioritize _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have only _ to blame for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After years of talking about it, we've finally gotten somewhere with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hermes is being deprecated in favor of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Hermes offsite will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm aiming for promo this PSC, thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We will get the next billion users by focusing on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We expect a 10% footprint increase due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're seeing a huge spike in user engagement thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My main accomplishment this half was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's Take Your Kids To Work day! This year, the activities will include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By H2 2020, we should support _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The quarantine has resulted in a huge demand for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When we can finally return to the office, the first thing I'll be doing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bootcamp should do a better job explaining the importance of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The main agenda for this week's status meeting is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zuck has taken a personal interest in my work on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's been a week, but I still haven't been able to find the root cause of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll join you for lunch as soon as I'm done with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing about working at Facebook is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you take my oncall shift? I'm really busy with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since they do basically the same thing, we should unify _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The React Native summit will feature a full hour presentation on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't need to focus on _ anymore. Our top priority is now _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sad to announce that I'll be leaving Hermes to work on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry to say that we need to cut our losses and finally give up on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We would have passed that test suite if only we had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I immediately rejected candidates who suggest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our goal is moving fast and _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Asking Microsoft to do it.",
+    "Accidentally standing up while on VC from home.",
+    "Complaining about free food.",
+    "Arc land --ninja.",
+    "A big, fat dump of ARM assembly.",
+    "MinScript.",
+    "Coming back from lunch and finding my laptop suspended in the middle of a build.",
+    "Burning native bridges.",
+    "Test suites that have been broken since August.",
+    "HDB.",
+    "Mass renaming \"closure\" to \"function\".",
+    "Extremely weird edge cases in unicode regexes.",
+    "Trite flame wars.",
+    "Waiting for hours to land code, only to have it fail a test at the last minute.",
+    "A comment change showing a 3% MobileLab regression.",
+    "Relentless bikeshedding.",
+    "NT:State.",
+    "A device crash dump with no symbols.",
+    "Increasing Buck's Java heap by another 2GB and recompiling.",
+    "Objectively measuring impact by counting \"Like\"s.",
+    "Conformance tests that no JS engines currently pass.",
+    "Rolling out let/const support.",
+    "Writing a Javascript compiler without knowing Javascript.",
+    "The panic I feel when I zone out in a meeting and suddenly hear my name.",
+    "Trying and failing to find something on internal search.",
+    "The placement of the * in pointer declarations.",
+    "Giving people the power to build community and bringing the world closer together.",
+    "Chuckr.",
+    "Arguing over Vim and Emacs as if we don't already know the answer.",
+    "Introducing #ifdef based Heisenbugs.",
+    "Thoughts and prayers.",
+    "An awkward conversation with a HRBP.",
+    "Copying features from other social media platforms so we can be cool and hip again.",
+    "Pretending to be interested in a launch because they're having a happy hour.",
+    "A large backlog of ad credits and a sketchy agenda.",
+    "S#itposting @ FB.",
+    "Breaking the OSS build again.",
+    "Fixing Javascript once and for all.",
+    "Hermes brand soap.",
+    "Constantly talking over people on VC.",
+    "JavaScript getters that always ruin optimizations.",
+    "Going to a standards committee meeting.",
+    "Floating point \"math\".",
+    "Epic's good paneer.",
+    "Using Thanksbot sarcastically.",
+    "Angry reacts.",
+    "A solution that's simple, elegant and wrong. .",
+    "The prototype chain.",
+    "Successfully compiling and running Hello World.",
+    "A heated debate about an inconsequential design decision.",
+    "Signing up for extra interviews purely for some human interaction.",
+    "Quote unquote \"Better Engineering\".",
+    "Spending way too much time on Hacker News.",
+    "BenderVM.",
+    "Using Javascript for mobile development.",
+    "Yet another GC.",
+    "Inspiring an addition to a mandatory training class.",
+    "Overthrowing the government in a communist revolution.",
+    "The spinning beachball of death.",
+    "Using asserts for flow control.",
+    "Scrolling without graphical glitches.",
+    "Ignoring tasks until the reaper kills them.",
+    "Joining Netflix.",
+    "Spending a week landing an 18 diff stack.",
+    "The 3GB of address space we need to show cat photos.",
+    "Making sure to complain about compensation on Pulse, no matter what.",
+    "The Seattle team.",
+    "Obsessive Leetcoding.",
+    "Procrastinating like no one's procrastinated before.",
+    "Figuring out whether or not I'm actually using Hermes.",
+    "Prosecco on tap.",
+    "Going outside without hazmat gear.",
+    "Charging an admissions fee to let people tour the campus.",
+    "Moving all the header files.",
+    "Carefully curating the items in my background so people on VC think I'm cool.",
+    "An hour long meeting that should have been a group post.",
+    "Complete test suite coverage.",
+    "¯\\_(ツ)_/¯.",
+    "Arc pull --latest just to get a 20 minute break.",
+    "A secret plot to spread COVID-19 via 5G towers.",
+    "Writing referrals for people I've never met.",
+    "Dumping stock on the first day of the trading window.",
+    "The dankest of may-mays.",
+    "Stealing food and drinks from unguarded events.",
+    "Debugging via printf, since nothing else works.",
+    "People bringing their lunch into the bathroom.",
+    "The Flow typechecker.",
+    "Suggesting frivolous changes to diffs so I can land my own without conflicts.",
+    "1400 failing tests.",
+    "Resurrecting Prepack.",
+    "Submitting unsolicited, negative PSC feedback.",
+    "A triple indirection in the VM's critical path.",
+    "Trying to find a free conference room in MPK16.",
+    "OOOOOMs!.",
+    "Creeping on my reviewer's calendar when they're slow.",
+    "Losing .bash_history.",
+    "Waiting in line at Harvest.",
+    "32bit HermesValues.",
+    "The lightweight compiler.",
+    "Literal dogfood.",
+    "Writing a new JS compiler and VM from scratch.",
+    "Extremely benchmark specific micro optimizations.",
+    "Getting desperate enough to run `buck clean`.",
+    "Getting items For Free @ Facebook and reselling them on eBay.",
+    "Self-medicating by drinking bleach and aquarium cleaner.",
+    "Trippy VC glitches.",
+    "Building Hermes in an IDE.",
+    "A two line diff with 350 Sandcastle tests.",
+    "A fifth concept also named \"Module\".",
+    "Debugging a debugger.",
+    "Dialing in to a meeting to avoid walking up the stairs.",
+    "Posting an impressive number of memes.",
+    "Re-reading a section of the JS spec for the eighth time.",
+    "Doing nothing.",
+    "An underground economy based on trading diff approvals.",
+    "Three incompatible sources of truth.",
+    "Spending my $1,000 on the loudest keyboard I can find.",
+    "A proposal for multithreaded JavaScript.",
+    "Making Peter realize his mistake and come back.",
+    "An anatomically correct depiction of Hermes of Olympus.",
+    "Taking some PTO and waiting for it all to blow over.",
+    "A Hermes white card I have absolutely no context for.",
+    "A six hundred line optimization pass that reduces compressed bytecode size by 0.1%.",
+    "Migrating to stack based bytecode.",
+    "Overly aggressive Whirlyball games.",
+    "Disabling all the affected tests.",
+    "HaaS.",
+    "Severely outdated documentation.",
+    "Leading bootcampers astray.",
+    "Livestreaming Q&A to TechCrunch.",
+    "A drawing of a spider.",
+    "Clicking \"Like\" on my own Facebook posts.",
+    "Debugging native crashes without minidumps.",
+    "Expecting people in London to join meetings at night.",
+    "Moving fast and breaking things.",
+    "FB Eats.",
+    "A literal plague.",
+    "The recruiting strategy of inviting \"guest speakers\".",
+    "Extrapolating based on two SCUBA datapoints.",
+    "Getting Zuck elected president.",
+    "The Next Billion.",
+    "Quadratic algorithms that worked fine in all the lit tests.",
+    "Extra income from stealing office supplies and scalping them outside OfficeMax.",
+    "Secretly preferring JSC.",
+    "Bootcamp mentoring.",
+    "Free swag.",
+    "Manually updating 300 lit tests for a ten line diff.",
+    "Recompiling without changing anything.",
+    "Updating buck for the third time today.",
+    "Getting a private office by taking over a single occupancy bathroom.",
+    "Reading too much into a round of this game.",
+    "Leaking sensitive info in commit messages.",
+    "Forgetting I'm on camera in Workrooms.",
+    "Trying to remember which day of the week it is.",
+    "Q&A.",
+    "Complete ES6 support.",
+    "Slapping spacedog memes on diffs instead of reviewing them properly.",
+    "Running hg blame on a nasty piece of code and finding my name.",
+    "20MB of ICU.",
+    "Adding reachable llvm_unreachables.",
+    "All of Hermes compiled to Wasm.",
+    "Rampant imposter syndrome.",
+    "An unsuspecting intern.",
+    "A new level of DEBUG macros.",
+    "A 300% increase in crash rate.",
+    "Getting extra vacation days by \"working from home\".",
+    "Xun taking paternity leave.",
+    "PTO.",
+    "Causing a SEV1.",
+    "Putting \"manual testing\" in the test plan and hoping no one questions it.",
+    "Shell scripts, cron jobs, and a stack of unlandable hacks.",
+    "A meeting that involves three times as many people as necessary.",
+    "Trolling Blind.",
+    "A design meeting with no agenda.",
+    "Rewriting the register allocator.",
+    "Twiddling my thumbs and waiting for my RSUs to vest.",
+    "Memorizing the best meme tags.",
+    "Rage quitting.",
+    "Reverting the diff that deleted JSC.",
+    "More fuzzing!!.",
+    "Unicode support.",
+    "A Work Chat tab using 6GB of memory.",
+    "Reopening the Hermes logo debate.",
+    "Drinking the Facebook kool-aid.",
+    "Secretly enjoying quarantine life. .",
+    "TBGS'ing for swear words.",
+    "9AM meetings on Monday mornings.",
+    "A very enthusiastic bootcamper.",
+    "Enabling C++ exceptions.",
+    "Lazy compilation.",
+    "Mass renaming \"function\" to \"closure\".",
+    "Playing Codenames.",
+    "Testing in production.",
+    "Regression tests with 65k string literals.",
+    "Writing my manifesto.",
+    "Attacking people with a broken beer bottle.",
+    "Hermes on-call.",
+    "Staring at the microkitchen fridge without getting anything.",
+    "Facebook.",
+    "Correlating our pushes against the FB stock price.",
+    "Reinventing the wheel.",
+    "A pile of irrelevant GitHub issues.",
+    "Balloonicorn.",
+    "Nadav.",
+    "Priscilla Chan and her husband.",
+    "Becoming a Hermes manager, then quitting and rejoining FB.",
+    "Repeatedly requesting trivial changes to avoid a merge conflict.",
+    "A not-so-friendly ping.",
+    "Spending the day trying and failing to attach a native debugger.",
+    "Fake news.",
+    "Being featured on ClownTown.",
+    "A curious lack of interest in visiting the Seattle office after passing Prop 64.",
+    "Switching to unrelated topics instead of ending a meeting early.",
+    "Deleting an intern's project a month after they leave.",
+    "A follow-up meeting to a design meeting with no agenda.",
+    "Adding a question mark after a long, angry rant and \"asking\" it on Q&A.",
+    "Catching the shuttle.",
+    "Severely stretching the definition of an \"essential business\".",
+    "Prying git from Tzvetan's cold, dead hands.",
+    "Catching the 'Rona."
+  ],
+  "pack": {
+    "id": "73Q2X",
+    "name": "CAH"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 220,
+    "total": 277
+  },
+  "dateStoredMs": 1589241692065
+}

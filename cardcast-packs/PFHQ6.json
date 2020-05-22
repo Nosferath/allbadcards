@@ -1,0 +1,101 @@
+{
+  "black": [
+    {
+      "content": "What helps Santa deliver all those presents in one day? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "☆ We elves try to stick to the four main food groups: candy, candy canes, candy corns, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "♫ Rudolph the Red-Nosed Reindeer (Reindeer) / You'll go down in history! (Like _!)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "♫ All I want for Christmas is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I find in my Christmas stocking? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "♫ Silent night, holy night / All is calm, all is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ made an excellent addition to my gingerbread house.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bought _ on Cyber Monday for only $10!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buy _ at Toys \"R\" Us today! (Batteries not included.)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "♫ Said the night wind to _ / \"Do you see what I see?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "♫ Deck the halls with _ / Fa la la la la, la la la la",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Twas the night before Christmas, when all through the house / Not a creature was stirring, not even _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Ghost of Christmas Past.",
+    "Sledding down a snowless hill.",
+    "A snow fort.",
+    "The Naughty List.",
+    "A yule log.",
+    "Warm woolen mittens.",
+    "Peppermint hot chocolate.",
+    "Keeping your Christmas tree out until March.",
+    "Candy canes.",
+    "Coal.",
+    "A pig that sings \"Jingle Bells\".",
+    "Unused gift cards.",
+    "Christmas carolers.",
+    "The Little Drummer Boy.",
+    "A tangled strand of Christmas lights.",
+    "Cookies and milk.",
+    "Elves.",
+    "Wrapping a present in a box within a box within a box within a box.",
+    "A hooo-la hooop.",
+    "The shortest elf.",
+    "Fruitcake.",
+    "Jack Frost.",
+    "The Grinch.",
+    "Figgy pudding.",
+    "Walking in a winter wonderland."
+  ],
+  "pack": {
+    "id": "PFHQ6",
+    "name": "The Nice List"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 25,
+    "total": 37
+  },
+  "dateStoredMs": 1588808021196
+}

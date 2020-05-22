@@ -1,0 +1,167 @@
+{
+  "black": [
+    {
+      "content": "Unsurprisingly, a faculty member recommends _ during the new student orientation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to SUSOP, where faculty are known for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Progressions Committee calls your office, by instinct, you assume it about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any time I see an email arrive from Dean Adams, I automatically assume it's in reference to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best way to set SUSOP apart from other schools is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Members of the Admissions Committee are always complaining about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Typically, an email from the campus president usually means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing about working at SUSOP is unquestionably _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honestly, it wouldn't be that far-fetched to go ahead and require all job advertisements to require _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last you want to see appear on your Outlook calendar is unquestionably _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your most random and mysterious folder on the G drive you've found was titled _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's almost a guarantee that _ will bring up _ in each faculty meeting.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Ms Sehl.",
+    "Aromatherapy.",
+    "Eating lunch with Stajich.",
+    "Dean Alston.",
+    "That time you got stuck in the elevator with Mike the Janitor.",
+    "Being forced to wear a tie to work.",
+    "Allowing students to test sildenafil during your PDE5 inhibitor lecture.",
+    "The idea of transitioning to a 4 year program.",
+    "Those darn Millennials.",
+    "Dr Rice.",
+    "Facolades.",
+    "Pre APPE readiness.",
+    "Dean Adams.",
+    "Dr Adkins.",
+    "Synthesizing dextroamphetamine in the laboratory.",
+    "Students thinking that they do not need Med Chem to be a good pharmacist.",
+    "Curricular revision.",
+    "Receiving a flu vaccine from a questionable former student.",
+    "An unclaimed CE credit.",
+    "Honor council.",
+    "Dr Kennedy.",
+    "The NAPLEX pass rate.",
+    "The G drive.",
+    "The never-ending 'reply-all' emails from HR and UA.",
+    "Dr Porterisms.",
+    "A faculty member is \"no longer part of the university\".",
+    "Binge-drinking in the laboratory.",
+    "Teaching from the Columbia side.",
+    "The office temperature.",
+    "Dean Fischer.",
+    "Mysterious hallway smells.",
+    "Recitations that last 30 only minutes.",
+    "Knocking on Julie's door when she has the 'Working, Do Not Disturb' sign up.",
+    "An email from Dean Alston.",
+    "Arriving 20 minutes late to an exam.",
+    "Dr Strychalski.",
+    "Dr MM.",
+    "Students that cannot take notes.",
+    "Students who say they \"forgot to download the exam\".",
+    "Faculty appreciation breakfast.",
+    "Dr Fetterman.",
+    "Dr Cotta.",
+    "Dr Pereira.",
+    "Dr Adeniji.",
+    "The faculty workroom printer.",
+    "Dr Wynn.",
+    "Medicinal Chemistry.",
+    "Dr Vanderpool.",
+    "The ACPE self-study.",
+    "Molecular Biology.",
+    "Pathophysiology.",
+    "Hematology and Oncology.",
+    "EDMC.",
+    "The Class of 2018.",
+    "Emphasizing entrepreneurial skills in every single graduate.",
+    "Carrying a conversation in the public restroom.",
+    "Dr Savva.",
+    "Locking myself out of my office.",
+    "Those air filter replacement workers.",
+    "Food trucks in the parking lot.",
+    "An email from Dean Adams.",
+    "Mr South.",
+    "Dr Coucha.",
+    "That smell in the break room refrigerator.",
+    "A course coordinator meeting.",
+    "Ms Ridley.",
+    "Ms Stewart.",
+    "Dr Deng.",
+    "Tardy students.",
+    "APPE rotations.",
+    "Dr Dalton.",
+    "Forgetting that the faculty meeting started 10 minutes ago.",
+    "Dr Bishop.",
+    "ExamSoft.",
+    "South University.",
+    "Dr Meade.",
+    "The dress code.",
+    "Exam schedules.",
+    "Dr Simpson.",
+    "Dr Stajich.",
+    "Dr Lynch.",
+    "Dr Samala.",
+    "Goke time.",
+    "Dr Agarwal.",
+    "Their alma mater.",
+    "The discontinuous and shoddy healthcare coverage.",
+    "Hydroxychloroquine.",
+    "Dr Singh.",
+    "A student eating in the faculty lounge.",
+    "My annual performance review.",
+    "Clearing out a paper jam in the workroom printer."
+  ],
+  "pack": {
+    "id": "4F66T",
+    "name": "SU-Kins"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 91,
+    "total": 103
+  },
+  "dateStoredMs": 1589035299338
+}

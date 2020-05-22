@@ -1,0 +1,73 @@
+{
+  "black": [
+    {
+      "content": "Amikor én leszek a miniszterelnők, létrehozom a(z) _ minisztériumát.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Így akarok meghalni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Természet-tudományi Múzeum új interaktív kiállításának a címe: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Azért iszom hogy elfelejtsem a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A földrengés után Sean Penn _ vitt a Haitin élő embereknek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Azt mondják hogy Vlagyímir Putyin kedvenc finomsága a(z) _ töltelékkel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az amerikai indiánok élete örökké megváltozott amikor a fehérek megmutatták: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "A seggem.",
+    "Rasszizmus.",
+    "Halott szülők.",
+    "Lepra.",
+    "Öregemberszag.",
+    "Fika.",
+    "Stohl andrás.",
+    "Osztályharc.",
+    "Két vödörbe szaró törpe.",
+    "Egy mikropénisz.",
+    "Puncifing.",
+    "Egy apró lovacska.",
+    "Kozákcsuma.",
+    "Orbán viktor.",
+    "Az indiánok.",
+    "Afrikai gyerekek.",
+    "Betyárkörte."
+  ],
+  "pack": {
+    "id": "SCTTM",
+    "name": "Hungarian Translation"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 17,
+    "total": 25
+  },
+  "dateStoredMs": 1588448233695
+}

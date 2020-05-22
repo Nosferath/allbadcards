@@ -1,0 +1,1017 @@
+{
+  "black": [
+    {
+      "content": "Fixing your father's computer with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Real _ don't use _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The most stable part of our infrastructure? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can discuss _ at the stand-up meeting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The two pillars of our Continuous Deployment pipeline are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You should think of your servers like _ and not like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The first rule of _: You do not talk about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The previous developer left because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to the logs, the inident was initially caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But Google is using _ so we should too!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time someone brings up _, I throw up a little in my mouth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's no place like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Implementing _ should take only 2 lines of code.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "sudo apt-get install _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zero-day _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, remember the 5th of November: outage, _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Given enough _, all bugs are _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The postmortem concluded that the incident was caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, we store all our docs in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't have time to refactor, we'll outsource this to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Refactor Bob's code? I'd rather have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Considered Harmful",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to improve security, we're upgrading to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There was no good solution for _, so we built our own.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I write a book about my experiences, it'll be called \"_, the good parts\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? You can safely ignore that. Usually.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Nortal, word is that you can trade two weeks worth of coffee tokens for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tinder officially endorses _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're a _ as a Service company.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time to schedule the postmortem for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is also monitored by KAPO.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't always _ , but when I do, I do it like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you're using _, you're gonna have a bad time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Linkedin Endorsements include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can just fix that with a little _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The RIAA is suing me for downloading _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This isn't going to be all unicorns and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the only thing worse than recruitment spam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The NSA is really interested in our latest project: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WAIT, YOU DELETED _??!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "140 characters is just enough to explain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amazon does _, why can't we?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only half of programming is coding. The other half is dealing with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apple just patented _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Internet of Things will be controlled by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amazon Elastic _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Internet is for cat memes and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dooms any project to epic failure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Project managers always shift blame to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new recruit was surprised to find _ : apparently, this was not part of the recruitment pitch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Free as in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who would have known that _ could destroy an entire datacenter?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think maybe I'll leave _ off my resumé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found a Samba share full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My next blog post will be about how we used _ to create _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I write my code in vim because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night while drunk, the W3C declared _ as a new web standard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error: insufficient _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't need _ - we have _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ Driven Development.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enterprise _ in the cloud.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Server Bash history revealed that someone had been messing with the _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I came to this company to implement _ , and by God, it shall be done!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My two most indispensable tools are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We must have _ before the project is allowed to go to Production!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We missed the launch window due to confusion from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our development team has a drinking game: whenever someone says _ , we drink.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't a job title.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nine circles of _ hell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody will value your work if you don't use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Ain't nobody got time for that!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Developers need access to production machines because they failed with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ now comes for free with every Windows Update.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The client says it needs more _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The developers of Windows Vista, explaining their failure to Bill Gates: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ is the answer, you are asking the wrong question.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Easy one-step installation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I thought you said _ was secure?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Management has changed all our job titles to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our release schedule has no time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Restoring from backups failed due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what our app needs? More _, less _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What would we do without _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "DevOps: Now with 100% more _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Management considers _ to be the most valuable characteristic of the company culture.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For a developer to graduate to senior level, he must be fluent in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Main benefits of automation: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The production datacenter burned down because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ERROR: _ NOT FOUND.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am now a certified _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the new _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Management said it's OK to deploy _ at 5pm on Friday.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The board has decided to measure this year's employee performance by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry, we have SLA-s for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anyone can be cool, but awesome takes some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our greatest achievement in the last year is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ended up having to buy a replacement _ on eBay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sadly, we can not satisfy your vacation application: we need _ ASAP.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got paged at 3am because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Production was down for two days and we didn't notice because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't always test my code, but when I do I do it in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The idiots guide to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the answer is _, you're doing something wrong.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "__.io",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How hard could it be to port Linux to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a feature, not a bug.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Oxford English Dictionary defines _ as the worst idea ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My pull request was rejected because it contained _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One week after introducing Kubernetes we found ourselves with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "70% of developers have to deal with _ at some point in their career.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing necessary for evil to triumph is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? This will never happen to us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our monitoring is so advanced that we can detect _ before it even happens!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, I was using Wireshark to check network traffic... Did you know we have _ in production?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since the 1950s, engineers have been striving toward a more effective means of generating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vs _... fight!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We run _ in a cron job every 15 minutes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet! I just found a Puppet module for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If we make this deadline, management has promised us _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We run production on _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "...and then there was the time I found _ on the root partition.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sprint planning lasted 10 hours, because we didn't plan for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will merge pull requests for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marketing says we're leaders in the _ space, but I think it's more accurate to say we specialize in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ as a service.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WARN: _ has been deprecated.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We strive for continuous deployment, continuous delivery, and continuous _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I was a kid we didn't have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Security? We've got that! We use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody ever got fired for using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Say _ one more time; I dare you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ansible, Salt and Puppet all have one thing in common: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. What could go wrong?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our competitive advantage is our _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most-wanted keyword in every developers LinkedIn resume: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My eyes started bleeding when I opened the editor and saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, to conclude: we wouldn't be the company we are today without _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is better than _ because it just works!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Beware of the ticket titled \"_\": it will get you fired.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It worked on my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enterprise-ready _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I find Java to be way too _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next big thing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Management just told me I need to get certified in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asynchronous REST API calls are the solution to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Continuous _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sad, but true: our team is addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Running Windows in production leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Facebook has acquired _ for $10b.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wet dreams.",
+    "Indian developers.",
+    "Insecure passwords.",
+    "Killer headache.",
+    "World of Warcraft.",
+    "Premature eject command issued to a CD drive.",
+    "Ballmer peak.",
+    "Facebook identity theft.",
+    "Chinese hackers.",
+    "A million euros.",
+    "Ivory tower architect.",
+    "SSH-ing into your backdoor.",
+    "Cocky administrators.",
+    "Kim Jong-un.",
+    "Administrator account without a password.",
+    "/etc/hosts.",
+    "Functional programming.",
+    "Man-hugs.",
+    "Extremely casual use of sudo.",
+    "Docker.",
+    "Hackers from Russia who can't spell.",
+    "Bitcoin mining.",
+    "Ninja rockstar developers.",
+    "Failed sprints.",
+    "My browsing history.",
+    "Hackathons.",
+    "That Slack channel where random Gif-memes are the daily norm.",
+    "KAPO.",
+    "Linus Torvalds.",
+    "Sysadmins.",
+    "Solar flares.",
+    "A highly sophisticated regular expression.",
+    "Second base.",
+    "Sudo.",
+    "Private keys in /var/www.",
+    "Agile.",
+    "Kent Beck.",
+    "Legacy code.",
+    "Proxy.",
+    "CEO with root access.",
+    "Passive-agressive Jira comments.",
+    "Richard Stallman.",
+    "Fluffy cat gifs.",
+    "Unrealistic deadline promises to management.",
+    "Junior bug developers.",
+    "The CEO.",
+    "Listening to Nickelback.",
+    "Yearly KPI review-agreement meeting.",
+    "Tabs.",
+    "Unicode errors.",
+    "Increasing production MySQL performance by replacing NFS with RAMDisk.",
+    "PowerShell.",
+    "Donald Knuth.",
+    "IPv6.",
+    "The Cloud.",
+    "Heartbleed.",
+    "A Raspberry Pi botnet.",
+    "Openshift 2.",
+    "127.0.0.1.",
+    "Grumpy developer.",
+    "FizzBuzz.",
+    "Rethoric comments in code.",
+    "DNS.",
+    "OpenSSL.",
+    "Sad Batman.",
+    "LEGO bra-s.",
+    "Extremely hack-ish deployment scripts.",
+    "A cubicle full of introverts.",
+    "Sneaky ninjas.",
+    "Sadness as a Service.",
+    "Microsoft.",
+    "Medieval torture.",
+    "Command-line magic.",
+    "Running random Bash commands copied from Stack Overflow in production.",
+    "A large mouthful of mustard gas.",
+    "Spaces.",
+    "Raspberry Pi.",
+    "DevOps.",
+    "Anonymous internet commentator.",
+    "HTTP 449: Retry With Microsoft.",
+    "Malicious code.",
+    "Parsing HTML with regex.",
+    "Temporary hotfixes.",
+    "Too strict ResourceQuota-s.",
+    "A length of self-made cat5e cable.",
+    "Half open TCP connections.",
+    "Defcon.",
+    "Trolling.",
+    "Asian malware creators.",
+    "Advice from a senior developer.",
+    "Horny kittens.",
+    "Google.",
+    "Selling Microsoft server stack to the CTO.",
+    "Windows Me.",
+    "Python.",
+    "Zombies.",
+    "Apple.",
+    "Naked coding.",
+    "Using beatings as a normal part of the corporate motivation package.",
+    "Client-side JavaScript admin login logic.",
+    "Casual workplace hookups on the CEO-s table.",
+    "The SRE team.",
+    "Linux.",
+    "SVN.",
+    "YAML.",
+    "Refactoring all variable names to profanities.",
+    "AWS outage.",
+    "Java.",
+    "Circular imports.",
+    "Non-existing logging.",
+    "Comic Sans.",
+    "IE6.",
+    "Unstable WiFi connection.",
+    "Questionable job titles like \"Hookup Facilitator\" and \"Head of Pleasure\".",
+    "Bash.",
+    "Sarcastic code review comments.",
+    "The Cult of Mac.",
+    "Staying in a single hotel room with your female colleague to \"save costs\".",
+    "A tiny nuclear warhead.",
+    "The cloak of invisibility.",
+    "Getting naked.",
+    "Kubernetes.",
+    "A pseudorandom number generator.",
+    "Nagios alerts that can't be shut off.",
+    "Malicious logic bomb in production code.",
+    "Node.js.",
+    "Regular fires in the server room.",
+    "Doing production deploys while drunk.",
+    "Ridiculously long EULA.",
+    "Lolcats.",
+    "Naked old men.",
+    "Internet flame wars.",
+    "Adware.",
+    "Manga.",
+    "Non-functional requirements.",
+    "The sales department.",
+    "A bottle of Black Label.",
+    "Racist Indin dudes.",
+    "Tor.",
+    "GPG-encrypted nudes.",
+    "My password.",
+    "A WiFi network that blocks SSH and VPN connections.",
+    "OAuth.",
+    "Proper UTF-8 support.",
+    "HTTP 406: Not Acceptable.",
+    "/dev/null.",
+    "Time.",
+    "Going to conferences for casual hookups and free booze.",
+    "Creating harassing pull request to your female colleagues repository.",
+    "Skynet.",
+    "100% availability SLA.",
+    "Alpha-male senior developer.",
+    "Running the Bash script in the wrong server.",
+    "Yet another package manager.",
+    "Server logs.",
+    "Non-technical CTO with root access to production.",
+    "Openshift 3.",
+    "David Hasselhoff.",
+    "Ruby.",
+    "Turning it off and on again.",
+    "A shared root password.",
+    "Daily stand-up.",
+    "Twitter.",
+    "Code and comments written in Indian.",
+    "Zombie processes.",
+    "Recruiters who won't take NO for an answer.",
+    "Soap opera theme songs.",
+    "An oversized server.",
+    "Scrum master.",
+    "Putting the shutdown command into the crontab of a production server.",
+    "Product owners who decide how much time it takes to implement a feature.",
+    "\"JavaScript: The Bad Parts\".",
+    "Impressive ability to come up with stupid design changes.",
+    "Secure code.",
+    "Novice programmers.",
+    "Senior Technology Architecture Round-Table Review Board of Excellence.",
+    "Software updates.",
+    "Authentication and authorization.",
+    "Crapload of technical dept.",
+    "Bamboo CI.",
+    "People who attempt to develop PHP on Windows.",
+    "Time travelling panties.",
+    "Women in tech.",
+    "A restarting Docker container.",
+    "HTTP 402: Payment Required.",
+    "Unexpected downtime.",
+    "Being on-call without pay 24/7.",
+    "Google's new secret project.",
+    "A RTFM sign.",
+    "Excessively long variable names.",
+    "Syntax errors.",
+    "Coding while spooning.",
+    "/var/log symlinked to /dev/null.",
+    "A blatant lack of documentation.",
+    "People who commit passwords and secret keys into repositories.",
+    "KPI-s tied to lines of code written.",
+    "GitHub.",
+    "Continuous integration.",
+    "Intrusive, flashy ads.",
+    "Malicious cookies.",
+    "65,536.",
+    "Network analysis software.",
+    "Agony-Driven Development.",
+    "Incredibly racist hostname naming policy.",
+    "Trojan.",
+    "Unstable server infrastructure.",
+    "Alcohol-caused chaos monkey.",
+    "The developers of OKCupid.com.",
+    "Continuous Testing in Production.",
+    "A 3.5\" floppy disk.",
+    "Illegible alert spam at 5PM.",
+    "Noobs.",
+    "Too strict username validation rules.",
+    "Animated gif-s with file sizes of 2MB and up.",
+    "Routing all production warnings to /dev/null.",
+    "Coding and drinking in equal proportions.",
+    "Team bondage retreat.",
+    "Novice hackers.",
+    "Regex.",
+    "Live action role play with few items of clothing.",
+    "\"JavaScript: The Good Parts\".",
+    "14 year old girls who lie about their age.",
+    "Password databases.",
+    "Penetration test.",
+    "Running out of IPv4 addresses.",
+    "Developers.",
+    "Sad developers.",
+    "Ignoring everyone on Fleep.",
+    "Significant whitespace.",
+    "Ubuntu.",
+    "Writing sexual commit messages.",
+    "Sexual subtext in tooltip messages.",
+    "Sexy gamer girls.",
+    "Grammar Nazis.",
+    "Hentai.",
+    "Home-built evil sex robot.",
+    "Sexually attractive hardware.",
+    "Accidentally commited porn.",
+    "Watching porn from your work machine.",
+    "Anime porn.",
+    "Sexist company culture.",
+    "Not giving a shit about future maintainers of your code.",
+    "Equating coding skill with sexual prowess.",
+    "Getting a boner.",
+    "Sexy male strippers dressed as programmers.",
+    "Suicide.",
+    "Doing penetration testing with a penis.",
+    "A sexy hooker.",
+    "Git merge conflicts.",
+    "Git.",
+    "Sexual harassment."
+  ],
+  "pack": {
+    "id": "3FAGW",
+    "name": "Cards Against Developers #2"
+  },
+  "quantity": {
+    "black": 150,
+    "white": 251,
+    "total": 401
+  },
+  "dateStoredMs": 1589533558364
+}

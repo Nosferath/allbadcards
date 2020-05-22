@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Jpp de la sitcom avec _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  Jy Pense au Ptit déjeuner",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Le Stagiaire.",
+    "L'URSS.",
+    "Les cheveux de Quentin.",
+    "Un handspinner croix gammée."
+  ],
+  "pack": {
+    "id": "WKJJ4",
+    "name": "Limiti Limite des Vieux potos"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1589060105619
+}

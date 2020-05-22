@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "Tenerife was better without_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mikey is friendly.",
+    "Ben's knee.",
+    "Gog's sister.",
+    "Ricksen.",
+    "Josh's hair."
+  ],
+  "pack": {
+    "id": "DMT4B",
+    "name": "andy1"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1589069114541
+}

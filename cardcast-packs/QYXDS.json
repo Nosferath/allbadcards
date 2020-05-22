@@ -1,0 +1,112 @@
+{
+  "black": [
+    {
+      "content": "Why do you have a picture of _ as your Roku TV background?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you come pick me up? I found a random _ on the street.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does anybody know where _ is?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite anime is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you bring your _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my favorite superhero.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come to the circus, we have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the Annual Dumbass Award goes to..._!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stream my fancam of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I really miss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, we all celebrate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got _ for Christmas!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Doyoung.",
+    "WayV.",
+    "Taeil.",
+    "NCT DREAM.",
+    "Superhuman.",
+    "Chenle.",
+    "NCT Life.",
+    "Xiaojun.",
+    "Jungwoo.",
+    "Haechan's Happy Birthday song.",
+    "BOOM.",
+    "NCT 127.",
+    "Johnny.",
+    "Jaemin.",
+    "Jaehyun.",
+    "Taeyong.",
+    "Yuta.",
+    "NCT U.",
+    "Coming Home.",
+    "Ten.",
+    "Kun.",
+    "Winwin.",
+    "Jeno.",
+    "Johnny's Tony the Tiger Halloween costume.",
+    "Jisung.",
+    "Hendery.",
+    "Yangyang.",
+    "Jet Lag.",
+    "Cherry Bomb.",
+    "Lucas.",
+    "Haechan.",
+    "Mark.",
+    "Moonwalk.",
+    "BOSS.",
+    "SM Entertainment.",
+    "Renjun."
+  ],
+  "pack": {
+    "id": "QYXDS",
+    "name": "NCT Deck"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 36,
+    "total": 48
+  },
+  "dateStoredMs": 1589081917799
+}

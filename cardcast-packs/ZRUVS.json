@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "There's a new monster in the latest 5e update. It's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You turn the corner in the dungeon only to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is better than chilling with the bros playing D&D and _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A kraken.",
+    "Critical failure.",
+    "A bag of holding.",
+    "Natural 20.",
+    "An atheist paladin."
+  ],
+  "pack": {
+    "id": "ZRUVS",
+    "name": "D&D Fuckwads"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 5,
+    "total": 8
+  },
+  "dateStoredMs": 1588432943480
+}

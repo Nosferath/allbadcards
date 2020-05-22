@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "Why does _ taste like that",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God, what a fucking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dip it, Twist it, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is my _  so _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are you doing _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean _ is illegal?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait, is _ in there?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Beautiful young child.",
+    "Laxatives.",
+    "Step bro.",
+    "The baptist church.",
+    "Shove it up your butt.",
+    "Tom Brady's children.",
+    "A big black dildo.",
+    "AJ's long lost foreskin.",
+    "Prepubescent piss."
+  ],
+  "pack": {
+    "id": "U6NKY",
+    "name": "Hudson Deck"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 9,
+    "total": 16
+  },
+  "dateStoredMs": 1588957688190
+}

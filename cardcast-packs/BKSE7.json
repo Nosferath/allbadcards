@@ -1,0 +1,492 @@
+{
+  "black": [
+    {
+      "content": "Desculpe senhor, vejo aqui no menu que o restaurante tem _ na ementa. Isso tem glúten?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No dia do Senhor gosto de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O próximo livro do José Rodrigues dos Santos chamar-se-á _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adoro atropelar crianças com o(a) meu(minha) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O recém descoberto 11º mandamento é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Agora é hora de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando estou no chuveiro penso em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notícia de última hora: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que trazes na pasta? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tenho tanta vergonha de(da/do) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pai nosso que estás no céu, _ seja o Vosso nome.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O novo set da LEGO terá como tema _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu fiz _ e apareceu um chimpanzé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boa tarde. Esta é a primeira vez que venho a uma reunião deste tipo. Chamo-me _ e sou viciado em _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Numa escala de _ a _ , quão forte é a dor?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A carta mais brutal vence: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Das ist gut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu estaria de acordo com a cientologia se não fosse _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não se preocupe senhor agente, isto é só _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Porque é que _ é uma carta?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A minha frase de engate favorita: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mãe, porque é que não posso _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que é que vou contrabandear para a prisão? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ontem encontrei _ à venda no OLX.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aquele momento em que descobres que _ é ilegal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A carta mais engraçada vence: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O monstro das bolachas virou-se para as bolachas após superar uma terrível adição a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lembram-se daquela noite louca em que _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando alguém nasce, nasce _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O meu estômago estava com desejos de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A minha parte favorita do teu corpo é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As crianças saltaram da cama, desceram as escadas e encontraram _ debaixo da árvore de natal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "4 em cada 5 dentistas recomendam _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fico sempre espantado com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ... outra vez não...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deveria ser uma prioridade da Humanidade assegurar que _ nunca acontecerá.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que é que o pequeno órfão cego recebeu no natal? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esgueirei-me para o palácio de Belém e vi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ faz-me sempre perder a  vontade.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Este ano recebi _ no natal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ não é ilegal, ou é?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que faria por um Kit-Kat? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. HA GAAAAAAAAAY.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu estava tão ganzado que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Passei de _ a _ graças a _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. Palavra do Senhor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adormeci a ver a SIC Radical e quando acordei vi _ na televisão.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O meu nome é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ontem à noite, um sono descansado foi arruinado por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ... vergonhoso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ teve graça, mas depois ela acordou.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pai acho que tenho _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Com grande poder vem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CONTACTE O DR. _ URGENTEMENTE. O PACIENTE ESTÁ EM RISCO DE VIDA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "LOL, _ , grande coisa...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando fui pescar apanhei _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Venho-me sempre com isso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Acho que veio _ no meu happy meal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Encontrei _ debaixo da cama da minha avó.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre quis ter sexo com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando entrei numa reunião neo-nazi vi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Merda, tenho _ no meu rabo de novo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se eu fosse uma stripper o meu nome seria _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As pessoas já paravam de falar sobre _. Já enjoa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WTF, não precisava de saber que fizeste _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que se encontra na minha masmorra sexual? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A mais recente inovação no mundo dos brinquedos sexuais é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É preciso dar prioridade à investigação sobre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu considerava o meu trabalho uma merda até que descobri _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Merda, pisei _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ligue 808203203 e fica habilitado a ganhar um(a) maravilhoso(a) _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nome da minha sex-tape é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apesar de ter vergonha de admiti-lo, eu troquei favores sexuais por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O novo reality show da TVI é sobre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É errado eu querer ter sexo com _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Sexy.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Oreos da marca continente.",
+    "Pequeno rapaz assado com recheio de bebé.",
+    "Atingir o clímax na tromba de um elefante.",
+    "Orgias papais.",
+    "_____________.",
+    "Salazar.",
+    "Matar uma foca bebé à pancada.",
+    "Lágrimas do Bruno de Carvalho.",
+    "Diarreia.",
+    "As concorrentes do Peso Pesado.",
+    "Arremesso do anão.",
+    "Levar uma tampa da mão direita.",
+    "Meninas da católica.",
+    "SIDA.",
+    "Repositório de esperma.",
+    "Chamar preto da Guiné a alguém de Angola.",
+    "Violação surpresa!.",
+    "O rei ghob.",
+    "Muçulmanos enrolados em bacon.",
+    "Asfixia auto-erótica.",
+    "Comer uma banana sugestivamente.",
+    "Gonorreia.",
+    "Os tomates do Goucha.",
+    "O caso amoroso entre Catarina Martins e Passos Coelho.",
+    "Esquecer-se de limpar o histórico da internet.",
+    "Gelado de sémen.",
+    "Violar um tetraplégico porque ele não se consegue defender.",
+    "Aquele homem obeso a \"meter a mão na massa\" no canto.",
+    "Contratar uma prostituta, matá-la e comê-la.",
+    "Matar um cego à pedrada porque ele nunca verá as pedras a chegar.",
+    "Um bebé morto.",
+    "Um anão a ver um cego a andar em direcção a um precipício e não dizer nada.",
+    "Usar maionese como lubrificante, apenas para, posteriormente, atraír formigas.",
+    "Sonhos tão molhados que afogam quem os tem.",
+    "O bigode da tua tia.",
+    "Quando gritas MOEDA para captar a atenção de um judeu.",
+    "Enfiar a mão na uretra.",
+    "Formas e cores.",
+    "Violar raparigas no metro.",
+    "Cometer genocídio apenas com beleza facial e um chicote.",
+    "O ânus do Fernando Mendes.",
+    "Pastel de belém.",
+    "Um javali violar o José Castelo Branco.",
+    "Matar gaivotas dando-lhes anti-digestivo.",
+    "Manchas misteriosas.",
+    "Espancar orfãos.",
+    "JJ.",
+    "Orfãos congelados com orgãos de alta qualidade.",
+    "Estar na varanda, de tronco nu, com uma sniper a alvejar judeus.",
+    "Usar o telefone como vibrador.",
+    "Jacinto Capelo Rego.",
+    "Winnie the pooh a usar um pote de mel para asfixia auto-erótica.",
+    "Servir carne grelhada na ala de queimados do hospital.",
+    "Aborto depois do nascimento.",
+    "Morte por esperma.",
+    "Héctor \"aborto\" Herrera.",
+    "Espanhóis.",
+    "O micropénis de António José Seguro.",
+    "Prostitutas do século XVI.",
+    "Escrever palavras porcas ao jogar scrabble com crianças.",
+    "Ser penetrado por um taco de baseball com arame farpado.",
+    "Uma colher de sopa de Ébola.",
+    "Super SIDA.",
+    "Mijo.",
+    "Impotência.",
+    "Manter o sabonete na mão no banho da prisão apenas para ser violado pelo companheiro de cela.",
+    "Matar uma foca bebé com a força do meu pénis.",
+    "Cagar para cima de comida em frente a um sem abrigo esfomeado.",
+    "Quando colas o teu pénis a um poste congelado no inverno.",
+    "Uma vagina onde cabe um melão.",
+    "Mamas.",
+    "Pedofilia.",
+    "Pêlos do cu.",
+    "Ter sexo anal com outro homem mas dizer \"no homo\" depois.",
+    "Disparar palitos através do pénis.",
+    "Um dildo barato que se estraga após uma utilização.",
+    "A conta do gás de Hitler.",
+    "Sexo.",
+    "Pornografia infantil.",
+    "Pornografia da mocidade portuguesa.",
+    "5 senegaleses munidos de pénis de 20 cms.",
+    "A festa de Auschwitz.",
+    "Um ritual sexual de uma tribo africana.",
+    "Matar um homem dando-lhe uma erecção e cortando-lhe o pénis.",
+    "Um filme antigo da primeira experiência sexual da minha avó.",
+    "Hitler, Estaline, todo o grupo.",
+    "Merda.",
+    "Processar um golfinho por assédio sexual.",
+    "Limpar vigorosamente o pénis da minha filha.",
+    "Uma stripper com lepra.",
+    "Um rato a tentar fugir de dentro de uma vagina.",
+    "PONHA PORRA PONHA!.",
+    "FDP!.",
+    "Uma piada insensível sobre pilas.",
+    "Uma vagina com dentes.",
+    "Ter sexo com a almofada e ela engravidar."
+  ],
+  "pack": {
+    "id": "BKSE7",
+    "name": "PORTUGAL CARALHO!!!!!!!!11!1!!!"
+  },
+  "quantity": {
+    "black": 76,
+    "white": 96,
+    "total": 172
+  },
+  "dateStoredMs": 1588968533151
+}

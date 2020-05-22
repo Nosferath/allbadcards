@@ -1,0 +1,972 @@
+{
+  "black": [
+    {
+      "content": "And what would you like for Christmas, little boy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My last husband died due to complications from  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you think about it, _ isn't so bad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sold my soul for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do I smell like? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The one true god is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tell me a story in three parts. _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Only the best parties have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The REAL cause of 9/11 was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, I'm into _. Wanna fight about it?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Central Council of Jews in Germany is currently pushing a new ordinance banning all members from involvement in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ and _. Right now. At the same time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did I find in my bed when I woke up this morning? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a Bachelor's degree in _ and a PhD in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Imma _. 'Cause imma dumb.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love to wear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I keep my skin baby-soft by scrubbing with _ twice daily.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My anaconda don't want none unless you got _ hun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that sound? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got out of Basic Training for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I haven't been able to tell whether _ is as great as I think it might be.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why were the other parents at the PTA meeting glaring at me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a really excellent example of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Having problems with _? Try _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Throw away your boring cards. _ _. Most boring card set wins.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'd rather be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moo, says  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vin Diesel is well known for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someday I want to write a dirty fanfic about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Micheal Jackson was actually _ in a _ mask.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Which two cards go together best? _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I die early, I would prefer to die by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was beaten to death by your gay lover over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish you all the best in your _ endeavor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the Wonderful World of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ever since I heard of _ , I've wanted to try it myself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Use this call to throw away cards. The Czar will decide which set is the most useless. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Throw away round! Pick two of your most boring cards. Card Czar decides which is the most boring. _ _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do I taste like? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I swear I didn't know _ was illegal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my newest hobby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the gift that keeps on giving.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How'd I lose my virginity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeffery just called me to talk about _. What a creep.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: the most useful invention in human history.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So apparently it came out today that _ is actually  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What caused her pregnancy to spontaneously terminate? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last year I bought my mom _ for mother's day. She wasn't really into it. This year I think I'll get her _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I smothered my girlfriend with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I ashamed of myself? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I frequent  www. _ .com.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have a wide selection of high quality _ at _ prices!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "One-Size-Fits-All-_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes me moist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seriously, _?! I think I threw up in my mouth a little.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is incredibly unsatisfying.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was arrested for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like to _ my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just shat out _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like to start every day by having _ for breakfast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is pretty much the best thing ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I recently auctioned off my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I startled my cat with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw away round! Pick three of your most boring cards. Card Czar decides which is the most boring. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What was my childhood nickname? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is always okay, as long as you aren't _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I would give anything to be and/or have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eating _ just makes me SO happy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My daddy was _ when I was about 7 years old.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm looking to sell _. Know anyone who might be interested?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night I traded _ for _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In Russia, _ is considered a delicacy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw away round! Pick three of your most boring cards. Card Czar decides which is the most boring. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I finally convinced my partner to try incorporating _ in the bedroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet creamy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes me cream my panties.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got fired on account of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ is wrong, I don''t want to be right.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't explain it, _ is just my calling in life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you get when you mix _ and _? A restraining order, apparently.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Coming this fall, _ The Movie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar has a secret fetish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't seem to get an erection unless I see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I get these scars? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I in the emergency room? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know you can buy _ on eBay?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throwaway your boring cards. _ _. Most boring card set wins.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ all over my face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even if I just jacked, _ NEVER fails to get my little pink soldier standing at attention.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't mean to _ , I was just trying to get in her pants!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "911, what's your emergency? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Right up the cooter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We should stop war on _, it has ruined far more lives than saved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is half _ and half_.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ would absolutely be my dream job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _: still a better love story than Twilight.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Throwaway Round! _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Cheap prostitutes are great for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ probably counts as sexual harassment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I pissed all over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fucking LOVE _, and I'm not ashamed to admit it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a tattoo of _ on my ass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I nickname my penis? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my favorite sex position? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to _ my sex life is better than ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to sex her up but all she can think about is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The expression on your face when you're about to cum is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the night fuzzed into an alcoholic blackout I woke up next to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NEVER stick your dick in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Holy fucking shit, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What immediately ended the sex? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd totally stick my dick in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How the fuck could _ be accidental, Roberta? How stupid are you?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That horrible _ incident got me listed as a sexual predator.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shit man, I didn't know you were_. Not cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A few years after that _ incident I discovered that I had sired a son.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You masturbate to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On my sixteenth birthday my broke-ass parents got me _ instead of a car.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someday I really want to jizz all over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not rape, I'm just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suicide by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once fucked a slut so loose I swear she could fit _ up  that ass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I soiled myself after trying to get high on _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hundreds of disembodied breasts.",
+    "Getting advice about intimate matters from your gran.",
+    "A REALLY bad yeast infection.",
+    "The virginity of my first born daughter.",
+    "That one time I shat the casket.",
+    "Hairy daughter erotica.",
+    "Falling into a woodchipper.",
+    "Atheist Bible-burnings.",
+    "Chuck Norris.",
+    "Fairy swatter erotica.",
+    "My urethra.",
+    "Getting all up in that.",
+    "Beef curtains. ({;}).",
+    "The fragile hymen of an oddly attractive second grader.",
+    "A \"chocolate\" waterfall.",
+    "Urine stains.",
+    "Multiracial children.",
+    "Inserting a french fry into a chicken's cloaca.",
+    "Dead baby.",
+    "Drowning in a septic tank.",
+    "Squish mitten.",
+    "The self satisfaction that can only come with pooping twice in one day.",
+    "Browning your meat via the butt.",
+    "Urethral hemorrhaging.",
+    "Poogasms.",
+    "Bob Marley-esc amounts of marijuana.",
+    "Venereal Diseases: gotta catch 'em all!.",
+    "Granny panty.",
+    "A designer purse full of hands.",
+    "An Uberhipster's closet shrine to Steve Jobs.",
+    "Being physically unable to stop sucking dicks.",
+    "I plead the Fifth.",
+    "A particularly difficult birth.",
+    "A man so Italian that even his dickshaft is covered in hair.",
+    "Two men trying to use the same urinal at the same time.",
+    "Jerking off and accidentally thinking about your mother just as you climax, then realizing it wasn't an accident.",
+    "Making sweet love to a quart of ice cream. In my mouth.",
+    "Smoking crack with homeless people.",
+    "Chugging a gallon of live baby spiders.",
+    "Every kind of herpes imaginable.",
+    "Jerking off to the “before” picture in weight-loss commercials.",
+    "Single pregnant women with low standards.",
+    "Gregory House's house-sized erection.",
+    "Morgan Freeman attempting to seduce a hot young Labrador Retriever.",
+    "A shart to the face.",
+    "Lots and lots of rapebacon.",
+    "Being molested by poltergeists.",
+    "Tandem buttholes.",
+    "An alternate universe in which plants give bouquets of human genitalia to their loved ones on special occasions.",
+    "Playing the harmonica with farts.",
+    "Infanticide.",
+    "Castration by horse-hoof.",
+    "Instarection.",
+    "A meat grinder.",
+    "The gay sound of laughter.",
+    "Bananapants.",
+    "T-rex arms.",
+    "A bucket of fetal skulls.",
+    "Seventeen (and a half) dead babies.",
+    "A dog making love to a vacuum cleaner on a pile of faces.",
+    "Tic-tac sized erection.",
+    "Molesting my puppy.",
+    "Way too many cats.",
+    "Freddy Krueger in a speedo.",
+    "The three H's: Hookers, heroin, herpes.",
+    "Stealing toenails from everyone in kindergarten.",
+    "Baby girls and their adorable little v'ginys.",
+    "Distrusting fat doctors.",
+    "The Koolaid Man squirting his juice all over a group of pre-teens.",
+    "Contagious cancer.",
+    "FATTY FAT FAT.",
+    "An infected nipple piercing.",
+    "I'm a dumb.",
+    "The virginity burglar.",
+    "Wearing your sister's soiled maxipad.",
+    "Scandalous panty antics.",
+    "People's poopies.",
+    "Using oil based lube and busting the condom.",
+    "Discretely squirting some of your \"special sauce\" on her bigmac.",
+    "Snoop God.",
+    "Beer-battered dicksticks.",
+    "Meat tube.",
+    "Torture Me Elmo.",
+    "Cussing at small children.",
+    "Plasma miasma.",
+    "Cybernetic penile enhancements.",
+    "Accidentally saying 'testicles' instead of 'tentacles' during an oral biology presentation on squid.",
+    "Having your face swiftly trimmed from your skull with the delicacy of an experienced hand.",
+    "Swallowing your own eye.",
+    "Slathering honey on your dong in order to attract bees.",
+    "Baby-slaying.",
+    "Dickslap.",
+    "Cumbob Squirtpants.",
+    "Strawberry dicksticks.",
+    "Princess peach double-penetrated by Bowser and Luigi.",
+    "A pile of dying pigeons.",
+    "Stuffing a dead prostitute in the trunk of a stranger's car.",
+    "Taking a crisp piece of paper and sliding it edgewise through the penile slit.",
+    "A plate of duck dicks.",
+    "Sucking menstrual fluid out with a straw.",
+    "Upending  a five pound sack of baby spiders into the home of your arch enemy.",
+    "An unconscious hog-tied child.",
+    "Soiled sumo-sized diaper.",
+    "Buying a brothel.",
+    "Prom night dumpster baby.",
+    "A whole entire watermelon.",
+    "Thirty-ninth week abortions.",
+    "Spanking grandpa.",
+    "A  ridiculous number of abortions.",
+    "Shaving off a stranger's eyelashes with a straight razor.",
+    "Throbbing robotic erection.",
+    "Nailing Jesus. In both senses.",
+    "Midget hands.",
+    "An erection that's licensed as a recreational vehicle.",
+    "Deadpool's gnarled, tumorous genitals.",
+    "Mutilating small children.",
+    "Leaving your child with a stranger.",
+    "Being able to hide a whole entire watermelon \"up there\".",
+    "Rinsing out Pam Anderson's dry, wrinkly, thoroughly abused genitalia.",
+    "Japanese second graders.",
+    "Jacking a guy off with your feet.",
+    "Intentionally infecting myself with as many venereal diseases as possible.",
+    "Forcibly segregating cats by color.",
+    "The skin of a newborn baby's face.",
+    "Rectal injection infection.",
+    "Spanking grandpa.",
+    "Merry slaughter erotica.",
+    "Purposely and voluntarily impregnating my stepmother and allowing dad to believe it's his.",
+    "Farting into a jar in order to preserve it for future olfactory satisfaction.",
+    "Slimy, yet satisfying.",
+    "A bed made of Morgan Freeman's voice.",
+    "Baby shower. As in a literal rainstorm of infants.",
+    "Maintaining your baby-softness by stealing the skins of infants and grafting them onto yourself.",
+    "Dead soapdog.",
+    "Putting bananas in the cloaca of a very angry  ostrich.",
+    "Getting bitten by a homeless woman.",
+    "A trucker who isn't on crack.",
+    "An electric eel up the cooter.",
+    "All of the abortions, all at once.",
+    "Moist and moldy fat folds.",
+    "Picking your nose and eating it.",
+    "A fat black man.",
+    "A bucket of tangled pubic hair from various sources.",
+    "Grannybanging.",
+    "Starving a hippie by hiding his drug money under the soap.",
+    "Her most recent abortion.",
+    "Farting in my own mouth.",
+    "Dickwhiskers.",
+    "Stealing faces.",
+    "Pulling out my little brother's teeth with pliers in order to get magic pillow money.",
+    "Iron Man's titanium codpiece.",
+    "Scrotal hernias.",
+    "The ham wallet, the squish mitten, the ax wound.",
+    "Urine-soaked bra.",
+    "Intentionally making your boyfriend fat so he can't  cheat with girls prettier than you.",
+    "Pubescent lesbians fingerpainting with eachother's menstrual blood.",
+    "Ejaculating into a stillborn fetus.",
+    "Drinking champagne in the jaws of a t-rex.",
+    "Intentionally injecting yourself with rattlesnake venom.",
+    "Naked backwards shoulder riding.",
+    "Spitward Testicles.",
+    "Collecting the teeth of small children as they slumber.",
+    "Hot gluing the sphincter closed.",
+    "Jizzing all over bloodstained baby onesies.",
+    "I'M NOT PREGNANT STOP ASKING!.",
+    "Flatulence and drugs.",
+    "A hoodrat infestation.",
+    "The heavy burden of breaking 72 angelic hymens in a row.",
+    "Not leaving the computer for three days. Not even for the bathroom.",
+    "Returning used undergarments.",
+    "Funeral Service. AKA blowing a dead guy.",
+    "The penile invasion of every bodily orifice.",
+    "Accidentally mixing up the glasses and drinking your own roofied cocktail.",
+    "A plate of dicks.",
+    "A fiery ball of flaming fire-like flames.",
+    "Pasty white.",
+    "Coffee enema.",
+    "A facebomb. As in literally bombing a face.",
+    "Dying during childbirth.",
+    "Hiding used needles in his Fleshlight®.",
+    "Waking up in your mom's body.",
+    "I don't really care as long as nobody stabs me.",
+    "Poking holes in all the condoms in order to force  your boyfriend into marrying you.",
+    "Having my life threatened by flesh-eating butt bears.",
+    "The unwanted sexual advances of a blood uncle.",
+    "Assholes everywhere.",
+    "Ugly slutty cow-sized women with  tramp stamps.",
+    "Fresh cum dripping from the sheep's vagina.",
+    "Sexual superglue mishap.",
+    "Long, shiny, golden-auburn pubic hair catching delicately at velcro.",
+    "An adopted incestual necrophile.",
+    "Shitstains.",
+    "Fart nuggets.",
+    "A suspicious dickpimple.",
+    "Who fucking cares? Life is pointless and happiness is fleeting.",
+    "18 inches of foreskin.",
+    "Truckstop titties.",
+    "Fat saggy titties.",
+    "Going into the military because you fucked off high school and have no other options.",
+    "Having tentacles instead of testicles dangling from your gooch.",
+    "Turd murder.",
+    "Hitler's shiny shitbucket.",
+    "Buttsex. Cowboy buttsex.",
+    "\"Accidental\" incest.",
+    "Fuck this shit, let's get high!.",
+    "Watching Liveleak sex videos with your parents in the other room.",
+    "Like a giant cat scratching post, but for masturbation.",
+    "Shitting into a condom, tying the condom off and using it as a dildo.",
+    "Foreskin fart.",
+    "A literal pile of shit.",
+    "A pedophile disguised as an arcade machine where the joystick is his dick.",
+    "A dick inside another dick. Dickception.",
+    "Cunt cactus.",
+    "The sweaty thong of an obese male stripper.",
+    "Pissing into their half full beer glass when they leave the room. They don't notice.",
+    "Slitting my throat and fucking the wound.",
+    "A  shit-ton of interspecies anal rape.",
+    "A thong made of dog shit.",
+    "A horse-sized duck with a duck-sized dick.",
+    "Mouth AIDS.",
+    "Waking up at 2 am in a bed full of bloody ears.",
+    "Sexlexia.",
+    "Cutting off your penis with scissors and mailing it to the person you love.",
+    "Pissdaddy.",
+    "Face-fucking Darth Vader.",
+    "A dildo to pierce the heavens.",
+    "Getting a sudden and highly aggressive boner from shitting your pants.",
+    "Force-fucking George Bush's urethra with a ten inch vibrator.",
+    "Forcing the penis into a dolphin.",
+    "Sexing up the kids for fun.",
+    "Being so full of crap it spews out your mouth.",
+    "Masturbating in the front seat of a roller coaster and spraying your seed all over those behind you on the drop.",
+    "Having sex with a warm plate of spaghetti.",
+    "Having sex with a hamburger before eating it.",
+    "Pooping penis.",
+    "Dick duck.",
+    "Deliciously slimy sex fluids.",
+    "A  sexy 4-year-old.",
+    "Veiny horse scrotum.",
+    "Giant gaping anus.",
+    "Three ducks in a penis costume.",
+    "Being extra nice to your bitches on their stupid bleed-week.",
+    "Locking the dog IN the bedroom during sex, in order to assert dominance.",
+    "A pedophile.",
+    "Shoving a rain stick so far up your ass you crap lightning bolts.",
+    "An artistically pornographic battle monument.",
+    "Pissing in the condom.",
+    "Going catfishing with your penis as bait, catching and ejaculating into the catfish, then frying up some catfish.",
+    "Using a dead snake as a sex toy.",
+    "Bloody penis.",
+    "Three penises in a duck costume.",
+    "Triggering an orgasm every time you sneeze.",
+    "Mentos® and cocaine.",
+    "Stuffing a firecracker in your asshole and lighting it.",
+    "Hypersexual flying thong dogs.",
+    "Eating candy-shaped decorative soaps and shitting bubbles.",
+    "Spiny cat penis.",
+    "Using  your vagina as an extra pocket.",
+    "Skull-fucking a mummy's eyesocket.",
+    "Paying a sumo wrestler to rape your childhood bully.",
+    "Watching micropenis porn to boost self-confidence.",
+    "Cock rampage.",
+    "Feisty fluorescent dickfuckery.",
+    "Penis flytrap.",
+    "Making a withdrawal from the sperm bank.",
+    "A highly sophisticated penis augmentation surgery.",
+    "A cartoon vagina wearing a top hat.",
+    "Accidentally sexting my mom.",
+    "Hardcore midget projectile scat porn.",
+    "So bad it's good sex.",
+    "That burning sensation when his jizz gets in your eye.",
+    "Son-of-a-shit-fucking-plebeian-button-mashers!.",
+    "Justin Bieber's pliable, boyish anus.",
+    "Making sex to the colostomy bag.",
+    "Raping.",
+    "Dinosaur sex toys. Actual-sized.",
+    "The penis.",
+    "Giving Lightning McQueen a rimjob.",
+    "A 5 lb block of Mexican brick weed.",
+    "I'm not some cheap fucking crack whore, okay? I'm selling my body for Heroin. There's a difference.",
+    "Anal rape.",
+    "Superhomoeroticism.",
+    "Pimping out the baby.",
+    "Titty-fucking Betty White.",
+    "Teaching your prepubescent kids how to masturbate to prepare them for the sticky smelly mess that is puberty.",
+    "Hitler in Sailor Moon cosplay.",
+    "A vagina like the swamps of Dagobah.",
+    "Armpit rapist.",
+    "Bloody diarrhea.",
+    "Transsexual ta-tas.",
+    "Inconspicuous sex furniture.",
+    "Pissing all over someone else's children and licking the still-warm  mixture of tears and urine from their cute little faces.",
+    "Petting the curly-haired beaver.",
+    "Them sexy pregnant schoolgirls.",
+    "Doc Brown rimjob.",
+    "Fucking Deadpool.",
+    "Anonymous sex in the back seat of a city bus.",
+    "A turd-gargling horse cock addict.",
+    "Douching granny.",
+    "Some Adam West penis.",
+    "Fagbag.",
+    "Sexual reassignment surgery.",
+    "Aging a hunk of cheddar cheese for 3 years inside your wife's vagina.",
+    "The penis of a passable transvestite.",
+    "Overstaying your sexual welcome.",
+    "Bleeding from the anus.",
+    "Catching his diarrhea in your open mouth. On purpose.",
+    "Fuckbucket.",
+    "Coma boner.",
+    "A gallon of puss, blood and cum.",
+    "Sliming the dickpussy.",
+    "Titty-fucking a bee.",
+    "A group sex position called the \"Russian Nesting Doll\".",
+    "Taking a fat crap in the back of a crowded schoolbus.",
+    "An inconspicuous fart.",
+    "SHITFUCKDICKCUNT.",
+    "Kitty titties.",
+    "Putting out a grease fire by sitting on it with your bare ass.",
+    "Slitting my throat and fucking the wound.",
+    "Third degree burns to the vagina.",
+    "Ass invaders.",
+    "Accidentally getting a midget lodged in your rectum.",
+    "Mac and cheese and scrotum.",
+    "Vagina cheese.",
+    "Getting knifed in the vagina.",
+    "Masturbating to particularly playful kittens.",
+    "Dick-sized clit.",
+    "Donald Trump themed sex toys.",
+    "Sexy T-Rexy.",
+    "Duck fuckery.",
+    "Intentionally catching and spreading AIDS.",
+    "Some really, really fucked up shit.",
+    "Senile geriatric cumslut.",
+    "Cum boogers.",
+    "A slim, feminine penis.",
+    "Hurricanes of cum."
+  ],
+  "pack": {
+    "id": "NZDB5",
+    "name": "Obscene Disgusting Nonsense"
+  },
+  "quantity": {
+    "black": 124,
+    "white": 336,
+    "total": 460
+  },
+  "dateStoredMs": 1589576140944
+}

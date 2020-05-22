@@ -1,0 +1,42 @@
+{
+  "black": [
+    {
+      "content": "Japan killed _ in retaliation to the U.S. harboring _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new cancer research determined that only Jews will get _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Jews were actually guilty of hating_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler only wanted to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jewish holidays that make no sense.",
+    "Kristallnacht.",
+    "Kill all Jews for reasons unknown.",
+    "Himmler.",
+    "Some faggots who don't know how to do things.",
+    "Neil Morrison."
+  ],
+  "pack": {
+    "id": "W4VAA",
+    "name": "Hitlers box o fun"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 6,
+    "total": 10
+  },
+  "dateStoredMs": 1589165410482
+}

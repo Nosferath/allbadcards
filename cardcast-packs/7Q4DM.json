@@ -1,0 +1,40 @@
+{
+  "black": [],
+  "white": [
+    "Pacman.",
+    "Link.",
+    "Pikachu.",
+    "King dedede.",
+    "Kirby.",
+    "Lucario.",
+    "Inkling.",
+    "Peach.",
+    "Megaman.",
+    "Samus.",
+    "Shulk.",
+    "Bowser.",
+    "Mario.",
+    "Ganondorf.",
+    "Zelda.",
+    "DK.",
+    "Waluigi.",
+    "Charizard.",
+    "Yoshi.",
+    "Luigi.",
+    "Mewtwo.",
+    "Sonic.",
+    "Wario.",
+    "Ryu.",
+    "Greninja."
+  ],
+  "pack": {
+    "id": "7Q4DM",
+    "name": "Nintendo characters"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 25,
+    "total": 25
+  },
+  "dateStoredMs": 1589493798045
+}

@@ -1,0 +1,133 @@
+{
+  "black": [
+    {
+      "content": "People die when _ are killed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You absolute mongrel! You would have me use _ here?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gem Magic is useful for everything except _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the best waifu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strive beyond _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The favorite food of a homunculis is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This _ is delicious!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Breaking 101: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirei's favorite pasttime is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now, the undefeated king sings aloud the name of the miracle she holds in her hand. Its name is... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am the _ of my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The path of devotion is a great labor. Do not ever mar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is truly a _ worthy of Kings!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ class is really made up of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To be _ is suffering.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Must a King be _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I heard that Gilgamesh possesed everything in the Gates of Babylon, I asked him if I could have _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fanservice.",
+    "Crest Worms.",
+    "Gilgamesh.",
+    "Fate/Stay Night: Unlimited Blade Works.",
+    "Arondight, that traitorous blade.",
+    "Lancelot.",
+    "Iskander vs Bill Clinton.",
+    "Unlimited Blade Works.",
+    "Righteous indignation.",
+    "Glorious bloodshed.",
+    "Mongrels.",
+    "The wine of Gilgamesh.",
+    "Rank B+ Charisma.",
+    "Tohsaka's mild condescension.",
+    "Saber in a elegant gothic lolita dress.",
+    "The Holy Grail.",
+    "Tsun-flare.",
+    "The Gates of Babylon.",
+    "Saber crossdressing.",
+    "Berserker-Waifu.",
+    "Cooking Lessons with Shirou.",
+    "The fabulous face of Zouken Matou.",
+    "Broskander.",
+    "Fate/Zero.",
+    "Gay Bolg.",
+    "Saber Alter.",
+    "Rank E Luck.",
+    "The tears of Rin.",
+    "Avalon.",
+    "Overflowing Grail of Black Ooze.",
+    "Enuma Elish.",
+    "EX-CALIBUUUUUR."
+  ],
+  "pack": {
+    "id": "WZANW",
+    "name": "Fate/Stay Night and Fate/Zero"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 32,
+    "total": 49
+  },
+  "dateStoredMs": 1589476304946
+}

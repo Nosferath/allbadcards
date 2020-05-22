@@ -1,0 +1,517 @@
+{
+  "black": [
+    {
+      "content": "Ako yung lasing na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ang gwapo ni _. Ang sarap nyang _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where do brokenheart goes? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nag lalakad na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wag mahihiyang mag tanong kung _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's more fun in the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si _ ang Tunay na lodi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hindi ka nag iisa sadyan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gusto ko mag wala kasi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabi nang nanay ko _ daw ako.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When in doubt always trust _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mukhang _ si _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "From _ to _,",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hindi ko kayang mag _ pag _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You're such an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masarap kumain ng _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walang kwenta si _ irl.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walang _ si _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mag kapatid talaga si _ at _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hawig kami ni _ irl.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarap kumain ng _ kapag _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Petmalu talaga yung mga taong _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dapat gawing batas ang _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nakakainis yung _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: Si Jollibee ay _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pileng _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last day on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mukang wasak na _ si _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Minsan maiisip mo nalang talagang _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking News: PACMAN sinapak si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tingin ko malapit ng matokhang si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hindi talaga ako _, _ lang.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Breaking news: Nag kabalikan na si _ at _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ang sarap ng _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anong ulam natin ngayon _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ipatokhang si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mahilig manood ng _ si _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tangina nung _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dapat _ ang _ ng mga manloloko.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nag hihilod kaba ng _? b't may _ kaparin?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kilala ko si _. Tingin ko sya ay _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dapat nang ipa-deport si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bawal _ nakakamatay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parang _ si _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Should I say _ in front of you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vote _ for president!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para akong si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah si _ yung _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gusto kong apakan yung _. Para _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Walanghiya kang  _ ka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're nothing, but a _ trying hard _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lapad ng _ mo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Galit ako sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wag maniwala sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "San mo nakita si Crush? sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ang hirap ma fall sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love it when _ do sexy dance.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wala kong pake sa_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turn off sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natatawa ako sa_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The day after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay nako sa _, promise.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Di mo talaga maiiwasan tumingin sa _ lalo nakung _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wala paring tatalo sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarap barilin ni _ sa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Maganda mag migrate sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sa sobrang _. di ko akalain na _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Di na sya maka hinga.",
+    "Libag.",
+    "Maitim na batok.",
+    "Pinipig.",
+    "Babalu.",
+    "Gemma.",
+    "Apakan.",
+    "Pagnasaan.",
+    "Lasinggera.",
+    "Kris Aquino.",
+    "Cleavage.",
+    "Manyakis.",
+    "Epeps na malansa.",
+    "Andrew E.",
+    "Tangina!!!.",
+    "Bayag.",
+    "Gupitin.",
+    "Tulog.",
+    "Xander Ford.",
+    "Libag.",
+    "Pag nasaan si James Reid.",
+    "Kathryn Bernardo.",
+    "Jepoy Dizon.",
+    "May mabahong paa.",
+    "Bato.",
+    "Kamay.",
+    "Mommy D.",
+    "La luna sangre.",
+    "James Reid.",
+    "Tinder.",
+    "Nog nog.",
+    "Noy Noy Aquino.",
+    "Mukha nya.",
+    "Buto.",
+    "Dikdikin.",
+    "Mamatay na sya.",
+    "Putangina!!.",
+    "Talong ni Marlou.",
+    "Hanap ka ng nanay mo!.",
+    "Mia Khalifa.",
+    "Malibog.",
+    "Jill Rose.",
+    "Vice Ganda.",
+    "Daliri.",
+    "Jollibee.",
+    "Etits.",
+    "Adik.",
+    "Mang inasal.",
+    "Modtakels.",
+    "Sarah Lahbati.",
+    "Donald Trump.",
+    "Pakyu.",
+    "Mabaho.",
+    "Clickbait.",
+    "Kamay.",
+    "Japan.",
+    "Uwe!.",
+    "Safe ako GAGO!.",
+    "Master Bait.",
+    "Jack cole.",
+    "Nadine Lustre.",
+    "Banyo.",
+    "Chitae.",
+    "Lasing.",
+    "Maliit etits mo.",
+    "Walang nag mamahal sayo.",
+    "Huminga.",
+    "Nagagalit ako!!.",
+    "Gago.",
+    "Tanga.",
+    "Nandun sya.",
+    "Ngiti ni Liza.",
+    "CR.",
+    "Jejomar Binay.",
+    "McDo.",
+    "Mang Kanor.",
+    "Nararamdaman mo.",
+    "Punyeta.",
+    "Malay ko.",
+    "Bugbugin.",
+    "Joey De Leon.",
+    "Empilight.",
+    "Utong na galit.",
+    "Selana Gomez.",
+    "Liit ng etits nya.",
+    "Pia wurtzbach.",
+    "Banyo Queen.",
+    "Gemma.",
+    "Tae.",
+    "Paa.",
+    "Omegle.",
+    "Mobile Legends.",
+    "BBC (BIG BLACK ....).",
+    "Daniel padilla.",
+    "Maitim na batok.",
+    "Marlou.",
+    "Etits na mahaba.",
+    "Pogi.",
+    "Vic Sotto.",
+    "Gemma.",
+    "Maganda.",
+    "Magnum na Xander Ford.",
+    "Ipatokhang.",
+    "CampSawi.",
+    "Mamatay na sya.",
+    "Nguso.",
+    "Justin Bieber.",
+    "Etits na galit.",
+    "Duterte.",
+    "Kili-kili.",
+    "Putulin!.",
+    "Horny ka.",
+    "May mukhang katulad ni Marlou.",
+    "Tagain.",
+    "Binay.",
+    "You should love yourself.",
+    "KFC.",
+    "Pinipig na Marlou.",
+    "Durugin.",
+    "Mamatay na sya.",
+    "Joke.",
+    "Apakan.",
+    "Noo.",
+    "Lasinggero.",
+    "Rarapin si Marlou.",
+    "Nag aadik na.",
+    "Baron Geisler.",
+    "Richard Gutierrez.",
+    "Mang Inasal.",
+    "Kulangot.",
+    "Tag libog ka.",
+    "Itim.",
+    "Mang Kanor.",
+    "Pag patay sa mga BES.",
+    "May etits sa noo.",
+    "May libag sa singit!.",
+    "Sa muka ni Marlou.",
+    "Fuckgirls!.",
+    "A dick.",
+    "Idiot.",
+    "Sa titan gel ni Jake Zyrus.",
+    "Dick Gordon.",
+    "Sa pilay na tumatambling.",
+    "DICK.",
+    "Sa feelings ni Jake Zyrus.",
+    "Dickhead.",
+    "Puta!!.",
+    "Sa burol ni EX!.",
+    "Walang kape sa bahay.",
+    "Boobs ni Pia.",
+    "Liza Soberano.",
+    "Last day nya na sa earth.",
+    "May bulbol sa pusod.",
+    "Porn.",
+    "Pinaglihi ako sa Balot.",
+    "Fuckboys!.",
+    "Asshole.",
+    "Bitch.",
+    "Pussy.",
+    "Dick.",
+    "Gay Porn.",
+    "Boner.",
+    "May bayag sa noo.",
+    "Sa kabit ng nangiwan sayo.",
+    "Dick.",
+    "Sa Muka ni Marlou."
+  ],
+  "pack": {
+    "id": "CP76K",
+    "name": "Hayme(Updated)"
+  },
+  "quantity": {
+    "black": 67,
+    "white": 166,
+    "total": 233
+  },
+  "dateStoredMs": 1589210249455
+}

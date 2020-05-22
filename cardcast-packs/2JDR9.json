@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "I want to spend a day doing _ with Tony.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is Tony doing this week? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clint's favorite thing to do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I met Thor I would _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I secretly love the pairing of _ and _ together.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mission _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I met the Avengers, I would not be here, I would be busy doing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a rumor that Natasha was in New York _. I'm disgusted but also kind of aroused.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natasha secretly liked it when _ and _ were _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Aren't all the Avengers living in Stark Tower? I bet they're all up there _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate it when Tony steals my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steve's first thought after waking up in New York was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHAT is Tony building??? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stucky.",
+    "The demigod, a super soldier, living legend who kinda lives up to the legend,  a man with breathtaking anger management issues and  couple of master assassins.",
+    "Stealing Nick Fury's eyepatch.",
+    "Tony's awkward robot that's bad at being a robot.",
+    "Being pissed that Loki destroyed half of Manhattan and only got imprisoned for like a year.",
+    "Poking Bruce with a stick.",
+    "Using Wolverine's claws to cut meat for a sandwich.",
+    "Spiderman and MJ together.",
+    "Nick Fury's biggest blackest dick.",
+    "Odin's A+ parenting.",
+    "Hiding in the vents for no reason.",
+    "Secretly liking fanfiction with all the Avengers together.",
+    "Avengers orgy.",
+    "Deadpool bringing tacos with laxatives in them to Deadpool cosplayers at comic-cons.",
+    "Thor's horse. The Thorse.",
+    "Standing in Director Fury's blind spot on purpose.",
+    "Stealing all the poptarts.",
+    "Shawarma.",
+    "Thor misunderstanding the meaning of gay."
+  ],
+  "pack": {
+    "id": "2JDR9",
+    "name": "Marvel, Superheros and other Fandom Shenanigans"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 19,
+    "total": 32
+  },
+  "dateStoredMs": 1589035220052
+}

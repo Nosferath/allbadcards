@@ -1,0 +1,158 @@
+{
+  "black": [
+    {
+      "content": "_ ist ein weiterer Beweis, dass Gott nicht existiert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ möchte, dass alle zufrieden sind.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An deinem Schuh klebt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kommt aus _ Loch.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "*furz* Entschuldigung, der ging an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist vom Basar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich werde _ nie verstehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hatte kein Sex vor der Ehe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hier ist es wie beim Arzt, man wartet auf _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe noch nie _ , außer _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ist ja eigentlich gut, so eine alte Lehrerin zu haben, die _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der G-Punkt ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zum _ kannst du in die Kirche gehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist segeln? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich würde gerne mit _ einen Böller rauchen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ohh, ich fühle mich wie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn _ das Zimmer verlässt, dann muss man erstmal lüften!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich würde gerne  ein/en _ rauchen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was kommt vor 30? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kurze Strecke mit vielen Kurven.",
+    "Eckentiere.",
+    "Dirty geil.",
+    "Wasserstoffgras.",
+    "24/7 Baum (andere Bäume stehen nur im Herbst da und fliegen dann in den Süden).",
+    "Zoe.",
+    "Der G-Punkt.",
+    "Böller.",
+    "Jonas.",
+    "Präsident.... ähh Präsentation.",
+    "Glauben.",
+    "Michelle.",
+    "Besserwisser.",
+    "Schule im Brennpunkt.",
+    "Frau Köhler.",
+    "Feuerwehrmann Sam in Strippermontur.",
+    "Osterhasentechnologie.",
+    "Farborgasmus.",
+    "Antiarschtouchsystem.",
+    "Ins X gehen und ein paar Mädels flunken.",
+    "Stockschwul.",
+    "Mikalores.",
+    "Donald Dump.",
+    "Mika.",
+    "Florian.",
+    "Hauptschüler Dilhat, vallah.",
+    "Nazi.",
+    "Die Fotze.",
+    "IRRELEVANT.",
+    "Saskia.",
+    "Lallend: \"saufeeen für den Weltfriedeeen\".",
+    "Mika und Florian.",
+    "ESSEN!.",
+    "Der Wassererzähler.",
+    "Weil Baum.",
+    "Liebestest: Hermine Granger.",
+    "Das bewölkte Sönnchen.",
+    "Yogamatte.",
+    "Dessous.",
+    "Halb Null Uhr.",
+    "Serviette.",
+    "Eine Lachnummer.",
+    "Naturscheiße.",
+    "Denken.",
+    "Nur eine Nummer.",
+    "EGAL!.",
+    "Baum-Niveau."
+  ],
+  "pack": {
+    "id": "JQJE9",
+    "name": "🤷‍♂️🤷‍♀️Ist mir egal🤷‍♀️🤷‍♂️"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 47,
+    "total": 66
+  },
+  "dateStoredMs": 1588871755304
+}

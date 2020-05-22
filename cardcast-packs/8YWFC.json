@@ -1,0 +1,79 @@
+{
+  "black": [
+    {
+      "content": "I ship _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Before deciding to call the books \"The Lord of the Rings\" and \"The Hobbit,\" he also considered _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The obvious sexual attraction between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"A _ is never late. He arrives precisely when he means to!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What hurts the most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is such a Boromir thing to do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Fellowship of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What about second _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bimbo Baggins.",
+    "Smaug's smexy voice.",
+    "Peter Jackson's poor decisions.",
+    "Breaking your staff.",
+    "Confusing Elijah Wood for Daniel Radcliffe.",
+    "Dobby.",
+    "Throwing pieces of your broken castle at the enemy.",
+    "Erotic Tolkien dreams.",
+    "Being thrown from a tower.",
+    "Dildo Baggins.",
+    "Loving one son more than the other.",
+    "Foot fetishes.",
+    "Wearing a loin cloth to cover your missing penis.",
+    "Gollum not having a dick.",
+    "Background Legolas.",
+    "Smog.",
+    "Sexual attraction to short hairy men.",
+    "Legolas just being generally awesome.",
+    "Shamelessly shipping the actors.",
+    "Extended edition with orc sex scenes.",
+    "My Erotic Life, by Bilbo Baggins.",
+    "Battle Pigs.",
+    "Legolas using a shield as a surfboard."
+  ],
+  "pack": {
+    "id": "8ywfc",
+    "name": "Lord of the Rings"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 23,
+    "total": 31
+  },
+  "dateStoredMs": 1588451025689
+}

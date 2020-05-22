@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "Durante le assemble di classe è buona norma_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I Dystopia avrebbero avuto successo se non fosse stato per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante le ore di Goio si era soliti_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova Eau de Fenusten odorerà di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho creato un nuovo gioco che si chiama_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E' scientificamente provato che fumare le canne è utile per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho trovato un nuovo soprannome per Lucano:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il venerdì sera a Scaletta puoi trovare sicuramente_ intento a_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Il nuovo pezzo di Fausto aka Concilio si intitola_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In cima alla Colonna Traiana si trova la statua di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La custodia rossa del violino di Sofia è ottima per nasconderci_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dellagiacoma comunista.",
+    "Una cicca rollata da Lucano.",
+    "Picchiare Bettucchi.",
+    "Rubagotti.",
+    "Zezzi Lonny amica delle guardie.",
+    "La pancia di Fausto.",
+    "Luca Benedetti.",
+    "I capelli di Lucano.",
+    "Fare aperitivo.",
+    "Men at work: lavori al lavoro.",
+    "La risata da foca monaca della Vale.",
+    "Sofia che piange dal ridere.",
+    "La Banfa.",
+    "Rudi Graffer.",
+    "Ermanno Cecconi.",
+    "Perini.",
+    "Latte di Suocera.",
+    "Fare freestyle da troppo ubriachi.",
+    "Depedri.",
+    "Edoardo Battiti.",
+    "La barba di Giovanni Duca.",
+    "Maria Prodi.",
+    "La musica indie di Leo.",
+    "Tobia Modanese.",
+    "No fra!.",
+    "Tommaso Torregiani.",
+    "Nick e Rudi nudi.",
+    "Edo distrutto dal peso della vita.",
+    "Tommaso Ropelato.",
+    "Sboccare nel bidè.",
+    "Nicolò Carazzai.",
+    "Taufer.",
+    "La GrafferMania.",
+    "Andare a fare un givo.",
+    "Tomaselli.",
+    "Una grigliata in compagnia.",
+    "Abbracciarsi tutti nudi in sogno.",
+    "Valentina Nicolussi.",
+    "Goio.",
+    "Marchella ubriaco che picchia Lucano.",
+    "Sniffare tabacco.",
+    "Pietro Faustini.",
+    "Tatteo Maufer.",
+    "Sartorelli.",
+    "Uno Champagnone in Scaletta.",
+    "Ordinare un filetto fish al Mc all'una di notte.",
+    "Dino Cisare.",
+    "Valduga.",
+    "Sofia Bortolotti.",
+    "Darsi fuoco ai polpacci per dimostrare chi è il maschio alpha.",
+    "Leonardo Marchesini.",
+    "Il corno della Goio.",
+    "Fumare nel vicolo del Prati."
+  ],
+  "pack": {
+    "id": "FRJPH",
+    "name": "Grigliata"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 53,
+    "total": 64
+  },
+  "dateStoredMs": 1588337304059
+}

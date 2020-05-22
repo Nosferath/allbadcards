@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "Sticking _ up your butt does not make you _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You're not your job. You're not how much money you have in the bank. You're not the car you drive. You're not the contents of your wallet. You're not your fucking khakis. You are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first rule of _ club is you do not talk about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I had a tumor, I'd name it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who would I fight? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am Jack's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Listen up, maggots. You are not special. You are not a beautiful or unique snowflake. You are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Project Mayhem.",
+    "Listen up, maggots. You are not special. You are not a beautiful or unique snowflake. You are _.",
+    "Getting fucked like you're in grade school.",
+    "Selling rich women their own fat asses back to them.",
+    "Kicking Jared Leto's fucking face in.",
+    "Firing a gun at your imaginary friend next to 400 gallons of nitroglycerine.",
+    "Stalking from office to office with an AR-10 gas powered semi-automatic assault rifle pumping round after round into colleagues and co-workers.",
+    "Bob's bitch tits.",
+    "Bob's bitch tits."
+  ],
+  "pack": {
+    "id": "86S2E",
+    "name": "Get Hit Club"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 9,
+    "total": 16
+  },
+  "dateStoredMs": 1588522819042
+}

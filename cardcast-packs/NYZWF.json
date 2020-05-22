@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "When Bakugou gets home from school everyday he _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When accepting new teens, U. A. looks for _ in their students.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "NYZWF",
+    "name": "My Hero Academia"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588493517804
+}

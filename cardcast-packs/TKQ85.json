@@ -1,0 +1,123 @@
+{
+  "black": [
+    {
+      "content": "When _ joined the party, Lang decided to call them _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In his shop, Jamie now proudly displays _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chaos erupted after someone introduced _ to Kathleen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jamie couldn't sleep for a week after reading the mind of _ and discovering _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ and _ ? I ship it!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Robert Lindis was able to ascend simply by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ appeared in New York, it could only be stopped by the combined power of _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When Tyrell unveiled his nefarious plan about _ , only _ could stop him!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lately, Ricky's jacket has fallen into the hands of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week, the Gramercy Arcane Society is threatened by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Paul believes he cannot cure is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "All the homeless people saved by Kugrash.",
+    "Curb-stomping a mind flayer pirate.",
+    "A wallet full of fake IDs.",
+    "A vampire nightclub.",
+    "A rat king made up of many un-king-ly rats.",
+    "The rippling muscles of Ricky Matsui.",
+    "Hitting a baseball so hard it kills a sentient teacup.",
+    "Kathleen's douchy ex Silas.",
+    "Paul \"Voxy\" Waters.",
+    "Globetrotting around the world in search of magical artifacts.",
+    "Accidentally letting loose a host of hipster demons.",
+    "Paw-Paw, master of the scramble.",
+    "Shambling candy zombie Santa.",
+    "Kung-Fu Dad.",
+    "Kidnapping a statue to make it your bride.",
+    "Robinson Tyrell.",
+    "Global adventuring wizard Jamie Reese.",
+    "Breaking yet another baseball bat.",
+    "Inexplicably magical family trips.",
+    "Adopting the sewer kobold.",
+    "A surprisingly depressing vision quest.",
+    "Selling drugs to your landlady's underage son.",
+    "Accidentally banishing your father to Dream.",
+    "Treating an Ogre's bad eating habits.",
+    "A cooler teenage werewolf.",
+    "Carrying the grayby.",
+    "The odyssey journey of Ricky's jacket.",
+    "Riding Paul's magic bus.",
+    "Getting high with a tiefling.",
+    "Shooting magic out of an automatic rifle.",
+    "Ol' Cobb and his musket.",
+    "Using the vast powers of the realm of dream to make a cool sword.",
+    "The chaotic antics of the Vox Phantasma.",
+    "The Nightmare King's favourite tentacle.",
+    "Decapitating a vampire with a fireman axe.",
+    "Gaining magical powers through a pyramid scheme.",
+    "A teapot full of delicious sickness.",
+    "Asking an archdevil for permission.",
+    "Getting advice from vague wizards.",
+    "Stealing Santa's list.",
+    "Sprocc the Swolbold.",
+    "A buff vampire with a man-bun.",
+    "Remembering Mike.",
+    "Jamie's murder basement.",
+    "Abigail marking her territory in wolf form.",
+    "Kaleidoscope the magic kitty.",
+    "The Prism Rangers.",
+    "Abigail \"Loba\" Short.",
+    "Getting blinded trying to kill a teenager.",
+    "A talking cat living in a bodega.",
+    "Scaring a vampire into suicide.",
+    "Song Lang Ching."
+  ],
+  "pack": {
+    "id": "TKQ85",
+    "name": "Gramercy Park"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 52,
+    "total": 63
+  },
+  "dateStoredMs": 1589501895208
+}

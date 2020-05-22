@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "Ce faire _ par des chameaux c'est cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je suis allez en _ et je me suis fait _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hier soir,je me suis fait _ par des hommes masqués.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai mangé des _ et c'était trés bon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mes potes mon _ avec du tsatsiki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bonjour je suis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ c'est vraiment géniale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce _ rend sourd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'était dans la rue et _ ma parlé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avec ma copine,on a fait _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HG96E",
+    "name": "Deck francais"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 0,
+    "total": 10
+  },
+  "dateStoredMs": 1589060105391
+}

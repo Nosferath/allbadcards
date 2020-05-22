@@ -1,0 +1,105 @@
+{
+  "black": [
+    {
+      "content": "Alchemy works by controlling _ with the _ in order to _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Sihiriaad is best known for its export of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sands are famous for two things: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The war started because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have now reached the latest development in alchemy. We call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was _ that took many Sihiri lives.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is what built Avarios's military might.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lynn has a new asset to her heists, known as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Basilisk barbarians have mastered the art of _ in their latest attacks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Ebonan's night time beauty is not complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avarios stands for 3 virtues: _ , _ , and _ .",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Showing up suddenly to a conversation and jump scaring everyone.",
+    "Clover.",
+    "Using natural medicine from a monkey and not questioning its effectiveness.",
+    "The snake lady.",
+    "Imbeciles.",
+    "Complaining to your fatha for not approving your new idea for a law.",
+    "Zadd.",
+    "Complaining about the tapestry.",
+    "Lynn.",
+    "Alchemy.",
+    "Cythe.",
+    "Javis.",
+    "Another new god.",
+    "Your stupid farming tool themed nickname.",
+    "Azria.",
+    "Fools.",
+    "Moon worshipers.",
+    "Finn's defensive wing flash.",
+    "Prince Marcel.",
+    "Deimos Von Montrey.",
+    "Riko.",
+    "Sanjey.",
+    "Ethalyn.",
+    "The rat boy.",
+    "Those sand people.",
+    "Getting your mech arm replaced with a spatula.",
+    "Emperor Alberic Thalemor.",
+    "Barbarians.",
+    "Pepper.",
+    "Torin.",
+    "Riko's parkour accidents actually helping him escape an Avarian pursuit.",
+    "Clover's dope bluegrass.",
+    "A mix of ground up substances burning the hell out of your combat wound to treat it.",
+    "Finding out your father is a ruthless warlord after all."
+  ],
+  "pack": {
+    "id": "749XR",
+    "name": "Queshian Deck"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 34,
+    "total": 45
+  },
+  "dateStoredMs": 1589085628333
+}

@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "Hey kid! give me all your _ , or else!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usually the alarm only goes off when there's a fire. But today it went off becauce of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to budget cuts, the girls and the boys will need to share the same _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maths: B+; English: B; _ A-.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, yes this is Mrs _. I hate to \"break the news to you\" but your son was caught doing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Okay class, today we're going to learn about _ and I don't care about your opinion on it. So stay quiet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the reason why Mr jackabson wasn't allowed back into room? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Billy was sent home early from the excursion to the city because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In test conditions, the only things we are allowed to do are: Work, sit quietly and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite subject is _. It's so interesting.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "MUREF",
+    "name": "Back to school"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 0,
+    "total": 10
+  },
+  "dateStoredMs": 1588989271784
+}

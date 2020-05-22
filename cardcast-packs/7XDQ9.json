@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "What has Dwite annoyed? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Jim Halpert getting on Dwites nerves this time? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The chili episode.",
+    "No GOD PLEASE NO NOOO-.",
+    "Dwite crying in the hallway.",
+    "Jim dressing as dwite for the day."
+  ],
+  "pack": {
+    "id": "7XDQ9",
+    "name": "The Office"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1589166184057
+}

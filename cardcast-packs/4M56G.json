@@ -1,0 +1,163 @@
+{
+  "black": [
+    {
+      "content": "_, the Dragon of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In DA2's secret after-credits scene, Varric reveals that _ was really _ all along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I were in DAI, _ would be either my default card or my friend card, my trouble card would be _, and my romance card would be _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The next morning after Wicked Grace, all of Skyhold watched in awe as Varric got Cassandra to bench-press _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My sibling went on a Deep Roads expedition and all I got was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Summon the war council! I'm declaring a mission for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Found a letter asking to meet in the wilderness somewhere? Yeah, one or more of those people is probably _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Cullen saw a war table mission for _, he quit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Oh, Merrill ... when Isabela says '_,' she’s really talking about _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you know that Thedas is actually _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chanting \"_,\" the blood mage sacrificed _ to further their plan for _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_'s name as Divine would be \"_.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_'s role in the Qun would be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oppression of mages stems from _, not _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Magic exists to serve man, and not for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I would treasure the chance to be _ again.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his most recent interview, Patrick Weekes revealed that _ tastes a little like cinnamon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Evidently, it doesn't matter if you rip apart _ in the process.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Did he ever ask you to play '_ and _?' I hear it's quite popular.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Maric's first love ended with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the Inquisitor exposed Skyhold to _, it took Cole two weeks to make everybody forget.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Oh Grey Warden / What have you done?\" _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Darkspawn decorating sense.",
+    "Riding that Grey Warden stamina all night.",
+    "Fine dwarven crack, direct from Orzammar.",
+    "A lot of demons.",
+    "Roasting marshmallows in the Chantry explosion.",
+    "Cullenary talents.",
+    "Finding Anders in DAI, bringing him to judgment, and sentencing him to exile ... at a nice little cottage on the beach with Hawke.",
+    "Yelling at Maryden to play \"Freebird\".",
+    "\"asschabs\".",
+    "The latest issue of The Randy Dowager Quarterly.",
+    "Iron Bull's big black box.",
+    "Circlejerk of Magi.",
+    "Being elbow deep in Circumstances.",
+    "Thaddeus Gigantus Crumbum the Third.",
+    "A Skyhold upgrade costing 50 drakestone and 10 deposits of sela petrae.",
+    "A direct-to-DVD adaptation of Hard in Hightown starring Tom Cruise.",
+    "Krem brulee.",
+    "The Arishocker.",
+    "A finer, more cultivated moustache.",
+    "That electricity trick.",
+    "A berserker who just can't \"get himself up\".",
+    "Cassandra Dark'ness Dementia Raven Pentaghast.",
+    "Grumpy old dwarves with guns.",
+    "Ancient Evanuris theorists.",
+    "Handcuffing Anders and Fenris together until they get along.",
+    "A bigger, thicker beard.",
+    "The Lay Warden.",
+    "Equipping Varric with daggers.",
+    "Running out of elfroot because you smoked it all.",
+    "Anders's Neko Atsume boxer shorts.",
+    "A big wooden sign that says \"DON'T\".",
+    "A magical lobotomy.",
+    "A baby Andraste buttplug.",
+    "Making an under-leveled suicide run into a high dragon's territory for crafting materials.",
+    "Giving Cole the sex talk.",
+    "Corypheus's resting bitch face.",
+    "Sobbing as you leave Solas behind an eluvian forever."
+  ],
+  "pack": {
+    "id": "4M56G",
+    "name": "Cards Against Dragon Age 1st Expansion"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 37,
+    "total": 59
+  },
+  "dateStoredMs": 1588790541062
+}

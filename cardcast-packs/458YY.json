@@ -1,0 +1,566 @@
+{
+  "black": [
+    {
+      "content": "_ : Logro desbloqueado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me quedé dormido viendo HBO, y cuando desperté, estaba _ en la televisión.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi computadora se infectó por ver _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es lo que nunca falla para animar la fiesta? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ arruinó mi vida...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi mamá descubrió que existe una aplicación para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿ _? Es sólo la versión barata de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "¿Qué me esconden mis papás? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amarte es fácil, porque eres _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Con qué se disfruta un buen vino? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ siempre me exita.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Logré graduarme gracias a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ayer por la tarde, la ONU declaró que _ debe ser un derecho básico.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi nuevo anime favorito es: _ Shippuden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi perro murió, se llamaba _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En caso de incendio, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sé que es tonto, pero tengo miedo de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Como los Beatles dijeron, todo lo que necesitas es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por culpa de _ me mandaron al psicólogo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el secreto para una buena relación? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es mi superpoder? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿A qué huelen los ancianos? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¡Por fin! Un servicio que te entrega _ hasta la puerta de tu casa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En el próximo episodio de Dragon Ball Z, Gokú tiene una intensa pelea contra _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante su crisis de la mediana edad, mi papá se involucró en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué sonó? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : El crimen perfecto.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¡Viernes por la noche! Hora de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué mató a los dinosaurios? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pasajeros, les habla su capitán, abrochen sus cinturones y prepárense para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error 404: _ no encontrado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Recuerdas _? Volvió, en forma de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "El villano de Los Vengadores 3 será _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el mejor regalo de aniversario? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Al principio fue difícil, pero ya me acostumbré a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Por qué estoy pegajoso? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por elección de la mayoría, la nueva mascota de la universidad es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No subestimes el poder de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El Internet fue creado para ver _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para el día de las madres, a mi mamá le di _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lo siento señor, pero no permitimos _ en el bar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ El musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué hay en el maletín? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lo último que compré en Steam fué el simulador de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coca-cola presenta la nueva \"Coca-cola: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desde que llevamos la clase de _ , nadie es el mismo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el próximo juguete de la Cajita Feliz™? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¡Qué rico! podría lamer _ todo el día.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si _ fuera un deporte olímpico, ganaría la medalla de oro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El espacio se expande a 10 _ por segundo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿ _? ¿En la primera cita? Bueeeeno...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lo de hoy es la cumbia de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En el museo de la ciudad, hay una sala interactiva sobre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué me hizo cambiar de sexo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En un viaje con ácido, _ se convirtió en _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Después del \"incidente\", cada que cierro los ojos veo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hice mi primer video porno, se titula _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nueva bebida de moda en todos los bares es _ con vodka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué se pone más bueno con la edad? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me da vergüenza admitirlo, pero he hecho favores sexuales a cambio de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es lo que recibió el niño ciego del orfanato esta navidad? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Problemas con _? ¡Prueba _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cada Navidad, mi tía se pone borracha y cuenta la historia de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La cena de navidad se arruinó cuando el abuelo puso _ sobre la mesa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué voy a traer del pasado con mi máquina del tiempo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A los 9 años me gustaba jugar a _ con mis primos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La pelea del siglo: _ contra _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Disney presenta: _ sobre hielo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dante y Virgilio entraron al décimo círculo del infierno, donde los pecadores son condenados a una eternidad de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ese momento incómodo, cuando despiertas con un tatuaje de _ en tu nalga izquierda.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Un millón de cocodrilos.",
+    "3.7 billones de años de evolución.",
+    "Fumar marihuana, jugar basketball y cogerme a tu hermana sin usar condón.",
+    "Un niño autista.",
+    "Un condón roto.",
+    "Buena ortografía.",
+    "Tampones en todos los hoyos.",
+    "Un gatito.",
+    "Padres muertos.",
+    "Hambre.",
+    "Usar Comic Sans.",
+    "Alienígenas ancestrales.",
+    "Bob Esponja.",
+    "Leer un libro entero.",
+    "Toda la tabla periódica.",
+    "Anular su voto.",
+    "Patos salvajes.",
+    "Diabetes.",
+    "El Papa Francisco.",
+    "Ir por ahí golpeando gente.",
+    "Attack on Titan.",
+    "Escupirle a un huérfano.",
+    "Sacársela en público.",
+    "El Titanic.",
+    "Destruir la evidencia.",
+    "Tener 9 años.",
+    "La santa biblia.",
+    "Buscar penes en línea.",
+    "Juan Gabriel, Grandes Éxitos.",
+    "Robocop.",
+    "Pastel de chocolate.",
+    "El 11 de Septiembre de 2001.",
+    "Vergazos en la cara.",
+    "Mi prima la buenota.",
+    "Salsa picante.",
+    "Escoba.",
+    "Cerveza para toda la semana.",
+    "Una roca.",
+    "Pelea de enanos en aceite.",
+    "El sandwich perfecto.",
+    "El método científico.",
+    "¡MI CARTA TRAMPA!.",
+    "Pechos de hombre.",
+    "Cantar en la iglesia.",
+    "Chaqueta mental.",
+    "Indigestión.",
+    "Algo tan ofensivo que no me atrevo a decir.",
+    "Un patito de hule.",
+    "La bota.",
+    "Una quinceañera inolvidable.",
+    "Cabalgar hacia el horizonte.",
+    "Tener el pito ancho.",
+    "Disfunción eréctil.",
+    "EXODIA.",
+    "Penes.",
+    "Nada.",
+    "El nacimiento.",
+    "3 penes peludos.",
+    "Vapear.",
+    "Ser gordo y estúpido.",
+    "El aguacate fantasma.",
+    "Sacrificar un virgen.",
+    "El corazón de las cartas.",
+    "Las cenizas de la abuela.",
+    "Meterse el dedo.",
+    "Tener cancer, sida y diabetes al mismo tiempo.",
+    "Un perro en silla de ruedas.",
+    "Los 9000 niños que murieron de hambre hoy.",
+    "John Cena.",
+    "De perrito.",
+    "Orinar sangre.",
+    "La misma madre.",
+    "Ponerse hasta arriba.",
+    "Ciencia.",
+    "Autofelación.",
+    "Un desayuno balanceado.",
+    "Jalársela triste.",
+    "Sábado Gigante.",
+    "Depresión.",
+    "Tener tres pezones.",
+    "Gritar \"Buu\" en las olimpiadas especiales.",
+    "El panochón.",
+    "Half-Life 3 confirmado.",
+    "Pitos chuecos.",
+    "El cuerpo de Cristo.",
+    "Reprobar todas las materias.",
+    "Un sandwich de mojón.",
+    "Gelatina.",
+    "Indígenas.",
+    "Mi primer erección.",
+    "Control de calidad.",
+    "Dos pitos al mismo tiempo.",
+    "Deportes extremos.",
+    "Autismo.",
+    "El pellejito.",
+    "Ligarte a una cajera.",
+    "Llegar tarde al bautizo.",
+    "El elemento sorpresa.",
+    "Desgarros anales.",
+    "En 4.",
+    "El toro mecánico loco.",
+    "El camión de la basura.",
+    "Todo el internet.",
+    "Una gran variedad de quesos.",
+    "Fotos de penes.",
+    "Paz mundial.",
+    "Las princesas de Disney.",
+    "Muestras gratis.",
+    "Puro tornillo.",
+    "Ayotzinapa.",
+    "Un extenso surtido para damas, caballeros, niños y bebés.",
+    "Estrangular un perrito para argumentar tu teoría.",
+    "Los gays.",
+    "El cinturón de mi papi.",
+    "Leche materna.",
+    "Suicidio accidental.",
+    "James Bond.",
+    "La virgen.",
+    "Beber para olvidar.",
+    "Sopa maruchan y una coca.",
+    "Ir a yoga solo para ver culitos.",
+    "Eructarle en la boca.",
+    "Sopa de popó.",
+    "La cama loca.",
+    "Selección natural.",
+    "200 años de esclavitud.",
+    "Un hombre mayor.",
+    "No tomar tu ácido fólico.",
+    "El lechero.",
+    "Fumar crack, para empezar.",
+    "Una caja.",
+    "Una marcha gay.",
+    "Ponerle un nombre bonito a tu tumor.",
+    "Violencia.",
+    "Jesús de Nazareth.",
+    "La tonta Texas.",
+    "Cosas blancas.",
+    "Una enorme salchicha alemana.",
+    "Feromonas.",
+    "Viajar en el tiempo.",
+    "Halo Reach.",
+    "Cosas redondas.",
+    "Una caca.",
+    "Chistes pelados.",
+    "La mamá de Luis.",
+    "Niños down en patineta.",
+    "Seducir al director.",
+    "Pelos en el ano.",
+    "Zumba.",
+    "¡Estos precios super bajos!.",
+    "Sólo la puntita.",
+    "Obesidad.",
+    "Un buen aderezo.",
+    "Ser amable.",
+    "Cerrar la laptop con tu pene en medio, para esconder la porno y tu pene.",
+    "Semen seco.",
+    "Un video de parkour con Linkin Park de fondo.",
+    "Con todo pero sin chile.",
+    "Pornografía infantil.",
+    "Un niño down con armadura.",
+    "Un beso negro.",
+    "El niño más gordito y más triste del mundo.",
+    "Confundir el pegamento con el lubricante anal.",
+    "10 datos curiosos sobre tu ano.",
+    "MechaHitler.",
+    "Niños con cancer en el culo.",
+    "Olerle el culo mientras duerme.",
+    "Un mamón en su iPhone.",
+    "Menstruación anal.",
+    "El arte del engaño.",
+    "Pedos vaginales no intencionales.",
+    "Un huevo revuelto con pelos.",
+    "El Power Ranger negro.",
+    "Un suculento pedazo de culo.",
+    "El pene más grande y más negro que he visto en mi vida.",
+    "Estrellas porno.",
+    "Lubricante sabor pene.",
+    "Un perrito, en su fiesta de cumpleaños, con un sombrero de vaquero ligeramente inclinado.",
+    "Fisting.",
+    "El Culo Falso™ y el Consolador Extreme™ a mitad de precio.",
+    "Hacer un trato con el diablo.",
+    "Hacer tu propia convención con tus muñecos y cobrar a tu mamá 1 moneda para entrar.",
+    "Ver las cosas desde la perspectiva de Hitler.",
+    "Hitler, Stalin, toda la pandilla.",
+    "Dormir con tu mejor amigo.",
+    "Tomar con responsabilidad.",
+    "Semen en la nariz.",
+    "Incesto accidental.",
+    "Tiburones con piernas.",
+    "Una vagina ácida.",
+    "El puto vecino con su música a madres a las 3 de la mañana, pinchi puto.",
+    "Ir al baño con la puerta abierta.",
+    "Dildos de dragón.",
+    "Un pene grande y negro.",
+    "Usar tu vagina como pensión de penes.",
+    "Un charco de semen.",
+    "La verga.",
+    "El pene eucarístico.",
+    "Pene a la diabla.",
+    "Sangrado anal."
+  ],
+  "pack": {
+    "id": "458YY",
+    "name": "Cartas contra Bruno"
+  },
+  "quantity": {
+    "black": 70,
+    "white": 200,
+    "total": 270
+  },
+  "dateStoredMs": 1589392122636
+}

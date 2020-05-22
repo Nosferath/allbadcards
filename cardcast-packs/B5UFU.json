@@ -1,0 +1,839 @@
+{
+  "black": [
+    {
+      "content": "Si, yo mate a _. ¿Cómo, preguntas? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "¿Cuál es la nueva dieta de moda? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pero antes de matarlo, Sr. Bond, debo mostrarle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿A qué huele la gente mayor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿A qué no podes _ comer solo una? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Durante el sexo, me gusta pensar en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Así termina el mundo, no con un bang, sino con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando los EEUU y la URSS corrian la carrera espacial, el gobierno Argentine dedicó millones de pesos a la investigación de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Una cena romántica a la luz de las velas estaria incompleta sin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paso 1: _ Paso 2: _ Paso 3: Ganancia.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La Asociación de Futbol Argentino ha prohibido _ por dar a los jugadores _ una ventaja injusta.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lo siento profesor, pero no pude completar mi tarea porque _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Por qué me duele todo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es el mejor amigo de una chica? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué me estén escondiendo mis padres? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando sea billonario, erigiré una estatua de 15 metros de altura conmemorando _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En los momentos finales de Michael Jackson, pensó en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué mejora con la edad? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El nuevo _ Gran Hermano Famosos va a tener 8 famosos de segunda viviendo con _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Antropólogos han descubierto recientemente a una tríbu primitiva que adora _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué terminé mi ﬁltima relación? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el placer culposo de Batman? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estudios muestran que las ratas de laboratorio recorren laberintos 50% más rápido después de ser expuestas a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo me pregunto, ¿para qué sirve la guerra? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Por qué estoy Pegajoso? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es una pena que hoy en dia los jovenes se estan metiendo con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es mi sustituto para no usar drogas? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es lo más emo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A continuación, en ESPN+: El torneo mundial de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el próximo duo de Superheroe/Ayudante? _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A la gente blanca le gusta _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿_? Hay una app para eso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La excursión del curso fue arruinada completamente por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué me da gases incontrolables? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Quó hago para mantener estable mi relación amorosa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿De qué hay un montén en el cielo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué llevaria en un viaje al pasado para convencer a la gente de que soy un poderoso hechicero? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Así quiero morir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué me traje de vuelta de Paraguay? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Choca los 5, papá.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es mi poder secreto? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuál es el próximo juguete de La Cajita Feliz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es ese olor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No se con que armas se luchara la tercera guerra mundial, pero la cuarta se luchara con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tengo 99 problemas, pero _ no es uno.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando el Faraón se mantuvo en su postura, Moisés llamó una Plaga de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca entendí _ hasta que me encontré con _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "¿Qué es lo más crujiente? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lo nuevo de JK Rowling: Harry Potter y la Cámara de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rico hasta la _ última gota. _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Después del terremoto, Sean Penn llevó _ a la gente de Haiti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es ese ruido? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En un mundo destrozado por _ nuestro único consuelo es _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Durante el frecuentemente no tenido en cuenta Periodo Marrón de Picasso, él produjo cientos de pinturas de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "¿Qué nunca falla para animar una fiesta? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En 1000 aﬁos, cuando el papel moneda sea una memoria distante, _ va a ser nuestra moneda.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hacé un haiku. _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ es un camino de ida a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La vida para los pueblos originarios cambió drásticamente cuando el hombre blanco les mostró _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Probado en niños, aprobado por madres. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué siempre lograra llevarte a la cama? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué encontraria la abuela perturbador, pero extraﬁamente encantador? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Quá prefiere Francisco de Narváez? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué comió Vin Diesel para la cena? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E! True Hollywood Story presenta _ la historia de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La normativa de la Secretaria de Transporte ahora prohibe _ en los aviones.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Llega a la Calle Corrientes este verano, _ El Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué ayuda a CFK a relajarse? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y el premio de la academia por _ es para _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ahora, en véz de carbón, Papá Noel le da a _ los chicos malos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con la intención de atraer más público, el Museo Nacional de Ciencias Naturales abrio una exhibición interactiva de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En la nueva pelicula de M. Night Shyamalan, Bruce Willis descubre que _ era en realidad _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cuando estaba volado con LSD, _ se convirtió en _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. It’s a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para mi próximo truco, sacaré _ de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "¿Por qué no me puedo dormir por las noches? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué no queres encontrar en tu comida China? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando sea Presidente de la Argentina, voy a crear el Ministerio de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tomo para olvidar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La medicina alternativa está usando ahora las propiedades curativas de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En la nueva pelicula original del Disney Channel, Hannah Montana se enfrenta a _ por la primera vez.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El rumor dice que el plato preferido de Fernando De la Rua es _ relleno de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "En la cárcel de Devoto se dice que podes cambiar 200 cigarrillos por _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "La menstruación.",
+    "El prepucio.",
+    "Alto sombrero.",
+    "Olor a abuelo.",
+    "Un pañuelo con cloroformo.",
+    "Auschwitz.",
+    "Mr. Musculo, saliendo de la nada.",
+    "El testiculo que le falta a Lance Armstrong.",
+    "Padres muertos.",
+    "Porno extremo alemán.",
+    "Saquear y violar.",
+    "Una paradoja temporal.",
+    "La Caja Vengadora.",
+    "Esperar hasta el casamiento.",
+    "Pelotas.",
+    "Smegma.",
+    "La imprudencia del hombre.",
+    "Ir de levante a una clinica de abortos.",
+    "Que no te importe un carajo el tercer mundo.",
+    "Kim Jong-il.",
+    "Skeletor.",
+    "Hacerlo por atrás.",
+    "Calentamiento global.",
+    "Dios.",
+    "Diseño inteligente.",
+    "Mambrú.",
+    "Selección natural.",
+    "Mortadela.",
+    "Olvidarte de la Vuelta de Obligado.",
+    "Darle de comer a Lilita Carrio.",
+    "Lilita Carrio.",
+    "Hacer lo correcto.",
+    "Disfunción erectil.",
+    "Un complejo de Edipo.",
+    "Escalpar.",
+    "Obligaciones de casada.",
+    "Vikingos.",
+    "Cabalgar hacia el horizonte.",
+    "Proteger a una amiga de un hinchapelotas.",
+    "El perreo.",
+    "Una fiesta de cumpleaños decepcionante.",
+    "Sobrecompensar.",
+    "Muerte de civiles.",
+    "Segui así y cobrás.",
+    "Tortura por ahogamiento simulado.",
+    "William Shatner.",
+    "Concursos de belleza de niñas.",
+    "El escote de la diputada Hot.",
+    "Colarse los dedos.",
+    "SIDA.",
+    "Mis curvas.",
+    "Drogarse zarpado.",
+    "Peleas de gallos.",
+    "Ricardo Fort.",
+    "Cuidado con los extraños.",
+    "Gandhi.",
+    "Muslos poderosos.",
+    "Un tumor cerebral.",
+    "Mandibula trabada.",
+    "Manicero.",
+    "Un trapo de piso empapado en pis de gato.",
+    "El equipo de olimpiadas de matemática.",
+    "Pantalones de montar de cuero.",
+    "Natalie Portman.",
+    "Música New Age.",
+    "Amputados.",
+    "Alcoholismo.",
+    "Pubertad.",
+    "Necrofilia.",
+    "La vagina de Maitena.",
+    "Gente blanca.",
+    "Privilegios de la gente blanca.",
+    "Sushi de Tenedor Libre.",
+    "Las mujeres de las publicidades de Activia.",
+    "Una mina canchera.",
+    "Mucho pibe, poca mina.",
+    "Un mimo teniendo un ataque.",
+    "Video casero de Claribel Medina llorando mientras come una viandita Cormillot.",
+    "Britney Spears a los 55 años.",
+    "Oler pegamento.",
+    "Un mongoloide robusto.",
+    "Sábanas infectadas con viruela.",
+    "Agujero de gloria.",
+    "Sean Connery.",
+    "Stephen Hawking diciendo chanchadas.",
+    "La Danza del Hada de Azúcar.",
+    "Tercera base.",
+    "Ejercicios para dinamica de grupos.",
+    "Un rayo mortal.",
+    "Maltiples puñaladas.",
+    "Tensión sexual.",
+    "Catapultas.",
+    "Motosierras en lugar de manos.",
+    "El Tigre Tony.",
+    "Representantes de Servicio al Consumidor.",
+    "Servidumbre feudal.",
+    "Un orto desteñido.",
+    "Una piña.",
+    "Mis demonios internos.",
+    "Juego previo de medio pelo.",
+    "Exactamente lo que esperarias.",
+    "Implantes Cibernéticos.",
+    "Un feto.",
+    "BATMAN!!.",
+    "Sacar el amigo.",
+    "Metanfetamina.",
+    "Hacer el ridiculo en pﬂblico.",
+    "Tratar mal a los niños.",
+    "Chicos africanos.",
+    "Juan Domingo Peron.",
+    "Paz mundial.",
+    "Chupetines demasiado grandes.",
+    "Mi vagina.",
+    "Los judios.",
+    "Disparar un rifle al aire mientras te coges duro a un cerdo histerico.",
+    "Hombres.",
+    "Nazis.",
+    "La Biblia.",
+    "Ni cu ni hue.",
+    "Mariano Grondona agarrandose el escroto en un gancho de cortina.",
+    "Un desayuno balanceado.",
+    "Tweeting.",
+    "Asiáticos que no saben matemática.",
+    "Mariano Grondona siendo acosado por una bandada de buitres.",
+    "Sacarte la remera.",
+    "Genghis Khan.",
+    "Loca linda.",
+    "Mi colección de juguetes sexuales de alta tecnologia.",
+    "Sacarla y acabar afuera.",
+    "Pulgares oponibles.",
+    "Arnold Schwarzenegger.",
+    "Hombres que no llaman.",
+    "Abdominales como una plancha de ravioles.",
+    "Nicholas Cage.",
+    "Queso caliente.",
+    "Un Sol para los Chicos.",
+    "Legalizacion en contra de una etnia.",
+    "Esperar un eructo y terminar vomitando en el piso.",
+    "Caminar dando saltitos de felicidad.",
+    "Inyecciones hormonales.",
+    "Sanguchitos de miga de kiosko.",
+    "Simón Dice.",
+    "Consultores.",
+    "Preadolescentes.",
+    "Centauros.",
+    "El Meneadito.",
+    "Sopa demasiado caliente.",
+    "Niños con cancer en el culo.",
+    "Guiñarle el ojo a gente mayor.",
+    "Fuego aliado.",
+    "El paraguayo trabajador en serio.",
+    "Dulce venganza.",
+    "Ser mago, la puta madre.",
+    "Un vistazo.",
+    "Abortos hechos con perchas.",
+    "Boca sucia.",
+    "Oompa-Loompas.",
+    "No ponerla nunca.",
+    "Los homosexuale.",
+    "Goblins.",
+    "Menemistas.",
+    "Una suave caricia en el interior del muslo.",
+    "Pederastas.",
+    "Combustión humana espontánea.",
+    "Malas elecciones de Vida.",
+    "Acabar dentro de una pileta llena de lágrimas de niños.",
+    "Gansos.",
+    "Una estupidez inimaginable.",
+    "Pezones con piercings.",
+    "Deuda impagable.",
+    "Mejoramiento racial.",
+    "Seppuku.",
+    "Escote elegante y pronunciado.",
+    "Un policia honesto, sin nada que perder.",
+    "Torsión testicular.",
+    "Enseñarle a un robot a amar.",
+    "Comerse el último yaguareté.",
+    "Cerveza Patagonia.",
+    "Cachalote.",
+    "El Papa.",
+    "Brutalidad policiaca.",
+    "Poner un huevo.",
+    "Actitud.",
+    "La universidad.",
+    "La mano invisible.",
+    "Lavarse los plieg ues.",
+    "Porno japonés con tentaculos.",
+    "Cagarse encima.",
+    "Piercings genitales.",
+    "Demasiado gel para el pelo.",
+    "El equipo de gimnasia de China.",
+    "Dar el 110%.",
+    "Desodorante AXE.",
+    "Lolas hechas asimétricas.",
+    "Ocultar el mastil.",
+    "Levadura.",
+    "Ser fabuloso/a.",
+    "Mis genitales.",
+    "Voto femenino.",
+    "Otra maldita película de vampiros.",
+    "Preguntas de exámen racistas.",
+    "Travestis aceptables.",
+    "Fingir que te importa.",
+    "Lady Gaga.",
+    "Pasarse a La Caja de Ahorro.",
+    "Chupetin de carne.",
+    "Ropa interior comestible.",
+    "Domingo Cavallo.",
+    "Muestras gratis.",
+    "Un giro argumental de M. Night Shyamalan.",
+    "Negros.",
+    "Homicidio imprudente con vehiculo a motor.",
+    "Criaturas cambia-aspecto.",
+    "Eyaculaciones nocturnas.",
+    "La carrera actoral de Martin Palermo.",
+    "El Padre Mugica.",
+    "Tirar un candelabro sobre tus enemigos y subir colgado de la soga.",
+    "Robocop.",
+    "Lanzamiento de enanos.",
+    "Un pequeño caballito.",
+    "Ataques de Velocirraptors.",
+    "Sean Penn.",
+    "Tom Cruise.",
+    "Super Rayo Cariñosito.",
+    "La violación de nuestros más básicos derechos humanos.",
+    "Obesidad.",
+    "Las Manos Mágicas.",
+    "Enojarte tanto que se te para.",
+    "Un forro pinchado.",
+    "Un mono fumando un habano.",
+    "Choripán crudo de la Costanera.",
+    "Fraternidades judias.",
+    "Una tortuga mordiendote la punta del pene.",
+    "Autentica comida mejicana.",
+    "Mucho ruido y pocas nueces.",
+    "Fantasmas.",
+    "Comerse todas las galletitas antes de la venta de galletas para el SIDA.",
+    "Carlos Saul Menem.",
+    "Tiempo para uno mismo.",
+    "Una maldición gitana.",
+    "Los extremadamente Iisiados.",
+    "Células madre de embriones.",
+    "Justin Bieber.",
+    "Hacer trampa en Ias Paralimpiadas.",
+    "Hulk Hogan.",
+    "Estrellas porno.",
+    "Un bukkake pixelado.",
+    "Friccion.",
+    "Un hombre de mediana edad andando en rollers.",
+    "Acurrucarse.",
+    "Cabeza de termo.",
+    "Incesto.",
+    "Mi vida sexual.",
+    "NECESITAS CONSTRUIR MAS PYLONS.",
+    "Lamer cosas para marcar territorio.",
+    "Fotos de tetas.",
+    "La masacre de Carmen de Patagones.",
+    "Los terroristas.",
+    "Pilotos Kamikaze.",
+    "¡Cachorritos!.",
+    "Mahoma (alabado sea él).",
+    "Pac-man traga-leche.",
+    "Amigos con beneficios.",
+    "Estar prendido fuego.",
+    "Mariano Grondona vomitando convulsamente mientras una camada de arañas cangrejo incuban en su cerebro y salen por sus conductos lagrimales.",
+    "Naranju.",
+    "Una erección que dure más de 4 horas.",
+    "El petiso orejudo.",
+    "Sol y arcoiris.",
+    "El sueño americano.",
+    "Esperanza.",
+    "Mear un poquito.",
+    "La envidia del pene.",
+    "Michael Jackson.",
+    "Pasar un cálculo renal.",
+    "El Ku Klux Klan.",
+    "Bijouterie de Once.",
+    "Boca floja.",
+    "El corazón de un niño.",
+    "Post-it pasivo-agresivos.",
+    "Porno de Harry Potter.",
+    "Odiarse a uno mismo.",
+    "Tener arcadas y vomitar.",
+    "Keanu Reeves.",
+    "El Big Bang.",
+    "Accidentes horrorificos con láser para remoción de pelo.",
+    "Un pajaro en una jaula cubierta.",
+    "Crecimiento natural del pene.",
+    "Rascarse el culo a escondidas.",
+    "El techo laboral.",
+    "Pintar con los dedos.",
+    "Peyot.",
+    "Emborracharse solo.",
+    "Carisma.",
+    "Hambruna.",
+    "Un minuto de silencio.",
+    "Euphoria, by Calvin Klein.",
+    "Un león de zoológico triste.",
+    "Minas terrestres.",
+    "Ser rico.",
+    "La mar de problemas.",
+    "Embarazo adolescente.",
+    "Aguafiestas.",
+    "Lepra.",
+    "La placenta.",
+    "MechaHitler.",
+    "Diarrea explosiva.",
+    "Cientologia.",
+    "El 10 de Pachano.",
+    "Largarse a cantar y bailar.",
+    "Bacteria come-carne.",
+    "Una buena linea.",
+    "Un ritual de apareamiento.",
+    "Desnudo frontal total.",
+    "Poner cara de puchero.",
+    "Mamada en el auto.",
+    "Despertar semi desnudo en el estacionamiento de un McDonalds.",
+    "Dos enanos cagando en un bald.",
+    "Ancianos japoneses.",
+    "Complejo de Elektra.",
+    "Whiskas.",
+    "World of Warcraft.",
+    "Una sorpresa lactea.",
+    "Christopher Walken.",
+    "El milagro del nacimiento.",
+    "El porro.",
+    "Caballerosidad.",
+    "Agricultura.",
+    "Auto canibalismo.",
+    "Herpes bucal.",
+    "Racismo.",
+    "El apocalipsis.",
+    "Sexo oral no reciprocado.",
+    "The Ubermensch.",
+    "Una lobotomia hecha con un picahielo.",
+    "Un pebete de $5.",
+    "Escuchar y parafrasear.",
+    "Lactación.",
+    "Un antilope con gases.",
+    "Partir el Mar Rojo.",
+    "Retozar.",
+    "La legislación homosexual.",
+    "Campaña del Desierto.",
+    "El verdadero significado de la navidad.",
+    "Viagra.",
+    "Darth Vader.",
+    "72 virgenes.",
+    "Gemido Tiroles.",
+    "La Sangre de Cristo.",
+    "Colchón de espuma con memoria de forma.",
+    "Gallegos.",
+    "Monaguillos.",
+    "La Tortuga Manuelita.",
+    "Justicia por mano propia.",
+    "El Normal 4.",
+    "Aves que no pueden volar.",
+    "Bancarse la mierda del otro.",
+    "Una tocadita disimulada.",
+    "El clitoris.",
+    "Arcadas.",
+    "Una tirada de goma decepcionante.",
+    "Resortes enredados.",
+    "Ciencia.",
+    "Seducción.",
+    "Destrucción mutua garantizada.",
+    "Emociones.",
+    "Serpientes sexuales voladoras.",
+    "Masturbación.",
+    "Dejar un mensaje de voz incómodo.",
+    "Cuando te tiras un pedo y viene con sorpresa.",
+    "Compartir jeringas.",
+    "El Hamburglar (McDonalds).",
+    "Regalar un regalo que te dieron.",
+    "Supermatch.",
+    "Los Amish.",
+    "Mi alma.",
+    "El Sur.",
+    "Heteronormatividad.",
+    "Desnudarse y mirar Nickelodeon.",
+    "Robo de tumbas.",
+    "La inevitable muerte por calor del universo.",
+    "Violación en una cita.",
+    "Un asesinato terrible.",
+    "Parejas de baile sobre hielo del mismo sexo.",
+    "Morir.",
+    "Bebes muertos.",
+    "Persecusión y tiroteo.",
+    "Mocos.",
+    "Tela quirurgica.",
+    "Pedos vaginales.",
+    "Morirse de colera.",
+    "Gente sin casa.",
+    "La Asamblea del año XIII.",
+    "Lluvia dorada.",
+    "Abuso de menores.",
+    "Inundación instantánea.",
+    "Cards Against Humanity.",
+    "Sexting.",
+    "Fantasias con bomberos.",
+    "Huérfanos adorables.",
+    "Un montaje homoerótico de Voleibol.",
+    "Sacarle un dulce a un niño. De verdad.",
+    "Niños con correas."
+  ],
+  "pack": {
+    "id": "B5UFU",
+    "name": "CAH Spanish AR Complete"
+  },
+  "quantity": {
+    "black": 84,
+    "white": 403,
+    "total": 487
+  },
+  "dateStoredMs": 1589392122589
+}

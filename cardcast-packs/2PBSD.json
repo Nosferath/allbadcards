@@ -1,0 +1,31 @@
+{
+  "black": [
+    {
+      "content": "Thomas Jefferson's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hercules Mulligan, i need no _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Macaroni.",
+    "Call me son one more time.",
+    "Hercules mulligan.",
+    "James madison.",
+    "Thomas jefferson."
+  ],
+  "pack": {
+    "id": "2pbsd",
+    "name": "Hamilton"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 5,
+    "total": 7
+  },
+  "dateStoredMs": 1589509212547
+}

@@ -1,0 +1,916 @@
+{
+  "black": [
+    {
+      "content": "If you were to get married in Skyrim, what would be your honeymoon? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can handle the occasional drunk and Bandit. I don't know about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most offensive thing in Skyrim is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there was one thing I could get away with without the Guards trying to kill me, it would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On his off time at the college, J'Zargo trains to be a master wizard by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spare _ for an old beggar?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Besides the return of Miraak, Solstheim was also plagued by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night I tried these two new mods out! Basically it makes _ have _ while also  _ at the same time!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Here in Skyrim, we pride ourselves with the tradition of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Werewolves are great because if slaughtering half of Skyrim doesn't suit us, we can always resort to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Psst... Hey. I know who you are. Hail _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I find in my Honningbrew Mead? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One-handed weapons suit me very much, they leave a hand free to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HALT! Youy are under arrest for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sheogorath's newest plot against the mortals of Tamriel is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a card you have chosen from your hand, describe the Dragonborn. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My father says I'm too young to train with my sword, so I train with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Werebears are great because...well...I don't know. But I can always resort to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once a year, the Skaal hold a festival where they pray to the All-Maker for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _. (The perfect combo!)",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "HELP ME! I am slowly  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who shall we elect as High King? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the Greybeard's guilty pleasure? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Go _ and we're going to have a real problem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not many Nords know much about Emperor Titus Mede II, other than the fact that he loves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While spying on a Riekling camp, I saw them worshiping _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the Riverwood Trader! Would you like to buy  _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vampires are great because if killing and sucking the blood of half of Skyrim doesn't suit us, we can always resort to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next catastrophic event to  threaten Tamriel will be _ in 4E 213.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hold it! This here a toll road, see? You'll have to pay with _ if you want to use our road.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a fine day with _ around.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to Warmaiden's! Now don't let the name fool ya, we got plenty of steel for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You gotta admit, the Falmer are more twisted than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Thieves guild is now recruiting those specially gifted in the art of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I see _ in my pocket, I'll cut (it/them) in half.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Thalmor has recntly told their agents in Skyrim to start focusing their efforts on destroying _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a card in your hand, how can you describe your experience with building a house? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behold!! The mighty powers of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most people assumed _ was a myth, until _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "While infiltrating a camp of The Forsworn, I witnessed them secretly worshiping  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have committed _ against Skyrim and her people. What say you in your defense? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instead of the traditional Burning of King Olaf, the Bard's College decided to spice things up this year with the burning of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May your road lead you to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been _ and _ in these parts for years!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Before the Forgotten Vale was ever forgotten, the Snow Elves used the area as a place of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I mostly deal with petty thievery and _. Been to long since we had _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sweet Mother, lend your child unto me. For the sins of the unworthy must be baptized in blood and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While mining a Stalhrim ore deposit, the Dragonborn was encountered by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Without the ability to wait for up to 24 hours, the best way to kill the time would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there was a 10th Divine, it would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"...Alduin, Bane of Kings. With a hunger to swallow _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greetings friend. You look weary, perhaps you would like some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My cousin is out fighting _. And what I get? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My Thane, I have this new foreplay I want to try out. I'll be _ and you can be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best techniques are passed on by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The biggest regret I made on Skyrim was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While exploring an abandoned fort, the Dragonborn opened a mysterious door that said \"DO NOT ENTER\". What he saw was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason why Dovahkiin didn't go light the Dragonfires in Cyrodiil and become the Emperor of Tamriel is because he was too busy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me guess, someone stole _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Within in the first three days of playing, I still didn't know how to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulfric Stormcloak has declared that _ is a basic right for all the sons and daughters of Skyrim to have.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's the best way to die in Elder Scrolls V: Skyrim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even with all the quests and gameplay you can do in Skyrim, one thing I still would like is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the most annoying part of Skyrim? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright, hand over your valuables. Or I'll gut you like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How will the Civil War in Skyrim be won? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Companions are known to be proud and heroic warriors, but they're also well known for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Skyrim, what gets better with age? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now I remember. You're that new member of the Companions. So you what? Fetch  _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While passing through Solitude, one of the Guard told me the story of how he once was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason why most of Winterhold fell into the sea all those years ago is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How can the Dawnguard triumph over Vampire Clan Volkihar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My apprentice! I just made the perfect alchemical recipe! And it only requires _ and _ to make it!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "While you aren't playing Elder Scrolls V: Skyrim, Dovahkiin spends his time (with) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Khajiit has wares, if you have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Interested in _, are you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night, I was attacked by _. We fought on top of _ until I triumphed by _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "While spying on an Orc stronghold, I noticed that they were going to scarifice _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are 3 parts to a shout: _,  _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Due to my loyal service, Hermaeus Mora has given me the secret to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's another day in the Whiterun market, when Ysolda goes to the vegetables stand, with her legs up to here. Something tells me she's looking for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tell you, I tell you, the _ comes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PRAISE BE TO _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Within the first three minutes of playing, I knew how to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A guard might get nervous, a (man/woman) approaches with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Part of a new law passed by The Empire, all citizens of Skyrim are subject to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skyrim will always be remembered for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As I entered into Sovngarde, I was greeted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While having another one of her visions, Jarl Ingrid Ravencrone of Morthal saw the Dragonborn _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disrespect the law, and you disrespect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Thalmor have recently started using a new torture technique on Nords worshipping Talos. It's basically _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After successfully infiltrating the Thalmor Embassy, Dovahkiin said \"Why stop there?\", and then proceeded to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've seen some pretty crazy, fucked up things in Skyrim, but nothing like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y'all mother fuckers need _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even after Skyrim's release in 2011, one thing that never gets old is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Nordic traditions, after _, you celebrate by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After Grelod the Kind was murdered by the Dark Brotherhood, Aventus Aretino celebrated by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta keep my eyes open. Damn _ can swoop down at any time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn _ to Oblivion! They wanna back _? They'll get what's coming to them.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After her husband's murder, Elisif eases her pain by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Vigil of Stendarr.",
+    "Akatosh, the dragon-god of time.",
+    "Questioning why no one pees or poops in Skyrim.",
+    "Fast traveling.",
+    "The significance of The Empire.",
+    "Warriors from Hammerfell.",
+    "Drinking too much Nord Mead.",
+    "Dank Skyrim memes.",
+    "Eating the tomatoes you found in a random barrel.",
+    "Ugly, but strong Orc companions.",
+    "Streaking in Riften while the guards chase you down.",
+    "Being ambushed by Vampires every other time you fast travel.",
+    "A horse defying The Laws of Physics.",
+    "Ralof.",
+    "The useless concept of chopping firewood.",
+    "Doing absolutely nothing.",
+    "Listening to rumors spread by innkeepers.",
+    "Lycanthropy.",
+    "Being halfway to Hammerfell.",
+    "Killing injured Civil War soldiers in military camps while they cry out \"the pain...THE PAIN!!!\".",
+    "Reverting to a previous save.",
+    "A Daedra Heart.",
+    "Brynjolf.",
+    "Uthgerd the Unbroken.",
+    "Great War veterans with PTSD.",
+    "Looking like one of the dudes from Duck Dynasty.",
+    "Orphan tears.",
+    "Looting Gold off the recently deceased that I just killed.",
+    "Someone other than General Tullius.",
+    "Being the first person in a decade to escape Cidnha Mine.",
+    "Mead with Juniper Berries in it.",
+    "Making one too many 'Arrow to the Knee' jokes.",
+    "Not knowing who the real leader of the Aldmeri Dominion is.",
+    "All my good deeds and fortunes.",
+    "Mehrunes' Razor.",
+    "The Throat of the World.",
+    "The 7,000 Steps to  High Hrothgar.",
+    "Sven and Faendal dueling to the death over Camillia Valentius.",
+    "Wabbajack!.",
+    "Aged Breton cheese.",
+    "Petty thievery and drunken brawls.",
+    "A horny Redguard man with spectacular abs.",
+    "Realizing that Ysolda is a skooma dealer.",
+    "Overpriced potions.",
+    "Not having any Illusion spells that make you invisible.",
+    "Embracing the will of mighty Talos.",
+    "High Elves achieving world domination.",
+    "Jenassa actually painting strokes of blood red on a canvas.",
+    "Altmer superiority.",
+    "The Stormcloak Rebellion.",
+    "Dragons.",
+    "The existence of the Spellsword.",
+    "The Headless Horseman.",
+    "Shooting your horse to level up your Archery.",
+    "Making the students of the College of Winterhold pay tuition fees.",
+    "Discovering the location of the Aetherial Forge.",
+    "The epic soundtrack.",
+    "Wearing fancy clothes.",
+    "Heimskr and his obsessive loyalty to Talos.",
+    "The Vigilant of Stendarr carrying out their \"Daedric cleansing\" campaign.",
+    "Singing songs about Skyrim.",
+    "Setting fire to Falk Firebeard's beard.",
+    "Getting caught and going to jail.",
+    "Wondering where all the Dwemer went to all those years ago...",
+    "Blaming Obama for Skyrim not being 60fps.",
+    "A Bristleback.",
+    "Nazeem's ego.",
+    "Playing tag and hide-and-go-seek with children.",
+    "Sea pirates.",
+    "Jurgen Windcaller.",
+    "The Way of the Voice.",
+    "Stormcloaks saying that Helgen was an inside job.",
+    "M'aiq the Liar.",
+    "The inconcieveable logic of Glass weaponry and armor not breaking.",
+    "The Dunmer.",
+    "An inbred family of Altmer.",
+    "Necromancy.",
+    "Summoning a Dremora to do your bidding.",
+    "The Emperor's new clothes.",
+    "Jarl Balgruuf's indecisiveness.",
+    "Dragonscale Armor.",
+    "Crashing your game by using too many mods.",
+    "Making tough choices.",
+    "Putting a kettle on the shop owner's head so you can rob them blind.",
+    "Sanguinare Vampiris.",
+    "Getting accused of worshiping Talos by Thalmor agents.",
+    "Looting Burial Urns without a second thought.",
+    "The Imperial Legion.",
+    "The extensive lore on the Elder Scrolls series.",
+    "Choosing a side.",
+    "Being offered a job as the city guard.",
+    "The murder of someone who annoys me.",
+    "Smoking Moon Sugar, for instance.",
+    "A lifetime's worth of Gold.",
+    "The limited amount of voice actors.",
+    "Enchanted weapons.",
+    "The endless Dark Brotherhood missions where you kill the same people over and over again.",
+    "A Dragon Priest. (Preferibly Krosis.).",
+    "Questioning how there's no difference between the four seasons.",
+    "FUS RO DAH.",
+    "The deportation of anyone who isn't a Nord.",
+    "The irony of the city of Solitude.",
+    "Deep throating a carrot.",
+    "Collecting all the Dragon Priest masks.",
+    "Aegisbane, heirloom of Clan Shatter-Shield.",
+    "A disciple of Sheogorath.",
+    "Nordic supremacy.",
+    "Succesfully infiltrating Ambassador Elenwen's panties.",
+    "Frea, of the Skaal.",
+    "A mob of racist Nords.",
+    "Asking Falion to cure you of Vampirism.",
+    "Waiting in a shop for 24 hours just so the storekeeper has a new inventory of items for sale.",
+    "Octieve San being the old pervert he is.",
+    "Ataxia.",
+    "Deep throating on the Throat of the World.",
+    "Defeating Alduin.",
+    "The Dawnguard.",
+    "Lydia always telling you that you're her \"Thane\".",
+    "A butterfly in a jar.",
+    "Drowning in the Sea of Ghosts.",
+    "Ulfric Stormcloak.",
+    "The Nerevarine returning from Akavir with souveneirs.",
+    "Overdosing on Skooma.",
+    "Playing with so many mods that your game crashes.",
+    "Talking your way out of a crime.",
+    "The corruption in Riften and Markarth's leadership.",
+    "Enjoying the scenery so much that you forget to do everything else that matters.",
+    "Waking up completely naked in the Gray Quarter.",
+    "J'Zargo cockiness.",
+    "Literal Dwarven \"booby\" traps.",
+    "Dirty potatoes.",
+    "The Jagged Crown.",
+    "Vampires desperately trying to destroy the sun so they can walk outside at 1:00pm without being burnt to death.",
+    "Building the perfect house in the middle of nowhere.",
+    "Ysolda.",
+    "Skyrim memes.",
+    "Cidnha Mine.",
+    "Tea-bagging dead corpses.",
+    "Meridia's light.",
+    "Exploring an Ancient Nordic tomb.",
+    "Finding every form of Charus difficult to kill.",
+    "The sons and daughters of Skyrim.",
+    "The blood of my enemies.",
+    "Farkas and Vilkas.",
+    "Spending an hour creating your character only to wear armor the entire game.",
+    "The art of Destruction.",
+    "Forsworn women wearing almost nothing on.",
+    "Talsgar the Wanderer.",
+    "The murder of an entire village.",
+    "The significance of no cats (besides Khajiit) in Skyrim.",
+    "Alduin, the World-Eater.",
+    "The foul smell of the Ratway.",
+    "Downloading the full nudity mod.",
+    "Mjoll the Lioness.",
+    "The innocence of children.",
+    "Fifty shades of snow.",
+    "Becoming a Werebear.",
+    "Markarth, the city of Stone.",
+    "Banning the worship of Talos.",
+    "Questioning the existence of the Nine Divines since they rarely intervene in mortal affairs.",
+    "Shouting someone off of a very steep cliff.",
+    "Slaughtering animals that can't defend themselves.",
+    "Wanting to collect all the Daedric artifacts.",
+    "Poor boob physics.",
+    "Eating 40 Apple Pies at once.",
+    "Knowledge on how Argonians mate.",
+    "The astounding sight of no one being pregnant in all of Skyrim.",
+    "The difficulty of breaking into the East Empire Company warehouse.",
+    "Another Akaviri invasion.",
+    "The size of Falkreath's graveyard.",
+    "Self-defense at its best.",
+    "Having more Gold than Skyrim's 1%.",
+    "A pack of starving Ice Wolves.",
+    "Reavers who think they can rob me.",
+    "The degeneracy of the Falmer.",
+    "Killing a chicken.",
+    "Sweet Rolls.",
+    "Slaying another dragon.",
+    "Some Gold.",
+    "Ragnar the Red.",
+    "Having an actual voice actor and not a dialogue box.",
+    "Over-excessive nativism.",
+    "Racial tension.",
+    "Talos (PRAISE BE UNTO HIM).",
+    "Adsorbing your soul.",
+    "The inevitable war between the Aldmeri Dominion and the Nords.",
+    "Exploring a Dwemer ruin.",
+    "The common comparison between the Imperials and the Romans.",
+    "Using the shout \"Disarm\" on enemies to watch them pick up their weapon. Only to shout \"Disarm\" at them again.",
+    "Hunting exotic animals like Elk.",
+    "Draggin' these nuts across a Breton's face.",
+    "Excessive intimidation.",
+    "A full set of Daedric Armor.",
+    "Cicero.",
+    "Actually important NPC's.",
+    "Using the shout \"Storm Call\" and watch as your enemies get electrocuted into a lifeless husk.",
+    "Death.",
+    "Making love to a fat Troll.",
+    "Being Level 81 and extremely overpowered.",
+    "Stalhrim-forged condoms.",
+    "The blood of Talos.",
+    "Dragonplate Armor.",
+    "How incredibly stupid Bandits get when you start sneaking.",
+    "Having a hard time telling Bretons and Nords apart.",
+    "Fistfights.",
+    "Hearing the Hold Guard's 'arrow to the knee' story over, and over, and over...",
+    "Vampire Clan Volkihar.",
+    "Getting Shouted off the Throat of the World by the Greybeards.",
+    "Enormous Nord women.",
+    "Waiting forever on the loading screen.",
+    "Trying your best to become a Jarl so you can abuse its power and commit more crimes.",
+    "Sneaking up behind someone and slitting their throat.",
+    "The Nords.",
+    "Knowledge on where Mammoth Cheese comes from.",
+    "A Sabre Cat getting the jump on me.",
+    "The Whiterun Guard.",
+    "The Silver-Blood clan.",
+    "Taking an arrow to the knee.",
+    "Actually trying it out.",
+    "Self-defense at its worst.",
+    "Questioning why every race is the same height.",
+    "General Tullius.",
+    "Trying to learn the Dragon language.",
+    "The Heart of Dibella.",
+    "How long I have to wait until I can shout again.",
+    "Worshiping Talos.",
+    "Be(ing) mind-controlled by the Five Stones in Solstheim.",
+    "Maven Black-Briar.",
+    "A lot of bloodshed.",
+    "The Ebony Warrior.",
+    "Building every single accessory possible inside and outside of your house.",
+    "Becoming a Vampire.",
+    "Someone other than Ulfric Stormcloak.",
+    "The Shrine of Azura.",
+    "Getting really high on Glow Dust.",
+    "Fiddling with every lock in Skyrim.",
+    "Staring at the northern lights for awhile.",
+    "The Greybeards shouting at each other.",
+    "Shouting at someone until they disintegrate into an ash pile.",
+    "The Dark Brotherhood.",
+    "The latest edition of The Lusty Argonian Maid.",
+    "Exploring a cave for \"funzies\".",
+    "Another Oblivion Crisis.",
+    "All of the Skaal women.",
+    "Noticing that the cows of Skyrim look more like yaks.",
+    "Criminal scum.",
+    "An extremely muscular Nord bodybuilder.",
+    "Getting 'rekt' by a Giant.",
+    "Not marrying anyone.",
+    "A risky game of Pickpocket Roulette.",
+    "Skinny-dipping in the hot springs of Eastmarch.",
+    "Sky Haven Temple.",
+    "Sleeping for the first time in 50 days or so.",
+    "Carrying 400+ pounds of items.",
+    "A Bard jumping off of Bard's Leap Summit because he sucks at singing.",
+    "The way to become blood-kin.",
+    "Glory to the Forsworn!.",
+    "CHEESE FOR EVERYONE!!!.",
+    "Becoming a Werewolf.",
+    "Dead Netch fetus.",
+    "That douchy Imperial Captain that wanted to execute you at the start of the game.",
+    "Commanding a Dragon with the shout \"Bend Will\" to kill off an entire town.",
+    "The assassination of the Emperor.",
+    "Joining the Blades.",
+    "Milkdrinkers.",
+    "Moist towelettes.",
+    "Dying from fall damage.",
+    "Choosing one of the major cities to live in.",
+    "Knowledge on how the Daedra reproduce.",
+    "Riding a Dragon into the sunset.",
+    "Letting the NPC's kill the dragon while you just sit back and wait to adsorb its soul.",
+    "A blood-thirsty clan of Orcs.",
+    "A crowd of drunken Nords singing \"The Dragonborn Comes\" off key and not in sync.",
+    "Jumping off the waterfalls of Darkwater Crossing.",
+    "How depressing Winterhold is.",
+    "Fulfilling your destiny.",
+    "Ousting all the Dark Elves out of Skyrim.",
+    "Joric Ravencrone being more wise than just about everyone in Morthal.",
+    "The Soul Cairn.",
+    "Reading an Elder Scroll.",
+    "That one Khajiit that's peddling Moon Sugar.",
+    "Questioning why Wood Elves are the same height as High Elves.",
+    "The Blades.",
+    "The Blessing of the Nine Divines.",
+    "Rockjoint.",
+    "The mass genocide of Bandits.",
+    "Using the shout \"Whirlwind Sprint\" repeatedly while overencumbered.",
+    "Not knowing how to do any sort of Alchemy.",
+    "Lydia.",
+    "Dovahkiin.",
+    "Sithis.",
+    "The Hall of Valor in Sovngarde.",
+    "Burly Nord lumberjacks.",
+    "In one of the many realms of Oblivion.",
+    "Blood on the ice.",
+    "The random people you meet on the road.",
+    "The pilgrims of Ivarstead.",
+    "Doing an all-nighter.",
+    "The mass segregation of Dark Elves and Argonians in Windhelm.",
+    "Enough Gold to buy The Empire.",
+    "Using all your Magicka on Restoration spells so you don't die.",
+    "Being rejected entry to Sovngarde.",
+    "The burning of Helgen.",
+    "The absence of hope in Raven Rock.",
+    "Joining the Dawnguard.",
+    "Hadvar.",
+    "Being a strong independent Stormcloak who don't need no Empire.",
+    "Thrusting more than just your sword at people.",
+    "The Aldmeri Dominion.",
+    "Hiding dead bodies in a nearby bush even though nobody will care if you killed them.",
+    "Getting stabbed 50,000 times by an Iron Dagger.",
+    "A good Bandit raid.",
+    "Crossbows!.",
+    "The East Empire Company.",
+    "All of the Housecarls.",
+    "Crimson Nirnroot.",
+    "One mod to rule them all.",
+    "How ominously quiet Morthal is.",
+    "Bribery.",
+    "Wondering what the landscapes of other provinces look like. Like Elsweyr for instance.",
+    "Wearing no clothes.",
+    "A lifetime supply of cabbage.",
+    "The audacity of selling so much shit until the shopkeeper has no more gold.",
+    "Dragon Penis.",
+    "Not giving a shit about the Civil War in Skyrim.",
+    "Imperials who are fucking assholes.",
+    "The after-effects of transforming into a Werewolf.",
+    "Not giving a shit about poor people.",
+    "Using the shout \"Slow Time\" so you can cut a Bandit's dick off in slow motion.",
+    "A sexy Redguard woman with an hourglass-shaped body.",
+    "A sexy Nord woman with giant breasts.",
+    "Having sex with the priestesses of Dibella, all at once.",
+    "Buying a fuck ton of lumber.",
+    "Alduin taking a dragon-sized shit on Dragon Bridge.",
+    "Surprise butt sex on the Pale Road.",
+    "The desire to do anal with your marraige partner.",
+    "Reaver cum.",
+    "Seductive persuasion of the opposite sex.",
+    "The marvel of not eating any food or water and still being alive after years of gameplay.",
+    "Concealing a boner in the Temple of Dibella.",
+    "Calling the Night Mother a slut.",
+    "Another fucking Dragon.",
+    "Staining your blade with poison so that mother fucker dies a slow death.",
+    "Frost-bitten sex in the wilderness.",
+    "A frozen asshole.",
+    "A tranny Bosmer.",
+    "Doin' it in the vagina.",
+    "Bards who sing about pointless bullshit.",
+    "A sexy Breton women with an ass bigger than Kanye West's ego.",
+    "Auri-El, Auriel, or whatever the fuck his name is.",
+    "Being the mother fucking Arch-Mage.",
+    "Sex in the stables.",
+    "A Redguard's curved penis.",
+    "Using spells to raise the dead only to use the body as a sex doll.",
+    "Orgies with your followers.",
+    "Peryite's followers vomiting that green shit on you mid-blowjob.",
+    "Dragon Vagina.",
+    "Khajiiti-Argonian intercourse.",
+    "Being an asshole to children.",
+    "An army of followers.",
+    "Taking a Ebony Greatsword up the ass.",
+    "Sperm Horkers.",
+    "A homosexual Orc in the Dragonsreach dungeon.",
+    "This Dovah-sized dick!.",
+    "Getting shitfaced out of your mind on Ale.",
+    "An oversexed Bosmer woman who's 4'10\".",
+    "So many god damn quests.",
+    "DRAGON SEX!.",
+    "Accidentally nailing your penis onto the door of your house.",
+    "Giants taking a giant shit.",
+    "Being the mother fucking Harbinger of the Companions.",
+    "Using a Dragon Claw to give a handjob.",
+    "High Elves being a fucking douchebag.",
+    "Khajiit short-tail in Khajiit pussy.",
+    "Aela the Huntress's tight pussy.",
+    "Having sex with the ghost of High King Torygg.",
+    "Fucking a Draugr back to life.",
+    "Hermaeus Mora and the tentacles he uses to finger the knowledge out of a woman's vagina.",
+    "Sappy sex with the Sleeping Tree.",
+    "Huggin' and fuckin'.",
+    "Helgen Keep dungeon porn.",
+    "Moldy Imperial anus.",
+    "Fuckin' Miraak stealing the souls of Dragons I killed.",
+    "A shitty glass of Alto Wine.",
+    "Getting your ass eaten out by Ice Wraiths.",
+    "Finding and killing the little shit that prevents you from fast traveling.",
+    "The similarity between the Mace of Molag Bal and a high-tech torture/sex toy.",
+    "A bunch of Slaughterfish slowly ripping my penis off of my body.",
+    "Being the mother fucking Listener.",
+    "Shitty weapons for sale.",
+    "A sad, medieval rimjob.",
+    "A Mudcrab pinching the tip of my penis.",
+    "Sex in full armor.",
+    "The size of Dragonborn's penis.",
+    "The Followers of Namira eating you out.",
+    "The after-effects of transforming into a Werebear.",
+    "Using your steward as a sex slave.",
+    "Heimskr not knowing how or when to shut the fuck up.",
+    "Being a mother fucking Nightingale.",
+    "Letting my follower take one for the team."
+  ],
+  "pack": {
+    "id": "35AP6",
+    "name": "Cards Against Skyrim"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 400,
+    "total": 500
+  },
+  "dateStoredMs": 1588377180014
+}

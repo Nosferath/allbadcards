@@ -1,0 +1,184 @@
+{
+  "black": [
+    {
+      "content": "How did Cobalitus bribe his son's way into the Elites? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the final thing that ruined Rex and Cobalitus' brotherhood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Tyrannus' family reunion way more awkward? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I am Aer Asragel, Prince of Lumen, Guardian of _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aeon's secret to a perfect mixed drink includes a bunch of _ mixed with a little bit of _ stirred up with _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In order to join Scitorem, first you must pass the test of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We're looking for a young vigilante who's been assaulting bandits with _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tyrannus' grand scheme involves using _ to make the world a better place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aer's new tax policy requires that the nobility can no longer use _ as an exemption.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Why would you make a gun that fires _ ?\" \"Why not?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"No dad! I don't want to get involved in your scheme involving _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Draco's mutation caused him to grow _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Come to one of Amesthyne's many luxurious resorts where you can enjoy the wonders of _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The Mad General Karzla's sinister plan was thwarted, and it was all thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Scitorem's latest scientific breakthrough? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some think Rex took it too far when he added _ to his father's memorial.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vitora's new neo body has been having a malfunction with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aeon really regrets having to resort to _ , but at least he can still profit from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"DAMN THOSE LUMIANS AND THEIR HOARD OF _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest neo models include exciting new features, such as _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Asking your enemy for an autograph.",
+    "Unnecessarily complicated technology.",
+    "Bioluminescent body parts.",
+    "Delicate frills.",
+    "HUUUUBRIIIIIIS.",
+    "Just a little bit of hubris.",
+    "Gladius' voicebox glitches\t.",
+    "Athie's stic- er... staff.",
+    "Being put in a roomba as punishment.",
+    "An army of puppet people.",
+    "Using ambiguously magical crystals as batteries.",
+    "Opallians\t.",
+    "The trauma forest.",
+    "Another one of Karzla's wild tirades\t.",
+    "Taxing the nobility.",
+    "The everlasting hellish white void that is daytime.",
+    "Jelly eggs.",
+    "A fabricator that makes literally anything.",
+    "Draco's beefy muscles\t.",
+    "Tyrannus' endoskeleton.",
+    "Feathers... EVERYWHERE.",
+    "The Lumian Nobility\t.",
+    "Aer's personal supply of uvisan wine\t.",
+    "A pale Lumian child.",
+    "Getting trapped inside a helpless toy, for instance\t.",
+    "Mutagens.",
+    "A feather boa's heartwarming trill\t.",
+    "Gratuitous cybernetic enhancements\t.",
+    "A shady uncle and a dorky but mostly alright cousin.",
+    "Aer's feelings\t.",
+    "Just a little too many spikes.",
+    "Holographic ads.",
+    "Aer falling victim to his own overconfidence... again.",
+    "Getting eviscerated by Guerra's elbow spikes.",
+    "The Asragel Blade\t.",
+    "Getting lost in the woods with a friendly cyborg\t.",
+    "Sibling rivalry.",
+    "Botched mutagens.",
+    "Commoners\t.",
+    "Unnecessarily cute technology.",
+    "Gold... lots of it.",
+    "A cult of scaly science nerds\t.",
+    "The new Omega Elite\t.",
+    "Getting impaled by Guerra's knee spikes.",
+    "A very angry snek boi.",
+    "Tauri's electric whip.",
+    "Feather boas... as in literally feathered boas.",
+    "Tyrannus, again\t.",
+    "Neos\t.",
+    "Aer misjudging the throw of his sword\t.",
+    "A jelly bed.",
+    "A limb that can easily be replaced.",
+    "Yet another pointless scientific \"breakthrough\".",
+    "The spiny end of a Lumian's tail.",
+    "Nothing a little more gun couldn't fix.",
+    "Unnecessarily luxurious architecture.",
+    "A Sibian desert scorpion.",
+    "Unnecessarily creepy technology.",
+    "Aer's baby horns\t.",
+    "A kingdom of space dragons\t.",
+    "A totally useless and frankly embarrassing mutagen\t.",
+    "Getting shot in the face with the party gun\t.",
+    "Progress.",
+    "Kyan fucking things up again\t.",
+    "Selling your brother-in-law to an evil mastermind for shits and giggles.",
+    "Guerra Motherfucking Tonitras\t.",
+    "Greedy-ass Uncle Colbi\t.",
+    "A vigilante girl with a skull mask and a rusty pipe."
+  ],
+  "pack": {
+    "id": "6NGNB",
+    "name": "Aethon Pack!"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 68,
+    "total": 88
+  },
+  "dateStoredMs": 1589250501892
+}

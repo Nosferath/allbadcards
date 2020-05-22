@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "It's not _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarah defeated the Labyrinth with the help of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have no _ over me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing? Nothing! Nothing _ ?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! Don't go that _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Labyrinth 2: Now with more _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need you. I need _ of you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hoggle.",
+    "Jareth.",
+    "Ambrosia.",
+    "Fair.",
+    "Ludo.",
+    "Power.",
+    "Sarah.",
+    "ROCKS !.",
+    "Jareth's crotch.",
+    "Sir Didymus.",
+    "Toby.",
+    "A piece of cake.",
+    "Nothing? Nothing! Nothing Tralala?.",
+    "Owl stalkers.",
+    "Magic Dance.",
+    "Tralala.",
+    "Hogwart.",
+    "Sexual frustration.",
+    "Negotiating like the god damn adult you are, asshole."
+  ],
+  "pack": {
+    "id": "A9HRZ",
+    "name": "Labyrinth. Yes, that one."
+  },
+  "quantity": {
+    "black": 9,
+    "white": 19,
+    "total": 28
+  },
+  "dateStoredMs": 1588786064281
+}

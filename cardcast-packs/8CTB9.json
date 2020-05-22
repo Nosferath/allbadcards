@@ -1,0 +1,196 @@
+{
+  "black": [
+    {
+      "content": "_? It's more likely than you think.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you like _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "STORYTIME! Let's talk about _ for a minute.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHY ARE YOU IN THE _ STORE?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ work for the BOURGEOISIE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tiktok is mad at me again! Ugh why can't they just let me _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe _! It's crazy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ugh I can't stand _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tiktok just changed their algorithm. It now favors _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried tiktok one time and now I've started _. HOW DID THIS HAPPEN?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time I see _ it makes me feel like _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tiktok is the only app where you can find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got put in Tiktok jail just because I was _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friend found out I was _. I'll never live this down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just took a DNA test turns out I'm  100% _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe I went viral when all I did was _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think I spend too much time on Tiktok. I've started _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My video got removed because I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite audio is the one about _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I followed them because I liked how they were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time I get a new follower, I respond by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm willing to do anything to get followers, even _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My followers all think I _ but in reality, I actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can't wait until I get 1,000 followers so that I can finally _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All of my followers are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Creating a hashtag.",
+    "People who like EVERY SINGLE ONE of your tiktoks.",
+    "Pointing at floating words that aren't there.",
+    "Creating nothing but cursed content.",
+    "Making an inanimate object appear to dance.",
+    "Learning how to fake cry for the angst.",
+    "A cute nonbinary person that winks at the camera a lot.",
+    "Livestreaming for an unhealthy amount of time.",
+    "Coping with a spiraling depression through cosplay and tiktok.",
+    "*gay panic*.",
+    "Crying because I want to make audios but I hate my voice.",
+    "Birds.",
+    "Obscure audios.",
+    "Violating community guidelines.",
+    "Trying to find good enough lighting.",
+    "Soup.",
+    "Creating wholesome content.",
+    "Someone just staring at the camera.",
+    "Becoming filled with chaotic energy.",
+    "Selling my soul for tiktok.",
+    "Posting old drafts to make it look like I consistently create content.",
+    "VSCO girls.",
+    "Getting on the For You page.",
+    "Someone spilling the tea.",
+    "Slowly replacing all of my other hobbies with tiktok.",
+    "Recording the perfect take with the wrong filter and having to do it again.",
+    "Bots.",
+    "Recording the perfect take with the wrong filter and having to do it again.",
+    "Underage tiktok users ruining it for everyone.",
+    "BEES!.",
+    "BEING COMPLETELY FERAL.",
+    "Wishing I could organize my videos.",
+    "Cosplayers not wearing pants.",
+    "Accidentally changing the filter during the livestream.",
+    "I love your bakugo cosplay.",
+    "Using a real knife in my edgy tiktok and getting banned.",
+    "Getting duets from creepy guys.",
+    "The cute animal does a thing.",
+    "Sacrificing my phone's battery to the gods of tiktok.",
+    "Spending hours on my make up just to stay home and record tiktoks.",
+    "Pose dancing.",
+    "Recording the perfect take with the wrong filter and having to do it again.",
+    "You are so handsome.",
+    "Being super gay.",
+    "The world's longest tiktok chain.",
+    "Making pretend wine so I don't get in trouble.",
+    "Lip-synching.",
+    "Getting horny comments from thirsty followers.",
+    "Getting shadowbanned for no fucking reason.",
+    "When a big tiktok account follows you back.",
+    "Dancing like an idiot.",
+    "Making sexy-time faces at the camera.",
+    "Realizing someone you know irl just followed you.",
+    "FUCKING.",
+    "Big dick energy."
+  ],
+  "pack": {
+    "id": "8CTB9",
+    "name": "Tiktok"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 55,
+    "total": 80
+  },
+  "dateStoredMs": 1588483301388
+}

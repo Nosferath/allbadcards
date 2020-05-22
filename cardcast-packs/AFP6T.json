@@ -1,0 +1,104 @@
+{
+  "black": [
+    {
+      "content": "Ja li agradaria _ ser com jo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La Maria diu se li dona molt be_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quan la Raquel va _ tothom va _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Siusplau Xavi no _ amb nens petits",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tothom sap que el _ de la Edurne olora malament",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si combinem _ amb la suor del Pol treiem _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quan el Pol _ el Martí va _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Una bona nit de borratxera amb _ tothom sap que acabarà fatal",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quan la Queralt ho va veure va_!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noto que el _ viu de la _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Recull _ del terra",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ les sabates del Iu",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per fi l'ivan va poder _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "La Edurne.",
+    "El cau.",
+    "El Pol.",
+    "L'Ivan.",
+    "La Sara.",
+    "Borde.",
+    "Esplai.",
+    "El Xavi.",
+    "La Gemma.",
+    "La Raquel.",
+    "El genoll de la Edurne.",
+    "Bigues i Riells.",
+    "Feminisme.",
+    "Puigdemont.",
+    "Feminisme.",
+    "Les històries interminables de la Queralt.",
+    "Riells del Fai.",
+    "El Marti.",
+    "La Queralt.",
+    "La brega.",
+    "La festa major.",
+    "L'Iu.",
+    "La Maria."
+  ],
+  "pack": {
+    "id": "AFP6T",
+    "name": "Ratillas"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 23,
+    "total": 36
+  },
+  "dateStoredMs": 1588882988946
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "What's the most emo? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Puberty."
+  ],
+  "pack": {
+    "id": "YZYG5",
+    "name": "Holy shit"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588797446124
+}

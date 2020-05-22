@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "What's the real reason All Might gave Midoriya One For All?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, but I don't think _ is an appropriate Hero name.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Todoroki.",
+    "Bakugou.",
+    "Midoriya."
+  ],
+  "pack": {
+    "id": "ENZF4",
+    "name": "BNHA"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 3,
+    "total": 5
+  },
+  "dateStoredMs": 1588497040216
+}

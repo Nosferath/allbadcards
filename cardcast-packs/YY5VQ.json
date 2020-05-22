@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "What's the worst thing that can happen while I'm mining? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Literally getting raped by an enderman.",
+    "Falling into lava.",
+    "Getting blown to smithereens by a creeper.",
+    "Making a dirt hut."
+  ],
+  "pack": {
+    "id": "YY5VQ",
+    "name": "Minecraft"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1589461332966
+}

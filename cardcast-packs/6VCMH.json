@@ -1,0 +1,133 @@
+{
+  "black": [
+    {
+      "content": "In the new pokemon game _ is the legendary of the _ region.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ craft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the newest Zelda game link travels to _ and faces of against _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Call of Duty _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In EA's new game _ they add _ for purchase.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Need for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Call of Duty montage _ hits a _ shot.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Amnisea the _ Desent.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Minecaft update Mojang adds _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The steam market place now sells _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grand Theft _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pokemon _ Version.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Five nights at _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Master Race.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ Parable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Binding of _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Press _ to pay respects.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new gun in borderlands shoots _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the next Call of Duty you must fight _ in _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Kevin Spacey.",
+    "Pikachu.",
+    "The Master Sword.",
+    "Playstation.",
+    "Alamar.",
+    "Link.",
+    "GabeN.",
+    "Mountian Dew.",
+    "Ryu.",
+    "Zelda.",
+    "Ken.",
+    "1080 YY Noscope.",
+    "Mega Man.",
+    "Lense Flare.",
+    "Mario.",
+    "Doritos.",
+    "Xbox.",
+    "Steam sale.",
+    "Microtransactions.",
+    "Samus.",
+    "PC.",
+    "Sonic."
+  ],
+  "pack": {
+    "id": "6VCMH",
+    "name": "Video Games and stuff"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 22,
+    "total": 41
+  },
+  "dateStoredMs": 1589053283838
+}

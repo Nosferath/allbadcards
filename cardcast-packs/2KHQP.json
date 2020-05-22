@@ -1,0 +1,29 @@
+{
+  "black": [],
+  "white": [
+    "Geese. Geese. Geese.",
+    "Geese.",
+    "A Single Goose.",
+    "Geese.",
+    "Four Geese.",
+    "Not Enough Geese.",
+    "Geese.",
+    "Not Enough Geese.",
+    "Geese.",
+    "A Single Geese.",
+    "Geese.",
+    "Many Geese.",
+    "Geese.",
+    "Geese."
+  ],
+  "pack": {
+    "id": "2KHQP",
+    "name": "Geese."
+  },
+  "quantity": {
+    "black": 0,
+    "white": 14,
+    "total": 14
+  },
+  "dateStoredMs": 1589336932499
+}

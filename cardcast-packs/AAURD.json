@@ -1,0 +1,119 @@
+{
+  "black": [
+    {
+      "content": "Nie ruchałbym _ używając kutasa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gówniarz z podstawówki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mam pewną rzecz, która nazywa się _ i potrafi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Myjesz rower? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem chudy bo _, ale chcę przytyć przy pomocy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jestem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja super moc to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeżeli wsadzę komuś palec do dupy, to kto tak naprawdę będzie miał palec w dupie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vooxer lubi _, gdy jego mama _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy miałem 9 lat, wygrałem nagrodę za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co o mnie powiesz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie masz zadania domowego. Jakie jest twoje wytłumaczenie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ = ból dupy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale masz _, daj!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A dlaczego _, skoro _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Ty chuju, cwelu, pizdo, kurwo, matkojebco, przychalście, naleśniku.",
+    "Wyciąg z starego buta.",
+    "Wyliże ci pryszcze.",
+    "Ty gnijący ochłapie.",
+    "Zwieracz mi jebnął :(.",
+    "Ukryć uczucia jest łatwo, ukryć drągala już nie tak bardzo.",
+    "No co ty tato.",
+    "Gwałtowny poród.",
+    "Wszyscy jesteśmy POJEBANI.",
+    "Gdy goni mnie mięso to mówię: Kurwa! Goni mnie mięso.",
+    "Kurwa spłoniesz.",
+    "Brak entuzjazmu u Janasa...",
+    "Chuj ci w wioskę.",
+    "Deręgowski mnie obraża.",
+    "Sandalf.",
+    "Niewyparzona morda.",
+    "Zniszczyłeś mi dzieciństwo, ty pojebie ;(.",
+    "Busz kobiety w 4K.",
+    "Pierd głośny jak wystrzał artyleryjski.",
+    "Nie kurwa, podlewam go żeby urósł z niego motocykl.",
+    "Tylska z zaszytą dupą.",
+    "Ssij mi pałę kurwo pierdolona!.",
+    "Postal 2.",
+    "Rzeźnik oprawiający Witkowskiego.",
+    "Weź się tato.",
+    "Twoja stara.",
+    "Lego.",
+    "Karmienie dzieci gruzem."
+  ],
+  "pack": {
+    "id": "AAURD",
+    "name": "Ultra Deck [PL / Polish - Polskie] | by Janas"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 28,
+    "total": 43
+  },
+  "dateStoredMs": 1589282216810
+}

@@ -1,0 +1,46 @@
+{
+  "black": [],
+  "white": [
+    "Giraffe.",
+    "Tiger.",
+    "Zebra.",
+    "Orangutan.",
+    "Elephant.",
+    "Rat.",
+    "Toad.",
+    "Dog.",
+    "Cheetah.",
+    "Eagle.",
+    "Bear.",
+    "Moth.",
+    "Fly.",
+    "Spider.",
+    "Mouse.",
+    "Gorilla.",
+    "Bee.",
+    "Worm.",
+    "Horse.",
+    "Sheep.",
+    "Leopard.",
+    "Owl.",
+    "Beetle.",
+    "Flea.",
+    "Frog.",
+    "Cat.",
+    "Bird.",
+    "Lion.",
+    "Monkey.",
+    "Bat.",
+    "Deer."
+  ],
+  "pack": {
+    "id": "FFT7T",
+    "name": "Animals - responses"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 31,
+    "total": 31
+  },
+  "dateStoredMs": 1588379830198
+}

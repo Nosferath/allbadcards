@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "durring corona time I have got really good at _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We might be in a historical pandemic but at least _ isn't happening.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I  _ to pass the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I resist from eating all my snack rations by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zoom calls get really interesting when your Professor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "once quarantine is lifted, the first thing I am going to do is? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ , horny, and lonely.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Social distancing.",
+    "Hating everyone.",
+    "Calling your mom.",
+    "Forgetting the election is still happening.",
+    "Finger cream cheese.",
+    "Trying to video chat your grandma.",
+    "Sleeping till noon.",
+    "Watch porn non-stop.",
+    "Marry my roommates.",
+    "Being a little depressed piece of shit.",
+    "\"quarantine\" Body.",
+    "Marry my siblings.",
+    "Stalking your ex on every social media platfrom.",
+    "A tree falling on your power line to your house.",
+    "Family dinner.",
+    "Going on virtual dates on Hinge.",
+    "Fuck my neighbors.",
+    "Eating everything in sight.",
+    "Annoying my roommates.",
+    "Trump is reelected.",
+    "Adopting a dog.",
+    "Cooking bomb as dishes.",
+    "Texting your ex.",
+    "Send nudes to old men online.",
+    "Watch boring movies that I knew I wouldn't like in the first place.",
+    "Accidentally send nudes over the chat box In Zoom during class.",
+    "Trump Is president.",
+    "Falling back into depressing high school habits.",
+    "Fall in love with every person in the Zoom call."
+  ],
+  "pack": {
+    "id": "3DAJG",
+    "name": "corona time"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 29,
+    "total": 36
+  },
+  "dateStoredMs": 1588897174226
+}

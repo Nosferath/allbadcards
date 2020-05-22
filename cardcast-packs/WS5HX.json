@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "What did _ do at princess prom. they  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why is catra so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shadow weaver is the biggest shipper of _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "With my runestone's power of _. I am sure to defeat you.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Angry cat lady in love with a princesss.",
+    "Mermista.",
+    "Glimmer.",
+    "Catradora.",
+    "Frosta.",
+    "The horde.",
+    "Princess prom.",
+    "My son kyle.",
+    "Hey adora.",
+    "Ahh no betrayal.",
+    "Bow.",
+    "Madame razzz.",
+    "Adoras love for catra.",
+    "Kyle.",
+    "Purfuma."
+  ],
+  "pack": {
+    "id": "WS5HX",
+    "name": "she-ra"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 15,
+    "total": 19
+  },
+  "dateStoredMs": 1589499645915
+}

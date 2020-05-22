@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "You've got that _ _ look in your eye.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you ask her she'll say \"_\".",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Galaxy Michael.",
+    "Ashton's former jobs at KFC and a video store.",
+    "Mikey's chameleon hair.",
+    "Harry Styles the real life frog meme.",
+    "A chocolate milk party.",
+    "Poorly written daddy kink.",
+    "Mountain Man Ashton.",
+    "Calum Hood.",
+    "Niall Horan.",
+    "Michael Clifford.",
+    "Zayn's single strand of hair.",
+    "Ashton Irwin.",
+    "Zayn Malik.",
+    "The eggplant emoji.",
+    "My tiny dirty rat son Louis.",
+    "Leuk Hemmigs.",
+    "Calum's nudes.",
+    "Michael's fringe.",
+    "Mali Koa Hood.",
+    "Fetus Michael.",
+    "Ketchup.",
+    "The Cracker Quartet.",
+    "Mashton.",
+    "Harry's third nipple.",
+    "Luke's foot thing.",
+    "Zayn's buzzcut.",
+    "Harry's fourth nipple.",
+    "Lashton.",
+    "Daniel.",
+    "Harry Styles.",
+    "Derpball.",
+    "Muke.",
+    "Cashton.",
+    "Huke Lemmings.",
+    "Louis Tomlinson.",
+    "Harry's secret fifth nipple.",
+    "Zayn's nose piercing.",
+    "Cake.",
+    "Malum.",
+    "Liam Payne."
+  ],
+  "pack": {
+    "id": "rsbpm",
+    "name": "5sos/1d"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 40,
+    "total": 42
+  },
+  "dateStoredMs": 1588420730456
+}

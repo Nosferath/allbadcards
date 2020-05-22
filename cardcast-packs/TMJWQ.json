@@ -1,0 +1,88 @@
+{
+  "black": [
+    {
+      "content": "There are only two genders, _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the gay anthem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bury your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is for boys and _ is for girls.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a spectrum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My pronouns are _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Down with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is an LGBT icon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Q in LGBTQ stands for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The three made up sexualities, _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Gay.",
+    "Bisexual.",
+    "Grindr.",
+    "Transgender.",
+    "Binders.",
+    "Top Surgery.",
+    "Transtrenders.",
+    "Asexual.",
+    "Special Snowflakes.",
+    "Pride Parades.",
+    "The Straights™.",
+    "Homosexualist Gay Terrorism.",
+    "Cisnormativity.",
+    "Bottom Surgery.",
+    "Shitting out rainbows.",
+    "The Babadook.",
+    "Gender Roles.",
+    "Nonbinary.",
+    "Homosexual.",
+    "Hormone Replacement Therapy.",
+    "Pansexual.",
+    "An excess of pride flags."
+  ],
+  "pack": {
+    "id": "TMJWQ",
+    "name": "LGBT Screaming"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 22,
+    "total": 32
+  },
+  "dateStoredMs": 1588553359351
+}

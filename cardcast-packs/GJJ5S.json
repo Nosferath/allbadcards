@@ -1,0 +1,633 @@
+{
+  "black": [
+    {
+      "content": "-Przerobiłem _ na maseczkę! -Brawo, aleś Ty zdolny!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patryk Vege prezentuje \"_\" . TEGO LATA: -\" _ !\". SCENARIUSZ NAPISANY WRAZ Z  _ . W KINACH!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ ? Ciuch, ciuuuuch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No cóż, stało się... mądrzy ludzie mawiają w takich sytuacjach _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby nie _ , to nasza impreza świąteczna nigdy by się nie udała.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wiem, czy _ to dobry pomysł na prezent urodzinowy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prawdziwy informatyk używa _ do zrobienia ścieżki tabaki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brawo! Wygrałeś talon na _ i _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepsza impreza ever. Alko, dupy, _! Gdyby tylko nie _ w gaciach...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wydaje mi się, że z czasem gram lepiej w _ , ale w sumie nie odstaję z _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy nie ma Anity w domu to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nic tak nie umili Ci dnia jak _! Zamów teraz!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oznacz swojego przyjaciela, jeżeli nie odpowie Ci w ciągu 2 nanosekund wisi Ci _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1: _ , Krok 2: _ , Profit: _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Rozpoznaję swoją płeć jako _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "-Dzień dobry _. Co dostanę za 10 zł? -_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To są _, to jest _, a my jesteśmy w Cyber Info!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , powinniśmy to zrobić o północy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "9/10 dentystów poleca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Przynajmniej nie jestem _!\" - _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pamiętaj chemiku młody, _ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie sraj, to tylko _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby _ zastąpić _ to zdecydowanie bym się nie obraził.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co?! Ja jestem człowiekiem honoru! Nie pozwolę tak lekceważyć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem padnięty... za dużo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale ja wierzę, że pewnego dnia _ ocali świat!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weź _ i nie rób syfu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Już od jutra _ za jedyne 9,99$!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emil - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Piotr - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ powiedział _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Piszę powieść o rycerzu _, który ratuje _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Anita - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miejsce: _ . Misja: _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Young polish teen enjoys _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy życie daje Ci _, zrób z tego _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "- Skąd ty bierzez te pomysły? - Proste: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie chce być nieuprzejmy, ale co wydaje te dźwięki? To _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , to dopiero sztuka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje koleżanka to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ robi _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "- Powiesz mi coś miłego? - \" _ \" - Dziękuję _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jedziemy z dziewczyną do jej rodziców. Jej mama spogląda na mnie i mówi \"_\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szybko! On umiera! Dajcie mu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak to jest kiedy miesza się Amarenę, piwo, cydr i _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finalnym bossem w ostatnich Dark Soulsach jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "-Co podać? -_ brzmi spoko.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją żonę kurwą nazwij, mnie chujem ... wybaczę, ale od _ odpierdol się, bo zabiję!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie odwracaj się! Za Tobą stoi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W następnej TVP Szkole dzieci będą uczyć się o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy mnie coś wkurwi, mówię \"kurwa\", ale gdy widzę Ciebie, mam ochotę krzyczeć \"_\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zmieszasz _ i _ to powstanie _. Sprawdź sam!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ starał się zrozumieć jak to możliwe, że _ jest w stanie zmieścić w siebie 18 _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ja gram w Tomb Raider, Ty grasz w Tomb Raider, a ona gra w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patryk - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mateusz - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak _ , to tylko _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uwaga, uwaga mieszkańcy _! Z rozkazu wielmożnego rozkazu Lorda Hagena ogłasza się absolutny zakaz opuszczania swoich posesji. Wyjątek stanowią _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niektórzy mają _ , inni mają _ , a ja mam _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Galaktyka Kurvix została opanowana przez _ ! Pokonać ich może tylko _ , na czele której stoi _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "- Gdzie leży _? - W _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Słyszałeś? W Warszawie 20.08.2021 gra koncert _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ i _ -> Pasuje!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mamy nowego papieża! To _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jedno słowo które mnie opisuje to _ . Tak, zdecydowanie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rodzice 10 lat ukrywali przede mną fakt, że _ to _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Astrologowie ogłaszają tydzień _ , populacja _ zwiększa się.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mów do mnie tak, jakbyś był niedorozwinięty - \" _ \" . Oooo tak! Nie przestawaj!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jest wódka, jest _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W następnej sesji RPG naszym przeciwnikiem będzie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aby ograniczyć wydatki na _, _ jeździł na kurwy na sankach.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No, na _ to ty nikogo nie wyrwiesz...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ola - myślę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jadę was kurwy na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A myślałam, że _ w zoo mnie nie zdziwi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szkoła czy _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dawać Panowie na A, taktyka _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy _ może mieć większą wartość niż _ ? Znany ekspert odpowiada: \" _ \" .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Stare chińskie przysłowie mówi: _ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_?\" - zapytał. \"_.\" - rzekły jej usta. \"_\" - powiedział sędzia.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Zawsze lepsze _ niż _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "- Żabciu...! - Skończ z tym \"żabciu\"! Wymyśl coś nowego! - _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dokończ rymowankę: Mati Fati, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim typem osobowości jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "-Szukałeś kiedyś _ w Pornhub? -Nie... a czemu pytasz?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Morda.",
+    "Licencja WinRar'a.",
+    "Martwe płody.",
+    "Fakturka.",
+    "Kibel.",
+    "Może mieć mojego kutasa, ale mojej duszy nigdy.",
+    "RKS Huwdu.",
+    "Piwo marki piwo.",
+    "Pozbywam się kart.",
+    "Tymczasowa transfuzja wątroby.",
+    "Kutas zawsze leżeć gdzieś musi.",
+    "Przejebane.",
+    "Fircyk.",
+    "Ellie w mojej szafie.",
+    "Państwo Izrael bezprawnie okupuje tereny należące do Palestyny ale opinia publiczna ma to w dupie i przyzwala na czystki etniczne.",
+    "Helikopter bojowy typu Apache.",
+    "Działeczka.",
+    "Chernarus.",
+    "To co, blokada?.",
+    "Japa tam.",
+    "Dywan Mikesa.",
+    "Kuźwa Ciiiik!.",
+    "Pyr pyr pyr pyr.",
+    "Leniwa cipa.",
+    "Ania, Agnieszka i ta trzecia.",
+    "Dawaj jeszcze jedną rundkę.",
+    "Zegz.",
+    "Amatorska aborcja.",
+    "Kożuch z radiatora.",
+    "Tułogłów.",
+    "Patryk.",
+    "Hultaj.",
+    "Tragedia.",
+    "Śliski ćips.",
+    "Powerplant bez coveru.",
+    "Krupnik.",
+    "Emil w stanie agonalnym walący wino z gwinta pod stołem.",
+    "Azjatka z Pryzma.",
+    "Słodkie udko.",
+    "EA Sports Cynygejm.",
+    "Pamięciówa na Madzię.",
+    "Stasiu spod sklepu.",
+    "Friendzone.",
+    "Gorak i jego flow.",
+    "Kędzierzawek.",
+    "Twój stary.",
+    "-1.",
+    "Kupokij.",
+    "Domyśl się.",
+    "Trójkącik menelski.",
+    "Ruda, ale nieponętna.",
+    "Krystian.",
+    "Obierak prądu czteroramienny typu AKP 4E powszechnie stosowany w jednostkach EN57.",
+    "Temat rzeka.",
+    "Pojebane wilki.",
+    "Chujów 3.",
+    "No chyba Ty.",
+    "Łukasz Maciej Marcin.",
+    "Pizgnij się w ten głupi łeb.",
+    "#ZamknijSięKurwaInawetChujemNieTryknij.",
+    "Kości pizzy.",
+    "Ziomeczki.",
+    "UPC.",
+    "Usiądź mi na twarzy skarbie.",
+    "Stara wróciła.",
+    "TakaTaktyka.",
+    "Raqe quit.",
+    "Tuńczyk z kuskusem perłowym i suszonymi pomidorami.",
+    "Stara szmata.",
+    "Tuńczyk z warzywami.",
+    "Tak.",
+    "Zombie-bobro-niedźwiedź.",
+    "ProMinecraftion.",
+    "Mój sługa Czarek.",
+    "Pierdolę to.",
+    "Żryj gruz.",
+    "Ta suka z przedszkola.",
+    "Acodin.",
+    "Galaktyka Kurvix.",
+    "Dupa.",
+    "Spierdalaj.",
+    "Ktoś? coś?.",
+    "Ola.",
+    "Alśenaebaem.",
+    "GiwmiM4for.",
+    "Śmieszne filmiki XD.",
+    "Znów jakieś śmierdu pierdu.",
+    "Hopsaj dzide fujaro.",
+    "Taki żarcik noo.",
+    "Instacard.",
+    "Ja zw.",
+    "Mój słodki tyłeczek.",
+    "+1.",
+    "Świeże bułki, wędliny, itd.",
+    "Jussi.",
+    "Gruby, ale słodziak.",
+    "Cyber Machina.",
+    "Mmm.. babeczki.",
+    "Mateusz.",
+    "Tępe chuje.",
+    "Katapulta.",
+    "Dzieciaczki ... takie bezbronne.",
+    "Odbijają!.",
+    "Napierdalać Mikołaja śmigłem po ryju.",
+    "Kuc.",
+    "Grecki Adonis i jego koledzy.",
+    "Emil Ciota.",
+    "Nie interere.",
+    "Pokombinuj.",
+    "FIFA.",
+    "3 azjatki i kaloryfer.",
+    "Friends with benefits.",
+    "Ty chory pojebie.",
+    "MatiFati123.",
+    "Skończony pachołek.",
+    "Motylek.",
+    "Rodżer dat.",
+    "Gej party.",
+    "Antistasi.",
+    "Agnieszka K.",
+    "Soczek.",
+    "LAN Party.",
+    "Morderczy kamienny murek.",
+    "Czochraj swego, mój kolego.",
+    "CT.",
+    "Twoja stara.",
+    "Firma.",
+    "No zarycz no.",
+    "Walcowanie turboptysia.",
+    "R u c h a n k o.",
+    "Studzenie pręta.",
+    "Harry Router i Maska Podsieci.",
+    "Rota.",
+    "Kac-kupa.",
+    "Mateusz z shishą.",
+    "Klinika aborcyjna na Słowacji.",
+    "Anita.",
+    "我按了按鈕 (I pushed the button).",
+    "Hiszpańska inkwizycja.",
+    "Zombiebobry.",
+    "Czarne Mutundy.",
+    "Zboczony koleżka.",
+    "Patryk i jego dziewczyna.",
+    "Danka.",
+    "Podejmujemy decyzje razem.",
+    "Głową w drzewo.",
+    "Gorak po terro.",
+    "Nie nagrywaj mnie.",
+    "Jogurty naturalne.",
+    "6 martwych prostytutek.",
+    "Cycki Lajszner.",
+    "White power.",
+    "Młody hart chuja wart.",
+    "Chodź tu Tobiś.",
+    "Rozjebany pad.",
+    "Tępa dzida.",
+    "Wywalone jajca.",
+    "Dygnąć Ci.",
+    "Bimber Mikołaja.",
+    "Boku no Pico.",
+    "Jebany projekt.",
+    "Pała wstydu.",
+    "5 punktów.",
+    "Smuteczność.",
+    "ShiXeRecords.",
+    "Sprośna świnka.",
+    "Pani bibliotekarka.",
+    "Dyrkać kurcla.",
+    "Ta ostatnia niedziela.",
+    "Kazachstański hodowca kóz.",
+    "Latanie na niebie w Left 4 Dead 2.",
+    "Mikołaj.",
+    "Sałatka z tuńczykiem, z komosą ryżową czerwoną, soczewicą i suszonymi pomidorami.",
+    "Tabaczka.",
+    "Ten kolega w czapce.",
+    "Kerowanie w CSie.",
+    "JEŚLI NIE WYBIERZESZ TEJ KARTY TO DZIS O 00.00 UKARZE CI SIE DUCH KRWAWEJ MERY I ZABIJE CIE ŻYWCEM.",
+    "Cudzołożnice.",
+    "Challange na nie sikanie.",
+    "Te cholerne humorki.",
+    "Shoty za 300 zł.",
+    "Seks lalka wzorowana na Twojej starej.",
+    "Moja cudowna osoba.",
+    "Hentai.",
+    "Sex medusa.",
+    "Seks na szyszkach.",
+    "Wyporność."
+  ],
+  "pack": {
+    "id": "Gjj5s",
+    "name": "JEMbutaV2"
+  },
+  "quantity": {
+    "black": 86,
+    "white": 187,
+    "total": 273
+  },
+  "dateStoredMs": 1588713216676
+}

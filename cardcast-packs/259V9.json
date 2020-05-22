@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "Match-maker, match-maker, make me a match. Find me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's take it from the top, and remember, you are _. Show me (SAME CARD AGAIN).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright everybody, HOLD! Kelly, why is there _ on my stage?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This season at Manhattan Theatre Club: \"Who's afraid of _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Comedy = Tragedy + _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "All 59 inches of Kristin Chenoweth.",
+    "A play about people I don't like doing things I don't care about.",
+    "Two men in a horse costume.",
+    "Linda, 18 but wise beyond her years, achingly beautiful.",
+    "Taking a year off to study Japanese puppet theatre.",
+    "The wickedly talented, one and only, Adele Dazeem.",
+    "Absolutely butchering Sondheim.",
+    "Killing Dad and fucking Mom.",
+    "Forgetting your lines, shitting your pants, and your pants falling down.",
+    "A Drama Desk Award for Outstanding Sound Design in a Play.",
+    "The Phantom of the Opera.",
+    "Two contrasting monologues-- one classical, one contemporary.",
+    "Brief male nudity.",
+    "A fog machine.",
+    "Problematic depictions of Asian characters.",
+    "Five miso soups, four seaweed salads, three soy burger dinners, two tofu dog platters, and one pasta with meatless meatballs.",
+    "Narcissistic Personality Disorder.",
+    "Rampant misogyny and sexual harassment.",
+    "A dead salesman.",
+    "An autographed headshot of Nathan Lane.",
+    "This old lady next to me who won't stop farting.",
+    "Being crushed to death by a stage light.",
+    "My whole family watching.",
+    "Improv comedy.",
+    "Two tickets to Hamilton."
+  ],
+  "pack": {
+    "id": "259V9",
+    "name": "Theatre Pack (Cards Against Humanity)"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 25,
+    "total": 30
+  },
+  "dateStoredMs": 1588955664947
+}

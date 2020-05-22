@@ -1,0 +1,570 @@
+{
+  "black": [
+    {
+      "content": "This week’s lab results brought you by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science: The only endeavor in which studying _ is respectable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next pandemic virus will emerge from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why there aren't enough women in the sciences.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elon Musk’s next company will focus on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ :  An under-emphasized lab necessity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ taught me all I know about science.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : soul-crushing, but necessary for publication.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest superstar professor hired works on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best way to obtain publication-quality data is to use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Applied for a postdoc, all I got was this lousy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why it always takes an extra five minutes to get the computer projector working.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, those are just mice with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What aspects of STEM public outreach are audiences most clamoring for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I opened the incubator this morning, I found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life would be so much better if you could get funding for (studying) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a spot in the lab due to my research on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My PCR didn’t work due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn’t finish my proposal because I was delayed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Congratulations! Your fellowship includes a stipend and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your gut microbiota can help you withstand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Ph.D. degree should really be in working with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The mysterious residue on the lab counter was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientific breakthroughs are often a result of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s been said that _ causes autism.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can’t wait until I never have to work with _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Why I chose a career in science.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disneyland recently had an outbreak of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Nobel Prize in Physiology or Medicine will be awarded for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tested _ - results inconclusive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are a valid reason to postpone your experiments today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science has become much more competitive since _ were included in grant applications.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I knew my Ph.D. defense wasn’t going well when _ became a heated topic of discussion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What contaminated my cell cultures? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : How do they work?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I published my first paper in the Journal of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is my bench sticky? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ probably isn’t a valid travel expense.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is an acceptable substitute for template DNA in your reaction.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When alone at night in lab, I like to play with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your advisor’s lab pet peeve is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ make/s the frustration of research worthwhile.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before centrifuging, never forget to include _ as a balance.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really killed the dinosaurs? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After I defended, my advisor gave me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My PCR didn’t work due to _ contaminating the reaction.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Don’t go to a conference without it/them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Soon, I will accomplish my life long goal of researching _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After getting tenure, the professor celebrated by buying _ for the lab.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's trivial!\" said the Professor. \"It obviously happens because of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the newest explanation for carcinogenesis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will be required to dissect 500 _ to complete my thesis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next target of gene therapy should be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. #overlyhonest- methods.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In what’s being hailed as a major breakthrough, sciences have synthesized _ in the lab.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To increase its impact factor, Nature published a special issue about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In hindsight, I probably shouldn’t have put _ in the autoclave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While mercifully rare, there is no known cure for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey there, young scientists! Put on your gloves and lab coats because today we’re learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We knew our grant didn’t get funded when the reviewers didn’t understand our methods regarding _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why it takes so long to obtain a Ph.D.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Publish about _ or perish.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A PI’s favorite thing in the entire world is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A study published in Science this week found that _ is good for you in small doses.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Forgetting to set a timer.",
+    "The grad student that needs sensitivity training.",
+    "Barely meeting the submission deadline.",
+    "Rabid dogs.",
+    "CRISPR/Cas9.",
+    "Mouth pipetting.",
+    "Excessive amounts of time playing with parafilm.",
+    "Incomprehensible powerpoint presentations.",
+    "Lab coat stains.",
+    "Freaking out about the next emerging disease.",
+    "A freakish independently replicating strain of AAV.",
+    "The scientific method.",
+    "Getting really worried about global warming for a few seconds.",
+    "A grad student with nothing to lose.",
+    "The grad student who has been in the department longer than all known faculty.",
+    "Unrestricted lab spending.",
+    "A back-of-the-glove calculation.",
+    "Pandemic response training.",
+    "The majority of lab members who have GFP antibodies.",
+    "Unicorns.",
+    "Quick naps in the dark room.",
+    "Experiments that require you to go to the nuclear pharmacy.",
+    "'A human subject' (aka myself).",
+    "Dihydrogen monoxide.",
+    "Yet another seminar in 'omics'.",
+    "Dance your Ph.D. competition entries.",
+    "Awkward advisor interactions.",
+    "A temperamental autoclave.",
+    "Someone who borrowed your pipettes and never returned them.",
+    "Fermenting cell culture flasks.",
+    "Prancing about the BSL-3 lab in a bunny suit.",
+    "Neil DeGrasse Tyson.",
+    "An oncolytic virus gone rogue.",
+    "Nanotechnology.",
+    "Repetitive stress injury.",
+    "PPE shortages.",
+    "Isofluorane inhaled while anesthetizing mice.",
+    "Ancient lab equipment.",
+    "The open bar at conferences.",
+    "A vortexer.",
+    "SARS.",
+    "Getting scooped.",
+    "Using the sharps container as a piñata.",
+    "Cocaine ordered from Sigma Aldrich.",
+    "Not being able to access PubMed due to a government shutdown.",
+    "Brexit.",
+    "'Pet Away Stress' events.",
+    "Leaking drums of nuclear waste.",
+    "Reviewer 3.",
+    "The National Institutes of Health.",
+    "Free food from seminars you don’t really care about.",
+    "Crime scene DNA.",
+    "Darwin.",
+    "Agar shots!.",
+    "David Baltimore.",
+    "Scientology.",
+    "Tense TSA detainments due to chemicals on your shoes.",
+    "Science jokes not even your lab mates would understand.",
+    "Leftover seminar pizza.",
+    "Catastrophic radioactive contamination.",
+    "The unlabeled bottle that everyone is too scared to throw away.",
+    "Measles.",
+    "'Field' work.",
+    "Singing or dancing in the lab when you think no one is around.",
+    "Anti-vaxxers.",
+    "Lab ethanol that keeps disappearing.",
+    "Indescribable frustration.",
+    "The decision between studying, another experiment, or getting enough sleep.",
+    "Undergrads.",
+    "Reprogrammed stem cells exhibiting atavistic characteristics.",
+    "The control group.",
+    "Pipetting clear liquids into other clear liquids.",
+    "MRSA.",
+    "'Alternative facts'.",
+    "The postdoc that always says controversial things.",
+    "Using antibiotics to treat viruses.",
+    "Highly cited papers.",
+    "Robot overlords.",
+    "Decades of lost samples due to an accidentally unplugged -80 °C freezer.",
+    "Lab rotation students.",
+    "That quiet postdoc whose project is a mystery.",
+    "The flickering lights in the conference room that keep you awake.",
+    "Bourbon virus.",
+    "New viruses harvested from angry koalas.",
+    "The never-ending quest for 'as described previously'.",
+    "Climate change denial.",
+    "Pipette fatigue.",
+    "A million hand-labeled tubes.",
+    "A mouse that simply refuses to die.",
+    "A concerning fuzzy mass in the buffer.",
+    "Mice with tumors on their butts.",
+    "My blood-stained lab coat.",
+    "Replacing the polymerase enzyme with rancid komodo dragon saliva.",
+    "Evolution gone awry.",
+    "Not enough replicates.",
+    "The custodian that is your best friend.",
+    "The Scoville scale of pepper hotness.",
+    "H5N1 pandemic avian flu.",
+    "The faculty member who should attend responsible conduct of research classes.",
+    "Coffee, the essential elixir of life.",
+    "Schrodinger's cat.",
+    "Getting trapped in the BSL-3 lab due to faulty negative pressure systems.",
+    "A research monkey smarter than the lab assistant.",
+    "Another postdoc.",
+    "A superfluous number of flow cytometry lasers.",
+    "Mad cow disease.",
+    "Zombies!!!.",
+    "Reviewers.",
+    "Rodents of unusual size.",
+    "Distracting grammatical errors.",
+    "Windows automatically installing updates minutes before your thesis defense.",
+    "Tardigrades.",
+    "Stray kittens found walking home from lab.",
+    "Virus hunting in bat colonies.",
+    "Contagious yawning.",
+    "Degraded RNA.",
+    "Bill  Nye the Science Guy.",
+    "Brain eating proteins.",
+    "Mice that eat their babies.",
+    "Catastrophic failure of the BSL-3 air filtration system.",
+    "Liquid nitrogen.",
+    "Never-ending IACUC protocol modifications.",
+    "The lab tech you can never find when you need them.",
+    "An illegibly labeled specimen.",
+    "Imposter syndrome.",
+    "An exploitative advisor.",
+    "Mice that receive better healthcare than the students.",
+    "Bigfoot's DNA sequence.",
+    "The token female professor.",
+    "Incessant temperature alarms.",
+    "Incompatible restriction enzymes.",
+    "Extreme hunger because you forgot to eat while sciencing all day.",
+    "Bacteria collected from questionable sources.",
+    "Ebola.",
+    "Community transmission.",
+    "Intermediate hosts.",
+    "Fostering grad students.",
+    "A computer older than all of the grad students combined.",
+    "A well-sharpened pencil.",
+    "Collaborator frenemies.",
+    "3.7 billion years of evolution.",
+    "Predatory journals.",
+    "Secret steps in protocols that make all the difference.",
+    "The person on the floor who never smiles.",
+    "Dry ice.",
+    "Self-collected specimens.",
+    "The sixth year grad student forced to drink cell media for sustenance.",
+    "Results that change every time you perform the experiment.",
+    "Secretive labeling habits.",
+    "The National Science Foundation.",
+    "Plagiarism.",
+    "Lab pranks.",
+    "Ignorant journal editors.",
+    "The only antibody that works but is no longer made.",
+    "Herpes (1 or 2. You decide!).",
+    "The Matrix.",
+    "3 a.m. time points.",
+    "The last microliters of reagent.",
+    "The glory of manuscript acceptance on your first try.",
+    "Hunger strike when I don't get tenure.",
+    "Natural selection!.",
+    "The last 200 μl of the most important buffer in the kit.",
+    "Mac/PC compatibility issues.",
+    "The TARDIS.",
+    "Being knowledgeable in a narrow field no one cares about or understands.",
+    "Recapping needles.",
+    "Boring lab parties.",
+    "Increasingly complex Next-Gen sequencing techniques.",
+    "Questionable biocontainment practices.",
+    "Spontaneous combustion.",
+    "Illegible lab notebooks from long gone lab members.",
+    "My messy lab bench.",
+    "Lab notebooks written in Japanese.",
+    "Sequencing your own DNA.",
+    "Bats.",
+    "American Heart Association grants.",
+    "Awkward dancing at conference social events.",
+    "Lots of alone time in the microscopy room.",
+    "The sixth revision of your manuscript.",
+    "Three gallons of pure ethanol.",
+    "Autism caused by vaccines.",
+    "Pandoraviruses.",
+    "Experimenting on yourself.",
+    "Unproductive meetings.",
+    "A jar of leeches.",
+    "The lab mate who is a mess.",
+    "Evidence that there really is a god.",
+    "Results that defy all logic.",
+    "The control mouse you smuggled home as a pet.",
+    "A mouse growing a human ear on its back.",
+    "Pipette induced carpal tunnel.",
+    "Zika-carrying mosquitoes.",
+    "Lab hazing.",
+    "Falling in love with your research animals.",
+    "HIV.",
+    "Watching Netflix with your animals because they need 'enrichment'.",
+    "That new virus coming out of China.",
+    "Mind-numbing lab chores.",
+    "The funky smell in the animal facility.",
+    "SARS-CoV-2.",
+    "Bill Nye's bowtie.",
+    "A temporal anomaly.",
+    "Model organisms that glow in the dark.",
+    "A monkey infected with Ebola that seems perfectly fine.",
+    "The metric system.",
+    "An AAV encoding alcohol dehydrogenase.",
+    "Rebellious primers.",
+    "Repetitive Research Gate publication notifications.",
+    "Rogue anthrax spores.",
+    "Lab conflicts over authorship.",
+    "Existential despair induced by repetitive failure.",
+    "The PI who unexpectedly left in the middle of your Ph.D. :(.",
+    "'A learning opportunity'.",
+    "Viruses recovered from melting glaciers.",
+    "Ultracentrifuge tubes as fragile as your ego.",
+    "Professional presentations in Comic Sans.",
+    "Baby talking to your samples to encourage them.",
+    "Opposable thumbs.",
+    "New viruses discovered by coughing on your labmate’s plate of primary cells.",
+    "Axolotls.",
+    "Falsifying/ falsified data.",
+    "Donor organs.",
+    "Long rambling questions after a conference talk.",
+    "P = 0.06.",
+    "A massive box used to ship a tiny tube of reagent.",
+    "Insufficient serotonin.",
+    "Weather so cold you can store your samples outside.",
+    "Bleach spots on your favorite shirt.",
+    "Outbreak epidemiology.",
+    "Spit in a tube.",
+    "Late night, coffee fueled grant ideas.",
+    "Eating your model system.",
+    "RNAses.",
+    "RNAses destroying everything."
+  ],
+  "pack": {
+    "id": "UG8VV",
+    "name": "Clean Cards Against Virology/Lab Science"
+  },
+  "quantity": {
+    "black": 64,
+    "white": 234,
+    "total": 298
+  },
+  "dateStoredMs": 1588382894903
+}

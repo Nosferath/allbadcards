@@ -1,0 +1,575 @@
+{
+  "black": [
+    {
+      "content": "Do you want dinner? A bath? Or... _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ being uncomfortable makes exaenae happy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes Enzie very angery.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BakaBot's darkest secret: she's actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ died for our sins.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are the _. You will be assimilated.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started drawing _ on bathroom stalls, saying they would save us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My darkest fetish is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to _land.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ a girl?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just because I'm _ doesn't mean you can't _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a grown up _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best way to trigger _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": ">When Aire thinks you're a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Lucksworn, you have to be _ to be strong.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Copper's next hybrid deck is _ _s.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Parry needs to do an ASMR video on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would buy _ in max rarity.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "People who like _ think they're better than everyone else.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wouldn't actually eat a _, but if given the legal consenting chance... I'd do it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AWAKEN, _ OF THE _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ purges so hard you'd think they were a weight-conscious white girl.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*glomps _ at mach 7 while also _. notices your _.* OwO What's dis?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Sometimes I lay in bed and imagine myself and  _ in horribly _ ways.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We need to get _ to write _ erotica.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ is always _ier on the other _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Welcome to _, home of the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the purest form of love.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I watch _ for ASMR.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ y. come back. *hugs*",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aire would most likely hit on _ next.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Konami's next dub name for a side character: _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just want to relax in my bed and listen to _ whispering sweet nothings.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next time on Cooking with Broongus: Fried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To sum it up: I hate _, I hate _, and I hate _. Got any other questions?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "People would buy _ in a _ if it was high rarity.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is being a _ bad?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys, _ here coming at you with another _ deck profile.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Seriously, _ with Metalfoes is a good deck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BakaBot's new pickup line: \"You're as fine as _ on a hot summer's day\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because of _, every day we drift further from God.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I lost my friends, and my sanity because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beating up _ is not objectively wrong.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*notices your _* owo what's this",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would win against _ in a duel.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wonder if the people who play _ were abused as children.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing makes me saltier than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I actually built my channel off of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate it when people  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ went from 0 to 60 real quick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone wants to impress _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The rat is ..._.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sound like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not gonna lie, I'd totally try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only use _ to _, I wouldn't do it any other way.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, GUIDE MY _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If there's something azallea should never screenshot, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone is thirsty for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes me touch myself at night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why would you ever assume a _ would like you back?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My E-HERO deck beat _, _, and _ turbo. It's tier 0.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I actually _, I think I would know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want to believe in a God that does not punish people for running _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ x _ OTP",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Everything is just a big _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My least strange fetish is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you put _ and _ into #fight-me-irl, they would argue about _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I HAVE CONFIRMED _ USING THE WIKI.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SOLOMON GUIDE MY _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is always tastier on the other _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Aeri, _ me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd watch _ if it was a TV show.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never thought my life would lead me to chatting with 3 _ and 2 _ about _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm only attracted to _ if they're attracted to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is attracted to _ more than Parry is attracted to moths.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "ArtemisX would get max rarity _ if he could.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst possible tag team: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm beating that wild _'s ass tonight just to prove _ wrong.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Someone call _ so they can shit on us for not using _ properly.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "YOU CAN'T JUST PUT THE _ ENGINE ON TOP OF WHATEVER THE FUCK YOU WANT!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not gonna lie, I'd fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fap to _ every night tbh.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the next trend in shitposting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will suck Earl's dick for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only fap to _, I wouldn't actually do it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s voice is pure sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do _ and I will personally make you pay hell, torture you, and end you for the pain you cause _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Chain Solemn Strike.",
+    "Dia.",
+    "Melodious.",
+    "XD ikr XDDDDDD.",
+    "Red pill.",
+    "Chocolate mashed potatoes.",
+    "Parry's obsession with Yuuka.",
+    "Moonedge.",
+    "R A N K 1 0 T RA I N S.",
+    "Smoltown.",
+    "Just a nibble.",
+    "Terrible tag partners.",
+    "SPYRAL engine.",
+    "Chadook's pinups.",
+    "The star of david.",
+    "Valkoor.",
+    "Succ.",
+    "Jeff.",
+    "LUCK OFF NOOB.",
+    "NOOB IS YOU.",
+    "Cardians.",
+    "Aile.",
+    "Ragnell.",
+    "Raiding YugiTuber chat.",
+    "Moldovan exchange student.",
+    "YGOME Shills.",
+    "Ye.",
+    "T h i c c.",
+    "Being a bad person.",
+    "Bahablast Shark.",
+    "Spoon.",
+    "The neckbeard in everyone's heart.",
+    "Trap boys.",
+    "Nail clippers.",
+    "Aeri.",
+    "ＳＡＳＵＫＥＥＥＥＥＥＥＥＥ.",
+    "Ecchi things.",
+    "Azallea.",
+    "Charmerspecters.",
+    "Kayzeno.",
+    "D.D. Sprite.",
+    "A e s t h e t h i c c.",
+    "6 Axis.",
+    "Tucc.",
+    "Caineghest.",
+    "A social commentary on the modern obsession with penile length.",
+    "Aire.",
+    "People of questionable character.",
+    "Rakkis.",
+    "Valkoor being a trap boi.",
+    "EGAO.",
+    "Smol.",
+    "Juice box.",
+    "ParryDox.",
+    "Tirachii.",
+    "Enzie.",
+    "Broongus.",
+    "Silent majesty of the sea turtle.",
+    "Handholding.",
+    "Azallea screencapping everything.",
+    "Parry's moth fetish.",
+    "Kingu purging.",
+    "Vape.",
+    "Klondike bar.",
+    "ENOUGH.",
+    "XD.",
+    "Banish Cancer.",
+    "Earl laying down a book's worth of rulings.",
+    "Ｔｂｈ.",
+    "Chrono.",
+    "I Hate Angela.",
+    "My will to live.",
+    "Winda.",
+    "Ryuko Wawa ee.",
+    "Heavenly Pete.",
+    "Aire going out for blood.",
+    "Logan.",
+    "Copper.",
+    "Kill me, Pete.",
+    "Writing stamdrads.",
+    "5 Tuners Turbo.",
+    "NTR.",
+    "Throwing rocks at old people on the street.",
+    "A chance to be a Number.",
+    "Zefras.",
+    "Getting arrested for having lolis in a deck.",
+    "The rat.",
+    "Sweetori.",
+    "Superpoly.",
+    "A poorly tanned white guy.",
+    "Kranic.",
+    "Warm milk.",
+    "IGNORING THE DADDIES.",
+    "Procyon.",
+    "Beating people into a coma.",
+    "ITACHIIIII.",
+    "Frumpert.",
+    "The depravity of humanity.",
+    "Parry whispering sweet nothings.",
+    "Earl.",
+    "Greed being bad at tags.",
+    "Degenerates.",
+    "True love.",
+    "LegendaryGreed.",
+    "Xomm.",
+    "Dek.",
+    "Mauricio.",
+    "Women with dicks and men with vaginas.",
+    "Superpoly repaeatedly missoekking words.",
+    "Fucc.",
+    "Shitposting in general.",
+    "An invite to \"Bara Porn Hub\".",
+    "Fucker.",
+    "Fart in a bottle.",
+    "Shitposting in shitposting chat.",
+    "NIGGA GOT OBLITERATED.",
+    "Rata.",
+    "God deleting us to make room for porn.",
+    "The texture of cunnilingus."
+  ],
+  "pack": {
+    "id": "ENHGX",
+    "name": "Smoltown"
+  },
+  "quantity": {
+    "black": 88,
+    "white": 119,
+    "total": 207
+  },
+  "dateStoredMs": 1589068725230
+}

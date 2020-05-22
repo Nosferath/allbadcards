@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "I'm resetting my Animal Crossing town, so I'm giving away _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will give you _ for some hybrid flowers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last song K.K. Slider played at the Cafe was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I gave away 5 million bells so I could get _ In my Animal Crossing town.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friend draws fanart of _ all the time, but it's mostly looks like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Katrina stated that _ will be what I need to unlock my good fortune.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Three characters I don't want in my Animal Crossing town ever are _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "It took me 8 days, but I finally caught a _ in Animal Crossing!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To be honest, my mayor is basically a reincarnation of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to Tortimer Island to get  _, but instead, I came home with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I want to make a petition to bring back _ in future Animal Crossing games!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tom Nook and Redd butt fucking each other.",
+    "Resetti.",
+    "Blathers.",
+    "K.K. Slider dropping all these beats.",
+    "Brooster.",
+    "Dr. Shrunk.",
+    "Gyroids.",
+    "Isabelle wearing a two piece bikini.",
+    "Tortimer.",
+    "Leaving your town with Isabelle to be in the new Smash Brothers.",
+    "Isabelle, your dog secretary.",
+    "A beehive swarming your face, yet only stinging your left eye.",
+    "K.K. Slider."
+  ],
+  "pack": {
+    "id": "N3VRX",
+    "name": "Animal Crossing Against Humanity"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 13,
+    "total": 24
+  },
+  "dateStoredMs": 1588453718316
+}

@@ -1,0 +1,150 @@
+{
+  "black": [
+    {
+      "content": "The new IT Director has a sick tattoo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing transfers data faster than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Had a user fall prey to a sophisticated _ phishing attack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got a new certification in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  is Layer 8 of the OSI Networking Model.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That red plunger switch on the wall launches _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now required every time you restart _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We're going to use _ instead of updating to IPv6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two factor auth with _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Forgetting _ in the datacenter is a firing offense.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A helpdesk call to fix _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I got this coffee mug from a conference about _ back in 1997.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last consultant was fired over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a pinch, _ can be used to remotely reboot a server.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the last stage of our _ rollout.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is now included for free with every OS Update.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forgot my badge this morning and had to use _ to get in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hot new videogame this year is _ Simulator!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A mouse connected serial -> ps/2 -> usb.",
+    "My password.",
+    "Manually fixing 100/1000 auto negotiation.",
+    "Two Factor Auth.",
+    "A fingerprint scanner.",
+    "An RJ-45 crimping tool.",
+    "An IP Webcam with a default password.",
+    "The server is down.",
+    "Viewing web filter block logs.",
+    "A flaky VPN connection.",
+    "Rotating the backup tapes.",
+    "Stuxnet.",
+    "A salvaged motherboard with a parallel port.",
+    "An Arduino running NetBSD.",
+    "A usb stick found in the parking lot.",
+    "My rooted phone.",
+    "A bastion host.",
+    "A razorsharp punchdown tool.",
+    "A larger database connection pool.",
+    "A faulty crossover cable.",
+    "A one button mouse.",
+    "Scanning a little too much with nmap.",
+    "Angelina Jolie in Hackers.",
+    "Rm -rf /*.*.",
+    "A shell script written in OCaml.",
+    "A helpdesk ticket to \"fix the cpu\".",
+    "A hard drive degaussing machine.",
+    "A scanning electron microscope.",
+    "A serial port mouse.",
+    "Have you tried turning it off and on again.",
+    "Pinging 127.0.0.1.",
+    "Script kiddies.",
+    "A coffee stained mousepad.",
+    "A laser pointer.",
+    "Edward Snowden.",
+    "A rainbow pack of 3.5\" floppy disks.",
+    "A multitool with a bottle opener.",
+    "A PEBCAK.",
+    "0118 999 881 999 119 725...3.",
+    "A webcam pointed at the coffee maker.",
+    "5000 free AOL CDs.",
+    "Rebuilding a RAID array.",
+    "A KVM with a broken M.",
+    "CryptoLocker."
+  ],
+  "pack": {
+    "id": "63DRW",
+    "name": "Cards Against IT"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 44,
+    "total": 62
+  },
+  "dateStoredMs": 1589401073287
+}

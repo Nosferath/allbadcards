@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Kkk ___ Kkk",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Kkk ___ Kkk",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZQ23M",
+    "name": "Kkk"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588457248093
+}

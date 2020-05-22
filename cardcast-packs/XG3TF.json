@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "No one can eat my _ better than _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "XG3TF",
+    "name": "Drunken nights"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589282217281
+}

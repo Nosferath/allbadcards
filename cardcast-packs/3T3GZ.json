@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "I tried building _ on _. It didn't go well.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Anivia.",
+    "Azir.",
+    "_Aatrox_.",
+    "Alistar.",
+    "_Ahri_.",
+    "_Teemo_.",
+    "_Ryze_.",
+    "_Akali_.",
+    "Ashe.",
+    "Annie.",
+    "Amumu."
+  ],
+  "pack": {
+    "id": "3T3GZ",
+    "name": "League of Legends"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 11,
+    "total": 12
+  },
+  "dateStoredMs": 1588239211792
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "The best way to _ is not to do it.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Respect women."
+  ],
+  "pack": {
+    "id": "uf4t4",
+    "name": "Full Retard"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588994738831
+}

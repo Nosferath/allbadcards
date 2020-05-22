@@ -1,0 +1,304 @@
+{
+  "black": [
+    {
+      "content": "I'm too _. Don't kill me. Please.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ won't save you, _. Only my new _ can do that.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "It was said that you would destroy the _ not join them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every single _, including your friend _, is now an enemy of the _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ was too dangerous to be kept alive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever heard the tragedy of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From my point of view, the _ are evil!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At an end, your _ is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ will decide your fate.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are our specialty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No... no... no! YOU WILL _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You Fool. I have been trained in your _ arts... by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I thought not. It's not a story the _ would tell you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _, then.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So this is how liberty dies... with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were the chosen _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I HATE _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do what must be done. Do not hesitate. Show no _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the time has come. Execute _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I should've known the _ were plotting to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Now THIS is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not to worry. We're still flying half a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You underestimate my _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am sending you my new apprentice, _. He will... take care of you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been looking forward to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Master _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are no good out here. I need something more real.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the phantom menace.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_... You're shorter than I expected.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm just a simple _ trying to make my way in the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I don't like _. It's coarse and rough and irritating and it gets everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time to abandon _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's over _, I have the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Only a _ deals in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "UNLIMITED _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dont like _. Its coarse and rough and irritating and it gets everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A long time ago in a _ far, far away...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is a pathway to many abilities some consider to be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Destroy the _, we must.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you want to buy some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you threatening me, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ scum!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't be any match for him, he's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twice the _, double the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll try _, that's a good trick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're not with me, then you're my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. There are too many of them. What are we going to do? _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Wookie.",
+    "Sith Lords.",
+    "Dark side of the Force.",
+    "Roger roger.",
+    "Light side of the Force.",
+    "Jar Jar Binks.",
+    "Obi Wan.",
+    "Tatooine.",
+    "Watto.",
+    "Master Yoda.",
+    "Sand people.",
+    "Killing the younglings.",
+    "Death sticks.",
+    "Ship.",
+    "Sand.",
+    "Lightsaber.",
+    "Gungan.",
+    "Darth Maul.",
+    "Weak.",
+    "Republic credits.",
+    "Galaxy.",
+    "General Grievous.",
+    "The tragedy of Darth Plagueis the Wise.",
+    "Master Skywalker.",
+    "Jedi.",
+    "Senate.",
+    "Youngling.",
+    "Darth Plagueis the Wise.",
+    "Do it.",
+    "Tusken Raider.",
+    "Executing order 66.",
+    "The Republic.",
+    "Droid.",
+    "Order 66.",
+    "Little Ani.",
+    "Die.",
+    "Chancellor Palpatine.",
+    "Abandon ship.",
+    "Sith.",
+    "Podracer.",
+    "Sith Lord.",
+    "Asthmatic coughing.",
+    "Master Windu.",
+    "Count Dooku.",
+    "The senate.",
+    "Moisture farm.",
+    "Anakin.",
+    "Darth Jar Jar."
+  ],
+  "pack": {
+    "id": "xfa6t",
+    "name": "Star Wars Prequel Memes"
+  },
+  "quantity": {
+    "black": 48,
+    "white": 48,
+    "total": 96
+  },
+  "dateStoredMs": 1588816807957
+}

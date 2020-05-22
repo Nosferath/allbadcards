@@ -1,0 +1,161 @@
+{
+  "black": [
+    {
+      "content": "What’s my special interest?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To the great surprise of the Autistic community, the latest film from Autism Speaks portrays _ in a positive light.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Temple Grandin’s upcoming book, she explains that cows are similar to autistic people because they both have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What’s the best way to come out as autistic?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some people flap when they’re happy. I flap because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried to drive from _ to _, but due to my horrible navigational skills, I wound up in _ instead.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Where do spoons come from?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesn’t make you autistic! That happens to everyone!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year’s Light It Up Blue campaign aims to put light bulbs all over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New reports claim that _ must have been autistic because they liked _. ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Although vaccine theories have been thoroughly discredited, some studies suggest that autism is really caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can’t be autistic if you’re capable of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason there are no autistic adults is because every autistic 17-year-old experiences _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I meant to say _, but my text-to-speech app autocorrected it to _. ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Following the consolidation of Autism Spectrum Disorder in the DSM, the ICD will now refer to the entire autism spectrum as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Labels belong on _, not people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To avoid “ass burgers” jokes, Asperger syndrome will be renamed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In her latest Playboy video, Jenny McCarthy uses her son’s autism as inspiration for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're only _ because you're autistic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don’t you hate seeing everyone on their phones all the time? I miss the old days when we had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A collaborative campaign between Autism Speaks and PETA will feature nude models with the slogan: “_“.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stuffing one bag full of everything you could possibly need.",
+    "Texting someone who is right in front of you.",
+    "Eye contact.",
+    "Flapping your nail polish dry.",
+    "Infodumping about the menstrual cycle.",
+    "Self-diagnosis.",
+    "Knowing more about your neurotype than a psychologist with a PhD.",
+    "Forgetting to eat.",
+    "A bleach enema.",
+    "Cows.",
+    "The disgusting taste of bottled water.",
+    "Making suggestive eyebrow movements at the wall next to you.",
+    "Fad diets.",
+    "Friends doing unrelated things in close proximity.",
+    "Rain Man.",
+    "Going to a museum to touch all the sculptures.",
+    "Guessing people’s names.",
+    "Cats.",
+    "Exclusively dating autistic people to further the master race.",
+    "Running out of spoons while spooning.",
+    "Tasting spice in food labeled not spicy.",
+    "Exploiting the stereotype that autistic can’t lie to get out of trouble.",
+    "Going outside, then realizing there’s no wi-fi and going back inside.",
+    "The internet.",
+    "That one autistic character on that one episode of that one show.",
+    "Having pets who understand you better than humans do.",
+    "Measles parties.",
+    "Accidentally staring at a woman’s breasts while avoiding eye contact.",
+    "Proposing marriage with a plastic spinner ring.",
+    "Temple Grandin.",
+    "Just nodding and smiling because you’ve already said “can you repeat that?” three times.",
+    "Clothes with no tags.",
+    "Memorizing the script to a porn movie.",
+    "Bribing the diagnostician to make you sound more disabled on paper.",
+    "Searching for beer while lost in the desert.",
+    "Socio-emotional reciprocity.",
+    "Nikola Tesla making sweet love to his imaginary laser pigeon.",
+    "Knowing useless facts about everything.",
+    "Having situational mutism during wedding vows.",
+    "Subtly switching to the green communication card when an attractive person is nearby."
+  ],
+  "pack": {
+    "id": "29UGA",
+    "name": "Autistic Self Advocacy Against Humanity"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 40,
+    "total": 61
+  },
+  "dateStoredMs": 1589490552882
+}

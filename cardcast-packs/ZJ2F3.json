@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "Lubie cie za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazwałem szynke stefanem bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zbychu śmierdzi jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ludzie ewoluowali od fazy plemnika do fazy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ O cholera co sie stało.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z komputera wyszedł _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Spal sie w piekle.",
+    "Sranie w banie a nie pytanie.",
+    "Najebany menel z zaułka.",
+    "Troll z bagna.",
+    "Chlep - rzadka odmiana chleba.",
+    "Tir jezdżący na drodze pełnej dzieci.",
+    "Stachu Jones.",
+    "Grażyna.",
+    "Internet z dirta.",
+    "Taunt kill perfekcyjnie wymierzony.",
+    "Ssij pałke anty-rudych!.",
+    "Zbychu srający jak ptak na kilometr."
+  ],
+  "pack": {
+    "id": "ZJ2F3",
+    "name": "memy XD"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 12,
+    "total": 18
+  },
+  "dateStoredMs": 1588613271327
+}

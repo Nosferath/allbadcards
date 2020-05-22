@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "A drumstick can also be used for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. Stewart walked into a room to see two students doing _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nobody: *silence* Percussionists: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait Mr. Blancq, why are you dressed as _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in my tuba.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, I never would have taken you for an instrumental major. I always thought you were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait, who's your theory teacher? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in the stick bag? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you play Riptide, ONE more time, I'll _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My piano keys flew off, and my teacher _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Within the confines of the percussion room, there lingers a scent of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got into Junior Orchestra, y'all! Are you proud of me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An elf and Ms. Roof were caught doing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone wants to fuck Mr. Blumenthal 'cause _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Mr. Blancq do in his office all alone? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cue the kazoo.",
+    "A cockroach dancing to jazz music.",
+    "Oboe being used as dildo.",
+    "KILL ME NOW.",
+    "Liam. Period.",
+    "*internal screaming intensifies*.",
+    "Y'all string players are so good.",
+    "Horseradish is not an instrument, either.",
+    "Ukelele is not an instrument.",
+    "Perfect pitch.",
+    "A drop-out.",
+    "Mayonnaise is not an instrument.",
+    "*breaks instrument over knee*.",
+    "*plays the Polar Express a-fucking-gain*.",
+    "Senior orchestra next year.",
+    "Playing megalovania on every single instrument.",
+    "The person who's gonna work with the chorus this year.",
+    "Biting down on your reed and shattering it instantly.",
+    "Shoving an entire piccolo up Mr. Vogel's ass.",
+    "All of them.",
+    "Mouth to mouth.",
+    "Megalovania.",
+    "*insert bad recorder jokes here*."
+  ],
+  "pack": {
+    "id": "9YG7G",
+    "name": "lag kiddos instrumental edition"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 23,
+    "total": 38
+  },
+  "dateStoredMs": 1588277796809
+}

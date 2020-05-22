@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Our love is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love my dead gay _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Blowing up a high school.",
+    "The Heathers.",
+    "Big fun.",
+    "Corn nuts.",
+    "J.D.",
+    "Shooting your T.V.",
+    "Kurt and Ram's gay forbidden love."
+  ],
+  "pack": {
+    "id": "ZR72V",
+    "name": "Cards Against Heathers"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 7,
+    "total": 9
+  },
+  "dateStoredMs": 1588532133489
+}

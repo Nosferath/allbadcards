@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "Billy found _ in his attic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Omg I had the worst day ever #_ problems.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would be a great meme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yahoo I love _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the black plague.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ are kinky.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "VTJNQ",
+    "name": "Very dark deck"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 0,
+    "total": 7
+  },
+  "dateStoredMs": 1589480826115
+}

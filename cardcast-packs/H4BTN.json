@@ -1,0 +1,49 @@
+{
+  "black": [
+    {
+      "content": "Today, we broke Thancred by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I became the warrior of darkness by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alternate methods of dealing with grief include: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did the scions get in trouble this time? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Becoming the warrior of darkness.",
+    "Alphinaud's longwinded political speeches.",
+    "Feo Ul's anger.",
+    "Killing Minfilia.",
+    "Stealing your body back.",
+    "Killing your daddy because he won't let you smash.",
+    "Traumatising Thancred again.",
+    "Making the entire fanbase think a character is dead.",
+    "Hydaelyn giving us mummy issues.",
+    "Emet-Selch.",
+    "Dummy-thicc aether.",
+    "Zenos yae Galvus.",
+    "Getting tempered."
+  ],
+  "pack": {
+    "id": "H4BTN",
+    "name": "FFXIV - Cards of Eorzea"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 13,
+    "total": 17
+  },
+  "dateStoredMs": 1588309699922
+}

@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Black People are often acting like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the reason black people can't swim.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nigga.",
+    "Black coon.",
+    "Nigga.",
+    "Nigga."
+  ],
+  "pack": {
+    "id": "3T3FK",
+    "name": "This is Not Racist"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1588966514689
+}

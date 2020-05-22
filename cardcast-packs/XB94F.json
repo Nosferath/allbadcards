@@ -1,0 +1,196 @@
+{
+  "black": [
+    {
+      "content": "My first born is named _ of the clan _ ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "SANS has announced that _ is an imminent threat",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's 2078 and people are still failing to adequately secure their _ infrastructure",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Honeypot was designed to catch _ attacks",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wireless networking would be much more secure if people would just use a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My last password manager was a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My other _ is a _! ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Turns out that Apache is vulnerable to a _ exploit when attacked with _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My email server was spamming people because I forgot to set up a _ config",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once you've been around long enough you can do _ calculations in your head\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even running in a VM won't protect you from _ exploits",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apparently it is a bad policy to post our _ on the marketing website",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're just one good _ attack away from the _ catching on fire ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Two factor auth with _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My _ just asked me to reset my _ ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A botnet made of computers compromised by _ vulns",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ attacks are such a hot exploit right now",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ we were using failed to catch a _ attack",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pentesting found a _ process running on the printer",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found my _ on HaveIBeenPwned.com\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My CISO thought _ was a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My new laptop came pre-installed with a _ feature",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You would never think that a _ would be vector for _ attacks",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The AIs have taken over and their only weakness is their love of _ based vulnerabilities",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CVE-0000-1234 has been given the marketing name of _\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The toaster appears to have been compromised by a _ exploit",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Chrome Emoji Extension with built in keylogger.",
+    "Data breech birth.",
+    "Brute Force.",
+    "A shell script with root access.",
+    "Router with a default password.",
+    "Wildly Irresponsible Disclosure.",
+    "Taylor Swift aka @swiftonsecurity.",
+    "Heartbleed.",
+    "Self Loathing Browser History.",
+    "Less Than Zero Day.",
+    "Principle of Beast Privilege.",
+    "My Dongle.",
+    "Best Two out of Three Factor Auth.",
+    "Hash Collision\t.",
+    "Brian Krebs aka @briankrebs.",
+    "Netcat.",
+    "Little Bobby Table.",
+    "Troy Hunt aka @troyhunt.",
+    "Private Key.",
+    "Biometric Foot Scanner.",
+    "Diffie-Hellman Mayonnaise.",
+    "Timing Attack from the Year 9930.",
+    "Nmap.",
+    "Buffer Overflow.",
+    "Privilege Escalation.",
+    "SHA1 Shank Redemption.",
+    "Checksum and mate.",
+    "Password Manager's Password.",
+    "Bruce Schneier aka @schneierblog.",
+    "Another Brick in the Firewall.",
+    "Pentesting.",
+    "R/netsec.",
+    "Poopface Emoji.",
+    "Email asking to verify my username and password.",
+    "Password Cracking.",
+    "Internet of Unpatched Things.",
+    "C-3DES-P0.",
+    "The NSA (No Secrecy Afforded) Certificate Extension. IETF. RFC 7169.",
+    "PKI Certificate of Participation.",
+    "Spiceworks.",
+    "User Behavioral Analytics.",
+    "Botnet of Smartwatches.",
+    "Symmetricish Cryptography.",
+    "Unpatched Windows XP box.",
+    "The password \"password\".",
+    "Publicity Key Encryption.",
+    "Pretty Good Piracy.",
+    "Authentication with something you hope to be someday.",
+    "Self Inflicted DDOS.",
+    "Public Key."
+  ],
+  "pack": {
+    "id": "xb94f",
+    "name": "Cards Against InfoSec"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 50,
+    "total": 76
+  },
+  "dateStoredMs": 1589287288719
+}

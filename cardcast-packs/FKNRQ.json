@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Osama Bin Laden was_?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "FKNRQ",
+    "name": "911 Facts"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588716673319
+}

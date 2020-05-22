@@ -1,0 +1,221 @@
+{
+  "black": [
+    {
+      "content": "Dallas County \"Shelter-In-Place\" order closed parks because people were spreading _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No Karen! You can't _ every morning before work!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have enough toilet paper, but what I wouldn't do for some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of course your VPN doesn't work, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does anyone else miss _ these days? Or is it just me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are the best thing at CognoHQ.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I miss the sound of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking News: Recooperated COVID-19 patents are now attributing their recovery to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time I take the on-call phone, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zoom is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think _ should be the theme for our next group photo collage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Thanks Karen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't wait to return to the office and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, I have to step away from the Zoom call because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Working from home for two months is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing tastes better at 3:20 am than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would read _, if I cared.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our first return-to-work Friday breakfast should be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I won't get sick this year because I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you ever _ at work?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the funniest news report I've seen this month.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you for signing up for next Tuesday's Webinar, \" _ during the COVID-19 crisis\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every day is _ day, when you work from home.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember that time we _ at the office?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't miss my commute, but I do miss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you tried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "COVID-19 has made me sick of _, because I eat it three times a day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spend all day watching _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "N95 mask.",
+    "Junk food.",
+    "How to make homemade toilet paper from cauliflower.",
+    "Working with friends.",
+    "Carole Baskin did it.",
+    "Intellegent end users.",
+    "Pajama.",
+    "Your computer is in the O-F-F position.",
+    "Fresh vegetables.",
+    "TruMethods videos.",
+    "Time away from technology.",
+    "Wes's locked office.",
+    "Nichola's frying pan.",
+    "Goats invading a town in the Netherlands.",
+    "Keto.",
+    "Titos.",
+    "All worked together.",
+    "Karen.",
+    "Glitter squats.",
+    "Breakfast tacos.",
+    "Room 11.",
+    "Eating out.",
+    "I do glitter squats.",
+    "No shower.",
+    "Singing on balconies.",
+    "Professor Messer.",
+    "Charles working from home.",
+    "The Terminator.",
+    "Just No.",
+    "Nichola's \"How To\" sheets.",
+    "Happy hour.",
+    "Napped.",
+    "Netflix.",
+    "Allen's cactus.",
+    "Pancakes and bacon.",
+    "Aloe mixed with rubbing alcohol.",
+    "Gary Pica.",
+    "Hand sanitizer.",
+    "You have no internet.",
+    "\"Hello, this is NakshTaarush from the Continuum NOC\".",
+    "Adrienne is remote.",
+    "Yoga balls.",
+    "Pete's Deadpool desk pad.",
+    "The dog shomitt on the keyboard.",
+    "Living at work.",
+    "Cereal.",
+    "Cauliflower.",
+    "Rebooting.",
+    "Answer calls about VPN.",
+    "Not having back problems.",
+    "I don't care.",
+    "Of course I wasn't sleeping.",
+    "Check your internet.",
+    "Microsoft updates.",
+    "Tiger King.",
+    "End users crying.",
+    "Bacon.",
+    "Business on top, birthday suit on bottom.",
+    "Thiebaud's server.",
+    "Grocery shopping for toilet paper.",
+    "Leaving the house.",
+    "I don't want to listen to you.",
+    "John's stand-up desk.",
+    "Drank alcohol.",
+    "My kids fighting."
+  ],
+  "pack": {
+    "id": "TEEBE",
+    "name": "CHQ3939"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 65,
+    "total": 93
+  },
+  "dateStoredMs": 1588372919114
+}

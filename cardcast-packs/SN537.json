@@ -1,0 +1,120 @@
+{
+  "black": [
+    {
+      "content": "IHOP was all out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They had a BOGO sale on _ at Publix.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can never have too much  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They did a recall on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _ , but I love _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I couldn't eat another _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody doesn't like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today kids react to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , bet you can't eat just one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Food Network is hurting for ratings, because they just created an hour long show dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , just like mama used to make.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Scallop parfait.",
+    "Chef Boyardee beef ravioli.",
+    "Fried chicken & grape soda.",
+    "Tuna partait.",
+    "Baked potato.",
+    "Macaroni & cheese.",
+    "Larry The Cable Guy Biscuits And Sausage Gravy.",
+    "Big decadent hot dog.",
+    "Bagel bites.",
+    "Crystal pepsi.",
+    "Smoked salmon.",
+    "Baklava.",
+    "Nacho cheese.",
+    "Generic pop tarts.",
+    "Homemade strawberry jam.",
+    "Shrimp cocktail.",
+    "McDonald's french fries.",
+    "Daddy's secret sauce.",
+    "Seaweed stuffing.",
+    "Buttered Parmesan noodles.",
+    "Filet mignon.",
+    "Too much cheesecake.",
+    "Not enough cheesecake.",
+    "Country fried steak.",
+    "Rhubarb.",
+    "TGI Friday's jalapeno poppers.",
+    "Gluten free soy free dairy free protein power bars.",
+    "Lobster roll.",
+    "Full bellied clams.",
+    "Horse rode in on a turkey quesadilla.",
+    "Adobo buffalo wings.",
+    "Vegetable pie filled raisins.",
+    "Cherries jubilee.",
+    "Pork egg rolls.",
+    "Butter beans.",
+    "Deep fried butter.",
+    "Meatloaf.",
+    "Baby carrots.",
+    "Buffalo mozzarella cheese sticks.",
+    "Short stack of pancakes.",
+    "Nice Italian girl salad.",
+    "Crab cakes.",
+    "Fire roasted apples.",
+    "Spam.",
+    "Rotisserie chicken.",
+    "Soggy bread.",
+    "Burnt toast.",
+    "Curly fries.",
+    "Leftover movie theater popcorn."
+  ],
+  "pack": {
+    "id": "SN537",
+    "name": "Food Galore"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 49,
+    "total": 60
+  },
+  "dateStoredMs": 1589404117352
+}

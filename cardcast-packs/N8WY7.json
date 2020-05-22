@@ -1,0 +1,464 @@
+{
+  "black": [
+    {
+      "content": "Der Boss auf der letzten Ebene ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jede Generation hat seine unvergesslichen Merkmale. Unseres enthält _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein neuer Superheld: _-man!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Mondkern besteht aus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Redet nicht schlecht über _. So etwas brauch viel Geschick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die heutige Wissenschaft kann sogar _ klonen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dieses Spiel nervt, lasst uns lieber mit _ spielen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ergänzt hervorragend meine Briefmarkensammlung.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah, Feuer. Löscht es mit _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ glaubt an den Weihnachtsmann.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In einer unterentwickelten Kultur wird/werden heutzutage _ als Heilmittel eingesetzt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim nächsten Halloween verkleide ich mich als _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1 Millionen Euro, wenn du _ für 10 Minuten in engem Raum aushältst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Windows neuestes Feature: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ macht Kinder froh. Und Erwachsene ebenso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist wie Fahrrad fahren. Das verlernt man nicht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ macht/machen alles lustiger.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ich 8 Stunden lang _ sehen musste, wurde ich wahnsinnig.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aus finanziellen Gründen verkauft Coca Cola _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist wie Trollen. Keiner mag dich deswegen, aber du liebst es.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der wichtigste Teil unseres Banküberfalls: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Große Macht erlangst du nur durch  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es ist Muttertag. Als Geschenk ein Gutschein für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Das Leben\" bedeutet in irgendeiner Sprache bestimmt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wissenschaftler haben entdeckt, dass Atomkerne aus _ bestehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Der Salat schmeckt komisch.\" \"Ist/Sind ja auch _ drin.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf dem Schwarzmarkt ist/sind _ Gold wert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In meiner Grundschule habe ich _ kennengelernt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behandle deine Mitmenschen, wie du behandelt werden willst. Mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter und _ des Schreckens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist zweiter Platz in der Kategorie \"_\"? Da will ich nicht den Ersten sehen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Deine Mutter riecht wie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Winter nervt/nerven mich _ und im Sommer _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Massenmord mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Für _ nehme ich alles auf mich, sogar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Liebe ist wie _. Einfach unvergesslich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich weiß nicht, warum ich mir \"_\" auf die Einkaufsliste geschrieben habe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Spitzname des neuesten Profiwrestlers lautet \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nur _ hilft mir in Form zu bleiben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Kind hat mir ein Bild mit _ gemalt. Wie süß :3",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plötzlich hat/haben _ die Sonne verdunkelt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ah, Vorsicht! _.\" \"Die erwische ich noch!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Jetzt auch mit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Wieso springst du aus dem Fenster?\" \"_!!!!!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ heilt/heilen Krebs.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ steckt/stecken in jedem von uns.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir haben nur gewonnen, weil sich _ geopfert hat. Eine Schweigeminute bitte...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe ein Foto von _ auf meinem Dachboden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Endlich ist das Spiel draußen: \"Half Life 3 - _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich male gerne ein Smilie auf _. Das macht die Situation angenehmer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die Menschen stehen Schlange wegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die Überlebenden von _ haben eine neue Zivilisation aufgebaut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ich aufwachte, war \"_ wird/werden dich töten\" überall an den Wänden geschrieben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disney-Figuren können zu allem singen, sogar über _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Selbst Chuck Norris kann _ nicht mit einem Roundhousekick aufhalten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eine Geschichte in Kurzform: _. _. _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ein \"Vorsicht, zerbrechlich\"-Schild steht neben _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dank _ wurde ich befördert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die 20 jährige Tyrannei von _ ist endlich vorbei, dank _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mist. Ich habe mir _ auf die Hose geschüttet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Früher war(en) es _. Als ich es gehegt und gepflegt habe, ist/sind _ daraus geworden.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ sorgt dafür, dass ich mich wohl fühle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durch _ ist Leben auf der Erde entstanden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich schlafen gehe, stecke ich mir _ unters Kissen.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Schneckenähnliche Reflexe.",
+    "Wütende Vulkane.",
+    "Ein bewegender Plot-Twist.",
+    "Ein entstellter Glöckner.",
+    "Fleischfressende Piranhas.",
+    "Geburtsurkunden-Origami.",
+    "Löwen das Genick mit bloßen Händen brechen.",
+    "Ein Luftballon aus Menschenhaut.",
+    "Das Kindergefängnis.",
+    "Miniaturisierte Menschen.",
+    "Das Schönste, was du je gemalt hast.",
+    "Heißer/heißen Dino-Sex.",
+    "Tiefste Verzweiflung.",
+    "Medikamente anal einnehmen.",
+    "Die Weltherrschaft.",
+    "Granaten voll mit Liebe.",
+    "Indirekte Demütigung.",
+    "Das Fett deiner fetten Mama.",
+    "Gelben/gelber Schnee.",
+    "Eine Plastikwanne voll mit Säure.",
+    "Zarte Frauenhände.",
+    "Direkter Augenkontakt.",
+    "C4.",
+    "Das Buch \"Wie erschlage ich Leute, die nicht meine Antwort wählen?\".",
+    "Eine Sicherheitsbrille.",
+    "Das kuscheligste Bett.",
+    "Der dritte/den dritten Weltkrieg.",
+    "Die Überzeugungskraft, um Leute in den Suizid zu treiben.",
+    "Ein Dreier zusammen mit deiner Mutter.",
+    "Der beste Freund des Menschen.",
+    "Saft von ausgequetschten Pickeln.",
+    "Die unerträglichen Schmerzen beim Gurkenglas öffnen.",
+    "Ein Raum ohne Tür und Fenster.",
+    "Niedliche Hundebabies.",
+    "Tiefgefrorene Pferdeäpfel.",
+    "Falsch geparkte Autos.",
+    "Sprengstoff-Fußfessel mit Fernzünder.",
+    "Hoffnung in die Menschheit.",
+    "Böse Absichten.",
+    "Organe klauen.",
+    "Der gefürchtete Feuerscheißer.",
+    "Dein Vater.",
+    "Wild gewordene Hunde.",
+    "Jahrelange Todesqualen.",
+    "Die Versklavung der Menschenrasse.",
+    "Der allmächtige Ziegenmann.",
+    "Erzwungenes Mitgefühl.",
+    "Das Gefühl, beim Scheißen endlich die Wurst rausgepresst zu haben.",
+    "Höhenangst.",
+    "Ranzige Oliven.",
+    "Die neueste Ausgabe von \"Geiler homoerotischer Männertraum\".",
+    "Feinster Sternenstaub.",
+    "Gottes Werk.",
+    "Die beste Antwort.",
+    "Brutal lautes Schnarchen.",
+    "Drei Chinesen mit einem Kontrabass.",
+    "Das ABC.",
+    "300 spartanische Krieger.",
+    "Zerstörung.",
+    "Geile Sachen mit Kinder.",
+    "Sturz betrunken in eine Geburtstagstorte kotzen.",
+    "Ein Kopfsprung in Wackelpudding.",
+    "Witwen ausrauben.",
+    "Das tödliche Albinokaninchen.",
+    "Heiliges Wasser.",
+    "Eine Horde Mutantengorillas.",
+    "Säureregen.",
+    "Nackte Brandopfer.",
+    "Der Mann im Mond.",
+    "Ein Todeskuss.",
+    "Klauende Clowns.",
+    "Der Anti-Todesstern.",
+    "Elterliche Liebe.",
+    "Dein Erspartes.",
+    "Hochempfindliches Dynamit.",
+    "Wertloser Weltraumschrott.",
+    "Ein Dreirad mit Stützräder.",
+    "Eine Rolle Panzerklebeband.",
+    "Eine verlorene Wette.",
+    "Klassische Volksmusik.",
+    "Krankhaftes Dauerlachen.",
+    "Elektroschock-Therapie.",
+    "Fliegende Schweine.",
+    "Schmerzhafte Genitalrasur.",
+    "Die gerade Kurve.",
+    "Fliegen.",
+    "Der/ein epische Kampf um das letzte Stück Pizza.",
+    "Gruselige Gartenzwerge.",
+    "Die Trophäe, die du nie bekommen wirst.",
+    "Zwanzigtausend Sonneneruptionen.",
+    "Der Junge, der sich immer in die Ecke stellen muss.",
+    "Die Wahrheit über deine Eltern.",
+    "Babys den Lutscher klauen.",
+    "Der/ein Ritt in den Sonnenuntergang.",
+    "Kinderarbeit.",
+    "Ein(en) lebenslanger Vorrat an Gleitcreme.",
+    "Fahrrad fahren.",
+    "Das heilige Schwert aus Toilettenpapier.",
+    "In einem Fahrstuhl gefangen sein.",
+    "Die Hand eines Toten.",
+    "Die stärkste Kopfnuss deines Lebens.",
+    "Schrumpelige alte Leute.",
+    "Eine hundsgemeine Spendenorganisation.",
+    "Ein Kampf bis zum Tod.",
+    "Ein letzter Superangriff, der jeden Bösewicht wegfegt.",
+    "Ein Lasermesser, um Brot zu Toast zu schneiden.",
+    "Friedliche Bergmönche.",
+    "Der/ein Orgasmus einer MILF.",
+    "Eine Zeitreise, um Hitler zu töten.",
+    "Ein Unsichtbarkeitstrank.",
+    "Deine gedachten Gedanken, die du denkend denkst.",
+    "Die Ankunft der Marsianer.",
+    "Eine Blowjob-Maschine.",
+    "Abgeschlagene Giraffenköpfe.",
+    "Todesschreie.",
+    "Die Rückkehr der Zombie-Nazi-Dinosaurier.",
+    "Ein Container voll mit benutzten Spritzen.",
+    "Nichts.",
+    "Im Schlafen stehen.",
+    "Die Landbauervereinigung.",
+    "Taktische Flankierung.",
+    "Eine ungewollte Erektion.",
+    "Stunts in Unterwäsche.",
+    "Der schwarze Tod.",
+    "Urinieren von einem Hochhaus.",
+    "Eine Kotzorgie.",
+    "Die Blutspendeaktion für Vampire.",
+    "King Kong."
+  ],
+  "pack": {
+    "id": "N8WY7",
+    "name": "Kiltecstudios 2"
+  },
+  "quantity": {
+    "black": 64,
+    "white": 128,
+    "total": 192
+  },
+  "dateStoredMs": 1589574280184
+}

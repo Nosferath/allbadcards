@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "When I die I _ and run.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Black People."
+  ],
+  "pack": {
+    "id": "RCZYQ",
+    "name": "Racist"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589282216112
+}

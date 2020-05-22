@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "Mulder wrote a love letter to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mulder's REAL first name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mulder has a secret drawer in his desk dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mulder's huge nose.",
+    "Scully with yaoi hands.",
+    "Bigfoot.",
+    "Mulder's shitty ties.",
+    "Conspiracy theories.",
+    "A UFO party.",
+    "Mulder's dong.",
+    "Mulder's weed stash."
+  ],
+  "pack": {
+    "id": "TF9T4",
+    "name": "X files"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 8,
+    "total": 11
+  },
+  "dateStoredMs": 1588761804530
+}

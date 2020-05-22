@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "That Nescafe Shack at VIT looks so ugly. It should be replaced with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "College sirf 3 cheezon se chalta hai: Mélange, Vishwotsav aur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Complete this popular phrase: Upper zilla, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think the best thing to do at the Boat Club is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vada paas from Kaadubai garden.",
+    "College Nescafe ke 60 rupaiya ke overpriced Cheese Nachos.",
+    "Zaalaach paahije."
+  ],
+  "pack": {
+    "id": "A7BAM",
+    "name": "Cards Against Bibwewadi"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 3,
+    "total": 7
+  },
+  "dateStoredMs": 1588852842009
+}

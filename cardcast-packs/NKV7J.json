@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "She  was looking kinda dumb with her finger and her thumb and_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody once told me the world is gonna roll me I ain't_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Sharpest tool in the shed.",
+    "The world is gonna roll me."
+  ],
+  "pack": {
+    "id": "NKV7J",
+    "name": "smash mouth"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589507010475
+}

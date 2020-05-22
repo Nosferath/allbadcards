@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "Gdy epidemia się skończy, od razu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maseczki warte są teraz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zajęcia zdalne to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje ulubione zajęcie podczas kwarantanny to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Koronaferie.",
+    "Koronaparty."
+  ],
+  "pack": {
+    "id": "5ECVC",
+    "name": "koronawirus"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 2,
+    "total": 6
+  },
+  "dateStoredMs": 1588607420559
+}

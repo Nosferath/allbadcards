@@ -1,0 +1,241 @@
+{
+  "black": [
+    {
+      "content": "Czy ty wogóle wiesz co to znaczy _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "-Słyszałeś to? - SPokojnie, to tylko _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego Mieszko I nie jezdzi na rowerze? - _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raperzy na autotune? Moim zdaniem to poprostu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robi _ gdy się poda _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szczerze? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma cie na tyle zeby zjeść _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słuchałeś nowej piosenki _ pod tytułem _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W imieniu Polski Podziemnej, skazuję Cię na _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podchodzi do cb sztos laska 10/10. CR? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulubione slowo papieza to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podobno _ dotykał _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie ma cie na tyle zeby podejsc do niej i powiedzieć : _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebany Gdańsk jest jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zenek powiedział _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ .Ugułem przepraszam że tak powiedziałem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jak co, ale _ to gruba przesada.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulubione dzieło sztuki? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy więcej nie zgodze sie na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu tu nigdy nie ma _ !?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Afrykańskie dzieci zdecydowanie potrzebują _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mussol to nie człowiek. Mussol to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A co gdyby _ był tak naprawde _ tylko w przebraniu?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czuję się jakbym grał w _  .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O! Znalazłem _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stworzyłem nową taktykę, nazywa się _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  to najgorsze co mi sie przytrafiło.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiesz co mnie  boli? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kocham _ , szkoda tylko ze ugotowane smakuje jak _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Widziałem już _ , widziałem też _ , ale nigdy nie widziałem _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Jestem naprawdę biedny, mogłbys może dać mi _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesli _ gra z nami, to ja odpadam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A jak pan Jezus powiedział? _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dobra spierdalaj.",
+    "Picie piwa z konewki.",
+    "Jo dupia.",
+    "Chuj.",
+    "Jo jebia.",
+    "Psycha siada.",
+    "Dobry alkohol.",
+    "Rozjebe sie.",
+    "Emeryci.",
+    "Prąd.",
+    "Dobra spierdalaj.",
+    "Łysy.",
+    "Dobra spierdalaj.",
+    "Stół ujebany gównem.",
+    "Nie wkurwiaj mnie.",
+    "Daniel magical zwierzyński.",
+    "Nie wiem.",
+    "Simon Hard.",
+    "Głowa rozmiaru złotówki.",
+    "Skośny murzyn.",
+    "Hajto.",
+    "Przelew na konto bankowe.",
+    "Pani psycholog z moim zwolnieniem.",
+    "Wersow kush.",
+    "Chusteczka ujebana dziwną, białą mazią.",
+    "Bruh.",
+    "Gucci, louis, trasher, vans.",
+    "Krzysztof Bosak mieszający patykiem w gównie.",
+    "Kamil Durczok.",
+    "Poczciwy skun.",
+    "Jebac disa kurwe zwisa cisa plisa tetirsa wsiup zdziu elo melo trelo morelo.",
+    "Mieszanka denaturatu z ciekłym azotem.",
+    "Harnaś menelski.",
+    "Norka Tadeusza Norka.",
+    "Potężne przyrodzenie pewnego streamera.",
+    "Goha goha goha 3zł.",
+    "Korwin na zlocie naukowców.",
+    "Michael Jackson na rowerku.",
+    "Ni chuja człowieku nie mam pojęcia.",
+    "Stare baby.",
+    "Tortury prowadzone na emerytach.",
+    "Papiez.",
+    "Koronawirus.",
+    "Dobra spierdalaj.",
+    "Dobra spierdalaj.",
+    "Dobra spierdalaj.",
+    "Donuty na kutasie.",
+    "Rosyjska ruletka.",
+    "Walenie wiadra.",
+    "Dzieci.",
+    "Jazda bizonem i polowanie na krety w granulkach.",
+    "Murzyn.",
+    "Minimajk haze.",
+    "Fox mega mocne.",
+    "Smoleńsk.",
+    "Hitler nie wiedział.",
+    "Tak jak Pan Jezus powiedział.",
+    "Sexoholik.",
+    "5 gieta cocaine.",
+    "Pewien rudy pedofil."
+  ],
+  "pack": {
+    "id": "2R77C",
+    "name": "EPICKA GIERECZKA"
+  },
+  "quantity": {
+    "black": 33,
+    "white": 60,
+    "total": 93
+  },
+  "dateStoredMs": 1588616112818
+}

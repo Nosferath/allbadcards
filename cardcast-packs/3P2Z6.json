@@ -1,0 +1,186 @@
+{
+  "black": [
+    {
+      "content": "Welcome to the Great _ Ride!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you hold my _ for a moment?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a dude, he's a dude, she's a dude, we're all _ - hey!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kylo Ren is a total babe. I'd do anything with him, especially _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got sucked into the Grid and now I'm forced to play a game of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! Assemble!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A spoonful of _ helps the medicine go down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars: Episode X - _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paint me like one of your _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "YOU SHALL NOT _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like to dip my french fries in _ & _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll have a martini. Shaken, not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Screw Sports! I'm more into _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try our new _ Doritos!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IN SPACE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! My Favorite Movie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A long, long time ago... in a _ far, far away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry we're out of Pepsi. Is _ ok?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Walking Dead? Pfft more like The Walking _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's Saturday! Time for _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not racist but _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a logical take on the situation, Captain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When this quarantine is over, the first thing I'm going to do is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wonder Woman's _ of Truth",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's too many _ on the dance floor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like my steak _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Porgs.",
+    "Stuck at home during a pandemic playing Cards Against Humanity with friends via Google Hangouts.",
+    "My good lady wife.",
+    "Getting stabbed by a Morgul Blade.",
+    "Vacuuming the lawn.",
+    "Wookie hugs.",
+    "Baskin Robbins.",
+    "Warm beer.",
+    "When you accidentally crepe your pants.",
+    "I'm Mary Poppins, ya'll!.",
+    "Mowing the carpet.",
+    "Paul Rudd looking at you.",
+    "My wife, who is also my crazy roommate.",
+    "COUPONS!!.",
+    "Finding your dad on TikTok.",
+    "Shelob.",
+    "Eating a Tide Pod and pooping on your laundry.",
+    "Donald Duck in a BDSM outfit.",
+    "Peanut M&Ms.",
+    "Sucking Mickey Mouse off for a job at Disneyland.",
+    "Hobbit Hole.",
+    "Having 9 toes.",
+    "Bigger, Blacker Baby Yoda.",
+    "Basghetti.",
+    "Booty Rub.",
+    "I Am Groot.",
+    "Updog.",
+    "Creepy Bacon.",
+    "Pork & Beans.",
+    "Dexter's butt crumbling into pieces before my very eyes.",
+    "Welcome to Good Burger! Home of the Good Burger! Can I take your order?.",
+    "Colin Robinson.",
+    "Ben Solo.",
+    "Pooper Scooper.",
+    "Second Breakfast.",
+    "Billy Boyd.",
+    "Bloody Mary, the curse.",
+    "Kong Bong.",
+    "Bloody Mary, the drink.",
+    "Peanut Butter Throat Fuck."
+  ],
+  "pack": {
+    "id": "3P2Z6",
+    "name": "Dick Deck Paddy Whack"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 40,
+    "total": 66
+  },
+  "dateStoredMs": 1588803726093
+}

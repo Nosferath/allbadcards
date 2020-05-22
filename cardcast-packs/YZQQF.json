@@ -1,0 +1,69 @@
+{
+  "black": [
+    {
+      "content": "I've been _  for a long time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are built on _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Save the _! Save the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Are you kidding me? I'm _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am one with _, and _, is with me.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Look for _ and you will always find _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Make ten men feel _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be careful not to choke on your _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Director Orson Krennic.",
+    "Mon Mothma.",
+    "Cassian Andor.",
+    "K-2SO.",
+    "Grand Moff Tarkin.",
+    "Baze Malbus.",
+    "The Texture of Jabba.",
+    "Jyn Erso.",
+    "Stardust.",
+    "Galen Erso.",
+    "Bodhi Rook.",
+    "Saw Gerrera.",
+    "Chirrut Îmwe."
+  ],
+  "pack": {
+    "id": "YZQQF",
+    "name": "Rouge One"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 13,
+    "total": 21
+  },
+  "dateStoredMs": 1589177997191
+}

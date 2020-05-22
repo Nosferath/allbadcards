@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Use the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra's latest attempt to flirt with Sabine consisted of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm in space! And I'm about to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Rebel's new base is  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Empire is now trying to catch the Rebels by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah... about that, uh... We stole a  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is Captain _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra built a new lightsaber, this time its a lightsaber/ _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chopper's latest murder victim is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabine's latest art project is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's so obvious Kanan and Hera are married when they _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hera Syndulla.",
+    "Ketsu Onyo.",
+    "Ketsu shipping Sabezra.",
+    "Kallus's sideburns.",
+    "Ahsoka Tano.",
+    "Agent Kallus.",
+    "The Ghost.",
+    "Garazeb Orrelios.",
+    "Seventh Sister.",
+    "The painted tie fighter.",
+    "Chopper.",
+    "Ezra's dead parents.",
+    "Sabine Wren.",
+    "Captain Rex.",
+    "Ezra Bridger.",
+    "Kanan Jarrus.",
+    "Ezra's obvious crush on Sabine.",
+    "Chopper's tendecy to murder other droids.",
+    "Rare, hairless Wookiee."
+  ],
+  "pack": {
+    "id": "CPZSA",
+    "name": "Cards Against Rebels"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 19,
+    "total": 30
+  },
+  "dateStoredMs": 1589060639921
+}

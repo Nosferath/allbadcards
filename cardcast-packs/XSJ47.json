@@ -1,0 +1,309 @@
+{
+  "black": [
+    {
+      "content": "Te kapsz egy _ , te kapsz egy _ , MINDENKI KAP EGY _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A Hyperion vállalat azt javasolja: _! _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Már majdnem megérte ez a szörnyű _ műtét..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ idő!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HOZZ EGY _ ÉS MUTATOK EGY _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "ÉN VAGYOK A _ VONAT KALAUZA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Heyooooooo!\" - mondta _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "...Ez a faszi komolyan _ -ban/ben beszélt..?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Levelek esnek a _./A hó a földbe sodródik/Az _ elhagyja hullád.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fogj egy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ugh, ezek a _ szarok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Légy óvatos,  _ egy őrült -- egyszer megette az egyik _ . Igen. Az egész _. Csak egy, ja, villával..",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Én egy rossz _ vagyok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tassiter elnök nem _..... Csak _...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fogadjunk _ egy nap leveszi a maszkját, és felfedi magát, hogy egy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "ÉGESD EL AZ ÖSSZES _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AZT AKAROM, HOGY ROBBANTSD FEL A _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh hé, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ez a bolygó olyan szagú mint a _ _ csavarva.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Farkak. _ -ról/ről beszélek!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SZIVÁRGOK! ASSZEM _! SZIVÁRGOK! _ VAN MINDENHOL!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "É-én most komolyan _ őt? Mármint, wow de menő vagyok! Haha..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SZAKÍTSD FEL A  _. SÓZD MEG A  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Amikor Isten bezárja előttem az ajtót, akkor én _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ez _./A Vault, mint mesterművem?/ _ elfogadva.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ez az.. végre vége.. Látom a fényt.. Oly vakító..gyönyörű..mégse, várj. Ez csak a _. _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A nevem _....bébi?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fogunk valamit ez ellen a _ ellen tenni valamit?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyugi _ , sok lánnyal megtörténik.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ne vegyél _ fegyvereket ha allergiás vagy a _! Vagy a _ -ra/re.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "NEKEM VAN A LEGFÉNYESEBB _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szóóóóval... Hallani akarsz egy _ , eh?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én tel..teljesítettem egy _? Mármint hajrá én.. Woo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én csak csokis _ akartam. MIÉRT TÖRTÉNIK MINDEN _ ÍGY A LEGJOBBAKNÁL?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Slab, te most komolyan kiugrottál a _? AZ ISTENIT de büszkévé tettél!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szóval, milyen volt a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha meghalsz Tina képzeletében, akkor igazából is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_?!??! NEEEEEEEEEEEEEEEEEEEEEEEEE!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"MEEEEEEEEleleleleleWOOOWOWOWOWWOWO\" - kiabálta el magát _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mily _./ Elsütötted az én csapda kártyámat./A _ közeleg.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , kövess, és hódólj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Torgue vagyok, és csak egy kérdésem van számodra: _ ?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én most lepihenek.. Ébressz fel ha már nem Pandorán _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FOGJ EGY STUKKERT! - Gah! Ezt én _ újra..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ azt mondja hello.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Üdv _ , kölykök!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Henderson.",
+    "Phaselock-olás.",
+    "Torgue.",
+    "Mr. Tassiter.",
+    "Jakobs.",
+    "Brick.",
+    "Nisha leszámolása.",
+    "Rhys bajsza.",
+    "Mordecai.",
+    "COV.",
+    "Troy.",
+    "Lady Aurelia.",
+    "Rhys.",
+    "Blake.",
+    "Fiona.",
+    "Timothy.",
+    "Sir Hammerlock.",
+    "TK. Baha.",
+    "SCAV.",
+    "Maliwan.",
+    "Jack.",
+    "Psycho.",
+    "Vaughn.",
+    "Fl4k.",
+    "BANDIT.",
+    "Tyreen.",
+    "Steve.",
+    "Crazy Earl.",
+    "Loader Bot.",
+    "Tiny Tina.",
+    "DAHL.",
+    "Zane.",
+    "Hub of Heroism.",
+    "Axton.",
+    "Dr. Zed.",
+    "Axton turettje.",
+    "Marcus.",
+    "Yvette.",
+    "Angel.",
+    "Moze.",
+    "Ellie.",
+    "Salvador.",
+    "Hyperion.",
+    "Moxxi.",
+    "Roland.",
+    "Bloodwing.",
+    "Szirén erő.",
+    "Handsome Jack.",
+    "Wilhelm drónjai, Saint és Wolf.",
+    "Amara.",
+    "Zer0.",
+    "Piro Peti.",
+    "Pandora.",
+    "Dr. Ned.",
+    "Csak nők lehetnek Szirének!.",
+    "Clap-Trap.",
+    "Scooter.",
+    "Bandita.",
+    "Nagy mamám.",
+    "Tediore.",
+    "Maya.",
+    "Fényes hús bicikli.",
+    "EXP Loader."
+  ],
+  "pack": {
+    "id": "XSJ47",
+    "name": "HungarianBL"
+  },
+  "quantity": {
+    "black": 46,
+    "white": 63,
+    "total": 109
+  },
+  "dateStoredMs": 1589575945569
+}

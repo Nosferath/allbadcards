@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "_ is attacking _. Avengers Assemble!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Use the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Love is  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's the time of your life so _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I have _. We have _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "An open door.",
+    "Iron Man.",
+    "The force.",
+    "New York.",
+    "Ned.",
+    "Captain America.",
+    "Hawkeye.",
+    "Scarlett Witch.",
+    "Happy Hogan.",
+    "Pepper Potts.",
+    "MJ.",
+    "Midtown school.",
+    "Vision.",
+    "Loki.",
+    "Thor.",
+    "Morgan Stark.",
+    "Captain Marvel.",
+    "Spiderman.",
+    "Valkarie.",
+    "Bucky Barnes.",
+    "Quicksilver.",
+    "The Hulk.",
+    "Asgard.",
+    "Black Widow.",
+    "An army.",
+    "Falcon."
+  ],
+  "pack": {
+    "id": "2aaue",
+    "name": "Disney (including Marvel and Star Wars)"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 26,
+    "total": 31
+  },
+  "dateStoredMs": 1589509212502
+}

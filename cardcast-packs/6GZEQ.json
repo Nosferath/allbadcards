@@ -1,0 +1,173 @@
+{
+  "black": [
+    {
+      "content": "I can't believe celebrities thought that  _ would be inspiring during this crisis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even in social isolation, it's essential that you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe _ has the coronavirus!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to this lockdown, I'm getting really into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, the UK's plan of _ is bad, but american's plan of _ is even worse!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I miss the life before the lockdown, even _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Covid-19 is now transmitting through _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Social isolation is useless. Instead, I suggest you try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't think that the UK's strategy on the coronavirus could get worse, but they just decided _ was a good idea!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's the third week of social isolation and I'm reduced to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't go see _ live, but don't worry, it's livestreamed!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An essential in lockdown is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't get tested for coronavirus, but _ can?!?!?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe the supermarkets have run out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ are practicing social isolation.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "BREAKING NEWS: Scientists have discovered a new coronavirus symptom,  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe that _ is considered an essential!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was worried about the coronavirus but then I thought about _, and all my worries left me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The streets have so few people, they've been taken over by _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that doing _ is a useful way of remembering to wash your hands for twenty seconds?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite what Donald Trump says, _ does not cure the coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to the coronavirus, my timeline is just full of _ , _ and _ !",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Livestreaming _ is the only thing getting me through this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My best social distancing technique is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I forgot I signed up for _, until they started sending me coronavirus updates.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Facebook says _ can cure the coronavirus?!?!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Practicing social isolation.",
+    "Fighting an elderly woman for a facemask.",
+    "Gathering in numbers of ten or less.",
+    "Losing track of what day is it.",
+    "The surgical method.",
+    "Invading goats in llandudno.",
+    "Wash your hands.",
+    "The pain of being a key worker but not getting a raise.",
+    "Taking your mandated government walk.",
+    "Animal crossing.",
+    "Selling toilet paper for more than petrol.",
+    "A dog wagging it's tail so hard, it sprains it.",
+    "Herd immunity.",
+    "Buying chickens just to have eggs again.",
+    "Remaining 6 foot apart at all time.",
+    "Working from home.",
+    "Toilet paper.",
+    "Washing your body with hand sanitizer.",
+    "Giving yourself a haircut at 4am.",
+    "Endlessly scrolling twitter.",
+    "A scraggly quarantine beard.",
+    "Sending a strongly worded text about Not Going Outside.",
+    "Social isolation.",
+    "Attempting to video call your parents.",
+    "Wearing a hula hoop around your waist so nobody breaks into your social isolation bubble.",
+    "Killing grandma for the economy.",
+    "Wearing a mask."
+  ],
+  "pack": {
+    "id": "6gzeq",
+    "name": "Coronavirus Edition"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 27,
+    "total": 53
+  },
+  "dateStoredMs": 1589509095735
+}

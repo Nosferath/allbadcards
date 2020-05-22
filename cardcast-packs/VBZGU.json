@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "Hi, I'll be auditioning for the part of _ , with the song _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm not throwing away my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solid decision on the _ , by the way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The poor guy's _ is spinning.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jeggings.",
+    "Shakespeare's leather pants.",
+    "Christian Borle's arms."
+  ],
+  "pack": {
+    "id": "VBZGU",
+    "name": "Musical Memes"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 3,
+    "total": 7
+  },
+  "dateStoredMs": 1588356512529
+}

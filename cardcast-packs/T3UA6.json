@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Op vakantie mis ik _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie is deze Pokémon?! Het is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Oma Bert.",
+    "John Cena!!!!!! (tutututu)."
+  ],
+  "pack": {
+    "id": "T3UA6",
+    "name": "Nederlandse Shit"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588971898116
+}

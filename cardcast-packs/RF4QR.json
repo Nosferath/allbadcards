@@ -1,0 +1,131 @@
+{
+  "black": [
+    {
+      "content": "_ continues to ruin my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will do anything for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I propose we leave _ to the machines and go_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's _ everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can be hazardous to your health.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ here I come!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I go to school, but I never learn _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know Hobbes, some days even my lucky _ don't help.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientific progress goes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's psychosomatic. You need _. I'll get _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is that your face or is _ stuck in your collar?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my opinion, we don’t devote nearly enough scientific research to finding a cure for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Van Gogh would’ve sold more than one painting if he’d put _ in them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I suppose if the right person came along, I might get married. Someone with green eyes and a nice laugh, who I could call _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a _ , I should be excused from this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happiness isn't good enough for me. I demand _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pointing a Death Ray Blaster at your annoying classmates.",
+    "Appealing to the snow demons.",
+    "A wagon ride that raises philosophical questions.",
+    "Cigar butts in a gallstone sauce.",
+    "The Noodle Incident.",
+    "A grade-A nimrod.",
+    "Pouncing your best friend when he walks through the front door.",
+    "The Snowman House of Horror.",
+    "A tea party with Mr. Bun.",
+    "Reviewing the minutes of the last G.R.O.S.S. meeting.",
+    "Attack of the Deranged Mutant Killer Monster Snow Goons.",
+    "Getting in trouble for something Stupendous Man did.",
+    "A squid eyeball sandwich.",
+    "Winning Calvinball by changing the rules.",
+    "A cardboard box that can transmogrify anything.",
+    "Disrupting Miss Wormwood's class.",
+    "Using an Atomic Napalm Neutralizer to fix your problems.",
+    "A swift kick in the butt, $1.00.",
+    "A thermos full of phlegm for dessert.",
+    "Adult situations like paying bills and taxes.",
+    "Spaceman Spiff.",
+    "Outsmarting the monsters under your bed.",
+    "Awarding your club officers medals of valor.",
+    "Alluding to the Noodle Incident.",
+    "First Tiger Hobbes.",
+    "Unconventional snowmen.",
+    "A homicidal psycho jungle cat.",
+    "A bowl of Chocolate Frosted Sugar Bombs.",
+    "Get Rid of Slimy GirlS.",
+    "Calvin, Dictator for Life.",
+    "A processed mouse loaf sandwich.",
+    "Tuna fish sandwiches.",
+    "Grossing out Susie at lunch.",
+    "Having command of thoroughly useless information.",
+    "Urinating on things you don't like."
+  ],
+  "pack": {
+    "id": "RF4QR",
+    "name": "Calvin and Hobbes Against Humanity"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 35,
+    "total": 51
+  },
+  "dateStoredMs": 1589414191640
+}

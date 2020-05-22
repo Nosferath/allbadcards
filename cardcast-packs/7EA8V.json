@@ -1,0 +1,68 @@
+{
+  "black": [
+    {
+      "content": "_ -Alucard ajánlásával!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A mecha robotokat  _  működteti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ most költözött Daikoku Citybe szüleivel, húgával és cyber kutyájával.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ egy isteni büntetés.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naruto sajnos  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Son Goku-t csakis a _ győzheti le.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az animékben sok _ van.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tökélyre fejlesztette a Hamon használatát.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Singeki no kjodzsin óriásai valójában _-k.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kétségbeesés tanár úr.",
+    "Fumoffu\t.",
+    "Kamehameha\t.",
+    "Haruhi Suzumiya.",
+    "Son Goku.",
+    "Halál.",
+    "Mézga család."
+  ],
+  "pack": {
+    "id": "7EA8V",
+    "name": "Magyar Anime Emberiség Ellenes Kártya Pakli (Család Barát)"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 7,
+    "total": 16
+  },
+  "dateStoredMs": 1589196967972
+}

@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "And if I'm losing you, well, that's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're blinded by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need some _ , I need it now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, waiter! You forgot the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even his _ were fast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're not looking at a king, you're looking at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn, I was hoping for some _ stuff.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing you could ever do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ in the kitchen and _ in the bedroom all night.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Romance is not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you put the _ on me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A long long time ago, in a galaxy far far away, God said, let there be a sequel, and there was a sequel, and it was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm looking for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some people do it for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Night night, it's time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You need a bit of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoopla, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll find _ and _ in Denton.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Ralph Hapschatt.",
+    "Die.",
+    "Rest Home Ricky.",
+    "Nation McKinley.",
+    "A dead-end, dead-beat nowhere mister.",
+    "Bert Schnick.",
+    "Betty Munroe.",
+    "Nurse Ansalong.",
+    "Cosmo McKinley.",
+    "Too bad!.",
+    "Curry.",
+    "A children's game.",
+    "Farley Flavors.",
+    "Sluts.",
+    "Really shitty.",
+    "Fucks.",
+    "Slutty.",
+    "Assholes."
+  ],
+  "pack": {
+    "id": "JKWJ7",
+    "name": "Shock Treatment"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 18,
+    "total": 36
+  },
+  "dateStoredMs": 1589035223690
+}

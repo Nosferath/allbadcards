@@ -1,0 +1,483 @@
+{
+  "black": [
+    {
+      "content": "Dieser Cocktail besteht aus Alkohol, _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Niemand sollte _ länger als 1h an seinem Arbeitsplatz ertragen müssen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Freundin hört auf den Kosenamen: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh nein! _ meine einzige Schwäche!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dieses Semester habe ich einen Kurs über _ belegt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Oh was hast du denn da Kleiner?\"- \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Android Update heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue Superschurke _ verbreitet Angst und Schrecken in der Stadt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man kann nie zu wenig _ haben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue  _ -Simulator.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe keine Freunde nur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am hellsten Tag, in schwärzester Nacht entgeht nichts Böses meiner Wacht. Wer finsteren Mächten sich verspricht, der hüte sich vor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. DANKE MERKEL!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dich zu lieben ist leicht denn du bist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer hat _ als meine Interessen hinzugefügt?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir haben einen Brief gekriegt! Wir haben einen Brief gekriegt! Ich frag mich nur von wem: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist denn das in deiner Hose? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Vorsprung durch Technik!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HA! Das war gar kein Wasser das war _. Voll gepranked!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein letzter Sportlehrer wurde gefeuert als er _ zum Hindernislauf hinzufügte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rettet euch! Die _ kommen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Verdammt Private was ist Ihre Ausrede diesmal?!\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Lieblingshobby ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Was macht eigentlich der rote Knopf?\" - _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du musst dir dieses neue Restaurant angucken dort wird dir dein Essen mit _ serviert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kann man nicht mal in Ruhe _! Ich muss morgen in der Früh _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nach jahrelanger Meditation bin ich nun in der Lage _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein neues Lieblingslied: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Woher hast du die Narbe am Kopf? - \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was heilt wirklich gebrochene Herzen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist in der Box? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Achtung! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neuste Trendfetish im Bundestag ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich bin ein Riesenfan von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. HELFENDE ELFEN!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich wähle dieses Jahr _. Wegen dem Wahlversprechen _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wir hatten das besprochen! Kein _ an Sonntagen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Patronus!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ und _ trage ich immer bei mir. Man weiß ja nie!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wenn es die Purge gäbe würde ich den ganzen Tag _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh mein Gott es ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Was hast du mit deinem Auto gemacht?\" - _ -Tuning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich liebe eine(n) schönen(n) heiße(n) _ am Morgen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Baby komm mit zu mir nach Hause und ich zeige dir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ klingt im ersten Moment ein wenig komisch aber genial in der Ausführung.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du betest vielleicht zu _ , aber ich bete zu _ : dem wahren Gott!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Warum juckts mich im Schritt? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Was hast du getan?!\" - Nichts nur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer wohnt in ner Ananas ganz tief im Meer? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KINDER! KINDER! KINDER! Das neue _ von Hotwheels! HOLT ES EUCH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Innere Werte sind besonders wichtig. Deswegen habe ich ganz viel _ gegessen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf zum _ -copter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gib dir meinen neuen _-Skin",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh nein du hast _ mit _ vermischt? WIR WERDEN ALLE STERBEN!!!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist der Teufel in Person!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du erfüllst total dieses Klischee von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Mutter kann sogar besser _  als du!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ did 9/11!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ist es schwul wenn man _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was hast du wieder angestellt? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer will _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist meine Lieblingsstellung im Bett.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sie sind hiermit dem folgendem Verbrechen angeklagt: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kevin hatte recht. Wir hätten doch _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich hab keine Aggressionsprobleme. Ich bin nur leicht_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Damen und Herren genießen Sie nun _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue _ -Gesetz wurde heute verabschiedet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wieso tut mir mein Arsch so weh? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FUCK YEAH! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler war eigentlich gar nicht böse er hatte nur Probleme mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie nennst du eigentlich deinen Penis? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Totale Weltherrschaft, naja teilweise.",
+    "Die Nachbarskatze zum Autowaschen benutzen weil Muschis müssen feucht sein.",
+    "Einem Jungen aus Braunau mit einem großen Traum.",
+    "Memes.",
+    "Flug 77.",
+    "Die verbotene Strophe der deutschen Nationalhymne.",
+    "Brennende Katzenbabies.",
+    "Purge.",
+    "Abraham Lincoler.",
+    "Run bruddas.",
+    "Kleine Kinder auf dem nach Hause weg auflauern.",
+    "Gas verjuden.",
+    "Noch mehr Rehe.",
+    "Au! Schwitz!.",
+    "Die Vorfreude wenn das Nachbarkind in deinen \"Van mit Süßigkeiten\" einsteigt.",
+    "\"Heilkräuter\".",
+    "Dem Chef auf den Tisch scheißen sollen.",
+    "Zeugenschutzprogramm.",
+    "Kotzen, Kommen und Durchfall gleichzeitig.",
+    "Russisch Roulette mit einer AK spielen.",
+    "Der kleine aber feine Unterschied zwischen minderjährig und volljährig.",
+    "Einen so schlechten Witz erzählen, dass alle lachen. Aber sie in Wirklichkeit dich auslachen.",
+    "Aktenzeichen XY.",
+    "Sich mit einer Kettensäge ficken.",
+    "9/11.",
+    "Sich mit dem Jesuskreuz ficken.",
+    "Die Alternative für Deutschland.",
+    "Das Leiden der Juden.",
+    "HEIL HYDRA!.",
+    "Die weiße Seele von Barack Obama.",
+    "Demokratie und Menschenrechte a'la Türkei.",
+    "Die Angst vor Bettlaken.",
+    "Die Feuernation uns angriff.",
+    "Mauer bauen.",
+    "Justin Biebers nicht vorhandene Schambehaarung.",
+    "Natoman.",
+    "Thomas die Lokomotive.",
+    "Inzest plus.",
+    "Aus dem Fenster im Erdgeschoss springen.",
+    "Katzen hypnotisieren und sie zu einer Waffe verwandeln.",
+    "Zu viele Judenwitze.",
+    "Tretminen mit Wasserfarben anmalen.",
+    "Quadratwurzel von Pi.",
+    "Angela Merkel.",
+    "Dank Memes.",
+    "Der kalte unausweichliche Tod.",
+    "Ich bin ein Hufflepuff.",
+    "Die Rache des muslimischen Jesus.",
+    "Ein T-Shirt das dich schwul macht.",
+    "Exekutionskommando, das nicht trifft.",
+    "Eine herrliche saftige Morgenlatte.",
+    "\"Two girls one cup\".",
+    "Selbstzerstörungsmechanismus.",
+    "\"Schlag die Frau\".",
+    "Deine Mutter.",
+    "Schokolade mit Zyankali würzen.",
+    "Donald Trump und Hillary Clinton Fanfictions.",
+    "Krandaddy.",
+    "Fickmaschinen.",
+    "Irgendwas was Jesus gemacht hat.",
+    "Tränen von Chuck Norris.",
+    "Kommt er in den Mixer!.",
+    "Schlafenden Kindern in den Mund scheißen.",
+    "Mei is Bae.",
+    "Mal kein Judenwitz.",
+    "Für den Preis okay.",
+    "Ein Level 44-48 Krieger aus dem Ödland. Dessen Mission es ist Argus von der Legion zu befreien.",
+    "Immer auf den Kleinen.",
+    "Irgendwas was Jesus gemacht hat.",
+    "Potenzprobleme.",
+    "Napalm.",
+    "9/11.",
+    "Der wahre Grund warum Asiaten gut in Mathe sind.",
+    "Sich \"verwählen\".",
+    "Man sich selbst einen bläst.",
+    "Sandkuchen als Dessert verkaufen.",
+    "Judenkopter.",
+    "Rehe.",
+    "Wichsen bis es blutet.",
+    "Ichi.",
+    "\"Kinder\" - Schnitzel.",
+    "Donald Trump.",
+    "Nacktbilder von Angela Merkel.",
+    "Leute mit Visitenkarten ermorden.",
+    "Gaskammern.",
+    "Anne Frank als Wichsvorlage benutzen.",
+    "Judensaft, der Kräfte schafft.",
+    "Putin der nackt auf einem Bären reitet.",
+    "42.",
+    "Der Card Czar stinkt.",
+    "Affenhitler.",
+    "Pedobär der Oberficker.",
+    "AMERICA FUCK YEAH!.",
+    "360 noscope cumshot.",
+    "Die Rache des Pedos.",
+    "Kotzbrocken in der Suppe.",
+    "CALL HIT DU SCHWEIN!.",
+    "Hitlers Lieblingsporno: \"Stramme Juden in Duschen\".",
+    "RIGHT IN THE PUSSY!.",
+    "Auf die Fresse fliegen.",
+    "Pedobär.",
+    "Jüdische Nazis.",
+    "Dieser peinliche Moment wo du denkst du furzt aber stattdessen \"Heil Hitler\" rufst.",
+    "Überaschungsanalsex.",
+    "Ein Penis der so klein ist, dass er sich schon nach innen zurückzieht.",
+    "Hitlers Gasrechnung.",
+    "Hitlers Enkel der auf schwarze Judenschwänze steht.",
+    "Schwedische Penispumpe Marke Austin.",
+    "So viel Sperma, dass man damit die Dürre in Südafrika überbrücken könnte.",
+    "Scheiße.",
+    "Fidget-Spinner des Todes.",
+    "Amputee-Pornos."
+  ],
+  "pack": {
+    "id": "FMBYF",
+    "name": "Col. Brownie's schwarzer Humor [deutsch/german/ger]"
+  },
+  "quantity": {
+    "black": 71,
+    "white": 112,
+    "total": 183
+  },
+  "dateStoredMs": 1589576407158
+}

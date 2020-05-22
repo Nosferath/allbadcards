@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Chara loves to eat  _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "8GZ4K",
+    "name": "Monsters and Charas"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588648322276
+}

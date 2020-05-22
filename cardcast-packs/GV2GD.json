@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Anong ulam natin ngayun?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ang gusto kong maging presidente ay si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masmaganda kun _ kesa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sumasayaw ng Macarena _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dagul.",
+    "Tirahin.",
+    "Ginisang hotdog ni Aljur.",
+    "Pepe ni Mocha Uson.",
+    "Kantot."
+  ],
+  "pack": {
+    "id": "GV2GD",
+    "name": "MakaPILIPINO"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 5,
+    "total": 9
+  },
+  "dateStoredMs": 1588515173790
+}

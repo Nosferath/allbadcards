@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "Dude, on my car, he showed up naked and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Demon!Dean's new favorite hobby includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Dean sold his soul, the crossroads demon threw in _ to sweeten the deal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really happened in purgatory? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saving _, hunting _. The family business.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gay love can pierce through  _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Castiel is gripping Dean tight and _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wing!Kink.",
+    "Twist and shout.",
+    "Cas's ass.",
+    "Getting random boners for your best friend.",
+    "The apocalypse.",
+    "Dean Winchester.",
+    "Lucifer.",
+    "An army of creepy children.",
+    "Eating your best friend.",
+    "Soulful eye sex.",
+    "Bobby Singer.",
+    "Sam Winchester.",
+    "Dean's ass.",
+    "Crowley.",
+    "Castiel."
+  ],
+  "pack": {
+    "id": "J8YRQ",
+    "name": "Supernatural Cards Against Humanity"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 15,
+    "total": 22
+  },
+  "dateStoredMs": 1588279296244
+}

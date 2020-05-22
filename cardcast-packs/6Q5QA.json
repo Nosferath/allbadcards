@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "My main is _ but my personality is more like _ ...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ and _ , that's why we cant have nice things.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Let me play you the song of my people; _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yi was comming by fore a gnak but then _ happend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got _ out of my free hextech case.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I realy think _ sould get nerfed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the bane of all toplaners.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Change is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Devourer.",
+    "Braum is here.",
+    "Tonight we hunt!.",
+    "Toxicidy.",
+    "Soloq.",
+    "Yar di har.",
+    "Yoloq.",
+    "QWERQWERQWERQWER.",
+    "CANT BE DISABLED.",
+    ":D D: :D.",
+    "Hextech unboxing."
+  ],
+  "pack": {
+    "id": "6Q5QA",
+    "name": "lol cards cards"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 11,
+    "total": 19
+  },
+  "dateStoredMs": 1588239211765
+}

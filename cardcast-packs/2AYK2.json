@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "A crossover between _ and _ would be awesome!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = Half Life 3 confirmed!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey! _ you want to get the mastersword?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ had a baby with _ what would it look like?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Kirby.",
+    "Ganondorf.",
+    "Toad.",
+    "The Ledgend of Zelda.",
+    "Yoshi.",
+    "Zelda.",
+    "Link.",
+    "Wario.",
+    "Waluigi.",
+    "Mario.",
+    "Luigi.",
+    "Peach."
+  ],
+  "pack": {
+    "id": "2AYK2",
+    "name": "Nintendo"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 12,
+    "total": 16
+  },
+  "dateStoredMs": 1588390030880
+}

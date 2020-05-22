@@ -1,0 +1,601 @@
+{
+  "black": [
+    {
+      "content": "Ce a zis Iliescu când a văzut moartea? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gagica mea are _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chupa chups, plăcerea de a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ficatul mi-a spus să _ cu _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Persoana din stânga mea e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pentru ce a fost ucisă Elodia ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce faci? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vitezomanu Gică și-a luat _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce-i fă asta? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De ce plâng chitarele?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce-ți doresc eu ție dulce Românie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Două broaște cântau pe lac _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Există un singur lucru adevărat pe lumea asta: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pe lângă _ adesea am _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ajutor! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ și _ fac _ bun/ă",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Gagica mea e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stima noastră și mândria, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eminescu e cunoscut pentru _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uăi, eu nu _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pot să _ în _ o/un _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Știai că _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La ce se gândește Viorica Dăncilă? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi-a zis mama să mă-nsor cu _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dă-mi un/o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iliescu e de fapt _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce pot/poți face când/cu _ ? _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ai răcit sau ești gripat, _ ți-e aliat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am mers în Dubai cu _ și am _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "M-am trezit lângă _ și mi-a dat să beau _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dorel se spală la puță cu _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La umbra nucului bătrân _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Și țâganii e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Porecla Czarului e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Idealul meu în viață e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Într-o nu știu care seară, într-o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ l-a ucis pe _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nu vreau să zic că ești grasă, dar _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Îmi place să _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plake _ la _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Un puradel mi-a spus să _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mă doare sufletul de la atâta _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Atenție! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi-am băgat _ în _ și am rămas gravidă.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "S-a anunțat un concurs! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cântă cucul bată-l _ de răsună _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "După o seară de beție m-am trezit _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Citatul tău preferat: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czarul pute a/ca _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am un plan! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Care ar fi superputerea ta? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a salvat umanitatea de la _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nu vreau să mă laud, dar _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ham un _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iubitul/Iubita mea mi-a luat _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mama are _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rămân gravidă dacă fac/dacă am _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu te lua de mama că e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Când strănut îmi iese _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Poezie, poezie, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pe feisbuc mă uit la _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pentru ce a fost revoluția din 89 ? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gigi Tufe spală rufe.",
+    "Mână stângă nu-i ca mâna dreaptă.",
+    "Veverița ciorditoare.",
+    "Sutienul lui tata.",
+    "Chiloții lui Sperman.",
+    "Hiru mamasita faci favor.",
+    "Roșu ca pula lu moșu.",
+    "Faiv glenc.",
+    "Vacă.",
+    "Chiloții lui Radu Mazăre.",
+    "Spume la pulă.",
+    "Nu vorbim, dar futem aceeași limbă.",
+    "Tu vampir, eu contele Dracula, tu sugi sânge, eu sug pula.",
+    "SIDA.",
+    "Pizda mă-tii.",
+    "Țuguie buzicile să băgăm limbicile.",
+    "Dero de la Magda Catone.",
+    "Olimpiada de futut.",
+    "Ferma de spermă.",
+    "Castravetele uman.",
+    "N-am dantura pusă.",
+    "Mea zis mama k baeții ie răi shi nu me m-ai dă voie afară k să nu face alțiii copi retarzi k mn.",
+    "Un grup de pescăruși care practică lesbianismul.",
+    "Nea Vasile.",
+    "Veverițele-n pantaloni.",
+    "Nu da tare că mă doare.",
+    "M-am uitat sub capotă și era o pulă-n cur.",
+    "Perry ornitorincul.",
+    "Vals bengalez din munții Căpățâna Mare.",
+    "Când o face plopu pere și răchita micșunele.",
+    "Fratelemeleu.",
+    "Student fără restanțe.",
+    "Cred că da, sper să nu.",
+    "Ăsta.",
+    "Beethoven pe ritm de manele.",
+    "Dacia 1310.",
+    "Ciuma bubonică.",
+    "Pizda la vedere.",
+    "O pulă mică.",
+    "Iliescu.",
+    "Heri Potăr.",
+    "Te bat ca când eram mic.",
+    "Câte pule poți suge.",
+    "Labă fără mâini.",
+    "Preafericitul Daniel.",
+    "Și femeile e uoameni.",
+    "Tarantulă.",
+    "Pula mea.",
+    "Așa că am violat-o.",
+    "Atârnă cucu de sus.",
+    "Dorian Popa.",
+    "De mere.",
+    "Expir ca să dau bășina afară.",
+    "Să vină puliliiiiiiiii.",
+    "Pe la coaie, pe la pulă.",
+    "Ceaușescu, România!.",
+    "Prezervative pentru copii.",
+    "Vacăgrasă Verginica.",
+    "Vlad Țepeș.",
+    "Mama.",
+    "Dacă îți bag degetul în cur, cine are degetul în cur?.",
+    "3 spanioli țigani din rasa albă africană.",
+    "Iohannis.",
+    "Inspectorul pulii mele.",
+    "Pete de buze pe cur.",
+    "Futut.",
+    "De prost ce ești.",
+    "Dacia 1300.",
+    "Sugar mommy.",
+    "Garcea.",
+    "Prietena mea în formă de bidon.",
+    "Buzele tale.",
+    "Voldemort.",
+    "Descântecul a 30 de preoți budiști pentru a scoate virginitatea din sânul unui cal negru pe nume Iustinian.",
+    "I am speed.",
+    "Finețe la subțioară, mirosul de primăvară.",
+    "Fetele de la Sibiu.",
+    "Gravidă.",
+    "Poșeta iubitului meu.",
+    "VROOOOOOOOM.",
+    "Pretena mea muge iar.",
+    "Calc oamenii sub talpă.",
+    "Nici încet că n-am răbdare.",
+    "Cercul meu de prieteni imaginari.",
+    "Pastile papa copii.",
+    "Mâncărimi la cur.",
+    "Parfum de caracatiță unsă la balamale de macarale.",
+    "Minoni.",
+    "Zmegmă.",
+    "Bat și fut.",
+    "Sunt două lucruri mari în universul ăsta și tu ești amândouă.",
+    "Mă excit când respiri așa.",
+    "Clovnul din canale.",
+    "Țâțe, buci, coregrafie.",
+    "Cap.",
+    "Doi mici și o bere.",
+    "Suge.",
+    "Mă-ta are cratimă.",
+    "Băiețel gay alergic la pulă.",
+    "Zacusca.",
+    "Cristiiiiiiiii, bă Cristi!.",
+    "Futere la puterea a zecea din a 7-a ecuație cuantică a regulii de 3 simplă din energia atomică de sub un degajament subacvatic.",
+    "Îți curge un copil din pizdă.",
+    "Jungla de sub buric.",
+    "Felie de brânză de om.",
+    "Campion pă state.",
+    "Pișu.",
+    "Ionel Flokosu.",
+    "Mă frec pe țâțe.",
+    "Vă pup, fanii mei!.",
+    "Banane constipate la rădăcină udate.",
+    "Ființă transcedentală din rasa extratereștrilor spermieni stabiliți în cavitatea bucală a doamnei Mă-ta.",
+    "Un pește de 160 de kile pe nume Alberto.",
+    "Borcanie.",
+    "Așa la mișto.",
+    "BOR.",
+    "Micul mic.",
+    "Mingiuțe păroase.",
+    "Orice om îi este teamă.",
+    "Simt că mor.",
+    "Mațul gros.",
+    "Jegul de sub unghii.",
+    "Pofta inimii.",
+    "Plopii fără soț.",
+    "Am mers de berberiță.",
+    "Nu înjura că te bag în pizda mă-tii.",
+    "Gigi SuflăMușchi.",
+    "Fraier.",
+    "Cine mi-a împușcat maimuța.",
+    "Muci în ceai.",
+    "Femeie irascibilă din cauza batalionului de păduchi de la pulă.",
+    "Tulai Doamne.",
+    "Fumezi în pizda mă-tii.",
+    "Tata.",
+    "Vârfu' Omu.",
+    "Și dacă voiam, nu o futeam.",
+    "Șobolan mort la bot.",
+    "Camioane.",
+    "Ugerul mamii ei.",
+    "Sclavi decapitați care lucrează la juma de normă pe salariu minim din România.",
+    "Peștera muierii.",
+    "Videochat.",
+    "Baie de cloroform.",
+    "Droguri.",
+    "Minion.",
+    "Cac.",
+    "Bășina porcului.",
+    "Filme deocheate pentru femei nemăritate.",
+    "Ciorbist ras pe picioare.",
+    "Circumcizie vaginală prin buric.",
+    "Gec Spermău.",
+    "Prezervative pentru impotenți.",
+    "Douăzeci douăzeci.",
+    "Ființă anorganică care sfidează dreptul penal de a fi penală ca o panaramă la Mamaia în bikini și a 3-a țâță de sub ochi.",
+    "Sloboz.",
+    "Pula fular.",
+    "Panaramă.",
+    "Da' cine este ocii mei?.",
+    "Pâine goală.",
+    "Prietenul meu ungur.",
+    "E mai roz decât pizda mă-tii.",
+    "Tatuaj între buci.",
+    "Egzeme de boale grele.",
+    "Față de spate.",
+    "Sugar daddy.",
+    "Zeamă de copil turbat.",
+    "Coleg de celulă care crede în a 2-a venire a lui Hristos.",
+    "Familie tradițională.",
+    "Mută domne hârbul ăla.",
+    "Că așa a hotărât Ombladon.",
+    "Put deci exist.",
+    "Ptiu, ptiu să nu-l deochi.",
+    "Ardelean, cumpăr sicrie.",
+    "Ionel zăpadă.",
+    "Secretul femeilor independente și pline de bani.",
+    "Nu îmi place rudele că cere bani.",
+    "3 metri sub pământ.",
+    "Iar ai coaiele pe față.",
+    "Boala vacii nebune.",
+    "Fuți mai bine decât tata.",
+    "Câinele fratelui vecinului peștelui meu de peste stradă.",
+    "Uoameni.",
+    "Fosta.",
+    "Copil împăiat.",
+    "Nu mă mai puteam ține.",
+    "Elefantul din cireș.",
+    "Prepuț atomic.",
+    "Scame din buric.",
+    "Pula.",
+    "Pităr Parkăr.",
+    "Părul din ureche.",
+    "Bil Gayț.",
+    "Intră, intră, dar nu mai iese.",
+    "Băiețel.",
+    "Paștele mă-tii.",
+    "Fi-mi-ar scârbă.",
+    "Madărfadăr.",
+    "Am futut o ciocârlie.",
+    "Bucifal.",
+    "Cioară.",
+    "Fierarul din map 1.",
+    "Chuck Norris.",
+    "Drumurile noastre toate.",
+    "Umflătura din chiloți la fete.",
+    "Elena Ceaușescu.",
+    "Doi tractoriști se cacă.",
+    "Ne tragem din Traian și Decebal!.",
+    "Terapie intensivă pentru cucul decăzut.",
+    "3 eternities later.",
+    "Celălalt coi.",
+    "Lacrimile maică-tii.",
+    "O conopidă în formă de bec.",
+    "Dăncilă.",
+    "Mi-am dat drumul pe covor.",
+    "Spank me daddy.",
+    "Patimile lui Nicu Ceașcă.",
+    "Se scurge un lichid alb de sub buză.",
+    "Ceapă schizofrenică.",
+    "Vadim Tudor.",
+    "Manele, manele.",
+    "Buci mari și cărnoase pentru fete așchioase.",
+    "Țâța mea preferată.",
+    "Jucăușă ca o pulă.",
+    "Vreau să-ți miros baticul.",
+    "Una ca pe Târgu-Ocna.",
+    "Majoratul nevesti-mii de peste 10 ani.",
+    "Paștele cailor.",
+    "Plată.",
+    "Compot.",
+    "Mare ți-e grădina, Duamne.",
+    "Prietena mă mulge regulat.",
+    "Vadim pe turbospeed.",
+    "Nu mai beau.",
+    "Îți fute femeia și o lasă gravidă.",
+    "Avort cu dor de casă.",
+    "Beau cu frații mei.",
+    "Orgie cu cai.",
+    "Pussy destroyer.",
+    "Fuckboy.",
+    "Muie cu dinți= pulă perdea.",
+    "Bunica lui Hitler.",
+    "Penis ucigaș de grase.",
+    "Anal din față.",
+    "Jos hăinuțele să vedem biluțele.",
+    "Fantoma cu un ochi alb și unul negru.",
+    "Merg la mare cu prietenii mei imaginari.",
+    "Jos dildău, bad dildău.",
+    "Penisul meu scuipă.",
+    "Babalâci cu chef de pulă.",
+    "Jur că am futut-o, dar n-am făcut sex.",
+    "Penisul meu gras.",
+    "Îmi dau drumul în 5 secunde și mă laud cu asta.",
+    "Muia cu chitanță.",
+    "Spermă cu fibre.",
+    "Cameră de milfat.",
+    "Extracție de ficat prin anus.",
+    "Muie cu beneficii.",
+    "Clitorisuke.",
+    "Miezul clitorisului.",
+    "Tatuaj cu mine în mărime naturală.",
+    "Negru cu pula mică.",
+    "Fuck this shit I'm out.",
+    "Colecția cu casete porno.",
+    "O pulă roz din fier cu luminițe.",
+    "Iubire pedofilică între Moș Crăciun și cei 7 pitici.",
+    "Fantezii cu Preafericitul Daniel.",
+    "Un grup de heterosexuali din rasa ariană care are fantezii cu tanti Rodica de la etajul 3.",
+    "Un sorbitor de zeamă cu furculița.",
+    "Plăceri morbide cu babe supraponderale.",
+    "O convenție de gay heterosexuali.",
+    "Celulă asexuată cu erecție instabilă.",
+    "Dreptul la orgie neorganizată.",
+    "Bot în bot cu o lepră mică.",
+    "Botox cu lingurița.",
+    "Făcăleț care stârnește porniri sexuale."
+  ],
+  "pack": {
+    "id": "P6EAT",
+    "name": "Bulangerie"
+  },
+  "quantity": {
+    "black": 62,
+    "white": 275,
+    "total": 337
+  },
+  "dateStoredMs": 1588179531845
+}

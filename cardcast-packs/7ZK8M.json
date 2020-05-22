@@ -1,0 +1,91 @@
+{
+  "black": [
+    {
+      "content": "Scotland proudly proclaims it has finally eliminated _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here comes _ and _ with their child _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ever wanted to _? Me too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When asked about his recent role, David Tennant described it as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, How i love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Football is a big thing in Scotland, Yes. But _ Is bigger!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new hit action movie, Ben Stiller and Adam Sandler face an oncoming swarm of zombies and must fight with only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Ere comes the bride, Oh shite she's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fanny Packs and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the failed referendum, Scotland plans to focus its money into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hitler.",
+    "Not being able to spel.",
+    "David Attenborough watching us mate.",
+    "Scat.",
+    "Jackie McNamara.",
+    "Killing blacks.",
+    "English people when they say \"lock\" and mean \"loch\".",
+    "Gay people and their cocks.",
+    "Irn-Bru's brother. Coppr-Drnk.",
+    "Grand Theft Automatic.",
+    "Bawbags Underwear.",
+    "Alan Archibald.",
+    "A home made cum-stained Doctor Who costume.",
+    "Lochee School (for retards).",
+    "Football Hooligans.",
+    "Jews.",
+    "Arnold Schwarznegger.",
+    "Fat people at football games.",
+    "Scum.",
+    "Fat Bastards.",
+    "Football fans group fucking their manager after being promoted.",
+    "Shite.",
+    "Like they do on the Discovery Channel.",
+    "Penis Enlargement pills.",
+    "Foxes hunting humans."
+  ],
+  "pack": {
+    "id": "7ZK8M",
+    "name": "CAS: First Expansion"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 25,
+    "total": 35
+  },
+  "dateStoredMs": 1589077569112
+}

@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "\"It's a crowd favorite, everyone loves a good _.\" -Ryan Evans",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, no, no, no, no! (No, no, no!) Stick to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What team? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I play the cello!\" \"Cool! ...What's that? .... _!!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Getting your head in the game.",
+    "Wildcats!.",
+    "Jazz square.",
+    "Coach Bolton.",
+    "Troy Bolton.",
+    "Lunkhead Basketball-Man.",
+    "Sharpay Evans.",
+    "The Winter Musicale.",
+    "Chad.",
+    "The M.C. who never got thanked.",
+    "Bopping to the top.",
+    "Mrs. Darbus.",
+    "The Status Quo.",
+    "The unshakable feeling of betrayal, courtesy of Zac Efron.",
+    "Skater Dude #1.",
+    "Robbing a pizza store at gunpoint.",
+    "Ryan Evans.",
+    "Unrealistic expectations for high school.",
+    "Kelsi.",
+    "Gabriella Montez.",
+    "Probing the mounting evils of cell phones.",
+    "The Perfect Creme Brulee.",
+    "Young men in baggy shorts flinging balls for touchdowns."
+  ],
+  "pack": {
+    "id": "JH4PD",
+    "name": "High School Musical"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 23,
+    "total": 27
+  },
+  "dateStoredMs": 1589509190542
+}

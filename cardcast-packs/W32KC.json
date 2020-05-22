@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "Elise brought Sonic back to live with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "That tornado's carring a car!.",
+    "Blaze the Cat."
+  ],
+  "pack": {
+    "id": "W32KC",
+    "name": "sonic the hedgehog"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589579204005
+}

@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "Today on Buzzfeed: 10 Pictures of _ That Look Like _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Want to know why your so tired? Your tired because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The 9,000 children who starved to death today.",
+    "All the poop inside of my body.",
+    "The transience of all things.",
+    "Small-town cops with M4 assault rifles.",
+    "A vague fear of something called ISIS.",
+    "Ebola.",
+    "The diminishing purity of the white race.",
+    "Trying to feel something, anything."
+  ],
+  "pack": {
+    "id": "3VMQY",
+    "name": "Ghost of Kwanzaa Present"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  },
+  "dateStoredMs": 1589068729991
+}

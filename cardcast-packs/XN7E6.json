@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "And I'm _ with love.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Janis Sarkisian.",
+    "Stupid with Love.",
+    "Gretchen's hair full of secrets.",
+    "Ben Tyler Cook being himself.",
+    "October 3rd.",
+    "Daniel Hubbard."
+  ],
+  "pack": {
+    "id": "XN7E6",
+    "name": "Mean Girls"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1589161761225
+}

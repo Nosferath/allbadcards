@@ -1,0 +1,228 @@
+{
+  "black": [
+    {
+      "content": "Now poor Flopsy's dead and never called me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By what name are you known? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you come here for a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are some who call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every _ is sacred!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our chief weapon is surprise. Surprise and _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ on your TV set will explode",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you find it risible when I mention my friend _ _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm a lumberjack and I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Always Look on the _ Side of Life",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's pining for the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you use as aftershave? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make _ , not love.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year's twits are competing in the _ competition!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother was a _ and your father smelt of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh, you're no _ anymore!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Golden Age of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-a-cat limited.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody expects the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And now for something completely _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is your quest? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, no, he's not dead, he's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Tis but a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you confused your _ recently?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you suggesting _ migrate?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were lucky. Back in my day, we only had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's the _ repairman!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you like a wafer thin _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ministry of Silly _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A lumberjack.",
+    "Palin's travel shows.",
+    "Fear, surprise and ruthless efficiency.",
+    "Biggus Dickus.",
+    "Dennis Moore.",
+    "A hermit.",
+    "Pepperpots.",
+    "A fourth wall break.",
+    "A dead parrot.",
+    "Live organ donation.",
+    "Something completely different.",
+    "A chartered accountant.",
+    "Gwen Dibbly.",
+    "Eric Idle repeatedly exploiting Monty Python.",
+    "Naughty dentists.",
+    "The Spanish Inquisition.",
+    "The Holy Grail.",
+    "Scott of the Antarctic.",
+    "How awfully nice it is to have a penis.",
+    "John Cleese's stupidly long legs.",
+    "Llamas.",
+    "Eric Idle doing another news presenter sketch.",
+    "Crunchy Frog.",
+    "Terry Jones stripping again.",
+    "Michael Ellis.",
+    "A homicidal barber.",
+    "Anne Elk.",
+    "Spam.",
+    "Brian.",
+    "The fifth nicest Python.",
+    "Lemon curry?.",
+    "Summarising Proust.",
+    "Ministry of Silly Walks.",
+    "A wafer thin mint.",
+    "The Golden Age of Ballooning.",
+    "Blood, death, war, devastation and horror.",
+    "Caerbannog.",
+    "A BBC apology.",
+    "The Holy Hand-grenade of Antioch.",
+    "A dirty fork.",
+    "A fish slapping dance.",
+    "Fairy stories about the police.",
+    "Lemming of the BDA.",
+    "The Castle Arrgghhhhh.",
+    "Semprini.",
+    "Lark's Vomit.",
+    "The larch.",
+    "A vacuous, toffy-nosed, malodorous pervert!.",
+    "Graham Chapman's ashes.",
+    "Mr Neutron.",
+    "Mr Creosote.",
+    "B*tty.",
+    "Michael Palin playing another sleezy character.",
+    "Attila the Hun.",
+    "Cannibalism in the British Navy.",
+    "Being whacked over the head with a dead chicken.",
+    "A witch.",
+    "The Rabbit.",
+    "Whizzo Chocolate.",
+    "Owl Stretching Time.",
+    "The Meaning of Life.",
+    "A dirty Hungarian phrase book.",
+    "Ceased to be.",
+    "E. Henry Thripshaw's Disease.",
+    "A less naughty chemist.",
+    "Moose.",
+    "Buying an ant."
+  ],
+  "pack": {
+    "id": "2VDQS",
+    "name": "Monty Python"
+  },
+  "quantity": {
+    "black": 29,
+    "white": 67,
+    "total": 96
+  },
+  "dateStoredMs": 1588786064567
+}

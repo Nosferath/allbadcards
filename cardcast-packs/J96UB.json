@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "Hollande a quitté Trierweiler pour une histoire de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le septième jour, Dieu créa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le plus beau cadeau de mariage que l'on puisse faire ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Demande à ton médecin si _ est bon pour toi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "National Geographic prévoit son prochain documentaire animalier sur _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "J96UB",
+    "name": "Français"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 0,
+    "total": 5
+  },
+  "dateStoredMs": 1589060105354
+}

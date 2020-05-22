@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "Who created school shootings? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do school shootings occur? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The little girl asked _. The school shooter told her _. He laughed at her and then he shot her.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who is the real killer of the Sandy Hook shooting? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do people kill children? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eric Harris.",
+    "Peshawar massacre.",
+    "Besian massacre.",
+    "Adam Lanza.",
+    "Columbine shooting.",
+    "Seung-Hui Cho.",
+    "Bath School disaster.",
+    "Monash University shooting.",
+    "Sandy Hook shooting.",
+    "Columbine High School massacre.",
+    "Sandy Hook.",
+    "Virginia Tech shooting.",
+    "Dylan Klebold."
+  ],
+  "pack": {
+    "id": "GE5X9",
+    "name": "School Shooting"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 13,
+    "total": 18
+  },
+  "dateStoredMs": 1588717062189
+}

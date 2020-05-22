@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Kid tested mother approved _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Name your most priceless posession _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eodipus complex."
+  ],
+  "pack": {
+    "id": "YQMUS",
+    "name": "All around offensiveness"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1589002473290
+}

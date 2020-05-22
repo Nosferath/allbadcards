@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "_.tumblr.com",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hice _ , pero de repente apareció un chimpancé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Un gran poder conlleva un/a gran _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Que hay dentro de este maletín? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tenemos que poner todo nuestro empeño y dinero en descubrir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi frase favorita para ligar es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me gusta tener a _ a mi lado viendo la puesta de sol.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamá, creo que soy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Te acuerdas de la noche que hicimos _ ? Eso si fue una locura.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Más restaurantes necesitan _ en su menú.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esto no es un chupetón, es solo _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "MMH8P",
+    "name": "ESP Latino - Sin nombres o palabras propias de \"X\" país."
+  },
+  "quantity": {
+    "black": 11,
+    "white": 0,
+    "total": 11
+  },
+  "dateStoredMs": 1588468616990
+}

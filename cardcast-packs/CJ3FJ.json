@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "Removing all their limbs after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It felt wrong at the time; but it turns out that _ is a great way to relieve stress.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Getting your dick chopped off is nothing compared to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Decapitating a man with only a ruler.",
+    "Poking someone on the head so hard that it penetrates their skull.",
+    "Throwing the scissors across the classroom and accidentally splitting someone's head open.",
+    "Throwing a dodge ball so hard that it creates a shock wave and burns a few layers of everyone's skin.",
+    "Beating the meat so hard that it completely detaches."
+  ],
+  "pack": {
+    "id": "CJ3FJ",
+    "name": "XCC - Gore Galore Expansion"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 5,
+    "total": 8
+  },
+  "dateStoredMs": 1589228948133
+}

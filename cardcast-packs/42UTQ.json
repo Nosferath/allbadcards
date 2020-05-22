@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "New from J.K Rowling: Harry Potter and the Prisoner of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "West Philadelphia born and raised, _ is where I spent most of my days.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite tv show was about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen the TV Show called _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 90's, It's all about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a kid, every saturday morning, I would wake up to watch _ on TV.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ Prince of Bel Air.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Twin Towers.",
+    "Going to the shooting range at Columbine High School.",
+    "The decline of female representation in America.",
+    "Disappointing a depressed Robin Williams.",
+    "Being Guilty and getting away with murder.",
+    "Calling O.J Simpson, \"The Juice\".",
+    "The Black Half of Bill Clinton.",
+    "Michael Jackson.",
+    "The Third Wave of Feminism.",
+    "Samuel L. Jackson.",
+    "O.J Simpson Court Case.",
+    "Bill Clinton kissing a black baby.",
+    "\"Women's Rights\".",
+    "Remaking Thriller with the dead corpse of Michael Jackson.",
+    "O.J Simpson.",
+    "A court, but not a basketball court.",
+    "O.J Simpson's murder weapon.",
+    "Sexually harassing a woman and getting away with it.",
+    "\"I did not have sexual relations with that woman\"."
+  ],
+  "pack": {
+    "id": "42UTQ",
+    "name": "90's and 2000's Nostalgia"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 19,
+    "total": 26
+  },
+  "dateStoredMs": 1589168536327
+}

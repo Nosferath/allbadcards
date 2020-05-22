@@ -1,0 +1,78 @@
+{
+  "black": [
+    {
+      "content": "Se analizziamo l'argomento da un punto di vista statistico _ e _ sono strettamente collegati.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Per rallegrare la vita di un bambino cieco dagli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi tutto a metà prezzo anche _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La GoPro è un gadget, ma se utilizzata per _ il suo acquisto è assolutamente giustificato.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono inglese, sono il signor Sharp. Scriva S come Savona, H come Hotel, A come Arezzo, R come Roma e P come _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è quello che ti auguro figlia mia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è come le erbe cattive vanno estirpate alla radice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se analizziamo l'argomento da un punto di vista statistico _ e _ sono strettamente collegati.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "21 cm di benessere.",
+    "Una Quantità inimmaginabile di ragni.",
+    "Farsi un buco in tasca per masturbarsi in pubblico.",
+    "Lo scippo col motorino.",
+    "Rubare i soldi a Medici Senza Frontiere.",
+    "Combustione Umana Spontanea.",
+    "Le lesbiche.",
+    "Il traffico di organi.",
+    "La pace nel mondo.",
+    "Un Ak-47.",
+    "Il Porco Buddha.",
+    "Un pitbull in un parco giochi per bambini.",
+    "Rimorchiare ragazze all'ospedale dopo l'aborto.",
+    "La selezione naturale delle specie.",
+    "L'ebola.",
+    "Matteo Salvini.",
+    "Logan Paul nella Foresta dei Suicidi.",
+    "Un pigiama con le righe e la stellina gialla.",
+    "Inculare le mosche.",
+    "L'italia fascista.",
+    "Un pakistano con bouquet di rose.",
+    "20000 nazi sotto i mari."
+  ],
+  "pack": {
+    "id": "5Q9VU",
+    "name": "AlexxV2"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 22,
+    "total": 30
+  },
+  "dateStoredMs": 1589400538070
+}

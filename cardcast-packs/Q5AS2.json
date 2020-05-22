@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "\"I don't like sand, it reminds me of _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would like it if the prequels didn't have a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's worse than Jar Jar Binks? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How would you make Star Wars better? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Midi-Chlorians Cure Found, It's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "George Lucas has directed a new Star Wars movie with the main character _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mace Windu's passionate love for Yoda.",
+    "Nute Gunray.",
+    "A Gungan.",
+    "Young Anakin.",
+    "A pink lightsaber.",
+    "Gungan Cum.",
+    "Palpatine's wrinkly balls.",
+    "Jake Lloyd's acting career.",
+    "Jango Fett's clones.",
+    "\"Mesa yousa humble servant\".",
+    "Boss Nass.",
+    "Anakin Skywalker.",
+    "Boss Nass blowjobs.",
+    "Obi-Wan's shitty disguise from Episode 4.",
+    "Midi-Chlorians.",
+    "Natalie Portman fucking Jake Lloyd.",
+    "Darth Vader built C-3PO.",
+    "Jar Jar Binks.",
+    "Jar Jar Binks's long tongue in Anakin's sweet ass.",
+    "Anakin's flirting techniques."
+  ],
+  "pack": {
+    "id": "Q5AS2",
+    "name": "Star Wars Prequels Hate Deck"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 20,
+    "total": 26
+  },
+  "dateStoredMs": 1588616199540
+}

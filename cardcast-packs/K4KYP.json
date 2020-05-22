@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "_ did 9/11.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Illuminati confirmed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mountain Dew is making a new flavor: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All hail Gaben, lord of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jet fuel can't melt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm reporting that noob for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can wreck any noob in _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mountain Dew.",
+    "Being an adult and playing Minecraft.",
+    "Girl gamers.",
+    "The Illuminati.",
+    "Mountain Dew flavored Doritos.",
+    "Pewdiepie.",
+    "Doge.",
+    "Rating something 8 out of 8.",
+    "Layers.",
+    "Calling someone a noob.",
+    "Ragequiting.",
+    "A marijuana print onesie.",
+    "Shrek.",
+    "Airhorns.",
+    "Doritos.",
+    "Onions.",
+    "Agar.io.",
+    "Making fun of bronies.",
+    "A talking donkey.",
+    "The number 420.",
+    "Triangles with eyes in them.",
+    "Naming your child Gaben.",
+    "Jet fuel.",
+    "Killing noobs.",
+    "Hackers."
+  ],
+  "pack": {
+    "id": "K4KYP",
+    "name": "MLG"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 25,
+    "total": 32
+  },
+  "dateStoredMs": 1588609368622
+}

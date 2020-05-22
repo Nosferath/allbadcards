@@ -1,0 +1,542 @@
+{
+  "black": [
+    {
+      "content": "I named the Fallen Child _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _ now. That's my attack!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's harder than the Junior Jumble? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Woshua's cleaning solution? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Papyrus do in his free time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who the _ is Sans?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. The True Name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "3 out of 4 rocks agree to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "i spend all my time at the _ now. it's my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To no one's surprise, Alphys has a crush on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and co. decided to pick on you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mushroom Dance. Mushroom Dance. Whatever could it mean? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything in this room is a bomb! That _ is a bomb!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After I'm done with _, I like to lie down and feel like _. It's a family tradition.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_\" is just a hot person's way of making you their slave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just a hot person's way of making you their slave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You find a _ book. Tucked inside is a _ book.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My super secret code word is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That was fun. Let's finish the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tra La La. Beware of the _ who speaks in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(The thought that the mouse will some day eat _.) (It fills you with determination.)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "IS _ AN EMOTION?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can You Really Call This a _, I Didn't Recieve a _ on my Pillow or Anything",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Our products are made by _, for _, of _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ah, the _. Truly the most tsundere of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Long ago, two races ruled over Earth: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The box is clogged with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you believe they tried to flirt with me? And after they asked to call me \"_\"...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is _. Feel free to visit it any time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you smooch a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never _ before, gorgeous? Don't worry, it's simple!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Burgerpants is having an existential crisis because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asgore's favorite flower is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I climb Mt. Ebott? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You think your taste is too refined for _, don't you, deary?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You didn't gain LOVE, but you gained _. Does that make sense?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To get the best ending, you must complete the secret dungeon: True _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I decided to reset my run because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ and I've wasted my entire life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: your best friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the legendary artifact really do? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No _ allowed! No _ allowed! _ allowed!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Muffet pours you a cup of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your inventory has too many _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard you got to meet Mettaton! He's my favourite _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's your definition of a 'bad time'? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are my standards? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a garbage can. It's filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the spiders clap along to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _. Scandalous.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tired of making spaghetti over and over, Papyrus decided to try his hand at cooking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What about Undyne? Doesn't she hate _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The barrier is locked by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shyren released a new hit single called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imagine a spider wearing _. Meditate on this image.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anime is like cartoons, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the hell's a _? Sounds sexy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh! Right! Humans are always eating hamburgers made of _ AND _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like to _ with my best friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who needs _ with _ like these?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How did you pay to send Temmie to cool leg? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who does the doctor have a crush on? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is here for your health.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IS REAL, RIGHT?!?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alphys' latest fanfiction ships _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I couldn't bring myself to continue my Genocide run after killing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SANS! STOP PLAGUING MY LIFE WITH INCIDENTAL _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the future of humans and monsters.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You want to pet this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a _-shaped hole in my _-shaped heart.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Temmie only wants the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks for _! Here's _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Press _ to bring up the _ menu.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "SO hyped for the destruction of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're old _ tapes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seven. Seven _, and King Asgore will become a god.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite _ , it's still you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papyrus realizes he doesn't have _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Butterscotch pie.",
+    "\"Promotional\" costumes.",
+    "Hugging a volcano.",
+    "Tem flake (expensiv).",
+    "A bepis.",
+    "Temmie's cool leg.",
+    "Four pairs of hot pants.",
+    "Not wanting to do genocide.",
+    "Stopping a battle to make instant ramen.",
+    "So Sorry.",
+    "Misreading 'Mettaton' as 'Mettadon'.",
+    "Leading Brand UNDERTALE-type Software.",
+    "Jerry.",
+    "A Glamburger.",
+    "Angrily throwing pasta in a pot.",
+    "A dog programming an entire game.",
+    "MTT-brand Anime Powder.",
+    "Hot Coldman.",
+    "A gray rock with an attitude.",
+    "Declare war on humanity.",
+    "Tile puzzles.",
+    "A heartfelt essay about Mettaton.",
+    "Rich history of Tem.",
+    "Metal hair gel.",
+    "Having a bad time.",
+    "Suplexing a boulder just because you can.",
+    "Dog residue.",
+    "Giving the middle finger to all the monsters in the Underground.",
+    "DETERMINATION.",
+    "Mettaton's skimpy fourth form.",
+    "Moldsmal.",
+    "A stick.",
+    "A hatred of puzzles.",
+    "The old whoopee cushion in the hand trick.",
+    "Flameo Hotguy.",
+    "An old tutu.",
+    "Detemmienation.",
+    "A spider bake sale.",
+    "Bench pressing seven children.",
+    "Literally just a freaking rectangle.",
+    "Frozen spaghetti.",
+    "A ghost sandwich.",
+    "Putting rocks at the top of a waterfall and calling it a puzzle.",
+    "Napstablook.",
+    "Undertail.",
+    "Asriel's weaboo cannon.",
+    "Going to Grillby's.",
+    "Bscotch.",
+    "Seven souls.",
+    "Papyrus' fabled \"blue attack\".",
+    "Garbage.",
+    "The spiders' heated limo.",
+    "Muffet's pet.",
+    "Being surprised when you kill Toriel despite wielding a knife.",
+    "Echo flowers.",
+    "The water sausage.",
+    "Selling your soul so you can actually play the game.",
+    "Tsunderplane.",
+    "Legs.",
+    "Making yourself sound cooler with the power of anime.",
+    "Fearlessly eating sushi in front of Undyne.",
+    "A hedge in the shape of Papyrus' face.",
+    "Cooking with a Killer Robot.",
+    "A steak in the shape of Mettaton's face.",
+    "Seaweed icecream.",
+    "A shirt that says JOGbOy.",
+    "Popato Chisps.",
+    "Books upon books on snails.",
+    "ButtsPie.",
+    "Skeleton boyfriend.",
+    "A lack of redeeming qualities.",
+    "Sans' lab.",
+    "The seventh dog that was actually the third dog.",
+    "Spooktune.",
+    "Papyrus' secret style.",
+    "A snowdecahedron.",
+    "A skeleton with standards.",
+    "Lesser Dog's ever-expanding neck.",
+    "Grillby's washboard abs.",
+    "SpiderDont.",
+    "Heats Flamesman.",
+    "Pranking across time and space.",
+    "Illegal Undertale merch.",
+    "Getting upsetti over spaghetti cos the timeline keeps resetti.",
+    "Snail racing.",
+    "Toby Fox's concept art.",
+    "Saving Asriel somehow.",
+    "Running back to Undyne's house in the middle of her fight.",
+    "Chairiel.",
+    "A homicidal flower made out of the dust of your children.",
+    "Stepping on my face.",
+    "A conveniently-shaped lamp.",
+    "Getting close (but not too close).",
+    "ALOT o muns.",
+    "A hot dog tower with actual physics.",
+    "Goat mom.",
+    "The legendary fartmaster.",
+    "Dog marriage.",
+    "Shed-based puns.",
+    "Hot cats.",
+    "Getting dunked on.",
+    "Nice cream.",
+    "Onionsan.",
+    "Thundersnail.",
+    "Frisk.",
+    "Drinking ketchup.",
+    "Goat dad.",
+    "Mettaton's lovely singing voice.",
+    "At least 5 dogs.",
+    "The Spear of Justice.",
+    "Burgerpants.",
+    "Monster Kidz Word Search.",
+    "The Song That Might Play When You Fight Sans.",
+    "Undertale's last secret.",
+    "Dating a skeleton.",
+    "Giving a skeleton a noogie.",
+    "Your sins crawling on your back.",
+    "Toriel's text messages.",
+    "Dogs.",
+    "Ruining your save file by killing everyone.",
+    "An emotionally damaged spinach egg pie.",
+    "W.D. Gaster.",
+    "A classic image.",
+    "Goat son.",
+    "Wrapped up with Pyrope.",
+    "Temy Armor.",
+    "Aaron's 14-pack.",
+    "Undyne's shitty dental plan.",
+    "Alphys' lesbian hentai collection.",
+    "An appropriately-placed fart noise.",
+    "Whatever the hell Omega Flowey is."
+  ],
+  "pack": {
+    "id": "9YZ3Z",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 79,
+    "white": 131,
+    "total": 210
+  },
+  "dateStoredMs": 1589528918620
+}

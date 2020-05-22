@@ -1,0 +1,258 @@
+{
+  "black": [
+    {
+      "content": "Lucio's borzois are sniffing at your bag. They seem to want _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Master, where are we? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ a day keeps Julian away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, I get headaches frequently. I think it's from all this talk of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Nadia have planned for you this afternoon? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't we ask _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? haven't heard that name in years .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This update, _ gets a tiddy window shirt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's under Julian's eyepatch? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having nothing else on hand, Portia fends off attackers with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where is Muriel? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Asra always gone? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will return, uninvited.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "what did the apprentice see in the fountain? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What killed Lucio? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To impress Nadia's guest, the palace cooks _ for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muriel looms in your path, to get pass him you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Julian have Asra's room keys? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The banquet laid between me and Nadia is exquisite. My eyes wander over enticing dishes, but _ is what catches my attention the most.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This time, Asra's running away from _ by _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_cast her gaze on this wretch and turned away, she has no interest in an abomination like me",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't let _ fool you, shopkeep .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nadia's skincare routine consists of _ , _ , and _ , in that order .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The best way to spend your birthday is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumour has it that the late Count Lucio used _ to polish his golden prosthetic arm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? The devs said that _ and _ will be key for the romance route!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the last painting he commissioned, Lucio asked the artist to paint his fursona and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finally, you uncover Lucio's true cause of death: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's something playing jazz on the roof, I think it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You struggled to make out what was written on the page in front of you. Two phrases catch your eye: _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Faust flicks her tongue, hovering over the gazing pool. The gleam in her eye says that she wants to show me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sight teases a smile out of me. How nostalgic. When we met, Asra was _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You finally look into Julian's boots. You see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Focusing on your breathing, you call upon you an aura of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I take a seat on the edge of the pool, and lean over to peer into the reflective water below. The longer I concentrate on the shapes in the water, the more they change. Colours too faint to see start to deepen, shadows start to twist and form.  Before I know it, my reflection is fading away, and in its place... I see _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I stood before the desk, unsure where to start my search. After some time, three things catch my eye: _ , _ , and _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Inching closer to the painting, I see that Lucio's prosthetic arm was actually _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Julian.",
+    "Julian's missing medical degree.",
+    "Julian's tiddy window.",
+    "Being proud of Lucio.",
+    "Nadia.",
+    "A tinier saxophone.",
+    "Julian's thigh-high boots.",
+    "The Red Plague, yet again.",
+    "The Red Plague.",
+    "Lucio.",
+    "Not having enough money for chicken nuggets.",
+    "Backflipping off the palace.",
+    "The baker himself.",
+    "Running away from your problems.",
+    "Lucio's flapping prosthetic arm.",
+    "Getting drunk and setting yourself on fire.",
+    "Jazz Wolf.",
+    "Flirting with your captor instead of running from them.",
+    "Asra's tarot deck.",
+    "Lucio's flawless winged eyeliner.",
+    "Muriel.",
+    "Pushing Asra into a fountain.",
+    "A saxophone.",
+    "Dana Rune.",
+    "Portia, decking a guy with a shovel.",
+    "Rowdy fight boys.",
+    "The Red Plague, again.",
+    "The sound of Muriel's chickens clucking.",
+    "Rising from the dead as a furry.",
+    "Mc's old clothes.",
+    "Julian's Jeff Goldblum laugh.",
+    "Vampire eels.",
+    "A tinier eyepatch.",
+    "Running towards your problems.",
+    "Asra.",
+    "Losing Asra's Emperor card.",
+    "Muriel's chickens.",
+    "\"Hahahrawrrahaha\".",
+    "Pumpkin loaf.",
+    "Getting burnt by your own doctor.",
+    "Faust.",
+    "Burning royalty on their own birthday.",
+    "Fursuits.",
+    "Julian's handwriting.",
+    "...Lucio?.",
+    "Starting drama over pomegranates.",
+    "Muriel's boulder-like body blocking your path.",
+    "Melchior.",
+    "Asra's strange beast.",
+    "Lucio's tiddy window shirts.",
+    "The baker's moustache.",
+    "Mercedes.",
+    "Lucio's goat fursona.",
+    "Spending all your life's savings on a romance route.",
+    "Choking on your dead husband's ashes.",
+    "Getting chased by Borzoi.",
+    "Faust's cheek chubs."
+  ],
+  "pack": {
+    "id": "39WXK",
+    "name": "The Arcana"
+  },
+  "quantity": {
+    "black": 37,
+    "white": 57,
+    "total": 94
+  },
+  "dateStoredMs": 1588670286427
+}

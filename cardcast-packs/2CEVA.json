@@ -1,0 +1,626 @@
+{
+  "black": [
+    {
+      "content": "Mi dispiace signor _ le ha _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tre cose ti tirano su il morale sono il cioccolato,il sole e _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual'è il mio antidroga?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual è il migliore amico di una ragazza? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova norma di sicurezza ora proibisce _ sugli aerei",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non si può entrare a scuola senza avere _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La Mecca non era forse il luogo più indicato per _.Non ci avevi pensato?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per il mio prossimo numero tirerò fuori _ da _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La GoPro è un gadget,ma se utilizzata per _ il suo acquisto è assolutamente giustificato",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sei considerato colpevole per _ puoi sempre giustificarti dicendo _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A pochi passi dal centro storico,lontano dai flussi turistici,seguite il sentiero sulla costa per 5 minuti e ammirerete _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'ottavo giorno Dio creò _ e vide che fu cosa buona e giusta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non è bello cio che è bello ma è bello _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La vita degli Indiani d'America cambiò per sempre quando gli uomini bianchi li introdussero a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Io sono _,colui che distruggerà _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ciao,sono Silvio Berlusconi e quando verrò eletto restituirò _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : obbiettivo sbloccato",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'ultimo attacco di Godzilla in Giappone è stato scongiurato da _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi tutto a metà prezzo anche _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Ci penso tutte le mattine quando mi faccio la barba",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando aprì il vaso Pandora vi trovò un'unica cosa: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come posso andare a prendere dal passato per convincere la gente di essere un potente stregone? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ non così che vi fate male!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se non ti va peggio per te,tieni comunque presente che _ non si può rifiutare",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Un vero uomo dovrebbe _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mentre gli USA e la Russia gareggiavano per la conquista della Luna il Messico ha investito milioni in _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La cosa più bella della quarantena è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per rallegrare la vita di un bambino cieco dagli _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si,proprio così.Ho ucciso _.Come,Mi chiedi?_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Secondo molti sondaggi,la gente ama _ ma odia _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sei simpatico come _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ bene _ male",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Il preventivo comprende consegne,assicurazione per un anno e _ data la sua fiducia",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spero muoia _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Insieme ad Anna Frank ci farei _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa c'è oltre l'Universo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Di cosa hanno paura i muratori _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La vera ragione che ha causato i miei primi capelli bianchi è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ non esiste,sono solo fesserie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "il miglior album quest'anno è\"_\"fatto da _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Solo due cose sono certe.La morte e_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho bisogno di _ , e in fretta",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E' ampiamente diffusa  l'idea che i nostri antenati non si sarebbero mai evoluti senza _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Giuseppe piace _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nei suoi ultimi momenti di vita,Michael Jackson ha pensato a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Lorenzo piace _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlin Dlon,un addetto pulizie al reparto _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mentre ero strafatto di acidi, _ è diventato _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Per rilassarmi la domenica in tardo pomeriggio,prima di ricominciare a lavorare,niente è meglio di _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sarò presidente creerò il dipartimento dedicato a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_+_=_",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Fa schiuma ma non è sapone,cos'è?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come faccio a mantenere la mia attuale relazione? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma se esistono i sushi esistono anche i su_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gesù ha sempre fatto_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è come le erbe cattive,bisogna estirparle alla radice",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sei simpatico come _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Paolino piace_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Immagina _ sarebbe una cosa pazzesca",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La moda della prossima estate sarà _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alcuni dicono che in Vaticano ci sia una stanza segreta dedicata alla devozione di _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A luis sal piace _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Dammi un cinque fratello",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ non è mai stato così bello",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rocco Siffredi nel tempo libero colleziona _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si aggira di notte,è affamato.Quest'estate,nessuno sarà al sicuro da _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non c'è cosa più bella che _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è una trappola!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è quello che ti auguro figlia mia!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'argomento della mia tesi di dottorato _ è stato stranamente malvisto dalla giuria finale",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono inglese,sono il signor Sharp.Scriva S come Savona,H come Hotel,A come Arezzo,R come Roma,P come _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se analizziamo un argomento dal punto di vista statistico _ e _ sono strettamente collegati",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "E' un peccato che i ragazzini al giorno d'oggi partecipino a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Una cosa simpatica semplice e romantica la sera di San Valentino è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nella tua vita dovrai fare almeno _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sarò miliardario,creerò una statua di 10 metri per commemorare _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Da noi _ si trasmette di padre in figlio e ciò da diverse generazioni",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Caro Babbo Natale,quest'anno in regalo vorrei _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Una VERA donna vuole solo _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Simone piace _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ad Antonio piace _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perdere la nascita del proprio figlio per _ lo si può capire",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual è la nuova dieta del momento? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Al posto del carbone,ora Babbo Natale dà ai bambini cattivi _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con Capitan Schettino ci farei _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho sempre dato un soprannome ai miei sex toys,questo si chiama _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con Gabibbo ci farei _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le belle storie cominciano sempre con _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il sacro Graal descritto nella Bibbia in realtà non è un calice ma è _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Farlo dall'entrata posteriore.",
+    "Viagra.",
+    "Lorenzo.",
+    "Dieta mediterranea.",
+    "Video di Barbara D'Urso in lacrime mentre ascolta una storia triste.",
+    "Le thailandesi o le ragazze dell'est.",
+    "Un paradosso da viaggio nel tempo.",
+    "Un cancro alla prostata.",
+    "La regina Elisabetta che muore.",
+    "Non ricambiare sesso orale.",
+    "Antonio.",
+    "Bambini africani.",
+    "Mine antiuomo piazzate strategicamente.",
+    "Violentare una capra.",
+    "Immigrati clandestini.",
+    "La guida in stato di ebrezza.",
+    "Cacca piccante.",
+    "Autoerotismo.",
+    "Avere il proprio padre come coinquilino.",
+    "Camere a gas.",
+    "La crisi economica mondiale.",
+    "Un tristissimo film bielorusso.",
+    "Razzismo.",
+    "La puntualità di Simone.",
+    "Uno scippo in motorino.",
+    "Facebook.",
+    "Gigi d'Alessio.",
+    "La pace nel mondo.",
+    "Ragazzi che non telefonano.",
+    "Matteo Salvini.",
+    "Essere favolosi.",
+    "Un AK-47.",
+    "Il traffico di organi.",
+    "Un drone comandato da Trump.",
+    "Per rifiutare il test di paternità.",
+    "Stupro e saccheggio.",
+    "Un micropene.",
+    "Simone.",
+    "Un orda famelica di napoletani che non hanno pagato il grattino e vogliono il pizzo.",
+    "Soporiferi fai da te.",
+    "La sacra bibbia.",
+    "Il sangue di Cristo.",
+    "Pulizia etnica.",
+    "Emulare il suicidio su Tik Tok.",
+    "Nelson Mandela.",
+    "James Bond.",
+    "Iniezione ormonale.",
+    "Oche.",
+    "Cowboy Gay che mangiano budino.",
+    "L'ebola.",
+    "Astrofisica Nucleare.",
+    "Il K2.",
+    "Cambiare donna per salire di livello.",
+    "Un clistere.",
+    "L'inevitabile morte termica dell'Universo.",
+    "Un pitbull in un parco giochi per bambini.",
+    "Il pizzo.",
+    "I balli di Fortnite.",
+    "Un piccolo cavallo.",
+    "Giolitti.",
+    "Vomitare a denti stretti per sentire i pezzettini.",
+    "21cm di benessere.",
+    "Testimoni di Geova.",
+    "Avere paura di se stesso.",
+    "Camminare a quattro zampe come se fossi un cane.",
+    "Essere ricco.",
+    "La selezione naturale delle specie.",
+    "Molestie sessuali.",
+    "Masturbarsi in una piscina piena di lacrime di bambini.",
+    "Rubare i soldi a medici senza frontiere.",
+    "Fare da spia al tuo amico gay.",
+    "Un bocchino.",
+    "Video hard di Belen.",
+    "4 napoletani su un motorino.",
+    "Fare la fila da Burger King.",
+    "Un pigiama a righe e una stellina gialla.",
+    "Farsi un buco in tasca per masturbarsi in pubblico.",
+    "Justin Bieber.",
+    "Un feto.",
+    "Instagram.",
+    "Sua altezza reale la Regina Elisabetta II.",
+    "Il telefono azzurro.",
+    "Vita,morte e miracoli.",
+    "I neri.",
+    "Le lesbiche.",
+    "Bambini incatenati ad un palo.",
+    "I balli di Fortnite.",
+    "Mangiare le ceneri di Zio Pino.",
+    "John Cena secco.",
+    "Satana.",
+    "Serpenti violenti che fanno sesso.",
+    "Robocop.",
+    "Reggere la candela.",
+    "Il razzismo anti bianchi.",
+    "Palle.",
+    "Bicicletta senza sellino.",
+    "La fede di Paolino.",
+    "Essere sparati per davvero.",
+    "Un'esplorazione rettale.",
+    "Simulare un eccitazione gridando come una capra affamata.",
+    "Tanti,Tanti aborti.",
+    "La mia prima uccisione.",
+    "Un bestemmione tirato davanti al prete.",
+    "L'adozione di coppie zoofile.",
+    "Hulk Hogan.",
+    "Iniettare eroina nelle vene di un cammello.",
+    "Il capitano Schettino.",
+    "Tua madre.",
+    "Gioielli da rapper.",
+    "L'effetto Pac Man e la Barriera di ghiaccio attorno alla Terra.",
+    "Fare economia comprando la carta igienica ruvida.",
+    "KTM.",
+    "Gandhi.",
+    "Un peto magnitudo 13.",
+    "Rapire bambini.",
+    "Il prepuzio.",
+    "L'Africa.",
+    "La placenta.",
+    "Neonati morti.",
+    "La roulette russa.",
+    "Il Dio Mattone.",
+    "Morire per essersi masturbati.",
+    "Tuo zio.",
+    "Lo scippo col motorino.",
+    "Un aborto spontaneo.",
+    "Lievito.",
+    "Pesce Siluro.",
+    "I terroni.",
+    "Rosario Muniz in versione femminile.",
+    "Un nero,una puttana,un nordista e un omosessuale.",
+    "Inculare le mosche.",
+    "Mettere dei fiori sulla tomba di Mussolini.",
+    "Dildo rosa gigante.",
+    "Scorreggiare dalla vagina.",
+    "Un cosplay hentai.",
+    "Mussolini.",
+    "Vomitare durante un pompino.",
+    "Suca minchia.",
+    "Baffi sul cazzo.",
+    "Cancro al cervello con ripercursioni sulla memoria.",
+    "Puttana.",
+    "La lunghezza del mio pene.",
+    "Correre con un AK-47 urlando come un pazzo.",
+    "Hitler senza baffi.",
+    "Farsi inculare da una gang bang di neri.",
+    "I nordisti del cazzo.",
+    "Un falco con un cappuccio in testa.",
+    "Un pakistano con un bouquet di rose.",
+    "Un grande pene nero.",
+    "Un cazzone nero.",
+    "Una partita Juve-Napoli con pizza e birre.",
+    "Un threesome con una cinese.",
+    "Pornostar con desideri sessuali per il proprio  padre.",
+    "Un bel paio di tette.",
+    "Combattimenti sexy con i cuscini.",
+    "AIDS.",
+    "Cadere nel cesso.",
+    "Un trans con i capelli corti.",
+    "Un pene cinese piccolo.",
+    "Doccia di piscio.",
+    "20000 nazisti recintati sotto i mari.",
+    "L'Italia fascista.",
+    "Porno acrobatico.",
+    "Un buco del culo sbiancato.",
+    "Scorreggiare e andarsene via."
+  ],
+  "pack": {
+    "id": "2CEVA",
+    "name": "Italians Black humor"
+  },
+  "quantity": {
+    "black": 89,
+    "white": 165,
+    "total": 254
+  },
+  "dateStoredMs": 1589205132660
+}

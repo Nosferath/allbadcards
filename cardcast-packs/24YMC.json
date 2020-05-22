@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "What did I nickname my genitals? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You guys, you can buy _ on the dark web.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need you like _ needs _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm just gonna stay in tonight. You know, Netflix and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TRIGGER WARNING: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Such _. Very _. Wow.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This app is basically Tinder, but for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry, Penny! Go Go Gadget _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing says \"I love you\" like _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Smash Mouth.",
+    "Game of Thrones spoilers.",
+    "Taking a shit while running at full speed.",
+    "Cat massage.",
+    "Internet porn analysis paralysis.",
+    "A man from Craigslist.",
+    "A respectful discussion of race and gender on the Internet.",
+    "Goats screaming like people.",
+    "Matching with Mom on Tinder.",
+    "Three years of semen in a shoebox.",
+    "Getting teabagged by a fifth grader in Call of Duty.",
+    "Pretending to be black.",
+    "That thing on the Internet everyone's talking about.",
+    "A night of Taco Bell and anal sex.",
+    "YouTube comments.",
+    "Destroying Dick Cheney's last horcrux.",
+    "Googling.",
+    "My browser history.",
+    "My privileged white penis.",
+    "A fun, sexy time at the nude beach.",
+    "A complete inability to understand anyone else's perspective."
+  ],
+  "pack": {
+    "id": "24YMC",
+    "name": "CAH World Wide Web Pack"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 21,
+    "total": 30
+  },
+  "dateStoredMs": 1589068730048
+}

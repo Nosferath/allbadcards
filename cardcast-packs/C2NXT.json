@@ -1,0 +1,922 @@
+{
+  "black": [
+    {
+      "content": "Many trainers were overjoyed when _ was legalized.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The “technology is amazing!” guy is now impressed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brock’s other love is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You don’t have enough badges to train _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can never remember if _ is strong against _ or the other way around.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Muk spelled backwards is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hold on; I have to check if _ has changed in the past 5 minutes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Conservative Arceans are now trying to outlaw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Pikaclone is an electric _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite what 4kids might tell you, _ does not, in fact, evolve into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Ash first left Pallet town, he saw _ flying overhead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord Helix is the god of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why evolve your magikarp into a gyarados when you can be _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on Dexbusters! We’re testing if _ can really _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Welcome to gen 10, this time we will release Pokemon _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My _ could totally beat _ because it has _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Fairy types are now also strong against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Xatu looked into my past and future, it saw _ and _ at the same time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is in the top ten percent of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gen one is the best! It may have had _ , but at least there was no _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ . Dammit Tracy, this is why no one likes you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to the center and had to explain how my pokemon got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I AM THE FLAMING _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard they’re giving a mega evolution to _ that will turn it into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Science nerds keep telling me not to play pokemon because it misrepresents _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mega _ looks like a fusion of _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Alakazam wishes it could forget _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mewtwo was created in _ by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wanna get off Giovanni’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Zigzagoon picked up _ today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ HYPE",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Plasma has now replaced their stupid outfits with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Professor Birch is getting chased by a _? That’s lame!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New Move: _. 30% chance to cause _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It’s been 3,000 years since I last saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m not gonna Raichu a love song about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While playing Pokemon Amie, I accidentally gave my pokemon _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was here! _ is a loser!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ became OU tier when it got the hidden ability _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new gymleader is _ , gives out the _ badge, and uses _ type pokemon.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ash's secret to immortality is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New pokemon fusion: _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "“Prepare for _!” “And make it _!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ used _! But nothing happened.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How Pikachu should have revived Ash in the first movie: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once used the move _ for _ purposes.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The stupidest change 4kids made to the dub had to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m picking _ as my starter pokemon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GUYS WE NEED TO BEAT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have a level 40 _? HAX!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s not a _, it’s a _ seen from above",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A horrible accident with Bill’s teleporter combined _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I ended up on the weird part of newgrounds and saw Pikachu and _ doing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You wouldn’t guess it, but _ is really vulnerable to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pikachu likes to drink _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: the real reason Mewtwo wasn’t in the latest Super Smash Bros.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_’s cry sounds like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_! I hope you have a burn heal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his latest fantasy, Meowth is imagining Giovanni _ with _ while shirtless.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh great, a horde battle against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _! They’re comfy and easy to wear!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nicknaming your _ “_” is just cruel, wrong and stupid.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(ง •̀.•́)ง  _ OR RIOT (ง •̀.•́)ง",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pushing the B button while _ is evolving should be punishable by death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents never let me play pokemon because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ used _! It’s super effective!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My nuzlocke run was ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disturb not the harmony of _ , _ and _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Things you shouldn’t do with your rock type: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Giovanni's convoluted plan for world domination now involves _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Last night got weird when my Zoroark turned into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I keep hearing the voice of _ in my head telling me not to be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest slowpoke meme: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ keeps barging in and interrupting my “alone time”.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MissingNo appeared to me in the form of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! I choose you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was clearly made just for someone’s _ kink.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Er...what was my grandson’s name again? _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Aqua and Team Magma now fight over _ instead of Climate Change.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? ヽ༼ຈل͜ຈ༽ﾉ RIOT ヽ༼ຈل͜ຈ༽ﾉ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twitch recently survived an encounter with _ using only their wits, _ and four hours of their lives.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I left _ and _ in the daycare and got _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_? Pokemon is RUINED FOREVER!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a joke, I made a pokedex entry for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went into the shaking grass and found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone was shocked when Lance was defeated by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the _ pokemon.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ hated fairy types right off the bat because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Are you _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Team Rocket's _ again!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You’re picturing _ wrong. It’s actually the size of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gamefreak has finally run out of possibilities. They decided to make a legendary out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arceus would forever regret the day he created _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Giovanni knocked up Arianna and they named their kid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why in Arceus’ name can _ learn to use _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new evil team is Team _ , who wants to be _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Teeehehe, I trained my Chatot to say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _! It’s the new F.E.A.R.!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "That creepy ghost girl in the last few games is actually an undead version of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This gen, the starter type cycle has changed to _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm a _.... My name.... _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Listen, have you heard about this new _ _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Remember that awkward moment in gen four with the _? Yeaaaaaah...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Team Flare trying to accomplish again? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Praise thee, oh blessed _, who doth guide me past the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do you remember the time when Ash caught a _? NO!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I played mystery dungeon, I got turned into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Mega Alakazam need all those spoons for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Lord Arceus said “Let there be _!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We ended up trapped behind _ for five hours before _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wanna be _/ like no one ever was!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now is not the time to use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some weirdo on furaffinity drew Gardevoir getting _ by a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There should never EVER be a Gijinka of _, yet here we are.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m SURE gamefreak will use _ as a new move for a pokemon this generation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new HM move _ allows you to be _ in the overworld.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Professor Rowan is so badass, he threw _ right in Team Galactic’s face!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The False Prophet was blamed for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Rocket is now disguised as _ , _ and _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "No _ , no _ , only mon.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Diglett started walking on _, I gave up trying to understand physics.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new TM101 is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ash has finally pushed himself over the edge, and instead of training pokemon has begun doing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see now that the circumstances of _ are irrelevant; it is what you do with the gift of _ that determines who you are.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "N’s childhood has given him a weird thing for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next season, Ash will be joined on his journey by Pikachu, _, and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gary Oak. There are 8 _ in Kanto. He got 10 of them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fandom had a fucking orgasm when _ was referenced on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I never expected _ to become the pornographic sensation it has.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The move _ is often horribly misused for sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the one thing the Ditto won’t fuck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Rocket finally ditched the Pikachu and started going after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe your Sex life in three moves. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Oh for fuck’s sake, this time Ash’s Pikachu got nerfed by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some dumbfuck on the GTS just asked for a shiny _ in return for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mega _’s _ looks like a penis.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ won the 2014 pokemon championship with a goddamn _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bad Dragonite just released their new _ dildo with realistic _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The fact that _ and _ are in the same egg group really fucks me up.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I’ve always wondered about the manga, but when Yellow revealed herself to be _ I lost my shit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Porygon Z got in my computer and downloaded 5 gigs of _ porn.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s wrong for a trainer to think this about theirpokemon, but _ is still super fuckable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vs. _? Welp, I’m fucked.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Celebi created a goddamn time paradox by taking _ back to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Professor Oak got off his lazy ass and finally got around to doing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Great, now the genwunners are bitching about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That is a _, not a fucking jelly donut!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I see one more goddamn _ wearing _ on DeviantArt, I’m going to lose my shit!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cyrus knew he needed to destroy the universe when he saw porn of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aw goddamn it, somebody made NSFW Moemon art of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How in the hell can a _ use _, yet my _ can’t?",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Roark and Byron’s blatant nepotism.",
+    "“cosplaying” a pokemon by wearing a fully accurate to scale fursuit.",
+    "The Castelia City pokemaniac convention.",
+    "The uncomfortable bondage overtones of Mewtwo’s battle armor.",
+    "Professor Rowan tearing Team Galactic a new one.",
+    "Shipping Jessie and James even though they’re both clearly gay.",
+    "Greninja’s tongue.",
+    "Using Payday to break the local economy.",
+    "STDs that raise your stats.",
+    "Ash’s Dad.",
+    "Unown that spell out dirty words.",
+    "Shooting someone in the face with a Remoraid.",
+    "The local pokemon professor’s unloved progeny.",
+    "ZOMBIE MUSHROOM BUGS.",
+    "Rich kids that use full restores on Zigzagoons.",
+    "Goddamned smogon whores.",
+    "Somehow converting Arceus to the Church of Helix.",
+    "Lord Helix.",
+    "Gary’s Raticate.",
+    "The claustrophobic existential horror of the pokeball.",
+    "Actually lieking Mudkipz.",
+    "Being enraged that Wondertomb doesn’t work anymore.",
+    "A horde of diglett.",
+    "A Probopass with a jew-fro.",
+    "Firing a rifle into the air while pokeballs deep in a squealing pignite.",
+    "Poorly cosplaying a shiny pokemon Gijinka.",
+    "Bragging about how much TM 87 you have.",
+    "Giving a Machoke a wedgie, because for real it’s got spandex briefs.",
+    "SANDSHREW!!!! AHHHHH!!!.",
+    "Ash's secret to immortality.",
+    "Mostly male Chikorita.",
+    "The fact that NOBODY ages.",
+    "Bird Jesus.",
+    "Being uncomfortably attracted to your Mystery Dungeon partner.",
+    "PokePETA.",
+    "Getting slapped in the face by a male gardevoir.",
+    "Oral so good it’ll leave you Paralyzed!.",
+    "Manly tears over the first movie.",
+    "A venomoth four-wheeler that kills dragons.",
+    "Wondering if your pokemon mega-evolving would mean they’re ready for round 2.",
+    "Getting headbutted in the nuts by a Gogoat.",
+    "Pokephillia.",
+    "Getting turned on by Lucario’s grunts in Smash Bros.",
+    "Beedrills?.",
+    "Using a Grimer to cheat at slot machines, somehow.",
+    "DeleleleWHOOOOOOOP.",
+    "Using Double Team for other means.",
+    "The enigma that is Giovanni’s criminal syndicate.",
+    "Animals that aren’t pokemon.",
+    "Allegories to Satanism, apparently.",
+    "An actual complete pokedex.",
+    "The thousands of good fakemon the GameFreak ignores every year.",
+    "Canonically transgender Marills.",
+    "Popping Rare Candies and Proteins.",
+    "A goddamned snuff game by PETA.",
+    "Gorebyss and Beautifly that suck your blood.",
+    "Throwing a Weedle like a Football.",
+    "The awkwardness that black trainers feel around Jynx.",
+    "Harden.",
+    "Brock's 'Nurse Joy' senses.",
+    "Ash attempting to solve all his problems by body-checking them.",
+    "An eight year old's weirdly fetishistic drawing of Misty.",
+    "Believing that humans metamorphed from Aipoms.",
+    "Worrying that your Spinarak is into bondage.",
+    "Teenagers who think Umbreon is “edgy”.",
+    "Nurse Joys who hope you get hurt again soon.",
+    "Mega evolving a male Lopunny.",
+    "Incredibly stupid names like ???.",
+    "Arguing over whether Brock is black or Asian.",
+    "A Jigglypuff that only sings death metal.",
+    "A Sudowoodo trying to woo a Trevenant.",
+    "Sweaty, foul smelling pokemaniacs in dark caves.",
+    "Team Rocket’s crossdressing kink.",
+    "A Charizard with perfect IVs and no soul.",
+    "A young Scrafty last seen with its hood up.",
+    "Breaking physics to make an Aron fly.",
+    "A town with, like, eight people in it.",
+    "The worlds stupidest eco-terrorists.",
+    "Lord Dome.",
+    "Pokedex entries clearly written by stupid ten year olds.",
+    "Some weirdo with the voices of Legion who worships a rock.",
+    "Disquieting implications of slavery and animal abuse.",
+    "Using strength on the truck.",
+    "A big, black Dicklett.",
+    "Gym leaders with zero professionalism.",
+    "That one pokemon you fantasise about but you really shouldn’t.",
+    "The biggest blackest Dicktrio.",
+    "Using attract on your trainer.",
+    "That fisherman with six magikarp.",
+    "Onix-in-Cloyster Vainilluxe missionary.",
+    "Ineffectual child-stealing Drifloons.",
+    "A swarm of Unown realising the dreams of a traumatised five-year-old girl.",
+    "A bigger blacker Dicklett.",
+    "Brock’s ever growing collection of restraining orders.",
+    "Espurr’s cold, dead eyes.",
+    "Every ten year old female deuteragonist’s massive knockers.",
+    "Misusing a Hypno’s abilities for your own ‘benefit’.",
+    "Different egg-group marriage.",
+    "Using water gun for absolutely unintended purposes.",
+    "Dragonthing, turtloid and grassaurus.",
+    "Meowth’s weird boy-crush on Giovanni.",
+    "Thinking too much about what happens in daycare.",
+    "A well trained Likitung.",
+    "Gardevoir in a maid outfit (again).",
+    "F.E.A.R.",
+    "Hot Skitty on Wailord action.",
+    "What little remains of Cinnabar.",
+    "A metapod using harden.",
+    "Letting a 10 year old take on the mafia.",
+    "A Pikachu in a bikini.",
+    "Bill the furry-I mean “Pokemaniac”.",
+    "Fucking genwunners.",
+    "Ironically censoring firearms in the american dub.",
+    "A fucking majestic magikarp.",
+    "Fuck yeah, Seaking!.",
+    "Hustle, the pokeporn magazine.",
+    "Getting your dick pierced trying to get a titjob from a Lucario.",
+    "Whitney’s FUCKING Miltank!.",
+    "Wherever the fuck all the protagonists dads went.",
+    "The wonderful bullshit of a Diglett learning Aerial Ace.",
+    "Stabbing a pidgey in the fucking neck.",
+    "JUST ONE GODDAMN SHINY!.",
+    "Using Darumaka shit as handwarmers.",
+    "A tearful mother watching Stand By Me.",
+    "ANOTHER fucking fire/fighting starter?!?.",
+    "Unbelievably shitty fakemon.",
+    "An asexual Ditto.",
+    "Bitching that Hoenn has too much water.",
+    "FIVE FUCKING CRITS IN A ROW.",
+    "Thinly veiled sexism in the Pokescience field.",
+    "James’ inflatable fake tits.",
+    "Screaming your own name when you cum.",
+    "Gardevoirs whose boobs would break their spines.",
+    "Goddamn Zubats.",
+    "Fucking Tracy.",
+    "A Rotom possessing a vibrator.",
+    "Getting a Gallade to elbowfuck you.",
+    "Trying to stick your dick in something 20 times your size.",
+    "Another shitty shiny Eevee on Deviantart.",
+    "Dipshits that mix up Pokemon and Digimon.",
+    "Feeling awkward about masturbating in front of your pokemon.",
+    "Aggressively shipping Gary motherfucking Oak and his own left hand.",
+    "Nearly indestructible thin trees blocking your fucking path.",
+    "Fucking OP first gen psychic bullshit.",
+    "Ash’s slightly homosexual feelings about Pikachu.",
+    "GARY MOTHERFUCKING OAK!.",
+    "Being the only person to realize that Lysandre is FUCKING NUTS!.",
+    "Mossdeep Gym-leader twincest.",
+    "The undeniable sexual tension between Professor Oak and your mom.",
+    "ALWAYS GETTING FUCKING MALE COMBEE.",
+    "Tangela tentacle porn."
+  ],
+  "pack": {
+    "id": "C2NXT",
+    "name": "Cards against Kanto!"
+  },
+  "quantity": {
+    "black": 151,
+    "white": 151,
+    "total": 302
+  },
+  "dateStoredMs": 1588446186159
+}

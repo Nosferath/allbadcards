@@ -1,0 +1,85 @@
+{
+  "black": [
+    {
+      "content": "_ IS IN MY SWAMP!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casual likes to _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Casie is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bananna has done _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "APH Russia misses my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wrote Auf Wiedersehen Sweetheart.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casual's fursona is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ cried while reading We'll Meet Again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Missed me with that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "America has sucked the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "APH England likes to _ on your grave.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Asymmetric Sammy.",
+    "Discordtalia.",
+    "Child slaves.",
+    "Dumb.",
+    "Grace.",
+    "Halloween.",
+    "S p o o p y.",
+    "Symmetric Steven.",
+    "Getting spooky.",
+    "Scoob's soft skin.",
+    "Inktober.",
+    "Rosie's sister.",
+    "Pretty cool not gonna lie.",
+    "October."
+  ],
+  "pack": {
+    "id": "VB5FP",
+    "name": "G R A C E"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 14,
+    "total": 25
+  },
+  "dateStoredMs": 1589282216017
+}

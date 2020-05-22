@@ -1,0 +1,220 @@
+{
+  "black": [
+    {
+      "content": "We usually use _ for our backups.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Studies show people work 100% more effectively after being exposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your IT guy's worst nightmare involves _ paired with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's your user hiding from you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst desktop wallpaper in the company shows _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is geeky but _ is nerdy.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why is the core server so sticky? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey! Why is our admin crying? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's big, black, and lives in your data center. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A user just opened a help desk ticket because they put _ in their SD card slot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your company's security guidelines now prohibit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turning it off and on again didn't help because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's right, I burned down the data center.  How you ask? With _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No IT data center is complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes. I hacked _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Choose now between Megan Fox and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When the sysadmin encountered _ he jumped out of the window.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marketing's life was not the same after IT showed them _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to the next version of Windows Server : _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No. We don't support _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Strange women lying in ponds, distributing swords.",
+    "Hitting refresh just one more time.",
+    "Sonic screwdriver.",
+    "A full copy of the Internet.",
+    "I don't know, I wasn't paying attention but I didn't change anything.",
+    "Vengeful trekkies.",
+    "RTFM!.",
+    "Head of Marketing.",
+    "Blackjack & hookers.",
+    "RNGesus.",
+    "Debugging Layer 8 problems.",
+    "Git good.",
+    "A broken Nerf gun.",
+    "Failing the Kobayashi Maru test.",
+    "Schrödinger’s cat.",
+    "Stephen Hawking.",
+    "4-day-old coffee, reheated.",
+    "Your mom's password.",
+    "A towel.",
+    "A floppy disk from 1989.",
+    "The crazy intern pulling all of the plugs in the server room and running away.",
+    "A red swingline stapler.",
+    "Sheldon's mom.",
+    "Someone being wrong on the Internet.",
+    "Your princess is in another castle.",
+    "Random ASCII porn.",
+    "A 56k modem.",
+    "A desktop computer with a turbo button.",
+    "Sandals and socks.",
+    "Dungeons & Dragons.",
+    "Deadpool.  On a unicorn.",
+    "NetBSD running on a toaster oven.",
+    "Simply pressing CAPSLOCK.",
+    "CHEATER.",
+    "DDoS attacks from your fridge.",
+    "A layer 0 attack.",
+    "4chan.",
+    "Full support for IE6.",
+    "EXTERMINATE.",
+    "Half-Life 3.",
+    "Greybeards.",
+    "A sexy meme of your boss.",
+    "Somebody calculating pi on the Exchange server.",
+    "Playing with my boot sector.",
+    "Russian hackers.",
+    "Apple fanboys.",
+    "Chuck Norris.",
+    "Playing with your joystick.",
+    "Janice in HR who needs three 4K monitors.",
+    "A 22\" CRT monitor.",
+    "42.",
+    "Batman on acid.",
+    "Emergency disconnect with an axe.",
+    "A decent package.",
+    "Nokia 3210.",
+    "MS-DOS.",
+    "/r/pcmasterrace.",
+    "A sweaty band shirt.",
+    "Tentacle porn.",
+    "He-Man.",
+    "Naming servers after error codes.",
+    "Kim Kardashian's iCloud account.",
+    "Nerdgasm.",
+    "Penetration testing.",
+    "Right clicking EVERYTHING.",
+    "Erotic fan fiction of Captain Kirk.",
+    "NSFW content.",
+    "A suspiciously sticky keyboard.",
+    "Random cat GIFs.",
+    "An enormous rack.",
+    "Grumpy Cat.",
+    "An overclocked C64.",
+    "Darkness.",
+    "127.0.0.1.",
+    "HAL.",
+    "Trolls.",
+    "ERP over telnet.",
+    "A USB laser sword from China.",
+    "A printed version of Google Earth.",
+    "KHAAAAAN!.",
+    "A trunk full of Mountain Dew.",
+    "MOAR USB STICKS.",
+    "Desperately pinging Google.",
+    "The newbie cooking crystal meth in the server room.",
+    "A pebkac error.",
+    "Sailor moon cosplay.",
+    "I'm holding that cable RIGHT NOW.",
+    "Coffee shop wifi.",
+    "The CEO.",
+    "Fuckign campers.",
+    "An id=10t situation.",
+    "A flux capacitor.",
+    "Upgrading to ARPANET.",
+    "Brogrammers.",
+    "Darth Vader talking dirty.",
+    "Taylor Swift's YouTube channel.",
+    "My wookiee.",
+    "Flying pop-tart rainbow cat badges.",
+    "Entering rm -rf /.",
+    "Insecure ejection.",
+    "THE INTERNET.",
+    "The dark web.",
+    "The cloud.",
+    "Getting social engineered by a 12 year old."
+  ],
+  "pack": {
+    "id": "YT8HB",
+    "name": "Cards Against Downtime"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 104,
+    "total": 124
+  },
+  "dateStoredMs": 1588500194425
+}

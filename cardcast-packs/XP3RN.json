@@ -1,0 +1,442 @@
+{
+  "black": [
+    {
+      "content": "Only a Sith deals in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let _ die. Kill it, if you have to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I find _ disturbing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did my parents sell me off for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So this is how liberty dies: with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were the chosen one! It was said that you would destroy _, not join them!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you know the truth about your parents? They were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? A man of your talents?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's time for _ to end.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm being torn apart. I want to be free of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twice the _, double the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Congratulations. You are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm one with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm afraid _ will be quite operational when your friends arrive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Show me again, the power of _, and I'll let nothing stand in our way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He has control over _ and _! He's too dangerous to be left alive!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The greatest teacher, _ is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're going to win this war not by fighting _, but by saving _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I have brought peace, freedom, justice, and _ to my new empire!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The soldiers' fates were sealed when _ appeared at the end of the hallway.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Save the Rebellion! Save _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be careful not to choke on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And I thought _ smelled bad on the outside!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rebellions are built on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join me, and together, we can rule _ as father and son!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, that's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been _ a little bit each day since you came back into my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will be with you. Always.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am altering _. Pray I don't alter it further.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see through the lies of _. I do not fear _ as you do.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ does not make one great.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've seen _ only once before. It didn't scare me enough then. It does now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does everyone want to go back to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You will never find a more wretched hive of scum and villainy than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the spark that will light the fire that'll burn _ down!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is constantly being underestimated.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is it they've sent us? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his latest film, Andy Serkis portrays a CGI version of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't like _: it's course, rough, irritating, and it gets everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The circle is now complete. When I left you, I was but the learner; now I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ could only mean one thing: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "At last, we will reveal _ to the Jedi. At last, we will have our revenge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you strike me down, I shall become _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. Hate leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What about the _ attack on _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am _, like my father before me.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    " Starring off into the sunset.",
+    " The Max Rebo Band's hit song \"Jedi Rocks\".",
+    " Verbal abuse.",
+    " Prioritizing an animal over a human child.",
+    " The high ground.",
+    " These super important Sasquatch people that are crucial to the war effort.",
+    " Tightening these restrains.",
+    " Speaking too soon.",
+    " Furries... in space!.",
+    " Handcuffing famed child actor Jake Lloyd.",
+    " Not just the men, but the women, and the children too.",
+    " A big fish.",
+    " Getting knocked the fuck out.",
+    " Space drugs.",
+    " Gambling on a child's life.",
+    " Kamikazeing an aerial vehicle into a populated structure, thereby killing thousands of people.",
+    " Daddy's severed head.",
+    " My first kiss.",
+    " A man with a scrotum where his face should be and a face where his scrotum should be.",
+    " Getting mauled.",
+    " A hallway full of corpses.",
+    " Synchronized marching.",
+    " Jar Jar Binks, blessed be his name.",
+    " Getting radicalized and joining a violent religion to justify mass murder and the annihilation of a democratically elected government.",
+    " Treason.",
+    " Following your dreams.",
+    " Firing my load right in the hole.",
+    " My little green friend.",
+    " St-st-st-stutters.",
+    " Photoshopping Natalie Portman's head onto a naked body.",
+    " Porgs.",
+    " Suddenly turning into a raisin.",
+    " The Jedi way.",
+    " Having a bad feeling about this.",
+    " Getting hit on by a nine year old.",
+    " Disney milking cash off CGI copies of you long after your death.",
+    " Hayden Christensen's attempts to not seem creepy.",
+    " NASCAR but all the cars can fly and children die piloting them.",
+    " Getting betrayed.",
+    " Lighting your best bro on fire.",
+    " Getting frozen.",
+    " Mark Hamill's Twitter account.",
+    " A hilarious name that correlates accurately to your body mass.",
+    " A giant tape worm!.",
+    " Peter Cushing's cheek bones.",
+    " A man of your talents.",
+    " Rolling around on the floor because I am a severed head.",
+    " Impersonating a deity.",
+    " A J.J. Abrams lens flare.",
+    " Concentrating really hard.",
+    " Choking people with your mind.",
+    " An even older hermit man who legitimately is not a pedophile.",
+    " The extinction of the natives.",
+    " Defenestration.",
+    " Waking up to the local pedophile.",
+    " Auditory and visual hallucinations.",
+    " Drug money.",
+    " A wise peace-loving monk that teaches children to kill for the government.",
+    " Failing to think things through.",
+    " Chest-high pants.",
+    " A metaphor for Jesus.",
+    " Unleashing the power of the sun as Sunny D commanded.",
+    " Asthma.",
+    " Ewan McGregor's tight asshole.",
+    " Piggyback riding.",
+    " Sand getting fucking everywhere.",
+    " Unexpected Peter Mayhew.",
+    " Getting stuck in the elevator.",
+    " Dating within the workplace.",
+    " Blowing this thing and going home.",
+    " An army of live teddy bears.",
+    " Whoever Roger is.",
+    " Watching people die.",
+    " Carrie Fisher's dog.",
+    " The inescapable capitalistic powerhouse of Disney.",
+    " Black protagonists.",
+    " Quitting your day job.",
+    " The government totally being able to do something about the slave trade but doing nothing.",
+    " A random coughing fit.",
+    " Growing old, retiring to space Florida, and dying.",
+    " Twincest.",
+    " A sand vagina with a beak.",
+    " It being a trap.",
+    " Blue milk.",
+    " The tragedy of Darth Plageuis the Wise.",
+    " The droids you're looking for.",
+    " My absent father.",
+    " Thousands of battle droids.",
+    " Female role models.",
+    " The sudden, unexplained appearance of an entire army.",
+    " A welcome surprise.",
+    " Liam Neeson's right fist.",
+    " Getting cut in half.",
+    " Drinking straight from the udder.",
+    "Being deep inside an unwilling Taun Taun.",
+    " Getting choked by your sex slave like the bad bad master you are.",
+    " Eloping.",
+    " Hope.",
+    " Intergalactic racial stereotypes.",
+    " Nostalgia.",
+    " Trade negotiations.",
+    " Getting sold to the highest bidder.",
+    " How dramatically damage-immune energy shields would revolutionize warfare.",
+    " Waking up naked and leaking.",
+    " The many people who died to get you to this point.",
+    " Many bats.",
+    " Jetpacking away into the night.",
+    " Daddy touching his wand to mine.",
+    " Going out like a bitch.",
+    " A spooky severed hand!.",
+    " Ancient weapons and hokey religions.",
+    " Poorly timed quips.",
+    " Falling down an elevator shaft.",
+    " Some sort of giant rentable screaming parrot gecko.",
+    " Dying in combat.",
+    " Public executions.",
+    "Making the Kessel Run in less than 12 parsecs.",
+    " Formulating a successful battle plan in less than thirty seconds.",
+    " Being serenaded by a shirtless John Williams.",
+    " Flying half a ship.",
+    " Space nazis.",
+    " The smell of burning flesh.",
+    " Numerous hostages.",
+    " Trying to be cool and then not being cool.",
+    " Gwendolyn Christie's hulking form.",
+    " My point of view.",
+    " A grown man throwing a temper tantrum.",
+    " Linking everything political back to the holocaust.",
+    " Getting smashed like the bad dirty garbage you are.",
+    " Using the force.",
+    " The biggest fish.",
+    " A shitty family reunion.",
+    " Hayden Christensen's career.",
+    " Podracing.",
+    " A fish even bigger than the biggest fish.",
+    " The taste of salt.",
+    " Plot armor.",
+    " Killing younglings.",
+    " An old hermit man who is definitely not a pedophile.",
+    " The representation of African Americans in 80s action cinema.",
+    " Thunderous applause.",
+    " Killing my steed for warmth.",
+    " Invasion.",
+    " Blowing up from the inside.",
+    " Winning.",
+    " The senate.",
+    " The tree that killed my friend.",
+    " Disney's first-ever onscreen anus.",
+    " A thicc boi.",
+    " Fading away into nothingness.",
+    " A vehicle that is just a wheel.",
+    " A double murder government barbecue.",
+    " The length of Adam Driver's face.",
+    " Trying so hard to die.",
+    " Weaponizing the bass drop.",
+    " Test tube babies.",
+    " Being watched.",
+    " A fish.",
+    " Child soldiers.",
+    " Popping LSD so hard you start seeing crystal foxes.",
+    " The sexual appetites of a slug.",
+    " A bigger fish.",
+    " Some sort of emu, I think.",
+    " This sweet rat tail!.",
+    " Carrie Fisher's coke nail.",
+    " Being short.",
+    " Changing your entire world view over the course of a thirty second opera montage.",
+    " The sudden, unexplained disappearance of an entire army.",
+    " Having so much fun killing people.",
+    " Realizing you are not unique.",
+    " Dying because you're sad.",
+    " Cutting a bitch.",
+    " Fratricide.",
+    " Embracing evil for economic gains.",
+    " Dying in moonlight, strangled by your own bra.",
+    " Getting put up for adoption.",
+    " Hiring somebody to hire somebody to do a job that somebody hired you to do.",
+    " Being an orphan.",
+    " Having a hand deep inside of you.",
+    " George Lucas' idea of romance.",
+    " Doing what you're told.",
+    " Losing the will to live.",
+    " An octopus that can read minds.",
+    " Samuel L. Jackson's beautiful, shiny head.",
+    " Attempted suicide.",
+    "George Lucas' thought process.",
+    " Ten years of pent up sexual rage.",
+    " Meeting your father in-law for the first time.",
+    " Hitler but if he was a scrawny ginger.",
+    " An entire orchestral choir's collective screams.",
+    " Harrison Ford grumbling to himself as he breaks his legs."
+  ],
+  "pack": {
+    "id": "XP3RN",
+    "name": "Cards Against Star Wars"
+  },
+  "quantity": {
+    "black": 47,
+    "white": 191,
+    "total": 238
+  },
+  "dateStoredMs": 1588616201447
+}

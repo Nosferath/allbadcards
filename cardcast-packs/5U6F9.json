@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Superman's newest arch enemy: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Form your own super hero team! _, _, and _!",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "5U6F9",
+    "name": "Cards against DC Comics"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588468249261
+}

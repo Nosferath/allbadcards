@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Fully automated luxury gay space _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Communism."
+  ],
+  "pack": {
+    "id": "JGNN5",
+    "name": "Gommunism"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588668441222
+}

@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "If you _ I will stone you to death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I said don't touch my chest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never beat your wife with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Allah hoo ackbah.",
+    "And then I blew up.",
+    "So anyway I started fasting.",
+    "Allllllaaaahhhhhh.",
+    "Gays bad."
+  ],
+  "pack": {
+    "id": "M4QJS",
+    "name": "Muslim Edition"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 5,
+    "total": 8
+  },
+  "dateStoredMs": 1588716547484
+}

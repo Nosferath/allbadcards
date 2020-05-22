@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Do you like it?? I endowed it with my (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika keeps moving Natsuki's (_) collection in the closet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every day I imagine a future where I can (_).",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hit or Miss Monika.",
+    "Effervescent.",
+    "Goth gf Yuri.",
+    "Going feral and stabbing yourself.",
+    "Monika's vore kink.",
+    "Act 2 Yuri.",
+    "Yuri's fursuit.",
+    "Yuri's knife collection.",
+    "Play with me.",
+    "Straight!Monika."
+  ],
+  "pack": {
+    "id": "QMRRV",
+    "name": "doki doki lgbt club"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1588669501488
+}

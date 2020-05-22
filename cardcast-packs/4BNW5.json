@@ -1,0 +1,176 @@
+{
+  "black": [
+    {
+      "content": "A scratch?! Your _ 's off!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By what name are you known? There are some who call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is your quest? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are the Knights who say _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody expects _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you know so much about _ ? Well you have to know these things when you're king, y'know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Consult the Book of _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't know you were called _. Well you didn't bother to find out did you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do witches burn? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother was a _ and your father smelt of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "First we _ him, then we have _ and tea.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Must be a king, he hasn't got _ all over him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You must bring us... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What? Ridden on a horse? You're using _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, but you can't expect to wield supreme executive power just because some watery tart threw a _ at you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I thought your son was a _. That's understandable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You must cut down the mightiest tree in the forest... WITH... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fart in your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our _ ? Well I didn't vote for you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And now, something completely different! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Running away, eh? Come back here! I'll _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help, I'm being oppressed. Come and see the _ inherent in the system!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look, that _'s got a vicious streak a mile wide! It's a killer!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's some lovely _ over there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And after the _ , the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A five ounce bird cannot carry a _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "NI!.",
+    "One... two... five!.",
+    "Llamas.",
+    "Monty Python and the Holy Grail.",
+    "The Holy Grail.",
+    "A witch!.",
+    "A shrubbery!.",
+    "The Black Knight.",
+    "Excalibur.",
+    "The Lady of the Lake.",
+    "Replaying the same scene just for running.",
+    "Being late to your own cue.",
+    "Tim the Enchanter.",
+    "A rabbit.",
+    "The Spanish Inquisition.",
+    "A HERRING!.",
+    "Sir Lancelot.",
+    "French Knight.",
+    "A holy hand grenade.",
+    "King Arthur.",
+    "The Knights who say NI!.",
+    "Nu!.",
+    "The Knights of the Round Table.",
+    "A cloud with legs.",
+    "Sir Galahad.",
+    "'Tis but a scratch!.",
+    "It's just a flesh wound!.",
+    "Amen.",
+    "Getting arrested.",
+    "Some watery tart."
+  ],
+  "pack": {
+    "id": "4BNW5",
+    "name": "Monty Python and the Holy Grail"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 30,
+    "total": 56
+  },
+  "dateStoredMs": 1588786064638
+}

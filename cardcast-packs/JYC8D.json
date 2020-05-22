@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "They should totally make Boku no Pico live action movie, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They should totally make Boku no Pico live action movie, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear my hidden technique: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the most weeaboo thing I've done? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the most weeaboo thing I've done? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Yaoi.",
+    "_.",
+    "Being in a Reverse-Harem.",
+    "_.",
+    "_.",
+    "Yaoi o'clock.",
+    "_.",
+    "Not having Plot Armor.",
+    "_.",
+    "_.",
+    "The Power to turn Trash into Trees.",
+    "_.",
+    "''Plot''.",
+    "_.",
+    "Plot Armor.",
+    "Yaoi.",
+    "Yuri.",
+    "_.",
+    "Weeaboos.",
+    "Sword Art Online."
+  ],
+  "pack": {
+    "id": "JYC8D",
+    "name": "Somewhat Otaku"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 20,
+    "total": 25
+  },
+  "dateStoredMs": 1589330094933
+}

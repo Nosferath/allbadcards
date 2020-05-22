@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "_ sucks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hater: I HATE furries because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the furry cross the road? Because _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night, I did _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen the _ at the furcon yet?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Leaving the fandom.",
+    "Yiff.",
+    "You.",
+    "All of the sweaty fursuits in a trash can.",
+    "The secret plot to take over the world and turn each and every one of Earth's inhabitants into a furry by strapping them into a chair and brainwashing them.",
+    "The tornado started by tail wagging.",
+    "Myself.",
+    "Gays.",
+    "Big."
+  ],
+  "pack": {
+    "id": "wvp62",
+    "name": "The Furry Fandom Deck"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 9,
+    "total": 14
+  },
+  "dateStoredMs": 1588302220195
+}

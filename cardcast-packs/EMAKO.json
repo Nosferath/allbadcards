@@ -1,0 +1,119 @@
+{
+  "black": [
+    {
+      "content": "Go away _ , nobody likes your style!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You cannot get ye _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, folks, you know what that means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buy Kerrek a(n) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's sing a song of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You try killing Trogdor with _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bubs now sells _ at his concession stand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stave it off 1, 2, 3 and now you can count to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your computer room is now my _ space.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next level of Stinkoman 20X6 will have _ as the final boss.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The King of Town's new diet consists of _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The one time Strong Bad had to hug _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Limozeen's new album is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to our 'ool. Notice there is no \"_\" in it. Please keep it that way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Teen Girl Squad's latest adventure involves them meeting _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homsar was raised by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Dangeresque movie involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You say _ , I zader matermorts.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Giving someone the Jibblies.",
+    "Prank calling Marzipan.",
+    "Ali and Ali's Sister.",
+    "Strong Sad's soolnds.",
+    "Bed Axe.",
+    "Onion Bubs.",
+    "Meh.",
+    "Drinking a glass of Suudzu.",
+    "Wear a bikini.",
+    "Buy all our playsets and toys.",
+    "Clapping Party.",
+    "Putting DNA Evidence in a sno cone.",
+    "The foul stench of wet The Cheat."
+  ],
+  "pack": {
+    "id": "EMAKO",
+    "name": "Homestar Runner"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 13,
+    "total": 31
+  },
+  "dateStoredMs": 1588814802808
+}

@@ -1,0 +1,2077 @@
+{
+  "black": [
+    {
+      "content": "What's the best way to kill a darkspawn? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Wynne Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Fenris: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nightlife in Kirkwall usually consists of _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is so depraved that every Orlesian is doing it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Could you ladies please take _ home? They need _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Maker is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you call it when you break into someone's house to kill them and take their stuff? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Alistair Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Don't listen to him, Bianca. You deserve _, just like anyone else.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leliana finally took Morrigan shopping and bought _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Isabela looked upon _ and saw that it was _.\" --Canticle of Isabela, Verse I, Stanza I",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Warden & Co. headed into the Deep Roads to find _, but got sidetracked by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Architect planned to stop future Blights by releasing _ upon Thedas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "King Cailan could not get _, so he settled for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What Aveline and Donnic really did on their Orlesian honeymoon: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Wynne Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sera's most recent prank on the denizens of Skyhold was _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Carver: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Hero of Ferelden must save Lothering from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Cassandra Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flemeth turned into _ to save Hawke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret ingredient used in the Joining ritual is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that you can gain attribute points by _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_. That's Tevinter in a nutshell, isn't it?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, a wildcard who draws strength from _, not _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Sten lost _ near Lake Calenhad when he was ambushed by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"If _ weren't so busy _, then maybe the Blight would have been ended by now.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ is not the only threat we face.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "War Table Mission: Red Jenny: Inquisition Needs _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Isabela carve into Hawke's stairwell? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Iron Bull Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nathaniel Howe redeemed his family name by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Blackwall Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Qun demands _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Alistair Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where everyone is in high school, _ is the popular kid, and _ is the principal.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the latest in Orlesian fashion!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emile de Launcet escaped the Circle just so he could find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Solas Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What goes well with roasted nug? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Sebastian: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I woke up next to _ at The Pearl.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THE MAKER HAS GUIDED YOU ALL TO _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Landsmeet wanted to name _ the new ruler of Ferelden, but their attempt failed due to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_'s _ is our secret weapon against the darkspawn.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Didn't Fenris say that Tevinter wine is made from _ and _?\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cassandra's full name is Cassandra Allegra Portia Calogera Filomena _ Pentaghast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where _ is the Commander of the Inquisition's forces, _ is their diplomat, and _ is their spymaster.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When Isabela got up from her chair, _ fell out from under her clothes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They say that _ is good for the skin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Fenris: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Foul and corrupt are they / Who have taken _ / And turned it against _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ will be no stranger to _. And this war may ask it from all of us.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The real reason the Maker turned his gaze away from the world: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Aveline: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meanwhile, in Denerim ... _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I want to optimize Skyhold for_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cassandra made the Inquisitor promise not to tell Varric about her secret love of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Zevran Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Mayhaps he believes the Inquisition to be a convenient repository for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vivienne's side quest requires you to bring her _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Oghren Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"But my faith sustains me / I shall not fear _ / Should they begin _.\" --Trials 1:1",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ was almost as painful as _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Sera Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ is a cancer in the heart of our land. We are left with no choice but to purify it with _ and _.\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The real reason Vivienne isn't a romance option: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I know Sera was in here, and when I find out what she's done, I'll get back at her by _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Leliana Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"In my experience, everyone pays for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sebastian's latest belt buckle places _ on his crotch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zathrian told the Warden that the only way to cure his clan was by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Cole Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Where's _? Lets ask them to join us!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Chasind have many legends. One of them speaks of _ and their quest to defeat the evils of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Avernus did many horrible experiments, but the absolute worst was when he experimented on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Avvar chieftain was exiled to Tevinter for throwing _ at Skyhold.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Tell everyone that I was killed by _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, all I wanted for the \"Surprise Me\" option were _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Where's _? We need _ now!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What began the Fifth Blight? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Celene had to hide the fact that Briala was secretly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did you get for the \"Surprise Me\" option? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"In peace, _. In war, _. In death, _.\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ and _: A Guidebook by Brother Genitivi.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Little does the Tevinter Imperium know, the only thing they ever truly contributed to history was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Careful, young man, or _ may be the least of your problems.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Vivienne Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Somehow I'd imagined it would be more difficult to track down _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The Wilds are a dangerous place. You are like to be attacked by _, if _ doesn't do away with you first.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"And as the black clouds came upon them / They looked on what _ had wrought / And despaired.\" --Threnodies 7:10",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was the Warden arrested? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"They say you can get anything here. I once got _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the real reason the Qunari invaded Kirkwall? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In their latest quest, Hawke and the Warden must team up to save _ from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Whatever we were before, we are now _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I am a simple creature. I like _. What else is there to be puzzled by?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One must drink _ to become a Reaver.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"She's courting the man. With a fear reserved for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Sandal use to kill all those darkspawn? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the Fereldan national pastime? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I use them to help you ... plus _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than an abomination at a family reunion is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I don't do anything involving _ or _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The fandom is in an uproar because _ was revealed to be an exclusive romance for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Varric's newest novel tells the love story of a lonely broodmother coping with _ ... until she finds love with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Simple killing is a warrior's job. The real dangers of the Fade are _, _ ... _!\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In the Fade graveyard, _ was the Inquisitor's biggest fear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We now have _ and Alistair is still the dumbest one in the party.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Duke of Kellington is known for _ in front of his guests.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Isabela: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Dorian Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hawke and Tallis escaped imprisonment by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"WHO IS _, TEAGAAAAN?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Varric's new book, _, is a thinly veiled allegory for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Blessed are those who stand before _ and _ and do not falter!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Solas Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Vivienne Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"But _? That's beyond heroes. We're gonna need _ .\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sera was never _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Meredith expects _? Then I'll give it to her.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Sten doing in his cage for 30 days? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best thing that Dog can bring the Warden? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"With your luck, the day you go to the beach is the day a fleet of _ invades.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It would not be the first time I woke to _ in my bed.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Dorian Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was my Sloth Demon-induced dream about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you turn your head sideways and squint, you can see _ in the Amell family crest.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flemeth is the infamous Witch of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Yes, I believe _ is what being a templar is about.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will put a stop to this!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is to blame for the Mage-Templar War. Somehow ...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hawke defeated the Arishok by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The mages are bolder since Orsino spoke out. They are _ and _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is so depraved that even Tevinter avoids it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hmm ... Anyone up for a little bit of _? No?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"As I recall from my time as a templar, locking away _ and throwing away the key is plan B.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Morrigan Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Varric Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Bow before _ and be spared.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Zevran Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Cassandra Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The very end of the Tome of Koslun makes extensive and confusing mention of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"(Burp!) M-maybe I shouldn't have eaten _ ...\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Sten Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plot Twist! Blackwall was actually _ the entire time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hawke had dealt with everything from _ to _, but being ambushed by _ was the last straw.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"If you do not wish help from _, young man, perhaps I should have left you on that tower.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dorian and the Inquisitor had to go back in time to prevent _ from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Leliana Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Tell me, where is _ now?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What gets David Gaider through the day? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ magic, the most forbidden and dangerous of magics.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nathaniel Howe's grandfather never returned to his family because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Enough _, Loghain!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The smallest lark could carry it, while a strong man might not. Of what do I speak? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"And I honestly thought _ was the weirdest thing that could happen.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Malcolm Hawke imprisoned Corypheus by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Blackwall Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isabela wrote friend fiction starring _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The mountain village of Haven was once peaceful, but everything changed when they were introduced to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Dorian Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It is _ that allows us to sense the darkspawn.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Jowan was caught _, he was sentenced to death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Morrigan must convince the Warden to kill Flemeth by _. And if that fails, she'll simply bribe them with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Anders: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm just not sure I'd want the Maker seeing me shove _ between my legs every morning.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the first day of Wintersend, my true love gave to me: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Think carefully, Champion. Stand with them and you share their _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Apparently, everyone agrees that a Blight is the perfect time to start _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Aveline: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Merrill always starts her day off by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Sera Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blackwall was arrested and sentenced to death for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I prefer the company of _. My father disapproves.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blood magic is a school of magic where _ powers _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today, Hawke had to solve a dispute between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Zevran Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amell was surprised when Jowan offered them _ so they wouldn't tell anyone that he was dating _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Warden thought bringing Oghren along would be a good idea ... until Oghren started _, that is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst thing you can give Hawke for their birthday? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. _ Greatly Disapproves",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Sten Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Alistair Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the next chapter of Swords and Shields, the Guard-Captain will face _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Magic can kill. Knives can kill. Even _ launched at great speed can kill.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"But I like the idea that you could save the world with _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I cannot wait for that glorious moment. The Grey Wardens _ beside the King of Ferelden to stem the tide of _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Does the word '_' mean anything to you?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Cole Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ must be used to serve man and never to rule over him.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"And there I saw the Black City, its towers forever stained, its gates forever shut. The Golden City has been filled with _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would impress Sera on a first date? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I am weary of the Grey Wardens' ceaseless need for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the best way to clean an eluvian shard? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Corypheus's secret weapon? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'll overlook your own use of _ for now.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, a mercenary strong enough to overcome _, but not _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What did the demons show Cullen to torture him? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Oghren Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You're here to see my brother? Unfortunately, that might be a problem. Eamon is _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koslun is to the Qun as _ is to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Spirit Healer Anders recommends _ for that fresh, clean feeling.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last time The Iron Bull was \"healed\" by the Tamassrans, they used _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Sebastian: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zevran heard nasty things going on behind closed doors. It was probably _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The real reason I got into Dragon Age? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest upgrade to Skyhold allows the Inquisition to harness the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Oghren Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Blessed is the prophetess Andraste, who was purified by _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Varric Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"But if you want twenty volumes on _, this is evidently the place to find it.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Warden was surprised to learn that the only way to kill the Archdemon is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maryden The Bard composed a new song about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ led the charge against the mages using _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You've still got plenty of _ left, Chief.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only person capable of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Iron Bull and Krem launch from the trebuchet? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Those who survive the Joining become immune to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Champion knows better than anyone how deep _ goes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"If he pulls _ out of _, I'm leaving!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"The Chantry lied. The Fade is nothing like _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"If it weren't for _, _ would still be alive!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You should ask to be made a Paragon of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Morrigan's bra is magically held up by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Isabela: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Tell me, Champion, that you have not seen with your own eyes what they can do, heard the lies of mages that seek _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Yes, _ is bad.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's YOUR date for the Winter Palace Ball? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The Grand Cleric has been slain by _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever licked _ in winter?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Inquisitor had to duel _ using _ to be with Josephine.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "An AU where Solas's big secret is that he is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"They are under the command of _, in service to something called '_.'\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was in the Fade last night and I swear I saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Morrigan Disapproves -15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why have a Blight when you can have _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The first to find and slay a wyvern wins the honors of the evening! And _, of course.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Knight-Commander Meredith saw _, she just KNEW that blood magic had to be involved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"There are worse things than _, _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Blood magic? Where do you not see blood magic? My people cannot even begin _ without you accusing them of corruption!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Merrill: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look to the sky / for one day soon /_ will come",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would happen if _ faced off against _? A battle for the ages, I'd reckon.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Leliana Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Morrigan Approves +15",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The people of Kirkwall will mourn your loss, but I will tell them you died battling _: a righteous cause.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Inquisition ran into unforeseen problems when _ found _ and began _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Tranquil can regain their emotions when exposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new specialization requires you to collect _ to unlock it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I remember you, Bann Teagan, though the last time we met I was _ and covered in _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"It's Adam and Eve, not take _ and leave!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Knight-Commander Meredith falls prey to _ and begins _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the Dragon Age concludes, the next century will be called the _ Age.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_? I'll give you 17 copper for it.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the men of Tevinter heard and raised altars to _, and in return were given the secrets of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: the new Tranquil Solution.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Iron Bull Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ and You\": a self-help guide by Flemeth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first lesson that Jowan taught Connor was about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_, _ and _. Ah, reminds me of home.\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. Anders: friendship (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"And grew jealous of _ / They could not feel, could not touch / In blackest envy was _ born.\" --Erudition 2:1",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Iron Bull Greatly Approves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What I have done is protect you mages from _ and _. And I will not stop _! I dare not!\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My _ brings all the templars to the yard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Why don't I give you _ so you can get off _?\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Mage-Templar War completely overshadowed the smaller-scale _-_ war.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The other thing King Cailan should have waited for at Ostagar: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nan used to tell Cousland stories about _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"They cannot be summarized for easy reference in the manner of 'The elves are a lithe, pointy-eared people who excel at _.'\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"My own knight-captain falls prey to the influence of _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The darkspawn are an evil that must be destroyed, it's true ... though not as evil as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What came out of the last rift the Inquisitor closed? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm sorry, Bull, but if we want this alliance to work, we need to let _ die.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Merrill: rivalry (+15)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You're _ and I'm the weird one?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's no way the Orlesians could have predicted the Inquisitor would pull out _ and begin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"An Archdemon is an Old God, awakened and tainted by _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Your fascination with _ and _ will be your undoing, King Cailan.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Cassandra Greatly Disapproves",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Iron Bull lose his eye? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wynne saved Evangeline's life by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isabela Sex Tip: Spice things up by bringing _ into the bedroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was in the small painted box sought after by the Friends of Red Jenny? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the Hero of Ferelden defeated _, they began _ in celebration.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Watching Aveline flirt with Donnic was as painful as _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Solas removed Lavellan's vallaslin, she got Sera to give her some that looked like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I will bring myself sexual pleasure later while thinking about _ with great respect.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the delay was announced, I spent the extra month _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"If you've ever heard of me before, it's probably all been about how I piss _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_? Well, shit ...\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Quiet, you idiot! They're covered with _! What do you think that means?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After _ took in the knowledge from the Well of Sorrows, they learned all there is to know about _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After what Solas did to Lavellan, she couldn't face him. So instead she closed her eyes, turned around, and threw _ at him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even two days after Wicked Grace, Cullen still couldn't find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After being stranded in the Deep Roads for days, Maric & Co. had to eat _ to survive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Pearl has a new option featuring _ doing a striptease.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Waxing Dorian's mustache.",
+    "Isolde.",
+    "Cailan's fascination with glory.",
+    "An extremely avoidable betrayal.",
+    "Eating Alistair's charred rabbit, again.",
+    "Grand Cleric Elthina.",
+    "#ridethebull.",
+    "Hardening Alistair, if you know what I mean.",
+    "The secret dragon romance.",
+    "Awesome slow-mo kill animations.",
+    "Pretty little shemlen children.",
+    "Slurping on Cullen's noodle.",
+    "An angsty porcupine.",
+    "Dancing the Remigold through the darkspawn lines.",
+    "Serendipity.",
+    "Dorian's leather chair.",
+    "Hot qunari OCs.",
+    "Stone Fist.",
+    "David Gaider.",
+    "The Wolf Hunt DLC.",
+    "Blackwall's beard.",
+    "First Enchanter Fiona.",
+    "Zevran's frankly miraculous STD immunity.",
+    "Iron Bull.",
+    "Leading Leliana down a dark, angst-filled path.",
+    "Rigid Boning.",
+    "A sassy elf bottling a horny noble.",
+    "\"community service\".",
+    "An Antivan milk sandwich.",
+    "Flemeth.",
+    "Shipping Knight-Commander Greagoir and First Enchanter Irving.",
+    "Confiscating Sten's cookies.",
+    "Making sure the elves get the short end of the stick, again.",
+    "A poem and an entire expedition of mostly eaten dwarves.",
+    "Tallis.",
+    "Getting friendzoned by Varric.",
+    "The Coryphedick.",
+    "A tearjerker moment featuring Leandra's head.",
+    "Spit-roasted nug with hot sauce.",
+    "Leaving the fate of Ferelden up to your dog.",
+    "Getting high on lyrium dust.",
+    "Crying for days on end because of Solas.",
+    "Getting lost, dying, and losing your pants.",
+    "Samson's inexplicable horde of fangirls.",
+    "Singing sea chanties with Loghain while eating mice made of cheese.",
+    "Dying from a bee sting.",
+    "Cole's ugly hat.",
+    "Slapping Morrigan.",
+    "\"Use the Feather!\".",
+    "Ragequitting when you accidentally kill Zevran.",
+    "Twenty bear asses.",
+    "Tallis's nug call.",
+    "A dwarf who schemes the murder of his entire family.",
+    "Hawke's terrible luck.",
+    "Being a pathological liar.",
+    "Crushing nugs with the Nug Crusher.",
+    "Blargha, the mighty elven warrior.",
+    "Fenris.",
+    "Talking down to elves about elven lore.",
+    "Iron Bull \"horny\" jokes.",
+    "The Chant of Light.",
+    "Destroying an entire culture.",
+    "Ticklish qunari\t.",
+    "An overabundance of fan art.",
+    "Anders drowning himself and Hawke in blood.",
+    "Going on a post-apocalyptic future date with your hot mage husbando.",
+    "Pillowy man-bosoms.",
+    "\"By the Stone!\".",
+    "Frequenting the Blooming Rose.",
+    "Serendipity getting it wherever she can\t.",
+    "Bedroom Olympics.",
+    "A chastity belt.",
+    "The taint.",
+    "Making slurping noises while sucking on Cullen's hair.",
+    "Using magic creatively in bed.",
+    "Disgusted noises.",
+    "Maevaris Tilani.",
+    "Andraste herself.",
+    "Slitting your wrists and dancing naked under the moonlight just to fit in.",
+    "An old shrew.",
+    "Swooping.",
+    "Dorian's blushing buttcheeks.",
+    "A somniari abusing his power to fulfill his sick fantasies.",
+    "Ser Pounce-A-Lot.",
+    "Getting stabbed to death by an elf's ears.",
+    "Arcanist Extraordinaire, Dagna.",
+    "Knight-Commander Meredith.",
+    "Ham from the Anderfels that tastes of despair.",
+    "Dying at Chateau Haine.",
+    "Cool ladies covered in blood.",
+    "Isolde's atrocious accent.",
+    "Sandal and Bodahn's horrific faces in DA2.",
+    "The murder knife.",
+    "Getting stabbed to death with the proper fork.",
+    "Anders's pouty face when you don't fall in love with him.",
+    "The saartoh nehrappan strap-on.",
+    "Leather armor upskirts.",
+    "Fade tongue.",
+    "\"neutral\" lighting.",
+    "The tedium that is the Broken Circle quest.",
+    "A Venatorgy.",
+    "A Tamassran popping your cork.",
+    "Speed griffons.",
+    "Zevran's (lack of) lockpicking ability.",
+    "The Dread Egg.",
+    "Mammaries of the Grey.",
+    "Public theater about the evils of evil.",
+    "Race-gating.",
+    "Iron Bull's missing fingers.",
+    "Dumat, the Dragon of Silence.",
+    "Fine dwarven crafts.",
+    "Bald elves.",
+    "Fine dwarven shafts.",
+    "Solas's legendary elven butt.",
+    "The Skyhold pajamas.",
+    "Calling Lily a fat cow.",
+    "Rolling into the fray like a gigantic pudding covered in gravy.",
+    "The anguished screams of orphans being ripped apart by a magical blast.",
+    "Solas getting turned on by your questions.",
+    "An abundance of freckles.",
+    "Drinking a poultice.",
+    "Anders complaining about the plight of mages, again.",
+    "The Pinkquisition.",
+    "The horns hidden beneath Vivienne's hat.",
+    "Bears.",
+    "Cullenites.",
+    "First Enchanter Orsino.",
+    "A guard contemplating necrophilia.",
+    "Throwing goats at your enemies.",
+    "Vivienne's questionable fashion choices.",
+    "Solas romance angst.",
+    "A tavern whose name is a euphemism for female genitalia.",
+    "A duchess's corpse in a wooden box.",
+    "Showing you why mages are feared.",
+    "Covering yourself in peanut butter so Dog can lick it off.",
+    "Flemeth's Finishing School of the Wilds.",
+    "Demony things.",
+    "Genevieve and Meredith mud wrestling in bikinis.",
+    "Insufficient skill.",
+    "Glorious Tevinter booty.",
+    "Jowan.",
+    "Less than satisfactory qunari hair options.",
+    "Getting Orlaid.",
+    "Elven slaves.",
+    "A zombie kitten army.",
+    "Forcing Alistair to marry Anora.",
+    "Shale.",
+    "A very fierce wedge up.",
+    "Your companions carelessly stepping on bear traps.",
+    "Noodle hair.",
+    "The Rite of Tranquility.",
+    "Running away from the Arishok like a frightened child.",
+    "A baby-faced qunari Inquisitor.",
+    "Accusing a mage of using blood magic.",
+    "Ramming a dragon into another dragon.",
+    "Isabela.",
+    "Felicitating Ruxton Harimann.",
+    "Alistair's terrible sister.",
+    "The Staff of Violation.",
+    "Boneless women flopping in the street.",
+    "Anders's manifesto.",
+    "Getting tattooed by Zevran.",
+    "Keeper Marethari's corpse.",
+    "The quickest, cleanest Harrowing you've ever seen.",
+    "Leandra.",
+    "Slave angst.",
+    "Killing off people's parents so their characters can develop.",
+    "Threatening Nan with death.",
+    "Enough blood to fill a tub.",
+    "Cassandra's frothing rage.",
+    "Stealing a priceless Qunari tome, causing the massacre of hundreds.",
+    "The most romantic candle in Thedas.",
+    "The peas of the Maker.",
+    "Elder Scrolling up the side of a plateau.",
+    "A wedding dress made out of Oghren's pubic hair.",
+    "Licking a lamppost in winter.",
+    "The biggest, Blackest Divine.",
+    "Mediocre smut novels.",
+    "An intimate \"pet the dog\" moment between Corypheus and his dragon.",
+    "Being forced to choose a side in The Last Straw.",
+    "Blowing up small, defenseless animals for the greater good.",
+    "Using the Staff of Violation for more than just spellcasting.",
+    "50 Shades of Grey Warden.",
+    "A Dragon Age dating sim.",
+    "Finding a dead rabbit in Morrigan's unmentionables.",
+    "Hawke's hoarding problem.",
+    "BLOOD MAGIC!!!.",
+    "An angst-ridden mage who lost his cat.",
+    "A belly full of baby Oghren.",
+    "A bow that looks uncannily like a mage staff.",
+    "Enchantment.",
+    "Literally spending 2 hours in the character creator alone.",
+    "Leliana.",
+    "A rude comment left by Mary Kirby.",
+    "Varricmancers.",
+    "Breaking Lavellan's heart.",
+    "Very unhelpful mourning speeches from your lover.",
+    "Big boats.",
+    "An oiled up Tevinter slave.",
+    "Barkspawn.",
+    "Lyrium addiction.",
+    "The hurlocks' questionable redesign in DA2.",
+    "Using blood magic to make people do dirty, dirty things.",
+    "Greased up dwarven wrestling.",
+    "Chunks of dead apostitute.",
+    "An ArchitectXCorypheus slash fic.",
+    "Asking the sky for reinforcements and pie.",
+    "A Tevinter magister's backdoor games.",
+    "Krem de la Crème.",
+    "A demon disguised as an apprentice but clearly a demon.",
+    "Every DA2 party member's dependence on Hawke.",
+    "Nobles killing each other over bragging rights.",
+    "Isabela's loose lips.",
+    "Festooned Orlesian shoes.",
+    "A not-so-grandmotherly Wynne.",
+    "A strong, independent broodmother who don't need no man.",
+    "Stealing all of the Grey Wardens' beards and the power held within.",
+    "A giant darkspawn hamster with aspirations of godhood.",
+    "Petty Orlesian squabbles.",
+    "Cailan's magically non-decomposing body.",
+    "Calling the Spirit of Valor a coward.",
+    "Sister Theohilde.",
+    "Shaving an arrow into your naughty bits.",
+    "A cult of insane cannibals.",
+    "Killing nobles because they raped your friend.",
+    "Eating Schmooples.",
+    "Crying every time you see an egg.",
+    "A blighted sibling left for dead.",
+    "An Alistair voodoo doll.",
+    "The world's ugliest hands.",
+    "Master Blacksmith, Wade.",
+    "Karin Weekes.",
+    "Another damned blank vellum.",
+    "The colorful list of names associated with Corypheus.",
+    "Waving Loghain's severed head in Anora's face.",
+    "Bann Teagan.",
+    "Teasing Cullen until he runs away, blushing.",
+    "Staying in Kirkwall for nearly a decade and never once thinking \"Maybe I should leave.\".",
+    "Dalish superiority.",
+    "Prudish man virgins.",
+    "Aveline Vallen's dry spell.",
+    "Shamelessly linking to NSFW art on character appreciation blogs.",
+    "Getting impaled by the Arishok, if you know what I mean.",
+    "Jepler.",
+    "Those two Grey Wardens that Loghain failed to kill.",
+    "Dwarven regicide.",
+    "Stealing cookies from children.",
+    "Cassandra Pentaghast.",
+    "The evils of blood magic.",
+    "The tiny, calloused fingers of the Tevinter slave children who made this card.",
+    "THE POWER OF THE FROSTBITE ENGINE.",
+    "Elf beards.",
+    "Meredith's shenanigans.",
+    "Executing Loghain in such a manner as to splash his blood on Anora.",
+    "Defiling Andraste's ashes.",
+    "Shaving Varric's chest hair.",
+    "The Crows' unusually high failure rate.",
+    "Little pinchy butts.",
+    "Drandraste the High Dragon.",
+    "The Arishok.",
+    "King Cailan.",
+    "The vast array of romances available to female elves.",
+    "Posters advertising a Skyhold yard sard.",
+    "Godwin in the closet.",
+    "Pushing Mother Giselle down a flight of stairs (for bae).",
+    "Howe's bedroom torture chamber.",
+    "Hawke.",
+    "Carver's lame excuses.",
+    "Skinny dipping in the Well of Sorrows, right there, in front of Abelas.",
+    "Tamlen.",
+    "Kicking the casteless.",
+    "Fenris's dance routines.",
+    "A murdered elf in the alley.",
+    "The Game.",
+    "Egg puns.",
+    "Gollum Leliana.",
+    "Not enchantment.",
+    "Mother Giz.",
+    "Duke Prosper.",
+    "Morrigan.",
+    "Herren and Wade's monogamous relationship.",
+    "The \"refugee tax\".",
+    "Killing Connor because you can't be assed to finish the Broken Circle right now.",
+    "\"No.\".",
+    "The OGB.",
+    "Snickering every time a character says \"taint\".",
+    "Impersonating royalty.",
+    "The Dominant Solas Trash Club.",
+    "Putting your companions in a saddlebag.",
+    "Zevran's disturbing Fade dream.",
+    "The Whys, the Whos, and the Whats.",
+    "Viscount freaking Bran.",
+    "Herren and Wade, beautiful cinnamon rolls.",
+    "Self-insert Hawkes with ridiculous names.",
+    "Having a foursome with Leliana, Zevran, and Isabela.",
+    "Hard in Hightown: Siege Harder.",
+    "Falling three stories onto Solas's desk.",
+    "Merrill.",
+    "Screwing the hobo elf.",
+    "Putting a dress on Anders and calling him a templar.",
+    "The creepy kid in Haven.",
+    "Patrick Weekes.",
+    "Duke Gaspard convulsing on the floor as a horde of bees emerge from every orifice in his body.",
+    "Zevran's leather fetish.",
+    "Using the Arishok's skull as a gravy bowl.",
+    "Making Skyhold as anti-shemlen as possible.",
+    "An Orlesian cheese wheel.",
+    "Andraste's hairy eyeball.",
+    "Smooth Kreminals.",
+    "Leandra's severed limbs.",
+    "Asking your brother to join you.",
+    "Stabbing Sebastian instead of Anders.",
+    "Small children launched at great speed.",
+    "Sieging harder.",
+    "Three goats and a sheaf of wheat.",
+    "Cullen.",
+    "Getting Anders.",
+    "Resurrecting Leandra using even more forbidden magic.",
+    "The de Launcet family.",
+    "Cheating in the Proving.",
+    "Lady Man-Hands.",
+    "Annulling the Circle.",
+    "Putting the fear of Dog into them.",
+    "The gigantic horde of darkspawn Loghain didn't kill.",
+    "MAYHEM.",
+    "Poorly made wind noises.",
+    "An orgasmic character creator.",
+    "Playing with Josephine's doll collection.",
+    "Sealing beer casks with blood magic.",
+    "The anguished screams of your party when you die in battle.",
+    "Getting ninjamanced by Alistair.",
+    "Magical anti-drug breast milk.",
+    "The Mother's cackle.",
+    "Lithe elf thighs.",
+    "AssQuisitor.",
+    "Sera.",
+    "Leliana rapping while Schmooples DJs in the background.",
+    "Dorian's sideboob.",
+    "Blackwall.",
+    "Mastering the taint.",
+    "The many colorful and distinct ways to pronounce \"eluvian\".",
+    "The darkspawn.",
+    "The red lyrium idol.",
+    "Teryn Loghain's severed head.",
+    "Iron Bull's banana fixation.",
+    "Oghren's junk.",
+    "Meredith's dramatic entrance.",
+    "Dorian Pavus.",
+    "Wyvern mating calls.",
+    "The credit Dorian's tongue gets him.",
+    "The graceful butt movements of a golem.",
+    "The secret Abelas romance.",
+    "Cassandra's jaw.",
+    "Satisfying a demand of your Qun.",
+    "Zevran\t.",
+    "The Hero of Ferelden.",
+    "Anders blowing everyone in the Chan--wait ...",
+    "Demonically possessed sheep.",
+    "Soldiers, contacts, agents ... oh my.",
+    "Loghain.",
+    "Recycled dungeons.",
+    "Literally falling through 3 stories of wood and stone because Bull thrust too hard.",
+    "MAKER NOOOOO!!!.",
+    "Groping your grinder.",
+    "Solas.",
+    "Whorelais.",
+    "Sten.",
+    "Harvesting EVERY part of the dragon.",
+    "A jar of bees.",
+    "Too many breeches.",
+    "Sticking the Revered Mother in the army.",
+    "Aveline Vallen\t.",
+    "Branding casteless children for fun.",
+    "An elven revolution.",
+    "A ghast hole.",
+    "A halla that is, in fact, NOT a halla.",
+    "Templar apologists.",
+    "A new definition of \"sylvan wood\".",
+    "Branka.",
+    "Arl Rendon Howe.",
+    "MAKER'S BREASTS!.",
+    "Josephine Montilyet.",
+    "Donnic.",
+    "Apostitutes.",
+    "Shale's hatred of pigeons.",
+    "The biggest, blackest Emporium.",
+    "The overnight murder of an entire noble bloodline.",
+    "Cullen's questionable enthusiasm over getting Samson out of his armor.",
+    "Fereldans.",
+    "The Maker and Andraste fangirling over Cullen.",
+    "Varric's sassy walk.",
+    "Chasind sack mead.",
+    "Female qunari fetishists.",
+    "Wynne questioning your life choices.",
+    "Zevran's hurt puppy voice when you consider massacring the Dalish.",
+    "Glistening for your master.",
+    "A bunch of qunari tripping over their own dicks.",
+    "A deep, seething hatred for pigeons.",
+    "Tevintercourse.",
+    "Homeless people eating cats.",
+    "The Divine.",
+    "Shanking your Jory.",
+    "Kicking Corysyphilis in the danglebag.",
+    "Cullenlingus smut.",
+    "Manhandling the urchin.",
+    "A game of strip Wicked Grace.",
+    "Slitting children's throats so they won't suffer a terrible darkspawn-delivered death later.",
+    "Picking the sarcastic option every time.",
+    "Plaidweave.",
+    "Practicing blood magic.",
+    "Cailan's dramatic ogre death.",
+    "The Dread Wolf.",
+    "Orlesian legend, Aveline.",
+    "Bethany.",
+    "Wynne's magical bosom.",
+    "Glorious butt capes.",
+    "Awesome companion posters.",
+    "Zevran and Isabela eternally having threesomes with heroic protagonists because they're too scared to confess their feelings for each other.",
+    "Bethany's mood swings.",
+    "Carver.",
+    "The sloth demon's insultingly easy riddles.",
+    "Contracting the taint from sharing needles.",
+    "The Inquisition.",
+    "Betraying Alistair because he annoys you.",
+    "PANTS THAT EAT YOUR EYEBALLS.",
+    "An allegory about letting your whole family die\t.",
+    "The reanimated remains of Hawke's mother.",
+    "Being turned on by the Arishok screaming at you.",
+    "Hot dorf action.",
+    "Crushing eggs in your hand vengefully.",
+    "Being aroused by the Mother.",
+    "Stabbing people with Celene's dress.",
+    "The Dark Ritual.",
+    "Listening to more of Wynne's nagging.",
+    "Mary Kirby.",
+    "Necromancy.",
+    "Blowing up the Chantry.",
+    "Brooding over your dead mentor.",
+    "Ancient elven god dragon mommy issues.",
+    "Sela petrae.",
+    "Sassy Hips Danarius.",
+    "Sneaky witch thieves.",
+    "Talking darkspawn.",
+    "Alistair's unnatural love of cheese.",
+    "Guilt-tripping Isolde because you're an elf.",
+    "Oghren's nasty rash.",
+    "Awful sneaking mechanics.",
+    "A lowly drunk who was once a prince.",
+    "Blackwall's grizzly taint.",
+    "Vivienne.",
+    "Andraste's granny panties.",
+    "Resetting the game because of what Hawke just said.",
+    "Torn trousers.",
+    "Hawke's dead siblings.",
+    "Isabela's friend fiction.",
+    "The Arishok's amazing rack.",
+    "Tearing someone's arms off.",
+    "That poor, lonely, huggable Cole.",
+    "Being forced to obey your mother for the rest of eternity.",
+    "Lady Mai Bhalsych of Korse.",
+    "Ohhhh-gren.",
+    "Drunk dwarves on mabari chariots.",
+    "Unwashed apostate hobos.",
+    "A one-eyed, long-horned, raging magic people beater.",
+    "Palvo's Cocksure Cleaver.",
+    "Anything involving children or animals.",
+    "Sebastian's Andraste codpiece.",
+    "Your inability to save Tamlen.",
+    "Comparing Dragon Age to the Witcher.",
+    "Captain William \"Iron-Ass\" Tully.",
+    "The undoubted sexual tension between Morrigan and Sten.",
+    "Punching a bear because Andraste did not explicitly prohibit it.",
+    "Morrigan's unquenchable thirst for Warden cock.",
+    "Scribbling penises on the Litany of Adralla.",
+    "Mourning Cullen's sexy lion helmet.",
+    "Grabbing a handful of Cullen ass.",
+    "Pleasuring yourself sexually with great respect.",
+    "Getting bent over a desk after asking for directions.",
+    "Donnic pulling a baby out of his ass.",
+    "The Pure Bitch Braid.",
+    "Blackwall not washing his beard after eating the Quizzy out.",
+    "Maric's uncontrollable elf-seeking penis.",
+    "Slutty pirates.",
+    "An orgy involving two nugs and a dwarf in drag.",
+    "Fade anal.",
+    "Awkward tranquil sex.",
+    "The implied sex Solas had with Fade spirits.",
+    "Going elbow-deep in wyvern shit.",
+    "Punching Elthina in the boob because she WON'T DO ANYTHING.",
+    "Fanfiction starring that one Orlesian guy who grabbed Cullen's ass and Cullen.",
+    "Fenris's dick tattoos.",
+    "That bitch, Sister Petrice.",
+    "A Legion of the Dead celebratory orgy.",
+    "Awkward sex singing.",
+    "Cullen's sex loft.",
+    "\"Bullshit!\".",
+    "Not knowing what to do about a boner for three years.",
+    "Slave sex.",
+    "A blood magic-induced boner.",
+    "The Dread Dick.",
+    "The Elder Oak's wooden cock.",
+    "A thousand gallons of darkspawn sperm.",
+    "Broadcasting your sexual happenings to the entire party unwittingly.",
+    "Corypheus's withered old darkspawn schlong.",
+    "Anders's cat piss- and sewage-scented pillow.",
+    "Selling dragon dildos to Orlesian nobility.",
+    "Isabela's bedpost, marred by years of scratching, cuff marks, notches, and various fluids.",
+    "Punching Anders in the face.",
+    "Fade spirit sexings.",
+    "Having sex with a darkspawn ... for science.",
+    "The heady blend of power, danger, intrigue and sex that permeates Orlais.",
+    "Literally pissing in the Urn of Sacred Ashes.",
+    "Duncan's sexy sex beard.",
+    "Bouncing tits.",
+    "Cullen apologizing to a chair after bumping into it.",
+    "The sexual tension between Irving and Greagoir.",
+    "The tits of my ancestor.",
+    "Hundreds of Solavellan shippers sobbing every time an interview is released.",
+    "Wynne mods that make her look like a stripper.",
+    "Cassandra's iron boobs.",
+    "Magical fisting.",
+    "Princess Piss.",
+    "The bisexuality that never came.",
+    "Curing sexually transmitted diseases with magic.",
+    "A metaphor about the destruction of Haven wherein Haven is a pissed-upon carpet.",
+    "Motherfuckers who need Andraste.",
+    "Crying on Solas's dick.",
+    "Infamous mage terrorist, Anders.",
+    "Alistair, the bastard.",
+    "The implied sexual relationship between Saemus and Ashaad.",
+    "Being sexually attracted to Kristoff's corpse.",
+    "Corypheus's sexy striped lingerie.",
+    "Steaming wyvern shit.",
+    "Sexy village mayor Murdock.",
+    "A well toned qunari ass.",
+    "Describing a qunari's dick as a \"large weapon of flesh\".",
+    "Steamy sex on a leather chair.",
+    "Orlesian balls.",
+    "Sex poetry.",
+    "The sole ass.",
+    "The fucking Fade.",
+    "Orzammar's shitty outdated customs.",
+    "Blindly following the orders of an obviously crazy superior.",
+    "Fighting shite with shite.",
+    "Bitchy!Tabris.",
+    "Whiny little bitch, Sebastian.",
+    "Straight up Iron Bull porn.",
+    "Sexy Teagan.",
+    "The Dread Wolf's hairy nutsack.",
+    "Iron Bull schlong speculation.",
+    "Coryphe-shitheel.",
+    "Isabela's half-exposed ass.",
+    "Antivan dungeon porn.",
+    "Sticking a thumb in Donnic's ass.",
+    "Firing a crossbow into the air while balls deep in a squealing nug.",
+    "Breaking up with Zevran to further your own personal agenda like an asshole.",
+    "That shithole, Kirkwall.",
+    "Exposed Avaar man-titty.",
+    "The homoerotic tension between Maric and Loghain.",
+    "Andraste's great, flaming ass.",
+    "Gay Orlesian incest.",
+    "The obvious sexual tension between Meredith and Orsino.",
+    "Behaving erratically after getting caught reading smut fiction.",
+    "Being able to actually import your fucking saves.",
+    "Hot hate sex.",
+    "Working after hours so everyone can ride the Bull."
+  ],
+  "pack": {
+    "id": "VN5A2",
+    "name": "Cards Against Dragon Age"
+  },
+  "quantity": {
+    "black": 299,
+    "white": 566,
+    "total": 865
+  },
+  "dateStoredMs": 1588790541025
+}

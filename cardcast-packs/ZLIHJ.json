@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "Remember to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's amazing how the human body can live without _ , you know?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The  _  Of '87.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get Ready for _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bonnie.",
+    "120 dollars.",
+    "Freddy.",
+    "Chica.",
+    "The Phone Guy.",
+    "Foxy.",
+    "Knight.",
+    "6 am.",
+    "Robodick.",
+    "Yiffing."
+  ],
+  "pack": {
+    "id": "ZLIHJ",
+    "name": "Five  Nights at Freddy's"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 10,
+    "total": 14
+  },
+  "dateStoredMs": 1588539554421
+}

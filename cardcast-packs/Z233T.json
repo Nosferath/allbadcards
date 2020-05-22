@@ -1,0 +1,573 @@
+{
+  "black": [
+    {
+      "content": "Take it, friends. Arm yourselves with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I DEFY YOU, _ MAN!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And if you look to your left, you'll see _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait 'till Mr. Krabs finds out you're a... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saw _ in the Fly of Despair.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got a crisp _ for the next fella to take a bath in this house!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PLANKTON: 1% EVIL, 99% _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We should take _, and push it somewhere else!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Magic Conch Shell. what do we need to get out of the Kelp Forest? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WE THREW OUT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life is just a big bowl of fancy _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Free _ Day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And everyone pretends to like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sounds like a lot of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good afternoon, sir. Could we interest you in _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why must every 11 minutes of my life be filled with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Christmas feels like _ to me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick! Get in the anti-_ circle!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! What, did I say the secret word?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A sweater made of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That thing is a _ on a bun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? MORE LIKE BELONGS IN THE TRASH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IS JUST A MYTH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ _ Island.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who lives in a pineapple under the sea? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clean _, Mr. Krabs!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not just _! It's _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Patrick, your _ is showing!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ON STICK MUST DIE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patrick! _ had a baby!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've seen _ before. 11 times, as a matter of fact.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. In a salmon suit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is unfair!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I anything can't do right since because _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a robot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But it's based on a real _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Note to self: Watch out for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I'm lucky, Mr. Talent will rub his tentacles on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SpongeBob is the only guy I know that can have fun with _... FOR TWELVE HOURS!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plankton! That's not what _ is all about!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This ship belongs to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How about a glass of our finest _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What could be worse than a giant paint bubble? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you feeling it now, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was #1!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's it? That's the lost episode? THAT WAS JUST A BUNCH OF CHEAP _ CYCLES!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going to show _ to everyone in town!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You don't need a license to drive _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"My sandwich tastes like _!\" \"My sandwich IS (same card)!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ MAN TAKE ME BY THE HAND",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alaskan Bull _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ an instrument?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He burnt _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Is this the Krusty Krab? No, this is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ TEAM RULES!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret ingredient is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ prevents scurvy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've soiled the good _ name! SOILED IT! SOILED IT! SOILED IT!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What I learned in Boating School is _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "And this time, there's gonna be so much _ that he'll drown in it! DROWN IN IT!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That hat makes you look like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ happened to Mr. Puff.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, _ is illegal on other planets!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was a wimp before _! Now I'm a jerk, and everybody loves me!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Krabby Patties.",
+    "Three more words.",
+    "Mermaid Man.",
+    "An Anti-Seabear circle.",
+    "Blowing bubbles.",
+    "Leif Erikson day.",
+    "Moar Krabs.",
+    "The semi-medium-easy-hard way.",
+    "Patrick.",
+    "Flatts.",
+    "A worthless piece of paper.",
+    "Chip.",
+    "The world's smallest violin.",
+    "Krabby Land.",
+    "Imagination.",
+    "A snow double-helix.",
+    "Boomerang Pet Ball.",
+    "Robot Pirate Island.",
+    "Sandy.",
+    "Two giant paint bubbles!.",
+    "Mr. Krabs' first dime.",
+    "Root beer.",
+    "Squidward's \"unsure\" face.",
+    "The Haunted Mattress.",
+    "A $40, Potty. A $40  VALUE!.",
+    "Mr. Squidward.",
+    "Licking doorknobs.",
+    "Patrick's dream.",
+    "The panty raid.",
+    "Tartar sauce.",
+    "The sorta hard with a touch of awkward-easy-difficulty-challenging way.",
+    "Bubbles.",
+    "Shell City.",
+    "Annoy Squidward Day.",
+    "Plankton's record player.",
+    "A Double Triple Bossy Deluxe on a raft, 4x4, animal-style, extra shingles with a shimmy and a squeeze, light axle grease, make it cry, burn it, and let it swim.",
+    "FINLAND!.",
+    "The suds.",
+    "The Dirty Bubble.",
+    "Wearing three pairs of underwear.",
+    "Rippy flippy diposhibo MR. KRABS' WALLET!.",
+    "Pearl.",
+    "Turning into a snail.",
+    "A giant paint bubble.",
+    "Squidward's hopes and dreams.",
+    "Fine dining and breathing.",
+    "Rock Bottom.",
+    "11 minutes.",
+    "Being smeckledorfed.",
+    "KRUSTY KRAB UNFAIR MR KRABS IS IN THERE STANDING AT THE CONCESSION PLOTTING HIS OPPRESSION.",
+    "Imagination.",
+    "An idea that might just be crazy enough... TO GET US ALL KILLED!.",
+    "Mr. Puff.",
+    "Mr. Talent.",
+    "Larry.",
+    "Two naked guys fighting over a can of paint.",
+    "Clean tables, Mr. Krabs!.",
+    "A glass of our finest shampoo.",
+    "Losing your nametag.",
+    "A BIG BABY who wears DIAPERS! And sucks his thumb, and plays with dolls, and, um... wears pajamas with feet in 'em, and carries his, um... blankie around, and uh...",
+    "The Bunny Hop.",
+    "FIRMLY GRASP IT.",
+    "Mr. Krabs chewing food for an old man.",
+    "The F.U.N song.",
+    "The words of Grandpa SquarePants.",
+    "The Hash-Slinging Slasher.",
+    "Chocolate? DID YOU SAY CHOCOLATE?.",
+    "NAME AND ADDRESS WITHHELD.",
+    "Patchy the Pirate.",
+    "Bubble Buddy.",
+    "Big Fat Meanie.",
+    "Weenie Hut Jr's.",
+    "24.",
+    "Bikini Bottom.",
+    "Some dumb mail fraud scheme or hijacking.",
+    "The late Smitty Werbenjaegermanjensen.",
+    "The perfume department.",
+    "OCEAN MAN TAKE ME BY THE HAND.",
+    "I'M A GOOFY GOOBER YEAH.",
+    "The Campfire Song Song.",
+    "Ja, buns und thighs.",
+    "A burnt shake.",
+    "A heart attack on a bun.",
+    "Secret messages in bubbles.",
+    "Squilliam.",
+    "::dolphin noise::.",
+    "Thirteen words you should never use.",
+    "Bubble Bass.",
+    "An elephant-shaped bubble.",
+    "Stealing a balloon.",
+    "Tartar sauce.",
+    "Squirrel jokes.",
+    "Nothing.",
+    "Being voted Most Likely to Suck Eggs in high school.",
+    "Patchy's instructional video series, only $29.95.",
+    "Playing with a reef blower.",
+    "A cardboard box.",
+    "Patrick's genius.",
+    "A dirty, stinky, rotten, friend STEALER!.",
+    "Toast.",
+    "Dirty Dan.",
+    "Mystery.",
+    "Clean dishes, Mr. Krabs!.",
+    "Gary.",
+    "Time cards.",
+    "Literally living under a rock.",
+    "A copy of the peace treaty.",
+    "Tax exemption.",
+    "Super Weenie Hut Jr's.",
+    "OVERTIME?.",
+    "Opposite day.",
+    "A pie you bought from some pirates for $25 that's actually a bomb.",
+    "A big bowl of fancy assorted cashews.",
+    "IWATG deleted scene.",
+    "Mr. Krabs' Doll-O-Rama.",
+    "Fire underwater.",
+    "The very first Christmas.",
+    "Anti-Seabear undergarments.",
+    "The whole bald vs. shaved debate.",
+    "Going on a strike.",
+    "The Krusty Krew.",
+    "RECTANGLES.",
+    "White stuff.",
+    "Mrs. Puff.",
+    "SpongeTron.",
+    "Mayonnaise.",
+    "The open window maniac.",
+    "Cheap walk cycles.",
+    "A butter-fingered pink thing.",
+    "Fun.",
+    "Sweet victory.",
+    "Dancing to loading zone announcements.",
+    "Chocolate that you rub on your skin and it makes you live forever.",
+    "The Krusty Krab pizza.",
+    "G7?.",
+    "Weenie Hut General.",
+    "Bran Flakes.",
+    "The most secrety secret in all of secretdom.",
+    "Pretty patties.",
+    "The Salty Spitoon.",
+    "A striped sweater.",
+    "Kelp Fries.",
+    "Manray.",
+    "The Chum Bucket.",
+    "Mr. Krabs.",
+    "Patrick's wallet.",
+    "YOUR CLOTHES.",
+    "The Sponge Treatment.",
+    "Money-AY!.",
+    "A closeup of a horsefly buzzing.",
+    "Jellyfish Fields.",
+    "Performing a ritual to attract customers.",
+    "Free Balloon Day.",
+    "Checks with little poodles on them.",
+    "The ugly barnacle.",
+    "SpongeBob's other bottom.",
+    "Beef Wellington.",
+    "Losing your nametag.",
+    "Free-form jazz.",
+    "A bowl of onions.",
+    "Used napkin.",
+    "The Fly of Despair.",
+    "A commercial with 28 scenes, an understudy for both Mr. Krabs and the Krusty Krab, a professional crew, and a pile of useless junk.",
+    "Squidward.",
+    "The carnival.",
+    "Uranium... BOMBS!.",
+    "The Dutchman's sock.",
+    "A floating shopping list.",
+    "Gold Team.",
+    "Eels and Escalators.",
+    "Another piece of paper.",
+    "Coral bits.",
+    "The Kelp Forest.",
+    "Barnacle Boy.",
+    "DoodleBob.",
+    "Forgetting the pickles.",
+    "A boulder.",
+    "A sailor's promise.",
+    "The fork on the left.",
+    "Plankton.",
+    "MARTY, I'M SCARED!.",
+    "Alpha Team.",
+    "Squidward's interpretive dance.",
+    "Club SpongeBob.",
+    "Jellyfishing.",
+    "The Red Baron.",
+    "A magic pencil.",
+    "Subliminal messages.",
+    "25.",
+    "Invisible Spray.",
+    "The Krusty Krab.",
+    "Alaskan Bull Worm.",
+    "Krabby the Clown.",
+    "A nice cereal box.",
+    "A bowl of nails without any milk.",
+    "A flying ice cream truck.",
+    "Tentacle Acres.",
+    "A box of Kelpo.",
+    "A giraffe.",
+    "A round snow angel.",
+    "Inflatable pants.",
+    "SPONGEBOB SQUAREPANTS.",
+    "The Magic Conch.",
+    "Learning how to open a jar.",
+    "A sea bear.",
+    "AND THE NEXT DAY AND THE NEXT DAY AND THE NEXT DAY AND THE NEXT DAY.",
+    "The poop loop.",
+    "Leif Erickson Day.",
+    "HOOPLA!.",
+    "SpongeBob.",
+    "Missing the bus.",
+    "Krusty Krab Funfair.",
+    "Coin-operated self-destruct.",
+    "Literal championship boxing.",
+    "Educational television.",
+    "King Neptune.",
+    "A fried boot.",
+    "P.O.O.P.",
+    "The can opener.",
+    "Daytime television.",
+    "The Patty Wagon.",
+    "Barnacles.",
+    "My best friend Squidward in a salmon suit.",
+    "Washing an old person.",
+    "A sweater made of eyelashes.",
+    "Penny.",
+    "The Seven Trials of Monkey Lagoon.",
+    "Ice.",
+    "Kicking.",
+    "An ice cream-induced hang over.",
+    "Anchor Arms.",
+    "The Flying Dutchman."
+  ],
+  "pack": {
+    "id": "Z233T",
+    "name": "The Mayonnaise Deck"
+  },
+  "quantity": {
+    "black": 65,
+    "white": 232,
+    "total": 297
+  },
+  "dateStoredMs": 1589081918035
+}

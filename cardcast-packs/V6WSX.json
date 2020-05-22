@@ -1,0 +1,117 @@
+{
+  "black": [
+    {
+      "content": "If _ is trouble, don't you want one on your side?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meet Frank and Sadie Doyle, headliners on the society pages, toast of the upper crust. And oh yes, they _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a(n) _ now?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sadie, do we know a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Set your radio's dial to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Famous last clown words.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frank _ Doyle...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This bee is indoors, circling like (a) _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She had a body like the Indy 500, all _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Howie, you _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sadie's just invented a new cocktail called: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A TV show Frank and Sadie would watch is: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ , god over _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sadie's favourite sound is: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't _ , darling, not in this outfit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who cares what evil lurks in the hearts of men? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A TV show Frank and Sadie would not watch.",
+    "That time a bee got in here.",
+    "A very small air shark.",
+    "A ghost of a pterodactyl.",
+    "Announcing the sound effects.",
+    "The kind of dame they write similies about.",
+    "Goat Legs the Creepy Boy.",
+    "\"Let me eat your hands\".",
+    "Drink happy thoughts!.",
+    "Frank and Sadie's love of auctions, which they are constantly talking about.",
+    "*clink*.",
+    "Dave Henderson's propensity to get bitten by things.",
+    "Vampire law.",
+    "A genie wish with an ironic twist.",
+    "Sadie's lists.",
+    "Carlysle Ravencastle, Dark Husband of the Midnight.",
+    "A lot of exorcisms.",
+    "Unless evil's carrying the martini tray, darling.",
+    "An apocalypse 'young lady'.",
+    "Nightmares the Clown.",
+    "Communing with the 'spirits'."
+  ],
+  "pack": {
+    "id": "V6WSX",
+    "name": "Cards Beyond Belief"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 21,
+    "total": 37
+  },
+  "dateStoredMs": 1589086577775
+}

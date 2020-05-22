@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Kaoru's new line is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello happy worlds new phrase is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fueee...",
+    "Lets go lesbians.",
+    "Kao-chan.",
+    "Chi-chan.",
+    "Fleeting.",
+    "All of Kaoru's little kittens.",
+    "All the gays."
+  ],
+  "pack": {
+    "id": "ZWHQ3",
+    "name": "Bandori"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 7,
+    "total": 9
+  },
+  "dateStoredMs": 1588146333507
+}

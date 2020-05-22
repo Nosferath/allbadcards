@@ -1,0 +1,95 @@
+{
+  "black": [
+    {
+      "content": "Well, there's an Ogg for everything. One of the Ogg cousins even does _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Greebo chased off now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Granny Weatherwax doesn't hold with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The people of Lancre run and hide from two things: Nanny Ogg's singing, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _? That's a witch's job.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do witches even do? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mad Stoat village.",
+    "Midwifery with bells on.",
+    "*whispers* the Lords and Ladies.",
+    "Lancre.",
+    "The Leaping Mountain.",
+    "The bag of muscles, bones, and scar tissue that is Greebo Ogg.",
+    "Nanny Ogg's singing.",
+    "Sean Ogg.",
+    "Hodgesaargh.",
+    "A cat called Greebo.",
+    "The dangerous sport of falconry.",
+    "Borrowing some bees.",
+    "Headology.",
+    "Eskarina Smith.",
+    "Verence II.",
+    "Brass Neck village.",
+    "Having gorgeous hair.",
+    "The Ramtops.",
+    "Various mystic jewellery and accessories.",
+    "The Ogg clan.",
+    "One's very own Almanack.",
+    "Going from Fool to King.",
+    "Witches?.",
+    "A good deal of headology.",
+    "Mustrum Ridcully, of fine Bad Ass stock.",
+    "Lancre Castle.",
+    "Bad Ass.",
+    "Your mother's unfortunate spelling on your birth certificate.",
+    "Giving your broomstick a jump start.",
+    "Galder Weatherwax.",
+    "Agnes Nitt.",
+    "Distrusting books.",
+    "Perdita X Nitt.",
+    "REAL witching.",
+    "The Hot Dang settlement.",
+    "Slice, where marrying your cousin is seen as posh.",
+    "Watching your cat fight off bears, wolves, and tigers, then calling him your sweet little boy.",
+    "Esmerelda Margaret Note Spelling of Lancre.",
+    "Being forced into being the good witch.",
+    "Witches galore.",
+    "Being a great singer.",
+    "Razorback.",
+    "A cat called You.",
+    "Granny Weatherwax.",
+    "Magrat Garlick.",
+    "A sign that says, \"I aten't dead.\".",
+    "Nanny Ogg.",
+    "Creel Springs.",
+    "Being a godmother."
+  ],
+  "pack": {
+    "id": "XJWWQ",
+    "name": "Life On The Disc: Ramtops Edition"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 49,
+    "total": 55
+  },
+  "dateStoredMs": 1589035221100
+}

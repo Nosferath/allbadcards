@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "colin_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Colin_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "kirk_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ronin_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ronin_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Allan_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirk_is",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Allan_is",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc.",
+    "Thicc."
+  ],
+  "pack": {
+    "id": "5DCQE",
+    "name": "racist"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 20,
+    "total": 28
+  },
+  "dateStoredMs": 1589277059947
+}

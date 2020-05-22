@@ -1,0 +1,131 @@
+{
+  "black": [
+    {
+      "content": "In the True Pacifist ending, Frisk decides to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spaghetti always tastes great with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pockets full? Probably need too _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bought Undertale because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secretly, Flowey also enjoys _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cinnamon or butterscotch? How about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Napstablook gloomy?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, restores 10 HP",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ship a _ and a _ and I hate it!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If your HP reaches 0, you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's show buisness, baby!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Name the fallen human: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genocide Run. Pros:_ Cons:_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I shall capture the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ACT: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What crack ship do we have now? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did you see at Grillby's? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eating spaghetti with Papyrus.",
+    "The ability to make spaghetti.",
+    "Papyton.",
+    "Alphys' dirty kinks.",
+    "Spoopy.",
+    "Skelebros.",
+    "Having zero redeeming qualities.",
+    "Listening to Spider Dance on repeat.",
+    "Crunchy leaves as a save point.",
+    "CoolSkeleton95.",
+    "\"Friendliness Pellets\".",
+    "Because you didn't read the signs.",
+    "Dodging bones.",
+    "GEEEEEEEEEEEEEEEEETTTTTTTT DUNKED ON.",
+    "Falling through the floor only to find a ribbon.",
+    "Flowey's creepy boss form.",
+    "Missing the Spiders' Bake Sale.",
+    "Nyeh-heh-heh!.",
+    "Mad Dummy's awful swearing record.",
+    "Striped Sweaters.",
+    "Eating all the donuts before the Spiders' Bake Sale.",
+    "The fact Toriel's name is a pun and that's sad.",
+    "All my friends are dead.",
+    "Sans' puns.",
+    "Monster Candy, take one.",
+    "Snails.",
+    "The question whether Toriel's a goat or a cow?.",
+    "Putting a hotdog on your head.",
+    "Trying to find a cool UnderNet username.",
+    "Dating a skeleton."
+  ],
+  "pack": {
+    "id": "WFRQC",
+    "name": "Undertale Against Humanity"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 30,
+    "total": 47
+  },
+  "dateStoredMs": 1589525586442
+}

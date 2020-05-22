@@ -1,0 +1,68 @@
+{
+  "black": [
+    {
+      "content": "Can _ Be Good???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did you do with heart? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why Do We Get Out Of Bed In The Morning? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The broken crayon signifies _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taking on  _  with Lilly Singh",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the next side? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Roman's new nickname for Virgil? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ vs. the _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Virgil.",
+    "Deceit.",
+    "FALSEHOOD.",
+    "Patton cake.",
+    "Patton.",
+    "Roman.",
+    "Talyn.",
+    "The dark sides.",
+    "Logan.",
+    "Joan saying \"f*ck\".",
+    "Thomas himself.",
+    "Joan."
+  ],
+  "pack": {
+    "id": "YVJPK",
+    "name": "Sanders Sides"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 12,
+    "total": 20
+  },
+  "dateStoredMs": 1589037813637
+}

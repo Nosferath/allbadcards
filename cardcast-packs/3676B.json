@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "The only thing Fenris hates more than mages? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hard in Hightown 4: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Varric Tethras, Paragon of _, at your service.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hear in the new Dragon Age, you can have a threesome with _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Starting today, you are a Grey _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ greatly disapproves.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fenris, is _ all you do?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Anders hates more than templars? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Also, a butt.",
+    "Storytime with Varric.",
+    "Wondering if this is a glitch or your own incompetence.",
+    "Riding The Bull.",
+    "Actual Disney Prince Cullen Rutherford.",
+    "Bombing the chantry.",
+    "Agonizing over who to romance.",
+    "Dorian's glorious moustache.",
+    "Strip Wicked Grace.",
+    "Getting helplessly lost in Skyhold.",
+    "Isabela.",
+    "And some wasps.",
+    "BEES.",
+    "Spending hours in the character creator.",
+    "Making Alistair blush.",
+    "Wishing you could romance Krem.",
+    "Accidentally becoming the Herald of Andraste.",
+    "Attempting, in vain, to reconstruct your Hawke from memory in DA:I.",
+    "Iron Bull's pillowy man bosoms.",
+    "Andraste's ass.",
+    "Your guilt-tripping terrorist boyfriend."
+  ],
+  "pack": {
+    "id": "3676B",
+    "name": "Dragon Age Trilogy"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 21,
+    "total": 29
+  },
+  "dateStoredMs": 1588819589525
+}

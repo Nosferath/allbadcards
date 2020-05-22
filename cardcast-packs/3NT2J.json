@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "\"Turn to page 15 and the first sentence describes you\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Girls go to _ to get my knowledge, boys go to _ to get more stupider.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is my voice 1 week on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hey man can my sister come?\" \"No way man it's bro time.\" \"But look\" _ \"Okay she can come.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do good girls like bad guys? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"How do you call your lover boy?\" \"I simply say _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Take two steps forward if you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now ladies _. Good goly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hit or miss, I guess they never miss huh? You gotta boyfriend I bet he doesn't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Maybe I'll be Tracer\" \"I'm already Tracer\" \"What about Widowmaker?\" \"I'm already Widowmaker\" \"Then I'll be _.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tracer.",
+    "I got nothing to live for, I got nothing and no one.",
+    "*bass noises*.",
+    "Winston.",
+    "The 'Hit or Miss' girl.",
+    "Ordering just cheese at McDonalds.",
+    "The default fortnite dance.",
+    "Tik Tok.",
+    "My mum is not alive.",
+    "Kornelia's Tik Tok account.",
+    "Turning your face towards the sun."
+  ],
+  "pack": {
+    "id": "3NT2J",
+    "name": "Tik Tok"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 11,
+    "total": 21
+  },
+  "dateStoredMs": 1589507010409
+}

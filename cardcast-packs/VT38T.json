@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "There's a new Spanish teacher who is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time I come to school I want to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Some goofy lookin fish.",
+    "Cancerous and makes me want to die.",
+    "Shove my teacher's wig into my face.",
+    "Columbine the school.",
+    "End my life with a protractor.",
+    "Oof."
+  ],
+  "pack": {
+    "id": "VT38T",
+    "name": "Cancerous 7th Grade"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 6,
+    "total": 8
+  },
+  "dateStoredMs": 1589030027565
+}

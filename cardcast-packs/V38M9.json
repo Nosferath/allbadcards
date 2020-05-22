@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Mmmm, Good Burger, the  _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "V38M9",
+    "name": "Yiff & Sniff"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588302220139
+}

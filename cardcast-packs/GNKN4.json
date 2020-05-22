@@ -1,0 +1,111 @@
+{
+  "black": [
+    {
+      "content": "_ is aphobic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is lesbophobic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My pronouns are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is biphobic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today in the discourse: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harold, they're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 'A' stands for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a discourse sideblog for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looking through the discourse tag I found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pride-flags-for-us should make a flag for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While those allos were fucking, I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is homophobic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on the gay agenda: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Down with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Allomonogays.",
+    "Cishet trans people.",
+    "Gay PDA.",
+    "Staying frosty.",
+    "Requisromantics.",
+    "Transphobes.",
+    "REGs.",
+    "Ding.",
+    "Aphobia.",
+    "The gay agenda.",
+    "A feather boa.",
+    "Ronald Reagan.",
+    "MOGAIs.",
+    "Demiromantics.",
+    "TERFs.",
+    "The Cis.",
+    "Lesbians.",
+    "Amatonormativity.",
+    "Allosexuals.",
+    "Homophobes.",
+    "Homonormativity.",
+    "Sapiosexuals.",
+    "Bisexual lesbians.",
+    "Autochorrisexuals.",
+    "Lithiosexuals."
+  ],
+  "pack": {
+    "id": "GNKN4",
+    "name": "LGBT"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 25,
+    "total": 39
+  },
+  "dateStoredMs": 1588470907646
+}

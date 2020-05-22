@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "Here's a better question: Do you wanna have _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seven. Seven human souls, and our king will become _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's the _! Feel free to visit it anytime!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fills you with determination.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mew Mew Kissy Cutie 2.",
+    "Getting dunked on.",
+    "Undyne's Epic Meal Time.",
+    "Alphys's \"Torey and Gorey\" fanfic.",
+    "Papyrus believing in you.",
+    "Posing with the last of your strength.",
+    "Mew Mew Kissy Cutie.",
+    "Maximum date power.",
+    "A bad time.",
+    "Determination."
+  ],
+  "pack": {
+    "id": "ZF9GJ",
+    "name": "Undertale Against Humanity"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 10,
+    "total": 14
+  },
+  "dateStoredMs": 1589525586346
+}

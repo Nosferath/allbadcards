@@ -1,0 +1,131 @@
+{
+  "black": [
+    {
+      "content": "I wish my cat would _ like the one from the movies.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I grow up I want to be a _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Omg! This _ is so _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Are you aware that you are a _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Woah there! Slow down! There's no need to _ right now. We still have until _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Guys! It's fursuit friday! Let's _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How much is a _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I own 12 _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite cereal is _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last time I _ I _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The last time I went to _ was terrible. It was filled with _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "XD! _ was so _ ! Unbelievable !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wish I was a real _ ...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "-I lean in and whisper in your ear- \" _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom told me that If I put my mind to it I can do anything!! And that's why I became a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last time I _ was _ ...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why don't my parents love me? Am I too _ for them?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I really want to _ rn ;w;",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "-nuzzles  u- o W o.",
+    "Gay latvian giraffe.",
+    "Uh oh spaghetti o's.",
+    "REEE.",
+    "Woof.",
+    "Gay.",
+    "Next anthrocon.",
+    "Got drunk.",
+    "Meow.",
+    "Dog.",
+    "Fursuited.",
+    "Cat.",
+    "Careful. You're going to start a howl.",
+    "Still a young fur.",
+    "Bork.",
+    "Budgie bird.",
+    "Cool.",
+    "Furries.",
+    "At the last anthrocon.",
+    "Dress up in animal costumes and go to a rave.",
+    "Little puppies.",
+    "Awoo.",
+    "Anthrocon.",
+    "A furry convention.",
+    "Bought a fursuit."
+  ],
+  "pack": {
+    "id": "39KSS",
+    "name": "Furby Pack"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 25,
+    "total": 43
+  },
+  "dateStoredMs": 1589568462726
+}

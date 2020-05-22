@@ -1,0 +1,416 @@
+{
+  "black": [
+    {
+      "content": "Se existe _ entao pode existir _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu sempre uso _ durante o banho.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sempre guardo um _ no bolso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nome perfeito para um filme de acao é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No futebol fazer _ no adversario causa _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Numa interrogacao pela policia nunca se diz _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Devemos usar _ para acabar com a fome no mundo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando se junta _ com _ podemos ter um _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Para estar na moda hoje media voce deve usar _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O melhor nome para um filme de comedia é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sinto _ eu vou atras de _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando _ nao funcionar sempre tente _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ,  camera, acao.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca vai com um _ numa briga de faca.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A minha tatuagem representa _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Num acidente automobilistico, sempre se deve usar _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Com apenas _  , _ , _ eu posso fazer um castelo.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Quando se tem um _ na mao nunca pode ter _ na outra.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Num homicido o culpado sempre tem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se eu vejo _ na rua eu pego.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para se chegar na colina voce deve _ e subir _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na minha casa sempre tem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Numa interrogacao pela policia sempre se diz _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voce esta com medo? Entao nunca use _ a noite.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E perigoso ir sozinho pegue _ para te ajudar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca brinque com _ , nunca se sabe oque eles pode fazer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando a guerra comecar eu vou _ para me ajudar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Numa guerra a melhor arma é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se eu for preso, meu crime seria _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando nada der certo, sempre use _ porque ajuda.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nome da melhor banda é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para se namorar primeiro vc deve _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se um _ ja e bom, _ e otimo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando estou sozinho eu gosto de usar _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O melhor feriado de todos é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na hora em que voce tiver _ nao use _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Se eu vejo _ na rua eu corro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sempre guardo uma _ no bolsa da camisa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Numa receita precisamos de _ e de um _ para fazer um bolo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando _ aparece,nunca faça _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O que lhe falta de _ sempre lhe sobra de _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Numa igreja sempre tem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre que eu vou a o mercado eu compro _ , _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Passo1 _ ,passo2 _ passo 3 faça dinheiro.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando estou com _ nunca estou sozinho.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meu feriado preferido é _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se um _ vale tanto imagine um _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na tv sempre assisto _ durante a noite.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No primeiro encontro nunca se diz _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Num roubo ao banco precisamos de _ e de um _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "\"Espada ninja.",
+    "\"Roupa de banho.",
+    "\"Paseatas.",
+    "\"Padre negao.",
+    "\"Cor de merda.",
+    "\"Lapis multi-cor bisexual.",
+    "\"Pornografia.",
+    "\"Funk.",
+    "\"Um coco com cheiro de queijo.",
+    "\"Pagode.",
+    "\"Pergunta pro google.",
+    "\"Ditador metrosexual.",
+    "\"Pasta de dente.",
+    "\"Mafia japonesa.",
+    "\"Cabelo de mulher.",
+    "\"Criancas traficantes.",
+    "\"Carro para alejado.",
+    "\"Playstation.",
+    "\"Vovô vida louca.",
+    "\"Futebol de cadeia.",
+    "\"O monstro do sofa.",
+    "\"Jesus albino.",
+    "\"Ataque de urso.",
+    "\"Machado de assis.",
+    "\"Tentano.",
+    "\"Moeda de ouro.",
+    "\"Cauda de largato.",
+    "\"Anal giratorio.",
+    "\"Suicidio com arma de brinquedo.",
+    "\"Beijo grego.",
+    "\"Wiliam shakespares.",
+    "\"Aplicativo para roubo.",
+    "\"Bioterrorismo.",
+    "\"Tiros de lazers.",
+    "\"Perguntas retadarda.",
+    "\"Cientologia.",
+    "\"Beijo gay.",
+    "\"Bullying.",
+    "\"Agua do amor.",
+    "\"Foguete de queijo.",
+    "\"Menino do acre.",
+    "\"Um rato de esgoto.",
+    "\"Violencia .",
+    "\"Narnia.",
+    "\"Otakus fedidos.",
+    "\"Disputa interacial.",
+    "\"Havaina de pau.",
+    "\"Sertanejo universitario.",
+    "\"Chumbo.",
+    "\"Terror psicologico.",
+    "\"Japones negro.",
+    "\"Soco na cara.",
+    "\"Pao de rola.",
+    "\"Um livro do harry potter.",
+    "\"Presidente dos Eua.",
+    "\"Vidro blindado.",
+    "\"Pokemon.",
+    "\"Rim de uma crianca albina.",
+    "\"Carros velozes.",
+    "\"Memes da internet.",
+    "\"Messi.",
+    "\"Prisao.",
+    "\"Paizao.",
+    "\"Vomito.",
+    "\"Investigacao criminal.",
+    "\"Faca de pao.",
+    "\"Rim.",
+    "\"Ze do caixao.",
+    "\"Livros de kama sutra.",
+    "\"Xenofobia.",
+    "\"Teclado de bolso.",
+    "\"Armadilha.",
+    "\"A biblia .",
+    "\"Balao de lona.",
+    "\"Casamento gay.",
+    "\"Tetas de velhas.",
+    "\"Canibalismo caseiro.",
+    "\"Sexo com velhas.",
+    "\"Farol aceso.",
+    "\"Medo de passaros.",
+    "\"Resultados de provas.",
+    "\"Traficos de criancas corenas.",
+    "\"Abuso sexual.",
+    "\"Uma cataputa metalica.",
+    "\"Violacao anal.",
+    "\"Gliter anal.",
+    "\"Acre.",
+    "\"Crime passional.",
+    "\"Cristiano ronaldo.",
+    "\"Bebidas alcolicas.",
+    "\"Daltonismo.",
+    "\"Dinheiro sujo.",
+    "\"Sadan.",
+    "\"Leonardo da vinci.",
+    "\"Padre catolico.",
+    "\"Zoofilia.",
+    "\"Mamilos de gordo.",
+    "\"Tenis para correr.",
+    "\"Tratamento anal.",
+    "\"Dinossauro.",
+    "\"Armas de fogo.",
+    "\"Chuck norris.",
+    "\"Kami kase.",
+    "\"Cabelo de uma turka.",
+    "\"Maconha.",
+    "\"Uisque.",
+    "\"O disco da xuxa.",
+    "\"Relacionamento entre humanos.",
+    "\"Lutado de rua.",
+    "\"Insetos vermelhos.",
+    "\"Criancas analfabetas.",
+    "\"Corte.",
+    "\"O poder da punheta.",
+    "\"Apalpada na nadega.",
+    "\"Naris de macaco.",
+    "\"Sistema de nervos.",
+    "\"Informacoes e dados pessoais.",
+    "\"Gonoreia.",
+    "\"Olhos.",
+    "\"Asma.",
+    "\"Setas para cegos.",
+    "\"Rei da inglaterra.",
+    "\"Escola publica.",
+    "\"Assuntos internos.",
+    "\"Hittle de cueca.",
+    "\"Ataque terrorista.",
+    "\"Cerebro de um hipister.",
+    "\"Drogas pesadas.",
+    "\"Ataque doa titans.",
+    "\"Corrente de chumbo.",
+    "\"Barraca armada.",
+    "\"Pato de borracha.",
+    "\"Apocalipse zumbi.",
+    "\"Chat da discordia.",
+    "\"Cristivao colombo.",
+    "\"Vodka.",
+    "\"Bunda.",
+    "\"Yu gi oh de pobre.",
+    "\"Um penis torto.",
+    "\"Video game velho.",
+    "\"Gato preto.",
+    "\"Dedos cortados.",
+    "\"Queijo quente.",
+    "\"Carro de fuga.",
+    "\"Boneca sexual.",
+    "\"Proerd.",
+    "\"Onibus escola.",
+    "\"Terra com mofo.",
+    "\"Maconheiro.",
+    "\"Treinamento masculo."
+  ],
+  "pack": {
+    "id": "7JKQP",
+    "name": "Calamidades do brasil"
+  },
+  "quantity": {
+    "black": 50,
+    "white": 150,
+    "total": 200
+  },
+  "dateStoredMs": 1588555551339
+}

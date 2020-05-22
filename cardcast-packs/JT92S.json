@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Call me _ !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Papa smurf."
+  ],
+  "pack": {
+    "id": "JT92S",
+    "name": "WW2"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588715463220
+}

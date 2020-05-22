@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "Ryan C. is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nathans dick looks like a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jake has fucked a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jordan-Elbridge had too many _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam loves _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lil Stalin.",
+    "Bill cosby.",
+    "Allie derby.",
+    "Chubby coon.",
+    "Vagina.",
+    "Rape can.",
+    "Lil Adolf."
+  ],
+  "pack": {
+    "id": "3B6TV",
+    "name": "Racism"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 7,
+    "total": 12
+  },
+  "dateStoredMs": 1589161908572
+}

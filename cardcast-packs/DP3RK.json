@@ -1,0 +1,201 @@
+{
+  "black": [
+    {
+      "content": "Ofise dair özlediğim tek şey: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tasarımcının tek derdi _ olmalı.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Çağdaş'ın yeni demlediği ve piyasaya süreceği birasının adı: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sana bir JIRA ticket açtım, adı: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tasarımcının korkulu rüyası: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gizem'in ilk haftasından aklında kalan tek şey: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kulaklık taktım ama _ yüzünden çıkardım.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bir komedi filmi: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeni bir font tasarladım, adı: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grains'in yeni single'ının adı: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bir korku filmi: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeni projemiz: _ redesign.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sertan'ın \"Hoş geldin\"i düzgün yazamayanlara söylemek istediği: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ekipçe dizi çeksek adı _ olurdu. Başrolde de _ olurdu.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ yüzünden kendime gelemiyorum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adobe Illustrator çalışmayı durdurdu çünkü _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabah kalkınca aklıma gelen ilk şey: _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\"Evet\".",
+    "\"Group Copy 7\".",
+    "\"Dezanfektan\".",
+    "\"Çok iyi uygulama fikri\".",
+    "\"Dataroid\".",
+    "\"Nasıl ya\".",
+    "\"Illustrator\".",
+    "\"Çağdaş Bey\".",
+    "\"Confluence\".",
+    "\"Benim şimdi başka bir toplantıya geçmem lazım\".",
+    "\"Çağdaş'ın elektronik sigara likiti\".",
+    "\"Yoo\".",
+    "\"Barış\".",
+    "\"Timesheet'leri submitlemeyi unutmayın\".",
+    "\"Bilmiyorum\".",
+    "\"Adobe'nin bu sene de bize 60k fatura kesmesi\".",
+    "\"Yemeksepeti\".",
+    "\"İş Bankası\".",
+    "\"Ebru'nun koca götü\".",
+    "\"Haftalık raporu göndermedim\".",
+    "\"Dovetail\".",
+    "\"Native component kullanmak\".",
+    "\"Hiçbir zaman tam emin olamadığım grid ve layout specleri\".",
+    "\"Kopi Peyst\".",
+    "\"Devlet Bahçeli\".",
+    "\"Takım toplantımızı işgal eden Aslı Gönülşen\".",
+    "\"Sertan'ın göndermeli tweetleri\".",
+    "\"Ferhat abinin içeni silkeleyen acı kahvesi\".",
+    "\"JIRA\".",
+    "\"Gizem\".",
+    "\"Zeplin'den export edilemeyen ikon\".",
+    "\"Photoshop\".",
+    "\"CMD+V\".",
+    "\"Kredi kartı borcum\".",
+    "\"Pluginler olmasaydi Sketch yerine Paint kullanırdım\".",
+    "\"Öğle arasına atılan toplantı daveti\".",
+    "\"Pegasus\".",
+    "\"CMD+C\".",
+    "\"Recep Tayyip Erdoğan\".",
+    "\"amk\".",
+    "\"Öğle arası\".",
+    "\"Koray'ın bitmeyen göt/baş ağrıları\".",
+    "\"Custom font kullanmak\".",
+    "\"Dribbble\".",
+    "\"Teknokent ofisi\".",
+    "\"Getir\".",
+    "\"Departman hedefim\".",
+    "\"Hala güncelleyemediğim portfolyom\".",
+    "\"Akın\".",
+    "\"LAAAAAAN\".",
+    "\"Create a symbol\".",
+    "\"Atacan\".",
+    "\"Hayır\".",
+    "\"Detach symbol\".",
+    "\"Ferhat Abi'nin öfkesi\".",
+    "\"Haftalık rapor\".",
+    "\"Atacan'ın Avokado ağacı\".",
+    "\"Bi tık sola\".",
+    "\"Make exportable\".",
+    "\"Behance\".",
+    "\"Comic Sans\".",
+    "\"Figma kullanmayan tasarımcı\".",
+    "\"CMD+S\".",
+    "\"That's what she said\".",
+    "\"Chrome bilgisayarın tüm hafızasını harcıyor\".",
+    "\"Timsesheet loglamak\".",
+    "\"Keyfimin kahyası\".",
+    "\"yarın bakarım ya\".",
+    "\"Fırat Bey'in sunum revizesi\".",
+    "\"Bokum\".",
+    "\"İşCep\".",
+    "\"Satış sunumunun görselleştirilmesi\".",
+    "\"Haftalık raporu göndermiyorum, sikerler\".",
+    "\"Götüm\".",
+    "\"Biliyorum\".",
+    "\"Akın'ın kedileri\".",
+    "\"Mızmız developer maazereti\".",
+    "\"Park Plaza ofisi\".",
+    "\"Sertan\".",
+    "\"Gonca\".",
+    "\"Fatih Bey'in sabah siniri\".",
+    "\"Abi selam, müsait misin\".",
+    "\"Mert\".",
+    "\"Bi tık sağa\".",
+    "\"Abi Figma kullanmayan da ne bileyim\".",
+    "\"Dribbble'lık iş\".",
+    "\"Convert to outlines\".",
+    "\"Ne?\".",
+    "\"Sikerler\".",
+    "\"Kemal Kılıçdaroğlu\".",
+    "\"Kart basmadım\".",
+    "\"Atacan'ın isimlendirmediği layerlar\".",
+    "\"Karantina\".",
+    "\"Google Fonts\".",
+    "\"Ebru\".",
+    "\"Canlıda bug bulan QA endişesi\".",
+    "\"S*ktiğimin maili bana gelmedi\".",
+    "\"After Effects çalışmayı durdurdu\".",
+    "\"Ya bi siktir git\".",
+    "\"siktir git ya\"."
+  ],
+  "pack": {
+    "id": "DP3RK",
+    "name": "C-Design"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 100,
+    "total": 117
+  },
+  "dateStoredMs": 1588954931482
+}

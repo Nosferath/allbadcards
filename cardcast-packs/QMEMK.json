@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "Il COVID-19 è in realtà un'arma biologica creata da _ allo scopo di _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Notre-Dame è bruciata sicuramente a causa di _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Palle.",
+    "La Francia che da tre mesi non subisce attentati.",
+    "Nascondere centomila dosi di cocaina nelle tombe al cimitero.",
+    "Notre-Dame che brucia.",
+    "Il governo di Salvini e Di Maio.",
+    "Comunisti che mangiano bambini.",
+    "La Juve che perde la Champions da vent'anni.",
+    "SARS-nCoV-2.",
+    "Salvini e Di Maio."
+  ],
+  "pack": {
+    "id": "QMEMK",
+    "name": "Black Humour Attualità"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 9,
+    "total": 11
+  },
+  "dateStoredMs": 1589062504855
+}

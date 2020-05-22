@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "Bob Ross loves to draw happy little_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Bob Ross use to dry his brush under the table?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Paintbrushes.",
+    "Steven Ross.",
+    "Happy Little Clouds.",
+    "Schwoosch.",
+    "We Beat The Devil.",
+    "The Devil.",
+    "Happy Trees.",
+    "Bob Ross."
+  ],
+  "pack": {
+    "id": "GP52Q",
+    "name": "BobRoss"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  },
+  "dateStoredMs": 1589484421792
+}

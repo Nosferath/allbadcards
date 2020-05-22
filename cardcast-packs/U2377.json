@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "This is _... could be a nursery.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The moral backbone of a chocolate eclair.",
+    "A smooth and fantastic hillbilly who should be crowned Emperor of the United States.",
+    "Bill Clinton."
+  ],
+  "pack": {
+    "id": "u2377",
+    "name": "The Comeback Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1588477640122
+}

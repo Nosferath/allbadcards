@@ -1,0 +1,43 @@
+{
+  "black": [
+    {
+      "content": "I'm DOCTOR Abigail Cockbane, associate professor of Women's Studies and author of many books, most recently _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a fucking queer icon because I'm NOT like _! Because I'm not like ANYONE but myself! That's why everyone knows who _ is!",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Bruce and Trixie.",
+    "Justine.",
+    "Tracy Mounts.",
+    "Dr. Abigail Cockbane, associate professor of Women's Studies and author of many books.",
+    "White people with dreadlocks.",
+    "Fritz's ring.",
+    "Phones but too much.",
+    "Tabby.",
+    "Getting filled up inside with Stevie's Texas flood.",
+    "Lenora LaVey.",
+    "Jackie Jackson, host of the Freedom Report.",
+    "Alt Right Germany.",
+    "Beauty.",
+    "Ms. Points. Mademoiselle Points.",
+    "Tiffany Tumbles.",
+    "Fritz.",
+    "Saul Saltzman."
+  ],
+  "pack": {
+    "id": "VJB2K",
+    "name": "Cards Contra Points"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 17,
+    "total": 19
+  },
+  "dateStoredMs": 1588544143239
+}

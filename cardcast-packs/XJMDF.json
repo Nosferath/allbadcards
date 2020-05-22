@@ -1,0 +1,183 @@
+{
+  "black": [
+    {
+      "content": "One large _ , please!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't ask to be _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Holo-Pearl eventually masters the art of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Serious Steven: _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't outrun me! We both have _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mayor Dewey's new campaign slogan is: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just like the teacups!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! He's super duper yummy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can do for _ ? What can I do that no one else can do?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll do it for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is _ , back together, and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My name is _ , not  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Be _ in the real way!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think you're just mad 'cuz you're _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, good! You fixed that _ that was bothering me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are you such a(n)  _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where's the _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't help it. What's your _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, _ . With your crunchy cookie outside, your icy creamy insides. You were too good for this word.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Deep down, you know you weren't built for _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cookie Cat.",
+    "Lion.",
+    "Connie.",
+    "Gem cocks, 24/7.",
+    "I need a HOT ONE.",
+    "Amethyst.",
+    "Rose's sword.",
+    "A rose shield that will pierce the heavens.",
+    "Ronaldo.",
+    "Excuse.",
+    "Ride Lion into glorious battle.",
+    "Ruby.",
+    "Jasper's hot, swollen member.",
+    "Together Breakfast.",
+    "Peridong.",
+    "Onion.",
+    "Lapis Lazuli.",
+    "Jasper.",
+    "Sadie.",
+    "Hoppy, I mean, Hopper.",
+    "Peridot.",
+    "Beat Meat Mania.",
+    "The Dog-Nut.",
+    "Malachite.",
+    "FOREVER ALONE.",
+    "Sapphire.",
+    "Purple Puma.",
+    "Giant woman.",
+    "The Secret Team.",
+    "Polymorphic sentient rocks.",
+    "Mr. Smiley.",
+    "Rainbow Quartz.",
+    "Parry! Parry! THRUST! Parry!.",
+    "Rose Quartz.",
+    "Jasper's hot, primal lovemaking.",
+    "The Lord of Eternal Darkness, Onion.",
+    "Garnet.",
+    "Pearl.",
+    "Lars.",
+    "Buttface.",
+    "Trying not to pick up Pearl's crush.",
+    "Tiger Millionaire.",
+    "Rose's secret armory.",
+    "Frybo.",
+    "Steven.",
+    "Sugilite.",
+    "Lost in Lion's mane.",
+    "The Big Donut.",
+    "Fish Stew Pizza.",
+    "Greg.",
+    "Peedee.",
+    "Seduction.",
+    "Thirsty.",
+    "Opal.",
+    "The Crystal Gems.",
+    "Holo-Pearl.",
+    "Not killing things."
+  ],
+  "pack": {
+    "id": "XJMDF",
+    "name": "The Crystal Gems & Steven Universe"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 57,
+    "total": 79
+  },
+  "dateStoredMs": 1589499645826
+}

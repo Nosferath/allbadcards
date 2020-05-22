@@ -1,0 +1,91 @@
+{
+  "black": [
+    {
+      "content": "My ideal night in includes a cup of tea, cream cracker and cheese and _. Cant beat it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mum is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yer maw punts _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yer da sells _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the next episode of Still Game Jack and Victor decide to do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This jubilee, the Queen decides to show off _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Is obese.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Every little helps.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nicola Sturgeon is very _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Behind a chinese takeaway wi' yer da's mate Dave.",
+    "The cock and bollocks.",
+    "Being obese but still getting invited to Im a Celeb.",
+    "Avon.",
+    "Gay lol.",
+    "My wee doo da.",
+    "The pussy.",
+    "Heroin.",
+    "Big Arthur.",
+    "Yer da.",
+    "Avon.",
+    "The hairy bollocks.",
+    "Anne Hegerty.",
+    "Anne Hegerty.",
+    "Anne Hegerty.",
+    "Anne Hegerty.",
+    "Yer maw.",
+    "You.",
+    "Beefy bake.",
+    "Eating uncooked super noodles not as a joke but because you are poor.",
+    "Anne Hegerty.",
+    "Anne Hegerty.",
+    "Tesco horse meat.",
+    "Nigola Sturgeon.",
+    "Anne Hegerty."
+  ],
+  "pack": {
+    "id": "htdg2",
+    "name": "Cards against Scotland"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 25,
+    "total": 35
+  },
+  "dateStoredMs": 1588165068368
+}

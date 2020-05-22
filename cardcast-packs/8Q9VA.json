@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Asriel and Chara  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did the children do while we were gone?_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "8Q9VA",
+    "name": "Undertale: Dirty 18+"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588648322367
+}

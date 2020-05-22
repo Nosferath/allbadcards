@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Skazuję cię na śmierć poprzez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziś _ padało z nieba.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zgubiłem moje ukochane _! Co się teraz ze mną stanie?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_... Tylko sowieci byli w stanie to  wymyślić.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas rejsu statkiem zabrania się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu tak śmierdzisz? To przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usuń słabą kartę. Punkt dostaje najsłabszy gracz. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wczoraj widziałem sąsiada z _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulubioną rzeczą Jarka jest _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miłością mojego życia jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PIS uchwalił nową ustawę o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nie! _ nas atakuje !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowym  hitem w sprzedaży jest : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesteś pewny, że możemy użyć _ zamiast _ ?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "P7696",
+    "name": "Lul"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 0,
+    "total": 15
+  },
+  "dateStoredMs": 1588607421111
+}

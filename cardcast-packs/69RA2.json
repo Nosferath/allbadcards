@@ -1,0 +1,956 @@
+{
+  "black": [
+    {
+      "content": "_ wielkim _ był.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy byłem w toalecie zaatakował mnie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co przywiozłam z Tel Aviv'u? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy w pełni nie rozumiałem _ dopóki nie odkryłem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ został zbanowany na tinderze z powodu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nagroda akademii idzie do _ za _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moim ulubionym wspomnieniem z przedszkola jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy widzę uśmiech Trynkiewicza przypomina mi się _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tutaj jest kościół, tutaj wieża kościoła. Otwórz drzwi a wtedy ujrzysz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co staje się lepsze z wiekiem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przyczyną odejścia wiernych z kościoła jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z okazji świąt, kobieta mojego życia podarowała mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim narkotykiem jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! To ja jestem Twoim _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam ochotę na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym był miliarderem, to zbudowałbym 15 metrowy pomnik  by upamiętnić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mięso zawiera _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uważam że _ powinno być zakazane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja matka jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem bardziej zajebisty od T-Rexa, ponieważ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Romantyczna kolacja przy świecach nie może obejść się bez _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czasem żałuje że _  istnieje .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O Boże! On jest _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy zyskasz prawo do _ okazuje się że to tylko _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy Obama krzyknął \"_!\" oklaskom nie było końca.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jarosław Kaczyński wygłosił wojnę Korei Północnej ponieważ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biali ludzie lubią _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Informatyka? Psychologia? Marketing? Pfft. Ja studiuję _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto tam? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polska to kraj, w którym nawet _ staje się _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wycieczka szkolna została zrujnowana przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marzę o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nic tak nie kładzie asfaltu w Afryce jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jarosław Kaczyński nie jest kryptogejem, jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Gdybym był prezydentem USA stworzyłbym departament _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak pachnie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co USA  wysłało dzieciom w Afganistanie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak śmierdzi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papież jest niezadowolony z powodu Twojego _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją największą pasja w młodości był _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WOJNA! Na co jest dobra? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem tak biedny że aż _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jedyna rzecz, która ma znaczenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Brzmi zachęcająco, ale obawiam się _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kocham gdy moja dziewczyna _ podczas gdy ja _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Godziny zabawy, łatwy w użytku, idealny do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby połączyć _ z _ to wyszłoby coś pięknego!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czym śmierdzą starzy ludzie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za moich czasów zamiast _ były tylko _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chciałbym, żeby w szkole podstawowej uczyli o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twój upór jest godny podziwu, mój drogi książę. Ale nie możesz zdobyć mojego serca tylko poprzez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po dzikiej imprezie imprezie w Sylwestra obudziło mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Dla Ciebie, dla Rodziny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żeby być nerdem trzeba najpierw być _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TVP Kultura przedstawia film pt. \" _ - nieznana historia _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czego wstydzi się batman? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak! To ja zabiłem _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nowym, samodzielnie wyprodukowanym albumie Kayne Westa, muzyk rapuje o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobrem narodowym polaków jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebałbym jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Laski lecą na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek jest zawiedziony z powodu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W _ byłeś, _ widziałeś!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepszą pobudką jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przy pomocy czego polski rząd wspiera studentów z regionów wiejskich? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stwórz wiersz biały. _ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chciałem zaruchać ale _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jako następną sztuczkę, wyrwę _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Myślę, że największą zemstą byłaby _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zakałą ludzkości jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszym narzędziem masturbacji jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! Uwielbiam to!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej podnieca mnie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "8 plagą egipską była _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na urodziny chciałbym dostać _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wojna na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trybunał  UE uznał _ winnym _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Odpowiedzią na wszystko jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rucham psa jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A po maturze chodziliśmy na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wspaniałe w teorii, chujowe w praktyce.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zakończyło mój ostatni związek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W czasie seksu myślę o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tak chce umrzeć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_?! W moich czasach było tylko _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Witajcie, młodzi naukowcy! Załóżcie swoje fartuchy, dzisiaj pracujemy nad _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaram się jak _ podczas _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najlepszym przyjacielem kobiety? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby Bóg nie chciał żebyśmy nie czerpali satysfakcji z _ , nie dałby nam _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. To pułapka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Osiągnięcie orgazmu za pomocą _ wydawało się niemożliwe. A jednak!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po tym jak Krzysiu wysłał _ na czacie, już nigdy nie zaufam jego linkom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ chciałby _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zbawić nasze konsumpcyjne społeczeństwo może jedynie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest moją super mocą? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy byłem na kwasie to _ zamieniło się w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uwielbiam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tegoroczny, najgorętszy album to _ autorstwa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Weź mój łuk. I mój _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co cały czas się kleję? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Następna książka J.K. Rozwling będzie nosiła tytuł : \" Harry Potter i _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byłem pijany pomyliłem _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ jest naszym królem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas debaty w sejmie odbył się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weź _ , to będzie trwało dłużej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebałbym jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W dzisiejszych czasach dzieci zamiast rózgi dostają pod choinkę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy usiadłem św. Mikołajowi na kolanach, poczułem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrodą na paraolimpiadzie był _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odkryłem że _ jest _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nigdy nie myślałem, że docenię _ za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zanim zacznę kandydować na prezydenta, muszę zatrzeć wszelkie ślady  udziału w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Największy orgazm osiągam wtedy kiedy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O kurwa! To _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reptilianie to mit, powinniśmy bać się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej mityczną istotą we wszechświecie jest dla mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forum prawie zostało zniszczone po tym jak _ zamieścił _ w sekcji o zmarłych.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W więzieniu za paczkę fajek dostaniesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terapeuta karze mi zapomnieć o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rozwiązaniem na problem głodu w Afryce jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją największą porażką był _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie skorzystam z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , jak ja Cię kurwo nienawidzę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej popularny film na pornhubie zawiera _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Hitler : \"_ czy _?\"\" .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepsze porno jakie oglądałem nosiło tytuł \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój penis jest jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karą za pedofilię w Polsce jest _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Delfin masturbujący się rybą.",
+    "Soundtrack z Tibii.",
+    "Wpierdol.",
+    "Rude murzynki z Jerozolimy.",
+    "HODOR!.",
+    "Kobiecy wytrysk.",
+    "Technik mechatronik.",
+    "Uległy mężczyzna.",
+    "Gejki.",
+    "Hot 12-stka.",
+    "Orgazm Twojej córki.",
+    "Kąpiel we krwi dziewic.",
+    "Masowy orgazm.",
+    "Picie samemu.",
+    "Zespół Downa.",
+    "Kisiel w majtkach.",
+    "King Bruce Lee - Karate Mistrz.",
+    "Stanie obok niskich ludzi aby używać ich jako podłokietniki.",
+    "Powiększanie punktu G.",
+    "Trąd.",
+    "Komora gazowa.",
+    "Czarny pas w obiciąganiu.",
+    "Beczka lubrykantu.",
+    "Matematyka.",
+    "Orki.",
+    "Dupa.",
+    "Wiedźmińskie zlecenie.",
+    "Uciekający ministrant.",
+    "Płód na widlach.",
+    "Supermasywna czarna dziura.",
+    "3 gęsi, 2 gołębie pocztowe i 8 purchawek.",
+    "Piękna lesbijka.",
+    "Lech Wałęsa.",
+    "Armia zmutowanych genetycznie wiewiórek zombie z odbytnicą na zewnętrznej części pośladka i krokodylem na plecach.",
+    "Chińskie bajki.",
+    "76-letnia prostytutka.",
+    "Handlowanie zużytymi majtkami 12letnich azjatek.",
+    "Walka blondynek w kisielu z rozmiarem biustu D.",
+    "Tłumaczenie teorii kwantowej poprzez ogólną teorię względności.",
+    "Typowy Janusz.",
+    "Nie jesteś godny spermy swego dziada.",
+    "Video z kotem tak słodkim, że aż Twoje oczy wypadają z gałek a Twoje jelito grube wypada Ci z tyłka.",
+    "Rzeżączka w ustach.",
+    "Jebanie.",
+    "Dzień dziecka na Ukrainie.",
+    "Kołczan prawilności.",
+    "Poledance.",
+    "Ogromne wargi sromowe.",
+    "Kongres Nowej Prawicy.",
+    "Alkohol.",
+    "Twoja mama.",
+    "Rudy.",
+    "Stare baby jebać prądem.",
+    "Homunculus.",
+    "Wpadka przed 13-stą.",
+    "Sok z gumijagód.",
+    "Szorstka palcówka.",
+    "Strój pielęgniarki w rozmiarze XS.",
+    "Wątroba w akwarium.",
+    "Pijani Sataniści.",
+    "WINA TUSKA.",
+    "Piłowanie drąga przy użyciu dziabąga.",
+    "Krzywy ryj.",
+    "Hentaje.",
+    "Włosy łonowe w zębach.",
+    "Samogwałt.",
+    "XD.",
+    "Uciekający cygan kradnący znicze z cmentarza.",
+    "Krym.",
+    "Łoś rodzący na Twoim podwórku.",
+    "Moja dusza.",
+    "Impreza w oborze.",
+    "Kappa.",
+    "Dziurawa prezerwatywa dzięki której istniejesz.",
+    "Kop w jaja z glana.",
+    "Jarosław Kaczyński.",
+    "Rude dziecko.",
+    "C++.",
+    "Brzoza ze stali.",
+    "Brazzers.",
+    "Mefedron.",
+    "Wszy łonowe.",
+    "Śluz na rękach.",
+    "Wpierdol.",
+    "Libacja alkoholowa.",
+    "Niszczenie dowodów.",
+    "Krzysiu by tego nie zrobił.",
+    "Wiatrak pełen ciał.",
+    "Gandhi.",
+    "MANNA Z NIEBA.",
+    "Hawajska.",
+    "Filozoficzna dyskusja z woźnym na temat sensu życia.",
+    "Dziwny człowiek masturbujący się w kącie.",
+    "Orgia w klubie słuchaczy Radia Maryja.",
+    "Bez kitu kurwa.",
+    "A ja jem kebaba.",
+    "Bez gumy.",
+    "Wspomnienia z Wietnamu.",
+    "Amarena.",
+    "Koprofilia.",
+    "Dziecko na smyczy.",
+    "Grupa idiotów grająca w grę karcianą zamiast robić coś przydatnego.",
+    "Kategoria wojskowa E.",
+    "Obiad mojej babci.",
+    "Plombowanie falusem.",
+    "Sosnowiec.",
+    "Ognisty pierd.",
+    "Agresywne feministki.",
+    "Cezary Pazura.",
+    "BATMAAAAN!.",
+    "Babcia.",
+    "Aborcja.",
+    "Martwe płody.",
+    "Ślub,praca, dom, rodzina, emerytura, śmierć.",
+    "Stosunek seksualny z krawężnikiem.",
+    "Tańcząca fanka Radia Maryja.",
+    "Zamrażarka pełna organów.",
+    "Mam to w dupie.",
+    "Kółko różańcowe.",
+    "Striptiz.",
+    "Hiszpańska inkwizycja.",
+    "Martwi rodzice.",
+    "Objęcia Trynkiewicza.",
+    "Faszyzm.",
+    "Gr8 b8 m8.",
+    "Berło księdza proboszcza.",
+    "Zużyty kondom.",
+    "Żule pijaczki.",
+    "Spleśniały ser, samochody bez dachów, Panie bez ubrań.",
+    "Nastoletnie matki.",
+    "Braci się nie traci.",
+    "Amisze.",
+    "Japończyk z zespołem Touretta.",
+    "Trójkąt z dwoma bi laskami.",
+    "Wzwód trwający ponad 4 godziny.",
+    "GÓWNO!.",
+    "Mim podczas masturbacji.",
+    "Zmywanie podłogi ósemkami.",
+    "Krew z dupy.",
+    "Liczne rany szarpane.",
+    "Dilldo z cyber-skóry.",
+    "Zdesperowany nerd-prawiczek.",
+    "Pas dziewictwa.",
+    "Podryw dziewczyn w klinice aborcyjnej.",
+    "40 napalonych prawiczków w kwiecie wieku.",
+    "Dancig w remizie.",
+    "Stalin.",
+    "Jej wysokość królowa Elżbieta II.",
+    "Samogwałt oralny polskiego nietoperza.",
+    "Tupolew.",
+    "Kebab na śniadanie.",
+    "Alkoholizm.",
+    "Tentacle (chińska bajka z seksem z ośmiornicą).",
+    "Marihuana.",
+    "Chuj  z tym i tak nie znajdę dziewczyny.",
+    "Morza szum, ptaków śpiew.",
+    "\"Śmietanka towarzyska\".",
+    "Rozjuszeni transwestyci.",
+    "MDMA.",
+    "Józef Piłsudski.",
+    "Kazirodztwo.",
+    "Komunizm.",
+    "Stalin.",
+    "Demokracja.",
+    "Koniec w 3 sekundy.",
+    "Obciąganie w czasie jazdy autem.",
+    "Dokładnie to czego się spodziewasz.",
+    "TY CHORY POJEBIE!.",
+    "Polskie Obozy Śmierci.",
+    "Gwałt o poranku.",
+    "Żarówka z tytanu.",
+    "Cyka blyat.",
+    "Gwałt analny na małych murzynkach z afryki.",
+    "Zabójstwo transwestyty.",
+    "Kondom.",
+    "Opryszczka sutka.",
+    "3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510 58209 74944 59230 78164 06286 20899 86280 34825 34211 70679 82148 08651 32823 06647 09384 46095 50582 23172 53594 08128 48111 74502 84102 70193 85211 05559 64462 29489 54930 38196...",
+    "Stopy, cola, gramy w LOLa.",
+    "Kolczyk w jajach.",
+    "Rozdziewiczanie księżniczki.",
+    "Nightcore.",
+    "Papież.",
+    "Tuzin twerkującyh pigmejów.",
+    "Niepojęta głupota.",
+    "Holokaust.",
+    "Twoja stara.",
+    "Rak.",
+    "Krzyk dziewic.",
+    "Gwałt za którym się tęskni.",
+    "Dziecko w probówce.",
+    "Męskie prącie.",
+    "MOCNIEJ.",
+    "Niemowlęta.",
+    "Michael Jackson za młodu.",
+    "Kobieta dominująca.",
+    "Wybuch termojądrowy.",
+    "Wstrzykiwanie heroiny w odbyt.",
+    "6 aborcji.",
+    "Dogłębnie upośledzeni.",
+    "Jebanie.",
+    "Ebola.",
+    "Ropiejące rany na napletku.",
+    "Diabelski młyn kręcący się w stronę zachodzącego słońca.",
+    "Ser Naplette.",
+    "Obrzezanie.",
+    "Prawdziwy Święty, Papież Polak.",
+    "Armia hipsterów walczących halabardą.",
+    "Onanizm.",
+    "Kiła.",
+    "Juliusz Słowacki.",
+    "Łzy niepełnosprawnego Wietnamca.",
+    "Chomik w rolce po srajtaśmie.",
+    "Woodstock.",
+    "Rzut karłem.",
+    "Wyrok w zawieszeniu.",
+    "Serce dziecka.",
+    "Orgia z modelkami playboya.",
+    "Sranie na klate.",
+    "Traumatyczne wspomnienia z dzieciństwa.",
+    "BDSM.",
+    "Ja.",
+    "To uczucie kiedy myślisz że zaruchasz, a dowiadujesz się że dziewczyna ma na imię Mirek.",
+    "Duszenie kutasem.",
+    "Żydzi.",
+    "Oscypek.",
+    "Latający żyd.",
+    "Tona ziemniaków.",
+    "Kobiece prawa wyborcze.",
+    "Dwa nagie miecze.",
+    "Napalony azjata.",
+    "CS GO.",
+    "Donald Trump.",
+    "Kutasaurus rex. Najbardziej napalone stworzenie w dziejach Ziemi.",
+    "BÓG.",
+    "Ogromne przejęcie globalnym ociepleniem.",
+    "Narkotyki.",
+    "San Escobar.",
+    "Mickiewicz.",
+    "Otchłań Mordoru.",
+    "Gigantyczna łechtaczka.",
+    "System parlamentarno-gabinetowy.",
+    "Wpierdol lewakom!.",
+    "Pływanie po asfalcie.",
+    "Barack Obama.",
+    "Twój stary trzeźwy.",
+    "Wibrator z 36 trybami.",
+    "Kastracja zardzewiałym imadłem.",
+    "Ciemna strona internetu.",
+    "Kozojebca.",
+    "Twój stary najebany.",
+    "ALLAH AKBAR!.",
+    "Mecz tenisa w \"Ferdydurke\".",
+    "Pojemnik z nowotworem.",
+    "JOHN CENA!.",
+    "Czarni.",
+    "Masturbacja słoikiem.",
+    "Chujowa idea.",
+    "Wściekłe, homoseksualne wiewiórki.",
+    "Sex na pizzy.",
+    "Holocaust.",
+    "Auschwitz.",
+    "Fuck my daddy.",
+    "Smutny handjob.",
+    "Dziki , homoseksualny seks.",
+    "Złamanie penisa.",
+    "MechaHitler.",
+    "Homo.",
+    "Przypadkowe uderzenie w penisa.",
+    "Centaur-Jezus-Terapeuta.",
+    "Pluszowy jednorożec z dwoma penisami.",
+    "Seks z teściową.",
+    "Pornhub.",
+    "Terabajty porno z udziałem kóz.",
+    "Ślepa blondynka z penisem zamiast ręki.",
+    "Hitler.",
+    "Dziki seks z rodzeństwem.",
+    "Niespodziewany seks oralny.",
+    "Spocony penis.",
+    "Niemieckie porno w lochach.",
+    "Sperma byka.",
+    "Rozmiar mojego penisa.",
+    "Smoczy penis wielkości wieloryba.",
+    "Tak jak Pan Jezus powiedział.",
+    "Mirkopenis.",
+    "Amputacja penisa.",
+    "Kazirodczy, 3-pokoleniowy seks grupowy.",
+    "Kolczasta proteza penisa.",
+    "Naziści.",
+    "Laserowa naprowadzana rakieta dildo.",
+    "Penis Rasputina.",
+    "Namiętny seks 7latków.",
+    "Jezus Chrystus.",
+    "Dildo stylizowane na młot Thora.",
+    "Penis tak długi że się o niego potykasz.",
+    "Bukkake z Azjatką."
+  ],
+  "pack": {
+    "id": "69RA2",
+    "name": "Mefisto / red polish card"
+  },
+  "quantity": {
+    "black": 129,
+    "white": 295,
+    "total": 424
+  },
+  "dateStoredMs": 1588616113294
+}

@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "The new drug works by competitively binding to _ receptors.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the absence of O2, glucose will instead be broken down into _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_’s natural ligand is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "TLRs and other pattern recognition receptors recognize pathogen associated molecular patterns like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is a bitter rivalry between molecular biologists and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CRISPR is now being used in gene therapy for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What’s the difference between an enzyme and a hormone? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the powerhouse of the cell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did somebody say _???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "DNA makes RNA makes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why aren’t viruses considered alive? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We’ve discovered a new genetic mutation implicated in _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Phagocytosis.",
+    "Lipopolysaccharides.",
+    "Creationists.",
+    "RuBisCO.",
+    "Chemotaxis.",
+    "Adaptive immunity for bacteria.",
+    "Rosalind Franklin.",
+    "Making so much sugar you can just string it into polymers and put it in your cell wall.",
+    "MHC class II.",
+    "Photorespiration.",
+    "Sodium-potassium pumps.",
+    "The central dogma of molecular biology.",
+    "MRSA.",
+    "Kinesin strutting its stuff.",
+    "Tetrahydrocannabinol.",
+    "Phospholipids.",
+    "IgE.",
+    "Penicillin.",
+    "Double stranded RNA.",
+    "Abiogenesis.",
+    "Conjugation pili."
+  ],
+  "pack": {
+    "id": "NCKJQ",
+    "name": "Molecular Biology Stuff"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 21,
+    "total": 33
+  },
+  "dateStoredMs": 1589573184592
+}

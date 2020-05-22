@@ -1,0 +1,164 @@
+{
+  "black": [
+    {
+      "content": "Pundit is a/an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whether you're hiring a _ or a _ , ziprecruiter has the candidates for you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ : a profile in courage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am not boring! I _ once.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paul Ryan is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check out Marvel's newest feature film : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ziprecruiter : for when you need to hire a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And as always, thank you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One piece of advice I was given over the course of my career: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : #MeToo Avenging Angel",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think that is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can make delicious Blue Apron Recipes like these: _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s time for our next game: _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hill that we die on : _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first thing I'm going to do after the pandemic is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not _ Dan!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone was surprised when Ronan Farrow uncovered _ as the perpetrator of the crimes against _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We're not in the _ business anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on the rant wheel: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , you can keep it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pod Save America is sponsored by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're not using the other _ anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a straight shooter respected on both sides.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing but respect for my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tweeting is not enough you have to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "_ : that’s the news!.",
+    "Jon Favreau's Millionth House.",
+    "OBC.",
+    "Gavin Newsom.",
+    "Mitch McConnell.",
+    "Proposing through a book manuscript.",
+    "Lovett on edibles.",
+    "Ronan Farrow.",
+    "Akila's Laugh.",
+    "\"aye aye aye!\".",
+    "Take the gavel out of Mitch McConnell's gnarled hands.",
+    "Marco Rubio.",
+    "Pundit.",
+    "Joe America.",
+    "A straight shooter respected on both sides.",
+    "Nancy Pelosi.",
+    "Prediction.",
+    "The Cash App.",
+    "Mitch McConnell's dangling neck skin.",
+    "Dems in disarray.",
+    "Went to an escape room.",
+    "Not Great Dan ™.",
+    "A C+ Santa Monica Fascist."
+  ],
+  "pack": {
+    "id": "TB3UH",
+    "name": "It's not great dan"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 23,
+    "total": 48
+  },
+  "dateStoredMs": 1588983369661
+}

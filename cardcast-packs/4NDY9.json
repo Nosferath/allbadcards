@@ -1,0 +1,462 @@
+{
+  "black": [
+    {
+      "content": "With enough ranks in _, you can do anything.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A useful divination spell is Detect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unbeknownst to many, the Beholder also has a \"_\" ray.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dumped my \"_\" stat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're afflicted with _. No saving throw.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Make a Dexterity check.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always carry _ just in case I run out of spells.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rogues will steal anything, even _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? I'll sure let you try.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tremble in fear, for I am a warlock who sold my soul to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The holy symbol of my god is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I upcast _ to 9th level!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Power Word: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does the NPC have _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish for _, the only thing that can't go horribly wrong!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The seventh ability score is \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite their immense strength, Barbarians cannot comprehend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you check the Dungeon Master's Guide, there are rules for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tell me, what virtue do we not possess? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? A wizard did it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Druids don't wear metal armor because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wizards have one trick and it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our next campaign will take place on the Elemental Plane of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watch out,  _ is a mimic!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The coolest card in the Deck of Many Things is called \"_\". It creates _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Those are bold words for someone within _ range.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are on a quest to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worst character death? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My spellcasting focus is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Chaotic Neutral. I'm only in it for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This artifact grants powerful _ at the expense of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If there's one answer to every situation, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I worship the god of the \"_\" domain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Lawful Good. I believe in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most devious place to place Volatile Runes would be on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I make a Sneak Attack with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I specialize in casting spells from the school of \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Make a Constitution saving throw.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I attempt to lockpick _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You encounter _. Roll for initiative.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fire resistance.",
+    "A Total Party Kill.",
+    "Selling your soul for 4 spell slots.",
+    "Alcohol-induced superpowers.",
+    "A crown that makes you evil.",
+    "Electrum coins.",
+    "Lock picking.",
+    "A +1 greatsword.",
+    "An extra attack.",
+    "Faith-based disease immunity.",
+    "Three nut shells.",
+    "Killing the monster and taking his treasure.",
+    "Asking how many hit points you have.",
+    "Whatever Armor Class physically means.",
+    "Repeating crossbows.",
+    "Disguise Self.",
+    "Swashbuckling.",
+    "Power Word: Kill.",
+    "A teleporting T-Rex that breaths bee swarms.",
+    "Second breakfast.",
+    "Actually caring about the material components of spells.",
+    "Plot derailment.",
+    "Fancy footwork.",
+    "The abyssal chicken.",
+    "A die with only ones on it.",
+    "Grabbing arrows mid-flight.",
+    "The power of statistics.",
+    "Not having a plan.",
+    "A combination of race and class.",
+    "Homebrew material.",
+    "Turning a vibrant shade of blue.",
+    "Mind Flayers.",
+    "Taking another turn.",
+    "Magic missile.",
+    "Rideable dogs.",
+    "Pretending to be drunk.",
+    "Full plate-mail armor.",
+    "The Tomb of Horrors.",
+    "The sacred art of the Murder-Hobo.",
+    "Unique character concepts.",
+    "Flanking.",
+    "Flavor text.",
+    "Recursively exploding dice.",
+    "Mimics.",
+    "A fear of dead things.",
+    "Counterspell.",
+    "Gothic horror.",
+    "Renaissance-era weaponry.",
+    "Blaming everything on a wizard.",
+    "Monsters with class levels.",
+    "Tiny hit dice.",
+    "The Blood War between demons and devils.",
+    "Impaling people on spiked armor.",
+    "Grappling rules.",
+    "Three gallons of spoiled milk.",
+    "Solidified gloom.",
+    "Two gnomes in a trench coat.",
+    "A bag of rats providing infinite attacks.",
+    "Failing a Spot check.",
+    "Metagaming.",
+    "The Deck of Many Things.",
+    "Turning into a sheep.",
+    "Bluffing.",
+    "Psicrystals.",
+    "Darkvision.",
+    "The Sphere of Gravity Detection.",
+    "Parrying.",
+    "Talking as a free action.",
+    "A magic broom that beats you up instead of flying.",
+    "50 feet of hempen rope.",
+    "The Dungeon Master's Guide.",
+    "Fire breath.",
+    "The other half of a halfling.",
+    "The Giant Insect spell.",
+    "The orc horde.",
+    "Escape artistry.",
+    "A bag of ball bearings.",
+    "Balanced stats.",
+    "Summoning demons.",
+    "Dramatic teleportation.",
+    "The Wizards of the Coast.",
+    "A duel to the death.",
+    "Multiclassing.",
+    "The Kraken.",
+    "Spider-Elf.",
+    "A Vorpal blade.",
+    "An owl-bear.",
+    "Medieval robots.",
+    "The Book of Vile Darkness.",
+    "Alchemy.",
+    "Splatbooks.",
+    "Otto's Irresistible Dance.",
+    "Weird dice.",
+    "Every myth that ever existed.",
+    "Picking up literally everything you see.",
+    "Bardic Inspiration.",
+    "The Noise Ape.",
+    "Dungeons.",
+    "Sappy bards.",
+    "Dropping out of Hogwarts.",
+    "Milky, otherworldly tentacles.",
+    "Giant flaming worms from outer space.",
+    "Being all alignments at once.",
+    "A full-ling.",
+    "Seducing the barmaid.",
+    "The lack of a proper Gish class.",
+    "The dark between the stars.",
+    "10-foot-tall wildlife.",
+    "A 10-foot pole.",
+    "Summoning nuclear explosions at will.",
+    "A sentient item that wants to be famous.",
+    "The cleric's obsession with bludgeons.",
+    "Encumbrance.",
+    "Eldritch blast.",
+    "Dark elves wearing sunglasses.",
+    "An Immovable Rod.",
+    "Vicious Mockery.",
+    "Deep Speech.",
+    "An invisible guard dog.",
+    "The alignment system.",
+    "SAD (single-ability dependency).",
+    "A renamed sword.",
+    "Invisibility.",
+    "Overly judgemental Paladins.",
+    "Making an information spell into a weapon of mass destruction.",
+    "The DM inflicting damage for improper conduct.",
+    "Yet another chaotic good Drow ranger.",
+    "Unarmored defense.",
+    "Astral projection.",
+    "The Book of Exalted Deeds.",
+    "Magical post-scarcity economics.",
+    "A Beholder.",
+    "Jousting.",
+    "Fireball.",
+    "Sneak attack.",
+    "Spells doing exactly one thing.",
+    "Acrobatics.",
+    "The gym class.",
+    "Three marauder's axes.",
+    "Never having enough dice.",
+    "A Portable Hole.",
+    "Pick-pocketing.",
+    "Taking the same overpowered feat.",
+    "Blaming the DM.",
+    "A sepia snake sigil.",
+    "Random name generators.",
+    "Athletics.",
+    "Critical Role.",
+    "Flumphs.",
+    "Roleplaying.",
+    "A Displacer Beast.",
+    "Breaking down the door.",
+    "Obscure alchemical metal.",
+    "Dwarves.",
+    "Chaotic Stupid.",
+    "Strahd and his curse.",
+    "Caltrops.",
+    "The difference between Intelligence and Wisdom.",
+    "A Human Fighter.",
+    "Not doing anything on your turn.",
+    "Healing hands.",
+    "+3 to agriculture checks.",
+    "Siege weapons.",
+    "MAD (multi-ability dependency).",
+    "Mind control.",
+    "Rocks falling and everyone dying.",
+    "+1 power/+1 toughness.",
+    "A ring that makes you bad at math.",
+    "The Decanter of Infinite Water.",
+    "A religious dude in heavy armor.",
+    "Vorpal sword-related decapitations.",
+    "The Bag of Holding.",
+    "Variant Humans.",
+    "Appearing in a puff of smoke to talk politics.",
+    "Idiots who trigger traps.",
+    "Frivolous disclaimers for game manuals.",
+    "Having a plan.",
+    "A portable ram.",
+    "Story hooks.",
+    "The shield of Shield.",
+    "A cloud of daggers.",
+    "A railgun made out of 100 peasants.",
+    "Experience points.",
+    "Mage hand.",
+    "A natural 20.",
+    "Becoming a potted plant.",
+    "Plot railroading.",
+    "Dual-wielding lances.",
+    "Green flames.",
+    "Goblins.",
+    "Fantasy racism.",
+    "Plot armor.",
+    "Burning down the village.",
+    "Necromancy.",
+    "Doodling in your spellbook.",
+    "Psychic damage.",
+    "The Apparatus of the Crab.",
+    "Always keeping a grip on your weapon.",
+    "Black-and-white morality.",
+    "Sanitation in the 14th century.",
+    "Cavalry.",
+    "Period-appropriate instruments.",
+    "Melf's Acid Arrow.",
+    "Free swords in your spleen.",
+    "Healing potions.",
+    "Giant spectral cogwheels.",
+    "Being able to see people's morality.",
+    "Hadar, the Dark Hunger.",
+    "Necromancer lords of distant magocracies.",
+    "Holy water.",
+    "Advantage.",
+    "Attacks of opportunity.",
+    "A lack of mental acuity.",
+    "Dubloons.",
+    "Rolling for stats.",
+    "Playing the guitar so hard that you alter reality.",
+    "Not leveling up.",
+    "Taking a short rest.",
+    "A cacophony of soft whispers and slurping noises.",
+    "Animated objects.",
+    "A beard of evil.",
+    "Custom 3D-printed miniatures.",
+    "A gelatinous cube.",
+    "Sulfur and a pinch of bat guano.",
+    "Critical hits on teammates.",
+    "A rock that is also a telephone.",
+    "Dragons.",
+    "Rules lawyering.",
+    "Drizzt Do'urden.",
+    "An ability score improvement.",
+    "Min-maxing.",
+    "Pirates.",
+    "Locking every door in a quarter mile.",
+    "A sharpened wagon.",
+    "Out-of-character talking.",
+    "Being too angry to die.",
+    "The Monster Manual.",
+    "A character sheet.",
+    "Grappling hooks.",
+    "Fast-talking the Dungeon Master.",
+    "The locations of everything valuable.",
+    "Awakening humanlike intelligence in animals.",
+    "A race of short, vaguely Northern European, alcoholics.",
+    "Punching your face, as a bear.",
+    "Switching the goblets.",
+    "An alchemical homonculus."
+  ],
+  "pack": {
+    "id": "4NDY9",
+    "name": "Dungeons & Dragons"
+  },
+  "quantity": {
+    "black": 40,
+    "white": 246,
+    "total": 286
+  },
+  "dateStoredMs": 1589035222012
+}

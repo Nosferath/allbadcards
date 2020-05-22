@@ -1,0 +1,89 @@
+{
+  "black": [
+    {
+      "content": "Do you believe in _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? I only know what I've _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And under Alex, Joel found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever put your _ in a _... And have it live?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ thrusted his _ into _, with an incredible force.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Heh. Mystics of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Reaching 11th fold of Infinity is possible through a process involving _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Stefan Kindchild.",
+    "Kent, our lord and savior.",
+    "Passionately making love to bags of trash.",
+    "Stefan Kindchild.",
+    "Tiny men in tiny clown cars.",
+    "Roland/Cheasedust.",
+    "Jessie Mack Daddy.",
+    "Joel Miller.",
+    "Muffin, but a furry.",
+    "Raymund Ripe.",
+    "Alex Churchland.",
+    "Wilbur Sin.",
+    "Meatspreading.",
+    "Laser Eye Guy's Laser Eye.",
+    "Arnold Shpitz.",
+    "Serbian Knife Fight.",
+    "Tibby Dobbs.",
+    "Sailing in a fridge for 3 days with two other dudes.",
+    "A small army of Infinity Boy OCs.",
+    "Rag Maggots.",
+    "Jessie Mack.",
+    "Pedro Rodrigez.",
+    "Infinity Franchise.",
+    "Lazer Eye Guy.",
+    "Vinny/Lin.",
+    "Anaconda Virtue.",
+    "Tibby Dobbs.",
+    "The amount of people who'd ride The Anaconda.",
+    "Vinny Ramone.",
+    "Georgy Hernandez.",
+    "Long Leg Lenny manspreading.",
+    "An actual Salt Crab.",
+    "Chie, that fucking hooker.",
+    "That prick Georgy.",
+    "Getting sexually assaulted by a man in a pink mask while watching TV.",
+    "Fucking crows for more baby crows.",
+    "Arnold fisting several men with the brass knuckles on.",
+    "Rag Faggots."
+  ],
+  "pack": {
+    "id": "QCVN6",
+    "name": "Xyzzy: The Pointless"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 38,
+    "total": 45
+  },
+  "dateStoredMs": 1588739019874
+}

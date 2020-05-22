@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "When Batman thinks of his dead parents, he likes to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "XGUVF",
+    "name": "Holy Hilarious Cards, Batman!"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588468249323
+}

@@ -1,0 +1,422 @@
+{
+  "black": [
+    {
+      "content": "Dans la prochaine édition du téléjournal Acadie: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Impossible de s'en passer !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans un monde ravagé par _, notre seul espoir est _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alors que les États-Unis et l'URSS conquéraient la lune, les Acadiens dépensaient des millions dans la recherche sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quand je serai Premier Ministe, je créerai le ministère de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avec _, le spectacle de Noel de l'école deviendrait international.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beausoleil serait fier de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le musée des Acadiens présentera une nouvelle exposition sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter contre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui m'empêche de dormir ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce qu'il manque aux danses de l'école : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : oui ! _ : non !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "ATTENTION ! _ est interdit dans l'école.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quand je serai riche, je ferai ériger une statue de 15 mètres pour commémorer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui fait toujours lever le party ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Une nouvelle diète: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pauvre enfant ! Croyais-tu vraiment pouvoir échapper à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quel est le plaisir coupable de Batman ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beep beep ! _ arrive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nouvelle téléréalité du moment : huit vedettes qui vivent avec _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Les extraterrestres sont ici, ils viennent chercher _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je m'excuse madame, je n'ai pas pu terminer mon devoir à cause de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. C'est un piège!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il y a 4 saisons à Miramichi: (1) hiver doux, (2) hiver froid, (3) presque pu d'hiver et (4) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pour devenir riche, le Carrefour devrait vendre _ au petit café.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La dernière sortie scolaire a été ruinée par _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : là où se brasse les grosses affaires.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Partir pour MVHS; non ! _ ; oui !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le prochain cours à l'UdeM : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , donc tu viens du Nouveau-Brunswick !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans 1000 ans, l'argent en papier ne sera qu'un vague souvenir, alors comment paierons-nous les choses ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Impossible en classe : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : mon divertissement durant la pandémie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'Acadie va battre le record de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce que le Père Noël donne dorénavant aux enfants tannants, au lieu du charbon ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai inventé un nouveau sport. C'est le _-ball.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sur mon chandail, c'est écrit : «J'aime _!»",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le prochain duo super-héros / acolyte: _ et _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qu'est-ce qui s'améliore avec le temps ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Et l'Oscar pour _ est remis à _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La nouvelle pièce de théâtre de la troupe Lalarmealoeil portera sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Étapes 1: _ Étape 2:  _ Étapes 3: Des profits.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tu sais que tu as réussi quand tu fais _ à tous les jours.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je ne sais pas ce qui est pire: _ ou _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pourquoi est-ce que j'ai mal partout ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "«Les élèves, écoutez bien, car aujourd'hui on parle de _ en classe.»",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est quoi ce son ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? Non.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : c'est endormant !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jouer à Fortnite.",
+    "Faire du tube sur la rivière.",
+    "M. Sébastien.",
+    "La chèvre qui explose dans «La route de Chlifa».",
+    "Donner son 110%.",
+    "La déportation des Acadiens.",
+    "Laisser son assiette sale en classe.",
+    "Respecter la distanciation physique.",
+    "Avoir un tableau vert comme tableau blanc.",
+    "Les plantes dans la classe de M. Sébastien.",
+    "Marcher sur un Lego.",
+    "Le Dairy Bar à Néguac.",
+    "La galerie Art'cadienne.",
+    "Courir dans le corridor.",
+    "Un conducteur d'autobus.",
+    "Toi.",
+    "Coton ouaté.",
+    "Les chemises de M. Sébastien.",
+    "Le CCNB.",
+    "Arriver en retard en classe.",
+    "Le silence.",
+    "Une épidémie de poux.",
+    "Pêcher le bar.",
+    "La pizza du vendredi.",
+    "Jouer à Sushi Go.",
+    "Le Premier ministre du Nouveau-Brunswick.",
+    "Le zipline de Miramichi.",
+    "Avoir été bénévole pour les Jeux de l'Acadie.",
+    "Aller dans un colloque.",
+    "La math.",
+    "Aller dans les magasins le dimanche.",
+    "Les mouches à French Fort Cove.",
+    "Radio Radio.",
+    "Je cours pour le Carrefour.",
+    "Nordin.",
+    "Le Ô Canada le lundi matin.",
+    "La rivalité entre Chatham et Newcastle.",
+    "Manger à la cafétéria.",
+    "Attendre 40 minutes au Pizza Pro le midi.",
+    "La pression des pairs.",
+    "La salle d'art.",
+    "Boréal Express.",
+    "Les cours de métier.",
+    "Les filles.",
+    "Le confinement.",
+    "Wilfred Lebouthillier.",
+    "Les points bourgaunes.",
+    "Travailler la fin de semaine.",
+    "Une tempête de neige.",
+    "L'école à la maison.",
+    "Les vaches à Mme Mélanie.",
+    "Aller à Moncton.",
+    "La salle à manger du McDo.",
+    "Le bal des finissants 2020.",
+    "Changer les pupitres de place.",
+    "Se faire «roaster».",
+    "La Sagouine.",
+    "Aller aux salles de bain juste pour pas travailler.",
+    "Parc-à-vache.",
+    "L'émission «Le clan».",
+    "Du café.",
+    "Aller regarder les Timberwolves.",
+    "La chaîne humaine.",
+    "Aller à Bathurst.",
+    "Les Jeux de l'Acadie.",
+    "Participer à Accros de la chanson.",
+    "Allons-y pour 42 !.",
+    "Le chien à Mme Martine.",
+    "Les biscuits de la cafétéria.",
+    "Des bas blancs dans des Birkenstoce.",
+    "La chimie.",
+    "Avoir 16 ans.",
+    "L’agrandissement de l'école.",
+    "Le déjeuner de l'école.",
+    "Écouter des séries sur Netflix.",
+    "La route 11.",
+    "Chatham Head.",
+    "La parade des 100 jours d'école.",
+    "L'Acadie.",
+    "Le roi de France (AKA M. Sébastien).",
+    "Les films que M. Sébastien nous fait écouter.",
+    "Le défi à M. Rémy.",
+    "Décorer son casier.",
+    "Un peu de temps pour moi.",
+    "Le Colloque le Réveil.",
+    "L'Université de Moncton.",
+    "QW4RTZ.",
+    "Jass-Sainte Bourque.",
+    "Porter sa casquette.",
+    "Les châles (shawl) à Mme Sylvette.",
+    "Un homard.",
+    "Tiger King.",
+    "Les gars.",
+    "Les Timberwolves.",
+    "Un cours de FPS.",
+    "Lire «Le Petit Prince».",
+    "Aller chercher le chariot de portables.",
+    "Les jokes à M. Sébastien.",
+    "Le «bando» à Jass-Sainte.",
+    "Les recettes du chef Pat.",
+    "Baie Sainte-Anne.",
+    "Patiner avec l'école.",
+    "Les rencontres parents-maîtres.",
+    "Les héros du cœur.",
+    "L'espoir.",
+    "Le cours de français.",
+    "Le doigt à l'ail du p'tit mousse.",
+    "Aller dans les classes sur l'heure du midi.",
+    "Le vidéo de Noel  des enseignants.",
+    "Miramichi.",
+    "Devenir riche.",
+    "Le rire de Mme Annie.",
+    "Un nouveau enseignant.",
+    "L'autobus en retard.",
+    "La rentré scolaire.",
+    "Passer son midi dans la galerie d'art.",
+    "Faire des Tiktok dans le corridor.",
+    "Le labyrinthite de Fletcher's Farm.",
+    "Avoir des cours en ligne.",
+    "Faire du tutorat.",
+    "La semaine de la fierté française.",
+    "Participer au conseil des élèves.",
+    "Écouter un film.",
+    "L'éducation physique.",
+    "Faire le tour des ponts.",
+    "Les fruits séchés aux collations.",
+    "Apporter sa tasse.",
+    "Acajoux.",
+    "Se faire dire de parler français.",
+    "Mme Diane qui parle à l'interphone.",
+    "French Fort Cove.",
+    "Évangéline.",
+    "Un tintamarre.",
+    "Nettoyer son cassier.",
+    "Le stationnement de la bibliothèque.",
+    "Aller aux journée portes ouvertes même si on ne veut pas aller là plus tard.",
+    "La rivière Miramichi.",
+    "M. Sébastien qui s'écoute chanter.",
+    "Une veille boite à lunch.",
+    "Aller à la salle informatique.",
+    "Des allergies.",
+    "Lisa Leblanc.",
+    "Tomber en amour.",
+    "«caller» l'orignal.",
+    "L'Île Boishebert.",
+    "La bibliothèque de l'école.",
+    "Les examens du ministère.",
+    "Le 15 août.",
+    "Réussir.",
+    "Rien prendre à boire, car il n'y a plus de lait au chocolat.",
+    "Pleurer avant un test.",
+    "Un masque pour le visage.",
+    "Les «Jeux olympiques» de l'école.",
+    "La FJFNB.",
+    "Le pont de Miramichi.",
+    "Le rond-point.",
+    "La poutine râpée.",
+    "L'Acadie nouvelle.",
+    "Avoir un suppléant en classe.",
+    "Jouer du triangle.",
+    "«C'est un amour...»."
+  ],
+  "pack": {
+    "id": "H7E29",
+    "name": "Classe de M. Sébastien"
+  },
+  "quantity": {
+    "black": 49,
+    "white": 161,
+    "total": 210
+  },
+  "dateStoredMs": 1589511111946
+}

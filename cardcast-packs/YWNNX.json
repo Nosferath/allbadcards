@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "_ is the next upcoming Star Wars action figure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ could have stopped Order 66.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're on this council, but we do not grant you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the failure of the first Death Star, the Empire has decided to build _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Empire may have _, but the rebellion has _ on it's side.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Help me _. You're my only hope.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't like _. It's coarse, rough and irritating... And it gets everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason for Anakin turning to the dark side was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "B1 battle droids.",
+    "Unfinished C-3PO.",
+    "Watto.",
+    "R2D2 screams.",
+    "A fine addition to my collection.",
+    "The lies of the jedi.",
+    "Droidekas.",
+    "9 year old Anakin.",
+    "A giant CGI rendered clone army.",
+    "Bantha milk.",
+    "Tusken raiders.",
+    "The Lars' moisture farm.",
+    "Cloud City.",
+    "Ki-Adi-Mundi's giant head.",
+    "The forest moon of Endor which is really just California.",
+    "Killing younglings.",
+    "The Chosen One.",
+    "A black guy in charge of an army of white guys.",
+    "Pod racing.",
+    "Clankers.",
+    "Buzz droids.",
+    "A J-type 327 Nubian royal starship.",
+    "Darth Vader's meditation chamber.",
+    "Blowing up the death star twice.",
+    "The kiss that you should never have given me.",
+    "UNLIMITED POWER.",
+    "General Grievous' coughs.",
+    "Sand.",
+    "Stormtroopers that can't hit anything.",
+    "A very whiny Luke Skywalker.",
+    "Death sticks.",
+    "Good relations with the wookies.",
+    "Ray Park's ninja moves.",
+    "The Tragedy of Darth Plagueis the Wise.",
+    "Younglings.",
+    "Order 66.",
+    "An unmodified 70s ice cream maker.",
+    "Getting stuck in a trash compactor.",
+    "Maclunkey.",
+    "B2 super battle droids.",
+    "A fancy new double bladed lightsaber.",
+    "The Gungan  Grand Army.",
+    "The warm embrace of the inside of a tauntaun.",
+    "Accidental incest."
+  ],
+  "pack": {
+    "id": "YWNNX",
+    "name": "Star Wars 1-6"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 44,
+    "total": 52
+  },
+  "dateStoredMs": 1588616201816
+}

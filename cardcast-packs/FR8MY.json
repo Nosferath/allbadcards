@@ -1,0 +1,771 @@
+{
+  "black": [
+    {
+      "content": "Ich geh mal _ grillen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der mitlerweile dreifache Gewinner des Darwin Awards ist _ bitte kommen sie doch zu mir auf die Bühne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich glaube nicht an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer ist am Weltkireg schuld ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zu Weihnachten wünsche ich mir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cortana nach _ fragen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf meiner Ranch züchte ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Herr Ober mein Essen schmeckt nach _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die geilste Droge ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ geklaut von Baustell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich groß bin möchte mal _ sein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heb die _ auf .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In RTL´s neuer Serie sieht man _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Jackle und Mr. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Lieblings essen ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich stecke mir regelmäßig _ mit voller wucht ins rektum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die neue Schlagzeile der Bravo lautet \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Funfact: _ gibt es wirklich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ macht echt immer viel Spaß.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "zusehen bei _ und es Filmen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aporeds neuer Song heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue Kinoblockbuster heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum hängt _ an deinem Hals?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ als Geheimzutat im alten Familienrezept.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe mir heute _ operieren lassen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist so ne richtige Didiaktion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich mit _ fertig bin mache ich mit _ und _ weiter.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ich schenke meiner Freundin  _ zum Valentienstag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du isst dein _ jetzt auf sonst darfst du _ Morgen nicht.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Heute ist bei Steam _ reduziert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mama Mama da hinten ist _ und es hat mich gemobbt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Herr Ober in meiner Suppe ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein Ring sie alle zu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Danke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I Bims 1 _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe _ mit deiner Mudda gemacht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe Ausversehen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mama ich glaube da ist _ unter meinem Bett.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Hobby/Fetisch meines Lehrers ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niemand mag _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nur für _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meine neue Freundin heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ die alles zertrampeln.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Unterrichtsfach ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "5 Liter _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  wächst und gedeit langsam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich fixe mir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist unbeschreiblich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eine schwdische Studie hat ergeben das: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ steht auf meiner Not To Do Liste.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute ist _-Tag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum regnet es jetzt _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe die hälfte aller _ ausgelöscht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wir sind enttäuscht von Cedric.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja da ist  _ in meinem Beutel aber es gehört nicht mir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich war gestern bei _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sich mit _ aufspritzen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sucken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Tor wird von _ bewacht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe neulich _ im Puff getroffen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich schlage _ weil _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wenn du _ hast, hast du _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist jetzt im McDonalds Happy Meal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich bin Experte für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In meinem Schrank sitzt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gott sprach zu Jesus und sagte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Einigkeit und Recht und _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komm Jermie Pascal Kevin Lucas Rüdiger Harald Klaus Dieter Hektor Fritz Karl Hans Friedrich Otto Willem wir fahren zu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hast grad _ beleidigt ?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ApoRed 24h in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "LOS _ ICH WÄHLE DICH.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein neuer Fetisch ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Tipp fürs Abnehmen: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Gottesdienst wurde heute über _ geredet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist nun offieziel ein Sport bei Olympia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sadfact : _ ist nur im Film möglich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noch nachfolgende Generationen werden uns für _ bewundern.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die alles erklärende Weißheit besagt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geh mal _ holen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir möchte nicht dass mein Sohn gemobbt wird deswegen nennen wir ihn _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cedric = _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ *innen*innende.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ immer wieder lustig.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na tut _ weh ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ich mache immer _ auf dem Schulklo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ausrasten wegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deutschland ist für _, _ und _ bekannt.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Der neue Arthouse Film heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fortnite ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dort hinten sehe ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum liegt da Stroh ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du bist wie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich muss _. NICHT ICH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump möchte an der grenze zu Mexico _ bauen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn mir langweilig ist, jage ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cedric hat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um eine Zombie Apokalypse zu überleben braucht man _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So eine tolle Überraschung woher weißt du das ich _ so gerne mag ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein neuer Pornofilm heißt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "xXx._.xXx",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bei _ werde ich immer richtig GEIL.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich liebe _ mit _, einfach geil.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Apored hat _ im Arsch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noch mehr spaß als AIDS macht nur  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ HALT DEIN FRESSE.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sex mit _ haben.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jemanden erscheißen.",
+    "Kühe die aus Respekt vor Veganern Sojamilch geben.",
+    "Fische im Dixiklo halten.",
+    "W-Lan zum aufpusten.",
+    "Apo Red.",
+    "Schamlippen so groß wie Gardinen.",
+    "Zu \"Wetten das\" gehen und wetten das einem keine Wette eingefallen ist.",
+    "Ein depresiver Clown.",
+    "Leo Mascher.",
+    "Kühe in einem Personenzug.",
+    "Hast du grad meine Mudda beleidigt ?!.",
+    "Man muss es wissen um es zu wissen.",
+    "Zu \"The Voice of Germany\" gehen und zu Megalovania öh öhöhöhöhöh öh öhöh machen.",
+    "Ein Handelsübliches Kartenspiel mit 370 Karten.",
+    "Ein Profiespanner mit Ausweiß.",
+    "Aus langeweile Ohrenschmalz essen.",
+    "Mario das beste Pòkemon von allen aus Zelda.",
+    "Der liebliche Duft von Micky Maus leicht kross gebratenden Bauchnabelflusen.",
+    "Eine trilogie mit vier teilen.",
+    "Ein Böller in den Gulli schmeißen um \"Es\" zu verjagen.",
+    "Einem Lama mit Hut das Auto fahren beibringen.",
+    "Ein jodelnder Blauwal.",
+    "Mit einem Aidskranken Blutsbrüderschaft schliessen.",
+    "Löcher in Kondome stechen.",
+    "Omas Unterwäsche.",
+    "Sein Kind mit einem Guccigürtel auspeitschen damit man wen es einen Abdruck hat sagen kann es sei von Gucci.",
+    "Nie bekommen was man will.",
+    "Bormaschin geklaut von Baustell.",
+    "Schmelzkäse der Apokalypse.",
+    "Jeden Tag mit seinen Freunden Russischroulett spielen bis man keine Freunde mehr hat.",
+    "Kieselstein große Sackratten.",
+    "Die kleinen lustigen Pilze am Genital.",
+    "Brudha Maghie !!!.",
+    "Danke Merkel.",
+    "Tut Ench Amun den Arm auskugeln.",
+    "Barack Osama.",
+    "Molotow Cocktails aus Plastikflaschen.",
+    "Ein Cedric.",
+    "An Klebestiften schnüffeln.",
+    "W-Lan in der Dose.",
+    "𝕰𝖎𝖓 𝖗𝖎𝖙𝖙𝖊𝖗𝖑𝖎𝖈𝖍𝖊𝖗 𝕻𝖊𝖓𝖎𝖘.",
+    "Ich habe mich mit Charlie Chien angesteckt.",
+    "Tante Gertruts abgelaufener Erdbeerkuchen Jogurt.",
+    "Die alles erklärende Weißheit.",
+    "Blutgruppe Nutella.",
+    "Dr. Mommes Lifecycle Management.",
+    "Zu einem Buddhisten YOLO sagen.",
+    "Ein Level 999 Monster.",
+    "Wenn der Freund Eis bestellt einfach was da zwischen rufen.",
+    "Gummiebärchen mit Pfand die man nach dem koten wieder zurückgeben kann.",
+    "Ein asoziales Netzwerk in dem man Feinde statt Freunde hinzufügen kann.",
+    "Osama bin Laden ausrauben.",
+    "Asiaten mit Tintenfischen auspeitschen.",
+    "Genital Jousting Realife Edition.",
+    "Mit Connie um 3:00 nachts 2 Nasen Koks ziehen.",
+    "Einen schlechten Witz erzählen und dabei furzen.",
+    "Eine Torte als Patronos.",
+    "Bei einer Hauptschule ein Schild aufstellen mit der Aufschrift: hier nur im Schritttempo denken alles andere überfordert die Schüler.",
+    "XXAnusfisterTVXx.",
+    "31 Pastafarie und 1 Albinoniepferd die sauer sind weil sie ihre Nudelmesse nicht abhalten dürfen.",
+    "Den Darwin Award gewinnen.",
+    "Xenon einatmen.",
+    "Deo das mach Kleber riecht.",
+    "Eine Agentur die dafür sorgt das man den Darwin Award bekommt.",
+    "Einen überteuerten nicht essbaren angebissenen Apfel kaufen.",
+    "Pokale einschmelzen und zu einer Toiletenbrille gießen.",
+    "NICHT WITZIG.",
+    "Das fliegende Spaghetti Monster.",
+    "Ein blinder Gnom der ein kleines Katzenbaby verstümmelt.",
+    "Ich hab deine Mudda gefickt.",
+    "Der Pinguin.",
+    "Wasserbomben mit Säure gefüllt.",
+    "Kebs.",
+    "Herrausfinden ob ein Hamster der Klospülung gewachsen ist.",
+    "Das 269142301 Sandkorn am Strand von Grönland.",
+    "Eiter als grüne Grütze verkaufen.",
+    "In den Schockolandenkuchen kaken.",
+    "Furzen und Gasmasken verkaufen.",
+    "In den Milchreis wichsen.",
+    "Höchstleistungs scheißen.",
+    "Ein gerissenes Kondom.",
+    "Eingeweide ficken.",
+    "Chipskrümmel im Bett.",
+    "Mit Morgenlatte gegen die Wand laufen und sich die Nase brechen.",
+    "Aus spaß einen Krieg anzetteln.",
+    "Schwarzarbeit auf Baustell.",
+    "Gasmasken mit einem Metan Luft gemisch gefüllt.",
+    "Ein Intim-schwitziges Sauna Date.",
+    "Sich bei der Polizei beschweren weil der Dealer einem schlechtes Koks verkauft hat.",
+    "Aus Langeweile.",
+    "In die Gasflasche einer Gasmaske furzen.",
+    "Das ich dumm bin, bin ich nicht.",
+    "Trisomie 29.",
+    "20 Nielpferde und 1 Albinonielpferd die alles niedertrampeln.",
+    "Schwuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuul.",
+    "5 gegen Willi spielen.",
+    "An einer Autobatterie lecken.",
+    "Iregendeinem Typ auf der Straße ins Ohr ficken.",
+    "Ich baba deine Mudda.",
+    "Der Pelikan Flüsterer.",
+    "WITZIG.",
+    "Ein Priester.",
+    "Seine Großmutter schwängern.",
+    "Sein Kind \"Monte\" nennen.",
+    "Zu einem Pärchen gehen und zu einem der beiden sagen \"Ich mach Schluss\" wären der andere dabei ist.",
+    "Ronald McDonald SOS RInderdorf.",
+    "Ein behindertes Wasser mit sozialproblemen das einen die ganze Zeit voll labert.",
+    "Den Fernseher schlagen, damit man kein Geld für PayTV bezahlen muss.",
+    "Den Göffel abgeben.",
+    "Bruce Benner einen Blasen um zu Hulk zu werden.",
+    "Tiere züchten die sogar Veganer essen können da sie komplett aus Tofu sind.",
+    "In ein Dounutloch ficken.",
+    "Zwei Waldorfschüler die sich gegenseitig Beleidigen vortanzen.",
+    "Screencancer.",
+    "Einhornfleisch in der Dose.",
+    "Ich bin raus.",
+    "Spermaverkrustete Sackhaare rauchen.",
+    "Ein Lehrer der auf Triple-Time unterichtet und erklärt.",
+    "Der Porzelangott.",
+    "Unterschriften auf seinen Schamlippen sammeln.",
+    "Einen gut gwürzter Autoreifen leicht anbraten und warm servieren.",
+    "DEUTSCHLAND.",
+    "Der alte sabbernde Mann in der ecke im Altenheim.",
+    "Eine mit Dünnschiß geladene Schrotflinte abfeuern.",
+    "Eine Hodenfusion.",
+    "Der Moment wenn du der-Moment-wenn-Sätze bildest um cool zu sein.",
+    "In den Kaffe wichsen.",
+    "Die Schwabeltitten einer Stuades mit Flugangst.",
+    "Benutze Kondome als Kaugummie verkaufen.",
+    "Eine harte Nudel.",
+    "Eine Druckerpatrone mit Dünnschiß füllen.",
+    "Kleine Kinder in heißem Fett baden.",
+    "Ein Brot schimmeln lassen bis es Gliedmaßen bekommnt und es \"Bernd das Brot\" nennen.",
+    "Eine Schildkröte auf Speed.",
+    "Jeden Tag 10 min. mit den Armen flattern damit seinen Kindern Flügel wachsen.",
+    "Ein eigenes Ökosystem im Bauchnabel.",
+    "Ein kleines Totenkopfäffchen welches hirnrissige Ideen scheißt.",
+    "3 1/2 Berufsalkoholiker.",
+    "Ein Duftbaum der nach Klöten riecht.",
+    "Ein par Passanten aus Spaß schlagen.",
+    "Bei McDonald einen Whopper bestellen.",
+    "Der Pastafarianismus.",
+    "Ein Resturant wo in der Speisekarte unter der Kategorie \"Vegan\" nur \"ein Taxi\" steht.",
+    "Sich mit Eingeweiden einseifen.",
+    "Gasmasken mit Chloroform gefüllt.",
+    "Einen Kühlschrank ins All schiessen.",
+    "Wer ist Achmed.",
+    "Den Tabak von Papa durch Schießpulver ersetzen.",
+    "Juan Bahama.",
+    "Angebratente Darmzotten mit Gewürzen.",
+    "DuRöhre.",
+    "Ohne Fleis kein Leis.",
+    "Das gesamte Internet runterladen da mit für die anderen nix mehr da ist.",
+    "Forknite.",
+    "Zum Amt für Geschlechter gehen und sagen \"i wanna be Tracer\".",
+    "Einer Magersüchtigen sagen sie ist fett geworden.",
+    "Einem Einhorn die Gedärme rausreißen.",
+    "Gute Baby nur klein Gebrauchssprur.",
+    "Ich bin dünner als ihr alle zusammen.",
+    "Der morgentlich Schiss.",
+    "Die Dummheit mit Löffeln fressen.",
+    "Leonardo de Cabrio seine Oscras klauen.",
+    "💩.",
+    "999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 Luftballons.",
+    "Angela Merkels Reizwäsche.",
+    "Irgendwelche Telefonnummern wählen und wenn jemand ran geht \"Happy Birthday\" singen.",
+    "Mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi.",
+    "(╯°□°)╯︵ ┻━┻.",
+    "Kondome die mit Chillie gefüllt sind.",
+    "Die dämliche argumentation was Drogen betrift einer gewissen Politikerin.",
+    "Seine Mudda ficken weil YOLO.",
+    "Kuchen mit Hasenkötteln statt Blaubeeren.",
+    "... aber schauen sie mal hier das ist Chewbacca.",
+    "Eine sinnliche Nacht mit Dr.Momme verbringen.",
+    "Mit dem Stuhl aus dem Fenster fallen.",
+    "Mein Lieblingsbuch ist das Kamasutra.",
+    "Krebs.",
+    "VR Pornos gucken.",
+    "Reisfresser mit Mikropenis.",
+    "Lesbische Nazie Nutten von Aliens auf den Mond entfürht und zu einer Hungerkur gezwungen.",
+    "The ching chong bing bong sideway vagina flu.",
+    "Fortnite Pornos.",
+    "Digitaler deutscher Dünnschiss.",
+    "Einen Furz anzünden.",
+    "Androidensex.",
+    "Wenn man in der Dusche beim wichsen erwischt wird sagen \"das ist mein Penis und den wasche ich so schnell ich will\".",
+    "Seinen Schwanz in den Mixer tun und schauen was passiert.",
+    "Einen Tisch vergewaltigen.",
+    "Den Arsch eines weiblichen Fortniteskins als Wichsvorlage nehmen.",
+    "Sex auf dem Dixiklo.",
+    "Konzentrationslager.",
+    "Super duper mega hyper space AIDS.",
+    "Sich Käsebälchen in den Arsch stopfen.",
+    "Ich mag es, wenn dein Mund nach fremdem Sperma riecht.",
+    "Den Staubsauger nach einem Blowjob fragen.",
+    "Ein Dildo mit Wiederharken.",
+    "Wer auch immer da so laut geht halt die Fresse.",
+    "Beim Bukkake in der mitte sitzen.",
+    "Juden sind die wahren Nazies.",
+    "Mit einem Drachen Analsex praktiezieren.",
+    "Die Bröcken aus der Scheiße als \"Schokomüssli\" verkaufen.",
+    "Schmackhaft gewürztes Sperma.",
+    "Cedric is(s)t scheisse.",
+    "Ein Pädophiler Kindergärtner.",
+    "Penis.",
+    "Seinen Furz auf den Donner timen.",
+    "Speckröllchen am Penis.",
+    "Zu den Hotten Totten gehen um mal richtig die Sau raus zu lassen.",
+    "Als Frau einen Schwulen ficken indem man seine Schamlippen in seinen Arsch klemmt.",
+    "Der Kool-Aid Man, der seinen Penis misst.",
+    "Eine Penispumpe.",
+    "In die Apfelschorle pissen.",
+    "Weil alle Schwulen unsere Frauen vergewaltigen.",
+    "Sein Sohn so hart mobben das er mit 8 Jahren immernoch denkt das er Arschloch heißt.",
+    "Scheiße anbraten und als Schokopfannkuchen servieren.",
+    "Ein splittrieger Holzdildo mit Böller an der spitze.",
+    "Sex in Tschernobyl.",
+    "Ein hardcore bondage soft Porn mit Schlangen und Verstümmelungen.",
+    "Penis ?.",
+    "Sich die Haare mit Scheiße färben."
+  ],
+  "pack": {
+    "id": "FR8MY",
+    "name": "Digitaler deutscher Dünnschiss"
+  },
+  "quantity": {
+    "black": 107,
+    "white": 220,
+    "total": 327
+  },
+  "dateStoredMs": 1588967800886
+}

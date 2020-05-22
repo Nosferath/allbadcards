@@ -1,0 +1,175 @@
+{
+  "black": [
+    {
+      "content": "I find your lack of _ disturbing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aren't you a little short for a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The big ship in this fandom is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mos Eisley. You will never find a more wretched hive of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why, you stuck up, half-witted, scruffy-looking, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, I am your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only at the end do you realize the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. Hate leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Five years after the Emperor's death, Grand Admiral Thrawn returned to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never tell me the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My other ship is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now, witness the power of this fully armed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are a member of the Rebel Alliance, and a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want them alive. No _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hmmph! _. Hmmph! _. A Jedi craves not these things.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You could use a good _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love you. I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, that's a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Noghri.",
+    "Lando Calrissian.",
+    "Emperor Palpatine as the card czar.",
+    "Lobot, Lando's cyborg friend.",
+    "The Galactic Empire.",
+    "TIE Fighter.",
+    "A stormtrooper.",
+    "A smuggler and a princess.",
+    "TIE Interceptor.",
+    "Art.",
+    "Two military officers with more than a little mutual respect.",
+    "Luke/Mara.",
+    "Fuzzball.",
+    "The ISD Chimaera.",
+    "Walking carpet.",
+    "An astromech droid that consistently saves the day and gets no credit for it.",
+    "Thrawn/Car'das.",
+    "Ambiguously gay military commanders.",
+    "Captain Pellaeon.",
+    "Two Jedi who just argue a lot.",
+    "B-wing.",
+    "The Stormtrooper Corps.",
+    "A mountain full of clones.",
+    "A-wing.",
+    "Take this war back to the Rebellion.",
+    "A Jedi.",
+    "Thrawn/Pellaeon.",
+    "Han Solo.",
+    "Imperials.",
+    "Pants.",
+    "Kick ass now and take names later.",
+    "Meditation.",
+    "The Imperial Army.",
+    "Dogfights in space.",
+    "The Imperial Navy.",
+    "Rebels.",
+    "Beating off in the pilot ready room.",
+    "Jorj Car'das.",
+    "Luke Skywalker.",
+    "A minimally armed and heavily modified YT-1300 light freighter.",
+    "The Millennium Falcon.",
+    "Visit a bunch of strange planets and enslave a bunch of alien races.",
+    "Chewbacca.",
+    "The sherlock and watson character types.",
+    "Tactical games.",
+    "R2D2.",
+    "Y-wing.",
+    "Talon Karrde.",
+    "Rebel scum.",
+    "Learn about a species' art.",
+    "Corran Horn.",
+    "A lightsaber.",
+    "Leia Organa Solo.",
+    "Lando Calrissian.",
+    "C3PO.",
+    "Darth Vader.",
+    "Art history.",
+    "TIE Bomber.",
+    "Mara Jade.",
+    "Wedge Antilles.",
+    "Grand Admiral Thrawn.",
+    "X-wing.",
+    "Strange military tactics.",
+    "Luke and his extra but missing hand.",
+    "A practical cloaking shield.",
+    "Stormtroopers.",
+    "Smugglers.",
+    "Nerf-herder.",
+    "Droids."
+  ],
+  "pack": {
+    "id": "HVEQI",
+    "name": "Star Wars EU"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 69,
+    "total": 87
+  },
+  "dateStoredMs": 1588616199679
+}

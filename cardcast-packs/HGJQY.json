@@ -1,0 +1,852 @@
+{
+  "black": [
+    {
+      "content": "There's a _ that needs your help! I'll mark it on your map.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We were halfway to New Vegas when _ hit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Bouros has created a new abomination! It's a _ mixed with a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Doctor _ diagnoses a terminally low discussion of caps in this conversation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Lone Wanderer comes back to Vault 101 to find _ is the new Overseer!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The rockets were piloted by a cult of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Capital Wasteland would be a lot better if it wasn't for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which will it be, Courier? The _ or the _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey Amata, I'll show you a real _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is hidden in the Sierra Madre vault.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avoid _ if you would have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It was years ago, and I may have been experimenting with _ at the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick Valentine's latest case has him investigating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some laser beams here, a few _ there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We just need _ to get the water purifier working.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These Power Armored Boy Scouts are nothing more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deacon's latest disguise involves the clever use of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Robert House's newest invention is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one ever would've guessed the Parsons State Asylum was actually hiding _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best companion is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a Diamond City tradition.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't need nothing but liquor and _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Focus, Brothers! Focus on the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cazadores, Deathclaws, and _ , oh my!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patrolling the Mojave almost makes you wish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Charon doesn't like the looks of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're not the leader of your very own tribe! Your new name is General _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The price of freedom is eternal _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now you have to help Moira with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found Boone's wife! She's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You gave Mickey all your water, now he wants your _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Minutemen have taken over the Castle! Apparently it was full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Many people have _. Some of them were quite pleasant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Siding with _ is bad because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The last thing that Raider thought about before his head blew off was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your character has picked up way too many _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before she was Mama Murphy, they used to call her _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strange meat is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Three Dog is talking about the Lone Wanderer's newest achievement, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vault 69 contains _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It'a a Cazador! It's a Vertibird! No, it's a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can afford all we need, but we cannot afford _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EMBRACE DEMOCRACY OR YOU WILL BE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! I can't go back in there! It's dark. And there's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think _ should be in charge of the water purifier.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because that's how snakes fight, right up in your face with _ and _ and stuff!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They call Legate Lanius the \"_ of the East\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll give you a hint, they used to just call me _ , now I'm Old Lady Gibson!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paladin Danse hasn't been quite the same ever since he learned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You go to Gomorrah and order a dance from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this experiment, Vault-Tec exposed vault dwellers to massive amounts of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new dog companion is going to be named _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. House hides _ in his desk.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The White Gloves aren't cannibals! They actually eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If a smart mouth was all it took to solve problems, we might've found _ by now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the very definition of failure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The journey to find Dad really got underway once I started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ never changes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These radical malcontents don't care about you. They don't care about America! All they care about is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumors have surfaced that Tops Hotel owner Benny has taken yet another _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! You've been exposed to radiation, and a mutated _ has grown out of your stomach!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing Caesar's Legion ever did was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since you don't seem willing to do the world a favor and _ , I guess I'm going to have to do it for you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alistair Tenpenny now is not allowing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Butch is terrified of Radroaches and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't open this door! Your _ skill isn't high enough yet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goodneighbor: For the _ , by the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dr. Mobius is hiding _ in the Forbidden Zone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "INITIATING DIRECTIVE 7395: DESTROY ALL _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eyewitnesses outside Camp McCarran are reporting a large _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want to set the world on fire. I just want to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arcade Israel Gannon, he's not a good doctor but he is a good _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As part of an image makeover, the Brotherhood of Steel has changed their catchphrase from \"Ad Victoriam\" to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Caesar said he expected to resume his campaign of terror and mayhem as soon as he receives _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Murphy and Barrett are now cooking up ultra _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ disgraces no man, but occasionally men disgrace _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Death has come for you...and I am its _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one messes with the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , the last thing you ever see.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You found Agatha her violin and now she's playing her favorite song titled, \" _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PRIMARY TARGETS: ANY AND ALL _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest issues of Publick Occurrences exposes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The difference between savage and sophisticated is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try a refreshing _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Wild Wasteland perk replaces _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What the Capital Wasteland lacks in _ , it makes up for in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ and _ are fighting over control of the Hoover Dam.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new Pip-Boy has an attachment for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Wasteland rap battle is going on between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "C'mon, Tunnel Snakes! This twerp needs another _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unfortunately, because of repeated use, you have now become addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am the voice, heart, and soul of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ghouls have lived for over 200 years and have seen a lot of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The trip to the Salem Museum of Witchcraft was pretty normal until we found _ on the top floor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a long story, but the reason I used the last Stimpak involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strange rumors from across the river indicate a secret _ has been destroyed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ and _ were that miraculous, the locals would have figured it out a few thousand years ago.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The West family in Arefu was found killed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most terrifying thing in the Wasteland is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Butch is down for action, but you--you're a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Butch the hairdresser is no more! Now I'm gonna be Butch the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "President John Henry Eden wants to have a little chat about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Government should not be guided by temporary excitement but by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : The Lone Wanderer's greatest fear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Deathclaw tears into your home and finds you reading a copy of _ while on the toilet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you set aside his leadership capabilities, extensive knowledge, and _ , he's just another jerk who steps on people to get his way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How about a \"yee-haw\" for law and order in the fine town of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "G.N.R. Radio: Bringing you the _ no matter how bad it hurts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a world full of suspicion, treachery, and hunters--we're the synths' only friends. We're  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're thirsty for clean, fresh _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look Boone, if you're traveling with me, you have to wear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The damn G.O.A.T said I'm supposed to be a _ but that ain't me. I'm a _ , you got that?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Followers have extensive _ , but we all draw _ from the same old well.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The town of Nipton fell to the Legion after Vulpes Inculta announced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Residents and squatters in Freeside are overjoyed after waking to discover _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's a _? Hell if I know, but I'm gonna keep talking anyway!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sad news from Goodsprings; the town was wiped out after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have uncomfirmed reports that Caesar has died at his base camp after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Railroad owes you a crate, hell a truckload, of _ for you what you did to Kellogg.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doc Martin doesn't recommend you stick _ up your ass.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The big statue of the kid holding ice cream in Paradise Falls.",
+    "Mole Rat rancher.",
+    "Stealing from those less fortunate.",
+    "Losing a companion to a ridiculously obvious trap.",
+    "Stripe the Mini Deathclaw.",
+    "An entire Yao Guai.",
+    "WINNING THE LOTTERY.",
+    "Penance at the Church of the Children of Atom.",
+    "His stalwart Ghoul manservant, Argyle!.",
+    "Having a bad reputation with every faction.",
+    "Hoarding the rocket souvenirs.",
+    "ED-E's battle music.",
+    "Vulpes Inculta's furry hat.",
+    "Getting scared by unexpected kill cams.",
+    "Sleeping with Benny.",
+    "That one crazed-looking Khan with a Mohawk in the beginning of New Vegas.",
+    "Sonjaculating into a gun.",
+    "Herbert \"Daring\" Dashwood.",
+    "The old lady gang attacking you with rolling pins.",
+    "A Vault full of corpses.",
+    "Anime themed mods.",
+    "Playing \"I've got our nose!\" with a Ghoul.",
+    "Cass' alcoholism.",
+    "Tumbleweeds.",
+    "The Wasteland Survival Guide.",
+    "Selling your companions to cannibals.",
+    "Boone's beret.",
+    "Corporal Betsy.",
+    "THE TESLA COILS. THE COILS OF TESLA.",
+    "Boone doing a sick MLG 360 No-Scope.",
+    "Really hilarious ragdolling.",
+    "Being over encumbered.",
+    "An Alpha Deathclaw.",
+    "THE LIBERATION OF ALASKA!.",
+    "Disturbingly large amount of hula dancer figurines.",
+    "Disturbingly intense Deathclaw fetish.",
+    "Grimy clothing.",
+    "Colonel Hsu.",
+    "Nightstalker Squeezins.",
+    "Accidentally wearing the wrong faction armor and getting shot.",
+    "The same guitar riff that plays before every Ink Spots song.",
+    "A Radscorpion now missing its stinger.",
+    "Little Moonbeam.",
+    "Enough Nuka Cola to choke a Brahmin.",
+    "Blowing up Megaton for jollies.",
+    "Plasma rifle.",
+    "Take drugs, kill a bear.",
+    "Lowkey joining the Legion.",
+    "Carol and Greta, the lesbian Ghouls in Underworld.",
+    "Bitter Root's horrible backstory.",
+    "Accidentally killing a Radroach with a mini nuke.",
+    "Learning the truth about Boone.",
+    "All the loading screens inside New Vegas.",
+    "The Gannon Cannon.",
+    "Handling Benny's \"package\".",
+    "The Primm rollercoaster.",
+    "Sneering imperialist.",
+    "<excited beeping>.",
+    "Old copies of Grognak the Barbarian.",
+    "Deathclaws.",
+    "The green filter over the Capital Wasteland's environment.",
+    "Cazadores.",
+    "Being weirdly attracted to the Lone Wanderer's dad.",
+    "Robo-Scorpions.",
+    "Drinking and swimming at the same time.",
+    "Racing Radscorpions hopped up on Psycho.",
+    "An all-expense paid vacation to Evergreen Mills.",
+    "The broken door that still requires a lock-pick skill of 100 to open.",
+    "Hearing that one song on the radio three times in a row.",
+    "Eating 200-year old snack cakes.",
+    "Caesar's tumor.",
+    "Centaur's tentacles.",
+    "Your dad scolding you for blowing up Megaton.",
+    "Pugilism Illustrated.",
+    "A flying deathclaw.",
+    "Joshua Graham never running out of .45's to reload.",
+    "Not being able to wear the power armor.",
+    "Ghoul's rights activists.",
+    "V.A.T.S.",
+    "Liberty Prime.",
+    "Rex the Robo-Dog.",
+    "The irony of Liam Neeson's daughter having to find HIM for once.",
+    "PUPPIES!.",
+    "Using a license plate as shoulder armor.",
+    "That one NCR Ranger that barfs on the Gomorrah sign.",
+    "Pre-war clothing.",
+    "Running away from Deathclaws.",
+    "The fire inside burning brighter than the fire around.",
+    "Spurs that go jingle jangle jingle.",
+    "Vault 22.",
+    "Eating 200-year-old food with no consequences.",
+    "Killing the NCR Rangers to get their dogtags.",
+    "Primm Slimm.",
+    "Fighting every opponent in The Thorn to the sound of the John Cena music.",
+    "Stepping on that frag mine.",
+    "Stupid Pinko Commies.",
+    "Best Friend Tabitha.",
+    "Wondering how Little Lamplight continues to maintain a population.",
+    "Chunks of dead Raiders.",
+    "Advanced radiation poisoning.",
+    "Being \"DEAD SEA\"rious.",
+    "Drinking 15 Sunset Sarsaparillas in a row.",
+    "Getting turned on by Securitrons.",
+    "Harold's nice thick trunk.",
+    "Stealing from a bus full of dead children.",
+    "Strung out Raiders.",
+    "All the tin cans around the Wasteland.",
+    "Having too much luck and getting kicked out of casinos.",
+    "Getting fisted by FISTO.",
+    "The skeleton in the bathtub with the toaster.",
+    "Radroach.",
+    "The Platinum Chip.",
+    "Sneaking around Father Elijah with all the Sierra Madre gold.",
+    "Feral Ghouls.",
+    "Delicious human flesh.",
+    "Someone re-crucifying themselves.",
+    "The pile of corpses of Freeside thugs.",
+    "Stained copies of the D.C. Journal of internal Medicine.",
+    "Helping every slaver.",
+    "Finding a skull in the toilet.",
+    "Rising from the grave.",
+    "Giving him the naughty nightwear.",
+    "Dressing as the Ant Agonizer for personal jollies.",
+    "Getting kidnapped by the Master and turned into a Super Mutant.",
+    "Fantastic's theoretical degree in physics.",
+    "Wanting to sleep with every antagonistic character.",
+    "Failing skill checks.",
+    "Getting caught pickpocketing.",
+    "The Enclave.",
+    "Losing a game of Caravan.",
+    "Killing everyone and everything.",
+    "October 23rd, 2077.",
+    "Gary.",
+    "Never saving your game.",
+    "Turning into a Ghoul.",
+    "A massive army of Super Mutants in the downtown D.C. area.",
+    "The Brotherhood of Steel.",
+    "Having a bag filled with a few thousand bottle caps.",
+    "Using your Pip-Boy and stopping time.",
+    "Fancy Lad Snack Cakes.",
+    "Liam Neeson, Matthew Perry, and Felicia Day.",
+    "The amber filter over the Mojave environment.",
+    "Charon's speech impediment.",
+    "That incredibly long walk to Jacobstown.",
+    "The ugly underwear.",
+    "The Tops.",
+    "Lowkey joining the Enclave.",
+    "A nice pair of Charlie's Big Jiggly Brahmin Udders.",
+    "Headshots.",
+    "Setting your companions on fire.",
+    "The Super Duper Mart.",
+    "Getting blown up outside of Nellis AFB.",
+    "Democracy.",
+    "Fire-breathing ants.",
+    "Snuffles the Sloan Mole Rat.",
+    "Mr. Gutsy modified to play Vocaloid tunes.",
+    "Antler the All-Knowing Brhamin Skull.",
+    "Killing every slaver.",
+    "[Luck 7] Ice Cream.",
+    "Getting blinded by the light when you exit Vault 101.",
+    "Hoarding weapons.",
+    "Force-feeding Butch DeLoria sweet rolls.",
+    "The Gannon Family Tesla Armor.",
+    "Leaving your Pip-Boy's light on.",
+    "Running out of ammo.",
+    "Nuclear winter.",
+    "Your lovely time at American High School.",
+    "Smelling that air, drinking it like BOOZE.",
+    "Throwing Lee Oliver off the side of the dam.",
+    "Drinking toilet water.",
+    "Ritchie \"Ball Lover\" Marcus.",
+    "10 of Spades.",
+    "The satisfaction of placing a mine in Moriarty's pocket.",
+    "Dog or God.",
+    "Legion upskirts.",
+    "Silver Shroud Cosplay.",
+    "Brahmin-tipping.",
+    "Lighting your second in command on fire and throwing him into the Grand Canyon.",
+    "The Great Khan's encampment on the other side of the Deathclaw nest.",
+    "The Super Mutant with the Gatling laser running right for you.",
+    "A wild night with Fisto the Love Protectron.",
+    "Eating the baby.",
+    "Three Mirelurks, two Robobrains, and a Mole Rat ashamed of itself.",
+    "Papa Khan with a daddy kink.",
+    "Taking too much fall damage.",
+    "Lily Bowen, grandma supreme.",
+    "Pleasuring Fire Ants while the Ink Spots play in the background.",
+    "Helios One.",
+    "Three Dog's disapproval.",
+    "The dinosaur in Novac.",
+    "The G.E.C.K.",
+    "Vulpes Inculta's fursona.",
+    "Thirteen screaming Mole Rats.",
+    "Stealth Boy induced schizophrenia.",
+    "Dogmeat.",
+    "Blowing up the monorail.",
+    "Banishment from Vault 101.",
+    "Doctor Li thirsting over the Lone Wanderer's dad.",
+    "Putting your Pip-Boy on the wrong arm.",
+    "Hiring prostitutes.",
+    "Benny's not-so-hidden foot fetish.",
+    "Drug dealing.",
+    "Dead.",
+    "Ulysses' maxed out base stats.",
+    "Butcher Pete.",
+    "The soothing sounds of Mr. New Vegas.",
+    "Yes Man's face.",
+    "Getting awkwardly turned on by Glowing Ones.",
+    "Forgetting to turn off your Pip-Boy's light.",
+    "Dinner with the White Glove Society.",
+    "A spaceman suit.",
+    "The Lone Wanderer's intense desire to hoard butter knives.",
+    "Getting enough bad karma to recruit Jericho.",
+    "Fishing jokes aimed at Veronica.",
+    "The half-naked girls playing in the fountain outside of the Ultra-Luke.",
+    "Ron Perlman's narration.",
+    "Super Jet.",
+    "Wanting to fuck the Ghouls.",
+    "The sexual tension between the Ant Agonizer and the Mechanist.",
+    "Futuristic dildos.",
+    "Using the Mechanist's armor to build a sexbot.",
+    "\"You're platinum, Pussycat!\".",
+    "Having an orgy in Vault 108.",
+    "Wearing only sexy sleepwear and carrying a rocket launcher.",
+    "Those sexy Super Mutants.",
+    "Adding a robo-dick to one of Mr. Gutsy's tentacles.",
+    "Being way too over-leveled for this shit.",
+    "Graffiti that says \"FUCK YOU\".",
+    "Your enemies exploding into little bloody pieces.",
+    "Being way too under-leveled for this shit.",
+    "Punching a boatfly.",
+    "Power fisting.",
+    "Long Dick Johnson.",
+    "Teaching Shakespeare to Super Mutants.",
+    "Antony naming one of his dogs \"Slut\".",
+    "Not following the main storyline."
+  ],
+  "pack": {
+    "id": "HGJQY",
+    "name": "Cards Against Fallout"
+  },
+  "quantity": {
+    "black": 120,
+    "white": 236,
+    "total": 356
+  },
+  "dateStoredMs": 1588213150209
+}

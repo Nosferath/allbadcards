@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Obama likes to play with_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZFRPR",
+    "name": "Cards against society"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589232107364
+}

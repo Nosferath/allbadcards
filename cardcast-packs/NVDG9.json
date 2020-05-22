@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "Hey, what's that? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me? Well, I rather enjoy the feeling of _. It serves as a constant reminder that I exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Straight up just sucking the life out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the glory of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am not _! I am _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Sounds gay; I'm in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Say what you want, but I have the power of _ and _ on my side!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some days I just wanna leave it all behind, uproot and go to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heh, nice shot kid. Hitting me with  _ really did a number on me! I don't know how I can recover from this... Good thing I have my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Let 'em in I say, we can use more _ 'round here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and  _? That's like 50% of my interests!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Imm 'bout to _ all up in dis' bitch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright, which one of you fuckers said _ was easy?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The showers at Ram Ranch.",
+    "Tlasha.",
+    "Accidentially anstral projecting across dimensions.",
+    "The preciscion vaxing of anti-vaxers.",
+    "Self-propel via projectile vommiting.",
+    "A fragile male ego.",
+    "Korisj.",
+    "Ricardo Milos.",
+    "18 wild coyboys in the yard.",
+    "Daantek.",
+    "Aserting dominace via interpretive dance.",
+    "Untittingly setting in motion a chain of event that, when started, will begin an inexorable march to the worlds end! You fool! I never thought you to be so... Er, whoops, sorry about that.",
+    "Having a cold-blooded heart in a warm-blooded world.",
+    "Stag.",
+    "Stepping in a puddle and fucking dying.",
+    "Suddenly looking really gay, like, holy shit."
+  ],
+  "pack": {
+    "id": "NVDG9",
+    "name": "Test"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 16,
+    "total": 29
+  },
+  "dateStoredMs": 1589085628295
+}

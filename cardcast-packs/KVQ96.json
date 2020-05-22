@@ -1,0 +1,45 @@
+{
+  "black": [
+    {
+      "content": "I'll _ you in a minute.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "YO _ GUESS WHO JUST GOT OUT OF PRISON!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When mummy and daddy love each other very much they _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the _ say?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like chicken. _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zac is Death.",
+    "I DON'T HAVE ANY WHALES!.",
+    "I like chicken.",
+    "Donald Trump."
+  ],
+  "pack": {
+    "id": "KVQ96",
+    "name": "Discord Fun"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 4,
+    "total": 9
+  },
+  "dateStoredMs": 1589282217310
+}

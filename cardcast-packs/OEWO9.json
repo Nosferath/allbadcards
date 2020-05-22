@@ -1,0 +1,150 @@
+{
+  "black": [
+    {
+      "content": "Even Henry thinks _ is no laughing matter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My body is ready for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Don't mess with a _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ stole Chrom away from me!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scholars, poets, and bards agreed on one thing alone--_ loved _above all else.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Chrom, Lissa, and all of my people... Know that I loved _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Pick a _ and pray!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inigo's latest attempt at flirting failed due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I named MU _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lissa's brand is actually on her _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I challenge my _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the end of chapter 11, Chrom accidentally married _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's milord in a bold pose—naked, save  _ in one hand and  _ in the other.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fire Emblem: Awakening; _ the game!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tharja's latest love potion combines _, _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Baby, you're a river of _ in an ocean of _.  I'm going to steal your heart on a daily basis.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Enter the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ comes before love.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tipping the scales using only _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My _ twitches!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lunatic+.",
+    "Gaiabetus.",
+    "Minervykins.",
+    "The royal onesie.",
+    "Eugenics.",
+    "Chrom.",
+    "[lucina voice] FATHER.",
+    "DLC Micaiah.",
+    "Disney Princess Henry.",
+    "[chrom voice] gODS.",
+    "A shit-ton of crows.",
+    "A giant metal lobster.",
+    "Cervantes' invincible mustashe.",
+    "Excellus.",
+    "Barbaribelle.",
+    "Pantless mounted units.",
+    "Aversa's jiggle physics.",
+    "Grima.",
+    "Wyvernman.",
+    "The Avatar.",
+    "Tharja's golden thong.",
+    "BLOOD AND THUNDER.",
+    "Potato peeling.",
+    "Sword hand.",
+    "Being manhandled.",
+    "Galeforce.",
+    "Frederick's Fanatical Fitness Hour.",
+    "Vaike's axe.",
+    "Stupid shipping wars.",
+    "Gynophobia.",
+    "The neck of a giraffe.",
+    "Boingy bits.",
+    "Apotheosis.",
+    "Waifu."
+  ],
+  "pack": {
+    "id": "OEWO9",
+    "name": "Fire Emblem: Awakening"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 34,
+    "total": 54
+  },
+  "dateStoredMs": 1589496143260
+}

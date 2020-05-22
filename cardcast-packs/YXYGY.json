@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "Una nuova norma sulla sicurezza ora proibisce _ sugli aerei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La lega serie A ha vietato _ poiché dà un vantaggio ingiusto ai giocatori.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E' un peccato che i ragazzini al giorno d'oggi partecipino a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fra 1000 anni, quando le banconote saranno soltanto un ricordo lontano, _ sarà il nostro denaro.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "YXYGY",
+    "name": "CAH Italiano"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1589150310965
+}

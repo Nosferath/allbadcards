@@ -1,0 +1,72 @@
+{
+  "black": [
+    {
+      "content": "Corona virus would be better with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on Boris Johnson's agenda is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Andy's job is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "I'm friends with my dad .",
+    "Ivory tower.",
+    "Police cunt.",
+    "Hold the shrooms.",
+    "Spicy.",
+    "Craig david all over your face .",
+    "Brexit.",
+    "Elbow johnson.",
+    "Mr lane.",
+    "Poky dick.",
+    "5g.",
+    "Thumb.",
+    "Cunty manor .",
+    "Harambe.",
+    "Corona virus.",
+    "Not the fuck.",
+    "Fraudulent lending .",
+    "Mr fong.",
+    "A night in willow.",
+    "Jennie is a ho.",
+    "Kallum taylor.",
+    "Gasoline .",
+    "Ham.",
+    "Frothies with the boys.",
+    "Stay alert.",
+    "Ham horn.",
+    "Nick morrit.",
+    "Darude sandstorm.",
+    "Marketing role.",
+    "Efes.",
+    "Styc.",
+    "Jeremy corbyn.",
+    "Andrew rees: professional bitch fucker.",
+    "Civil liberties .",
+    "Willow.",
+    "D block.",
+    "London mutuals.",
+    "Nick morrit's bedroom.",
+    "Fuck the nhs.",
+    "E talon.",
+    "Thatcher's rotting corpse."
+  ],
+  "pack": {
+    "id": "HZPTJ",
+    "name": "Swap pens"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 41,
+    "total": 44
+  },
+  "dateStoredMs": 1589485826977
+}

@@ -1,0 +1,92 @@
+{
+  "black": [
+    {
+      "content": "Hydrate or _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst part of band camp is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first example is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ represent 2 out of 3 maximum response indicators.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "View the style guide for _ and more information.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Without _ how will the show go on?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Write calls as sentences using punctuation, capitalization and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We aren't accepting absences unless you're dead or _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ren did _ while practicing colorguard. I think she's dead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Coyn mad at the colorguard again? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that practice got canceled because _ did _.  Sick.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Overheating on field.",
+    "Not bringing enough money for the band trip.",
+    "Eating the Bible.",
+    "Color guard.",
+    "The first example response.",
+    "Dog days.",
+    "Band Camp.",
+    "Frontline.",
+    "The Brass section.",
+    "Playing in tune for once in your goddam life.",
+    "Noun-like phrasing.",
+    "Endlessly dabbing.",
+    "Drumline.",
+    "Impaled by flag.",
+    "Minimal punctuation.",
+    "I don't feel so good mr krabs.",
+    "The clarinets.",
+    "Staying in step.",
+    "The proper noun Jerry.",
+    "Doing the floss like nobody's buisness.",
+    "Bad snacks durning break."
+  ],
+  "pack": {
+    "id": "RTPJK",
+    "name": "Marching band"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 21,
+    "total": 32
+  },
+  "dateStoredMs": 1589341406946
+}

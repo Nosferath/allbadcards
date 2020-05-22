@@ -1,0 +1,117 @@
+{
+  "black": [
+    {
+      "content": "You finished all the coffee! What do your co-workers need from you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are running late on a deadline that is due to your supervisor tomorrow. What do you need from your supervisor?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your co-worker is nervous about their next lesson/presentation. What does your co-worker need from you?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your co-worker drove all the way to Pine Valley Central School, just to hear that their lesson is cancelled due to a “very important” assembly. What does your co-worker need from you?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are running late on a deadline that is due to your supervisor tomorrow. What does your supervisor need from you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your office buddy/neighbor is being a bit too noisy. What do you need from your office neighbor?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your co-worker is having trouble accessing their files on their computer. What does your co-worker need from you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no!! You FORGOT WAGNER! What do you need to access within yourself??_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your co-worker sent out a mass email with some errors in it. What does your co-worker need from you?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A student burst into tears in the middle of your class. What do you need from the teacher?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your trainer is mad boring right now!!! What does your trainer need from you?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Consideration .",
+    "Chocolate.",
+    "A warm smile .",
+    "Authenticity .",
+    "Forgiveness .",
+    "Acceptance.",
+    "Attentiveness.",
+    "A good laugh.",
+    "Care.",
+    "Dependability .",
+    "Silliness.",
+    "Trustworthiness.",
+    "Encouragement.",
+    "Understanding .",
+    "Advice.",
+    "Anything at all.",
+    "A home cooked meal .",
+    "Constructive Feedback .",
+    "Cheering up .",
+    "Support .",
+    "Loyalty.",
+    "A magic wand.",
+    "Empathy .",
+    "A million dollars.",
+    "Dedication.",
+    "Compassion.",
+    "Help .",
+    "Vulnerability.",
+    "A day off.",
+    "Generosity.",
+    "A time machine .",
+    "A hug .",
+    "Assistance .",
+    "A congratulations .",
+    "Alone time .",
+    "A favor.",
+    "Resilience .",
+    "Honest .",
+    "Humor.",
+    "A tissue.",
+    "Joyfulness.",
+    "Respect.",
+    "Optimism .",
+    "Strength .",
+    "A shoulder to cry on .",
+    "Praise."
+  ],
+  "pack": {
+    "id": "CVQSH",
+    "name": "Buddy System"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 46,
+    "total": 57
+  },
+  "dateStoredMs": 1589548806266
+}

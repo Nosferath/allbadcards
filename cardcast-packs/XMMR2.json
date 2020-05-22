@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "Crutchie didn't know that _ and _ were dating.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How did Spot and Race spend their weekend? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was _ 's New Years kiss.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How did Jack and Crutchie spend their weekend? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was _ 's New Years kiss.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Crutchie didn't know that _ and _ were dating.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's on Itey's mind? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bumlets.",
+    "Getting wasted and spraypainting things.",
+    "Smalls.",
+    "Itey.",
+    "Sniper.",
+    "Skittery.",
+    "Oscar.",
+    "Bumlets.",
+    "Smalls.",
+    "Albert.",
+    "Albert.",
+    "Sniper.",
+    "Skittery.",
+    "Skittery.",
+    "Fettucine alfredo.",
+    "Oscar.",
+    "Smalls.",
+    "Itey.",
+    "Itey.",
+    "At least seven (7) cats.",
+    "Bumlets.",
+    "Sniper.",
+    "Albert.",
+    "Oscar."
+  ],
+  "pack": {
+    "id": "XMMR2",
+    "name": "the homiesexuals pt 2"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 24,
+    "total": 31
+  },
+  "dateStoredMs": 1589277060083
+}

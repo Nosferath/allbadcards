@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Fra 1.000 anni, quando le banconote saranno soltanto un ricordo lontano, ____ sarà il nostro denaro _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova norma sulla sicurezza ora proibisce ______ sugli aerei _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "è un peccato che i ragazzini al giorno d'oggi partecipino a _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "6CURR",
+    "name": "Carte contro l'umanità"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 0,
+    "total": 3
+  },
+  "dateStoredMs": 1589062505003
+}

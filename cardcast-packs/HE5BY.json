@@ -1,0 +1,2960 @@
+{
+  "black": [
+    {
+      "content": "Error 69: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Löysin sisäisen rauhan aloitettuani _-joogan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minulla on urhea ratsuni ja _ mukanani joten en pelkää mitään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras lääke darraan on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pelastaa suhteen kuin suhteen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Onko _ muka niin paha asia kuin mitä väitetään?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on maailman luonnollisin asia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on todellinen _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on mielessäni juuri nyt? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throwaway time: _._._.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ on asia, jonka vain älykkäät ihmiset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaa _ vai? No mikäs jottei, viime kerrasta on kuitenkin jo aikaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kelan uusin tapa tukea vähäosaisia: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on lempi seksiasentoni? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on kaikkien aikojen paras life hack? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on auttanut minua löytämään uudelleen lapsuuden intohimoni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oletko koskaan kokeillut tätä: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Annoin WiFi-verkolleni nimeksi \"_\" ja naapurini käyttävät sitä vain entistä enemmän.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Minulla lojuu ehjä, mutta käytetty _ kaapissani. Hintapyyntö on 20€.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kerjäläinen pyysi minulta rahaa, mutta ainoa asia, jonka pystyin antamaan hänelle oli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin kiihottava tekijä miehessä on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-välikohtauksen jälkeen en ole enää saanut osallistua vanhempainiltoihin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auttakaa! Lapsellani on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kellarissani on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minulle tärkeintä elämässä on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sai minut viimein masentumaan lopullisesti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Varmin tapa saada kurssista vitonen on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on helppoa kuin heinänteko.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anteeksi, mutta lapsellanne on _. Eikö teitä hävetä?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ oli kerrankin oikeassa: _ on hauskaa!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on ovela life hack, joka auttaa urakehitystä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on rohkeinta, mitä tiedät? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suosittu leffasarja saa jatkoa! Uusin osa on nimeltään: \"Teurastamo 5: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pitää lääkärit loitolla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oletko koskaan miettinyt, kuinka nopeasti _ tippuu kerrostalon katolta? Kokeillaan!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aamupalan tärkein raaka-aine on tutkitusti _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kuuluu pizzaan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parasta parisuhteessa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä ei ole olemassa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaikki yhden ja _ kaikkien puolesta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Niin hyvää ettei sanotuksi saa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun varma _ on edessä, niin ei auta kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Tietysti Pauligin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senkin _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on syy, miksi en saa enää toimia lastenhoitajana.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on typerämpi kuin saapas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kukaan ei selvinnyt kun _ hyökkäsi kaupunkiin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Valitettavasti valintamme ei kohdistunut tällä kertaa sinuun, koska olet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ keskeytti mukavan päivän eläintarhassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on tylsintä, mitä tiedän.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isi, miksi äiti itkee? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minkä mä sille voin että mun _ on niin swägä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaikka _ kuolee, _ säilyy ikuisesti.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on yleisin syy avioeroihin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras tapa välttää läksyjen tekeminen, on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minulla on _ ja en häpeä sitä, vaikka ehkä pitäisi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Työpöydältäni löytyy aina vähnitään yksi _, koska se auttaa työnteossa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä yhdistää kaikkia valkoisia ihmisiä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on paras työkaveri.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras tapa saada parisuhteeseen uutta eloa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on kymmenen kertaa parempi kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Raamattu ennustaa, että ennen maailman loppua _ palaa takaisin tuomitsemaan ihmiskuntaa vielä viimeisen kerran.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on salainen ihailuni kohde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei ole ikinä ollut näin helppoa! Osta _, nyt vain 6,99€.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on tutkitusti tehokas tapa polttaa kaloreita.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaiken hyvän alku ja juuri? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei tehnyt mitään väärää!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Teekkari ei ole ihminen, vaan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Äiti! Äiti! En voi nukkua, koska sänkyni alla on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-kerho järjestää ohjelmaa ala-asteikäisille joka tiistai.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on uusi musta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on asia, jonka vain lapset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on paras ominaisuuteni? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maailman paras smoothie on myös helppotekoinen. Laita vain _ , _ ja _ blenderiin ja sekoita!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ on asia, jonka vain aasialaiset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Palkitsevin tapa kuolla? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin kiihotuksen poistaja naisessa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pilaa aina kaiken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on tavallisin Google-hakuni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koronaepidemian vuoksi hallitus on päättänyt, että _ kielletään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ja _ menivät naimisiin. Voitko uskoa?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on pahempaa, kuin _? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ pään päällä on uusin hattutrendi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haluan olla isona _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maailma on hädässä ja vain _-mies voi korjata tilanteen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perustin yrityksen, jonka liikeidea on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanha sananlasku sanoo: \"Parempi _ pöydällä, kuin _ katolla\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Toisinaan havahdun siihen, että _ on kuin _, mutta parempi.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ antaa siivet, joilla lentää taivaaseen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pettää aina.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hei! Lopeta tuo _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on tulevaisuuden ala, jolla on varmat työllisyysnäkymät.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei tiedä paikkaansa yhteiskunnassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naapurini valittivat, että _ piti liikaa ääntä viime yönä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kumpi tuli ensin: _ vai _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on niin hauskaa, että _ unohtui uuniin.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on ollut hauskin projekti ikinä!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja Jeeus sanoi opetuslapsilleen: “Rakastakaa itseänne niin kuin _ rakastaa teitä”.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uusin virtuaalitodellisuuspeli: _-simulaattori.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on vähän kuin _: Se kuulostaa kivalta, mutta ei ole.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pukukilpailun voitti tänä vuonna _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin kiihottava tekijä naisessa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kristinuskon menetettyä valta-asemansa maailmassa, uusi vapahtajamme on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parhaat seksikumppanini ovat parhausjärjestyksesä: 1. _. 2_. 3._.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ on oudoin Google-hakuni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ miellyttää minua juuri oikealla tavalla ;)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uusi pakollinen yliopistokurssi on nimeltään _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miksi juon? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Teekkarin paras ominaisuus on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ piristää minua aina.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Step 1: _. Step 2: _. ??? Profit.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pizzaperjantai on niin eilistä, nykyään se on _-perjantai.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papin sijasta meidät vihki itse _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on syy, miksi alienit eivät vieraile täällä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tuntuu höpöltä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on asia, jota et haluaisi ikinä löytää pitsastasi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Afrikan nälänhätään löytyi ratkaisu: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tuottaako _ ongelmia? Ratkaisu on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lapsena halusin olla _ , mutta sitten tulin järkiini.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on suurin syy lasten kuolemiin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olen kehittänyt uuden parhaan juoman. Siihen laitetaan 50/50 _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on miehen paras ystävä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tämä oli viimeinen pisara!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parasta sinkkuna olemisessa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minulla on monta ongelmaa, mutta _ ei ole yksi niistä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pitäisikö tänään syödä _ vai _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on parasta tuoreena? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minun paras joululahjani, minkä olen ikinä saanut on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on asia, jonka vain tummaihoiset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tavataan usein istumasta sähköaidalla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juutalaisia on sorrettu jo tarpeeksi. Seuraavaksi vuorossa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eikö äitisi opettanut, että _ on rumaa?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ja _. Nimeä ikonisempi kombo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Miten minä olisin voinut tietää, että _ on laitonta Suomessa?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ täytyy pommittaa maantasalle yhteiskunnan edun nimissä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olipa kerran _, jolta puuttui _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uuteen hallitusohjelmaan on prioriteettina kirjattu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on lastenkasvatuksen kulmakivi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kerro tarina kolmella lauseella: 1. _. 2. _. 3. _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Liikaa asiasta paljastamatta, _ on tuttua minulle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ työhaastattelussa takaa, että sinut valitaan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ oli Natsien suurin keksintö.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Se nyt vain on tyhmää maksaa liikaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä jokaisen pitäisi ainakin kerran elämässään nähdä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jo joka kuudes _ syntyy sähkölaitteesta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nelosen uusi reality-tv sarja _ itkettää ja naurattaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensitreffeillä tarjoamassani ruuassa yhdistyisi _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kirjoitin runon: _. _. _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Lääkärini sanoi, että minun pitäsi lopettaa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Helpoin tapa kuolla? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on aiheuttanut kriisitilanteen Pohjanmaalla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Äiti! _ on kadonnut!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah, nyt kyllä kelpaisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Laita nyt se _ piiloon, ollaan kuitenkin koulussa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on paras häälahja tummaihoiselle avioparille? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Treffipolitiikkani noudattaa tiettyä kaavaa. Ensimmäisillä illallinen. Toisilla suudelma. Kolmansilla _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ menetti neitsyytensä tänään!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tirsk.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hallituksen uuteen hallitusohjelmaan kuuluu mm. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kukaan ei halua asiaa, jota kutsutaan myös nimellä _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaikki haluavat asian, jota kutsutaan myös nimellä _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suu auki, täältä tulee _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sanomalehden etusivulla oli tänään uutinen: \"Maailman tuhon syyksi on ennustettu _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ota riski - _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hei hei, _, pelasta sä kyläsi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yhden yön juttuni meni varsin hyvin kunnes häneltä meni _ ja _ sekaisin.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Arvokkain asia jonka omistan on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = minun seksielämäni.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on sairasta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jääkaapissani haisee pahalle. Selvisi, että syy oli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. _. _. Repeat.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Miksi minä olen täällä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on sukupolvikokemus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Miksi vaivaudun joka ikinen päivä töihin raatamaan kahdeksaksi tunniksi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä korttikeisarilla ei ole? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Takapihallani on _ ja se taitaa haluta sisälle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lapseni ensimmäinen sana oli \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ oli uuden lastensairaalan merkittävin rahoittaja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lapsena halusin olla _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Onko taskussasi _ vai oletko vain iloinen nähdessäsi minut?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on tämän vuoden hitti-isänpäivälahja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Äiti! Äiti! Opin tänään partiossa tekemään _-solmun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on lempiruokaani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oispa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kumpi oli ensin: _ vai _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä täällä haisee? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin kiihottava tekijä vauvassa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sanoi minulle, että ole kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Paras tapa tehdä itsemurha? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun fyysinen rankaiseminen kiellettiin osana lastenkasvatusta, _ nousi uudeksi suosikkimetodiksi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tekoälyn uusin hyödyntämistarkoitus on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on viimeinkin kielletty hallituksen toimesta. Viimeinenkin vapaus on menetetty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on kiellettyä lapsilta, mutta sallittua aikuisille.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on rasismia ja pitäisi kieltää.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sai töitä, enpä olisi uskonut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on varmin tapa kuolla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nykyään kun lasten lyöminen on kielletty, _ on uusi valintani lasten kurittamiseen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juuston kolmas olomuoto on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minua pelottaa, miten _ vaikuttaa lapseni elämään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänä vuonna yleisin Google-haku oli _, kun se viime vuonna oli _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Suurin uhka ohjelmistoprojektille on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jumalan paras luomus on ehdottomasti _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on paras liukaste.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kävi täällä ja nyt _ on kadonnut.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Voihan vittujen _ ja kyrpien _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Hyvä mutta halpa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kuulitko, että _ on nyt 5% alennuksessa?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Kiva tietää näin kolmelta aamuyöstä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras self help -kirja, jonka olen lukenut on nimeltään _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yritykseni toiminnan ydin on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on myrkyllistä, kertoo _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on terve kun se leikkii.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänä vuonna luokkaretken kohde on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on hyvä, oli se millaine  tahansa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on eroottisinta mitä voi seurustelukumppanin kanssa tehdä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lasteni nimet ovat _ ja _. Kysyttävää?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on asia, jonka vain länsimaalaiset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on paras ystäväni, koska _ ei pelota häntä.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ei petä ikinä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muurahaiskeossa istuminen on ikävää, mutta vielä ikävämpää on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanhempani toivoivat, että minusta olisi tullut _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on parasta seksissä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on kuin musiikkia korvilleni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras asia, jonka rampa lapsi voi saada lahjaksi, on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yliopistoelämä opetti minulle, että _ on kivaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Viimein! Olen odottanut niin pitkään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on parasta, mitä housut jalassa voi tehdä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on asia, jota lapsen ei pitäisi osata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on hauskaa isä-lapsi-aikaa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on tärkeä osa itsenäistymistä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on paras seksikumppani, joka minulla on ikinä ollut? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä parantuu ikääntyessään? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tule sellaisena kuin olet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "9/11:n takana oli oikeasti _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on syy, miksi en saa enää tehdä ruokaa kotona.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Katsos kun äiti ja isi rakastavat toisiaan tosi paljon, niin tähän rakkauteen kuuluu myös _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lapseni ensimmäinen ja viimeinen sana oli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun kavoin nenääni, sieltä löytyi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensimmäiset treffimme menivät hyvin kunnes hän näytti minulle _-kokoelmansa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ aiheuttaa vuosittain eniten avioeroja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Köyhyys sai minut kehittämään uusia tapoja, esimerkiksi _ on nykyään osa arkirutiinejani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on uusi trendikäs tapa polttaa kaloreita.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanha klassikko: _ ja seitsemän kääpiötä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on asia, jonka vain amerikkalaiset osaavat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hyvässä juomapelissä yhdistyvät _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nyt ei auta kuin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on naisen paras ystävä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on viimeinen asia, jonka toivoisit yhdenyön jutullasi olevan? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kävi lapseltani leikiten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei ymmärrä, miksi _ on osa aikuistumista.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Älä tee sitä! Sinulla on monta syytä elää, esim. _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meh. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ala-asteelle on lisätty uusi pakollinen oppiaine: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Housuissani on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Elämä on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ antaa siivet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on ihan perseestä...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lapsena halusin olla kuin _, koska hänen erityistaitonsa oli _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on salainen erikoistaitoni? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kansalle, joka pimeydessä vaeltaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voi ei! Taloni on tulessa! Mikä on yksi asia, jonka pelastan sieltä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olen mies! En pelkää vaikka _ olisi edessä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voidaanko nyt vain sopia että _ on paras harrastus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muumipeikko ja _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Autismi ei ole sairaus, se on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oletko nähnyt tämän Tori.fi -ilmoituksen? Tässä myydään _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heil heil, _, nyt pistä jutkut aisoihin!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on outoa irl, mutta normaalia netissä? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaikista autoista löytyvä turvalaite on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hotelli? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pitää säilyttää osana kulttuuriamme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei tee mitään järkeä!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ärsyttää minua enemmän kuin mikään muu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pitkän avioliiton salaisuus on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sai ikävän käänteen, kun _ tapahtui.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uusi yhteiskuntajärjestys on nimeltään _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minun mielestäni _ on parasta ikinä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seksin aikana mielessäni on useimmiten _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maailmalla leviää uutuusdietti, jossa ainoa sallittu ruoka-aines on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaikka _ olisi viimeinen ihminen maan päällä, en panisi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meidän ystävyytemme perusta on _, joten sitä ei riko mikään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eikö kukaan kertonut, että _ on vain isojen poikien leikki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on minulle kaikki kaikessa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heurekan uusimman näyttelyn aiheena on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sunnuntaisin taskustani löytyy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on suurin saavutukseni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun kuolen, _ saa kaiken omaisuuteni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myydään vähänkäytetty _. Ei takuuta tai palautusoikeutta. Hintapyyntö 50€.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maailman paras ehkäisykeino: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Animetyttöjen kanssa samaan helvettiin kuuluu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ julistettiin lailliseksi ensikerran sitten vuoden 1736.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niku, senkin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ainoa heikkouteni on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kuka tai mikä voittaa kolmannen maailmansodan? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Hyi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pilaa seksin kuin seksin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kulta, minulla on uusi roolileikki-idea! Sinä olisit _ ja minä _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nyt loppu se itkeminen saatana, _ on ihan kivaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin syntini on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tuoreesta tutkimuksesta selvisi, että _ on haitallisempaa terveydelle kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jaahas, kaljat on loppu, pitänee korkata _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on niin väärin, että se on oikein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on normaalia miehelle, mutta ei naiselle? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meidän _ tekee teidän äitien ruuat!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Työpaikassani on ryhdytty säästötoimiin. Jokaiselta työntekijältä on otettu takaisin firman _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on paras netistä ostettuna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensin luulin, että _ haittaisi seksielämääni, mutta toisin kävi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on sotkuista puuhaa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä teen vapaapäivänäni? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koodissani on _ ja sen seurauksena mikään ei toimi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oikotie onneen on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on toiselta nimeltään _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ei saatanaa, ei perkelee, ei jumalauta _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Betatestaajan työtehtäviin kuuluu mm. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ oli hämmentävää, kun se tapahtui ensimmäisen kerran, mutta nykyään pidän siitä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heräsin aamulla siihen, että olin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Teknisesti ottaen _ on käytännössä sama asia kuin _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ master race!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aamurutiineihini kuuluu: 1. _. 2. _. Ja olen valmis uuteen päivään!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikä on minun suurin \"guilty pleasure\"? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minkä helvetin takia minulla on _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on unelmani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Äiti, miksi isi itkee? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirjoitin puheen, jonka otsikko on \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ perseessä tuntuu höpöltä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on olennainen osa päivätyötäni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun alienit hyökkäävät, on vain yksi _, joka voi pelastaa meidät!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kerran on hyväksyttävää, mutta kahdesti tehtynä se on väärin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iltalehdessä oli huomiota kiinnittävä otsikko: _ riehui Helsingin keskustassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kortti, joka kuvaa Card Czaria: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Onko se lintu? Onko se lentokone? Ei! Se on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eikö veitikka nouse? _ tuo avun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensimmäisen lapseni nimeksi tulee _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ lisättiin osaksi opetussuunnitelmaa, koska se tuotti niin monelle vaikeuksia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaimo lähti, mutta _ jäi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miksi Uusimaa oikeasti eristettiin? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yleisin Google-hakuni on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun aamulla heräsin, vieressäni nukkui _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terapeuttini sanoi, että _ on syy kaikkiin ongelmiini.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin kiihotuksen poistaja miehessä on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tiedät kyllä miksi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lopetin lukemisen luettuani ala-asteella kirjan nimeltä _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Mikä se on?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ lähtee lapsesta lyömällä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaduilla on huhuttu liikkuvan uutta ylivoimaisen hyvää huumetta, jonka nimi on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muutama _, usko nyt perkele!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En tiennyt että _ on laitonta ja siksi olen nyt vankilassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ olisi hyvä aihe biologian tunnille.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on paras häälahja valkoihoiselle avioparille? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun kaikki muu pettää, _ on aina hyvä masturboinnin kohde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suattaapi olla _, suattaapi olla olematta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ palauttaminen asiakaspalvelun kautta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on niin helppoa, että jopa kädetön lapsi pystyisi siihen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tahtoisin aloittaa uuden harrastuksen. Olisikohan _ kivaa?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juutalaisten pyhä kirja on nimeltään _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tämän vuoden uusi sisustustrendi on _-sävyinen maali.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ernest Hemingwayn kuuluisa kirja \"Vanhus ja meri\" oli alunperin nimeltään \"_ ja _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on asia, josta ei pitäisi koskaan puhua.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on suurin fetissini? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ala-asteen uudella arvosteluasteikolla _ on kaikista huonoin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on loistava paikka tavata _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ on lapsen työtä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Se on hauskaa koska se on totta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirotut suomenruotsalaiset! He ja heidän _-juhlansa voivat painua vittuun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "0/5. _ ei ollut sitä mitä odotin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei ole ratkaisu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänään Avarassa Luonnossa: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olipahan seikkailu! Ensin _, sitten _ ja lopuksi vielä _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Yllättävin asia, jonka olen kokenut, on ehdottomasti _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ainoa tapa pelastaa mummu on _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on hyväksyttävää kun olet lapsi, mutta ei enää kun olet aikuinen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maailman parhaan juomapelin nimi on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on normaalia naiselle, mutta ei miehelle? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirjasarja saa jatkoa: \"Juoppohullun päiväkirja: _ ja _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Olen odottanut sinua, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä tuo on tuolla pöydän alla? Ahaa, se on vain _. Ei mitään hätää.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voitko auttaa minua? _ on hukassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pihtaa taas!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pelastaa henkiä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olen kuudennen tason _. Elän täydessä harmoniassa luonnon kanssa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ oli lapseni tämänvuotinen syntymäpäivälahjatoive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on näyttänyt minulle uusia puolia seksuaalisuudestani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos nainen kuuluu keittiiön, niin silloin _ on miesten paikka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on pilalla, jos sillä on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ lasketaan liikunnaksi, jos sen tekee intohimoisesti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos sinulla on _, sinun kannattaisi lopettaa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Voiko seksi olla hyvää, jos siitä puuttuu _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos Raamattu kirjoitettaisiin uudelleen, sen päähenkilön pitäisi olla _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antaa sitten kans olla viimeinen kerta ku _ on täällä!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ voi päättyä vain hyvin, jos minulta kysytään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos _ tulee kadulla vastaan, juokse.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos katsoisin pornoa, siinä olisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pasi Viherahon soppa ei olisi yhtä herkullista, jos siitä puuttuisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos tädillä on _, niin se on silloin setä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isäs oli _ ku sua teki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Äitis oli _ ku sua teki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos _ ja _ jäisivät keskenään jumiin hissiin, siitä ei seuraisi mitään kaunista.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vanhempas oli _ ku sua teki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ja _ tekivät pornoelokuvan, jonka nimi oli _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Jos minulla olisi supervoima, se olisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos maalaisin taulun, sen nimeksi tulisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos kirjoittaisin kirjan, sen nimi olisi: \"_ ja odottamaton _\".",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Vatsahuuhtelu neitsyen verellä.",
+    "Kolmivaihekilowattituntimittari.",
+    "Vessojen nuoleminen vastustuskyvyn kasvattamiseksi.",
+    "Kolmen sormen taktiikka.",
+    "KKK: Klu Klu Kluster.",
+    "Kohtaloonsa tyytyminen.",
+    "Asuntolaina.",
+    "Peniksen meneminen kuolioon.",
+    "Mehiläiset.",
+    "Sukupuolitautien jakaminen.",
+    "Neitsyen heittäminen tulivuoreen.",
+    "Valtameri.",
+    "Henkinen haava.",
+    "Yksinhuoltajaisä.",
+    "Huora.",
+    "Kuoleminen.",
+    "Lapsen yllättävä katoaminen.",
+    "Yksinhuoltajaäiti.",
+    "Kokonainen banaaniterttu.",
+    "Töpselin irrottaminen.",
+    "Mikroprosessorin ylikellottaminen.",
+    "Selibaatti.",
+    "Kehitysavun vastustaminen.",
+    "Sipuli (vain keltainen käy).",
+    "Sokaiseva auringon valo.",
+    "Sähkövatkain.",
+    "12-vuotias Liisa.",
+    "Pettymystä herättävät syntymäpäiväjuhlat.",
+    "Terrorismin vastainen terrorismi.",
+    "Kainaloiden nuoleminen.",
+    "Yhteiskunta.",
+    "Sähköisku.",
+    "Oulu.",
+    "Internet.",
+    "Isoäiti.",
+    "Mun muija.",
+    "Dodo-sorsa.",
+    "Juutalaistaustainen kaasuyhtiö.",
+    "Seksuaalinen ahdisteleminen.",
+    "Erittäin järkyttävä sattumus.",
+    "Suvaitsevaisuus.",
+    "Kuollut vauva.",
+    "Epäeettisen sovelluksen luominen.",
+    "Universumin paras parsakaali.",
+    "Työllistyminen.",
+    "Neitsyys.",
+    "Kamasutra.",
+    "Sukupuolielinten uppopaistaminen.",
+    "Tuberkuloosi.",
+    "Kolmannen maailman poistaminen.",
+    "Kyrpä.",
+    "Sikiön yeettaaminen.",
+    "Terrorismi.",
+    "Janon sammuttaminen.",
+    "Abortin kieltäminen.",
+    "Pompan pelaaminen.",
+    "Tyyppihyväksyntäviranomainen.",
+    "Aurinkoinen mieli.",
+    "Pullien laittaminen uuniin.",
+    "Aikamatkustusparadoksi.",
+    "Menestyvä ihminen.",
+    "Keskitysleiri.",
+    "Mummoni.",
+    "Raskaustestin tekeminen.",
+    "Juutalaisten kaasuttaminen huvikseen.",
+    "Tuleminen.",
+    "Yksin kuoleminen.",
+    "69 vuotta vankeutta.",
+    "Kolmikerroksinen ja rakennusmääräysten vastainen puumaja, josta näkee naapurin lapset.",
+    "Yllättävän nuori tranvestiitti.",
+    "Lammikko.",
+    "Elämänvaikeudet.",
+    "Suurin fantasiani.",
+    "Tyhjä kivespussi.",
+    "Varvassukat.",
+    "Neitsyyden hyväksyminen.",
+    "Kuukautisten kaltainen verenvuoto.",
+    "Sängyn alle kakkaaminen.",
+    "Sinisten kytkinten ääni.",
+    "Komea mies.",
+    "Pepantteeni.",
+    "Orjakauppa.",
+    "Äidin saattaminen raskaaksi.",
+    "Kolme lyöntiä suoraan kiveksille.",
+    "Astianpesukone.",
+    "Saksalainen kaasuyhtiö.",
+    "Raamattu.",
+    "Vauvan laittaminen pakastimeen, koska se itkee.",
+    "Windows.",
+    "Munuaisvarkaus.",
+    "Valkoihoinen mies.",
+    "Mikä tahansa muu rotu kuin valkoinen.",
+    "Avatut verhot.",
+    "Kasa tuhkattuja juutalaisia.",
+    "Terve lapsi, jonka voi myydä Tori.fi:ssä.",
+    "Raiskauksenhimoinen murhaajasetä.",
+    "Erittäin hieno suomalainen tervashampoo.",
+    "Ämpärijono.",
+    "Munuaisen katoaminen.",
+    "Naisen työntäminen alas jyrkänteeltä koska se osaa laskea kaksinumeroisia lukuja yhteen.",
+    "Syntinen lapsi.",
+    "Lonkero.",
+    "Lastenruuan makuinen kondomi.",
+    "Lapsihuora.",
+    "Seksuaalinen kissa.",
+    "Aasialainen ilman matikkapäätä.",
+    "Maailman onnellisin neekeri.",
+    "Rasististen twiittien twiittaaminen.",
+    "Kondomin päiväyksen vanhentumisesta huolehtiminen.",
+    "Peniksen irrottaminen.",
+    "Vasaralla hakkaaminen.",
+    "Käyttämätön kondomi.",
+    "Polyamorinen suhde.",
+    "Abortti ilman henkaria.",
+    "Toivo.",
+    "Valtio.",
+    "64kpl vitun hyviä luumuja.",
+    "Animetyyny, jossa on epäilyttävä reikä.",
+    "Tosi hyvää puuta.",
+    "Ojassa makaaminen.",
+    "Nieleminen.",
+    "Avioliiton mitätöiminen.",
+    "Lasten nuoleskeleminen.",
+    "Alabamalainen orpokoti.",
+    "Neitsyenä herääminen.",
+    "Musta.",
+    "Neitsyydestä kiusaaminen.",
+    "Äiti.",
+    "Autokolarin uhri.",
+    "Väkisin.",
+    "Lapsen kierittäminen mattoon ja heittäminen jokeen.",
+    "Neitsyyden palauttaminen.",
+    "Elämän ikuinen ylämäki.",
+    "Valopylväs.",
+    "Lasten syntymäpäiväjuhlat.",
+    "Vaatteiden värjääminen ruumiineritteillä.",
+    "Jännitystä hakeneet saksalaiset.",
+    "Estrogeeni.",
+    "Itsensä kosketteleminen.",
+    "Beerpongin pelaaminen.",
+    "Opintotuki.",
+    "Sukupuolitauti.",
+    "Maailman huonoin koira.",
+    "Kroonistunut kromosomivaje.",
+    "Anime.",
+    "Koiranpentu.",
+    "Itsensä kanssa flirttaileminen.",
+    "Seksi kaverin vaimon kanssa.",
+    "Seitinohut suomalainen iltapäivädarrapaska.",
+    "Junaraiteilla makaaminen, sillä se on ympäristöystävällinen tapa matkustaa tuonpuoleiseen.",
+    "Saksalainen seksiluola.",
+    "Afrikkalaiset lapset.",
+    "Naapurin Pekan Fairyn viimeinen pisara.",
+    "Känniörveltäminen.",
+    "Päivi Räsäsen BDSM-seksiluola.",
+    "Ydinsota.",
+    "Lihaliemikuutio.",
+    "Sukupuolen vaihtaminen.",
+    "Vähäosaisilta riistäminen.",
+    "Vauvaliemikuutio.",
+    "Selaushistoria.",
+    "Vauvan vieminen takuuseen, koska siltä puuttui neitsyys.",
+    "Lonkeroita.",
+    "Auttaminen.",
+    "Serkun paneminen koska siskosi ei ole saatavilla.",
+    "Suuri ja kuiva aavikko.",
+    "Vegaani.",
+    "Valoisa tulevaisuus.",
+    "Oulujoki.",
+    "Vanhempainvartti.",
+    "Kolme yötä putkassa.",
+    "Erityislapsi.",
+    "Sugar daddy.",
+    "Mun tyttöystävä.",
+    "Tulosten peukalointi.",
+    "Muunsukupuolinen.",
+    "Lapsen hirttäminen ja käyttäminen pinjatana.",
+    "Kivesten neppailu.",
+    "Peniksen laittaminen solmuun.",
+    "Juutalaisten vastaisku.",
+    "Vesiputoukseen melominen.",
+    "Peppu.",
+    "Tummaihoiseksi  pukeutunut neekeri.",
+    "Boonukset.",
+    "Kehitysvammaisten hoitolaitos.",
+    "Seksikäs lapsenvahti.",
+    "Pesäpallon pelaaminen vauvoilla.",
+    "Hieman homehtunut korva.",
+    "4D waifu.",
+    "Lastensuojelu.",
+    "Kondomin unohtaminen.",
+    "Kokemattomuutensa salaaminen.",
+    "Kavereistani kirjoittamani fanfiction.",
+    "Maailman seksuaalisin kivi.",
+    "Kehopositiivisuusaktivisti.",
+    "Neekerin pyörän varastaminen.",
+    "Kolme työntöä ja tuijotus.",
+    "Tiukka.",
+    "Hyvän peniksen säilöminen kelmuun, että voit nauttia sen jämät huomenna.",
+    "Jeesuksen ja Saatanan salasuhteesta syntynyt lapsi.",
+    "Sisällä pysyminen, sillä ulkomaailma on pelottava.",
+    "Siis ainakin 145 makkaraa.",
+    "Vain vaaleita värejä sisältävä kasvomaalipaletti.",
+    "Animetissit.",
+    "Isoäidin tuhkien käyttäminen leivonnassa.",
+    "Sikiön paistaminen 175 asteessa uunin keskitasolla.",
+    "Mälliämpäri.",
+    "Uolevin kinkkinen kooditehtävä.",
+    "Seksiobjekti.",
+    "Murhanhimoinen raiskaajatäti.",
+    "Koala.",
+    "Katolilainen pappi.",
+    "Raiskatuksi tuleminen.",
+    "Rokotusten vaaroista puhuminen.",
+    "Kartongista askarreltu voisarvi.",
+    "Kehä 3:sen ulkopuolinen erämaa.",
+    "Peukalokyyti kommunismiin.",
+    "Kaasulasku.",
+    "Parisuhdeväkivalta.",
+    "Suurenmoinen seikkailu.",
+    "Auttamisen halu.",
+    "Kiimainen jänis.",
+    "Purkin vierittäminen alas erittäin loivaa mäkeä.",
+    "Kuolema.",
+    "Alusvaatetarkastus.",
+    "Raiskaus.",
+    "Käsi.",
+    "Vaimo.",
+    "Joukkomurha.",
+    "Musta neekeri.",
+    "Kondomin makuinen lastenruoka.",
+    "Tummaihoinen neekeri.",
+    "Turri.",
+    "“pullien” leipominen.",
+    "Kommunisti.",
+    "Juominen.",
+    "Lidlin parkkipaikalta herääminen.",
+    "Taapero.",
+    "Tummaihoinen mies kantamassa TV:tä.",
+    "Krooninen seksinpuute.",
+    "Seurusteluraha.",
+    "Isäpuolen kanssa saunominen.",
+    "Vastuullisesti juominen.",
+    "Laillinen uhkaus.",
+    "Sohvan syvä pääty.",
+    "Uni, jossa olin Lidlissä.",
+    "Puoliksi syöty peruna.",
+    "Pieni ja söpö kansanmurha.",
+    "Taapero, joka ei osaa vielä puhua.",
+    "Sivuhistorian salaaminen.",
+    "Vapaan juutalaisen saippua.",
+    "Pussillinen sipulisilppua, jossa on yksi kovettunut koppakuoriainen.",
+    "Oulun yliopisto.",
+    "Orgasmin palauttaminen asiakaspalvelun kautta.",
+    "Uunimaisteri.",
+    "Ylikypsä kinkku.",
+    "Hetero.",
+    "Jehova.",
+    "Orgasmivaikeus.",
+    "Mummon vitun hyvä sukkamehu.",
+    "Merenelävä.",
+    "Wilma 4v.",
+    "Intohimo.",
+    "Pään lyöminen patteriin.",
+    "Valkoihoisen avioparin tummaihoinen lapsi.",
+    "Ruuan tuoksu.",
+    "Hyvää makua keittoon.",
+    "Nautinto.",
+    "Seksiasentokirja.",
+    "Ihmisistä tehty kolmipyörä.",
+    "Munajahti.",
+    "Ulkona käyminen.",
+    "Muovikasvin kasteleminen.",
+    "Vuosijuhlat.",
+    "Karannut pikkulapsi.",
+    "Perheen perinteinen Venäläinen ruletti -ilta.",
+    "Äitipuoli.",
+    "Puute.",
+    "Kaksi ostoskärryä.",
+    "Seksuaalissävytteinen vitsi.",
+    "Unesta herääminen.",
+    "Lastensuojeluviranomainen.",
+    "Kahen kilon siika.",
+    "Hernemaissipaprika.",
+    "Sinisiä naisia ulkoavaruudesta.",
+    "Kolmenkimppa kuuden kääpiön kanssa.",
+    "Tyttäreni myyminen.",
+    "Jeesus, meidän vapahtajamme.",
+    "Kuolemantuomio.",
+    "Pöydän jalkojen lyhentäminen.",
+    "Käytetty kondomi.",
+    "Libre Office.",
+    "Kalja-vissy-kalja.",
+    "Helvetin kova krapula.",
+    "Neljä tuntia kestävä erektio.",
+    "Jalkojen irrottaminen huvikseen.",
+    "Viimeinen aivosoluni.",
+    "Hetkessä eläminen.",
+    "Elämisen vaikeus.",
+    "Mummoni opettaminen uudestaan sisäsiistiksi onnettomuuden jälkeen.",
+    "Hiusten leikkaaminen silmät sidottuina.",
+    "Abortti raskausviikolla 100.",
+    "Isot tissit.",
+    "Olemattoman vauvan vahtiminen.",
+    "Smol dik enerki.",
+    "Ydinpommin tiputtaminen.",
+    "Ananas.",
+    "Orgasmin vastaanottaminen.",
+    "Oman peilikuvan säikähtäminen.",
+    "Lapsenmakuinen kondomi (sponsored by Vilbs).",
+    "Pyörätuolissa istuvan kehitysvammaisen työntäminen portaisiin.",
+    "Vauvan neitsyyden vieminen.",
+    "Apina.",
+    "Flunssan oireet.",
+    "Ripaus kanelia.",
+    "Sienestäminen poistumatta kotoa.",
+    "Ruoka suussa puhuminen.",
+    "Niukkasanainen taapero.",
+    "Iloinen raiskaus.",
+    "Yhden kiveksen syndrooma.",
+    "Syntymättömän vauvan syöminen.",
+    "Uolevin pehmeä hengitys mikrofonissa.",
+    "Uskomaton taideteos.",
+    "Dementia.",
+    "Tummaihoinen vauva.",
+    "750g lohkoperunoita S-Marketista.",
+    "Kondominmakuinen lapsi.",
+    "Pilaantunut porkkana.",
+    "Suihinottaminen ilman käsiä.",
+    "Autistinen velipuoli.",
+    "Pitkä musta kyrpä.",
+    "Huonot elämänvalinnat.",
+    "Isoäitini legendaarinen hernekeittoresepti.",
+    "Todella kovasti ihoon kiinnittynyt laastari.",
+    "Vakava-asteinen autismi.",
+    "Sähköposti Nigerialaiselta prinssiltä.",
+    "Peruna.",
+    "Elämän vaikeudet.",
+    "Minun ja sedän välinen salaisuus.",
+    "69 kuollutta ihmistä.",
+    "Kuoleminen yksin ja unohdettuna.",
+    "Dementoitunut setä.",
+    "Naisen perseestä tehty istuin.",
+    "Mummon vitun hyvät kanelipullat.",
+    "Suukapula.",
+    "Kaverin vaimo.",
+    "Avoliitto.",
+    "Elämän henkiset haasteet.",
+    "Nakkitalo.",
+    "Kotimaisen valmistama “maitojuoma”.",
+    "Kaapista ulos tuleminen.",
+    "Kaksi rusinaa lautasen vastakkaisilla reunoilla.",
+    "Älykäs, iso perse ehkä.",
+    "Sukupuolen vaihtaja.",
+    "Tuplapenetraatio.",
+    "Itselleen jutteleminen.",
+    "Kissanpentu.",
+    "Puhumalla selviäminen.",
+    "Seksiäänet.",
+    "Epäonnistunut hirttosilmukka.",
+    "Heikko WiFi-signaali.",
+    "Vahinkoraiskaus.",
+    "Kolmas jalka.",
+    "Tummaihoinen joka on yötäkin tummempi.",
+    "Yksi lautanen.",
+    "Orpokodin tuhopolttaminen.",
+    "12 lasagnea.",
+    "Lidlin helvetin keskinkertaiset pullat.",
+    "Vesi.",
+    "Peniksen makuinen mehujää.",
+    "Köysi.",
+    "Totuus.",
+    "Supermassiivinen musta aukko.",
+    "Korona.",
+    "Onnistunut abortti.",
+    "Vaihtoehtoinen fakta.",
+    "Mummon tappaminen, koska kännykästä loppui akku.",
+    "Vauvan tekeminen.",
+    "Isän vihanhallintaongelmat.",
+    "Pippeli hyvin rasvatuissa käsissä.",
+    "Kaunis nainen.",
+    "Valkoinen paita, jossa on punaisia roiskeita.",
+    "Elämän suhteen luovuttaminen.",
+    "Kadonneen kromosomin löytäminen ja uudelleen hukkaaminen.",
+    "Kevyt vesi.",
+    "Mekaaninen näppäimistö avotoimistossa.",
+    "Avioero.",
+    "Asumistuki.",
+    "Aasialaisten sekoittaminen keskenään.",
+    "Se mitä voisi luullakin.",
+    "Elämänhalu.",
+    "Partiopoikien merkki sitomisen erinomaisesta osaamisesta.",
+    "Varpaat.",
+    "Peniksen lopullinen kuihtuminen pois seksin puutteen takia.",
+    "Jortikka.",
+    "144Hz näyttö.",
+    "Elämäntapa.",
+    "Yksinäinen kives.",
+    "Suolaiset ja kuumat kivekset.",
+    "KKK: Kallen Kikkeli Kaakelit.",
+    "Eduskuntatalo.",
+    "Pommi lahjapaketissa.",
+    "Jari Aarnion piilotetut setelit.",
+    "Kasvisliemikuutio.",
+    "Ala-aste.",
+    "Iloinen ja piristävä osanottoni-kortti.",
+    "Keskosten paneminen koska olen betatestaaja.",
+    "Siistien poikien potkulautajengi.",
+    "Yöhön sulautuva neekeri.",
+    "Ryhmätyöt.",
+    "Mustan miehen ihosta tehty nahkatakki.",
+    "Lasten lyöminen päin nassua.",
+    "Täydellinen sataprosenttinen omistautuminen.",
+    "Jyväskylän yliopisto.",
+    "Talousrikos.",
+    "6-vuotias lapsenvahti.",
+    "Transvestiitti.",
+    "Fetissi.",
+    "Kiusalliset tilanteet.",
+    "Kissan laittaminen mikroaaltouuniin.",
+    "Kalaliemikuutio.",
+    "Natsitervehdys.",
+    "Vaimon jakaminen, sillä vanhemmat osasivat kasvattaa lapsensa.",
+    "Neitsyyden menettäminen.",
+    "Pieni pippeli.",
+    "Synnyttämisen kieltäminen.",
+    "Cheekin englanninkielinen räppääminen.",
+    "Pyykinpesukone.",
+    "Seitinohut ranskalaistyylinen iltapäiväkänni.",
+    "Nuotion sytyttäminen puhumalla tuhmia.",
+    "Ebola.",
+    "Mieslapsi.",
+    "Viina.",
+    "Tirsk.",
+    "Vauvan vaipan vaihtaminen.",
+    "Neekeriksi pukeutunut natsi.",
+    "Maitosuklaan värinen lapsi.",
+    "Ala-asteen pukuhuoneen valvontakamera.",
+    "37-vuotias lastentarhaopettajaopiskelija.",
+    "Orgasmin saaminen.",
+    "Sukupuolitutkimuksen opettaminen maisteritasolla.",
+    "Kadonneen kromosomin löytäminen.",
+    "Persoonallisuus.",
+    "Miestissi.",
+    "Desinfiointiaine.",
+    "Holokausti.",
+    "Reiän vaihtaminen.",
+    "Lepakkokeitto.",
+    "Mielisairaala.",
+    "Jumalan siunaama lapsiavioliitto.",
+    "Turrin uuniin tunkeminen.",
+    "Huutaminen.",
+    "Kehistys vamnainen.",
+    "Impotenssi.",
+    "Highland Way.",
+    "Neitsyyden menettäminen.",
+    "Kela.",
+    "Olemattomuus.",
+    "Vanhaksi mennyt kondomi.",
+    "Isän viinakaappi.",
+    "Oikeutettu väkivalta.",
+    "Jalkojen nuoleminen.",
+    "Aborttifetissi.",
+    "Jalkafetissi.",
+    "Viagra.",
+    "Suihkussa käyminen Birkenaussa.",
+    "Surullinen ja masentava syntymäpäiväkortti.",
+    "Duolingo.",
+    "Jäätävä ummetus.",
+    "Naisen orgasmi.",
+    "Pippurinakit.",
+    "Vanilla seksi.",
+    "Vauvan asetusten vaihtaminen.",
+    "Kauppisjutku.",
+    "Tuulimylly täynnä ruumiita.",
+    "Seksi kuuman professorin kanssa.",
+    "Nenän kaivaminen ja sieltä löytyneen rään syöminen.",
+    "Rukoushuone.",
+    "Verhojen avaaminen.",
+    "Yksi seksi.",
+    "Pullien leipominen.",
+    "Itsensä räjäyttäminen.",
+    "Parisuhdestatukseni.",
+    "Reikä.",
+    "Kuoleman mukanaan tuoma suloinen vapaus.",
+    "Hyvä suhde.",
+    "Yllättävä erektio.",
+    "Laatikkolapsi.",
+    "Pili.",
+    "Hyvän mielen suolakaramellilikööri.",
+    "Sähkötöiden tekeminen ilman asianmukaista koulutusta.",
+    "Seksuaalinen ahdistelu.",
+    "Uusi lamppu kellariin palaneen lampun tilalle.",
+    "Aviomies.",
+    "Iloisten tunteiden tunteminen.",
+    "Selaushistoriani.",
+    "Mindfullness.",
+    "Koripalloamerikkalainen.",
+    "Itsemurhan tekeminen, koska ei ole varaa eutanasiaan.",
+    "Se mitä hän (naispuoleinen) sanoi.",
+    "Pahvilaatikossa eläminen.",
+    "Menneisyyteen katsominen.",
+    "Unohtamisen unohtaminen.",
+    "Oman neitsyyden heittäminen tulivuoreen.",
+    "Kuolla kupsahtaminen.",
+    "Herkkuateria.",
+    "Hiekkaa väärässä paikassa.",
+    "Ei mikään.",
+    "Itsemurha.",
+    "Seksi ylikellotetun ja kuuman prosessorin kanssa.",
+    "Auton korjaaminen.",
+    "Turha toivo.",
+    "Eutanasia.",
+    "Kouvola.",
+    "Miehen peppureiästä kiihottuminen.",
+    "Nisti.",
+    "Vauvojen heittely seinään ja kattoon.",
+    "Tisseille kuseminen.",
+    "Tummaihoisen hampaat pimeässä.",
+    "Vegaaniksi ryhtyminen.",
+    "Syötävät alushousut.",
+    "Pentti joka luulee olevansa lentokone.",
+    "Koodaaminen.",
+    "Kinkkusheimaaminen.",
+    "Neitsyydestä vitsaileminen.",
+    "Abortti.",
+    "Lumikki ja seitsemän kyrpää.",
+    "Kiinalainen riisinkeittäjä.",
+    "Olemisen sietämätön keveys.",
+    "Kelan mahdollistama syrjäytyminen.",
+    "Tori.fi.",
+    "Murha.",
+    "Kaiken kattava kotivakuutus.",
+    "Valkaisuaineen juominen.",
+    "Vaikeudet elämässä.",
+    "Mukavasti viilentynyt ruuminaukko.",
+    "Nappulan painaminen.",
+    "Syöpädiagnoosi.",
+    "Super upee nakkitalo.",
+    "Vanhainkoti.",
+    "Missio, josta vassarit eivät pitäisi.",
+    "Elämänilo.",
+    "Menkat.",
+    "Vegaaninen uunikala.",
+    "Seksuaalisuus.",
+    "Yksinkertainen mies.",
+    "Valkoihoinen neekeri.",
+    "Jumala.",
+    "Humanististen alojen opiskeleminen.",
+    "Liian puheliaat ihmiset.",
+    "Vauvan neitsyys.",
+    "Salen saatanan hyvät pullat.",
+    "Veljekset jotka ovat hieman liian läheisiä keskenään.",
+    "Ryyppyputkentulehdus.",
+    "Kokemattomuus seksissä.",
+    "Nauraminen ja vauvan puukottaminen samanaikaisesti.",
+    "Ruumiiden alle elävältä hautautuminen.",
+    "Oman äidin maittavat tissit.",
+    "Valkoihoinen nainen.",
+    "Lappeen Ranta.",
+    "Salaisuus.",
+    "Kaasukammio.",
+    "Rikas.",
+    "Keskeltä jäinen kalapuikko.",
+    "Kelan sponsoroima känni.",
+    "Tilastojen pitäminen valheellisina.",
+    "Juutalaisten syrjiminen.",
+    "Kainalokarvojen värjääminen shokkiväreillä.",
+    "Virikehäkkilapsi.",
+    "Sisäsiistiksi oppiminen.",
+    "Positiivinen syrjintä.",
+    "Kolme markkaa.",
+    "Fyysinen haava.",
+    "Avioliiton ulkopuolella syntynyt lapsi.",
+    "Kommunismin ilosanoma.",
+    "Tutalainen.",
+    "Söpöt tissit.",
+    "Weeaboo.",
+    "Suklaamuro, joka ei ollutkaan suklaamuro.",
+    "Aborttijuhla.",
+    "Isyystesti.",
+    "Lappeenrannan-Lahden teknillinen yliopisto LUT.",
+    "Fyysiset arvet.",
+    "Oulujoesta löytyvä kalapuikkoparvi.",
+    "Ameeba.",
+    "Vahinko.",
+    "Gynekologi.",
+    "Ulos vetäminen.",
+    "Sängyn alle piilotettu tahmainen sukka.",
+    "Koiran laittaminen mikroon ja kutsuminen hotdogiksi.",
+    "Porttikielto päiväkotiin.",
+    "Verojen nostaminen.",
+    "Vielä lämmin reikä.",
+    "Itsensä räjäyttäminen seksuaalisella tavalla.",
+    "Vaihdevuodet.",
+    "Isä.",
+    "Jalat.",
+    "Ihmistä älykkäämpi apina.",
+    "Homeinen leivän kannikka.",
+    "Hämmentävä seisokki.",
+    "2D waifu.",
+    "Isoisä.",
+    "Lihaliemifondue.",
+    "Tiukka koodi.",
+    "Yksinhuoltajaäidin hyväksikäyttäminen.",
+    "Lapsen neitsyys.",
+    "Todellisuuteen herääminen.",
+    "Hernekeitto maksamakkaralla ja kalapuikoilla.",
+    "Kolme varista.",
+    "Hyppykuppa.",
+    "Linux.",
+    "Tulennielijä jonka tuli onkin siemennestettä.",
+    "Japanilainen tv-ohjelma, jossa kilpailijat naivat siskojaan.",
+    "Siveyden sipuli.",
+    "Uuden reiän tekeminen, koska alkuperäinen oli liian pieni.",
+    "Nelikerroksinen pilvenpiirtäjä.",
+    "Alkoholismi.",
+    "Lentokonesuihkuturbiinimoottoriapumekaanikkoaliupseerioppilas.",
+    "Kanaliemikuutio.",
+    "Autisminen autismi.",
+    "16-tuntiset yöunet.",
+    "Hämmentynyt äiti.",
+    "Lasten ryöstäminen orpokodista.",
+    "Itkemisestä johtuva nestehukka.",
+    "Niilo22:n puuttuva kromosomi.",
+    "Kromosomin hukkaaminen.",
+    "Gender fluid.",
+    "Pussillinen taikapapuja.",
+    "Autismikohtaus.",
+    "Leukemia.",
+    "Abortin ihme.",
+    "Vesimelonineekeri.",
+    "Kivittäminen.",
+    "Pienet tissit.",
+    "Vauvan valmistaminen saatavilla olevista aineksista.",
+    "Testosteroni.",
+    "Lääkärin viileä sormi.",
+    "Kolmen kimppa isovanhempien kanssa.",
+    "Ensimmäisten treffien kiusallistakin kiusallisempi kiusallisuus.",
+    "Orgasmi.",
+    "Kastraatio.",
+    "Professorin paneminen.",
+    "Parvekkeelta alas syljeskely.",
+    "Orgasmin antaminen.",
+    "Jalka.",
+    "Hämmentävä orgasmi.",
+    "Jälkiabortti.",
+    "Pylly.",
+    "Teekkari.",
+    "Vanha mies.",
+    "Isovanhempieni talon erityinen tuoksu.",
+    "Orgasmin saaminen.",
+    "Mummo.",
+    "Biromanttinen heterodemiseksuaali.",
+    "Kihlasormus, jossa on väärä nimi.",
+    "Naapurin Jussi.",
+    "Kiusallisuus.",
+    "Neitsyyden käyttäminen aseena.",
+    "Patteriin tukehtuminen.",
+    "Neitsyestä vuotava veri.",
+    "Sikiö.",
+    "Oma käsi.",
+    "Nekrofilia.",
+    "Elämänhaluton kääpiö.",
+    "Elämästä poistuminen.",
+    "Tulevaisuuteen näkeminen.",
+    "Afrikkalaisten poikien murhaaminen huvikseen.",
+    "Henkiset arvet.",
+    "Hyvä ja ravitseva aamupala.",
+    "Veri.",
+    "Kivesmiesmurhaaja.",
+    "BDSM.",
+    "Lävistys herkällä alueella.",
+    "Puutteessa oleminen.",
+    "Kissan käyttäminen kondomina.",
+    "Morsiamen kidnappaaminen.",
+    "Koodari.",
+    "Ville 10 vuotta, joka ei juhli.",
+    "Muikkelin miespuoliset ystävät.",
+    "Rintaimplantti.",
+    "Pöydän alle sammuminen.",
+    "Valopylväiden potkiminen huvikseen.",
+    "Myrkyllinen maskuliinisuus.",
+    "Kolmas maailmansota.",
+    "Isäni uteliaat kädet.",
+    "Seksin käyttäminen aseena.",
+    "Lapsen kutittaminen kielletystä paikasta.",
+    "Vapaasti kasvatettu lapsi.",
+    "Yllättävä seisokki.",
+    "Vegaanin märkä päiväuni.",
+    "Vibraattori.",
+    "Yannica 3C:ltä.",
+    "Luontaiset aromit.",
+    "Apple.",
+    "Moraali.",
+    "Kasvis.",
+    "Hyväksikäyttäminen.",
+    "Tummaihoinen orja.",
+    "Sipuliviina.",
+    "2000-luvun lapsi.",
+    "Vähän erikoisempi lapsi.",
+    "Meh.",
+    "Saippuan tiputtaminen tahallaan.",
+    "Elämänhalun puute.",
+    "Down-syndroomainen nunna.",
+    "Kasvain kiusallisessa paikassa.",
+    "Pienet tissit.",
+    "Vauvan työntäminen takaisin äitiin koska se ei ole vielä kypsä.",
+    "Massiivisen riskin ottaminen.",
+    "Poikaystävän neitsyydestä huolen pitäminen.",
+    "Kromosomien keräileminen.",
+    "Partiopoikien syysleiri.",
+    "Häkämyrkytys.",
+    "Ominaisuus.",
+    "Intensiivinen imeminen.",
+    "Esinahan pureskeleminen.",
+    "Isäpuoli.",
+    "Valkoinen ylivalta.",
+    "Kleptomaaninen apina.",
+    "Huonosti ajoitetut holokaustivitsit.",
+    "Banaani.",
+    "Ovi, joka ei johda mihinkään.",
+    "Kelan mahdollistama alkoholismi.",
+    "Mystinen mies.",
+    "Insesti.",
+    "Laatikko ja neljä pyörää.",
+    "Kielinäppäryys.",
+    "72 sukupuolta.",
+    "Pyörätuolissa istuvan lapsen sytyttäminen palamaan ja kutsuminen Hot Wheeliksi.",
+    "Mun poikaystävä.",
+    "Kehitysvammaisuus.",
+    "Kissatyttö.",
+    "Vegaanina oleminen.",
+    "Kiusallinen seksivideo.",
+    "Kuula kalloon.",
+    "Kuolleet vanhemmat.",
+    "Näiden korttien keksiminen.",
+    "Akateeminen pöytäjuhla.",
+    "Dementoitunut koira.",
+    "Jalkojen kutittaminen kielellä.",
+    "Epäilyttävän värinen vessapaperirulla.",
+    "Vanhempien mysteerinen kuolema.",
+    "Juutalaisten salajuoni.",
+    "Lääkäri.",
+    "Hyvinvointi.",
+    "Naistenhuone.",
+    "Kuukautiset.",
+    "Vauva.",
+    "Peniksen kasvattaminen.",
+    "BDSM-seksiluola.",
+    "Turhan toivon antaminen.",
+    "Yksinäisyys.",
+    "Käsiraudat, ruoska ja paljon liukastetta.",
+    "Voimakastahtoinen nainen.",
+    "Sun mutsis.",
+    "Vihannes.",
+    "Kuppa ja 10 muuta.",
+    "Romanttinen ilta kissan kanssa.",
+    "Kerrassaan lumoavan näköinen kiveskiertymä.",
+    "Tuleminen.",
+    "Tätinainen.",
+    "Partiotyttöjen leirintäalue.",
+    "Toripolliisin tiukka katse.",
+    "Minuna oleminen.",
+    "Pahan mielen rommi muovipullossa.",
+    "Epäilyttävän halpa viski.",
+    "Shrek.",
+    "Kuopio.",
+    "Ennenaikainen tuleminen.",
+    "Seksi.",
+    "Myrkytetty suolakurkku.",
+    "Uimahallissa käyminen samaan aikaan lasten uimakoulun kanssa.",
+    "Olemassa oleminen.",
+    "Reiän vaihtaminen lennosta.",
+    "Nudistiranta.",
+    "Sun isäs.",
+    "Sateenkaariperhe.",
+    "Talitiaisen kiveshöyhen.",
+    "Kiihottuminen kissoista liiallisen animen katselun seurauksena.",
+    "Naisen kuin naisen housuihin pääseminen.",
+    "Vielä lämmin ruumis.",
+    "Neitsyyteni myyminen.",
+    "Niilo22:n ylimääräinen kromosomi.",
+    "Syntymättömän vauvan kutittaminen peniksellä.",
+    "Avioliitto.",
+    "Rumat tissit.",
+    "Paksu mutta vaalea käsikarva.",
+    "Liukuportaissa makaaminen.",
+    "Mikä tahansa seksiluola.",
+    "Rasismi.",
+    "60Hz näyttö.",
+    "Hiekka-aasialainen.",
+    "Kostea ja ah, niin herkullinen suklaakakku.",
+    "Tummaihoisuus.",
+    "Esinahka.",
+    "VR:n Suomen nopeimmat lihapullat.",
+    "Klamydia.",
+    "Epäilyttävän edullinen lapsenvahti.",
+    "Viiksien piirtäminen äidin huulipunalla.",
+    "Kameravalvonta epäilyttävässä paikassa.",
+    "Naapurin tuikkaaminen tuleen.",
+    "Kuollut sisarus.",
+    "Hamsteri.",
+    "Norsu.",
+    "Ohjelmistoprojektille suuttuminen.",
+    "Lapsen kosketteleminen.",
+    "Kalja.",
+    "Vauva.fi elämänpelastaja.",
+    "Orgiat.",
+    "Syntymisen ihme.",
+    "Ruumiin piilottaminen myöhempää tarvetta varten.",
+    "Vielä elossa oleva vauva.",
+    "Syöpä.",
+    "Saunalämmin jallu.",
+    "Synnyttämisen ihme.",
+    "Syntymätön lapsi.",
+    "Juutalaisten kosto.",
+    "Kolme tissiä ja kaksi vaginaa.",
+    "Isoisoisoisä.",
+    "Lestadiolaisperhe.",
+    "Elämässä epäonnistuminen.",
+    "Lampi.",
+    "Pippeli.",
+    "Sukkamehun kerääminen purkkiin.",
+    "Sosiaalitoimi.",
+    "Sormiväreillä maalaaminen.",
+    "3-vuotiaiden uimatunti.",
+    "Humanisti.",
+    "Unesta herääminen.",
+    "-.",
+    "Elatusmaksu.",
+    "Epäonnistunut abortti.",
+    "Big dik enerki.",
+    "Naisen seksikkäin osa.",
+    "Seksi sun mutsis kanssa.",
+    "Lapsen pyllyn pyyhkiminen nuolemalla.",
+    "Tohvelieläin.",
+    "Kolme spagettia, joista yksi on vielä kova.",
+    "Outo ääni.",
+    "Kelarotta.",
+    "Seksiasentokirjan läpikäyminen.",
+    "Portaille hylätty lapsi.",
+    "Tossunalusmies.",
+    "3D waifu.",
+    "Pieni ja kostea aavikko.",
+    "Aaaaaaaaaaaaaaaaa.",
+    "Uudenmaan Tasavalta.",
+    "Kaksi ylimääräistä kromosomia.",
+    "Alaston pikkutyttö.",
+    "Taianomaiset rintaliivit.",
+    "Juutalaisvaino.",
+    "Kiusalliset äänet vanhempien makuuhuoneesta.",
+    "Rakastava avioliittoväkivalta.",
+    "Liemikuutio.",
+    "Osittain vegaaninen lasagne.",
+    "Murhanhimoinen raiskaajasetä.",
+    "Prisman parkkipaikalta herääminen.",
+    "Naisten asemaan kantaaottavien maalausten maalaaminen menkkaverellä.",
+    "Valkoinen heteromies.",
+    "Ruumis.",
+    "Itsensä hengiltä juominen.",
+    "Seksikkään vauvan kuoriminen.",
+    "Kumiankka, jossa on epäilyttävän muotoisia ulokkeita.",
+    "120-tuntinen työviikko.",
+    "Masennus.",
+    "Lapsilaatikko.",
+    "Ala-asteen disko.",
+    "Päiväkoti.",
+    "Eläimiin sekaantuminen.",
+    "Liiman käyttäminen liukuvoiteena vahingossa.",
+    "120kg ydinjätettä.",
+    "Musta mies.",
+    "Titeläinen.",
+    "Hitlerin yksinäinen kives.",
+    "Hentai.",
+    "Anaaliseksi.",
+    "Seksuaalinen patsas Hitleristä.",
+    "AIDS.",
+    "Veljeni penis.",
+    "Mummoni perintödildo.",
+    "Penispumppu.",
+    "Auschwitz-selviytyjä.",
+    "Pornolehti.",
+    "Sähkövatkaimen käyttäminen dildona.",
+    "Äidin lempidildon lainaaminen.",
+    "Hitlerin salainen päiväkirja.",
+    "Eläinporno.",
+    "Uusi ja parempi penis.",
+    "Lapsipornon tekeminen.",
+    "Homoeroottinen sivujuoni.",
+    "Mies, joka tappoi Hitlerin.",
+    "Homofobia.",
+    "Homous.",
+    "Pippelin mittainen penis.",
+    "Turriporno.",
+    "Hitlerin syntymätön kives.",
+    "Isompi musta penis.",
+    "Taskupenis.",
+    "Mehujään makuinen penis.",
+    "Peniksen makuinen mehujää, joka olikin oikeasti penis.",
+    "Äitini penis.",
+    "Lapsiporno.",
+    "Pikkupojan pissa.",
+    "Mikropenis.",
+    "Pedofiili.",
+    "Isoisäni penis.",
+    "Isoisäni perintödildo.",
+    "Sotkuinen keskenmeno, jos tiedät mitä tarkoitan.",
+    "Epämuodostunut penis.",
+    "Hitlerin viikset, jotka saavat housut kostumaan.",
+    "Hitler.",
+    "AIDS-sperma.",
+    "Homo.",
+    "Auschwitz-selviytyjän tuhkat.",
+    "Lapsipornon kuvaaminen.",
+    "Poikaystäväni typerä penis.",
+    "Anaalipenetraatio.",
+    "Peniksen muotoinen penis.",
+    "Kondomi, jossa on tuuletusreikiä, että penis saa happea.",
+    "Uppopaistettu penis.",
+    "Anaaliorgasmi.",
+    "Lumikki ja 7 dildoa.",
+    "Isäni penis.",
+    "Penis."
+  ],
+  "pack": {
+    "id": "HE5BY",
+    "name": "Autismipakka"
+  },
+  "quantity": {
+    "black": 404,
+    "white": 924,
+    "total": 1328
+  },
+  "dateStoredMs": 1588359815900
+}

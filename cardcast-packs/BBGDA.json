@@ -1,0 +1,127 @@
+{
+  "black": [
+    {
+      "content": "Even _ should have beaten the Blue Devils' \"Ink\" on Finals night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The show designers thought it would be a \"great\" idea to incorporate _ as props.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would rather see _ than see the Blue Devils win.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cabaret Voltaire is a more confusing show than a show about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Corps are running out of show theme ideas. I saw this one show that was about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "More people show up to _ than to the Open Class Finals.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is worse than a Cadets show? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only _ causes more problems than a copyright lawyer working with DCI.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the newest rule changes, _ is now allowed on the field.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in my day, there were no electronics on the field. We only had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How will Phantom Regiment kill a corps member this time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Drum and Bugle Corps has received a .2 point reduction for a _ penalty.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I would rather see _ than see woodwinds march.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Bluecoats are excited to announce _. A show about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "That moment when you find a box 5 _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing like the _ crowd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is more disappointing than seeing Carolina Crown lose to the Blue Devils? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Getting hurt in the last rehearsal.",
+    "Box 5 showers.",
+    "Accidentally stepping off the right foot.",
+    "The Pioneers.",
+    "I AM SPARTACUS.",
+    "Felliniesque.",
+    "The Bluecoats almost winning... every year.",
+    "The Backstreet Boys of DCI, the Madison Scouts.",
+    "Mars by Gustav Holst.",
+    "The pitch bend.",
+    "Blue Devils.",
+    "A desperate GoFundMe attempt to pay for tour funds.",
+    "Another disappointing Blue Stars show.",
+    "Losing because of the color guard section.",
+    "The corps that actually gets last place.",
+    "Another Blue Devil championship year.",
+    "Getting cut by the Pioneers.",
+    "The Cadets.",
+    "Transition corps.",
+    "Willie, the white knight, our lord and savior.",
+    "Souvie king.",
+    "Almost beating the Blue Devils.",
+    "The steep cliff that is also known as the Cavaliers Drum and Bugle Corps future.",
+    "Getting cut by the Racine Scouts.",
+    "Playing K-pop in your show.",
+    "Bluecoats."
+  ],
+  "pack": {
+    "id": "BBGDA",
+    "name": "Drum Corps International"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 26,
+    "total": 43
+  },
+  "dateStoredMs": 1589341406978
+}

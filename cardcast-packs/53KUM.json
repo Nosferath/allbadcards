@@ -1,0 +1,395 @@
+{
+  "black": [
+    {
+      "content": "Najlepszy drink: Jedna część _, trzy części _ i dolanie _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Jestem pod _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MOGĘ _ PRZEZ CAŁĄ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moderator zrezygnowałby z _, by wpisać sześcio zdaniowy opis w temacie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem ekspertem od _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój _ jest za duży!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja matka jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to mój najgorszy zwyczaj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto potrzebuje bidetu, jak masz _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jedyna rzeczy, która ma znaczenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kolekcja jego młotków zniszczyła całą eskadrę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w moich majtkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabawmy się przy dźwiękach _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wyczyść WSZYSTKIE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem bardziej zajebisty od T-rexa, ponieważ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ na prezydenta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co cię dzisiaj uszczęśliwiło? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karty Przeciwko Ludzkości: Miejsce, w którym dzieje się _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pies zjadł i wymiotował _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weź _, to będzie trwało dłużej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jezus _ był Jezusem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dlaczego pienisz się ze złości? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po tym, jak Blue wysłał _ na chacie, nigdy więcej nie zaufam jego linkom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierwszą zasadą dyskotekową jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żyj długo i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mam postawić w salonie za kanapą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Musimy porozmawiać o twoim galonie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wzgórza żyją dzięki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co cię dzisiaj wkurzyło? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy miałem 25 lat wygrałem nagrodę za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wojna na temat _ wydarzyła się podczas _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czego dzisiaj dokonałeś? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ użył _. To było bardzo skuteczne!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prezydent przejechał przez _ by wygrać nagrodę _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? SMAŻY. OCZY.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forum prawie zostało zniszczone po tym, jak _ dodał _ w sekcji dotyczącej zmarłych.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To koniec _, jak wiemy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy życie daje ci _, zrób _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "P***dol się, jestem _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pomyśl, nim _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szparki i psychiatrzy doprowadzili nas do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po tym, jak ujrzałem _, potrzebowałem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Baw się dobrze, nie bądź _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W mojej zupie jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze będziemy mieć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ WSZYSTKICH _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Weź mój łuk. I MÓJ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikt mnie nie lubi, po tym jak opublikowałem _ w tematach TMI.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myślałem, że bycie _ było najlepszą rzeczą, jaka może być, dopóki nie zostałem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dziki _ się pojawił! Użył _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ został zbanowany na tinychat z powodu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Robiłem _, jak dorosły.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mięso zawiera _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sprawia, że czuję się niekomfortowo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie bądź wkurzony, bądź _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tam było DUŻO _ robiących _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zabij to używając _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszystko jest lepsze, niż _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pokaż mi swoje sutki!.",
+    "Żonglowanie siekierą w powietrzu.",
+    "Gry, w których możesz używać cegieł.",
+    "Dziecko w probówce.",
+    "Pisanie swoimi genitaliami.",
+    "Pies.",
+    "Pisanie na forum po pijanemu.",
+    "Ciekawskie dłonie.",
+    "Wilkołak.",
+    "Maluchy.",
+    "Pirackie dziwki.",
+    "Rude dziecko.",
+    "Oliwkowa Ewa.",
+    "Certyfikowany Inżynier Konserwacji Piersi.",
+    "Stanie obok niskich ludzi, by używać ich jako podłokietników.",
+    "Sweter z kotków.",
+    "Łyżka, która jest za duża.",
+    "Bycie pijanym przed północą.",
+    "W podstępnej spirali nienawiści.",
+    "Zakład.",
+    "Doctor Who.",
+    "Losowe zgadywanie, kto może być Wilkołakiem (przez co później zostajesz zabity).",
+    "GŁOŚNE DŹWIĘKI.",
+    "NAUKA!!1!.",
+    "POWIEŚCIE RAKA.",
+    "Picie na żywo w telewizji.",
+    "Klauni-Striptizerzy.",
+    "Dupne pomarańcze.",
+    "Trema przed spotkaniem.",
+    "Wilgotne i soczyste.",
+    "Więcej bandaży.",
+    "Kupociasto.",
+    "Skinienie głową.",
+    "Moc Mistycznej Czaszki.",
+    "CAŁY GALON PIERSI.",
+    "Dziękowanie swojemu niewolnikowi seksualnemu.",
+    "Wstrzykiwanie heroiny w oczy.",
+    "Przedwczesny wytrysk.",
+    "Bardzo Poważna Wyspa.",
+    "HODOR.",
+    "Velociraptor.",
+    "Dupnopirackie Pokemony.",
+    "Kangur-Striptizer.",
+    "Przygotowywanie mojej pochodni do zapłonu.",
+    "P***DOLONY BATMAN.",
+    "Bijaczka do dzieci.",
+    "Bycie w ciąży.",
+    "Niedźwiedziorekin.",
+    "Piana tatusia.",
+    "Noblowska dziwka.",
+    "Cthulu.",
+    "Powitalne Taco.",
+    "Kultyści.",
+    "CAŁY GALON.",
+    "Nie bycie w ciąży.",
+    "Podręczny biustonosz.",
+    "Dziwki i dmuchanie.",
+    "Naprawdę dobra waga piersi.",
+    "Tańczenie nago.",
+    "P***dol się, jestem niedźwiedziem.",
+    "Napiwek!.",
+    "JESTEM PRZYKŁADEM JAK DZIECI SĄ ROBIONE.",
+    "Piersi.",
+    "INTERNET NA ZAWSZE!.",
+    "Krwawiące tyłki.",
+    "Wąż w spodniach.",
+    "Łoś rodzący na twoim podwórku.",
+    "Delfin gwałciciel.",
+    "Orgia.",
+    "Sprawianie katastof.",
+    "Kutasoser.",
+    "Tinychat.",
+    "KuuuuuuPA!.",
+    "Rekin lądowy.",
+    "ZGŁADZIĆ.",
+    "Hello Kitty.",
+    "Rewolucja.",
+    "Łzy męskiego bólu.",
+    "KOZY.",
+    "Luksusowe tampony.",
+    "Penis niespodzianka.",
+    "SEKS.",
+    "Wielkie Dildo Thora.",
+    "Dziwny Jezus Lesbijka.",
+    "Centaur-Jezus-Terapeuta.",
+    "Oczy na sprężynkach na penisie.",
+    "Blowjob Jesus.",
+    "Obowiązkowy seks na imprezie.",
+    "Sperma ^.^."
+  ],
+  "pack": {
+    "id": "53KUM",
+    "name": "Very Serious (PL)"
+  },
+  "quantity": {
+    "black": 58,
+    "white": 89,
+    "total": 147
+  },
+  "dateStoredMs": 1589577185257
+}

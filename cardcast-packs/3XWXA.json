@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "What's the difference between a good joke and a bad joke? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I watched _. I'm turned on now!!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jarell ascending into a Kyle.",
+    "The sudden death of Coach Bedowitz.",
+    "Sex.",
+    "Death.",
+    "Jarell having a universal and deadly battle with Jesus.",
+    "God himself.",
+    "Jordan literally eating James.",
+    "Timing.",
+    "The difference between a good joke and a bad joke.",
+    "James literally eating Jordan."
+  ],
+  "pack": {
+    "id": "3XWXA",
+    "name": "DOHS IS AN ALL STAR SCHOOL"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1588162741283
+}

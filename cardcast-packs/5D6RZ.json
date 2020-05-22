@@ -1,0 +1,69 @@
+{
+  "black": [
+    {
+      "content": "While Kate & Gerry prayed, Maddie was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ killed Madeleine Mccann",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maddie's Church: home of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When police opened the boot of the Mccanns' rental car, they were shocked to find _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where is Madeleine Mccann? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The e-fit photo of Maddie's kidnapper looks suspiciously like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Madeleine Mccann died of _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The wooshy curtain of Portugal.",
+    "Cadaver evidence.",
+    "Madeleine Mccann.",
+    "Madeleine Mccann.",
+    "The twins.",
+    "The Maddie Fund.",
+    "Madeleine Mccann.",
+    "The well.",
+    "Portugal.",
+    "Madeleine Mccann.",
+    "A cheeky, misplaced smirk.",
+    "Gerry Mccann.",
+    "Cuddle Cat.",
+    "A big, missing, tennis bag.",
+    "Madeleine Mccann.",
+    "Kate Mccann.",
+    "A bit too much Calpol.",
+    "The sadness of 40 unanswered questions."
+  ],
+  "pack": {
+    "id": "5D6RZ",
+    "name": "Mystery Of The 'Missing' Madeleine Mccann Pack"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 18,
+    "total": 25
+  },
+  "dateStoredMs": 1589470438277
+}

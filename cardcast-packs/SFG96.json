@@ -1,0 +1,102 @@
+{
+  "black": [
+    {
+      "content": "Introducing _ , Spider-Man's newest villain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , an even worse cancellation than Young Justice",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You activated my trap card, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He is no ordianry _ , he is the legendary super _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Timmy is a _, that no one understands.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Name is Doug _ , Owner of the Dimmsdale _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You think that's bad? Remember when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who lives in a _ under the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The negative reviews of Sonic's newest game had complaints about this new feature. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Shrek Reboot, Shrek is now a _ on a quest for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the newest season of Spongebob, Krabs sold Sponegbob's Soul for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jimmy Neutron's Newest Invention is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Super-de-Duper Saiyan.",
+    "Ugandan Knuckles.",
+    "Doug Dimmadome.",
+    "Schway.",
+    "KANKERS!.",
+    "Plank.",
+    "Making a megaphone only using some string, a squirrel, and a megaphone.",
+    "Mojo Jojo.",
+    "Ogres are like Onions.",
+    "Broccoli that breaks his fingers.",
+    "Aster.",
+    "Jawbreakers.",
+    "Wacky Delly.",
+    "The Box Ghost.",
+    "Decking someone in the Schnoz.",
+    "Captain Melonhead.",
+    "Hello Nurse!.",
+    "Sczechaun McNugget Sauce.",
+    "Wall Weasels.",
+    "And Steven!.",
+    "The Do Song.",
+    "Wubba Lubba Dub Dub.",
+    "Kunai with Chain!.",
+    "Fenton Thermos.",
+    "Garchomp is a Crystal Gem.",
+    "Mr. Crocker."
+  ],
+  "pack": {
+    "id": "Sfg96",
+    "name": "Animation Domination"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 26,
+    "total": 38
+  },
+  "dateStoredMs": 1588988453241
+}

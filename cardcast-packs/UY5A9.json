@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Apparently, the president has a hard time grabbing _ with his tiny hands.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "UY5A9",
+    "name": "Penny Tees"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588125875937
+}

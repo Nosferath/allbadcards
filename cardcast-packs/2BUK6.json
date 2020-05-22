@@ -1,0 +1,219 @@
+{
+  "black": [
+    {
+      "content": "Alright, _ i think it's time to leave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joel's new album is going to have 50 songs about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a me! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Dook Noukem is going to tackle the challenges of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta get that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sponge wishes that _ would care about him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is eating _ on the toilet.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today, Vinny will cook you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joel seems to have caught _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "David Bowie is going to go to space with _ tonight.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KARNOV SHALL CRUSH THE PUNY _S!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "YOUR FACE IS _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KARNOV SHALL BRING THE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ banged your mum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rev thinks that _ is Death Metal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In tonight's stream, Joel will attempt to break _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vinny is not looking forward to playing  the _ dating sim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Frodo has killed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and the Jahns",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright, _ , I think it's time for you to leave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, Alpaca will marry _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Vinny will corrupt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had some really nice _ with your mum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is going at 200 cigarettes per second.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ owns this swamp.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greetings, _. My name is BonziBUDDY.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is shit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today in Vinechat, we discussed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta go _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Vinny has been sent a _ from a fan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joel had to confess to his dad that he downloaded _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vinny.",
+    "Rev.",
+    "Infinitely Puking.",
+    "BonziBUDDY.",
+    "Appendages reaching the heavens.",
+    "Walrus.",
+    "Faggio roadblocks.",
+    "Joel fighting a hornet.",
+    "Intoxination.",
+    "Karnov.",
+    "Vinechat.",
+    "Joel putting buckets on everyone's head.",
+    "Dong Dong Never Die.",
+    "Dook Noukem.",
+    "Yer mum m8.",
+    "Eating glue.",
+    "Terminal 7.",
+    "Good Ol' Stalin Times.",
+    "Sen.",
+    "Shrek.",
+    "Swinging a fox through Skyrim.",
+    "Toasters Toasting Toast.",
+    "Fruity Juice.",
+    "A corpse in the fridge.",
+    "Rev casually watching everyone burn.",
+    "Jahn.",
+    "Pregnant Luigi.",
+    "Banter.",
+    "Jahn.",
+    "Jahn.",
+    "Gonzalo.",
+    "Vinesauce Vidya.",
+    "Mario.",
+    "Satanic purple monkey.",
+    "Super Toad 67.",
+    "Toad.",
+    "Sick Kermit.",
+    "Fast.",
+    "Sponge.",
+    "Luigi.",
+    "Intensifying Sprinkles.",
+    "Skeletor.",
+    "Lotsa Spaghetti.",
+    "Limp Bizkit.",
+    "Flirting with the Grim Reaper.",
+    "Dook Noukem.",
+    "Vinny's Corpse.",
+    "ALPACA."
+  ],
+  "pack": {
+    "id": "2buk6",
+    "name": "Vinesauce Cards Against Humanity"
+  },
+  "quantity": {
+    "black": 31,
+    "white": 48,
+    "total": 79
+  },
+  "dateStoredMs": 1588477640245
+}

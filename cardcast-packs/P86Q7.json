@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "Nene has a crush on _ now!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Teru Minamoto.",
+    "Tsukasa.",
+    "Nene Yashiro.",
+    "Akane Aoi.",
+    "Kou Minamoto.",
+    "Mitsuba.",
+    "Aoi Akane.",
+    "Hanako Kun."
+  ],
+  "pack": {
+    "id": "P86Q7",
+    "name": "tbhk"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 8,
+    "total": 9
+  },
+  "dateStoredMs": 1589330094982
+}

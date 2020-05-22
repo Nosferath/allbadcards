@@ -1,0 +1,81 @@
+{
+  "black": [
+    {
+      "content": "We all want to see _ and _ have sex",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We all know _ is a fuckin failure",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather play Aspire mine than come close to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Is a sellout",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the firing this week goes to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a dead meme",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ make the perfect sex scenes",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I hate _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing good about fBlocks is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "#Blame _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "MHF_CommandBlock.",
+    "F78.",
+    "Exratr.",
+    "FBlocks.",
+    "Houlton.",
+    "Fclick.",
+    "Breqkfast.",
+    "NoahIsBae.",
+    "CallumlousTV.",
+    "JustFishin.",
+    "DinnerDelight.",
+    "Reassembly.",
+    "Dm Advertising.",
+    "Pureandbloody.",
+    "Sex."
+  ],
+  "pack": {
+    "id": "APU48",
+    "name": "f78 servers pack"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 15,
+    "total": 25
+  },
+  "dateStoredMs": 1589302785097
+}

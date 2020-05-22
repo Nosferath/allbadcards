@@ -1,0 +1,42 @@
+{
+  "black": [
+    {
+      "content": "Roli egy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heckler új videója _ -ról szól. Nagyon tetszik.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sziasztok én _ vagyok!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Józsi a _ utálja a legjobban.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miért nincsen otthon _? Már fáj a farkam.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "DaveeDog."
+  ],
+  "pack": {
+    "id": "S3X3K",
+    "name": "magyar"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 1,
+    "total": 6
+  },
+  "dateStoredMs": 1589196614019
+}

@@ -1,0 +1,174 @@
+{
+  "black": [
+    {
+      "content": "The most terrifying shape a mimic has taken has been _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cant decided which weapon is better, _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Best use of a bag of holding is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wild _ appears. It may only be killed by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the Dungeon Master is smiling you know _ is about to go down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new character is based off _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wild _ appears. Go _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "New Objective: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I counter with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is clearly legal. i Don't care what anybody says.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only thing that can avoid a magic missile.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ , and _ . oh my!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I tap 6 mana to cast _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We almost lost but we pulled through thanks to  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He is the one who is known as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know its a bad idea when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new favorite DnD class is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would tap that so hard that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHAT, is the airspeed velocity of an unladen swallow? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, looks like i found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I summon forth a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Rolling for meta awareness.",
+    "Playing counters on every card.",
+    "Getting items for a different class role.",
+    "Your skin is stronger than any armor you own.",
+    "Fighting a boss as a lone healer.",
+    "When your accuracy is so low a magic missile misses.",
+    "Slowly becoming the villain of the game.",
+    "A 4v4 with only super friends.",
+    "Wearwolfs.",
+    "Horses noises from coconuts.",
+    "Drawing every card you don't need.",
+    "A sword named kindness.",
+    "A never ending swarm of 1/1 creatures ended by board wipe.",
+    "Playing a non magical human with no abilities or skills.",
+    "Making small virtual creatures fight for fame and entertainent.",
+    "A golem made of Mount Rushmore.",
+    "Humans.",
+    "Tim the enchanter.",
+    "When the dungeon master summons a boss, a event, and a curse on the same turn.",
+    "A 5 color deck.",
+    "Actually useful female armor.",
+    "A card that has gone through the washing machine.",
+    "Trying to activate a trap card.",
+    "LOAM LARVA.",
+    "A never ending swarm of 1/1 creatures.",
+    "Having the perfect card for the perfect time but missing enough mana.",
+    "Rolling to interpretative dance for safety.",
+    "Obtaining an op item early game.",
+    "Summoning an army of bees.",
+    "\"You make me sad\" quote King Arthur.",
+    "The knights who say Ni.",
+    "Chaotic stupid.",
+    "The lyrical bard.",
+    "A team of only clerics.",
+    "Elderazis.",
+    "Vampires.",
+    "Summoning sickness.",
+    "Revealing a flip card.",
+    "Buffing a 1/1 card beyond belief and sweeping with it.",
+    "Board clear on your side only.",
+    "5 color magic deck.",
+    "Spell books filled only with useless spells.",
+    "Holding bag of holdings inside more bag of holdings.",
+    "A 1/1 token creature.",
+    "A swallow carrying a large coconut.",
+    "Necromancy.",
+    "An unblockable 0/4 white camel.",
+    "Rolling the die off a table.",
+    "Immunity to all colors.",
+    "Confetti cannon.",
+    "Getting pokemon cards for a magic deck.",
+    "Randomly joining a game of DnD mid game.",
+    "Rolling nat 20's every roll."
+  ],
+  "pack": {
+    "id": "4zxds",
+    "name": "Magic & DnD"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 53,
+    "total": 74
+  },
+  "dateStoredMs": 1589127542495
+}

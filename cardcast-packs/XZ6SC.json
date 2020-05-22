@@ -1,0 +1,111 @@
+{
+  "black": [
+    {
+      "content": "If _ were to _ , then I'd be _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Did you hear about the new hero? Apparently their quirk is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "500,000,000 volts straight to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Shinsou could make _ do anything, then he should make _ do _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Deku and Bakugou are_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why didn't All Might give Bakugo All for One? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Izuku _ Midoriya",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what? I would _ right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I become a hero? Because (of) _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know who i would smash? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ AM/IS HERE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got caught with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is Bakugou's Hero Name? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plus _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "They are a traitor.",
+    "SHINEEE.",
+    "Detroit smash.",
+    "Kaminari.",
+    "A quirk that enhances endowments.",
+    "Deku.",
+    "Kirishima.",
+    "Smash.",
+    "A quirk that switches your gender.",
+    "Ochaco.",
+    "Explode.",
+    "Hagakure.",
+    "Attracting a harem of big tiddie girls.",
+    "Jirou.",
+    "Giving information to the League of Villains.",
+    "Iida.",
+    "The hair Deku ate.",
+    "A quirk that makes your faster at everything....everything.",
+    "Shinsou.",
+    "PLUS ULTRA.",
+    "*insert All Might's Laugh*.",
+    "Bakugo.",
+    "Iida's engine calves.",
+    "The rejected symbol of peace.",
+    "Jirou's enormous music playlist."
+  ],
+  "pack": {
+    "id": "XZ6SC",
+    "name": "Boku No Hero Acacardeck"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 25,
+    "total": 39
+  },
+  "dateStoredMs": 1588497040291
+}

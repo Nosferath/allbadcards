@@ -1,0 +1,209 @@
+{
+  "black": [
+    {
+      "content": "Mettaton's 4th form has the _ feature!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asgore's huge fork must make it easy to eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anyone else get the _ reference in the _ ending?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Toriel's pie recipe: _ + _ + _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Who else got the _ ending?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're like, SO HYPED for the destruction of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's an Undertale mod where you can date _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chara's favourite flavour of chocolate is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flowey was born when Alphys put _ in a flower.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asgore's gift to Toriel was a/an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite ship is _ and _...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Royal Guards' favourite ice cream stand is the one that _ owns.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's me, your best friend, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once upon a time, there lived two races. _s and _s.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mettatons new show: _ With A Killer Robot!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the newest thing Catty and Bratty found in the dump!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GUYS I FOUND OUT HOW GASTER GOT HIS SCARS: HE FOUGHT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite part of Mew Mew Kissy Cutie 2 was when _ kissed _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hardest thing Woshua had to clean was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Dance, _ Dance, whatever could it mean?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Statue of _... very famus. VERY!!!!!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grillby's fire is fueled by _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did the echo flower just say _ _!?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I want to see an amalgamate of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is having a REALLY bad time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most liked post on Undernet was _ ate a/an _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You and the other monsters ditch _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gerson. _ of justice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best Undertale AU is where everyone is _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hot cat.",
+    "Empty Gun.",
+    "Undyne's Spear.",
+    "Chara.",
+    "W. D. Gaster.",
+    "Asgore.",
+    "Manly Bandana.",
+    "Sans' sock.",
+    "Stick.",
+    "Snowdrake's Mother.",
+    "Stained Apron.",
+    "Abandoned Quiche.",
+    "Heart Locket.",
+    "Burnt Pan.",
+    "Monster Kid.",
+    "Endogeny.",
+    "Memoryhead.",
+    "Asriel.",
+    "Heats Flamesman.",
+    "Lesser Dog's Neck.",
+    "Real Knife.",
+    "Old Tutu.",
+    "Worn Dagger.",
+    "Foggy Glasses.",
+    "Undyne.",
+    "Toriel.",
+    "Ballet Shoes.",
+    "Face Steak.",
+    "Frisk's Soul.",
+    "Reaper Bird.",
+    "Tough Glove.",
+    "Cowboy Hat.",
+    "Temmie.",
+    "Faded Ribbon.",
+    "Asgore's Trident.",
+    "Alphys.",
+    "Jerry.",
+    "Lemonbread.",
+    "Butts Pie.",
+    "Annoying Dog.",
+    "Torn Notebook.",
+    "Frisk.",
+    "Bandadge.",
+    "Flowey.",
+    "Napstablook.",
+    "Sea Tea.",
+    "Bob.",
+    "Mettaton."
+  ],
+  "pack": {
+    "id": "YV3HA",
+    "name": "God of Hyperdeck"
+  },
+  "quantity": {
+    "black": 29,
+    "white": 48,
+    "total": 77
+  },
+  "dateStoredMs": 1589525586204
+}

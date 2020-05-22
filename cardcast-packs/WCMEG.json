@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "Todoroki kisses _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deku Kisses _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kacchan Kisses _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TodoDeku is best ship because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Endeavor hugs _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kacchan Argues with deku about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Might hugs _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deku Loves _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Endeavor _ his son",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Might _ with Deku",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BakuDeku Is best ship because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ X _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Aizawa Sleeps in a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bakugou slaps _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todoroki Hates _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sleeping bag.",
+    "Punches.",
+    "Teaches.",
+    "Bakugou.",
+    "Kacchan.",
+    "Fights.",
+    "Endeavor.",
+    "Todoroki.",
+    "Trains.",
+    "Slaps.",
+    "Aizawa.",
+    "All Might.",
+    "Izuku.",
+    "Denki.",
+    "Deku."
+  ],
+  "pack": {
+    "id": "WCMEG",
+    "name": "My Hero Academia"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 15,
+    "total": 30
+  },
+  "dateStoredMs": 1588493517564
+}

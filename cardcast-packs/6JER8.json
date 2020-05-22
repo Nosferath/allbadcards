@@ -1,0 +1,512 @@
+{
+  "black": [
+    {
+      "content": "Einem Mädchen das vergewaltigt wurde sagen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Innenarchitekt stellte _ auf den Kaminsims.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was hast du da in deiner Hand? -Ach, das ist nur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf einer Skala von _ bis _ -wie heftig sind deine Schmerzen?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich hasse es _ in meiner Küche zu finden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Superhelden und Sidekick Duo sind _ und _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Das haben die Bibel und das Kamasutra gemeinsam: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich der Kaiser von Österreich wäre, würde ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gibt es bald im Billa-Onlinestore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ -lecker bis zum letzen Tropfen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bei meinem nächsten Zaubertrick werde ich _ aus einem _ holen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Atemlos durch _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist der beste Freund einer Frau.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um in die Burschenschaft aufgenommen zu werden musst du einen Krug voll mit _ trinken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich schwöre, ich habe _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Geschäftsmodell _ ist Millionen wert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Bundesheer hat mit dem Abwurf von _ für _ gesorgt!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. -Familientradition seit 2004.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papa trinkt, weil _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1973 bekam mein Großvater den Nobelpreis für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir produzieren _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn du einen Spiegel zerbrichst, hast du 7 Jahre lang _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du. Ich. _. Sofort.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Dafür gibt es doch eine App?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist das für ein Lärm? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Und der Oscar geht an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein romantisches Abendessen bei Kerzenschein wäre nicht vollständig ohne _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = hemmungslose Liebe.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Du musst zugeben, dass du von _ abhängig bist!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mariokart ist vor allem lustig wegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich war depressiv, bis ich auf _ traf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das hat meine letze Beziehung beendet: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schatz, Mami und Papi haben dich ganz doll lieb. Aber leider liebt Mami eben _ mehr als Papi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich ekel mich vor Leuten, die in der U-Bahn neben mir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum riecht es hier so stark nach _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. So möchte ich sterben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim Kindergeburtstag werden alle Gäste als _ geschminkt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieber zu spät als _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein echter Steirer genießt zu seinen  Krautfleckerln _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein neuer Tag, ein neuer _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "RTL's neue Reality TV Show präsentiert 8 Promis die mit _ leben müssen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Kinder! Drei Uhr morgens! Zeit für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Beziehungsstatus: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Karriere als Youtuber war vorbei, als der Skandal über _ öffentlich gemacht wurde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ich letztens nach dem Scheißen in die Schüssel sah, lag dort _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gestern habe ich eine Doku über _ gesehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute eröffne ich meinen Gasthof zum _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zukunft wird aus _ gemacht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist das beste Mittel um Steuergelder zu hinterziehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! -Meine größte Angst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ -Ich wette davon kriegst du niemals genug.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haben sie 20 Portionen _ bestellt?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hallo, _ mein alter Freund!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schwanz raus für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich bin Alkoholiker um _ zu vergessen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sex ist zu gefährlich. Ich vevorzuge _. Viel sicherer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf Pornhub suche ich nach _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mumifizierte Schwänze.",
+    "Schwul.",
+    "12 Volt Batterie an den Eiern.",
+    "Die Oide mit der Rückhand schlagen.",
+    "Terroristen.",
+    "Die Kinder die gestorben sind, weil ich nicht gespendet habe.",
+    "Handgranaten.",
+    "Der Versuch eine Erektion zu verstecken.",
+    "Mit Wundschorf panierte Vorhaut.",
+    "8 Gramm bestes russisches Heroin.",
+    "Ihr den Hintern versohlen.",
+    "Durch Monopoly zerstörte Freundschaften.",
+    "Die Ausdünnung der Unterschicht.",
+    "In der U-Bahn in die Ecke kacken.",
+    "Die Vorzeigeminderheit.",
+    "3x6 ist auch 18.",
+    "Einen Ananas auskacken.",
+    "Mit einem Anwalt eine Teilnehmer Urkunde anfechten.",
+    "Blackjack und Nutten.",
+    "Meine Hand in deiner Hose.",
+    "Omas Dessous.",
+    "Tschuschen.",
+    "Der heilige Vater.",
+    "Die edlen braunen Sandleute.",
+    "Ein toter Anhalter im Kofferraum.",
+    "Matthias' Haaransatz.",
+    "Tabak kaufen, aber Arschhaare rauchen.",
+    "Diskriminierung.",
+    "Leichenschändung.",
+    "Einem Roboter beibringen zu Lieben.",
+    "Markus' Tinderprofil.",
+    "Ein norwegischer Burrito.",
+    "Abführ-Zäpfchen eingeführt obwohl noch 10 drin waren.",
+    "Kinder an Leinen.",
+    "Knusperparty.",
+    "Einen Wahrsager ermorden um zu zeigen, dass er nicht alles vorhersagen kann.",
+    "Der dauergeile Opa an der Bushaltestelle.",
+    "Ein Hirntumor.",
+    "Der heilige Krieg.",
+    "Dosenbier saufen.",
+    "Die Todesspritze bekommen, aber es bringt dich nicht um sondern macht dich nur geistig behindert, weil es lediglich Rattengift war.",
+    "Heteros.",
+    "Kinder die auch ohne Impfung autistisch werden.",
+    "3er BMW.",
+    "Die heilige Schriftrolle der Vergewaltigung.",
+    "Heißhunger auf zartes, weißes Kinderfleisch.",
+    "Aspirin für Paracetamol verwechseln, Ibutropfen wollen aber Vicodin brauchen.",
+    "Kindersarg.",
+    "Überfüllte Kondome.",
+    "Raushängende Geschlechtskrankheiten um Closeup.",
+    "Familie im Brennpunkt.",
+    "Joseph Göbbels.",
+    "Vaters drittes Bein.",
+    "Jesus am Kreuz.",
+    "Waterboarding.",
+    "Kinder mit Arschkrebs.",
+    "Fritzls Kellerfamilie.",
+    "Kevin.",
+    "Flüssigkleber als Gleitgel verwenden.",
+    "Die Gummibärenbande.",
+    "Ein Swingerclub mit Kinderbetreuung.",
+    "Ein Haus aus Leichen.",
+    "Einen Nierenstein auspissen.",
+    "Wenn der Stift schon malt.",
+    "Ein Mund voll mit etwas von dem ich hoffe, dass es Käse ist.",
+    "Das mit den Kindern längst überfällige Gespräch über die Bienen und die Blumen.",
+    "Bis zur Hochzeit warten.",
+    "Die Vorhaut in einer Kiste gefüllt mit abgeschnittenen Fingernägeln verwahren.",
+    "Von einer radioaktiven Spinne in den Sack gebissen werden und an Hodenkrebs sterben.",
+    "Eine Leich zurück ins Leben rammeln.",
+    "Außereheliche Plichten.",
+    "An fremden Fahrradsätteln riechen.",
+    "Thomas Gottschalks goldene Locken.",
+    "Mit Bill Cosby nackt Pudding essen.",
+    "Das Herz eines Kindes.",
+    "Sehr viele Ärsche. Wirklich, sehr viele Ärsche!.",
+    "Ein Zigeunerfluch.",
+    "Die Milchtitten deiner Mutter.",
+    "Sich als Frau umoperieren lassen und direkt an Gebärmutterhalskrebs bekommen.",
+    "Mit den Zähnen über Asphalt scheren.",
+    "Der seltsame Typ der mit dem langen Mantel nachts durch den Park läuft.",
+    "6 Jährige, indische Fabrikarbeiter.",
+    "Feuchter Händedruck.",
+    "Schamhaarsalat mit Menstruationsdressing.",
+    "Amphetamine.",
+    "Harvey Weinsteins private Videosammlung.",
+    "Kondome zum Trocknen in die Sonne legen.",
+    "Intravenöse Koffeinzufuhr.",
+    "Order 66.",
+    "Minions.",
+    "Kinder auf dem Spielplatz verführen.",
+    "Das AMA-Gütesiegel.",
+    "Labello mit Wixxegeschmack.",
+    "Jimi Blue Ochsenknecht.",
+    "Ein Kleinkind.",
+    "Das Herz eines Kindes.",
+    "Das Scheuern in den Fettfalten.",
+    "Meister Propper, plötzlich hinter dir.",
+    "Die Vorhaut aufblasen wie einen Heißluftballon.",
+    "Holz.",
+    "Der Typ der sich das Urinal direkt neben dir aussucht, obwohl noch 15 andere frei sind.",
+    "Kinder im Untertagekohleabbau.",
+    "Natursektspiele.",
+    "Bauer sucht Frau.",
+    "Abtreibung 12 Jahre danach.",
+    "Polizeigewalt.",
+    "Sich selbst SWATten.",
+    "Metersaufen.",
+    "Mein Mäc-Moment.",
+    "72 Jungfrauen.",
+    "Der Liebhaber deiner Mutter.",
+    "Dresden 1945.",
+    "Ein Traktor auf der Autobahn.",
+    "Keksln.",
+    "Einen Ständer auf dem Friedhof bekommen und merken, dass man unter Nekrophilie leidet.",
+    "Samenstau.",
+    "Frauen am Steuer.",
+    "Schlepphoden.",
+    "Oberst beim österreichischen Bundesheer.",
+    "Transen.",
+    "Das Dritte Reich.",
+    "Tränengas im Kindergarten.",
+    "Realisieren, dass du nichts Besonderes bist.",
+    "Ekelbilder auf Zigarettenschachteln.",
+    "Arschpickel ausdrücken.",
+    "Der Nacktrodel-Club.",
+    "Kleinkinder, frisch serviert.",
+    "Meine Handpuppe mit mir machen lassen was sie will.",
+    "Zusammengeleimte Arschbacken.",
+    "Der Amoklauf von Hanau.",
+    "Steinschlag.",
+    "Vegane Milch.",
+    "Zehn- bis Zwölfjährige.",
+    "Mit einem Blatt Papier die Augäpfel einschneiden.",
+    "Modellkleber aus Mikes Hobbyshop.",
+    "Frauen vor der Abtreibungsklinik anbaggern.",
+    "Christen an Löwen verfüttern.",
+    "Mit einer Kameradrohne den sechsjährigen Mädchen beim Duschen zugucken.",
+    "\"Facharbeiter\".",
+    "Covid 19.",
+    "Häusliche Gewalt.",
+    "Körperverletzung mit einem Fahrzeug.",
+    "Schwarze Nonnen in einem Tunnel.",
+    "Mit Daniel Aminati nackt Löffelchen liegen.",
+    "Alltagsrassismus.",
+    "Eine Abtreibung überleben.",
+    "Ein Blumenstrauß voller Schwänze.",
+    "Fettleibigkeit.",
+    "Ein Dackel mit einer Erektion.",
+    "Eine Marionette aus Leichenteilen.",
+    "Entjungferung.",
+    "Mit Carrie Fisher koksen.",
+    "Nutten um ihr Geld prellen, wild durch die Gegend ballern, Windeln wechseln und Falschparker aufschreiben.",
+    "So sauer werden, dass man einen Ständer bekommt.",
+    "Zigaretten aus dem Aschenbecher am Hauptbahnhof rauchen.",
+    "Illegale Königspudel Hundekämpfe.",
+    "10 afrikanische Kinder die auf dem Zebrastreifen vom Auto überfahren werden.",
+    "Über Krebs lachen und später an Krebs sterben.",
+    "Alles aufgeben was einen glücklich macht und sich dann zu Tode saufen.",
+    "Kinder auf dem Spielplatz verführen.",
+    "Kindermorde.",
+    "Ein Amoklauf.",
+    "Eine Kellertreppenabtreibung.",
+    "Alle Asiaten sehen gleich aus.",
+    "Fotzenfurz.",
+    "Olivenöl trinken und drei Stunden später Bratensoße kacken.",
+    "Die Juden.",
+    "Ziegen die Konservendosen fressen.",
+    "Solange du wild bist.",
+    "Spontan-Errektionen während des Religionsunterrichts.",
+    "Ein farbenblinder Rassist.",
+    "Es wie einen Unfall aussehen lassen.",
+    "Ein Tattoo von einem Vogel der aussieht wie ein Penis mit Flügeln.",
+    "Das dreidimensionale Muttermal auf meinem rechten Hoden.",
+    "Penis in der Tür eingeklemmt.",
+    "Die Spitze deines Penis in ein Glas Wodka halten und es sofort bereuen.",
+    "Ein Spielzeugbackofen der Hitlerjugend.",
+    "Ein schlechter Handjob.",
+    "Sich mit dem Arsch auf Pinocchios Gesicht setzen und verlangen, dass er lügt.",
+    "Verpflichtende Homo-Ehe.",
+    "Maria die Schlampe die ihren Mann Josef mit Gott betrogen hat.",
+    "Loli-Porn.",
+    "Einen Penner auf offener Straße anzünden.",
+    "AIDS.",
+    "Auschwitz.",
+    "Liebevoller Geschwistersex.",
+    "Ein gebleichtes Arschloch.",
+    "Zutiefst missverstandene Pädophile.",
+    "Der einfallsreiche Plot eines Gayporns.",
+    "Sich ein Feuerzeug an den Arsch halten, weil man einen Furz erwartet, aber stattdessen anfängt Durchfall zu bekommen.",
+    "Voller Tränen zur Wiederholung von TV-Total masturbieren.",
+    "Eine haarige Eichel.",
+    "Rollstuhlfahrer-Sex.",
+    "Dieter Bohlens krummer Penis.",
+    "Obdachlose beim Sex beobachten.",
+    "Popel und Wichse.",
+    "Deutsche die Deutsche als Nazis bezeichnen weil sie Deutsch sind.",
+    "Hitlergruß.",
+    "Ein Autogramm von Hitler.",
+    "Dir von hinten eine heiße Bilou-Flasche in den Arsch schieben lassen bis sie platzt und dein Arsch nach Chemie-Donut riecht.",
+    "Blut pissen und sich fragen ob das normal ist.",
+    "Tentakel-Porn.",
+    "Dicke Jungs die zwar gut im Bett, aber halt dick sind.",
+    "Pornos.",
+    "Der vom Analsex völlig zerstörte Schließmuskel.",
+    "Des Sexleben vom Papst.",
+    "Ein Blowjob mit viel Zähnen.",
+    "Bumsen.",
+    "Cumshot in beide Augen.",
+    "Der gigantische Schwanz vom Weihnachtsmann.",
+    "Ein schwarzer, pulsierender Schwanz."
+  ],
+  "pack": {
+    "id": "6JER8",
+    "name": "Kranker Mist"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 211,
+    "total": 268
+  },
+  "dateStoredMs": 1588532916585
+}

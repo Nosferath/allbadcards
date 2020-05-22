@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "We went into war with _, we came out with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you join the army you get a ration of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is an Abomination unto Nuggan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nuggan considers _, _, and _ Abominations.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Surprisingly, Nuggan is just fine with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Destroying a clacks tower.",
+    "The Duchess.",
+    "Clarence Chinny.",
+    "Going out to Munz.",
+    "Being eternally at war with Zlobenia.",
+    "Igorina.",
+    "Corporal Strappi.",
+    "Kneeing Prince Heinrich in the groin.",
+    "Polly Perks.",
+    "Knowing that gender is an increasingly creative lie.",
+    "Horse bread.",
+    "Prince Heinrich.",
+    "Lieutenant Blouse.",
+    "Igorina's clinic in Ankh-Morpork.",
+    "Proud Borogravia.",
+    "Grand Duchess Annagovia.",
+    "Shufti Manickle.",
+    "Lofty Tewt.",
+    "Tonker Halter.",
+    "Maladict.",
+    "Wazzer.",
+    "Oliver Perks.",
+    "Jack Jackrum.",
+    "Kissing the Duchess' backside.",
+    "Nuggan.",
+    "Fucking Zlobenia.",
+    "Jade the Troll.",
+    "Kissing the Duchess.",
+    "Disguising oneself, successfully or otherwise, as a washerwoman.",
+    "Shoving socks down your trousers."
+  ],
+  "pack": {
+    "id": "RHYB2",
+    "name": "Life On The Disc: Borogravia Edition"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 30,
+    "total": 35
+  },
+  "dateStoredMs": 1589035221189
+}

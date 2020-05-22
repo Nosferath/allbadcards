@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "I GO TO FRANCE FOR MORE FUNDS, AND I COME BACK WITH MORE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taking this horse by the reigns making _ redder with blood stains.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My life is ruinied by a vicious cycle of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is easy, young man, _ is harder.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where's your family from? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hercules Mulligan: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here lies _, an unfortunate victim of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Work, work, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pardon me, are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will send a fully armed batallion to remind you of my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who lives, who dies _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cabinet Battle #3 will be fought over _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Daddy Washington.",
+    "Hamlet.",
+    "The room where it happens.",
+    "Ruining lives.",
+    "Ruining your career to save your reputation.",
+    "Dying in a duel against your enemy.",
+    "Spies on the inside.",
+    "Daveed Diggs' hair.",
+    "The new United States Constitution.",
+    "Roasting your enemy in front of everyone.",
+    "Marquis de Baguette.",
+    "Leslie Odom Jr.",
+    "A beat without a melody.",
+    "Lin-Manuel Miranda's Twitter.",
+    "Selling a kidney to afford Hamilton tickets.",
+    "A fully-armed batallion.",
+    "Eliza Hamilton, an actual angel.",
+    "Alexander Hamilton.",
+    "Old Man Miranda.",
+    "Burr screwing things up again.",
+    "Valley Forge."
+  ],
+  "pack": {
+    "id": "52ZYM",
+    "name": "Hamilton Nonsense"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 21,
+    "total": 33
+  },
+  "dateStoredMs": 1589081078507
+}

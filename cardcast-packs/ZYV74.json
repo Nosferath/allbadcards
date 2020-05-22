@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "_ is the Co-Founder.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke.",
+    "Emo Luke."
+  ],
+  "pack": {
+    "id": "zyv74",
+    "name": "Luke's an Emo Pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 30,
+    "total": 31
+  },
+  "dateStoredMs": 1588420730493
+}

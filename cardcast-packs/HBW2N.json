@@ -1,0 +1,49 @@
+{
+  "black": [
+    {
+      "content": "The secret ingredient is: _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Kid tested, Mother approved",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest TV dinner from Swanson: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iron Chef Guy Fieri's dessert: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Broken, smelly eggs.",
+    "Cream of wheat.",
+    "Trussing the bird.",
+    "A deflated souffle.",
+    "A slab of bacon.",
+    "Add more salt.",
+    "Mise en place.",
+    "Joey, from the McCain superfries commercials.",
+    "Taste as you go.",
+    "Dry rubbing the meat.",
+    "Curdled milk.",
+    "The consistency of oatmeal.",
+    "Chicken nuggets."
+  ],
+  "pack": {
+    "id": "HBW2N",
+    "name": "Random (Food)"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 13,
+    "total": 17
+  },
+  "dateStoredMs": 1589402569913
+}

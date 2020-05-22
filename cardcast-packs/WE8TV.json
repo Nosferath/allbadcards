@@ -1,0 +1,137 @@
+{
+  "black": [
+    {
+      "content": "Agradezco a dios por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El Óscar por _ es para _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lo siento mucho profesor, pero no pude terminar la tarea por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twitter el lugar perfecto para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Papá! no es lo que parece, estaba por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando el faraón se negó, Moisés llamó la plaga de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paso 1: _ . Paso 2: _ . Paso 3: Disfruta.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Según estudios el 50% de los matrimonios terminan en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi placer culpable es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Historiadores militares recuerdan a Alejandro Magno por sus brillantes estrategias que involucran _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cómo perdí mi virginidad? pues tomé clases de _ y _ me invitó a cenar.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Debido a un recorte de presupuesto, Santa ahora reparte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Una cena romántica está incompleta sin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El Comité Olímpico Internacional declaró que _  es un nuevo deporte olímpico.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me dió cringe ver a _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Así es! maté a _ con _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Un método eficaz para conseguir sexo es: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca entendía sobre _ hasta que empecé a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Para mi siguiente acto, voy a _ con _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Planear un genocidio masivo.",
+    "Boquitas Diana.",
+    "Mi sugar mommy.",
+    "Conquistar Persia.",
+    "El imperio otomano.",
+    "Un silencio incómodo.",
+    "Julio César.",
+    "Ser un furry.",
+    "Morgan Freeman.",
+    "Crear una sociedad comunista.",
+    "MAPS.",
+    "Una patada en los huevos.",
+    "Lociones AXE.",
+    "Batman.",
+    "COVID-19.",
+    "Incendiar la Biblioteca de Alejandría.",
+    "Morir de soledad.",
+    "Nuestro gran salvador, Jesucristo.",
+    "#nayibdictador.",
+    "El milagro del parto.",
+    "Lamer smegma."
+  ],
+  "pack": {
+    "id": "we8tv",
+    "name": "001"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 21,
+    "total": 41
+  },
+  "dateStoredMs": 1588469531415
+}

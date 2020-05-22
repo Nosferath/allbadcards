@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "The reason I am late for school is_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "9SHRW",
+    "name": "So Singaporean"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589031143339
+}

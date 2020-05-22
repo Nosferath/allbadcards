@@ -1,0 +1,63 @@
+{
+  "black": [
+    {
+      "content": "The love between Kylo Ren and Hux would be perfect if it weren't for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kylo, if you don't leave your room, I'll _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, Chewie, we need to get  _  onto the Falcon!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll give you 1000000 portions for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well you can't have _ without some _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chewie loves his _ flavoured Wookie treats!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "All the skywalker problems.",
+    "Traitor.",
+    "The look on your fathers face when you put your lightsaber through him.",
+    "Rey.",
+    "Darth vaders empty helmet.",
+    "Luke.",
+    "Kylux.",
+    "I'm not emo, i just like the colour black.",
+    "Snoke.",
+    "Kylo ren.",
+    "Falcon.",
+    "Kylo ren.",
+    "Lightsaber.",
+    "Fn-2168.",
+    "Millicent.",
+    "General hux.",
+    "Lightsaber."
+  ],
+  "pack": {
+    "id": "KYARD",
+    "name": "Star wars TFA"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 17,
+    "total": 23
+  },
+  "dateStoredMs": 1589520746069
+}

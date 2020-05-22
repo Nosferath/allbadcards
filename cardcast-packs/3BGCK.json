@@ -1,0 +1,206 @@
+{
+  "black": [
+    {
+      "content": "_ is secretly a cow.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the human's name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this world, it's _ or be _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You have to go on a date with _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "If I were Asgore, I would _ on the human.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Undertrash massively ships _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Flirt with  _. I will give you Fried Snow if you do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sans doesn't give _. Instead, he gives _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(insert #1 Undertrash user here) _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you could die from Undertale, how would you want to die? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has the most Rule 34 art out there. Thank you, Undertrash.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Mettaton stole the souls, he would turn into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You didn't gain _, but you gained _. Do you understand that?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Flowey didn't turn into Omega Flowey from the souls. He actually turned into Omega Flowey by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alphys is in love with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The human destroyed the barrier by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the guys want _ from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chara stole the human's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flowey is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Undertale was real, I would _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my most favorite character in the _ AU.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is secretly linked to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Undertrash wants to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toriel would give _ if she took Sans's place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In reality, _ is actually _'s sibling.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you hear that Undyne swapped her spears with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(insert Undertale Call and _ joke here)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is W.D. Gaster.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W.D. Gaster misses _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Toriel.",
+    "Papyrus's \"love\".",
+    "Gaster blaster.",
+    "(is too busy being Undertrash).",
+    "(insert Undertrash here).",
+    "(is too busy playing Undertale).",
+    "Flowey.",
+    "Be killed.",
+    "Frisk.",
+    "(insert Undertail here).",
+    "Undertrash.",
+    "Bratty.",
+    "The souls.",
+    "(insert Undertale here).",
+    "A bad time.",
+    "Call Alphys to wreck.",
+    "W.D. Gaster.",
+    "DETERMINATION.",
+    "Muffet's \"spider sac\".",
+    "Kill.",
+    "Temmie.",
+    "LOVE.",
+    "Alphys.",
+    "Asgore.",
+    "Snowdin.",
+    "Asriel.",
+    "Chara.",
+    "Toriel's \"Delta Rune\".",
+    "The CORE.",
+    "Waterfall.",
+    "Sans's \"bone\".",
+    "The throne room.",
+    "Catty.",
+    "Hotland.",
+    "Mettaton.",
+    "Asriel's \"horn\".",
+    "Calling Undyne.",
+    "Muffet.",
+    "The Ruins.",
+    "(is too busy looking at Undertail).",
+    "Sans.",
+    "Papyrus.",
+    "W.D. Gaster's \"glitch\".",
+    "Omega Flowey.",
+    "Asgore's \"spear\"."
+  ],
+  "pack": {
+    "id": "3BGCK",
+    "name": "Underdeck 2.0"
+  },
+  "quantity": {
+    "black": 29,
+    "white": 45,
+    "total": 74
+  },
+  "dateStoredMs": 1588648321186
+}

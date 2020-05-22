@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "What makes the IT Office so good? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes Dan's testicle pulsate.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Luke's sexy fetus of a neice.",
+    "Dan's 'Overworking testicle'.",
+    "Jay's missing kidney.",
+    "Nick's fetish for Jennifer Bennett wearing nothing but a samosa as underwear.",
+    "Ryan's parents who clearly don't love him.",
+    "John Jarrett's paedo mustache."
+  ],
+  "pack": {
+    "id": "F5K78",
+    "name": "The IT Office"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 6,
+    "total": 8
+  },
+  "dateStoredMs": 1589035222823
+}

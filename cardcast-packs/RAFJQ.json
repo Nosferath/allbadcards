@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "It's a bird, it's a plane, nope it's fucking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it a coincidence that all the videos I make with _ get demonetized?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ needs to forfeit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ made me realize I hated Rocket League.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shut the fuck up, you look like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best team play is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's this? What'd I find in my pocket? It's  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You do realize I'm _ , right?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Spamming 'What a save!' into quick chat.",
+    "A fucking brick.",
+    "Owngoaling.",
+    "A Chia pet.",
+    "Rocket League.",
+    "Gay.",
+    "A What a save.",
+    "Chrome.",
+    "Sizz.",
+    "Kronovi.",
+    "Screaming like a chimp at RLCS.",
+    "Hitting someone with that What a save!.",
+    "JKnaps.",
+    "Rizzo's dance.",
+    "Rizzo."
+  ],
+  "pack": {
+    "id": "RAFJQ",
+    "name": "rocket league bs"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 15,
+    "total": 24
+  },
+  "dateStoredMs": 1588955665145
+}

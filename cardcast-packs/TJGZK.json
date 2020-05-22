@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Why is bakugou sweating? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Todoroki's Two-Face Cosplay.",
+    "A semi-sentient dumpster fire stuffed into a loose fitting suit of human skin.",
+    "Stain's tongue fetish.",
+    "Deku's broken arms."
+  ],
+  "pack": {
+    "id": "TJGZK",
+    "name": "Boku No Hero Against Humanity"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1588497040390
+}

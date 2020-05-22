@@ -1,0 +1,171 @@
+{
+  "black": [
+    {
+      "content": "The Doctor's next companion will be nicknamed The Impossible _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I am definitely a madman with a _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Doctor's favorite food? Fish fingers and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The TARDIS's next stop is a planet inhabited completely by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"In 900 years of time and space, I’ve never met anyone who wasn’t _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  are cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Doctor Who 100th Anniversary special, the Doctor saves Gallifrey by combining  _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I keep telling the Doctor to take me home, but instead, this time he's taken me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ of Rassilon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jack Harkness, I can't leave you alone for a minute! I turn around and you're trying to flirt with _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Master plans to defeat the Doctor again, this time with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've already predicted the Thirteenth Doctor. It's going to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We're all _ in the end.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ , the best weapons in the world!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next thing that will cause The Doctor to regenerate is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Originally, the 50th special was going to have _ appear, but the BBC decided against it in the end.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Raggedy man, _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Doctor is staying in the same clothes for this adventure, but he's making his companion wear a _ costume.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In all of space and time you decide that _ is a good choice?!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A lizard woman from the dawn of time.",
+    "Peter Capaldi's eyebrows.",
+    "Strax.",
+    "UNIT.",
+    "An 80 year old Billie Piper still making cameos 50 years later.",
+    "Clara.",
+    "Strange-shaped alien technology.",
+    "Being used as a plot device by Steven Moffat.",
+    "Low-budget special effects.",
+    "Adric.",
+    "David Tennant.",
+    "Rose Tyler.",
+    "K-9.",
+    "Gingers.",
+    "Canon continuity.",
+    "Harold Saxon.",
+    "Cricket.",
+    "Sarah Jane Smith.",
+    "The Ninth Doctor.",
+    "Martha Jones.",
+    "Being the tin dog.",
+    "A hot air balloon made of human skin.",
+    "Who is going to be The Doctor's next companion?.",
+    "Dramatic closeups.",
+    "Air from my lungs.",
+    "Earthlings.",
+    "Daleks.",
+    "Uncontrollably buying anything with a TARDIS printed on it.",
+    "Jackie Tyler.",
+    "Matt Smith.",
+    "The Sixth Doctor's coat.",
+    "Madame de Pompadour.",
+    "Madame Vastra.",
+    "Turlough.",
+    "Tom Baker, in nothing but a scarf.",
+    "Mickey Smith.",
+    "Lucy Saxon.",
+    "Russell T Davies.",
+    "Jenny.",
+    "Classic who cliffhangers.",
+    "The Twelfth Doctor.",
+    "Kidnapping a barely-legal woman to time travel with.",
+    "The Eleventh Doctor.",
+    "Torchwood.",
+    "Steven Moffat.",
+    "Plot holes so wide you could drive a truck through them.",
+    "Spoons.",
+    "A naked Jack Harkness.",
+    "Amy Pond.",
+    "Using the sonic screwdriver for everything.",
+    "The Master wolfing down seven raw chickens.",
+    "Wilfred Mott.",
+    "THE END OF TIME ITSELF!!!.",
+    "Your celery turning purple.",
+    "The Master.",
+    "Donna.",
+    "The Rani.",
+    "Rory Williams.",
+    "Captain Jack Harkness.",
+    "The Tenth Doctor."
+  ],
+  "pack": {
+    "id": "YYUJ6",
+    "name": "Doctor Who"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 60,
+    "total": 79
+  },
+  "dateStoredMs": 1589533357014
+}

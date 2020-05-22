@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "It’s always a good idea to demonstrate to your coworkers that you are capable of withstanding a tremendous amount of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You had me at _ tornado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t want to paint with a broad brush here, but every single contractor in the world is a miserable, incompetent _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crying is acceptable only at funerals and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Under my tutelage, you will grow from boys to men. From men into gladiators. And from gladiators into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not interested in caring about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No home is complete without a proper _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you going to tell a man that he can’t _ in his own car?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are only three ways to motivate people: _, _ and _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Cultivating a manly musk to put opponents on notice.",
+    "Whole-assing one thing.",
+    "A 24 oz porterhouse.",
+    "Clear alcohol.",
+    "Crying at the sight of the Grand Canyon.",
+    "A meat tornado.",
+    "A 16 oz T-bone.",
+    "Demanding ALL of the bacon and eggs from a diner.",
+    "A free American.",
+    "Having a cigar and whiskey with your steak."
+  ],
+  "pack": {
+    "id": "3FKPN",
+    "name": "Cards Against Ron Swanson."
+  },
+  "quantity": {
+    "black": 9,
+    "white": 10,
+    "total": 19
+  },
+  "dateStoredMs": 1588370353663
+}

@@ -1,0 +1,85 @@
+{
+  "black": [
+    {
+      "content": "Dang the Coronavirus really ruined _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than 2020 is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started coughing maybe I have the _ disease.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dang the Coronavirus really ruined _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started coughing maybe I have the _ disease.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dang the Coronavirus really ruined _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started coughing maybe I have the _ disease.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started coughing maybe I have the _ disease.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than 2020 is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than 2020 is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dang the Coronavirus really ruined _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gina raimondo.",
+    "Wuhan, china.",
+    "Allan fung.",
+    "Coronavirus.",
+    "Coronavirus.",
+    "Mechacoronavirus.",
+    "Coronavirus.",
+    "Mechacoronavirus.",
+    "Mechacoronavirus.",
+    "Mechacoronavirus.",
+    "Coronavirus.",
+    "Northern italy.",
+    "Coronavirus.",
+    "Coronavirus."
+  ],
+  "pack": {
+    "id": "UYSKD",
+    "name": "Coronavirus"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 14,
+    "total": 25
+  },
+  "dateStoredMs": 1588313683872
+}

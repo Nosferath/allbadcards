@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Verners + Tiffany's = _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "How'd you know my bike code.",
+    "Okay.",
+    "Bodensee Shaped Cookies.",
+    "American Bar.",
+    "Dominic.",
+    "It Hits Different.",
+    "Hvad drikker hunden af.",
+    "Jasmine at 3 am falling off a bike at the stop lights.",
+    "Que Putas.",
+    "The skateboard ramp in Belushi's.",
+    "Jævla Svenska.",
+    "BOY."
+  ],
+  "pack": {
+    "id": "AD5TE",
+    "name": "ZU Erasmus Winter Semester 2019"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 12,
+    "total": 13
+  },
+  "dateStoredMs": 1589566635311
+}

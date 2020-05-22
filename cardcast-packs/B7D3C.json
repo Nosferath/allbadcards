@@ -1,0 +1,958 @@
+{
+  "black": [
+    {
+      "content": "She eats _, I bet",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Iwai drinking today? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got yeeted to the top of the ferris wheel",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jin rolled a Nat 1 and burnt off _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You do know that _ lives in the walls, right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For their unison attack, Kanji and Ryuji we're first _ .....and then _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And this week, _ commissioned _ to draw _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Instead of edible food, _ cooked up  _ for _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Junpei drank _  instead of water.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Careless Whisper, but your ear is inside _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To end the campaign, we chopped Adachi's _ off",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyx wants to make you suffer by_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anyway, here's Ly, performing _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "no one suspects _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We’re longing for _ tonight, boys.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, the Server name got changed to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Takuto was overwhelmed when god gave him back his _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Akira suffered from _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? Kaja saw _ at Maccies at 3am. Spooky",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is really inside Teddie's costume? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Chateau food is really made of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Elizabeth removed Theo's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh look, _ is dead again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason Yosuke won’t admit he likes guys is actually _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaja is getting a postcard of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paying Elizabeth with _ for a Megidolaon",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don’t mind us, we’re just crying over our thirst for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You might not wanna go in the kitchen; I just heard _ doing _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Goro threw _ from the top of his tower.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, the group is kinning _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Ryoji handed out _ to passersby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ missed the ball because of _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ saw _ in Tae's phone gallery",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When they finally found the missing Emperor, she was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iwai's drag name: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh look, now I’m _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Kidd's new kink",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Morgana isnt a cat, he's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goro stuffed 3 steamed _ in his mouth",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no, it’s a new Arcana, The _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Minato died from _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s Shadow form looks like _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Dibs, I'm _, I'm god now\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Listen, I’m not saying that _ is _, but... I’m totally saying that",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today, Teddie forgot to add _ to his people suit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Kanji finally got to pet _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apples are out.  It's been discovered that Takuto is really a magnet for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I staple tapeworms to my _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terry sent Ly a package of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the award for worst god goes to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Messiah discovered google, and as a consequence, Earth's love for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is so sad, Kero sing about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yusuke's greatest masterpiece: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aegis, with her army of bees, is _ tonight.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ looked in the swimming pool, instead of their reflection they saw _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'd be shocked that Akihiko's into _ but...I'm not, really",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're renaming the dice bot to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aegis killed _ in the name of _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Make a haiku: _/Fight me in the parking lot/_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tonight, Aegis is going to shoot _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s vicious mockery:  _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tonight, Iwai’s flirting with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join the Twitch stream! What are we doing in the game? Oh, we're _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Minato fell asleep in _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strega retired drug making and instead is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, literally  _ is nicer than whatever Parker's doing to Ken",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goro's new pajamas say _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst place to be granted an involuntary nap: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today Naoto's convinced that _ is actually a murder plot.  Spoiler, it is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Shinjiro's new Familiar? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ DOESNT WORK IN COURT, KAJA\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Edogawa's potion turned _ into a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Haru stole _ from an innocent shopkeeper",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ribbon-chan craves _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alys' kid looked over their shoulder, and to their horror saw _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Yosuke awaken to find at the end of his bed? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today Ryoji's garden was destroyed by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pharos' new favourite swear word: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, _ got _ from Messiah's bag",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Arsene & Captain Kidd's infiltration failed because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shinji fell down the roof; almost crushing _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyx rolled a 23 to seduce _, resulting in _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Okay, here’s how we make Terry rich: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seducing Adachi with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which rarepair are we shipping today? _ and _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Shinya's new best friend is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, Schnee’s wasting his money on a _ themed eyeshadow palette",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Teddie thicc about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? Kero made a campaign that was _, but edgy",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let Ryuji say \"_\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boredom can inevitably lead to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey! It's Schnee's new campaign! Instead of death, it's gonna involve _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alys left the server because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pulled out _ out of Elizabeth's Bag of Wonders",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today's excuse for hurt/comfort:  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"When did this become 'Make fun of Parker for _' day?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "the :innocent:- emoji really means _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, Minato added _  to his polyamory",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Kanji knitted _ a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A new person joined the server, and immediately left upon seeing _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The group chat's newest emote is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ killed Minato because of _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why’s Minato having another funeral? Oh, because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only think that could make this wall better is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "why hasn't kero finished their dungeon map yet?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a bottom",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'what did kero think up in the shower? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh hey, Terry is drawing Goro _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Akihiko drink today? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ realized the power of gay love with the birth of the _ Arcana.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Parker is stealing _'s knees today",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today Mona discovered he could wild shape into _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minato passed out for 3 days after Wishing for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Goro and Theo fucked in _ instead of Jello",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After rolling failed save, _ did _ with Igor",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can’t believe Moth wants to fuck _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The group chat\"s sleep schedule is fucked again because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My vagina isn’t humid, it’s just _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ became the protagonist for the day after _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After defeating the shadow, Minato traumatically remembered _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, when we finally meet at a con, we should _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did Ly post porn about again? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Rolling a nat 20 to pin your boyfriend.",
+    "Theo as the beautiful full moon.",
+    "Mara's undying love and affection.",
+    "Alys.",
+    "Dont be gay, hate the gays.",
+    "Necronomicon.",
+    "Barbarian Solidarity.",
+    "A smut heist.",
+    "The Shujin Guard.",
+    "Accidentaly adding a 0 to the roll and getting 800+ damage.",
+    "Iwai.",
+    "Satanael.",
+    "Kero.",
+    "Thickey Boy Chungus.",
+    "Bad Fanfiction Sunday.",
+    "Akihiko.",
+    "Akihiko’s gloves.",
+    "Ryuji.",
+    "Goro's half-ogre barbecue.",
+    "Crab with knife.",
+    "Azathoth.",
+    "Arsene's knife heels.",
+    "A maid dress.",
+    "Squishy gnome Futaba.",
+    "Rolling a -1.",
+    "Minazuki.",
+    "Soop-.",
+    "Being afraid.",
+    "Jayden.",
+    "Using own faces as emoji.",
+    "Waiting for the mailman.",
+    "Dying in the woods.",
+    "Being very gay.",
+    "Seducing a grandma.",
+    "Tatsuya.",
+    "Arsene adopting Ryuji.",
+    "Jin.",
+    "Suspicious Takoyaki.",
+    "The Emote of lies.",
+    "Sleeping in the garden.",
+    "Castor.",
+    "Athena.",
+    "A sarcastic F.",
+    "Sending ominous emojis.",
+    "Naoto.",
+    "Fighting in a parking lot.",
+    "Ren and Yosuke's \"sparring match\".",
+    "Ryoji's sad INT rolls.",
+    "Dante, From Devil May Cry.",
+    "Yosuke's sad survival rolls.",
+    "Chubby haru rights.",
+    "A smoothie made of friends.",
+    "Opossum vibes.",
+    "Baldkechi.",
+    "Akihiko, tiddies out.",
+    "Yosukesaurus.",
+    "A coffin in a coffin in a coffin in a coffin in a coffin in a coffin in a coffin in a coffin-.",
+    "Kanji.",
+    "Having a hive mind.",
+    "Junes.",
+    "Ly getting Mod Powers.",
+    "Regretting what you've done.",
+    "Lavenza.",
+    "Discovering your gun hands.",
+    "Stealing Yu's self-insert smut.",
+    "Theo.",
+    "All of Jay's character's being Top Energy.",
+    "Akira's inability to not be traumatized.",
+    "The literal Universe.",
+    "Goro.",
+    "Being rejected for wanting to summon zombies.",
+    "Ly's random messages in Russian.",
+    "Wholesome hours in the tavern.",
+    "Teddie.",
+    "Horrified screaming.",
+    "3 HP Akihiko.",
+    "Aigis.",
+    "Robin Hood.",
+    "Shinya.",
+    "Leaving to get cigarettes.",
+    "Dicks.",
+    "Schnee.",
+    "Schnee's Lies.",
+    "Throwing your character into the sea.",
+    "Dressing up as Teddie.",
+    "Souji.",
+    "Shinji.",
+    "Monabus.",
+    "Cabbage.",
+    "Ren's need for advantage a good 50% of the time.",
+    "Captain Kidd correcting your language.",
+    "Crows before Hoes.",
+    "Being horny on main.",
+    "Living the life.",
+    "Kero being a necrophile.",
+    "The Knife Boots™.",
+    "Lacking nipples.",
+    "Weak Wizard Mishima.",
+    "Erotic knifeplay.",
+    "Being iliterate.",
+    "The Sleep Paralysis Demon at the corner of your bed.",
+    "Nutty Buddy.",
+    "Using Disguise Self to make emoji faces.",
+    "Ryuji's inability to roll well.",
+    "Losing your knees.",
+    "Shinjiro's body under a tarp in Iwai's attic.",
+    "Being wholesome for once.",
+    "Justine.",
+    "Azathoth's inability to keep it in his pants.",
+    "Defeating the McFlurry.",
+    "Super Wholesome Labrys.",
+    "Giving Igor a Nosejob.",
+    "Messiah.",
+    "Surviving Thanatos only to die choking on lunch.",
+    "Yeeting Futaba into the moon.",
+    "Falling seductively in a pile of jell-o.",
+    "Elizabeth's Bag of Wonder.",
+    "Kero sending messages in Japanese.",
+    "Messiah's newfound love for McDonald's fries.",
+    "Sending Yosuke to the void.",
+    "All of Jay's character's being Top Energy.",
+    "Cat Jerky.",
+    "The dice bot derailing the campaign.",
+    "A velvet room sippy cup.",
+    "Becoming a vampire because Moth said so.",
+    "Nipples.",
+    "Being the token straight.",
+    "Morgana.",
+    "Takuto.",
+    "Carmen.",
+    "Orpheus and Arsene's battle for Kidd.",
+    "Death.",
+    "B E E S.",
+    "Alys' One-Eye Emoji.",
+    "Takaya stealing nipples.",
+    "PP.",
+    "Stopping Terry from buying us things.",
+    "Yosuke's lack of pants.",
+    "GOwO.",
+    "Akihiko, covered in bread.",
+    "A gay tree.",
+    "Makoto.",
+    "Polydeuces.",
+    "Adachi.",
+    "Ken.",
+    "Pet Zombies.",
+    "Rise.",
+    "Angry Keysmash ASMR.",
+    "Moth.",
+    "A failed fluster save against tentacles.",
+    "Teddie tiddy.",
+    "Napping, but it’s actually death.",
+    "The sleep paralysis demon.",
+    "The secret Minato will take to the grave.",
+    "Showing your love via haikus.",
+    "Liking a dinosaur more than the actual person.",
+    "Minato.",
+    "Stuffed Cabbage.",
+    "Aigis' Boob Bees.",
+    "Yeeting.",
+    "Threats of grievous bodily harm.",
+    "Renaming the dice bot for the 100th time.",
+    "Adam.",
+    "Kaja.",
+    "Begging for the end.",
+    "Minato, gesturing with a breast instead of bread.",
+    "Arsene.",
+    "Nyx's apparent appetite for vore.",
+    "Drawing like a french girl.",
+    "Sojiro.",
+    "Just wanting some parsnips, man.",
+    "Sho.",
+    "Lem King.",
+    "Soap.",
+    "Wanting to get pet zombies.",
+    "Using Minor Illusion to make lewd moans.",
+    "A fluffy campaign.",
+    "Sending bobbies.",
+    "Literal Satan.",
+    "Yosuke.",
+    "Kero finally getting a message pinned.",
+    "Haru.",
+    "Reverse Top Surgery.",
+    "Uwu'ing aloud.",
+    "High freaking out over P3 on vc.",
+    "Seducing Captain Kidd.",
+    "Dying via Elevator.",
+    "Rolling for kinks.",
+    "Pulling a Shinji.",
+    "Igor.",
+    "Bayonetta.",
+    "Several people are typing.",
+    "Yukiko.",
+    "Ghost Minato.",
+    "Bobbies.",
+    "The bagpipe version of Amazing Grace.",
+    "Rolling 3 nat 1s in a row.",
+    "Spiteful affection money.",
+    "Loki.",
+    "Rolling two Nat 1's on an advantage roll.",
+    "A literal crab.",
+    "The token Straight.",
+    "The egg salad god.",
+    "Rolling a nat 1 and burning down a carnival stand.",
+    "Goro's Tower.",
+    "Dying for no apparent reason.",
+    "An endless can of spam.",
+    "Akira suffering.",
+    "Not being able to dance.",
+    "Alys' love for Angst.",
+    "Goropunzel.",
+    "Ryoji handing out flowers.",
+    "Unleashing the bees.",
+    "Ryoji.",
+    "Fighting God.",
+    "Staying fresh, Cheesebags.",
+    "The Chateau Cryptid.",
+    "Parker.",
+    "Using Minor Illusion to make emoticons appear.",
+    "A few weeks of vampirism to spice up your relationship.",
+    "Nyx.",
+    "Kero being ominous.",
+    "Rarepair Simulator 900.",
+    "Taking the dice bot's name.",
+    "Threatening to leave.",
+    "Terry's Quotes.",
+    "A key to the velvet room.",
+    "Nonbinary aegis rights.",
+    "Calling someone 'Dummy' as a nickname.",
+    "Ryoji's Eternal Angst.",
+    "Losing aginst a small child.",
+    "Beenato.",
+    "Akira.",
+    "S o o p.",
+    "Everyone being afraid of angry akira.",
+    "Too many bees.",
+    "Eating flowers.",
+    "Ren.",
+    "Ly.",
+    "Ominously deleting messages.",
+    "Existential dread.",
+    "Iwai’s tiddie graveyard.",
+    "Labrys.",
+    "Wonderwall.",
+    "Sassy Necronomicon.",
+    "Miku Hatsune.",
+    "A horny pumpkin.",
+    "T H O N K.",
+    "A single egg.",
+    "Igor's Mighty Nose.",
+    "Caroline.",
+    "Margaret.",
+    "Yusuke's paint water.",
+    "Yosuke being 100% Straight™.",
+    "Tae.",
+    "The very charismatic bread merchant.",
+    "Akinari.",
+    "Ari.",
+    "Ren being Big Gay™.",
+    "Flower Boy Ryoji.",
+    "Orpheus.",
+    "Terry's love for drawing dicks.",
+    "Taking off your shoes to seduce Margaret.",
+    "7 ghasts.",
+    "Minato, covered in bees.",
+    "Aigis' Bees.",
+    "Ann.",
+    "Koromaru, the only island of sanity in this mess.",
+    "Being shot by Takaya.",
+    "Basement gremlin Futaba.",
+    "The :flushed: emoji.",
+    "Medjed.",
+    "Spare Coochie.",
+    "Maddi.",
+    "Accidentally Wishing to grow taller.",
+    "Chuu.",
+    "Fuuka.",
+    "A blunderbuss.",
+    "Hypnos.",
+    "Accidentally adding an extra 0 and rolling 856 damage.",
+    "Putting something ominous, only to quickly delete it.",
+    "Salty Gary.",
+    "A vampire.",
+    "Seeing that deleted message.",
+    "Becoming a robot instead of dying.",
+    "Pharos.",
+    "Shinji's Shack.",
+    "The animal hive mind this server has.",
+    "Getting lost in time zone.",
+    "Orpheus rolling a nat one on charisma.",
+    "Stanning Takaya.",
+    "José.",
+    "The DMs being ominous.",
+    "Yaldabaoth.",
+    "Dramatic keyboard smashing.",
+    "Wearing heels.",
+    "Good, oily chicken breast.",
+    "Rolling a zero.",
+    "Gabriel.",
+    "Terry.",
+    "Chie.",
+    "Elizabeth.",
+    "An eternally shirtless Akihiko.",
+    "69-inch Gucci heels.",
+    "Shinji's No Good, Very Bad Day.",
+    "Teddie UwU-ing in your mind.",
+    "Ye olde copyright strike.",
+    "Minato dying again.",
+    "Mitsuru.",
+    "#alabama amirte.",
+    "Goro's friendly fire.",
+    "Igoro.",
+    "Yusuke.",
+    "Ikutsuki.",
+    "Rolling for \"no reason\".",
+    "Reselling a Beanie baby.",
+    "Futaba.",
+    "Junpei.",
+    "Being blessed by the Thundercock.",
+    "Sitting there, barbecue sauce on their titties.",
+    "Nyx's feathery tits.",
+    "Naoto and the mystery of those fucking doors.",
+    "Sexy in the snow.",
+    "Stripper outfit.",
+    "Mishima's Melty Balls.",
+    "Ren's sad CON saves.",
+    "Satanael's 21 inch dick.",
+    "Fucking Joel.",
+    "Fighting the first Dragon after half a year.",
+    "The dice bot being a whore.",
+    "Akira's sad CON Saves.",
+    "D20-shaped anal beads."
+  ],
+  "pack": {
+    "id": "b7d3c",
+    "name": "DND Server Sheenanigans"
+  },
+  "quantity": {
+    "black": 122,
+    "white": 332,
+    "total": 454
+  },
+  "dateStoredMs": 1588191425609
+}

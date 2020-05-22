@@ -1,0 +1,122 @@
+{
+  "black": [
+    {
+      "content": "Well, I don't eat anything and when I feel like I'm about to faint I eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is there some reason that _ isn't here? Has she died or something?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You went upstairs? Why didn't you just crawl into bed with her and ask for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you please spell _?*hangs up* Guess not.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't care if she was going to fire you or beat you with _, you should've said no.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A million girls would kill for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You don't deserve them, I mean you eat _, for Chrissake!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Interesting choice. You do know that _ is one of the main ingredients.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A little _ and some _ and we'll be in business.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Andrea, Runway is a _ magazine, so an interest in _ is crucial.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You have some very large _ to fill. I hope you know that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need 10 or 15 _ from Calvin Klein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did someone eat _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Andrea, my God! You look so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me know when your whole life goes up in smoke. Means it's time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I am not here... Andrea, you are chained to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need the new _ book for the twins.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? For spring? Ground breaking.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cellulite.",
+    "Harry Potter.",
+    "Carbs.",
+    "Skirts.",
+    "Fashion.",
+    "That job.",
+    "Flowers.",
+    "An union bagel.",
+    "My coffee.",
+    "Shoes.",
+    "A cube of cheese.",
+    "Gabana.",
+    "A promotion.",
+    "Corn chowder.",
+    "A bedtime story.",
+    "That desk."
+  ],
+  "pack": {
+    "id": "ZCNKK",
+    "name": "The devil wears Prada"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 16,
+    "total": 34
+  },
+  "dateStoredMs": 1589147018725
+}

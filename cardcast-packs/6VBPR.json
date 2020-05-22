@@ -1,0 +1,259 @@
+{
+  "black": [
+    {
+      "content": "Shrek. I'm looking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some of you may _, but it's a sacrifice I am willing to make.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You didn't _ the Dragon?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oo-o-oh Merry _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't mess with me. I'm the _ master.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you think maybe he's compensating for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disappointment haunted all my dreams, and then I saw her _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody once told me that the world is gonna _ me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, have to save me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can't we just settle this over a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is the part where you _ away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not a puppet, I'm a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All that glitters is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh really? You and what _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What kind of knight are you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will have order! I will have perfection! I WILL HAVE _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ have layers. _ have layers.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are the flowers for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shrek is _. Shrek is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Can I at least know the name of my champion? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll never shine if you don't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey now, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are you doing in my swamp?! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you know the muffin man? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ogres have _. Onions have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "She was lookin' kind of dumb with her _ and her _ in the shape of a(n) _ on her forehead.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My God you _ the princess!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody once told me that the _ is gonna roll me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's all _ now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's time for you to meet today's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your brain gets _ but your head gets _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My God you ate the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are you following me? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are the _s for?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a _ here, and I'm not afraid to use it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You didn't slay the _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That'll do _, that'll do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only shootin' stars break the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man, I like you. What's your name? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The water's getting _ so you might as well swim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who knows where this... Farquaad guy is? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you know the _ man?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Please keep off the grass, Shine your shoes, Wipe your... _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're makin' _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't feel my _. . . I don't have any _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Some of you may die, but it's a sacrifice I am willing to make.",
+    "You Dense, Irritating, Miniature Beast of Burden!.",
+    "One of a kind.",
+    "It's on my to-do list.",
+    "The Sharpest Tool In The Shed.",
+    "Uhhh... Shrek.",
+    "You're An All Star.",
+    "Drury Lane.",
+    "Stop! Singing!.",
+    "Ogres have layers.",
+    "The Muffin Man.",
+    "E.",
+    "Onions have layers.",
+    "This Is The Part Where You Run Away.",
+    "M.",
+    "You, You're Coming With Me.",
+    "Oo-o-oh Merry Me-en!.",
+    "Shrek."
+  ],
+  "pack": {
+    "id": "6VBPR",
+    "name": "Shrek is Love, Shrek in a Deck"
+  },
+  "quantity": {
+    "black": 45,
+    "white": 18,
+    "total": 63
+  },
+  "dateStoredMs": 1588998811588
+}

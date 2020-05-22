@@ -1,0 +1,88 @@
+{
+  "black": [
+    {
+      "content": "No Enforcer wants to manage the panel on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Achievement unlocked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most controversial game at PAX this year is an 8-bit indie platformer about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the latest bullshit that's troubling this quaint fantasy town? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Spock cry? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There was a riot at the Gearbox panel when they gave the attendees _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new DLC for Mass Effect, Shepard must save the galaxy from _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Temporary invincibility.",
+    "Google Glass + e-Cigarette: Ultimate Combo.",
+    "A fully-dressed female video game character.",
+    "The boner hatch in the Iron Man suit.",
+    "Charles Barkley Shut Up and Jam.",
+    "Nude-modding Super Mario World.",
+    "Offering sexual favors for an ore and a sheep.",
+    "Being an attractive elf trapped in an unattractive human's body.",
+    "Never watching, discussing, or thinking about My Little Pony.",
+    "Full HD.",
+    "Achieving the manual dexterity and tactical brilliance of a 12-year-old Korean boy.",
+    "Unlocking a new sex position.",
+    "Legendary Creature - Robert Khoo.",
+    "Rolling a D20 to save a failing marriage.",
+    "The Sarlacc.",
+    "Eating a pizza that's lying in the street to gain health.",
+    "Winning the approval of Cooking Mama that you never got from actual mama.",
+    "Allowing nacho cheese to curdle in your beard while you creep in League of Legends.",
+    "Tapping Serra Angel.",
+    "Turn-of-the-century sky racists.",
+    "SNES cartridge cleaning fluid.",
+    "Filling every pouch of a UtiliKilt™ with pizza.",
+    "Buying virtual clothes for a Sim family instead of real clothes for a real family.",
+    "Bowser's aching heart.",
+    "The Cock Ring of Alacrity.",
+    "An angry stone head that stomps on the floor every three seconds.",
+    "A madman who lives in a police box and kidnaps women.",
+    "Reading the comments.",
+    "Grand Theft Auto: Fort Lauderdale.",
+    "Mario Kart rage.",
+    "Yoshi's huge egg-laying cloaca.",
+    "The decade of legal inquests following a single hour of Grand Theft Auto.",
+    "70,000 gamers sweating and farting inside an airtight steel dome.",
+    "The collective wail of every Magic player suddenly realizing that they've spent hundreds of dollars on pieces of cardboard.",
+    "The Gravity Gun.",
+    "A home-made, cum-stained Star Trek uniform.",
+    "Getting into a situation with an Owlbear."
+  ],
+  "pack": {
+    "id": "PAXP3",
+    "name": "PAX Prime 2013"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 37,
+    "total": 44
+  },
+  "dateStoredMs": 1588538074864
+}

@@ -1,0 +1,21 @@
+{
+  "black": [],
+  "white": [
+    "Old, male, Harvard-graduates.",
+    "Members of Congress.",
+    "CIA.",
+    "Trump.",
+    "FBI.",
+    "Mike Pence."
+  ],
+  "pack": {
+    "id": "57BC8",
+    "name": "Random (America)"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 6,
+    "total": 6
+  },
+  "dateStoredMs": 1589491343185
+}

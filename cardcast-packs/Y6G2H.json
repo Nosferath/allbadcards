@@ -1,0 +1,515 @@
+{
+  "black": [
+    {
+      "content": "Please don’t squeeze _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It wouldn't be home without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Reach out and touch someone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Share moments. Share life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Make the most of now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, We love to see you smile.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes me mellow and _ makes me giggle.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, Let your fingers do the walking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_,The customer is always and completely right!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Like a rock.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Connecting people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Because I’m worth it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, At the heart of the image.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you’ve got the time, we’ve got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The way a sandwich should be.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's always room for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ doesn't do it, who will?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plop plop, fizz fizz, oh what a relief _ is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, See what we mean.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is your brain. This is your brain on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Open Happiness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Something special in the air.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do for a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Think outside the bun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“_, Manly yes, but I like it, too.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, You deserve a break today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Challenge everything.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, A silly millimeter longer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Empowering the Internet generation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Silly rabbit, _ are for kids!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The greatest tragedy is indifference.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Taste the Rainbow.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doesn’t your dog deserve _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Power, beauty and soul.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Just do it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, I am what I am.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The snack that smiles back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a terrible thing to waste.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, It’s not nice to fool Mother Nature.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Impossible is Nothing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Two for me, none for you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, It’s Style.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, So easy a caveman can do it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do me a favour... plug me into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part of waking up is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Think big.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Snap! Crackle! Pop! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“_. Tastes great, less filling.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Your vision. Our future.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Where a kid can be a kid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Solutions for a smart planet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, When you care enough to send the very best.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Have it your way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tastes good like _ should.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_.There is no substitute.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Pleasing people the world over.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, When there is no tomorrow.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Always _, but never _”",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, Think Small.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every kiss begins with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Make Believe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, American by Birth. Rebel by Choice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Medicine with muscle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ – Australian for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, America’s most famous dessert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_,If it doesn't get all over the place, it doesn't belong in your face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a name like _... it has to be good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The _ with the hole.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, The miracles of science.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Relax, it’s _.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Melts in your mouth, not in your hands.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Quality never goes out of style.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Double your pleasure, double your fun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Twist the cap to refreshment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd walk a mile for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Live in your world. Play in ours.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The Coke Side of Life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Stronger than dirt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Finger lickin’ good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. The mark of a man.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Keeps going and going and going.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, I’m loving it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. The Other White Meat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Push button publishing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Innovation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Between love and madness lies obsession.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Success. It’s a Mind Game.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, I can’t believe I ate the whole thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Magically delicious.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Cover the earth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Sometimes you feel like a nut, sometimes you don't.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The happiest place on earth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, When it absolutely, positively, has to be there overnight.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where’s the beef? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've got a lot to live, and _ has got a lot to give.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What’s the best tuna? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, For the men in charge of change.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, 99.44% pure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Save Money. Live Better.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "y6g2h",
+    "name": "Slogans Against Humanity"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 0,
+    "total": 100
+  },
+  "dateStoredMs": 1589497398952
+}

@@ -1,0 +1,42 @@
+{
+  "black": [
+    {
+      "content": "People don't come to see the tigers, they come to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I grew up a _ in a family of _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "When the preacher says \"you may kiss the grooms\".",
+    "That bitch Carol Baskin.",
+    "Property of Joe Exotic.",
+    "Losing your legs in a zipline accident.",
+    "Goldilocks bitch.",
+    "A completely insane  gay gun toting drug addict fanatic.",
+    "Bum-fucked Oklahoma.",
+    "Dr Bhagavan  Antle.",
+    "Well you aint that straight.",
+    "Gay as a three dollar bill.",
+    "Selling drugs to maintain your animal habit.",
+    "They were like golden nuggets to that boy.",
+    "Make america exotic again.",
+    "Joe Exotic.",
+    "I'm never going to financially recover from this.",
+    "Putting sardine oil all over you."
+  ],
+  "pack": {
+    "id": "gxjmd",
+    "name": "Tiger Time"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 16,
+    "total": 18
+  },
+  "dateStoredMs": 1588897946847
+}

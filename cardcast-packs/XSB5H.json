@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "That moment when you look at your _ and feel like you should have _ last year.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ feels pretty good sliding along your back.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hard cocks.",
+    "White privilege."
+  ],
+  "pack": {
+    "id": "XSB5H",
+    "name": "Some Dirty ol Fun"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588340496835
+}

@@ -1,0 +1,45 @@
+{
+  "black": [
+    {
+      "content": "What happens now? _ that's what happens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I seen a _ and rushed home to see if it was mine, no mine was still there _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Let's play our favorite game, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Work harder _ or I will get my _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Hanging a child and using it as a pinata.",
+    "Rawhide whip.",
+    "Polishing my shoes.",
+    "Black man carrying a TV.",
+    "The line at KFC being as black as my soul.",
+    "Taking a shower in birkenau.",
+    "Using a child as a drug mule by implanting cocaine inside their ribcage.",
+    "Niggers.",
+    "Hitler's ONE nut."
+  ],
+  "pack": {
+    "id": "23VJE",
+    "name": "Racism, sexism, and hitler"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 9,
+    "total": 13
+  },
+  "dateStoredMs": 1589574768642
+}

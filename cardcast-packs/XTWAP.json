@@ -1,0 +1,167 @@
+{
+  "black": [
+    {
+      "content": "I hear the new game's prosecutor is 6 years old and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Ace Attorney will be a crossover with _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When something smells, it's gotta be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _! Next time, on the STEEL SAMURAI!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Plot of Ace Attorney 6 is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Ema runs out of Snackoos (tm), her backup snack is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before deciding to be an attorney, Phoenix considered a career in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In addition to the color red, Godot cannot see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We call _ to the stand!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OBJECTION! That was...._!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Klavier Gavin: as authentically German as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trucy's new magic trick is summoning _ from her panties.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Phoenix Wright can only play one song on the piano: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apollo's _ of Steel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It turned out _ was actually Apollo Justice's father.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come on, Nick, let's get some _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I realized Manfred von Karma coached a parrot, I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a seven year coma, Diego Armando returned as _ , the _ prosecutor.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The sexual tension between _ and _ in the courtroom is stifling.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Klavier Gavin's solo career took a nosedive after his single titled \"_\".",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Diego Armando.",
+    "Showing the Big Bad your evidence.",
+    "Making a save when you only have one health left.",
+    "Ema Skye.",
+    "Presenting everything to everyone.",
+    "Godot Blend #107.",
+    "Kristoph Gavin.",
+    "Not having any idea how the US court system works because you assumed it was like Ace Attorney.",
+    "That awkward moment when your boss was the killer all along.",
+    "Presenting your attorney's badge to annoy people.",
+    "Damon Gant.",
+    "Psyche-locks.",
+    "Getting tasered.",
+    "Athena Cykes.",
+    "That awkward moment when you find your boss's dead body.",
+    "Snackoos (tm).",
+    "Mia Fey.",
+    "That awkward moment when your girlfriend was the killer.",
+    "Trying to read everything Wendy Oldbag says.",
+    "An actual parrot.",
+    "Accidentally getting the bad ending of Ace Attorney 2.",
+    "The guy who throws confetti when you get a \"not guilty\" verdict.",
+    "Klavier Gavin flipping his hair.",
+    "The Butz.",
+    "DL-6.",
+    "Maya Fey.",
+    "Franziska's whip.",
+    "Hugging it out with Edgeworth.",
+    "Extreme Booty Call: Miles Edgeworth edition.",
+    "OBJECTION!.",
+    "Simon Blackwell.",
+    "The Steel Samurai (tm).",
+    "Presenting your attorney's badge because you're stuck.",
+    "Considering law school because of your devotion to the game.",
+    "Playing as Miles Edgeworth.",
+    "Miles Edgeworth.",
+    "Pearl Fey.",
+    "Realizing Grossberg's theme is super catchy.",
+    "Klavier Gavin.",
+    "Manfred von Karma.",
+    "Japanifornia.",
+    "Godot.",
+    "Phoenix Wright.",
+    "HOLD IT!.",
+    "Franziska von Karma.",
+    "TAKE THAT!.",
+    "Bobby Fullbright.",
+    "Wondering if anyone in this game actually went to law school.",
+    "Wondering why your fandom has so many musical tributes.",
+    "Watching the goddamn Guitar's Serenade AGAIN.",
+    "Watching the goddamn Blue Badger security tape AGAIN."
+  ],
+  "pack": {
+    "id": "XTWAP",
+    "name": "Cards against Ace Attorney"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 51,
+    "total": 71
+  },
+  "dateStoredMs": 1589496143061
+}

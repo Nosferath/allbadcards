@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "911, what's you're emergency? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "GWN2W",
+    "name": "Anime and Game"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588833913967
+}

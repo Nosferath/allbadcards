@@ -1,0 +1,335 @@
+{
+  "black": [
+    {
+      "content": "Eu sempre defendi que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NUNCA EM NENHUMA CASO _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A criança tirou _ da sua mochila.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que devemos fazer agora? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que venceria _ ou _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Você gostaria de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que ajuda Temer relaxar depois do trabalho? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ele se apaixonou para alguém olhando para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niltu ama _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por que não consigo dormir à noite? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flagrei meu filho se preparando para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que nunca falha em deixar uma festa mais animada? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não dê _ aos _ após _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Eu estava _ quando acharam Osama Bin Laden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Quero morrer assim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Perfeito.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu nunca realmente entendi _ até conhecer _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Para meu próximo truque vou tirar _ de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Harry Potter e a câmara _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Bom até a última gota.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual esse cheiro? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na realidade Michael Jackson morreu de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando for presidente criarei o Departamento de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"HUE HUE HUE\"é uma maneira do brasileiros dizerem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tropa de elite é o melhor filme de todos os tempos por que tem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Como perdi minha virgnidade? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Próximo na ESPN, campeonato mundial de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual o mais emo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante 11 de Setembro eu  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que melhora com a idade? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homem que é homem curte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BA - TI - MÃN _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Tem um app pra isso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a prova que Deus existe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Médicos acharam uma nova doença chamada _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sou um profisional de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pessoas brancas gostam de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual o prazer proibido do Batman _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual meu poder secreto _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mickey Mouse e _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se eu pudesse criar um lubrificante com sabor, seria _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Carta mais engraçada ganha. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Troque seu velho _ por grana, JÁ!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meu mais novo esporte é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desculpe professor, mas não consegui fazer a tarefa por causa de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Passo 1: _. Passo 2: _. Passo 3: Lucro.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Resolução da ANAC agora proíbe _ em aeronaves.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mata _ e mostra _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando eu ando pelado pela rua, as pessoas sempre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ me deixou excitado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Isso me dá depressão.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A única coisa maior que o muro de Trump é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ seria um ótimo escravo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ também se come na China.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu broxei por causa de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bandido bom é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante o sexo gosto de pensar em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Depois de uma punheta sempre é bom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Como eu compenso o meu micro-penis? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Descreva a vida sexual do juiz. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se sua ereção persistir por mais de 4 horas procure _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler era _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não tem nada mais foda que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca achamos _ mas aprendemos muito sobre _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "474C8",
+    "name": "Putinhas do Papai Perguntas"
+  },
+  "quantity": {
+    "black": 64,
+    "white": 0,
+    "total": 64
+  },
+  "dateStoredMs": 1589508494883
+}

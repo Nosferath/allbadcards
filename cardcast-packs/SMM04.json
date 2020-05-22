@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Hello _, my name is Dad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not angry, I'm just _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Blaming you for literally everything.",
+    "Demanding respect from you despite a complete lack of respect for you."
+  ],
+  "pack": {
+    "id": "smm04",
+    "name": "Bad Parenting"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588912271464
+}

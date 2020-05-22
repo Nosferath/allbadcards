@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Evan has a strange adiction to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seth loves it when you give him _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A sandwich bag of flower.",
+    "Apple sauce."
+  ],
+  "pack": {
+    "id": "S5CFK",
+    "name": "Fuck Bitches"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589282215923
+}

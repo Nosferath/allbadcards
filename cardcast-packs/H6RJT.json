@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "I reject my _ , JoJo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sunlight _ OVERDRIVE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were expecting it to be JoJo, but it was me, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Tell me, how many _ have you taken to heal your wounds!\" \"Do you remember how many _ you've eaten\"?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "H6RJT",
+    "name": "『CARDS AGAINST HUMANITY』"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588287477045
+}

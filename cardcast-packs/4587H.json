@@ -1,0 +1,1022 @@
+{
+  "black": [
+    {
+      "content": "Quand j'te dis \"Passe-moi le beurre\", passe-moi pas _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quand soudain, semblant crever le ciel et venant de nulle par, surgit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , j'me suis rendu(e) millionnaire avec ça!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avec un peu de volonté pis ben du crachat, on peut rentrer _ dans _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "#_ #_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quel sera le prochain tweet de Donald Trump? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ aime bien _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dans la bouffe d'un kiosque de fond de ruelle de Hong Kong, j'pense qu'y'avait _ et ça goûtait comme _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "C'est quoi ton parfum? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bye bye _ , welcome _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ OU _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Je ne veux JAMAIS _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , on fait tous ça en cachette.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C't'une fois _ qui rentre dans _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. OH MY GOD! OH MY GOD! OH MY GOD! OH MY GOD! OH MY GOD! OH MY GOD!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'oeuf ou _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , j'ai l'doua!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Pourquoi t'as fait ça?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "T'as _! Wow, marie-moi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "!!JEU BONUS!! Jouer 3 cartes de marde que vous avez en main. Faite le meilleur combo! _ , _ , _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ c'est pas un dinosaure, c'est un phénix.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon amour, si on revient ensemble, j'te promets que je vais _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est de plus en plus cher.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans tes bagages à l'aéroport.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est un mythe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flatter _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Votez pour moi et je vous promets de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Au marché aux puces de Saint-Eustache, j'ai trouvé _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le nouveau film de Disney mettra en vedette _ dans le rôle de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ou pas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans la carte de Saint-Valentin de ma blonde, j'ai écrit : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui fait \"squick squick\"? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'suis resté(e) pogné(e) trois semaines dans un ascenceur avec _ pis _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ en babiche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'ouragan _ a dévasté _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , ça te gâche une fête d'enfants!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est quoi le meilleur truc contre les lendemains de veille? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ça me rend toute triste.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : c'est rendu à 1M de vues sur ma chaîne YouTube.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon but dans la vie? J'aimerais ça _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , on trouve ça dans l'allée 4.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans un moule à popsicle. Congeler et déguster.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a causé la mort de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Le Centre Vidéotron devrait servir à : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, j'peux pas croire que c'est légal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dessine-moi _. -Le Petit Prince",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , pour ma part, je passe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , la madame était pas contente!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Eh misère!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En spécial au Canadian Tire pendant tout le mois de juillet : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est ce qui s'enroule bien autour du cou? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , je l'aime plus que ma propre vie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qu'on pourrait ben faire à soir? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'appelle affectueusement mon gendre : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pour déjouer le plan infaillible du milliardaire fou.  ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La première chose que l'ancien tueur fait en sortant de prison, c'est _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "www._.com/_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , on est tous passés par là.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En jouant à Pokémon Go, j'ai pogné _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trouver _ dans son divan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ va nous permettre de gagner la guerre contre _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Y'a rien de plus dégueulasse que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aider un aveugle à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'hésite entre _ ou _ pour flasher à mon mariage.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Les deux chums qui se crossent dans un bas sont devenus amis grâce à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Mais non! Ça se peut PAS!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans une toilette chimique.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon petit garçon de trois ans a fait _ en pâte à modeler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ aux Régates de Valleyfield.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ au festival du boeuf d'Inverness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? J'aurais plutôt dit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "J'ai perdu ma femme, ma maison, mon char et _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fondons une bille et appelon-la : _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , en as-tu vraiment besoin?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frapper _ pour le fun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Faire du pouce avec _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y'a donc ben d'monde s'a rue Principale, depuis qu'y'ont construit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ va se retrouver au Bye Bye.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qui s'endort avec _ se réveille avec _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , ça me l'dit pas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai trouvé ça louche quand mon médecin est rentré avec _ dans la salle d'opération.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se sortir indemne d'un accident d'auto grâce à _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ya pas un enfant qui va mourir de ça! -L'ancien ministre de l'éducation",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y'a rien d'plys badass que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On s'ouvre une station de tété pis on diffuse des émissions sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vous écoutez Cité Rock Détente et on vient d'entendre la chanson : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _, j'haïs pas l'idée!  ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeff Fillion a dit hier : _ c'est full communiste là. Ça a été inventé par la gauche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mon Denis?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Après la pluie, _ est mouillé(e).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! Avec ça, on entre dans l'ère du futur.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans un jeu d'évasion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans la liste d'ingrédients du ketchup mauve, y'avait _ et _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ça pique les yeux.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est quoi la saveur de chips que t'as achetée? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'pas un osti de français qui va me montrer à _. - Elvis Gratton",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Faire un DEP pour apprendre à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui mène à une mort certaine? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui a du swag et qui sent la banane? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il ne faut surtout pas faire exploser _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legolas, que voient vos yeux d'elfe? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ c'est pareil comme _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ c'est très cool. _ c'est pas cool.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ l'aurions probablement mangé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pour Noël, mon amour, je t'offre _ et _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , tant que ça reste dans famille.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sur Instagram.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ça a pas fonctionné, alors on a essayé de _ à place.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ dans un manège à La Ronde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si tu aimes _ , tape des mains.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On part en roadtrip! On s'en va _ avec _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ avec un filtre Snapchat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La p'tite fille malade a demandé _ à Rêves d'enfants.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon rêve, c'est d'être dans un lit d'eau avec _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ c'est l'fun quand y'a pas de bibittes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est full vedge au cube max flybine à l'os.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est pas une raison pour se faire mal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dépenser tous ses REER sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arrête! Sinon je vais t'enfoncer _ dans gorge!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , j'ai rien contre, mais j'veux rien savoir.\t  ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pasta Dental, Linda, c'est _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La gauche et la droite se chicane encore sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ça m'excite tellement, j'suis venu(e) trois fois.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pour se sentir vivant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'aimerais qu'on brûle cette carte de L'osti d'jeu svp : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ÇA C'EST NON.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quand _ décide de _ , tout le monde se tient les fesses serrées.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ c'est tellement vulgaire.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'pense j'ai écrasé _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai trouvé \"_\" gravé sur un meuble antique du 18e siècle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est mon fantasme secret.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ , pas l'temps de niaiser.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mon nom de camp, ce serait _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est pas fa-ci-le quand _ te laisse tomber.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ça arrive rien qu'une fois par année!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'aimerais qu'on encadre cette carte de L'osti d'jeu svp : _. (Fais-le donc. Pas game.)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans mon corps de jeune fille.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Faire garde ses enfants par _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans un GN.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans un film porno d'Anne-Marie Losique.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "!!JEU BONUS!! La grande yeule a faim et décide de prendre un trio toaster pour emporter. Donner 3 cartes qui vont bien ensemble. Le meilleur trio gagne le lunch! _ , _ , _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ , c'est mieux qu'une claque sua yeule.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eille, dites toutes un mot osti pour la fête a Kevin, câlisse! _\t  ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh non! Le bébé a mis _ dans sa bouche!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est ce qui gosse en tabarnak? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : fuck yeah!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dans l'anus ma puce.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon vote pour le trou de cul du monde va à : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ et _ se sont chamaillés et ça a fini en queue de poulet.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qu'est-ce qu'on garde dans ses poches pendant une semaine? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Définir les règles de la Vie.",
+    "Jean-François Lisée.",
+    "Une brique pis un fanal.",
+    "Une dick pic.",
+    "Mes petits anges bleus.",
+    "Un bouton qui expulse tellement de pus qu'on dirait que c'est de la mayonnaise.",
+    "Mettre un 20$ dans des grosses boules.",
+    "L'odeur d'un nouveau bébé.",
+    "Cueillir des fraises dans un champ de fraises.",
+    "La dureté du mental.",
+    "Un tripotanus.",
+    "Des bélufilles.",
+    "Des pets toxiques.",
+    "Faire mon propre kombucha.",
+    "Baiser quand il fait 38 pour que la sueur se mélange à nos autres fluides.",
+    "Le gars des vues.",
+    "Une brochette de politiciens.",
+    "La génération d'enfants-rois.",
+    "Les Canadiens qui gagnent la coupe Stanley.",
+    "Gabriel Nadeau-Dubois.",
+    "Respecter les femmes.",
+    "Fourrer jusqu'au sang.",
+    "Le pogo le plus dégelé de la boîte.",
+    "Une loutre.",
+    "Un chasseur chassant sacher.",
+    "Des glosettes.",
+    "Ensemencer la jardinière.",
+    "Un ininérant qui gagne 14 millions au 6/49 et qui décide de donner l'argent au Parti conservateur.",
+    "Du vomi de toutes les couleurs de l'arc-en-ciel.",
+    "Un caca qui sent sucré.",
+    "Un robot qui repasse ton linge tout seul.",
+    "Chier en spray.",
+    "L'Amérique du Nord.",
+    "Un mangeux de puck.",
+    "Expliquer l'informatique à des vieux.",
+    "Me faire étrangler pour plus de plaisir.",
+    "Un fermier crudivore, sans gluten, zéro déchet qui fait du Crossfit.",
+    "Un gun à jujubes.",
+    "Un vieux chien qui meurt heureux.",
+    "Cajoler Paul Cagelet.",
+    "Un orphelin qui meurt le soir de Noël.",
+    "Jean-Lou le hot-dog Duval.",
+    "Des regrets.",
+    "Jagmeet Singh, le chef du NPD.",
+    "Du GHB.",
+    "Donald Trump.",
+    "La statue en beurre de Rob Ford.",
+    "Un vegan qui mange quand même beaucoup de saucisses.",
+    "Un violoniste ultraviolent.",
+    "La famille Slomeau.",
+    "Une osti d'plotte sale du câlisse.",
+    "Un rouleau compresseur.",
+    "Survivre à l'Apocalypse.",
+    "Une piscine de soupe à l'oignon.",
+    "Une queue de castor.",
+    "Un nionion ring.",
+    "Monter les échelons de la société.",
+    "Comprendre la sexualité des sirènes.",
+    "Un condom à saveur de tarte à la citrouille.",
+    "Le s'quatre novembre au soir.",
+    "La banlieue d'un trou.",
+    "Finir Candy Crush.",
+    "Croquer dans un néon.",
+    "De la liqueur aux fraises.",
+    "Abolir les bibliothèques.",
+    "Prendre l'ascenseur pour un étage.",
+    "Faire frire du bacon tout nu pas d'bas.",
+    "Ton collègue qui se dégorge le poireau dans cafétéria.",
+    "La pilule qui donne une saveur fruitée à ton vagin.",
+    "42.",
+    "Une dent de sagesse enlevée à froid.",
+    "Une danseuse pas de dents de Coaticook devenue pornstar.",
+    "Trancher des têtes.",
+    "Un bain de fourmis.",
+    "Une soirée thématique Nicolas Cage.",
+    "La mystérieuse Becky.",
+    "Baiser, bruncher, belle journée ensoleillée.",
+    "Marie Lamontagne.",
+    "Gruger des petites ailes de poussin.",
+    "Licher son trou de balle à la première date.",
+    "Un joint de silicone parfait.",
+    "Des grands-parents qui meurent de vieillesse en même temps, en se tenant la main.",
+    "Une migraine de Tsar.",
+    "Un vagin qui pue fort.",
+    "La rumeur concernant \"vous-savez-qui\".",
+    "Deux homophobes barbus qui se frenchent.",
+    "Me traire un verre de lait de licorne.",
+    "Gaby Gravel.",
+    "Mon père.",
+    "5 pieds de neige.",
+    "Un château de saucises.",
+    "Une tripe à trois aux glissades d'eau.",
+    "Brosser les cheveux de ma Barbie préférée.",
+    "Marilou.",
+    "Un panache d'orignal.",
+    "Du beurre de peanut pis le chien du voisin.",
+    "Un petit nerd qui danse comme un Dieu.",
+    "Le T-shirt de Safia Nolin.",
+    "Me brocher le gland aux couilles.",
+    "Une portée de chatons.",
+    "Un golden shower qui ne manque pas de pression.",
+    "Les réfugiés syriens.",
+    "Des reptiliens voleurs d'enfants.",
+    "La tente à cul.",
+    "Une clitoridienne.",
+    "Me faire bourrer l'cul d'sperme.",
+    "Un massothérapeute qui sent le swing.",
+    "Discuter de philosophie avec un magicien qui a une barbe de trois pieds.",
+    "Des coquerelles qui te rentrent dans la bouche quand tu dors.",
+    "Un embouteillage de p'tits vieux.",
+    "Régler tous les problèmes du système de santé, de l'éducation et du transport dans un premier mandat.",
+    "Jouer à la bouteille dans la garde-robe pendant un party.",
+    "Rénover la salle de bain pendant 4 ans.",
+    "Des bébés chinois.",
+    "Stromgol.",
+    "La jambe de bois de Lucien Bouchard.",
+    "La théorie de l'évolution.",
+    "Faire du bungee avec du fil à pèche.",
+    "La question qui tue (mais pour vrai).",
+    "Donner 5 cents de tip.",
+    "Couper le doigt de mon ami pour aller sur son cell.",
+    "Saler ton café.",
+    "Une enveloppe brune.",
+    "La sorcière de bloc-appartements.",
+    "Une bobépine.",
+    "Le Costco.",
+    "Des larmes de métal.",
+    "Donner une cigarette à un p'tit gars de 11 ans.",
+    "Marcher sur des yeux.",
+    "Gilbert Sicotte.",
+    "Valérie Plante.",
+    "Un ministre honnête.",
+    "Une fille qui jouit en mettant des insecte sur son clit.",
+    "Une voiture propulsée par mes gaz.",
+    "Un taser.",
+    "Madame Brossard.",
+    "Me soûler à ma première communion.",
+    "Avoir la paix.",
+    "Ti-Cuir (Éric Lapointe).",
+    "Me faire avaler par Yoshi.",
+    "De la kryptonite.",
+    "Un terroriste super sympathique.",
+    "Nabucho-donosor Roi de Babylone.",
+    "Une queue gorgée de pisse.",
+    "Un chien, un chat, un panda, un koala, un ourson et un dauphin.",
+    "Le restaurant de Jack l'Éventreur.",
+    "Un gros dégueulasse.",
+    "Des faits alternatifs.",
+    "Changer la couche de papa.",
+    "Célébrer le divorce de mes parents.",
+    "Faire des avances à la gardienne.",
+    "D'la goberge.",
+    "Une carte de L'osti d'jeu.",
+    "Scroller Facebook à l'infini.",
+    "Crier haut et fort : \"Pouliche, liche-moi la babine!\".",
+    "Gochelaga.",
+    "Une joke pas drôle.",
+    "Découvrir mon orientation sexuelle.",
+    "Une dictature douce.",
+    "Une minoune.",
+    "Un band métal de princesses.",
+    "Du poil de poche de hockey.",
+    "Quelqu'un de plus intelligent que toi.",
+    "La vie en général.",
+    "Embrasser son chien sur la bouche.",
+    "Partager ses conquêtes.",
+    "Gildor Roy.",
+    "La pizza de la veille.",
+    "L'homme blanc privilégié.",
+    "Un faux fantôme.",
+    "Me couper avec du papier sur les petites lèvres.",
+    "Chier tous les jours dans de l'eau potable.",
+    "Un gauchiste qui a une tête de gauchiste, un look de gauchiste pis qui se couche le soir en gauchiste extrême.",
+    "Gratter mes piqûres de maringouins très très très très fort.",
+    "La Terre du Milieu.",
+    "Retrouver le couvercle d'un plat Tupperware.",
+    "Me faire crisser un coup de talons dans la pomme d'Adam.",
+    "Yessir Miller!.",
+    "Des mange-marde.",
+    "Un pénis long pis mince comme un linguini.",
+    "Vider mon sac de stomie.",
+    "Oublier de flusher.",
+    "Aller au McDo pour une salade.",
+    "Éternuer sa gastro.",
+    "Beaucoup de bijoux.",
+    "Ma collection d'attaches à pain.",
+    "Dépenser ma paye en make-up.",
+    "#covfefe.",
+    "Une grosse vague rempli de méduses.",
+    "François Legault.",
+    "Une pichenotte sur une gosse.",
+    "Un crash d'avion.",
+    "Du fentanyl.",
+    "Le comte Drague-cul-là.",
+    "Le bouchon d'une patente qui fitte parfaitement su'l trou d'une autre affaire.",
+    "Un bébé laid.",
+    "Des totons foulards.",
+    "Des pitbulls.",
+    "Des jumelles habillées pareil.",
+    "Un suicide collectif le 31 décembre.",
+    "Sa Majesté la Reine.",
+    "Le plus beau gâteau de mariage que j'ai jamais vu.",
+    "Un pot Mason rempli d'marde.",
+    "La meute.",
+    "Un brunch aux chandelles super romantique.",
+    "Péter de la broue.",
+    "Pisser du gaz de schiste.",
+    "Faire mes 10 ans de vie commune avec mon ami imaginaire.",
+    "Jay Du Temple.",
+    "Construire une tour à condos dans Minecraft.",
+    "Notre-Dame-des-Sept-Douleurs.",
+    "La paix dans le monde.",
+    "UN GIBIER DE POTENCE.",
+    "Être noir dans une descente de police.",
+    "Faire du snow à Saint-Sauveur.",
+    "Ehh. Patrice Lemieux. Ehh.",
+    "Une érection post-mortem.",
+    "Une purée de foetus d'éléphants.",
+    "Un boss des bécosses.",
+    "Tenir ses promesses électorales.",
+    "Un CHSLD hanté.",
+    "Se pitcher sur une pile de manteaux.",
+    "Une éclipse d'Étoile de la mort.",
+    "Un petit pot de pellicules.",
+    "Magasiner du pot légalement avec ma mère.",
+    "Se mettre une fausse barbe à l'aéroport.",
+    "Me faire poser des broches.",
+    "Me faire plaisir avec la baguette d'Harry Potter.",
+    "Tenir les cheveux à quelqu'un qui vomit.",
+    "Mettre les cendres de papi dans le repas de Noël.",
+    "Vider le drain de ma douche, rempli de cheveux de mon ex.",
+    "Me gratter la noune su'l coin d'un bureau.",
+    "Chanter \"sous le vent\" en plein coeur d'une tornade.",
+    "Kim Jong-un.",
+    "Tomber en amour avec la coiffeuse qui zozote pendant qu'elle me coupe les cheveux.",
+    "Monique, qui apprend que son cancer est guéri le jour de sa fête.",
+    "Faire des dessins sur le mur avec ton caca.",
+    "Un enfant soldat pas de bras pas de chocolat.",
+    "Mon doigt mouillé dans ton oreille.",
+    "Grand-maman la raciste.",
+    "Anne-France Goldwater.",
+    "Libarté!!!!.",
+    "La dinde noire.",
+    "Voir ma mère qui fait de l'anal.",
+    "Un gars avec une très belle vulve.",
+    "Sauter en parachute de l'espace.",
+    "Ronger mes ongles et les avaler.",
+    "Un gros garâge.",
+    "Agacer un Grizzly.",
+    "Pinson et Creton.",
+    "Un sabre laser en jello.",
+    "Ne plus jamais avoir d'enfants.",
+    "Rivière-aux-Graines.",
+    "Une pub que tu peux pas skipper sur YouTube.",
+    "Une Nintendo 64.",
+    "Un centre d'achats."
+  ],
+  "pack": {
+    "id": "4587H",
+    "name": "[FR/QC] L'osti d'jeu 2 (Jeu de Base)"
+  },
+  "quantity": {
+    "black": 150,
+    "white": 256,
+    "total": 406
+  },
+  "dateStoredMs": 1589332578772
+}

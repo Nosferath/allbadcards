@@ -1,0 +1,125 @@
+{
+  "black": [
+    {
+      "content": "The new Korean fad diet is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jonghyun likes _ but has a secret obsession for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rock Ya Body Body! Rock Ya _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Woo! Better get that _ ready!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leo likes _ what now?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rainbow's new concept will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Changjo does _ & it drives Chunji crazy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kpop fans can't get over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dara loves her brother for his _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jackie Chan put JJCC together because _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ tops SNSD on helium every time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jr. & JB taught BamBam & Yugyeom the wonders of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is responsible for this? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next scandal will be _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Miss A sometimes watches _ while on the road.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nana's silly Canterella dancing.",
+    "Dance covers of the sprout dance.",
+    "Ailee's beautiful body.",
+    "Hyorin's lovely tan.",
+    "VIXX doing the chicken dance.",
+    "Imitations of pigeons.",
+    "Key's sassiness.",
+    "The slow motion bits SM always adds.",
+    "Hyuna's fab hair.",
+    "Boyfriend going from innocent looking guys to hot men.",
+    "Bang Bang Bang.",
+    "G-Dragon.",
+    "Onew's fried chicken.",
+    "Imitations of Donald Duck.",
+    "CL rocking it like a boss.",
+    "Dirty Eyed Girls by 2AM & 2PM.",
+    "TOP SAMA!!!!!!.",
+    "Taeyang's slick moves.",
+    "Kevin's angelic voice.",
+    "E.Co looking good as a blond.",
+    "Hyunyoung's belly button piercing.",
+    "Rain's comebacks.",
+    "Niel's lip biting.",
+    "BTS being dorks like usual.",
+    "Jimin's abs.",
+    "9Muses amazing legs.",
+    "BoA being the queen she is.",
+    "*whispers* JYP.",
+    "Afterschool's pole dancing.",
+    "More fan girls.",
+    "EXO's hip thrusts.",
+    "EXID's MV \"Up & Down\".",
+    "Mir's fondness for manga.",
+    "Jeongmin's love for the mirror."
+  ],
+  "pack": {
+    "id": "2w2pj",
+    "name": "KPOP Wackyz"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 34,
+    "total": 49
+  },
+  "dateStoredMs": 1589509212648
+}

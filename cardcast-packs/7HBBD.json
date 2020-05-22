@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "He's invincible! He has no weaknesses! He is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Becoming _: This is Giorno Giovana's dream",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next, you'll say: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "9 seconds has passed.",
+    "I got a erection.",
+    "The Pillar man.",
+    "OH MY GODO.",
+    "A taste of someone who's lying.",
+    "Giorno Piano.",
+    "Muscular man in BDSM clothes.",
+    "ZA WARUDO.",
+    "But It Was Me, Dio!.",
+    "SHIZAAAAAAAAAAAA.",
+    "NO! NO! NO! NO! NO!.",
+    "ROAD ROLLER!.",
+    "AWAKEN MY MASTERS.",
+    "AYAYAYAYAYY.",
+    "German science, THE WORLD'S FINEST!.",
+    "ORA ORA ORA.",
+    "WRYYYYYYYY.",
+    "YES! YES! YES! YES! YES!.",
+    "Jojofag.",
+    "Oh, so are you approaching me."
+  ],
+  "pack": {
+    "id": "7HBBD",
+    "name": "Jojo Pack"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 20,
+    "total": 23
+  },
+  "dateStoredMs": 1589420412327
+}

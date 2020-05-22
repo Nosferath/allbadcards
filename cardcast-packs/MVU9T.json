@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "Who killed Harambe? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harambe is _, Harambe is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bush did _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a child saving hero.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whip it out for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ out for Harambe.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dicks out for Harambe.",
+    "Harambe.",
+    "Harambe is love, Harambe is life.",
+    "Cincinatti Zoo.",
+    "Dicks.",
+    "Bush."
+  ],
+  "pack": {
+    "id": "MVU9T",
+    "name": "Harambe"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1588730641976
+}

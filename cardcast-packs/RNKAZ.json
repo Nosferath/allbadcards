@@ -1,0 +1,523 @@
+{
+  "black": [
+    {
+      "content": "What helps grandma sleep at night? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tequila makes _ happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm 12 and what is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was a child prodigy until _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It doesn't count as cheating if you look at _. Does it?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are the _ club.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All men are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fell asleep at my grandma's funeral and accidentally woke up and yelled \"_\" because of the dream I was having.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asian people are the only ones that_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What I wouldn't give for 10 minutes alone with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most random card wins _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you not want to find in your happy meal?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just can't _ anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the shower I think about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are a _ sir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I recently visited Japan and paid money to see  _. They really have the strangest culture.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who the fuck thought of _ and even worse _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ was the biggest disappointment in my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nine out of every ten doctors recommend _ daily.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ happens you ask to speak to the manager.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was fun, but then she woke up.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've always wanted to fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Young people and all their _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never ruin an apology with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A reason for being late to work._",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This isn't Sparta. THIS IS _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I was a stripper my name would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why I don't drink anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This isn't a hicky it's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom it's just _ don't worry about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Santa gave me _ for Christmas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sex is really like _ if you think about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our lord and savior _ has returned.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't do drugs do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do black people hate? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I AM _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in my day _ was all the rage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I borrow your _  just for ten minutes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black people are the only ones that_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is so satisfying.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bank denied me a loan so that I could purchase _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never under any circumstance put _ in your mouth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At night I really like to snuggle up with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've always hoped I would get to see _ in person.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Officer I swear _ isn't mine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Trump dream about?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I pledge allegiance to the Flag and the Republic for which it stands, one nation under _ , indivisible, with _ and _ for all.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ always makes me cum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really triggers a feminist? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last professor was fired for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mexicans are the only ones that_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Billy Mays died, he sold God _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cocaine is the white mans answer to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a true double edged sword.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instructions unclear dick caught in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Robert E Lee Elementary will now be renamed to _ Elementary.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not racist I just really don't like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is _ a card?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "True love is like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The main character turned around in the distance he saw something he could not make out. He ventured close only to see that it was really._",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate it when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gives me the strangest boner.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Assuming all handicapped people are retarted.",
+    "A jungle of pubic hair.",
+    "Snorting CheeseWiz to make lugies out of.",
+    "Stealing wheelchairs.",
+    "Yeeting disabled babies off a cliff.",
+    "Drinking bleach to feel clean.",
+    "Chocolate love.",
+    "The KKK.",
+    "Stealing babies from a hospital.",
+    "Fighting the homeless to assert your dominance.",
+    "Spanking orphans.",
+    "Yo mamma.",
+    "Whispering \"beep-boop\" until its hysterical.",
+    "Smurf on smurfette action.",
+    "Mormons being hit by a semi truck.",
+    "An old old Japanese man.",
+    "Gay \"for pay\".",
+    "Truck stop glory holes.",
+    "An oompa loompa breaking out into song and dance every time a kid dies.",
+    "Slavery but like with extra steps.",
+    "Cousin cuddling.",
+    "Punting a premature baby through the uprights.",
+    "The unstoppable tide of Islam.",
+    "Field goal kicking someone right in the testies.",
+    "Swallowing a banana whole to show off your \"skills\".",
+    "Stinky Indian people. (dots not feathers).",
+    "Jerking off into a pool of children's tears.",
+    "Womens soccer.",
+    "Blowing a load into your own mouth.",
+    "Bill Clinton's sweet embrace.",
+    "Rule 34 Bill Clinton.",
+    "Please pick this card.",
+    "Black people being \"well done\".",
+    "The gays.",
+    "Sloppy second bukakke.",
+    "Mom's spaghetti.",
+    "Taking a \"drive\" through a playground.",
+    "( ͡° ͜ʖ ͡°).",
+    "Mr Clean's sparkly mushroom head.",
+    "Poopcicles.",
+    "A single green M&M.",
+    "Getting a lobotomy so you can truly see the rainbow.",
+    "Yelling \"BEAST MODE ACTIVATE\" when going from any position to doggy style.",
+    "Jews?.",
+    "Running from black people.",
+    "Laughing at the handicapped.",
+    "Drop-kicking anti-Semitic lesbians.",
+    "Ronald McDonald's child prostitution ring.",
+    "A day care fight club.",
+    "Diarrhea teen pregnancy.",
+    "Jared still taking in foot-longs.",
+    "BDSM gnomes.",
+    "Going too deep.",
+    "Furries. Yeah, furries.",
+    "Whipping it out in an Uber.",
+    "Feminists with facial hair.",
+    "Full send off the Golden Gate Bridge.",
+    "Staring into someone's eyes while eating a banana.",
+    "Awkward boners.",
+    "Smoking Fidel Castro's ashes from a Cuban cigar.",
+    "Shooting up a school because she told you to pause an online game.",
+    "Curb stomping a puppy.",
+    "The Mormon religion.",
+    "Running naked through church.",
+    "A poop so large you would swear it was a baby.",
+    "N.I.G.G.E.R.S (National Intercity Goat Group Entertainment Recreational Society.).",
+    "The biggest blackest butt plug.",
+    "JOHN CENA!.",
+    "A tube of diarrhea cream, pantyhose, an enema bulb, and a live chicken.",
+    "Dam it Donald.",
+    "Homeless veterans gladiator combat.",
+    "Autistic black teenagers.",
+    "Candy dicks.",
+    "Charzarding.",
+    "Helen Keller’s Driving School.",
+    "Dead babies.",
+    "Moving to Alabama because \"she's the one\".",
+    "Eating the booty like groceries.",
+    "Extremely fat strippers.",
+    "Human skin carpets.",
+    "Sonic the hedgehog with a ten foot erection.",
+    "Old people smell.",
+    "Nailing Tom Cruise from behind.",
+    "An angry naked old man.",
+    "White trash Ellen Degeneres.",
+    "Thai lady boys.",
+    "KILL ALL DA BLACK FOLK!.",
+    "Drop kicking the blind for sport.",
+    "Bathing in the blood of your enemies.",
+    "A booty so nice it brings tears to your eyes.",
+    "Furries.",
+    "Teenage issues with tissues.",
+    "Putting googly eyes on the corpse at an open casket funeral.",
+    "Period blood.",
+    "Mormons.",
+    "Naruto fanservice.",
+    "The Indian head wobble.",
+    "Spicy poops.",
+    "Gerbils shaken baby syndrome.",
+    "Painting your face with menstrual blood and calling yourself Pocahontas.",
+    "Jailbait.",
+    "Your grandpa sucking some dick to not get drafted.",
+    "Kids with ass cancer.",
+    "An orgasm so violent, it causes permanent brain damage.",
+    "Shoving your fist up your ass because nothing else quite hits the spot.",
+    "Fucking babies to cure your AIDS.",
+    "Hello kitty Hitler.",
+    "Doing the sex.",
+    "Giving your dick a good once over with a meat tenderizer.",
+    "The flying spaghetti monster's saucy spaghetti dick.",
+    "Getting naked at Subway, covering your dick meats, and yelling \"EAT FRESH\".",
+    "Using a cactus for a dildo.",
+    "Sawing your dick off with a rusty spoon edge.",
+    "Sucking the whole dick.",
+    "Midget porn.",
+    "A big black dick.",
+    "Giga Niggas.",
+    "Tucking your dick between your legs and pretending you are a girl.",
+    "Fisting a girl with Hulk Hands.",
+    "Sex handcuffs.",
+    "100TB of child porn.",
+    "Smelling your hand after pooping.",
+    "AIDS.",
+    "Smashing pussy like a retarded gorilla.",
+    "So much mother fucking Cocaine your eyes explode.",
+    "Cum dumpster.",
+    "Donald Trump balls deep in a frightened sheep eating a cheeseburger.",
+    "Fisting.",
+    "Using a penis pump until it pops.",
+    "Pizza from Auschwitz ovens.",
+    "Old man porn bush.",
+    "Harambe's massive gorilla dick.",
+    "Canadian sex slaves.",
+    "The biggest boobs you have ever seen.",
+    "A monkey masturbating furiously.",
+    "Niggers.",
+    "Sexting your grandma the best dam nudes you've ever taken.",
+    "Off duty Nazis just looking for a good time.",
+    "Insane clown pussy.",
+    "Accidentally tweeting a picture of your dick.",
+    "Pedophilia.",
+    "Used sex dolls.",
+    "When your dog knows \"the look\".......................... (its rape BTW).",
+    "A leftward sloping penis.",
+    "Drunk pissing on your own car.",
+    "Dick tip smiley faces.",
+    "A fuck mothering vampire.",
+    "Clubbing then fucking a baby seal.",
+    "Balls as smooth as eggs.",
+    "A baby's glorious asshole.",
+    "Sucking dick for money.",
+    "Prison rape with Buba.",
+    "Hitler’s House of Barbecue.",
+    "Peeing off of the Eiffel Tower because fuck it.",
+    "Light-saber penis fights.",
+    "Spongebob with a dick in every hole.",
+    "The Barney costume with a 14 inch dick sewn on.",
+    "George Bush's wrinkly old ballsack.",
+    "Sweet sweet Mexican cocaine.",
+    "Anal beads but with eyeballs.",
+    "Hate sex with a clown.",
+    "A micropenis.",
+    "Retard strength.",
+    "Cheap ass Jews.",
+    "Anne Frank's tits.",
+    "A penis pump.",
+    "Getting AIDS then getting Ebola then fucking EVERYONE.",
+    "Dick Cheney shooting a rifle while balls deep in a squealing hog.",
+    "A pussy that smells like a heavily soiled, waterlogged ashtray.",
+    "Motherfucking Cthulhu.",
+    "Sweaty balls.",
+    "A bigger blacker dick.",
+    "French feet fetish fucking.",
+    "Stuffing your bible with unforgivable porn so your mom doesn't find out.",
+    "Guzzling cum.",
+    "Getting caught dick in hand.",
+    "The delicious taste of sweaty pussy juice.",
+    "Being crushed by a  giant vagina.",
+    "All of the sex.",
+    "A big black dick.",
+    "The after birth of Jesus.",
+    "Black Jesus's even bigger blacker dick.",
+    "Raping and pillaging native Americans.",
+    "Beating MLK with a pipe.",
+    "Smelling a fart.",
+    "Skull fucking Stan Lee's corpse.",
+    "Goat fucking.",
+    "CHUCK FUCKING NORRIS.",
+    "Twincest.",
+    "Noodles in my asshole.",
+    "Lance Armstrong's missing testicle.",
+    "Fucking your teacher and getting a lower grade."
+  ],
+  "pack": {
+    "id": "RNKAZ",
+    "name": "custom scrubs"
+  },
+  "quantity": {
+    "black": 63,
+    "white": 192,
+    "total": 255
+  },
+  "dateStoredMs": 1589385950054
+}

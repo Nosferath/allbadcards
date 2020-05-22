@@ -1,0 +1,199 @@
+{
+  "black": [
+    {
+      "content": "I can't believe we spent six months on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's rarer than cunnilingus in a slash fic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The greatest thing someone can add to a fic is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I still remember when I was guilty of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's not lube! That's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll never write about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing readers tend to ignore more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Attempting to write about _ for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're not _. They're _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the eighth deadly sin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I left a review asking for more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lack of research led to _ being described incorrectly in every fanfic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish there were more fics about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a gift from the gods.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite trope is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I shouldn't have read that fic when I knew it involved _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe they added _ in that last chapter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fanfiction.net is finally allowing _ to be posted again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I stopped reading that author's suff when they started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I could add anything to this fic, I'd add _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the fast-track to internet fame.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A fanfic so esoteric that you can only find the link by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I haven't gone on ff.net since I saw an author use _ as a plot device.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Implausible anatomy.",
+    "Writing without a beta.",
+    "Plotholes.",
+    "Flavoured lactation.",
+    "Tongues battling for dominance.",
+    "A magical girl AU.",
+    "Rating a fic mature for swearing.",
+    "Flowery prose interspersed with phallic symbols à la Shakespeare.",
+    "Copying and pasting an entire paragraph.",
+    "A major character death.",
+    "Second person POV.",
+    "A love triangle so intense that it causes ships and planes to vanish mysteriously.",
+    "A fanfic that updates biweekly.",
+    "Comic relief.",
+    "Improper uses for lube.",
+    "An alternate universe where everyone lives.",
+    "Googling a series of seemingly unrelated keywords.",
+    "A superfluous clothing  description.",
+    "A well-written female character.",
+    "Reccing fics to your friends that will make them yell things at you.",
+    "A thinly veiled Homestuck reference.",
+    "Really deep thematic undertones.",
+    "Lengthy and detailed reviews.",
+    "A romance so illicit that it has transcended the fic and has become a trope.",
+    "Unrequited pining.",
+    "Gratuitous violence, gore, and a romantic subplot.",
+    "One character having to watch the other die.",
+    "Forgetting to tag for triggering content.",
+    "An actual well-written OC.",
+    "Fics with random lyrics interspersed throughout the writing.",
+    "Ebony Dark'ness Dementia Raven Way.",
+    "The weirdest kink you have ever read.",
+    "Ethnically accurate fancasts.",
+    "A canon romance.",
+    "Recreating entire character arcs.",
+    "Femslash.",
+    "Non-binary representation.",
+    "Skills and background information that are never fully explained.",
+    "Cross-posting to DeviantArt.",
+    "A fantastic remix of an old fic.",
+    "A good beta.",
+    "A fanfiction longer than the fifth Harry Potter book.",
+    "Making cats a major plot point.",
+    "The same white dudes in every single fic.",
+    "A terrifying fic summary.",
+    "Discussing ideas over Skype instead of actually writing.",
+    "An overwhelming desire to research ways someone could feasibly die.",
+    "Nonsensical crossovers.",
+    "Conveniently forgetting about the female characters.",
+    "Irreverent treatment of serious issues.",
+    "Spending so long coding your work that AO3's logo is the only thing you remember seeing in the past week.",
+    "Dialogues between the author and the character.",
+    "A fanfic that hasn't been updated in four years.",
+    "Ignoring problematic elements of canon.",
+    "A heartbreaking character study.",
+    "A ship so popular that no one's sure of the proper characterisation anymore.",
+    "A three-dimensional female character.",
+    "A side pairing that I dislike.",
+    "Repeated requests for feedback.",
+    "Something so incredibly distressing that you immediately forget it exists.",
+    "Thousands of euphemisms for a penis.",
+    "The freakiest porn you have ever read.",
+    "Vague as hell fic desciptions.",
+    "A fanmix so fantastic that you end up sobbing into a pile of blankets.",
+    "Aromantic and asexual representation.",
+    "Binge-watching a show for 'research'.",
+    "A self-lubricating penis.",
+    "Following a nearly invisible trail of data."
+  ],
+  "pack": {
+    "id": "QDFPJ",
+    "name": "Cards Against Fanfiction"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 68,
+    "total": 91
+  },
+  "dateStoredMs": 1589226688424
+}

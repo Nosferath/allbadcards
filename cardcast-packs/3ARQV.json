@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "Remember to rinse your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reasons you don't go to pride are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put your snake on a leash and have him eat the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What religious paraphernalia has jack sent us? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weird house noises include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What appliance clock do I have to reset today? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can't be recyled.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dead batteries in the  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "House amenities include _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Having a house library but it's only religious stuff.",
+    "Forgetting a resident is a man.",
+    "Lying about your age.",
+    "Bringing a third party to a house meeting.",
+    "Being a terrible therapist.",
+    "Nailing the door shut so we don't go on the porch.",
+    "Forgetting to play the water bill and saying its the foreclosed house next door's bill.",
+    "Going through your resident's trash and recycling.",
+    "Landlord saving the biggest room for themself, when they don't live there.",
+    "Fire alarms going off because the batteries are dead.",
+    "Wonky electrical systems.",
+    "Misgendering your residents.",
+    "Tiny closets.",
+    "The wifi password being positive thinking.",
+    "It's stinkbug season!.",
+    "Being evasive about everything.",
+    "Putting the heat up after going in your room once.",
+    "Leaving out expired food for residents to eat.",
+    "Hitting your resident with a vacuum."
+  ],
+  "pack": {
+    "id": "3ARQV",
+    "name": "Denim Lesbians"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 19,
+    "total": 28
+  },
+  "dateStoredMs": 1589568310028
+}

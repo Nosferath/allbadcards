@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "I wish I hadn't lost the instruction manual for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my next trick, I will pull _ out of a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And the Academy Award for _ goes to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey there young scientist. Put on your lab coat and strap on your safety glasses, because today we are learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Happy Meal toy for Mcdonalds will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During WW2, the US dropped _ onto the japanese.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When all else fails, i can just masturbate to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Not giving a shit about our world.",
+    "A lifetime of sadness.",
+    "God.",
+    "Sperm whales.",
+    "The pope.",
+    "White privileges.",
+    "Being a dick to children.",
+    "Asian children getting sunburnt."
+  ],
+  "pack": {
+    "id": "5WMQ2",
+    "name": "Mrs Moore fan page"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 8,
+    "total": 15
+  },
+  "dateStoredMs": 1589306590116
+}

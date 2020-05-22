@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Es el mejor _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vamos a la _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kek.",
+    "Playa."
+  ],
+  "pack": {
+    "id": "F53K8",
+    "name": "Español"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588469695741
+}

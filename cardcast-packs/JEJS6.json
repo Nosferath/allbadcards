@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Cave swallowed a _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ub funkey."
+  ],
+  "pack": {
+    "id": "JEJS6",
+    "name": "ub funkey"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588537376101
+}

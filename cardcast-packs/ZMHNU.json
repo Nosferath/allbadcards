@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "Lovecraft is best read when _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think it's shitty that Brown Jenkin had no way to _ in a dead man's _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "H. P. must have had _ in his hand when writing _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lovecraft isn't for _ .  It is only meaningful to _ bitches with _ in their minds.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I once read _ in a _ while playing _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Sucking the lives out of fleshy big toes.",
+    "The steep climb up the hill behind the Old Man.",
+    "The Old Man's fortune-telling navel lint.",
+    "The Necronomicon.",
+    "Lovecraft's asshairs.",
+    "Zig-Zagging Foreskins.",
+    "Witch House.",
+    "The Witch House.",
+    "Fuck himself up a rope.",
+    "Cthulhu's Eight-Armed Dick.",
+    "Trumpian Fuckwits.",
+    "Clusterfuck with the gravekeeper who was trapped in the mausoleum.",
+    "Shit-Gobbling Maggots.",
+    "Cthulhu's Anus Serial Number."
+  ],
+  "pack": {
+    "id": "ZMHNU",
+    "name": "Miskatonic Misanthropy"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 14,
+    "total": 19
+  },
+  "dateStoredMs": 1589424362493
+}

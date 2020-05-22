@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Before swallowing his pride and a cyanide pill, Adolf whispered to Eva, \"Sorry about _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leni Riefenstahl's last movie was called Triumph of _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "How cool Nazi airplanes are.",
+    "An orgasm so powerful you travel back in time and jizz in Hitler's face.",
+    "Electro-Stalin.",
+    "Disco Mussolini.",
+    "The cyanide pill you keep on your person at all times.",
+    "Cloning Hitler.",
+    "Hitler's sound economic policies.",
+    "Ruining an entire genre of mustaches.",
+    "Donald Trump's personal copy of Mein Kampf.",
+    "The Yad Vashem World Center for Holocaust Research.",
+    "Breaking news about what Hitler's penis was like.",
+    "Straight up fucking loving authority.",
+    "Being open to new perspectives on the Holocaust.",
+    "Presenting your documents at a checkpoint.",
+    "Whatever brave hero killed Hitler."
+  ],
+  "pack": {
+    "id": "VCD4F",
+    "name": "Official Fascism Pack"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 15,
+    "total": 17
+  },
+  "dateStoredMs": 1589574768612
+}

@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Next on the life of Donald Trump... Trump meets_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Newest item on the tacobell menu_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Trump builds the wall it is made out of _ and held together by _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "T8FQ6",
+    "name": "Sexually bad"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 0,
+    "total": 3
+  },
+  "dateStoredMs": 1589053901333
+}

@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "@AlvaroUribeVel:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ se podría automatizar",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ushh papi _ sería melo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La élite se caracteriza por _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Juan Camilo Pulido.",
+    "La frente de Juliana.",
+    "Los 3 huevos de Uribe.",
+    "Guaro, popper, tussi, sexo.",
+    "Andres Varon.",
+    "Falso Positivo.",
+    "La voz de Arango.",
+    "Motosierra.",
+    "Chaqui chaq.",
+    "Carolina Sanín.",
+    "Alvaro Uribe Velez.",
+    "Bottelazo y pal caño.",
+    "La Belleza de Bello.",
+    "Paloma Valencia.",
+    "Duque."
+  ],
+  "pack": {
+    "id": "PAM5M",
+    "name": "ColombiaHpta"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 15,
+    "total": 19
+  },
+  "dateStoredMs": 1589489167376
+}

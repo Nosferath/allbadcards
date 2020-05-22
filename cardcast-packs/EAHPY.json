@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "In the next Thor movie, they go to the little-talked-about realm, _gard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWe all know Jubilee is pointless, but the worst mutant is actually _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tThe remarkable number of red-harired women in comic books.",
+    "\tThe inveitable hilarious cameo from Stan Lee.",
+    "\tA mutant whose only pwoer seems to be chaning the TV channels with his brain.",
+    "\tThe Alien Hidden In The Incubator.",
+    "\tThe frankly ridiculous number of superheros living in New York City.",
+    "\tA very groovy mutation.",
+    "\tA wicked hot young Magneto.",
+    "\tAnother S.H.E.I.L.D. helicarrier.",
+    "\tStan Lee's love of alliteration.",
+    "Joss Whedon impalements."
+  ],
+  "pack": {
+    "id": "EAHPY",
+    "name": "Nerds Against Humanity / Marvel"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1588468214589
+}

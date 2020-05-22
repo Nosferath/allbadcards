@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "While im taking a shower i like to _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "DMXJ8",
+    "name": "Giggity Expansion"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589053901753
+}

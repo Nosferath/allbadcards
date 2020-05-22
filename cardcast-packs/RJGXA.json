@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "If Destiny had a story, it would be about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the new boss in Vault Of Glass is _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dismantled my Gjallahorn because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there was a new super in Destiny, it would be called _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While doing Trails of Osiris I lost 1 game at 8 wins because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's worst then datelining your Gjallarhorn? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Getting 2 Gjallarhorns and then having to dismantle them because of making a bet.",
+    "Vault Of Glass.",
+    "Red Death.",
+    "Thorn.",
+    "3 shots in golden gun! BANG! BANG! BANG!.",
+    "12 year olds thinking they can snipe.",
+    "Sunsinger.",
+    "Going 40 - 0 and losing buy 4000 points.",
+    "No Land Beyond.",
+    "Iron Banner.",
+    "Crota.",
+    "Trails of Osiris.",
+    "Fist of Havoc.",
+    "Atheon."
+  ],
+  "pack": {
+    "id": "RJGXA",
+    "name": "Destiny Pack"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 14,
+    "total": 20
+  },
+  "dateStoredMs": 1588377457903
+}

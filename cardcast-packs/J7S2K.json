@@ -1,0 +1,384 @@
+{
+  "black": [
+    {
+      "content": "Middle Earth: come for the _ , stay for the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Whatever happened to Bill the pony? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am fire! I am _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scenes that weren't in the movies: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Certainty of death, small chance of _. What are we waiting for?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kept Frodo and Sam going when their quest seemed hopeless.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stand by the grey stone when the thrush knocks, and the setting sun with the last light of Durin's Day will shine upon _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Keep it secret, keep it safe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will do it! I will take  _ to Mordor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That, my lad, was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the Fellowship of the Ring, though eternally bound by _ and _ , was ended.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "One by one, the free lands of Middle-Earth fell to the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are sitting on the field of victory, enjoying a few well-earned comforts. The _ is particularly good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Up, up, up, up, up the stairs we go. Until we come to... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Middle Earth's next top model goes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world is changing. I feel it in  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never mind Beren and Luthien. _ and _ is the true love story.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Escaping goblins to be caught by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And we forgot the taste of bread, the sound of trees, the softness of the wind. We even forgot _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : enough to fill the stomach of a grown man",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I looked into the mirror of Galadriel and saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aragorn used his skills as a Ranger to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*Dwarves begin singing* \"we call this one _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gandalf's magic is powered by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Balrog wasn't the only thing the dwarves awakened in Moria. There was also _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gondor's true king is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never before has anyone dared utter _ here, in Imladris.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scenes that weren't in the books; _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you frightened? Not nearly frightened enough. I know what hunts you. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to rule them all.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It came to me, my own... my love... my... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're taking _ to Isengard!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legolas, what do your elf eyes see? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The vaults of Minas Tirith are full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ yesterday, _ today, and blimey, if it don't look like _ again tomorrow.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "It is in _ that we must place our hope.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*kills orc* That's for Frodo! *kills another orc* That's for the Shire! *kills another orc* AND THAT'S FOR _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A day may come when  the courage of men fails, when we forsake _ and break all bonds of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ : boil 'em, mash 'em, stick 'em in a stew.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You fool. No _ can kill me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the land of Mordor, in the fires of Mount Doom, the Dark Lord Sauron forged in secret, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Against the power of _ , there can be no victory.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Fellowship would be incomplete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And nine, nine rings were gifted to the race of Men, who above all else desire _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What business does an elf, man, and a dwarf have in the Ridder-Mark? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have my sword...and my bow...and my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saruman's latest despicable creation: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Valinor is full of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , the  only thing Sam didn't bring in his pack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What REALLY started the War of the Ring? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No longer Saruman the White, but Saruman of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where have the Ent-wives gone? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sting: it glows in the presence of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : because it's my birthday, and I wants it.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Replacing smoking pipes with e-cigarettes.",
+    "Elvish hair conditioner.",
+    "Merry and Pippin's \"special mushrooms\".",
+    "Scenes that weren't in the books.",
+    "Binge-eating lembas.",
+    "A wild dwarf party in Bag End.",
+    "The Ringwraiths' latest hit single.",
+    "Single-handedly taking down an Oliphant.",
+    "Wargs.",
+    "PO-TA-TOES.",
+    "Crying over the line of Durin.",
+    "CGI.",
+    "Tolkien rolling in his grave.",
+    "A party in the Lonely Mountain.",
+    "Confused-looking Legolas.",
+    "World War I symbolism.",
+    "Sailing to Valinor.",
+    "Simply walking into Mordor.",
+    "Brego.",
+    "Gimli's beard.",
+    "The race of men.",
+    "Bill the pony.",
+    "Frodo’s luscious curls.",
+    "Eowyn's gender identity.",
+    "Andy Serkis.",
+    "Legolas, looking contemplatively into the distance.",
+    "Mithril underwear.",
+    "Peter Jackson's cameos.",
+    "The Ent-wives.",
+    "Valinor.",
+    "Smaug's ego.",
+    "Female dwarves.",
+    "Faramir's daddy issues.",
+    "Almost exclusively white males.",
+    "Figwit.",
+    "The precious.",
+    "An infinite amount of arrows.",
+    "Complex female characters.",
+    "People of colour that aren't the bad guys.",
+    "Real elvish rope.",
+    "A hobbit dance party.",
+    "The eagles saving the day at the last minute.",
+    "Man-flesh.",
+    "Old Man Willow.",
+    "Thorin's poor decision-making.",
+    "Thranduil riding a giant elk.",
+    "A panoramic shot of New Zealand scenery.",
+    "An academy award for Andy Serkis.",
+    "DOMINIC MONAGHAN.",
+    "Denethor's parenting abilities.",
+    "Dwarf-tossing.",
+    "Tauriel.",
+    "Three hairs from galadriel's head.",
+    "Catholic undertones.",
+    "Second breakfast.",
+    "Thranduil's superiority complex.",
+    "Eomer's overly American accent.",
+    "Accidentally marrying your sister.",
+    "Legolas' shimmering pubic hair.",
+    "Aragorn.",
+    "Arwen replacing Glorfindel.",
+    "A Balrog.",
+    "Tom Bombadil.",
+    "Túrin's incredible bad luck.",
+    "A cave troll.",
+    "Gimli/Legolas fanfiction.",
+    "Hobbit feet.",
+    "Scenes that weren't in the movies.",
+    "Tomatoes, sausages, nice crispy bacon.",
+    "That one cool Ent who extinguished himself in the flood of the River Isen.",
+    "A wet-dream for the New Zealand tourism board.",
+    "Shadowfax, lord of the horses.",
+    "Thranduil's eyebrows.",
+    "An Uruk-hai trying to go down stairs.",
+    "Gandalf being mistaken for Dumbledore.",
+    "Taking the hobbits to Isengard.",
+    "Feanor's extremely poor decision-making.",
+    "Sean Bean dying... again.",
+    "Tricksy hobbitses.",
+    "An orc with a soft side.",
+    "Isildur's mistakes.",
+    "Gandalf one-upping your smoke rings.",
+    "Winning the battle and inventing the game of golf at the same time.",
+    "Viggo Mortenson breaking his toe while kicking a helmet.",
+    "A fool of a Took.",
+    "Mordor's lack of toilet facilities.",
+    "Gríma Wormtongue's greasy hair.",
+    "Being a motherfuckin' wizard.",
+    "Sexual tension.",
+    "A sexual attraction to horses.",
+    "Pippin fucking up.",
+    "Sauron's sex dungeon.",
+    "Homo-erotic moments between Frodo and Sam.",
+    "Frodo's orgasm face.",
+    "A pissed off Christopher Tolkien.",
+    "Ent draught being used as a penis-enlarger.",
+    "Galadriel kicking ass.",
+    "Smoking \"pipe weed\"."
+  ],
+  "pack": {
+    "id": "j7s2k",
+    "name": "Middle Earth deck"
+  },
+  "quantity": {
+    "black": 54,
+    "white": 98,
+    "total": 152
+  },
+  "dateStoredMs": 1589521950195
+}

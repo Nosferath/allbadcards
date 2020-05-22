@@ -1,0 +1,135 @@
+{
+  "black": [
+    {
+      "content": "While we were self isolating, we resorted to using _ as toilet paper.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“I’m sorry I wasn’t on our class’s Zoom call, I was _”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened next? Well, there were only 5 minutes left in Senate, and _ happened",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientists have revealed that _ can be used to cure Covid-19.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, look what I found in the Sus bins! It’s _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of doing homework today I did _ in quarantine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of giving credit for Spring courses, administration has decided that students will get _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was overheard on a Zoom class",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight’s last minute panic party is at _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EC just emailed me that when I _ it was technically a campaign violation",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new syllabus for remote study requires _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The CGP held an executive session for the first time since 1978. I was about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spent my extra week of spring break doing _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My professor showed off their_ during Zoom class today",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The true cause of Covid-19 was actually _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Social distancing.",
+    "Asking what day it is.",
+    "‘Remote Learning’.",
+    "Helping a whole 120 students financially.",
+    "Pre-gaming candidate crawl.",
+    "SOFC extending the deadline 1 week due to a global pandemic.",
+    "Convincing your grandparents to not leave the house, yes even for church.",
+    "Mandatory credit non.",
+    "Starting a petition to ruin the college’s grading policy for years to come .",
+    "Standing six feet apart.",
+    "Finding out how much money is in the SOFC contingency fund.",
+    "Having your summer plans canceled last minute.",
+    "Accusing the student bursar of embezzling $78,000.",
+    "Alums helping more with evacuation than Wellesley's administration.",
+    "That one student who will not mute.",
+    "Looking up the death count before going to sleep.",
+    "Hand sanitizer.",
+    "Existential Dread.",
+    "Helen Wang assuring students that they won’t be asked to leave.",
+    "Peddling coronavirus conspiracy theories.",
+    "Debating the difference between a pandemic and a plague.",
+    "President Johnson’s wonderful salve.",
+    "Singing “Covid-19” to the tune of “Come on Eileen”.",
+    "Screaming “SOCIAL DISTANCING” while you hug your friends and go to pub night .",
+    "Zooming into class at 3 am.",
+    "Breaking CDC guidelines... all of them.",
+    "Technologically impaired professors.",
+    "4 hour long campaign team meetings.",
+    "Ironically playing Pandemic.",
+    "The 8pm Howl.",
+    "Getting drunk with Diana Lam on election night .",
+    "Finding out cis-men don’t wash their hands for the first time.",
+    "Turnover actually happening.",
+    "Graduating into a recession.",
+    "Six months at home with your family.",
+    "DIY Speedrun Senior Week.",
+    "Deleting Twitter, redownloading Twitter, deleting Twitter.",
+    " Zooming in for class with only audio.",
+    "Your extrovert Mom going stir-crazy at home.",
+    "Fauxmencement.",
+    "Amy’s concerning Facebook posts.",
+    "Washing your hands 5 times an hour.",
+    "Pets on Zoom.",
+    "Collusion."
+  ],
+  "pack": {
+    "id": "rjjhd",
+    "name": "COVID-19 Apocolypse"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 44,
+    "total": 59
+  },
+  "dateStoredMs": 1589295644206
+}

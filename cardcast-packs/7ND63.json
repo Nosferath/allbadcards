@@ -1,0 +1,151 @@
+{
+  "black": [
+    {
+      "content": "Durante la cuarentena pase de _ a _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "El COVID es un castigo de Dios por haber _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sin vergüenza: Durante la cuarentena yo _ y no me arrepiento.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El COVID-19 me enseñó que nunca hay que _, durante una pandemia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuarentena día mil: Llamé a mi madre y le dije que quería _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuarentena día 256: Me compre _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante esta cuarentena hice clases de yoga, pan casero y _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No aguantaba más y rompí la cuarentena para _. (fue más de una vez).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando termine la cuarentena, _ será lo primero que haga.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo también dije que no me andaba la cámara, cuando en realidad estaba _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En tiempos de cuarentena: ¿Acaso querías _ ? Pues no mi ciela!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿ _ ? Esta bien que es cuarentena, pero tampoco la pavada!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante terapia online, no pude evitar notar que mi Psico tenía un cuadro de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando me pregunten cómo sobreviví a la pandemia, _ será la respuesta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quiero un barbijo con _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante la cuarentena el ministerio recomendó quedarse en casa, tener sexo virtual y _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Distacia social, alcohol en gel y _ , las 3 claves para sobrevivir a la pandemia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuarentena día 324: Hoy tuve pensamientos perturbadores sobre _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Distanciamiento social.",
+    "Corona Virus.",
+    "Respetar lo que diga el gobierno nacional y la OMS.",
+    "Llevar adelante una vida más saludable y usar menos el celu.",
+    "Morir de COVID19.",
+    "No consumir más drogas.",
+    "Comprar cantidades ridículas de papel higiénico.",
+    "Caminar 15 cuadras.",
+    "Culpa de china.",
+    "Tener sueños y pensar proyectos a futuro.",
+    "Reiniciar el 2020.",
+    "Ver una serie completa en 2 días.",
+    "Bajar de peso.",
+    "Sopa de murciélago.",
+    "No bañarse por días.",
+    "Cortarse el pelo unx mismo.",
+    "Tener un futuro brillante y lleno de oportunidades.",
+    "#quedateencasa.",
+    "Salir a correr.",
+    "Una banda de k-pop.",
+    "Una fiesta por zoom.",
+    "Lavarse las manos.",
+    "Pasar más tiempo afuera y menos tiempo  en Netflix.",
+    "Consumir menos alcohol.",
+    "Violar la cuarentena.",
+    "Un barbijo de masa madre.",
+    "No saber ni el día ni el mes en el que estamos.",
+    "Maya disléxico.",
+    "Producirse para salir al living.",
+    "Insomnio a las 3 am.",
+    "Coronadengue.",
+    "Abrirse un ticktok.",
+    "Conocer a alguien nuevx.",
+    "Alcohol en gel y barbijos.",
+    "Completar todo lo que me/te había/s propuesto en año nuevo.",
+    "Merquear en casa.",
+    "La presentación de power point de Alberto.",
+    "Sexting.",
+    "Un apocalipsis con zombies.",
+    "Sexo virtual.",
+    "Aprender a hacer pan con masa madre.",
+    "Macri con el barbijo al revés.",
+    "Estornudar y toser en la cola del super.",
+    "Abstinencia sexual.",
+    "Tener un vínculo sexo-afectivo saludable."
+  ],
+  "pack": {
+    "id": "7ND63",
+    "name": "COVID-19 en Argentina 2020"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 45,
+    "total": 63
+  },
+  "dateStoredMs": 1588991015057
+}

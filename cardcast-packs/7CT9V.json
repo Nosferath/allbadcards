@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Undertale The Movie: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What makes Asgore mad? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "_."
+  ],
+  "pack": {
+    "id": "7CT9V",
+    "name": "Cards Against Undertale"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588648322134
+}

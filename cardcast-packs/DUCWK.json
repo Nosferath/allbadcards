@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "And in the frozen land of Nador, they were forced to eat _ , and there was much rejoicing",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ always triumphs! Have at you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ and I'm ok",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spam, Spam, Spam, Spam, _ , and Spam",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And now for something completely different: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It started out as a funny sketch about _ , but now it's just gotten silly",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Putting on women's clothing and hanging around in bars.",
+    "A man with a tape recorder inside his nose.",
+    "The velocity of an unlaiden swallow.",
+    "A parrot that is dead when you bought him.",
+    "A penguin on top of your television set that's about to explode.",
+    "Arthur, King of the Britons."
+  ],
+  "pack": {
+    "id": "DUCWK",
+    "name": "And Now For Something Completely Different Against Humanity"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1589492132433
+}

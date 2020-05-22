@@ -1,0 +1,118 @@
+{
+  "black": [
+    {
+      "content": "Is it _ or is it _? That's up to you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's _ loose in the hospital.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I gave you _ and you gave me _ and we called it a day.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm very gay, I'd like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is _. Could be a nursery.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bread of God is _. He will bring us _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My wife is _ and I like her so much.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll keep _ right here, and then one day, I'll die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "College is just _ and they're like \"Partial credit.\" and that's like the whole thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buy _. Engraved, question mark?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ might as well happen. Adult life is weird.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eat ass, suck a dick, and sell _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because we're _ and life is a fucking nightmare.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's what I thought you'd say, you dumb fucking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am homeless. I am gay. I have AIDS. I am _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A sea of drunk toddlers.",
+    "A 28 year old healthy man who's trying his best.",
+    "Delta Airlines.",
+    "Our nation's no snitchin' policy.",
+    "A high-waisted man with feminine hips.",
+    "Going down on some rockin' twink.",
+    "A horse loose in a hospital.",
+    "The moral backbone of a chocolate eclair.",
+    "One black coffee.",
+    "A tall child.",
+    "An on-fire garbage can.",
+    "A sea of drunk, white teenagers.",
+    "One word at a time verbal abuse.",
+    "Probably HPV.",
+    "STREET SMARTS.",
+    "[sustained groaning] you know, life.",
+    "Doing white people stuff in connecticut.",
+    "A hundred and twenty thousand dollars.",
+    "A 100 year old blind dog who's texting and driving while drinking a smoothie.",
+    "Being horny and angry all the time with no outlet for it.",
+    "Playing violent video games and catfishing pedophiles.",
+    "Anyone who has seen my dick and met my parents.",
+    "Throwing pedophiles off their rhythms.",
+    "Snorting cocaine the night before college graduation.",
+    "7 \"What's New Pussycat\"s followed by 1 \"It's Not Unusual.",
+    "This 19 year old horseshit.",
+    "One pre-Y2K asshole."
+  ],
+  "pack": {
+    "id": "368nc",
+    "name": "John Mulaney Expansion Pack"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 27,
+    "total": 42
+  },
+  "dateStoredMs": 1588477640419
+}

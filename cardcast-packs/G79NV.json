@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "She asked me how to spell _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh hell no, I did not leave the south side for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nice wig, what’s it made of? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was _ when I met him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That’s why her hair is so big, it’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get in loser, we’re _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There’s a 30% chance it’s already _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're from Africa, why are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can’t be _! That’s like, social suicide!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God, _, you’re so stupid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s like I have _ or something.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can always tell when it’s raining.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One time she punched me in _. It was awesome.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t think my father, inventor of _, would be too pleased to hear about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Raise your hand if you have been personally victimized by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You kids need some snacks? _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being from Michigan.",
+    "Loving Danny Devito's work.",
+    "Susan from Planned Parenthood.",
+    "Being a mouse, duh.",
+    "Going back to the way things were in middle school.",
+    "Too gay to function.",
+    "The limit not existing.",
+    "A BIG LESBIAN CRUSH ON YOU.",
+    "Getting diarrhea at Barnes and Noble.",
+    "The fertility vase of the Ndeble Tribe.",
+    "Being almost too gay to function.",
+    "Making Fetch happen.",
+    "Wondering if butter is a carb.",
+    "Meeting John Stamos on an airplane.",
+    "Baking a cake filled with rainbows and smiles.",
+    "Wearing army pants and flip flops.",
+    "Assigning someone to butter your muffin.",
+    "Some snacks and a condom.",
+    "Being half a virgin.",
+    "Sears.",
+    "Smelling like a baby prostitute.",
+    "A homeschooled jungle freak.",
+    "Making out with a hot dog.",
+    "Your mom’s chest hair.",
+    "A heavy flow and a wide set vagina.",
+    "A scum sucking road whore who ruins lives.",
+    "Your typical back stabbing, slut faced ho-bag.",
+    "Calling you a gap-toothed bitch."
+  ],
+  "pack": {
+    "id": "G79NV",
+    "name": "Mean Girls"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 28,
+    "total": 44
+  },
+  "dateStoredMs": 1588363296736
+}

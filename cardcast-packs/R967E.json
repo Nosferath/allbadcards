@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "Why did we fail the mock exam? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are people fighting in the Middle East? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is the class in lunch detention? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is Putin friends with now? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kim Jong Un is mad because North Korea does not have _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump loves _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is this FRQ about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the Soviet Regime fall? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Trump yelling?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Starr heated?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Starr's favorite? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What explains the Mexican migration? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AP Human Geography class is so _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is wrong with this class_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kashmir.",
+    "Mexico's Border.",
+    "Mettallica.",
+    "Mecca.",
+    "Putin.",
+    "Von Thunen.",
+    "Muslims.",
+    "CBD.",
+    "MURICA.",
+    "Jerusalem.",
+    "Kayne West.",
+    "Economy.",
+    "AP Scores.",
+    "Clinton.",
+    "Gideon.",
+    "Taiwan.",
+    "The Real China.",
+    "Congo.",
+    "Weber.",
+    "Kim Jong Un.",
+    "Subsistance Farming.",
+    "The Bible.",
+    "Rostow.",
+    "The Dome of the Rock.",
+    "ISIS.",
+    "AP Class.",
+    "Trump.",
+    "Fidget Spinners.",
+    "Moses.",
+    "New Urbanism.",
+    "Mr. Starr.",
+    "The Qua'ran.",
+    "Jews.",
+    "Radical Islam.",
+    "CDR.",
+    "North Korea.",
+    "CBR.",
+    "JOHN CENA."
+  ],
+  "pack": {
+    "id": "R967E",
+    "name": "AP HUMAN GEO"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 38,
+    "total": 52
+  },
+  "dateStoredMs": 1588727777428
+}

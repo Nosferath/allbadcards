@@ -1,0 +1,98 @@
+{
+  "black": [
+    {
+      "content": "_ did it better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is cuter than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ would be sooo cute together.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_'s favorite fruit is kiwi.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "George Washington.",
+    "Dan Howell.",
+    "Vin Disel.",
+    "John Travolta.",
+    "Mark Twain.",
+    "Phil Lester.",
+    "Robert Downey Jr.",
+    "Madonna.",
+    "Kristin Stewart.",
+    "Barrack Obama.",
+    "Tom Brady.",
+    "Michelle Obama.",
+    "Drew Barrymore.",
+    "Ryan Reynolds.",
+    "Hillary Clinton.",
+    "Jessica Abba.",
+    "Robert Pattinson.",
+    "Meghan Trainor.",
+    "Tom Cruise.",
+    "Jake from State Farm.",
+    "Bernie Sanders.",
+    "Adam Sandler.",
+    "Christopher Lee.",
+    "Bill Gates.",
+    "Julia Roberts.",
+    "Rihanna.",
+    "Thomas Edison.",
+    "Emma Watson.",
+    "Kurt Cobain.",
+    "Albert Einstein.",
+    "Ashton Kutcher.",
+    "Nicki Manij.",
+    "Beyonce.",
+    "Will Pherrel.",
+    "Sccarlett Johanson.",
+    "Robin Williams.",
+    "John Mayer.",
+    "Donald Trump.",
+    "Avril Lavigne.",
+    "Alan Rickman.",
+    "Taylor Lautner.",
+    "Carrie Underwood.",
+    "Pewdiepie.",
+    "Arnold Schwarzenegger.",
+    "Julianne Moore.",
+    "Channing Tatum.",
+    "Shawn Mendes.",
+    "Emma Blackery.",
+    "Selena Gomez.",
+    "Blake Shelton.",
+    "Jensen Ackles.",
+    "Whinnie the Pooh.",
+    "The Geico Gecko.",
+    "David Tennant.",
+    "Kevin Hart.",
+    "Nicole Kidman.",
+    "Keith Urban.",
+    "Paul Walker.",
+    "Justin Beiber.",
+    "Chris Hemmingway.",
+    "Lady Gaga.",
+    "Taylor Swift."
+  ],
+  "pack": {
+    "id": "UZJX2",
+    "name": "Famous People"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 62,
+    "total": 66
+  },
+  "dateStoredMs": 1588226347015
+}

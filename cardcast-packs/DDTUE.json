@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "He always says _ is the best",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He always says _ is the best",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jake.",
+    "Macca."
+  ],
+  "pack": {
+    "id": "DDTUE",
+    "name": "Practice deck for quiz"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588373190979
+}

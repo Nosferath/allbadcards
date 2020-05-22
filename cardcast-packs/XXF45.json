@@ -1,0 +1,912 @@
+{
+  "black": [
+    {
+      "content": "Send for the loremasters! We must tell the tale of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: Thousands killed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your flimsy defenses are no match for the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fortress was lost to the opposing army's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My vengeance upon _ will involve _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The battle could have been won if we'd brought _ instead of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is an heirloom of my house, and we shall call it \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The king's tower fell to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In place of a Dark Lord you shall have _ : not dark, but beautiful and terrible as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The captivity-by-the-Dark Lord survival kit: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Send for the chambermaids! I fancy a bath of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I promised my father I would avenge _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Home is behind, _ ahead, and there are many _ to tread.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bros before _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first guests to arrive at the birthday party: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sit quietly, _, and I will tell you the tale of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "These _ would look great in a fantasy TV series.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "True beauty lies in two things: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Send for the midwives! My wife is giving birth to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The proud king abandoned the worship of _ in favor of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Powerful magics are needed to create _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would have solved a lot of problems for some families I know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is basically equivalent to marriage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A funny thing happened on the way to the Great Market: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my youth, I spent time with the god of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not a real party until _ happens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been sent on a rubbish quest to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm bringing up my daughter to believe in _, not _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Send forth the mariners to carry news of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And don't come home until you've got _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The legendary hospitality of my people means you'll be generously supplied with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The surgeon removed _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's nothing wrong with _ in the larger scheme of things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't steal the light of the world unless you're prepared to deal with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, you'll talk, all right.  You'll talk once you've had a taste of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When she wandered into the forest, its lord ensnared her with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The beacons are lit, and _ will answer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My child-rearing philosophy is based on _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: the first symptom of a disease that ends in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Our hopes rely on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why build your fortress in the frozen north? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feed my beasts on _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best part of waking up is _ in your cup.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is no mine; it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The party grew awkward when a certain someone performed a song about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Out of the frying pan, into the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next big trend in young adult fantasy: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only two things have ever made me cry: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fear! Fire! Foes! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To make a long story short, _ killed _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ worked better in the movie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst torture one can face in the terrible dungeons: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sibling rivalry in the family is mostly based on _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am called the Valiant, known across the land for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody knows the trouble I've seen; nobody knows my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Travelers in this region go miles out of their way to avoid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Regrettably, _ turned out not to be fireproof.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My to-do list for today: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When choosing a child's first pet, consider _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good names for your plot-significant twins: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "4 out of 5 elderly healers recommend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talking animals only talk in the event of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never destroy _ you might need later on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the war between _ and _ , everyone loses.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "God's plan for our species probably did not involve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish she'd break up with _, but at least she's not seeing _ anymore.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My poorest life decision involved _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This ship will never go astray, for it is guided by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Failing to look up the relevant law often leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He built a ship of _ to journey in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Send for the vintners! I must have a wine made from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She blinded me with science and hit me with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You must destroy your _ to rebuild _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The worst birthday party theme: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's dangerous to go alone!  Take this: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The alliance was forged through a marriage of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Evidence of historical bias in the text includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Achievement Unlocked: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one expects _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I joined the dark lord because he offered me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maintain that just-conditioned bounce in your locks with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "History tells of no deed more desperate or valiant than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am my beloved's and my beloved is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The seed of evil entered the hidden city through _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There will be no comfort in your grief except _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Think big.  Think _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's all fun and games until _ loses _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My fantasy language has at least eleven words to describe _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened to the last person who crossed me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Send for the torturers! I must know about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As wergild for my father's death, I demand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan to infiltrate the fortress involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To be a king is to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If your father really loved you, he'd have given you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abandoned by their leader, the stranded host had to resort to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Predictably, the family gathering went terribly wrong because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was summoned to this council by a dream of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ship _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When left in the sun, _ may grow interesting varieties of mold.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Break the _! Release the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you want to marry my daughter, you'll have to bring me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What has it got in its filthy little pocketses? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Not even once.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: a great way to pass the time in prison.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wanted to write an epic about _, but I ended up with a short story about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My mother's ambitions for me involved _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ had a bad acid trip involving _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I think I'll occupy the forenoon with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I challenge _ to single combat!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll never tell my kids about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hot new class at the local community college: \"_ and _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only thing that prevents the dark lord's return: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my bathroom, you'll find guest soaps shaped like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All our fates are bound to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why have I had such a rough day? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan to win back my father's legacy involves _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Waiter?  There's a fly in my _ and my _ is cold.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Many cultural taboos surround _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ can't do it, no one can.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The family reunion only got worse when _ showed up.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watching your children when they're _ is bad, but not as bad as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Send for the healers! We must tend our kinsman after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's traditional to name children after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just one bite is enough to fill the _ of a grown man.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at that bitch _ like she owns the place.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The secret way into the city.",
+    "The man in the moon.",
+    "Distressingly pretty hair.",
+    "The creation of a new species just for kicks.",
+    "Pointy-eared jewelry hoarders.",
+    "Ignoring your divine messenger.",
+    "The spider that eats light.",
+    "Crossing the ocean on foot.",
+    "The elegant raise of an eyebrow.",
+    "Bringing a harp on a rescue mission.",
+    "Werewolves.",
+    "A strong female character.",
+    "High fantasy's hottest octogenarian.",
+    "Lullabyes for the Dark Lord.",
+    "The last survivors of a murderous family.",
+    "Middle children who no one really likes.",
+    "The secret passageway everyone seems to know about.",
+    "Walking straight into the enemy camp and walking back out again.",
+    "Soulful gazing.",
+    "A small pile of ash.",
+    "Pointy ears.",
+    "Forcing people to die for your daughter's hand.",
+    "Threatening siblings with decapitation in public.",
+    "The king's daughter.",
+    "Looking fairer and feeling fouler.",
+    "Fantasy drug culture.",
+    "A pointy-eared half-breed.",
+    "Naming things.",
+    "Goth elves.",
+    "Sentient puppies.",
+    "An improbable number of human skeletons.",
+    "Dragon-induced memory loss.",
+    "Reasons that made sense at the time.",
+    "People who will kill you for a ride.",
+    "A sibling.",
+    "Second marriages.",
+    "Dressing up as a vampire.",
+    "The forgetful innkeeper.",
+    "Shiny rocks.",
+    "Rewriting history to make your foster-father look good.",
+    "Lactating orcs.",
+    "The clammy stench of unwashed terror.",
+    "Load-bearing walls.",
+    "A scruffy king.",
+    "A shackle bolted to a cliff.",
+    "Curiously compelling jewelry.",
+    "Unusually dedicated gardeners.",
+    "The void.",
+    "Convenient eagles.",
+    "Epic dirty limericks.",
+    "One of them rangers.",
+    "Structural collapse.",
+    "Triage.",
+    "Jumping off a cliff.",
+    "The pretty stranger with his pockets full of presents.",
+    "A confused wizard.",
+    "Funeral-induced family reunions.",
+    "The deepest, darkest part of the cavern.",
+    "Jealousy over painfully long lifespans.",
+    "Facing down a dragon.",
+    "Alliterative sibling names.",
+    "Dwarf-mediated organ theft.",
+    "Taking the dragon for walksies.",
+    "The prince of cats.",
+    "Extraordinarily long-distance relationships.",
+    "Seven bickering brothers.",
+    "Startling conditions of neglect.",
+    "Biting a werewolf to death.",
+    "Seven boys' worth of laundry.",
+    "The spiritual significance of hair colors.",
+    "The flimsy box containing the plunder.",
+    "The embittered eldest son.",
+    "Wearing people's skin.",
+    "111 years of dad jokes.",
+    "Achieving your life goals and realizing they sucked.",
+    "The breeding pits.",
+    "Prehensile hair.",
+    "Getting lost in the forest.",
+    "A bloodbath.",
+    "The offspring of two cousins.",
+    "Shattered ankles and a seriously cramped world domination plan.",
+    "Knocking buckets into bottomless pits.",
+    "Ill-placed trapdoors.",
+    "One of three McGuffins.",
+    "Jewelry which is more important than children.",
+    "Giving your enemies insulting nicknames.",
+    "Wild elf parties.",
+    "Disturbing corpse banners.",
+    "A bird wearing significant jewelry.",
+    "Glowing blue in the presence of orcs.",
+    "Two tent cities staring at each other across a lake.",
+    "Drunk elves.",
+    "My short-tempered liege-lord.",
+    "Writing a song about your own worst mistake.",
+    "Permission to cross the sea.",
+    "Second breakfast.",
+    "Fire-drakes.",
+    "A prancing ninny.",
+    "Three of my brothers at once.",
+    "Convenient failure to mention anyone's mother.",
+    "Overweening pride.",
+    "Battlefield promotions.",
+    "Poisoned wounds.",
+    "What your elf eyes see.",
+    "Washing your hair in the sacred pool.",
+    "Pretty songs about mass murder.",
+    "Being over a barrel.",
+    "Void spiders.",
+    "Pirates sailing the wrong way down the river.",
+    "Astonishingly racist elves.",
+    "A magical glow stick.",
+    "A tidal wave sent by the wrath of the ocean god.",
+    "The halls of the dead.",
+    "Morally ambiguous blacksmiths.",
+    "Evil orphans.",
+    "Unwise shows of mercy.",
+    "Sending messenger pigeons to God.",
+    "Sharp glances.",
+    "A dog that prevents his owner from assaulting women.",
+    "An entire people descended from three brothers.",
+    "My insufferable lieutenant.",
+    "Parental favoritism.",
+    "Spider poison.",
+    "Inappropriate use of a fountain.",
+    "A historian with a grudge.",
+    "Seven gates.",
+    "Bizarre naming customs.",
+    "Choosing a mortal life.",
+    "Surviving to the end of the book.",
+    "Dwarf women.",
+    "Ill-advised heroics.",
+    "A dark elf with a martyr complex.",
+    "Dying on a glacier.",
+    "Sleep-inducingly lengthy poetry.",
+    "Malt beer and fresh meat off the bone.",
+    "Trampling into the dust.",
+    "Your friendly local demigoddess.",
+    "Gate of steel.",
+    "Inconvenient right-handedness.",
+    "Mother-names.",
+    "Unpleasant truths.",
+    "A creature of flame and shadow.",
+    "Mercy-killing a cousin.",
+    "Forgotten details from history class.",
+    "Swamps full of dead people.",
+    "Civilization.",
+    "Elf politics.",
+    "Interchangeable wizards.",
+    "Going down with your ship.",
+    "A lonely man chained to a cliff.",
+    "Very close cousins.",
+    "Getting tucked in at night by your parents' murderer.",
+    "Poor life choices.",
+    "Linguistic tomfoolery.",
+    "Unforeseen and disastrous consequences.",
+    "Orc sewage.",
+    "Twins.",
+    "Becoming a single parent in the most traumatic manner possible.",
+    "Rulers who disappear at inconvenient moments.",
+    "The heir to the throne.",
+    "Swan boats.",
+    "Talking spiders.",
+    "Strangers wandering through the woods.",
+    "Cruel and pointless torture.",
+    "Seduction into evil.",
+    "Children lost in the woods.",
+    "The skulls of your enemies and some of your friends.",
+    "Fatal postpartum depression.",
+    "Complicated reasons to flip off a deity.",
+    "A massive hammer.",
+    "No one.",
+    "Trashing a continent in disgust.",
+    "Self-proclaimed sovereigns.",
+    "Implied cannibalism.",
+    "Vegetarian elves.",
+    "Challenging the source of evil to single combat.",
+    "Short people singing annoying songs about your relatives.",
+    "My brother's endless humming.",
+    "Bottled starlight.",
+    "Founding an island nation which will inevitably turn to evil.",
+    "Vile disguises.",
+    "Being locked up in a treehouse.",
+    "Cultural preoccupation with trees.",
+    "Competitive childbearing.",
+    "Extremely specific pseudonyms.",
+    "Dying in a building collapse.",
+    "Color-changing swords that talk.",
+    "Sailing a shiny ship through the skies.",
+    "Forced marriage.",
+    "Death by hammer.",
+    "An indefinite time-out in the void.",
+    "Stranger danger.",
+    "That moment when you realize there's only one twin.",
+    "An axe to the head.",
+    "Readily accessible public ferry services.",
+    "Wandering in pain and regret by the ocean.",
+    "The woman who drives the sun.",
+    "Country matters.",
+    "Rank treachery.",
+    "Spiders with the munchies.",
+    "The High King.",
+    "Epic song battles.",
+    "Apprentices.",
+    "Unending daddy issues.",
+    "Being eaten one at a time.",
+    "Golden hair ribbons.",
+    "Older sibling jealousy.",
+    "My favorite LARP partner.",
+    "A reeking pile of the slain.",
+    "Treading on the skulls of your erstwhile allies.",
+    "Running naked through the forest.",
+    "Adoption by murder.",
+    "Oddly convincing disguises.",
+    "Rhyming sibling names.",
+    "The werewolves that ate all your friends.",
+    "Diacritic marks.",
+    "Partial digestion by a werewolf.",
+    "The mighty blade that caused the epitome of evil to limp slightly.",
+    "Poorly-thought-out oaths.",
+    "Lies and falsehoods.",
+    "Killing spiders with a letter opener.",
+    "Moon runes.",
+    "Masturbatory linguistics.",
+    "Random encounters with relatives you've never met.",
+    "Improbably expensive chain mail.",
+    "The greatest werewolf that ever lived.",
+    "Creationist musical chairs.",
+    "White gems.",
+    "Weather-changing temper tantrums.",
+    "Dragon spittle.",
+    "Thraldom.",
+    "Puppy chow.",
+    "Complicated sibling inheritance.",
+    "Singing at inappropriate moments.",
+    "Elaborate braided hairstyles.",
+    "A strangely well-populated desolate wasteland.",
+    "Being a divine messenger whose message is totally ignored.",
+    "Staggeringly foolish political choices.",
+    "Arriving too late.",
+    "Flowers growing on the tombs of one's forebears.",
+    "Yipping goblins.",
+    "The question of elvish underwear.",
+    "A cloven shield.",
+    "Wet dog smell.",
+    "Carnage.",
+    "Coming home to find your house being sold.",
+    "A broken sword.",
+    "Never leaving this dark forest again.",
+    "Emotionally sadistic plotlines.",
+    "Dwarves with slingshots.",
+    "Lamentation.",
+    "Accidentally drinking from a divination device.",
+    "Blended families that don't quite blend right.",
+    "Soulbonding.",
+    "Black steel.",
+    "Their dominant hand.",
+    "The older of a pair of twins.",
+    "The lamentations of the enemy's women.",
+    "Sexy redheads.",
+    "My bloody-minded brother.",
+    "A man with seven sons and no fucks to give.",
+    "Watching your brother's eyes be stabbed out with a fork.",
+    "Suicide by eagle.",
+    "Bouncing three times on the rocks before pitching into the flames.",
+    "The hell of iron.",
+    "Suicide by ambiguous love interest."
+  ],
+  "pack": {
+    "id": "XXF45",
+    "name": "Elves Against Inanity"
+  },
+  "quantity": {
+    "black": 126,
+    "white": 266,
+    "total": 392
+  },
+  "dateStoredMs": 1589035222327
+}

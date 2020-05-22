@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "La prossima espansione di Carcassonne sarà \" _ e _ \".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In Cyclades, Zeus sarà sostituito da _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Asmodee annuncia \"Pandemia: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I coloni di _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lo sceriffo di Nottingham.",
+    "La foresta di sherwood.",
+    "Carcassonne.",
+    "Catan.",
+    "Pandemia."
+  ],
+  "pack": {
+    "id": "CJMFH",
+    "name": "Giochi da Tavolo"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 5,
+    "total": 9
+  },
+  "dateStoredMs": 1588103115269
+}

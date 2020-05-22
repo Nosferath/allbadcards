@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "I love the name of Zac's new skin, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Dude, I heard Viktor augments _ for free!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who do you think you are? _ ?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mata.",
+    "Madlife.",
+    "Faker.",
+    "Oversized condom.",
+    "Graves.",
+    "Soraka with a fully stacked Mejai's.",
+    "Dicks."
+  ],
+  "pack": {
+    "id": "T84RZ",
+    "name": "More League of Legend's cards"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 7,
+    "total": 10
+  },
+  "dateStoredMs": 1588239211678
+}

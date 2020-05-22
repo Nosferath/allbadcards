@@ -1,0 +1,155 @@
+{
+  "black": [
+    {
+      "content": "Hans Moleman Productions Presents: Man Getting Hit By _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your lifelong dream was _, and you did that last week!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay, Marge, if anyone asks, you require 24-hour nursing care, Lisa's _, Maggie is seven people, and Bart was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What were Maggie's first words? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, I'm Troy McClure! You might remember me from such projects as _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The person who shot Mr. Burns was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's just something about _ that's so unwholesome.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ died on the way back to his home planet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Is there anything they can't do?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is The Simpsons' next guest star? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest Itchy & Scratchy short involves Itchy brutally murdering Scratchy with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "See my vest, see my vest, made with real _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I, for one, welcome our new _ overlords.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No _ and no _ make Homer something something...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Buy me _ or go to hell!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's a paddlin'.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worst. _. Ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your _ are intriguing to me, and I wish to subscribe to your newsletter.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Trying to jump the Springfield Gorge.",
+    "Mr. Snrub.",
+    "A genuine, bona fide, electrified six-car monorail.",
+    "Accidentally walking into the third dimension.",
+    "Getting your hand stuck in the toaster.",
+    "Getting hit by a car.",
+    "Clapping for Alaska.",
+    "Fallout Boy.",
+    "The Stonecutters.",
+    "An inanimate carbon rod.",
+    "Jebus.",
+    "Ozmodiar, a tiny alien only Homer can see.",
+    "Jimmy Carter: history's greatest monster.",
+    "Walking into multiple rakes.",
+    "Not obeying the laws of thermodynamics.",
+    "Ku Klux Klam.",
+    "TRAMAMPOLINE!.",
+    "Trying to win friends with salad.",
+    "MacBain.",
+    "Hating every monkey that you see, from Chimpan-A to Chimpan-Z.",
+    "The suckiest bunch of sucks who ever sucked.",
+    "A leprechaun who lives on my shoulder and tells me to burn things.",
+    "Cheese-eating surrender monkeys.",
+    "Butterfingers®.",
+    "President of Partying Down.",
+    "Stupid sexy Flanders.",
+    "Duff Beer.",
+    "Unnecessary Surgery Land.",
+    "Spider-Pig.",
+    "A free Frogurt.",
+    "Dean Bitterman.",
+    "Super Nintendo Chalmers.",
+    "The Gummi Venus de Milo.",
+    "Mister Sparkle.",
+    "The Shinning.",
+    "Doing the Bartman.",
+    "Disgruntled Goat.",
+    "Poochie the Rapping Dog.",
+    "A Flaming Moe.",
+    "THRILLHO.",
+    "Uncle Ant.",
+    "Undercover detectives on the Hot Rod circuit.",
+    "Lee Carvallo's Putting Challenge.",
+    "Hank Scorpio.",
+    "Radioactive Man.",
+    "A silo full of pig crap.",
+    "Frosty chocolate milkshakes.",
+    "An unnecessary crossover with Family Guy.",
+    "The hammock district."
+  ],
+  "pack": {
+    "id": "XMJP5",
+    "name": "The Simpsons"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 49,
+    "total": 67
+  },
+  "dateStoredMs": 1588363296857
+}

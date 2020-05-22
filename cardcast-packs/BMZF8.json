@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "''Ang hindi magmahal sa sariling wika ay higit pa sa amoy ng _.'' -Jose Rizal",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The one who killed Lapu-Lapu is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , a-tapang a-tao.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\"PUNITIN ANG SEDULA!!!\" -Andres Bonifacio.",
+    "\"MGA TRAYDOOOOOOR!\" -Heneral Antonio Luna.",
+    "\"Ay punyeta\" -Heneral Luna.",
+    "\"Mas masarap pa yung ensaymada kaysa dito.\" -Heneral Luna habang kumakain.",
+    "\"Wala na tayong panahon para sa mga bagay na hindi natin kayang panindigan.\" -Isabel Cojuangco."
+  ],
+  "pack": {
+    "id": "BMZF8",
+    "name": "Cards Against the Philippine History"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 5,
+    "total": 9
+  },
+  "dateStoredMs": 1589203517040
+}

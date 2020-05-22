@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "Walt Disney's body _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Earth _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sinking of the Titanic _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elvis Presley _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barack Obama _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Princess Diana's death _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The pyramids _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AIDS _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paul McCartney _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The human race _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JFK's killer _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus and Mary Magdalene _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The moon _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "William Shakespeare _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Area 51 _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Denver International Airport _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pharmaceutical companies _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Is flat.",
+    "Was orchestrated by the British royal family.",
+    "Did not write all of his own plays.",
+    "Has been dead since 1966.",
+    "Had an accomplice.",
+    "Faked his death and is still alive.",
+    "Was actually an insurance scam.",
+    "Is just a hologram.",
+    "Has been cryogenically frozen.",
+    "Is a human-created disease.",
+    "Is a base for research into UFOs and extraterrestrial life.",
+    "Married and had children.",
+    "Are keeping people sick by withholding cures.",
+    "Is a portal to hell.",
+    "Never died, but in fact escaped Berlin.",
+    "Were built by aliens...or dinosaurs.",
+    "Was not born in the USA, but in Kenya.",
+    "Is being enslaved by a \"reptilian elite\"."
+  ],
+  "pack": {
+    "id": "XPR7V",
+    "name": "Complete the Conspiracy"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 18,
+    "total": 36
+  },
+  "dateStoredMs": 1589068733977
+}

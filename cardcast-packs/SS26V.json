@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "L'undici settembre in realtà  è stato causato da _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "SS26V",
+    "name": "Cards against Italia"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589062504823
+}

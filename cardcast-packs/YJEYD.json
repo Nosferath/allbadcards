@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "Os Fogans gostam mesmo é de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O Léo nunca experimentou _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Outro dia o Jym estava tomando _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Renegados.",
+    "Tumati.",
+    "Chupingole."
+  ],
+  "pack": {
+    "id": "YJEYD",
+    "name": "Teste - BDO"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 3,
+    "total": 6
+  },
+  "dateStoredMs": 1588629210572
+}

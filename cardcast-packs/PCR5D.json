@@ -1,0 +1,18 @@
+{
+  "black": [],
+  "white": [
+    "COVID-19.",
+    "Corona.",
+    "Coronavirus."
+  ],
+  "pack": {
+    "id": "PCR5D",
+    "name": "Coronavirus"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 3,
+    "total": 3
+  },
+  "dateStoredMs": 1589574170350
+}

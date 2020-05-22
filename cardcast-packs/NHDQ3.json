@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Ink needs to _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Smol Bean."
+  ],
+  "pack": {
+    "id": "NHDQ3",
+    "name": "Undertale AU's"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588648322812
+}

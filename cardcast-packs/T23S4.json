@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "Whats a Muslims favourite movie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where will Trump bomb next? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What turned the Muslim on? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats a Muslims favourite food? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats the Muslim mans favourite pastime? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did the brown man say to the white man before he pressed the button? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Flying a plane into the World Trade Centre.",
+    "Allah Akbar.",
+    "Hanging women.",
+    "Home videos of drones strikes.",
+    "Towel heads.",
+    "A camel.",
+    "Obama Bin Laden.",
+    "Syria.",
+    "Selling their children to the highest bidder.",
+    "ALLUAH AKBAR.",
+    "What floor sir?.",
+    "Blowing up the World Trade Centre.",
+    "Tehran.",
+    "A burka.",
+    "Nice knowing ya!.",
+    "9/11.",
+    "Osama Bin Laden's home video.",
+    "Osama Bin Laden.",
+    "Going up or down?.",
+    "A bomb.",
+    "A 12 year old.",
+    "A goat.",
+    "Rape.",
+    "Fucking goats.",
+    "Being a motherfucking boss and doing a 9/11.",
+    "Raping women and then cutting their heads off.",
+    "Rape the women and hang them.",
+    "Abdullah the Rapist.",
+    "A Jihadi motherfucker."
+  ],
+  "pack": {
+    "id": "T23S4",
+    "name": "Allah Akbar - A Family Show"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 29,
+    "total": 35
+  },
+  "dateStoredMs": 1588716547388
+}

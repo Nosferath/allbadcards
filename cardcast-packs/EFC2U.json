@@ -1,0 +1,157 @@
+{
+  "black": [
+    {
+      "content": "I am _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _? I am _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Am I _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ ???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? I am _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _. I am _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _! I am _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Groot! _! Groot!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _. I am _ I am _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_! I am _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, I am _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Gtoor.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Iron Man.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot.",
+    "Groot."
+  ],
+  "pack": {
+    "id": "EFC2U",
+    "name": "Cards Against Groot"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 61,
+    "total": 77
+  },
+  "dateStoredMs": 1589267068464
+}

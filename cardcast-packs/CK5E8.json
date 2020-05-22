@@ -1,0 +1,142 @@
+{
+  "black": [
+    {
+      "content": "An antidepressant a day keeps _ away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By far the best stim of all is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's intrusive thought: What if _ was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I had a whole list of things to do today and instead I just ended up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is more overwhelming than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spending all my money on _ will help me forget _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ gives me crippling anxiety.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Depression smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PTSD flashbacks be like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to the doctor for _ and they sent me home with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can't believe I have to have a prescription for _ now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Under new ADA compliance laws, all _ must now have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new cure-all diet: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to struggle with _ too, until I tried _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chronic pain flare-ups that feel like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget yoga. Introducing _ : the new cure for depression!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Anxiety making your heart skip and then getting anxiety about your heart skipping.",
+    "Repression.",
+    "Antivaxxers.",
+    "Trendy products originally marketed towards disabled people.",
+    "\"accessible\" parking.",
+    "Dissociating into your favorite TV show.",
+    "TV dinners.",
+    "Intrusive thoughts.",
+    "Chronic pain so bad you forget to eat.",
+    "Smiling the pain away.",
+    "Sleeping the sad away.",
+    "Irrationally believing that everyone hates you.",
+    "Not being afraid of the world ending.",
+    "Kale.",
+    "Poor self image.",
+    "Mounting medical debt.",
+    "Placebo pills.",
+    "Fake laughter to hide the real pain.",
+    "Ambiguously textured food.",
+    "Nihilism.",
+    "Overanalyzing every minute detail of a conversation.",
+    "Spoons.",
+    "Having zero impulse control.",
+    "Broken elevators.",
+    "Not knowing what day of the week it is.",
+    "A broken wheelchair.",
+    "Depression.",
+    "Relating to your grandparents about their achy bones.",
+    "Yoga.",
+    "Neurotypicals.",
+    "Anxiety.",
+    "Suicidal thoughts.",
+    "A sudden unshakeable feeling of impending doom.",
+    "Hitting people with a cane.",
+    "Hospital socks.",
+    "Being a Gifted Child™.",
+    "The impending realization that reality is meaningless nothing matters.",
+    "Aderall.",
+    "Stimming.",
+    "Nothing.",
+    "Inspiration porn.",
+    "Sensory hell.",
+    "The look people give you right before they ask about your mobility aids.",
+    "Giving too many shits.",
+    "Putting spikes on your mobility aids.",
+    "Not giving a shit."
+  ],
+  "pack": {
+    "id": "CK5E8",
+    "name": "Disabled Deck"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 46,
+    "total": 62
+  },
+  "dateStoredMs": 1588984333712
+}

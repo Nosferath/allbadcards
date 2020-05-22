@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Asriel was _ all along!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Flowey got the six souls, he turned into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "But nobody came."
+  ],
+  "pack": {
+    "id": "5YUD8",
+    "name": "Undertale!"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588648321869
+}

@@ -1,0 +1,129 @@
+{
+  "black": [
+    {
+      "content": "What weird wacky material have you painted on? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're an art major. Guess you don't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I last used _ to get paint out of my nails.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greatest art major fear? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last time I ate paint, _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bob Ross told me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I recently painted _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo, Ms Park fully popped off for Halloween this year. She deadass came in as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sold my soul to _ for these art skills.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I accidentally drank out of my paint water cup. Poison control center,  what do I do? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While Mr. Stehle is on sabbatical, we all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greatest art major weakness? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If anyone asks what class this blade is for, just say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What funky fresh art stuff is going down in LaGuardia today? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having to pay for our art supplies sucked... We should be able to buy them with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After inhaling turpentine fumes, I saw _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Accidentally getting paint on a finished piece.",
+    "That sinking feeling when your painting is too big to go through the door.",
+    "When your art gets called immature.",
+    "Furries.",
+    "Making the same face as the one you're drawing.",
+    "That one art major who exclusively draws anime.",
+    "Carpal tunnel.",
+    "Taking crack art seriously.",
+    "Painting your clothes.",
+    "Bob Ross™ Holy Water.",
+    "A singular braincell, heart shaped and covered in paint.",
+    "Phones in the sink.",
+    "Parents that don't think art is a career.",
+    "Fjallraven kanken backpacks.",
+    "Mistaking your coffee for paint water.",
+    "The cardboard cutout of Bob Ross.",
+    "Drink more paint water.",
+    "Art and soul.",
+    "Parents that think you're not going to get a job.",
+    "When your group critique hits harder than you were emotionally prepared for.",
+    "An idea too big for your skill level.",
+    "A singular braincell, heart shaped and covered in paint.",
+    "Art hoes.",
+    "Trying incredibly hard to be original.",
+    "Thinking you're unique for drawing clowns.",
+    "Draw me like one of your french girls.",
+    "Same face syndrome.",
+    "Paint on your clothes.",
+    "Getting your canvas caught in the door.",
+    "Actually get sleep.",
+    "Horny artists that have no rights.",
+    "Indian ink on your clothes.",
+    "That one art major who exclusively draws hentai."
+  ],
+  "pack": {
+    "id": "UT9YE",
+    "name": "lag kiddos: art major edition"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 33,
+    "total": 49
+  },
+  "dateStoredMs": 1588277801685
+}

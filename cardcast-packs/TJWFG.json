@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "In Episode 5, you must choose between _ or _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The wierdest part of Max's nightmare was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The bay.",
+    "Heteronormativity.",
+    "Victoria and Chloe kissing in the Dark Room.",
+    "The bae.",
+    "Kate placing candles on her own grave.",
+    "Receiving texts from Pompidou.",
+    "\"I WAS EATING THOSE BEANS, MAX!\".",
+    "The fact that Warren has a doll that looks like Max in his locker."
+  ],
+  "pack": {
+    "id": "TJWFG",
+    "name": "Life is sad and gay"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  },
+  "dateStoredMs": 1588461613172
+}

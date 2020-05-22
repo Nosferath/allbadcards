@@ -1,0 +1,1510 @@
+{
+  "black": [
+    {
+      "content": "Jaká je cena? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ má zase ban. LOL.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobrý den, _ - technická podpora. Jak vám mohu pomoci?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pokud jste pachatele viděli, volejte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koho unesli? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dáme _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kolik měří tvůj _, rád bych ho chtěl do řiti!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ bude kandidovat na prezidenta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tématem dnešního polemizování je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten zvuk zní asi jako _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Všem jednotkám! Máme tu stav nouze: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volal někdo _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dnešek je nejhorší den, co jsem kdy měl. #_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Server nepojede po dobu jednoho týdnu. Důvodem je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak kopni do tý bedny, ať _ nečeká.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dnes budeme v kině promítat film _, v hlavní roli _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "R.I.P _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Debile, shodil jsi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rozeznáš vůbec rozdíl mezi _ a _?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nezapomněl jsem si u tebe _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Běž si umejt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dámy a pánové, vítejte na mezinárodním kongresu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nás zničí!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pojišťovák _ mi nabídl _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rataj je _, Rataj je _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moje nová postava se bude jmenovat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momentálně jsme pod útokem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pane, vy máte u sebe zbraň? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, ty píčo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Popište vaše dosavadní zkušenosti z LeoSight.cz. _, _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pane prezidente, mohu vás požádat o _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pocity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rád bych zažádal o unban, nikdy jsem se ani nechtěl snížit k _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pomoc, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Můj názor na LeoSight? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JUST _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Respawni mi auto, zaseklo se v _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já jsem _, kdo je víc?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já bych _ zakázal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nechal jsem si vytetovat _ na hruď.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Váš návrh na přidání _ byl bohužel zamítnut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zahrajeme _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Začíná _. Drž _!!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jsem ochoten obětovat _ pro unban.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A pak bůh stvořil _. Chyba!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tohle je James Bond, krycí jméno _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krokody je opilý? Co pil? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? NASRAT!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Simulator - Hra roku 2016!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vezete _, ne _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alfonz tu teď není, šel vyřešit něco ohledně _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vítej na serveru! Máš-li nějaké dotazy, obrať se na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Už je to tady! Už je to tady!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Překročena maximální povolená rychlost 90km/h. Lokace: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je tady zima jak v _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ si sedl na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bojím se _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Archeologové objevili další obraz od Leonarda da Vinciho, jeho název je \"_\" a vyobrazuje _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeho jméno je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "/me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, drž hubu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Viděl jsem slyšet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? To řešíme výhradně přes fórum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ už dávno není žádná vzácnost.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kdo je _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten pocit, když _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Každý ráno, když si vzpomenu, vzpomenu si na to, jak měl jsem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Musím jít _, moment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proč opička spadla ze stromu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kucí! Teď dávejte pozor, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vložte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je lepší v _, než _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Cizí tváře, židi v káře, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co dělá _ v mém domě?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kdo se mi vysral pod rohožku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je jasná cesta k _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hackujeme _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tady je _, ty _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Když ne _, tak _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jo! Jen pojď, budeme _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobi den, ja vyměnit moje večerka za vaše _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já to nebyl! To byl _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Multi Theft Auto: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Umlátím _ pastelkou.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já nejsem _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podle cockpitu je to jasnej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je moc OP.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spongebob v _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, řekni more za kolik.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z cesty! Projíždí _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ty zmrde!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prosíme, nehýbejte se, proběhne restart _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Agent _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Soud rozhodl, že _ bude odsouzen na 5 let ve federální věznici za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Přepravní kontrola, připravte si _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Dáme volby? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dejte tomuto muži kousek _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ na slepici.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proč se Krokody chová tak divně? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tak na to si zachrochtáme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vím jak ho zachráníme, stačí _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Rádio.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, ruce vzhůru!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proč na seznamu hostů na naší svatbu chybí _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co je nového? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale mě to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Milé Bravíčko, je mi 13 let a dělá mi problém _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ EVENT.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kdyby _, tak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Máš rád _ tak moc, jako já? ( ͡° ͜ʖ ͡°)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kdo mi rozbil _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kdo chce _? Přepínám.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikdy mě neuvidí _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je podle mého názoru lepší, než _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ zase vykrádá muničák!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ má u mě vždy šanci!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nesnáším _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ předpovídá budoucnost.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\" - Svědek z 11. září",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cink! Úplně cink! Jakože _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "7 malých _ stavělo si _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pošťák _, bere fet, stává brzy ráno, kocour mňoukne _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Víš, co jsem ztratil v lese? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Spíchal, ne?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ na hrad!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seru vám na to, postavím si vlastní _ s _ a _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_, přepínám.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chceš _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zavolám na tebe _. Půjdeš spát!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak ví, ne? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kde mám _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A ty jsi jako kdo?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naše květiny vydrží o 14 dní déle! Objednávejte na www._.cz",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kouříš _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Non-RP jméno!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pravidlo č.27, _ není tolerováno!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyní v akci! Bageta za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pořádáme párty! A naším hlavním hostem je _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jsem snad pes nebo co?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kde je _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Někdy si připadám jako _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje nová let's play série z _ se bude jmenovat \"_\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ se považuje za to nejhorší porušení pravidel!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Můj život by neměl cenu bez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prodám _ za 10 tisíc korun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Další informace určitě najdeme a to díky _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Popište Card Czara jednou kartou. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "10 _ pro Nebelvír!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vyklop to ty hajzle! Kam jste schovali _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\" - _ 2016",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kdo napadl Orlí hnízdo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ TV!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zde jsem na Skimu, zde _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, co tu děláš? My natáčíme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Však já mám rád _, kdo by to neměl rád?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zpráva dne: \"Pomoc! Můj syn je _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Život je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kdo je nejlepší hacker? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neusínejte na TSku, dějí se pak divné věci, jako například _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Padá _, něco si přej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mám pod oknem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luku, jsem tvůj _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Říkal někdo _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znáte takovej ten pocit když _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toto je serverové oznámení! Konečně se nám podařilo zprovoznit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dáš nám už svoje _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A bůh řekl _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pojď na _. 1v1.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak jsi se nakazil? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-Man není hrdina, kterého jsme potřebovali.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Příští zastávka: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, to jsem já!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na TS3 nenávidím _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error downloading: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jdu vyhodit krabičku od _, přepínám.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1. Investice. 2. _. 3. Profit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jen jedna věc je ještě víc k hovnu než _, a to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Když sleduju _, vlhnou mi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po 2 měsících snažení jsme konečně na náš server přidali _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vždy jsem si přál, aby se na Skimo přidalo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nábor do AT bude probíhat na TS3 v místnosti jménem \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ťuk, ťuk.\" \"Kdo tam?\" \"_!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Volala mi temnota, tak jsem jí řekl, že _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tradičně jako každý rok pořádáme soutěž v _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "P90, automatická zbraň vhodná pro _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Status _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ streamuje!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Máte rádi _? Přijďte na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ oznámil, že _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "V Japonsku právě objevili nový druh _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je to černý a běhá to po Evropě. Co je to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to hulíte pánové? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miluju _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Járo! Járo! Járo! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nábor do PSA probíhá dnes v 17:00 u _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ je to nejhorší, co mě mohlo potkat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reportnete my plzki moje auto? Vipada jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já jsem ale _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proboha, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nešahejte na mě, jsem ještě _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "#PrayFor_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na TSku jsem se pojmenoval \"_\", protože _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_.leosight.cz",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Novým hlavním úkolem GIBS bude od nyní _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\" - Adolf Hitler",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Byl založen nový stát na území SA, jeho název je \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vikingským nejúčinějším způsobem mučení bylo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kterej bastard mi snědl _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pimp my _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bugy.",
+    "Telefonní číslo 158.",
+    "Allahu akbar.",
+    "Mrazík.",
+    "NASA.",
+    "Štrůdl.",
+    "Jednodenní prezident.",
+    "Vrtačka.",
+    "Ratajův vysoký ping.",
+    "Špinavej hajzlpapír.",
+    "Šamanova bažina.",
+    "Korán.",
+    "Moudrý klobouk.",
+    "Zkurvený banditi.",
+    "6 ran do hlavy.",
+    "Včera.",
+    "Děti v Africe.",
+    "Čínská mafie.",
+    "LEET WORLD.",
+    "Islámský svátek Basebalbat.",
+    "Ukrajina.",
+    "DM.",
+    "Je to rebel.",
+    "LeoSight.cz.",
+    "Bez práce nejsou koláče.",
+    "420.",
+    "Párek.",
+    "Hoří mi hlava.",
+    "Marco Polio.",
+    "[SMAZÁNO] - LeoSight Guard.",
+    "Moneeeeey.",
+    "Tak to je v prdeli.",
+    "Rusové.",
+    "San Andreas.",
+    "Sejdeme se u tvýho zipu.",
+    "Alkohol.",
+    "Zákaznická karta TESCO Clubcard.",
+    "RAGEQUIT.",
+    "IC/OOC mixing.",
+    "Cards Against Humanity.",
+    "Oblek žáby.",
+    "Nejsem pavot.",
+    "Piškotéka.",
+    "Ervin Balog.",
+    "CS:GO.",
+    "Jsem medvěd!.",
+    "Atentát na Baloga.",
+    "Error 404.",
+    "Donald Trump.",
+    "Half-Life 3.",
+    "Zakážu tě!.",
+    "Cizí tváře.",
+    "Skříň vedoucí do Narnie.",
+    "Andrej Babiš.",
+    "Jdi do prdele!.",
+    "Lížu kredenc.",
+    "Bublinková fólie.",
+    "Škodovka.",
+    "Albus Percival Wulfric Brian Brumbál.",
+    "Ozvěna na TS3.",
+    "Pocity.",
+    "Logan.",
+    "Pojď mi do očí.",
+    "Lidská existence je pomíjivá.",
+    "Vládní archív.",
+    "Tatínek vám vyhlásí válku.",
+    "Porušování pravidel.",
+    "( ͡° ͜ʖ ͡°).",
+    "Poník.",
+    "Milan.",
+    "Rogalogan.",
+    "Budzogáň.",
+    "Jedině přes moji mrtvolu.",
+    "Bekdůr.",
+    "Necronomicon.",
+    "Já jsem uklízečka.",
+    "Tempestus.",
+    "Majkí.",
+    "Hromada drog.",
+    "MTA DayZ.",
+    "Euro Truck Simulator 2.",
+    "Už je dneska.",
+    "Hraní dementní karetní hry místo dělání něčeho užitečného.",
+    "Vražda v přímém přenosu.",
+    "Klára.",
+    "Online psychiatr Dante.",
+    "Semtex bugoval.",
+    "Tuniakovy náhodné historky z jeho dětství.",
+    "Sakra.",
+    "AtWar.",
+    "Svastika.",
+    "Dr. Josef Mengele.",
+    "TheMak.",
+    "Dejf.",
+    "Titanic.",
+    "MIXING!.",
+    "Ho mrdnu po hlavě sekerkou.",
+    "Noot Cena.",
+    "ZZS.",
+    "Václav Havel.",
+    "007.",
+    "#MAGIC.",
+    "Pracovní pohovor.",
+    "Slováci.",
+    "Bžuuum.",
+    "Hancici.",
+    "Lumik1231.",
+    "Speaker.",
+    "Antibiotika.",
+    "Třetí říše.",
+    "Falleagle.",
+    "Fichtl.",
+    "Šaman.",
+    "Hráči, kteří se přihlásí na turnaj, ale nedají check-in.",
+    "OneHero.",
+    "Gramatika.",
+    "Imigranti.",
+    "Čaj.",
+    "Poblitý dveře.",
+    "KORUPCE.",
+    "Tasmanský čert před porodem.",
+    "Demence.",
+    "Becherovka.",
+    "Gripen.",
+    "Paradajka.",
+    "San Fierro.",
+    "Adventní kalendář.",
+    "Propagace.",
+    "50 milionů korun.",
+    "Miloš Zeman.",
+    "VPN.",
+    "Dajmondi.",
+    "Smích.",
+    "Lístek do tomboly.",
+    "Mikrofon lvl. Matrix.",
+    "Free #11.",
+    "Lékařský batůžek.",
+    "DJ MG-42.",
+    "Sonyy.",
+    "Sanitka.",
+    "StB na telefonu.",
+    "Práce.",
+    "Liberland.",
+    "Tvoje máma.",
+    "Anetka.",
+    "Pikochu.",
+    "BAN.",
+    "Pan prezident.",
+    "Jednotky zákona.",
+    "Somálský převozník sirupu.",
+    "Odhalení Administrátorem.",
+    "Pershing Square.",
+    "Jokerův smích.",
+    "Vesmírný drive-by.",
+    "Péčko.",
+    "Chytrá nabíječka.",
+    "Vladimir Putin.",
+    "Tržiště hype.",
+    "Lívanec.",
+    "Operace kytka.",
+    "DICKS!.",
+    "SedliX.",
+    "Zapomenutý případ.",
+    "Budeš?!.",
+    "Zpoždění trolejbusu.",
+    "Píču a šišky.",
+    "Screeny.",
+    "Helper.",
+    "Psychopat Dante.",
+    "1337.",
+    "Co tady dělá to letadlo.",
+    "CS:GO.",
+    "Gang černých občanů.",
+    "Aktivní admini.",
+    "Rozmrdaný auto.",
+    "Pika pika.",
+    "Nebelvír.",
+    "5 promile v krvi.",
+    "Biniti Missilini.",
+    "Život je krutý.",
+    "Nick.",
+    "VlkoVod.",
+    "Turnaj.",
+    "Ratajovy ponožky.",
+    "Let do Poníklandu.",
+    "Koně.",
+    "Ztracené dokumenty.",
+    "Mám v piči.",
+    "Smrtka666cz.",
+    "Lalalalalála.",
+    "Brotherhood of Steel.",
+    "NOOT NOOT.",
+    "Léto 2016.",
+    "Mrož.",
+    "NEIN.",
+    "TS3 elita.",
+    "Ratajův démonský hlas, když je nemocný.",
+    "Bachni ma.",
+    "Veřejný nepřítel číslo 1.",
+    "Bible.",
+    "Warcraft 3.",
+    "Přes hubu.",
+    "Garry's Mod.",
+    "Vo FullHD.",
+    "(PING) OVER 9000.",
+    "Ty krávo blbej.",
+    "Bezhlavý sněhulák.",
+    "Illuminati.",
+    "Lachtan.",
+    "Ne.",
+    "Stůl.",
+    "Technická podpora LeoSight.cz.",
+    "Nic mě nenapadá.",
+    "Účet za plyn.",
+    "JOHN CENA.",
+    "VIP na TS3.",
+    "Černá dívka.",
+    "Natálka.",
+    "4chan.",
+    "Non-RP.",
+    "Banditi na DayZ.",
+    "RealSteel.",
+    "PvP.",
+    "CDčko s Vánočními koledami.",
+    "PARTY LIKE IT'S 1941.",
+    "Kilo dřeva.",
+    "Mlha (OP).",
+    "Princezna Papučka z Kovošrotu.",
+    "Na to ti seru.",
+    "Rezignace.",
+    "EET.",
+    "Poslední noc na Titanicu.",
+    "Lahůdkářství.",
+    "Přištižení při bugování.",
+    "Gayové.",
+    "Prosím?!.",
+    "Rozprašování židů po celé Evropě.",
+    "Rataj.",
+    "Periodická tabulka prvků.",
+    "Pravda pravdoucí.",
+    "Hluboko do krku.",
+    "SSSR.",
+    "Lesbičky.",
+    "Mešita.",
+    "Ozbrojený převrat.",
+    "Kilo dřeva nejde.",
+    "Doprdele, já to koupil.",
+    "Spadl server.",
+    "Hovno.",
+    "Anonymous.",
+    "Toast.",
+    "WhiteWolf.",
+    "Maďarsko.",
+    "DayZ.",
+    "Áďa Hitlejů.",
+    "League of Legends.",
+    "Brenton Tarrant.",
+    "NETWORK TROUBLE.",
+    "Sebevražda.",
+    "SeeGy.",
+    "5 věrnostních bodů.",
+    "Narkomani.",
+    "LeoSight Guard.",
+    "Já nevím.",
+    "Age of Eminem Earth.",
+    "Nejlepší donator.",
+    "Urážky Administrátora.",
+    "Žigulík.",
+    "Kulomet.",
+    "Jdeš na fórum.",
+    "Já nevím co říct.",
+    "P90.",
+    "*chrrrr*.",
+    "Online shop.",
+    "Stalin.",
+    "Poláci v LoLku.",
+    "Židi v káře.",
+    "Růžový traktor se zlatýma kolama.",
+    "Současný stav kreditů: 0.",
+    "Bůh žehnej Fakahedě.",
+    "Defenestrace.",
+    "Warhammer.",
+    "Alfondra.",
+    "Poníkova videa.",
+    "Namletý polák.",
+    "Policie za dveřmi.",
+    "#dantehosmich.",
+    "69.",
+    "Sámsi.",
+    "Vodka.",
+    "/do F, čekal to.",
+    "Taneční lekce s Titanem.",
+    "Velitel národní gardy.",
+    "DPH.",
+    "Pavot.",
+    "Pláž Omaha.",
+    "Čenda.",
+    "Rakeťáci.",
+    "Moje kabelka.",
+    "Tuniak.",
+    "Srdeční masáž.",
+    "Motorka.",
+    "Sorry jako.",
+    "#počuvaj.",
+    "Problémy.",
+    "Ochránci zvířat.",
+    "Kajínek.",
+    "Na TSku celou noc.",
+    "Já to mrdám kurva.",
+    "Bugování.",
+    "Wallhack.",
+    "Panictví.",
+    "FrčaldoBOT.",
+    "Ushanka.",
+    "Gladiátor levelu 65.",
+    "Dej si facku!.",
+    "Super mega vip admin.",
+    "Akcie.",
+    "TS3.",
+    "OOC nadávky.",
+    "Bublinky.",
+    "Mldolik.",
+    "Radim.",
+    "Neřeknu.",
+    "Non-RP jméno.",
+    "Politické vraždy.",
+    "CK.",
+    "Hoď si procentkou.",
+    "Pohádka na dobrou noc.",
+    "Tank.",
+    "Rozbitej mikrofon.",
+    "Cards Against LeoSight.",
+    "Warhammer.",
+    "Snu-snu.",
+    "Měsíční kámen.",
+    "Skimo.",
+    "Dochází prachy.",
+    "Christchurch.",
+    "Jasnej aimbot.",
+    "Blobfish.",
+    "Křeček.",
+    "Igor Hnízdo.",
+    "Gaben.",
+    "Pravidla free roomek.",
+    "Mrtvé tělo Ervina Baloga.",
+    "101 dalmatincov.",
+    "29. pluk speciálního určení.",
+    "Neaktivní členové frakcí, kteří jsou ihned vyhozeni.",
+    "Poníkův hlásek.",
+    "Bugujeme.",
+    "Nemám čas.",
+    "Žádné interiéry na zakázku!.",
+    "Bžambilion ikonek na TSku.",
+    "Mít motorku.",
+    "/do S.",
+    "TS3 elita.",
+    "Oblast 51.",
+    "10-4.",
+    "Pavel42.",
+    "KV-2.",
+    "Žid.",
+    "Pomazánka.",
+    "Kredity zdarma.",
+    "Štrůdl.",
+    "Internal server error.",
+    "FabulaSoft.",
+    "Vaření koček.",
+    "Ty úchyle.",
+    "2 pandy na motorce.",
+    "Nejdebilnější člověk v Pardubickým kraji.",
+    "Létající koberec.",
+    "Piko.",
+    "Sloní hovno.",
+    "Jogurt vole.",
+    "Fapesníky.",
+    "Batmanův otec.",
+    "Nálady.",
+    "Járo!.",
+    "Kalhotky.",
+    "Krutá pravda.",
+    "#kappa.",
+    "Ty hajzel.",
+    "GYGN.",
+    "Největší demonstrace, jakou svět zažil.",
+    "První sníh.",
+    "Globální pravidla portálu LeoSight.cz.",
+    "AFK.",
+    "Barvoslepost.",
+    "Popelnice.",
+    "Admin Team.",
+    "Yassraider.",
+    "Empajr Ebleblabluh.",
+    "Deštníková společnost.",
+    "Situace?!.",
+    "Alfonzův půlvteřinový smích.",
+    "Nevinní povstalci.",
+    "VACation.",
+    "Kredity budou stačit.",
+    "Novej reskin na Nebulu.",
+    "Semtex.",
+    "Debilní Card Czar co vybírá karty, které nejsou vtipné.",
+    "Harry Potter.",
+    "Puding.",
+    "Koblihárna.",
+    "Anální poník.",
+    "Slepičí kavalerie.",
+    "Rastík propagoval svůj server.",
+    "Válka klonů.",
+    "Nevím, co na to říct.",
+    "Vyšší šlechta.",
+    "Sillriho imperiální doupě temné strany.",
+    "Mrtvý rodiče.",
+    "Nový skin každý den.",
+    "TheMak.",
+    "Labradabrador.",
+    "Mňau.",
+    "SedliXové bez hranic.",
+    "Holocaust.",
+    "Sperma.",
+    "Sex.",
+    "Seks.",
+    "Adolf Hitler.",
+    "Ho-ho-holocaust.",
+    "Angel Pine.",
+    "Pimp my Reich.",
+    "Auschwitz.",
+    "MTA:SA Skimo RolePlay.",
+    "Porno.",
+    "HIV pozitivní."
+  ],
+  "pack": {
+    "id": "R9Y3D",
+    "name": "LeoSight.cz"
+  },
+  "quantity": {
+    "black": 213,
+    "white": 429,
+    "total": 642
+  },
+  "dateStoredMs": 1589049837370
+}

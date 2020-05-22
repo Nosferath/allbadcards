@@ -1,0 +1,201 @@
+{
+  "black": [
+    {
+      "content": "View the style guide for _ and more information.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "gyöngyi egy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ egy jó videós",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ represent 2 out of 3 maximum response indicators.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "rászáradt a rúzs _-ra/re",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "a világ egyetem _ és a(z) _ ütközésével jött létre",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "a nevem _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "a mostanában legdivatosabb szokás a tini lányok körében a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "már az előtt a _ rajongója voltam mielőtt népszerű lett",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és _ szerintem nagyon jó párt tudna alkotni",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "vili egy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "a lámák aranyosak mert a szájpadlásuk olyan mint egy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "egy öregnéni úgy szólított meg hogy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Write calls as sentences using punctuation, capitalization and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "dávidot egy _-hoz/hez/höz tudom hasonlítani",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-nak/nek nagyon jó hangja van",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ van az _-on/om",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "kedvenc ételem a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "egy felmérés szerint a világon a legtöbben a _-tól/től félnek",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-t és _-t szerintem meg kéne simogatni",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "minden idők legnagyob csatája _ és _ között dőlt el",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The first example is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "egy himalájában elő népcsoprt neve _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "úgy nézekki mint egy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "utálom a _-t",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fidesz.",
+    "Kis grófo.",
+    "Olvasónapló.",
+    "Dd.",
+    "Kígyózás.",
+    "Pizza.",
+    "Noun-like phrasing.",
+    "Videómánia.",
+    "Egy galamb.",
+    "Obama.",
+    "Kiri fitymája.",
+    "Batman.",
+    "Magyar válogatott.",
+    "Sertés kenguru.",
+    "Csodálatos pókember.",
+    "Pewdiepie.",
+    "Forint.",
+    "Kőbányai.",
+    "Mikulás.",
+    "Boxeralsó.",
+    "Borsodi szitu.",
+    "Magyarország.",
+    "Kamu depresszió.",
+    "Shrek.",
+    "Eminem.",
+    "Szent hubertus.",
+    "Bimbó a cukiseggű.",
+    "Pacal.",
+    "Hihetetlenül nagy farok.",
+    "Lil frakk.",
+    "Giroszos kebabos.",
+    "Gyöngyi.",
+    "Szabyest.",
+    "Sajt.",
+    "Kokainos torta.",
+    "Mekdánelc.",
+    "Gyurcsány.",
+    "Soros györgy.",
+    "Csak_egy_lany_life.",
+    "Balfarok.",
+    "Pikacsu.",
+    "Fickó.",
+    "The proper noun Jerry.",
+    "Cigánymuzsika.",
+    "Ninja warrior.",
+    "Hajalajsbila cocacola.",
+    "Tiktok.",
+    "Hal.",
+    "Vaníliás kóla.",
+    "Imre.",
+    "El primo.",
+    "Yobama.",
+    "Muréna.",
+    "Alkoholizmus.",
+    "Zokni.",
+    "Ferrari.",
+    "The first example response.",
+    "Csöpi.",
+    "Jager.",
+    "Minimal punctuation."
+  ],
+  "pack": {
+    "id": "ZYGDX",
+    "name": "nyiregyháza"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 60,
+    "total": 85
+  },
+  "dateStoredMs": 1589196967803
+}

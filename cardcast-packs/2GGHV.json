@@ -1,0 +1,161 @@
+{
+  "black": [
+    {
+      "content": "\"Master, there is an 85% chance of _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unbeknownst to the denizens of Hyrule, there was a fourth Golden Goddess who represents _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fans were outraged when the next Zelda game was shown to have an art style inspired by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hey, what if Zelda was _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Well excuuuuuuse me, _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to an evil curse, Link has been transformed into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You've met with a terrible _ , haven't you?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I have to collect 100 of for a sidequest? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's dangerous to go alone! Take _ !\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nintendo's next big crossover title will combine _ with _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Link awoke from his seven-year slumber to discover that he had _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The title of the new game will be The Legend of Zelda: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why can't Link talk? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We have need of a hero, and your _ is superb.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . You know, for kids!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ganon's latest plot to conquer Hyrule involves _ , _ , and copious amounts of _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In the next Zelda adventure, Link's musical instrument of choice will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to explore the vast world in the next Legend of Zelda, Link will be able to ride _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*Opens a chest* YOU GOT THE _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After an extensive and convoluted trading quest, Link was rewarded with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Censors simply wouldn't allow the _ Mask from being in the final version of Majora's Mask.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Anju and Kafei, doing it.",
+    "Gorons.",
+    "King Zora's famous crotch-water.",
+    "Hitting on a nine-year old.",
+    "Ganon(dorf).",
+    "Princess Zelda.",
+    "Not getting a perfect \"10\" from a reviewer.",
+    "Getting mauled by Cuccos.",
+    "Putting fruit on your head.",
+    "Octoroks.",
+    "Flying pineapples of doom.",
+    "Breaking pots.",
+    "Yet another toon-shaded game.",
+    "A desert full of women.",
+    "Evolving into birds.",
+    "Motion controls.",
+    "Trying to decide which version of Midna is hotter.",
+    "Princess Ruto's fishy breasts.",
+    "Accidentally having the owl repeat itself.",
+    "Navi.",
+    "Link.",
+    "Cutting grass for hours on end.",
+    "Taking a selfie.",
+    "Chris Houlihan's secret room.",
+    "Lonk, from Pennsylvania.",
+    "A nice chest.",
+    "Swimming in Fishman spawn.",
+    "A street gang of kindergarteners.",
+    "Speedrunning Ocarina of Time in 18 minutes.",
+    "Being dressed by an old man while you're in a coma.",
+    "The joy of riding a motorcycle.",
+    "Having romantic feelings for a seagull.",
+    "Ghirahim's prehensile tongue.",
+    "The fucking Zelda timeline.",
+    "Becoming a furry after playing Twilight Princess.",
+    "A Minish-sized penis.",
+    "A fabulous set of tunics and matching boots.",
+    "Masturbating in the water to call the Fishman.",
+    "Sheik's sweet ass.",
+    "Sexy Thermo Witchy."
+  ],
+  "pack": {
+    "id": "2GGHV",
+    "name": "Cards Against Hyrule"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 40,
+    "total": 61
+  },
+  "dateStoredMs": 1588433812962
+}

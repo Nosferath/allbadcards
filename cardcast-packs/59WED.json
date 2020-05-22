@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "Thancred's hair is like _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Best Primal is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Leviatin.",
+    "Shiva.",
+    "Ramuh.",
+    "Ifrit.",
+    "Garuda.",
+    "Good King Moggle Mog.",
+    "Mi'qotes obscene poses.",
+    "Titan."
+  ],
+  "pack": {
+    "id": "59WED",
+    "name": "FF14ARR"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  },
+  "dateStoredMs": 1588209317502
+}

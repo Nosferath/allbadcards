@@ -1,0 +1,320 @@
+{
+  "black": [
+    {
+      "content": "I found my _ on HaveIBeenPwned.com.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ just asked me to reset my _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Forgot my badge this morning and had to use _ to get in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My other _ is a _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We're just one good _ attack away from the _ catching on fire.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Apparently it is a bad policy to post our _ on the marketing website.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You would never think that a _ would be a vector for _ attacks.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing transfers data faster than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two factor authentication with _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hot new videogame this year is _ Simulator!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even running in a VM won't protect you from _ exploits.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pentesting found a _ process running on the printer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a pinch, _ can be used to remotely reboot a server.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My first born is named _ of the clan _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "SANS has announced that _ is an imminent threat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once you've been around long enough you can do _ calculations in your head.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My email server was spamming people because I forgot to setup a _ config.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That red plunger switch on the wall launches _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My CISO thought that _ was a _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "CVE-0000-1234 has been given the marketing name of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Honeypot was designed to catch _ attacks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last consultant was fired over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Layer 8 of the OSI Networking Model.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wireless networking would be much more secure if people would just use a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's 2078 and people are still failing to adequately secure their _ infrastructure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The toaster appears to have been compromised by a _ exploit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forgetting _ in the datacenter is a firing offense.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new IT Director has a sick tattoo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got this coffee mug from a conference about _ back in 1997.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ attacks are such a hot exploit right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new laptop came pre-installed with a _ feature.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now required every time you restart _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My last password manager was a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The AIs have taken over. Their only weakness is their love of _ based vulnerabilities.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now included for free with every OS update.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out that Apache is vulnerable to a _ exploit when attacked with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Had a user fall prey to a sophisticated _ phishing attack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ we were using failed to catch a _ attack.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A botnet made of computers compromised by _ vulns.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're going to use _ instead of updating to IPv6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the last stage of our _ rollout.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A helpdesk call to fix _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just got a new certification in _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brute force.",
+    "User Behavioral Analytics.",
+    "A PEBCAK.",
+    "C-3DES-P0.",
+    "Rebuilding a RAID array.",
+    "Public key.",
+    "Data breech birth.",
+    "0118 999 881 999 119 725...3.",
+    "A razorsharp punchdown tool.",
+    "Script kiddies.",
+    "Spiceworks.",
+    "Less than Zero Day.",
+    "Symmetricish cryptography.",
+    "A shell script with root access.",
+    "Email asking to verify my username and password.",
+    "A helpdesk ticket to \"fix the cpu\".",
+    "A multitool with a bottle opener.",
+    "The server is down.",
+    "Nmap.",
+    "Router with a default password.",
+    "Angelina Jolie in Hackers.",
+    "A rainbow pack of 3.5\" floppy disks.",
+    "A scanning electron microscope.",
+    "Poopface emoji.",
+    "An RJ-45 crimping tool.",
+    "My password.",
+    "A KVM with a broken M.",
+    "Principle of Beast Privilege.",
+    "R/netsec.",
+    "A webcam pointed at the coffee maker.",
+    "Scanning a little too much with nmap.",
+    "5000 free AOL CDs.",
+    "Chrome emoji extension with built in keylogger.",
+    "My rooted phone.",
+    "Authentication with something you hope to be someday.",
+    "Wildly irresponsible disclosure.",
+    "Rm -rf /*.*.",
+    "Internet of unpatched things.",
+    "A hard drive degaussing machine.",
+    "Publicity key encryption.",
+    "Botnet of smartwatches.",
+    "Pretty good piracy.",
+    "Another Brick in the Firewall.",
+    "PKI Certificate of Participation.",
+    "An Arduino running NetBSD.",
+    "Self inflicted DDOS.",
+    "A one button mouse.",
+    "A laser pointer.",
+    "Viewing web filter block logs.",
+    "Password cracking.",
+    "Private key.",
+    "CryptoLocker.",
+    "SHA1 Shank Redemption.",
+    "Netcat.",
+    "Turning it off and on again.",
+    "Biometric foot scanner.",
+    "A usb stick found in the parking lot.",
+    "Manually fixing 100/1000 auto negotiation.",
+    "Password Manager's password.",
+    "A mouse connected serial -> ps/2 -> usb.",
+    "A faulty crossover cable.",
+    "A salvaged motherboard with a parallel port.",
+    "Pinging 127.0.0.1.",
+    "Clippy.",
+    "Pentesting.",
+    "Diffie-Hellman-Mayonnaise.",
+    "My dongle.",
+    "Stuxnet.",
+    "Two factor authentication.",
+    "Privilege escalation.",
+    "A serial port mouse.",
+    "A flaky VPN connection.",
+    "Best two out of three factor authentication.",
+    "Timing Attack from the Year 9930.",
+    "An IP Webcam with a default password.",
+    "Hash collision.",
+    "A fingerprint scanner.",
+    "Self loathing browser history.",
+    "The password \"password\".",
+    "Edward Snowden.",
+    "A coffee stained mousepad.",
+    "Checksum and mate.",
+    "Buffer overflow.",
+    "A larger database connection pool.",
+    "Little Bobby Table.",
+    "An unpatched Windows XP box.",
+    "Rotating the backup tapes.",
+    "A bastion host.",
+    "A shell script written in OCaml."
+  ],
+  "pack": {
+    "id": "xt3x5",
+    "name": "Cards Against IT + InfoSec"
+  },
+  "quantity": {
+    "black": 43,
+    "white": 89,
+    "total": 132
+  },
+  "dateStoredMs": 1589287288830
+}

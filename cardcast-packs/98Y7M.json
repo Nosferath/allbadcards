@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Current mood: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who would win: _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ could raw me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some people??? Use _??? To cope???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ found dead in Miami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm auditioning for the role of _ and I'll be singing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Starting to think _ might be problematic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is _. Change my mind.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "OP is literally _ but go off I guess.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't that bad, you guys are just mean.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is gay culture.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just turned 25, choose a subclass: 1) _. 2) _. 3) _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Don't let anyone tell you that it isn't okay to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No _ we die like men.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes I'm a _. Yes I participate in _. We exist.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "98y7m",
+    "name": "Meme Call Cards"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 0,
+    "total": 15
+  },
+  "dateStoredMs": 1588414936761
+}

@@ -1,0 +1,616 @@
+{
+  "black": [
+    {
+      "content": "Do you like _? Yeah, we like _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you see my face, hope it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Friendship is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a new game on Steam called \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How to Train Your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, I'm _. I'm not so _! And we're the _ Grumps!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "First, Netflix added Castlevania. And now, they added _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I saw Boku no Pico for the first time, all I could think of is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't wanna be an American _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Orionv45 do in his freetime? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, er... Gunpowder, nitroglycerin, _ , fuses, wicks, _ , and... _ , big ones. You know, just, uh, office supplies.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What happens when you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is overrated.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's high _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the next episode of Dragon Ball Z, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friends freaked out when I told them I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apparently, \"El Dorado\" is native for... GREAT... BIG... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing to do if you want to lose some weight is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You reposted in the wrong _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you do with a drunken sailor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everybody get up, it's time to _ now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can stay up late, swapping manly stories, and in the morning, I'm making _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Link, you must find the _ -Force.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you, Mario! But our _ is in another _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm on my way, from _ to _ today.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rumors say that the next episode of Steven Universe will be about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who lives in a _ under the _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can show you the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , in theaters 2018.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ everywhere.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm a _ Girl, in a _ world. Life in plastic, is fantastic!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Be sure to like, comment, and subscribe for more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cheer's love, the _ 's here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They see you as _ and _. They see you as just a _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nintendo announced a new game called \"Super Mario: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We gotta find the \"_ Seed\", Morty!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You threw off my _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in the 90's, I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guess who's back? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody once told me _ was gonna roll me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are you doing in my _!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A spoonful of _ helps the _ go down.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Same thing we do every night, Pinky.  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Childhood ruined.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JR just can't stop talking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I died a little on the inside when I saw _ on DeviantArt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never gonna _ you up, never gonna _ you down. Never gonna _ around and desert you.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hello everybody! This is SonicBrony2568 here, and welcome to my reaction to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The internet went crazy over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, Vsause! Micheal here, to talk to you about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The name of the new My Little Pony movie will be called \"My Little Pony: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Cause baby you're a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is that _ I see, staring straight back at me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone in it is at my command, check this out. _ , _ , Theme Song Guy.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm _ , the ultimate life form!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a force a' nature! If you were from where I was from, you'd be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where in the World Is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everybody, everybody, everybody wants to be a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear Princess Celestia, today I learned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SonicBrony2568's favorite video game is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you have the time to listen to me whine about _ and _ all at once?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest trending video on YouTube is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ESRB was actually created for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Orion is really bad at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One does not simply _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _ now, that's my attack. Nyeh heh heh heh heh!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dishoner your whole _ , dishoner on _ , dishonor on your Cow!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Now that we're men, we can do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming up next, \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ 's are not in position for this tribute.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents became disappointed in me when they found out about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You got it set to ‘M’ for “Mini”, when it should be set to ‘W’ for \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JR is pretty bad at spelling, pronouncing, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part of Sonic the Hedgehog 3 & Knuckles was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SonicBrony2568 started doing re-colors of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have often dreamed, of a far off place. Where a great warm _ will be waiting for me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Microsoft just introduced the Xbox _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're _ , you're gonna have a bad time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Onions have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "DreamWorks announced the 5th Shrek movie called \"Shrek 5: _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Red was caught making art of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As it turns out, Red is engaged to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason Discord is better than Skype is because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It seems today that all you see is _ in movies, and _ on TV.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The real reason why Half Life 3 won't be released is because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One thing that I really like to put on my Pizza is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's gotta save the world, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I use _ instead of Facebook.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only good thing to come from Sonic games was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had a dream last night where I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SonicBrony2568 uploads _ onto his YouTube channel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jimbo! I've got two new friends I'd like you to meet. Say hello to Mr. _ and Mrs. _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I want to _ inside Rainbow Dash.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm just a big green _ from outer space, and I am bad!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you wanna have a _ time?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nickelodeon will never finish SpongeBob SquarePants because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you just assume that I masturbate to _ ? You pervert!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PokéDuke3 just started watching a new anime called: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When all else fails, I can always Masturbate to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Donald Trump builds the wall, his next plans are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ow the Edge.",
+    "Doing every position in the Kama Sutra in one night.",
+    "Looking up \"Cobra Pie\" on Google Images.",
+    "Gay CatDog fanfiction.",
+    "That one friend who has never seen a Disney movie.",
+    "Lotsa Spaghetti.",
+    "JoJo's Bizarre Adventure.",
+    "You're too slow.",
+    "Waluigi.",
+    "Pinkie Pie using \"Special Frosting\".",
+    "Joining Mickey Mouse's \"Clubhouse\".",
+    "Making references that nobody will get.",
+    "Being aroused by the smell of Bacon.",
+    "Cancerous Sonic OC's on DeviantArt.",
+    "Typing \"Grandfather Clock\", but forgetting the \"L\".",
+    "Jimmy Neutron Happy Family Happy Hour.",
+    "Having no funny cards, so ending up playing this one instead.",
+    "Do the Mario.",
+    "Link giving you the \"Silent Treatment\".",
+    "\"WOAH\" - Crash Bandicoot 1996.",
+    "Bastion getting \"Play of the Game\" Again.",
+    "Working at the Krusty Krab.",
+    "Bronies.",
+    "Banned from Equestria.",
+    "Bill, Bill, Bill, Bill, Bill, Bill, Bill Nye the Science Guy.",
+    "Getting raped by a Horse, but kind of liking it.",
+    "Mario being a Jew.",
+    "Spending on the Steam Summer Sales instead of Charity.",
+    "Landing on Income Tax and losing $200.",
+    "Rick getting schwifty with Morty.",
+    "Getting a Titjob by Rouge the Bat.",
+    "Robin Williams \"Hanging out\" with me.",
+    "DickTales, woo hoo.",
+    "Finding out that he was the Turkey all along.",
+    "Sonic Adventure 2.",
+    "Chicken.",
+    "Stacy's Mom.",
+    "The Undertale fandom.",
+    "PokéDuke3 X Orionv45 fanfiction.",
+    "Duke Nukem Hiroshima.",
+    "Expand Dong.",
+    "Not choosing SonicBrony2568's cards when they're obviously funnier.",
+    "JR ragequitting everything.",
+    "Playing Strip Go Fish.",
+    "The 1st pair of Spikes in Cave Story that everyone dies on.",
+    "Digging through Orion's collection of \"Good\" anime.",
+    "Autistic children on Call of Duty.",
+    "Scooby-Doo eating Doo-doo.",
+    "Friends With Benefits is Magic.",
+    "Sind Sie das Essen Nein, wir sind der Jäger.",
+    "Stanley's fake laugh.",
+    "A YouTube Poop from 2006.",
+    "これを読むことができれば、あなたは日本語です.",
+    "Worn out places, worn out faces.",
+    "Accidentally saying \"Gay\" instead of saying \"Guy\".",
+    "Natalie Portman.",
+    "Having your MLP ringtone go off in class.",
+    "A murder in Disneyland.",
+    "Rarity wearing revealing clothing.",
+    "Inspector Gadget.",
+    "He's gonna catch them all, 'cause he's Danny Phantom.",
+    "Applejack Daniels.",
+    "The Hash Slinging Slasher.",
+    "A Teenage robot on her period.",
+    "Filia getting raped by Samson.",
+    "An Engineer that only solves practical problems.",
+    "SANIC THE HOGHEDGE.",
+    "Funny white card.",
+    "Valentine \"Operating\" on you.",
+    "Another shitty & unfair match on Overwatch.",
+    "RWBY porn.",
+    "Doomfist fisting you.",
+    "Watching porn at 240p.",
+    "Incest Hentai.",
+    "Fidget Spinner pornography.",
+    "Pearl And Marina having sweet, sexy lesbian sex.",
+    "Callie & Marie having sweet, sexy tentacle sex.",
+    "Kirby sucking all the dick in the world.",
+    "Rough sex with Fluttershy.",
+    "Teen Titans Go fuck yourself.",
+    "Fucking SpongeBob's holes.",
+    "Porn Bots on Twitter.",
+    "Red choosing nothing but dick cards.",
+    "1 TB's worth of furry porn.",
+    "Watching a movie with your parents, and a sex scene comes up.",
+    "HOLY FUCKLES, HERE COMES KNUCKLES.",
+    "Spending time hatching thousands of eggs in Pokémon to get a Shiny.",
+    "Masturbating to My Little Pony porn.",
+    "Watching the first YouTube video ever made.",
+    "Having sex with Lady Palutena.",
+    "The Great Mighty Poo.",
+    "Sending dick pics to your grandmother.",
+    "Bad Dragon dildos.",
+    "Finding that damn 4th Chaos Emerald.",
+    "Mei's icicle cock.",
+    "Watching porn on Newgrounds.",
+    "Taking dick pics on Snapchat.",
+    "Public porn group on Facebook.",
+    "Tracer's fine ass.",
+    "Dick."
+  ],
+  "pack": {
+    "id": "VAMF6",
+    "name": "SonicBrony2568's Catastrophic Collection of Cards"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 100,
+    "total": 200
+  },
+  "dateStoredMs": 1589577896412
+}

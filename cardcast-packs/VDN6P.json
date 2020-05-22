@@ -1,0 +1,186 @@
+{
+  "black": [
+    {
+      "content": "_ is taking over.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can never replace _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is not a number.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ knows all the answers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She loves to see _ suffer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am perfect, because I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You will call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it _? It is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are _ like a boss.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Switzerland needs is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Give me _ or I will sing!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ladies have no time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _, I am a failure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ does not substitute a visit to the doctor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't like _, so what?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a bear and I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Women don't eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Excuse me, I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The neighbor explains that he is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my bread and _ is my butter.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ does not fit through the door.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My backpack cannot come on the plane because _ is in it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is expensive on the moon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The cats drink anything, from milk to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Thank you very much!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is soft, not hard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are _, you can't sleep.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A black castle in the Valley of Death.",
+    "Eliminating the witness.",
+    "A religious turtle.",
+    "A long red sausage.",
+    "A good lion.",
+    "Salty toothpaste.",
+    "A black apple.",
+    "Tasting the blood.",
+    "The neighbor who swims in my pool.",
+    "Walking like a moose.",
+    "An interesting sofa.",
+    "The enemy's enemy.",
+    "An apple in a dress.",
+    "The dirty fish.",
+    "Eating a menu even though I don't like it.",
+    "Wearing nothing.",
+    "An orange crab.",
+    "A horse that drinks wine.",
+    "Swimming in milk.",
+    "Nine fingers.",
+    "A book about girls.",
+    "Chains for my daughter.",
+    "A man's juice.",
+    "National apples.",
+    "Senior citizens jumping out the window.",
+    "Traveling through space and time.",
+    "My first rhinoceros.",
+    "A big, black sack.",
+    "Eating people.",
+    "Appearing without a shirt."
+  ],
+  "pack": {
+    "id": "VDN6P",
+    "name": "Shit Duolingo Says"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 30,
+    "total": 58
+  },
+  "dateStoredMs": 1589507010375
+}

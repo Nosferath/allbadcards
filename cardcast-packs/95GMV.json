@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Grzesiu powszechnie znany jako _ posiada taką przypadłość jak _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Obierz mi pomarańczke.",
+    "Kurde glut mi wyleciał.",
+    "Elo.",
+    "Ej chłopaki ide kupe."
+  ],
+  "pack": {
+    "id": "95GMV",
+    "name": "POLISH GRZESIU"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1588607420937
+}

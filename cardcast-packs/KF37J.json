@@ -1,0 +1,128 @@
+{
+  "black": [
+    {
+      "content": "What is old man Stevens going to use to get the bridge closed this time?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out Melissa Roeder has a new obsession: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New post on CCM: Can anyone recommend a contractor?  I need to get _ done.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I haven't had this much fun at Medfield Day since the time I had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll never guess what the new owners of Eugene's house found buried in the backyard!  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you see Selectman Osler \"Pete\" Peterson's latest blog post? Looks like _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's a new restaurant going in where Village Pizza used to be.  The menu is a fusion of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just read the thread on facebook where Chris McCue rants about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "News flash:  The weird feud between Chris McCue and Dr. Marsden was actually the result of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're going to look pretty funny trying to eat corn on the cob with no fuckin' _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest police logs were just posted.  Turns out _ was seen doing _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "New post on CCM:  Did you hear that loud noise just now? It sounded like _ was doing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's going to be a special town meeting next month where we are being asked to approve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is Concerned Citizens of Medfield.  Posts about _ belong on Friends in Medfield.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back when I first moved to Medfield, it was great.  None of the _ or the _ that you have these days!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I heard they're building _ at the State Hospital.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eva Paxx.",
+    "Bergland's pub shed.",
+    "Too many trophies.",
+    "Steve Caskey's secret desire to be mayor.",
+    "Jugdish, Sidney, Mohammed, and Clayton.",
+    "Popsicles up the wazoo.",
+    "Another tax override.",
+    "The invigorating scent of Daddy's cologne.",
+    "Marcy McNally.",
+    "Living in a town with one too many drummers.",
+    "Larkin's secret basement speakeasy.",
+    "The humorous musings of Rick JFink.",
+    "Melissa Roeder.",
+    "Another trip to CommCan.",
+    "Bill Gatti's weirdly detailed knowledge of the Grateful Dead.",
+    "Working on the night moves.",
+    "Jugdish.",
+    "Karenann Spender.",
+    "The Sutter Home Bandit.",
+    "Our kids dressed in degrading mattress costumes.",
+    "Seger.",
+    "Concerned Citizens of Medfield.",
+    "Another goddamned bonfire at Stevens' house.",
+    "The secret room in Eugene's house.",
+    "Inconsiderate dog walkers.",
+    "Clayton.",
+    "Speeding Teeenagers.",
+    "Chris McCue.",
+    "Stealing Fred's Winnebago.",
+    "$9500 of cocaine and a $500 prostitute.",
+    "Another shitty meme from Karen Smith.",
+    "$500 of cocaine and a $9500 prostitute."
+  ],
+  "pack": {
+    "id": "KF37J",
+    "name": "02052"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 32,
+    "total": 48
+  },
+  "dateStoredMs": 1589461299494
+}

@@ -1,0 +1,95 @@
+{
+  "black": [
+    {
+      "content": "Alexander Stubb is smiling because he's thinking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Finnish National Railway is implementing _ as a cost-cutting measure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Contrary to the popular belief, the winter war was actually won thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vodka, sisu, metal and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To save money, the Finnish National Railway is using _ as energy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never bring up _ in a Finnish Sauna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hottest new trend in Finland is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chaos ensued as the source of Finland Swedish 'superiority' was revealed to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finland's most lucrative international export is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason Nokia failed was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Secretly listening to Nightwish.",
+    "A horde of 12-year-olds hyper on store brand energy drink.",
+    "A half-melted Fazer Sininen.",
+    "Buying a Nokia Lumia out of solidarity even though you really want an iPhone.",
+    "Kekkonen Kekkonen Kekkonen Kekkonen.",
+    "Referring to your mother as 'it'.",
+    "Traditional foods that look like poop.",
+    "Burning down the sauna because you're drunk.",
+    "Experiencing a 'Hard Rock Hallelujah' flashback.",
+    "Passing out at the midsummer bonfire.",
+    "Refusing to be considered Eastern Europe.",
+    "Mindlessly quoting Putous lines that got old five years ago.",
+    "Foreigners wearing bathing suits in the sauna.",
+    "Alexander Stubb's deranged smile.",
+    "Preferring your dogs to your children.",
+    "Traditional foods that taste like poop.",
+    "Dying alone in the sauna because you're drunk.",
+    "Going to Estonia to stock up on cheap booze.",
+    "Simo Häyhä back from the dead.",
+    "Spending Christmas alone with your alcoholic mother.",
+    "A tear-soaked PMMP album.",
+    "Quoting Pasila at a funeral.",
+    "Crying at karaoke.",
+    "Drinking by yourself at home.",
+    "Salatut elämät.",
+    "A Phil Collins Hangover.",
+    "Another fucking winter war circlejerk.",
+    "A cheap and shitty Finland's Lion tattoo.",
+    "Not being allowed to buy alcohol after 9pm."
+  ],
+  "pack": {
+    "id": "6BE6V",
+    "name": "Little Finland Things"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 29,
+    "total": 39
+  },
+  "dateStoredMs": 1589574219263
+}

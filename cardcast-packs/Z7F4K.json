@@ -1,0 +1,173 @@
+{
+  "black": [
+    {
+      "content": "I demand to see _ 's birth certificate!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight _ is leading a revolt against the White House.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is running against _ in the next election. NOT AGAIN!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the end there were faults on many sides. Especially _ 's.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It doesn't matter how large your nuclear _ is!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So your telling me climate change doesn't exist? And _ is going to make it better!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WIII has officially been started all due to _ 's tweets!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has just entered in to the next Olympic Games.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump said _ in last night's midnight tweet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now no longer allowed in our country.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When did he say the wall would be built again? and _ is paying for it?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now planning  to run for president.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump has once again provoked _ on twitter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump did what!? With _ !?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Together, we will make _ great again! And lead a massive marketing campaign selling millions of hats!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HA! _ was caught colluding with Russia!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh look, Trump got a new wife: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ is absolutely HUGE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump is not mentaly fit to lead this country. I suggest _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump has left to play _ for the umpteenth time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite many attempts to pass _ , it still has not due to presidential stupidity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump Tower, compensating for Trump's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alright, I'll give you $130,000 and you don't mention _ , ever again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have the biggest _ , and the best _ , oh and don't forget how much _ I have!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Look! Its an Oompa Loompa! Oh... I mean _...",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Non-existant Wall.",
+    "The 2016 election.",
+    "Stormy Daniels.",
+    "Mike Pence.",
+    "Trumpy Bear.",
+    "Jared Kushner.",
+    "The Dossier.",
+    "9-11.",
+    "White Suppremacy.",
+    "7-11.",
+    "The Russian Collusion Investigation.",
+    "Golf.",
+    "The oompa loompas.",
+    "Hillary Clinton.",
+    "North Korea.",
+    "Ivanka Trump.",
+    "MAGA hats.",
+    "Republicans.",
+    "Melania Trump.",
+    "Gun Control.",
+    "The eventual end of the Earth as we know it due to climate change neglect.",
+    "America.",
+    "Impeachment.",
+    "Trump's wig.",
+    "The 2020 election.",
+    "Barack Obama.",
+    "Don Jr.",
+    "Vladimir Putin.",
+    "Sarah Huckabee Sanders.",
+    "Americans.",
+    "Democrats.",
+    "Eric Trump."
+  ],
+  "pack": {
+    "id": "Z7F4K",
+    "name": "Your a mean one, Mr. Trump"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 32,
+    "total": 57
+  },
+  "dateStoredMs": 1589569808187
+}

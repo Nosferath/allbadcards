@@ -1,0 +1,133 @@
+{
+  "black": [
+    {
+      "content": "COME WITH MEEEE... AND YOU WILL SEEEE... A TRUE WORLD OF PURE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im warning you!   Dont make me unleash the _ within me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who/what will you choose to bring with you on your next adventure?_ ,  _ , _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I don't know why, but _ and _ make a lovely couple.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You alone, _ are the chosen one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who/what will you choose to bring with you on your next adventure?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Living the _ life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just built my own ship, what shall i name it? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has joined the party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On this episode of Death Battle, we're putting _ up against _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "With _ by my side, im unstoppable!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sometimes pleasure myself to fanfictions of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who/what will you choose to bring with you on your next adventure?_ _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Crash Bandicoot.",
+    "Alduin. destroyer of worlds.",
+    "The Element of Fear (sound/spirits).",
+    "Malefore, the Dark Master.",
+    "The almighty sword, Draxcalibur!.",
+    "The Element of Water.",
+    "Terradore, the Elder Dragon of earth.",
+    "A Venomous Wyvern.",
+    "Flame the Dragon.",
+    "Hook Fang.",
+    "The Element of Cyber (space).",
+    "Kitsune.",
+    "The Element of Poison.",
+    "Neo Cortex.",
+    "Draco the Dragon.",
+    "Volteer, the Elder Dragon of lightning.",
+    "The Element of Ice.",
+    "Ignitus, the Elder Dragon of fire.",
+    "Dual katanas.",
+    "Durnehviir.",
+    "Toothless.",
+    "Sylvia the Dragon.",
+    "The Element of Wind.",
+    "Ember the Dragon.",
+    "Stormfly.",
+    "Mizutsune.",
+    "The God killer.",
+    "Flashwing.",
+    "A Wyvern.",
+    "The Element of Fury.",
+    "The Element of Shadow.",
+    "Ty the Tasmanian Tiger.",
+    "The Element of Fire.",
+    "Sparx.",
+    "Dragon.",
+    "Ender Dragon.",
+    "Vulthuryol.",
+    "E-Dog, the Human Hero.",
+    "Dragonborn.",
+    "Odahviing.",
+    "Winter Wyvern.",
+    "Whirlwind.",
+    "Mirror Draconis, the dragon.",
+    "Cynder the Dragon.",
+    "Volvagia, the lava dragon.",
+    "Hunter, the Cheetah.",
+    "Dragonfly.",
+    "The Element of Earth.",
+    "Ceril, the Elder Dragon of ice.",
+    "Spyro the Dragon.",
+    "Paarthurnax.",
+    "An Elementalist."
+  ],
+  "pack": {
+    "id": "NVQDN",
+    "name": "Dragon's Life"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 52,
+    "total": 65
+  },
+  "dateStoredMs": 1588209317460
+}

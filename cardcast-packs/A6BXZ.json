@@ -1,0 +1,105 @@
+{
+  "black": [
+    {
+      "content": "Living your purple means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I do last time I had a weed gummy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Martha's new role is to do _ with Jim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Travis's bong name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cloud accounting + _ works great!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Carole Baskin do to her husband? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last time Travis ripped the bong, _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You wouldn't believe it, Nicole found _ in a client's folder!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did George do this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Steve Malish really leave?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Mackenzie up to now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does Doug actually like Montreal?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you keep up with 'Kenzie? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nicole's cloud army.",
+    "The ITA.",
+    "Donna Diskos.",
+    "Finishing a bottle of wine in 40 minutes.",
+    "Remembering you didn't file that last return.",
+    "COVID-19.",
+    "Forcing your coworkers to attend a Zoom call.",
+    "#JPWatch2020.",
+    "Mark Iwanaka.",
+    "Taking a massive dump in your backyard.",
+    "Leon's salty nuts.",
+    "John Parker.",
+    "John Harris's loud shirts.",
+    "Martha Banner.",
+    "Donna's Chirstmas sweater.",
+    "Eike Hinz.",
+    "My Diane.",
+    "Clients sending you inapproprate files.",
+    "Lil Salty.",
+    "Michelle Tuuri.",
+    "Alex Lau.",
+    "John Harris.",
+    "A guy named George.",
+    "Paul Churchman."
+  ],
+  "pack": {
+    "id": "A6BXZ",
+    "name": "GT"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 24,
+    "total": 37
+  },
+  "dateStoredMs": 1589238879005
+}

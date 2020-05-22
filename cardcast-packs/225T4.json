@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "Fat teenagers love to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would be an emo's superpower? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"So what's your fetish?\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The girl scouts are really good at _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the school shooter do in his free time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"My girlfriend told me she's into _. It's fucking amazing!\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Today _ has been accused of _. More at six\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Hitler entered his bunker the first thing he saw was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"From the next big author! _ comes the best seller! _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Did you enjoy the movie?\" \"Nah I thought it was boring, personally I think _ is better\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The all new game from the company behind _ comes _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"After North Korea bombed the US all we are left is _\".",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Furry fanfiction.",
+    "A cat with Donald Trump's hair.",
+    "Ants that explode when stood on.",
+    "That weird kid in school that talks about horses.",
+    "Mein Kampf with twenty five swastikas engraved into the spine.",
+    "Razor blades with tiny ants painted on them.",
+    "Old rapey uncle Steve.",
+    "Gingers.",
+    "Nine year olds.",
+    "Visit kindergartens full of autistic toddlers.",
+    "Dora's succulent breasts.",
+    "Sugar daddies.",
+    "12 naked African children.",
+    "Dead Dad.",
+    "Dyscalculia and dyslexia rolled up into one big illiterate mess.",
+    "Autism x down syndrome: the ultimate war.",
+    "Furry orgy.",
+    "Osama bin laden's left testicle.",
+    "Getting caught masturbating with a dog toy, while the dog is playing with it.",
+    "Humongous collections of nugget child porn.",
+    "Fiery dragon dildo."
+  ],
+  "pack": {
+    "id": "225T4",
+    "name": "Connor's Catastrophic Card Collection"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 21,
+    "total": 33
+  },
+  "dateStoredMs": 1588453699805
+}

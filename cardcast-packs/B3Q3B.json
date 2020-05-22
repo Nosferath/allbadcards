@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "AFD=_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "B3Q3B",
+    "name": "German"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589325877762
+}

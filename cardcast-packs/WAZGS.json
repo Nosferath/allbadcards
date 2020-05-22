@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "I'm _ , the fastest _ alive.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Eddie while high on pain meds.",
+    "Pretending to be confined to a wheelchair when he really came from the future.",
+    "I can go fast. Like really fast.",
+    "Barry Allen, the fastest man alive."
+  ],
+  "pack": {
+    "id": "WAZGS",
+    "name": "Flash"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1588824514549
+}

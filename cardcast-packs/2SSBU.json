@@ -1,0 +1,637 @@
+{
+  "black": [
+    {
+      "content": "_: Bạn không thể thoát khỏi nó nếu không _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Khi bạn đi thi bạn cần phải đem theo _ và tránh đem theo _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Có hai thứ trên đời có thể phá hủy đi tình bạn: sự phản bội và _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vào mùa Tết, pháo bông và lì xì là những thứ mọi người có, đối với tôi thì có _ . Nó đã làm ấm _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Phải làm gì đây khi thấy người mình yêu đi lấy chồng? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em ơi, hãy cưới anh đi. Vì anh có _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chỉ có tiền thì không mua được tất cả chỉ có thêm _ mới mua được mọi thứ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uống _ nhớ _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mr.Đàm chia sẽ về tình yêu: \"Trong tình yêu, đôi bên phải biết nghĩ cho nhau, và cùng nghĩ về _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uống trà sữa sẽ khiến bạn _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Đường lên đại học thì xa … Đường ra ruộng lúa thì _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Khi ngã vào bồn axit, _ trở thành _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Trứng rán cần mỡ, bắp cần bơ, yêu kong cần cớ cần _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gái xưa chạm nhẹ bảo dê  Gái nay chạm nhẹ chưa _ anh à",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bạn ơi bạn đánh rơi _ kìa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Các bác sĩ khuyên cáo không nên _  trước bữa ăn để đảm bảo an toàn vệ sinh thực phẩm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nhờn với chó,  _ liếm mặt",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Và đến màn ảo thuật kế tiếp, tôi sẽ kéo _ ra khỏi _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bưởi rồi có ngày cũng sẽ thành mướp chỉ có _ là trường tồn mãi với thời gian.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Đôi khi, _ không phải là cách tốt nhất để an ủi một người nào đó ..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koala có một bộ não trơn bóng gần như không có nếp nhăn, tôi chợt nhận ra nó thật giống _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ đem niềm vui đến tất cả những đứa trẻ nhỏ.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trà sữa trân châu có _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Đây là triết lí xong của tôi. Đẹp , nóng bỏng và đầy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Để nấu món gà hầm , bạn cần _ và _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "B1: _ , B2: _ , B3: Hưởng thụ thành quả",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Giới trẻ ngày nay! Họ quan tâm điều gì nhất? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thành công trong một buổi phỏng vấn là bắt đầu bằng một cái bắt tay và kết thúc bằng _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Các bác sĩ khuyến cáo nên _ trước bữa ăn để đảm bảo vệ sinh an toàn thực phẩm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Đập tay nào người anh em.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chuyến đi dã ngoại của lớp đã bị phá hủy hoàn toàn bởi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Đây là nhà tắm, đây là cái bồn tắm. Mở vòi ra và _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Khả năng bẩm sinh của những đứa thần kinh là làm cho những người thông minh phải _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vừa _ trong phòng vệ sinh mệt gần chết nhưng đáng cơm tiền bát gạo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nếu yêu nhau là do duyên số, thì lấy nhau là do _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bảo vệ hãng máy bay hiện giờ đã cấm _ trên mọi chuyến bay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Đây là anh C. Anh C đi dự tiệc và uống quá chén. Anh đã tỉnh dậy với _ trong vòng tay. Vì vậy, hãy uống có trách nhiệm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lời khuyên #2: Lần đầu tiên gặp mặt người ấy là cơ hội tốt nhất để _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Giang hồ đẫm máu anh không sợ, anh sợ nhất trên đường về thấy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sở thích tội lỗi của tôi là gì? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em thật là xin lỗi Giáo Sư hôi nách, nhưng em không thể hoàn thành bài tập về nhà bởi vì _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O tròn như_ Ô thì _ Em thì _  anh",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nắng đã có mưa , Mây đã có _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tiền thì không có nhưng càng _ càng thèm _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Khi mà xe hết xăng bạn phải _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trái tim chỉ mở cửa 2 lần đón anh vào và  _ anh ra",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hôm qua tôi nhìn thấy _ và tôi nhận ra là tôi phải  _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yêu là phải nói. Cũng như đói là phải_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Học hành như cá kho tiêu Kho nhiều thì mặn học nhiều thì _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Người ta tin rằng ông già Noel tặng những đứa trẻ ngoan cây kẹo và những đứa trẻ hư _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ông bà ta có câu: cá không ăn muối thì chỉ có ăn _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuộc sống là vô vàn những lo toan. Tại sao không bắt đầu ngày mới bằng _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chim cánh cụt là _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bạn ơi, đừng uống nhiều trà sữa, bạn sẽ bị _ đấy",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trứng rán cần _ , Bắp cần _  ,  Yêu không cần cớ , Cần _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Có vấn đề với _ ? Vậy hãy thử _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Khoa học không bao giờ giải thích _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trong lúc \"quan hợp\", điều đầu tiên tôi nghĩ đến là _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Đó là cách tôi đã chết.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Làm thơ haiku. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\" Hãng Hàng Không Quốc Tế xin nhắc lại, xin quý khách vui lòng không đem _ lên phi cơ, xin cảm ơn\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cái mùi gì thế? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tôi thà ăn cứt còn hơn là phải _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Một với một là hai, hai với hai là _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Điều gì đã kết thúc mối quan hệ của tôi? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gấu xấu thì sợ bạn chê Gấu đẹp thì sợ bạn _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tôi uống để quên đi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ở bên anh em bình yên đến lạ. Xa anh, em thấy lạ nhưng cũng thấy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lúc huy hoàng chỉ có tôi và bạn. Lúc hoạn nạn chỉ có _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boku No Pico, là một trong những chương trình đã khiến tôi  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Một trong những món khoái khẩu mà mẹ tôi nấu cho tôi, đó chính là _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Xin hân hạnh giới thiệu chương trình _ câu chuyện của _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tôi có một chính sách rõ ràng. Bữa hẹn thứ nhất, đãi bữa tối, Bữa thứ hai, hôn. Bữa thứ ba, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Trị biếng ăn, mất ngủ, hoàn toàn tự nhiên, an toàn cho sức khỏe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Có thể cô ấy sinh bị vậy ấy. Có thể là.... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vào nhà em thì đi đường Láng, vào trong háng thì đi _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "South là hướng _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nếu em là thuốc phiện thì anh nguyện là _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cá voi xanh là loài động vật lớn nhất thế giới hiện đang tồn tại nhưng vẫn xếp sau _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bạn thân của một người con gái là? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con yêu à, ba và mẹ đều yêu con rất rất nhiều. Nhưng có vẻ như mẹ con yêu _ hơn ba nhiều.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ỉa trong cái tô đựng kem.",
+    "Sự ức chế tình dục.",
+    "Phụ kiện One Direction.",
+    "Phụ huynh đã chết.",
+    "Admin.",
+    "A Trap.",
+    "Nước Calm.",
+    "Đầu quân khủng bộ.",
+    "Nhận nuôi.",
+    "Conan.",
+    "Liếm.",
+    "Điện thoại bao nhiêu pin rồi.",
+    "Đứa trẻ sơ sinh.",
+    "Tiêu chảy.",
+    "Khá Bảnh.",
+    "Nước tẩy.",
+    "Đang không mặc quần.",
+    "Vệ sinh cá nhân.",
+    "Bàn tay vô hình.",
+    "Hiện tượng lạ.",
+    "Doraemon.",
+    "Thanh tẩy.",
+    "Thể loại bạo dâm.",
+    "Ai khóc nỗi đau này.",
+    "Ăn roi.",
+    "Đụ.",
+    "Album nhạc của Justin Bieber.",
+    "Phi tang.",
+    "Bumblebee.",
+    "Tiệc xúc xích.",
+    "Wheat.",
+    "Bệnh ỉa trong quần.",
+    "Bắt tay.",
+    "Áo chống đạn.",
+    "Hôm nay có tin gì mới nhỉ?.",
+    "John Cena.",
+    "Barack Obama.",
+    "Cuộc sống tình dục.",
+    "Cánh cụt.",
+    "Vô sổ đầu bài.",
+    "Ba của tôi.",
+    "Finn cưỡi trên thân Jack và địt ra cầu vòng 24 sắc màu.",
+    "Tét mông.",
+    "Ỉa.",
+    "Liếm viền toilet.",
+    "Ấy.",
+    "Đóng dấu lên người.",
+    "Bill Nye, một gã khoa học gangsta.",
+    "Việc làm.",
+    "Tiểu.",
+    "Chụp ảnh up FB với status chửi xối xả.",
+    "Đốt phường.",
+    "Giọng trầm, manly như Saniku.",
+    "Huấn hoa hồng.",
+    "Annabelle.",
+    "Bán linh hồn cho quỷ dữ.",
+    "Thịt.",
+    "Hội người cao tuổi.",
+    "Cờ cá ngựa.",
+    "Pikachu.",
+    "Sunsilk.",
+    "Chăm chỉ.",
+    "Trĩ ngoại.",
+    "Mẹ của tôi.",
+    "Ông hàng xóm.",
+    "Bánh mì.",
+    "Bác sĩ nha khoa.",
+    "Ciu nhỏ.",
+    "Đông.",
+    "Mì gói omachi.",
+    "Cầu nguyện.",
+    "Có gàu.",
+    "Ngày bị hiếp.",
+    "Cười ỉa.",
+    "Quả cam.",
+    "Simps.",
+    "Làm trơn.",
+    "Bao quy đầu.",
+    "Butterfly.",
+    "Dio.",
+    "Shinichi.",
+    "Faker.",
+    "Gay.",
+    "Bệnh kiết lỵ.",
+    "Vàng.",
+    "Âm đạo dẫn đến một thế giới khác.",
+    "Đàn.",
+    "Nước rửa tay.",
+    "Ricardo Milos.",
+    "Toy Story.",
+    "Trĩ nội.",
+    "Bày tỏ quan ngại sâu sắc.",
+    "Sun.",
+    "Xúc Xích.",
+    "Pikachu.",
+    "Buôn người.",
+    "Streamer.",
+    "Cứt mũi.",
+    "Đơn ly hôn.",
+    "Gặp nhau.",
+    "Cứt.",
+    "Việc làm.",
+    "Cháy mông.",
+    "Cài đặt.",
+    "Exciter.",
+    "Gây quỹ.",
+    "Minecraft.",
+    "Ô an quan.",
+    "Người Sao Hõa đồng tính.",
+    "Sờ.",
+    "Cởi truồng chạy ngoài ngõ.",
+    "Jotaro.",
+    "Bể giọng.",
+    "Tay vào lỗ đít.",
+    "Vinamilk.",
+    "Đón đêm Giáng Sinh.",
+    "Cho bạn biết tôi là một tội phạm tình dục.",
+    "Trái chuối.",
+    "Học tập và noi gương theo lãnh đạo Hồ Chí Minh.",
+    "Cây nến.",
+    "Ói.",
+    "Máy bay.",
+    "Động vật có ciu.",
+    "Naruto.",
+    "Estrogen.",
+    "Liêm sỉ.",
+    "Bị bệnh trĩ.",
+    "Kenny Sang.",
+    "Nói dối.",
+    "Trần Dần.",
+    "Cái muỗng.",
+    "Tiểu ra máu.",
+    "Cuốn sách.",
+    "Đứng đường.",
+    "Có tóc.",
+    "Sở thú.",
+    "Mai Thúy.",
+    "Bao cao su.",
+    "Đứa trẻ với bệnh ung thư mông.",
+    "Chị của tôi.",
+    "Đấu kiếm.",
+    "Danh sách những tội bị cáo buộc.",
+    "Gordan Ramsay.",
+    "Viên vương miện 500k.",
+    "Mỡ.",
+    "Ciu.",
+    "Nổi mụn.",
+    "Viagra.",
+    "Làm lon ken cho đỡ sợ.",
+    "Oreo.",
+    "Hít bột mì gói.",
+    "Ống hút.",
+    "Cớ.",
+    "Thổi kèn.",
+    "Ăn mì.",
+    "Thông.",
+    "Khô mông.",
+    "Lá bùa.",
+    "Kiểm soát.",
+    "Sốt cà ba cô gái.",
+    "Kim Kardashian.",
+    "Sủi Cảo ( bằng chíu ).",
+    "Thủ dâm.",
+    "Khẩu trang.",
+    "Xếp hình lãng mạn.",
+    "Có lỗ đít.",
+    "Hôi vùng kín.",
+    "Cắn.",
+    "Béo phì.",
+    "Đảng và nhà nước.",
+    "Làm rớt kem ra người.",
+    "Hiếp.",
+    "Tik Tok.",
+    "Hít keo.",
+    "Dầu ăn.",
+    "Thiểu năng trí tuệ.",
+    "Bơ.",
+    "Dracula.",
+    "Múa cột.",
+    "Chém.",
+    "Thịt giâm bông.",
+    "Hít keo.",
+    "Che giấu.",
+    "Chơi game.",
+    "Xì hơi.",
+    "Ca hát.",
+    "Hí như ngựa.",
+    "Pokemon.",
+    "Hôi nách.",
+    "Múa Quạt.",
+    "Card điện thoại.",
+    "Có tay.",
+    "Ăn hành.",
+    "Bộ sưu tầm 500 lá bài Pokemon hiếm nhất thế giới.",
+    "Quỳ.",
+    "Thẻo.",
+    "Oách chết à nha.",
+    "Cặp đùi lực lưỡng.",
+    "League Of Legends.",
+    "Boku No Pico.",
+    "Một vụ nổ.",
+    "Bị vọng nhập.",
+    "Iphone.",
+    "Một cái túi đầy hạt đậu thần.",
+    "Trao con đi.",
+    "Công chúa bong bóng.",
+    "Đứa con vô dụng.",
+    "Ăn shit.",
+    "Dildo.",
+    "Bỏ con đi.",
+    "Con chó con.",
+    "Panda sex.",
+    "Cớm là một con chó.",
+    "Sinh con.",
+    "Con mèo.",
+    "Lỗi lầm trong việc quyết định con đường đời."
+  ],
+  "pack": {
+    "id": "2SSBU",
+    "name": "Vietnamese"
+  },
+  "quantity": {
+    "black": 81,
+    "white": 216,
+    "total": 297
+  },
+  "dateStoredMs": 1589073564383
+}

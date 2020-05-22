@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "If two black guys get married what one is supposed to abandon the family?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the worst person to be trapped on Alcatraz Island with.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the  best way to keep a black family out of your neighborhood.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Flex Tape guy.",
+    "The Sash-Ringing, the Trash-Singing, Mash-Flinging, The Flash-Springing, Ringing, Hash Slinging Slasher!.",
+    "The Green Teabagger."
+  ],
+  "pack": {
+    "id": "YB334",
+    "name": "Terrible fucked up shit."
+  },
+  "quantity": {
+    "black": 3,
+    "white": 3,
+    "total": 6
+  },
+  "dateStoredMs": 1589397315376
+}

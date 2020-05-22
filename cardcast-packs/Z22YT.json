@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "\"What should I say when I'm happy?\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I have feelings for _. I've got to tell him/her!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My island is called \"_ Island.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I want to propose to _. Do you think I should?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I want to be friends with _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I had a fight with _. I'm so upset!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mii's new catchphrase is \"_ _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ and I had a huge fight that wasn't my fault at all. I'm so mad!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What should I say when I'm mad?\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I gave my mii a song about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hey, wanna hear my impression of _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What should I say when I'm worried?\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What should I say when I'm sad?\" _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "Z22YT",
+    "name": "Tomodachi Life"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 0,
+    "total": 13
+  },
+  "dateStoredMs": 1589426776523
+}

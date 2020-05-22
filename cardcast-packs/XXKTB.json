@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "Dare to dream, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before hate prevails, remember to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a big _ fan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our song is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Europe will _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hatrið mun sigra.",
+    "Biðröð Mistaka.",
+    "Klámstrákur.",
+    "HÖH.",
+    "SodaDream.",
+    "Klemens Nikulásson Hannigan.",
+    "Einar Hrafn Stefánsson.",
+    "Matthías' sweater.",
+    "X.",
+    "Red haired Klemens.",
+    "Relentless Scam, Inc.",
+    "Matthías Tryggvi Haraldsson.",
+    "Dystopia.",
+    "Yell in Icelandic.",
+    "Weird fangirls shipping Matthías and Klemens.",
+    "Capitalism.",
+    "End capitalism.",
+    "Andrean waving the rainbow flag."
+  ],
+  "pack": {
+    "id": "XXKTB",
+    "name": "Hatari"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 18,
+    "total": 23
+  },
+  "dateStoredMs": 1588980354785
+}

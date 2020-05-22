@@ -1,0 +1,85 @@
+{
+  "black": [
+    {
+      "content": "Tenzin and Pema named their fourth child _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Four Elements: _, _, _, and air.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The Fire Lord began _ during his time in prison.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Katara and Aang went _ on their honeymoon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is underneath Amon's mask.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kuvira's latest plan involved taking control of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Korra and Asami went to _ for their first date.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aang was surprised to discover he could bend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I could bend anything, it would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ship Korra with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Zuko regain his honor? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lin Bei Fong's panties.",
+    "Zuko's honor.",
+    "Fire.",
+    "ASSami.",
+    "Air.",
+    "Metal.",
+    "Blood.",
+    "Zutara.",
+    "Water.",
+    "Katang.",
+    "Firebending your food to cook it.",
+    "Korrasami.",
+    "Earth.",
+    "The Melon Lord."
+  ],
+  "pack": {
+    "id": "Zk6fe",
+    "name": "Avatars Against Humanity"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 14,
+    "total": 25
+  },
+  "dateStoredMs": 1588981904273
+}

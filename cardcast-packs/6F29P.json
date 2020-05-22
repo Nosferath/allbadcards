@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "Litwo, Ojczyzno moja, ile Cię cenić trzeba ten tylko się dowie, gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepiej podsumowującym cytatem wypowiedzianym na pogrzebie zawsze jest \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stworzyłeś nową skórkę do CSa, która ma wzór _ i nazywa się _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Uczucie kiedy myślisz że to motylki w brzuchu, kiedy nagle puszczasz mokrego bąka.",
+    "Martwi rodzice.",
+    "Nie wiedziałem że ma 8 lat.",
+    "AWP | Penetrator.",
+    "Masturbowanie się do zdjęć 14-letniej dziewczynki.",
+    "Kupujcie moje koszulki.",
+    "Iphone 6.",
+    "Nagie zdjęcia babci Osamy Bin Ladena."
+  ],
+  "pack": {
+    "id": "6F29P",
+    "name": "Addition to Polish Translation"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 8,
+    "total": 11
+  },
+  "dateStoredMs": 1588607420493
+}

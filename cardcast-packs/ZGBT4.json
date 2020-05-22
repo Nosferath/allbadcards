@@ -1,0 +1,195 @@
+{
+  "black": [
+    {
+      "content": "Nine-Tailed Fox? More like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Wondertainment's new product: _™",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I put _ in 914.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the real SCP-001.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ deserves a disciplinary hearing with the Ethics Committee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ broke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ touched 113 and liked it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that alarm for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is actually Thaumiel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sky above the port was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has entered the facility.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grand Karcist _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Should _ arm again _ to plague us?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ has breached containment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will 500 fix my _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just set fire to MC&D's whole stock of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is Fifthist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ by dado",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To know the nature of _ is to know the nature of the Foundation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O5-1: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Object Class: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Builder of the Broken God",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I put _ in the femur breaker.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dr. Bright.",
+    "The bodies in the water.",
+    "FIFTH FIFTH FIFTH FIFTH FIFTH.",
+    "SCP-096.",
+    "The real SCP-001.",
+    "Allison Eckhart.",
+    "Yaldabaoth.",
+    "Apollyon.",
+    "SCP-3000.",
+    "SCP-1609.",
+    "The Ethics Committee.",
+    "SCP-106.",
+    "Grand Karcist Ion.",
+    "Legate Trunnion.",
+    "The GOC.",
+    "Robert Bumaro.",
+    "The entire Ouroboros Cycle.",
+    "@TheRealDrBright.",
+    "Coldposting.",
+    "The Administrator.",
+    "Andrey Duksin.",
+    "SCP-999.",
+    "Radical Larry.",
+    "Dr. Glass.",
+    "End of Death.",
+    "The Broken Church.",
+    "Dr. Clef.",
+    "SCP-113.",
+    "Fifty Class-Ds.",
+    "Every SCP Tumblr page.",
+    "Agent Kondraki.",
+    "Dr. Gears.",
+    "MTF Epsilon-11.",
+    "SCP-173.",
+    "SCP-882.",
+    "All of Site-19.",
+    "2000 Pattern Screamers.",
+    "Researcher Talloran.",
+    "MEKHANE.",
+    "Class-F amnestics.",
+    "Dr. Dan.",
+    "MTF Tau-5.",
+    "Dr. Gerald.",
+    "An XK-class end-of-the-world scenario.",
+    "Dr. Kondraki.",
+    "R/thechurchofpeanut.",
+    "The Foundation.",
+    "Site-42.",
+    "Klavigar Lovataar.",
+    "Marshall, Carter, and Dark.",
+    "Youth in asia pill.",
+    "Super Keter.",
+    "Agent Strelnikov.",
+    "The O5 Council.",
+    "R/SCP.",
+    "Josie the Half-Cat.",
+    "SCP-000.",
+    "Crippling 1004 addiction.",
+    "The Children.",
+    "GRU Division P.",
+    "St. Hedwig.",
+    "Yet another esoteric class.",
+    "Red Right Hand.",
+    "The Sarkics."
+  ],
+  "pack": {
+    "id": "ZGBT4",
+    "name": "SCP but Funny"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 64,
+    "total": 87
+  },
+  "dateStoredMs": 1589142125702
+}

@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "\tThat's no moon; it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tThe ability to destroy a planet is insignificant next to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWhen I added these smuggling compartments, I never thought I'd be smuggling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's scruffy looking? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWhat is the Force? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tHokey religions and ancient weapons are no match for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\t_? _? A Jedi craves not these things.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\tTK-421, why aren't you at your post? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWhat is thy bidding, my master? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tChewbacca's barber.",
+    "\tAnakin in the prequels.",
+    "\tComing home to find the charred remains of your aunt and uncle.",
+    "\tPrincess Leia's boob tape.",
+    "\tLando's sweet 'stache.",
+    "\tTraveling in single file to hide your numbers.",
+    "\tSad devotion to an ancient religion.",
+    "\tUtini!.",
+    "\tThe Cantina Band.",
+    "\tMoisture farmers.",
+    "\tA majestic score by John Williams.",
+    "\tFerocious, spear-wiedling teddy bears.",
+    "\tThe rebellious clone.",
+    "\tThe Yub Nub Song.",
+    "\tAnother special edition.",
+    "\tA small thernmal exhaust port only tow meters wide.",
+    "\tThe contractors on the second Death Star.",
+    "\tPutting your hood up and pretending you're a Jedi.",
+    "\tThe toxic, plastic smell of burning Vader.",
+    "\tMidi-fucking-chlorians.",
+    "\tGoing to Tosche Station to pick up some pwoer converters.",
+    "\tBefore the dark times, before the Empire.",
+    "\tChewbacca not getting a medal.",
+    "\tThe Kessel Run.",
+    "A more wretcvhed hive of scum and vollainy.",
+    "\tFeeding unruly servants to your pet monster.",
+    "\tA long time ago in a galaxy far, far away....",
+    "\tThe droids you're looking fore.",
+    "\tThe Jedi Code."
+  ],
+  "pack": {
+    "id": "QN5YD",
+    "name": "Nerds Against Humanity / Star Wars"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 29,
+    "total": 38
+  },
+  "dateStoredMs": 1588616199731
+}

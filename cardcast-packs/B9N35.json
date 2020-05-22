@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "\"Azért nincs barátnőd mert _  vagy!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Buzi vagy."
+  ],
+  "pack": {
+    "id": "B9N35",
+    "name": "LOOOOOOOL"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589227109775
+}

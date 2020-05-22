@@ -1,0 +1,427 @@
+{
+  "black": [
+    {
+      "content": "Tom is good, but he's not _ good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I called _ first in champ select!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instalok's new parody is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Xpecial get benched from TSM? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest champion is just another version of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ takes no skill, it's just an insta-win.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "League could be way better if only it had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Riot updated _'s Recommended Items to include _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "League is a way better game than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that Riot is going to make a new game called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was walking to lane, when suddenly _ jumped out at me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ OP rito plz nerf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only Bronze scrubs would have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why I hate League.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes me want to uninstall.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have 256 GB of _ on my hard drive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Triple kill! Quadra kill! _ kill!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raise your _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the Teemo say? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BENCH ALL THE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do top laners hate most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MOBA stands for Multiplayer Online _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is not meta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do junglers hate most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone is hyped for CLG's new \"_\" lane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Phreak like? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keyori's next video features _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has never happened in the history of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "According to LoLKing, _ is popular again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look! SaintVicious is _ again!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll never get out of Silver unless I have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I lost 75 LP in one night all because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Riot has stopped making League of Legends to start working on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why I love League.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do supports hate most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? TSM's new jungler is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We will never get tired of Phreak's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blakinola just put out a new video: \"TL;DR _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do mid laners hate most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TSM is rebranding; their new name will be Team _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No matter who is playing, the crowd is always chanting \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the League of Legends Championship _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "LMQ's new lineup is looking like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the Koreans are using _ in the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Froggen should have picked _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Riot has starting using all these fancy new buzzwords, like \"_\" and \"_\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "CLG got another fine, this time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's a one trick pony. He only plays _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think the server's down! _ isn't working any more!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do ADC mains hate most? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The argument over whether _ goes on D or F continues.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish you could use the 475 starting gold to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Team Curse: Forever _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the pros are using the new \"_\" strategy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The OGN was fun, but there was far too much _ cosplay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next year, _ will win Worlds.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dunkey's next video features _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bot lane.",
+    "3 year taunt.",
+    "NA region.",
+    "Hai's collapsed lung.",
+    "Cloud 9.",
+    "Wards.",
+    "Scuttle Crab.",
+    "Kappa.",
+    "Teemo.",
+    "Pathing issues.",
+    "Naked Singed proxy-farming your lane.",
+    "Koreans.",
+    "Taking the second and third blue buff.",
+    "Dr. Mundo going where he pleases.",
+    "Jinx, the Loose Cannon.",
+    "Going ham but ending up a salty salami.",
+    "Twitch chat.",
+    "Dongers.",
+    "Bad positioning.",
+    "Shipping your favorite champions.",
+    "A Mejai's with 20 stacks.",
+    "Dyrus.",
+    "Yasuo's win rate.",
+    "An Infinity Edge.",
+    "Red buff.",
+    "3 year fear.",
+    "Mobi boots.",
+    "Kunai with Chain.",
+    "Amumu, the Sad Mummy.",
+    "Throwing at Baron.",
+    "Reginald.",
+    "Flash.",
+    "6 rods of ages.",
+    "Lee Sin, the Blind Monk.",
+    "My 6.3 KDA ratio.",
+    "Morgana, the Fallen Angel.",
+    "Filthy casuals.",
+    "Blakinola.",
+    "Frozen Heart Ashe.",
+    "Bits of Teemo splattered across the Rift.",
+    "A tanky Nidalee.",
+    "Wukong, the Monkey King.",
+    "A nerfed Irelia.",
+    "Reenacting 9/11 as Corki by suiciding into towers.",
+    "Yorick Ult on Anivia Egg.",
+    "A Mejai's with 0 stacks.",
+    "The enemy Nexus.",
+    "Phreak staring at you and never blinking.",
+    "Super Mega Death Rocket.",
+    "Annie, the Dark Child.",
+    "Dominion Draft Pick.",
+    "Ignite.",
+    "Stone brothers (aka Krugs).",
+    "Strategic diversity.",
+    "Inhibitors.",
+    "Draaaaaven.",
+    "Faker senpai.",
+    "XPEKE!!!!.",
+    "PUNS OF DAMAGE.",
+    "TheOddOne.",
+    "Wildturtle's vast range of emotions.",
+    "DotA 2.",
+    "WOMBO COMBO.",
+    "Oracle's Elixir.",
+    "Dunkey naked in your room.",
+    "Ranked games.",
+    "The Bloodthrister.",
+    "Missing Smite.",
+    "LoL Rule 34.",
+    "Mundo shoe shop.",
+    "Clairvoyance.",
+    "A fully stacked tear.",
+    "Doublelift being cocky.",
+    "HotshotGG.",
+    "Sona, Maven of the Strings.",
+    "A failed surrender vote.",
+    "Imaqtpie.",
+    "Because Froggen did it.",
+    "4v5.",
+    "MonteCristo's Korean hype train.",
+    "Team Solo Mid.",
+    "PENTAFAIL!.",
+    "Baron pit.",
+    "More skins plz.",
+    "Failed Flashes.",
+    "Ezreal x Taric fanfic.",
+    "5 stacks of Dragon.",
+    "Trinity Force.",
+    "Bot games.",
+    "Not jungling.",
+    "Top lane.",
+    "Proxy farming.",
+    "Roster swaps.",
+    "Tons of damage.",
+    "Sp4zie.",
+    "End game fantasy.",
+    "EU region.",
+    "Blue buff.",
+    "Blitzcrank's Power Fist.",
+    "Rally Revive Jungle Soraka.",
+    "Getting caught out again.",
+    "Ultra Rapid Fire mode.",
+    "Ragers.",
+    "KR region.",
+    "The jungle.",
+    "Mid lane.",
+    "Montecristo.",
+    "Korean casters just shouting the names of abilities.",
+    "Smurf accounts.",
+    "Challenger tier.",
+    "Wood 5.",
+    "3 year snare.",
+    "Bad TP plays.",
+    "Nami, the Tidecaller.",
+    "Leona, the Radiant Dawn.",
+    "Blukong.",
+    "\"Okay\".",
+    "Blade of the Ruined King.",
+    "#LCSBIGPLAYS.",
+    "Dragon pit.",
+    "Trick2G disrespecting again.",
+    "Dunkmaster Darius.",
+    "Vel'Koz tentacle porn.",
+    "Sona's tits.",
+    "Solo Queue.",
+    "Fucking tryhard."
+  ],
+  "pack": {
+    "id": "QH2WA",
+    "name": "Cards against Summoners"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 126,
+    "total": 183
+  },
+  "dateStoredMs": 1588855020448
+}

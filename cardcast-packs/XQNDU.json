@@ -1,0 +1,171 @@
+{
+  "black": [
+    {
+      "content": "I left the hospital with nothing but my greens and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chief started pretending to be deaf and dumb because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ I can handle, but _? Inexcusable.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chief never liked the black boys until _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The townspeople want the tribe destroyed because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We ain't Indians! We're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have 99 problems, but _ isn't one of them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The efforts to destroy Native American culture is being led by the US Department of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bromden's father finally sold the tribe's land, but the government would only pay them in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nurse Ratched's secret identity is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These Indians are insane, they're hanging _ in trees!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The US Department Of Interior wants to destroy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chief has received over 200 shock treatments because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "White people like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looking for Chief? Look no further than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got marginalized at the Oregon State Hospital and all I got was this stupid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "McMurphy made Chief big again with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We go together like _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's your Vanishing American: _. That, my friends, is what we can be threatened with.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ken Kesey's new novel, \"One Flew Over The _ 's Nest\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chief's father drinks because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For their second act, the black boys will pull _ out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He's an Indian and he beat six white men to death with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here lies McMurphy, killed by the hand of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I were in charge of the ward, I would outlaw _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Drinking yourself goofy.",
+    "Dumb.",
+    "Nurse Ratched.",
+    "Salmon.",
+    "Tingle Tingle Tangle Toes.",
+    "Chief Bromden.",
+    "Native Americans.",
+    "Muskrat hides.",
+    "Being marginalized.",
+    "Black boys.",
+    "Dale Harding.",
+    "Racism.",
+    "Fishing.",
+    "Marrying a white woman.",
+    "Hanging a body in a tree.",
+    "Martini.",
+    "Billy Bibbit.",
+    "Randle McMurphy.",
+    "Getting sent to Disturbed.",
+    "A crippling alcohol addiction.",
+    "Pretending to be a wrestler.",
+    "A deaf and dumb Indian.",
+    "Beating up a guy and cutting his hair.",
+    "The reservation.",
+    "Deaf.",
+    "Drinking yourself to death.",
+    "Tough, mean looking Indians.",
+    "Snake eyes.",
+    "White people.",
+    "Systematic inequality."
+  ],
+  "pack": {
+    "id": "XQNDU",
+    "name": "One Flew Over The  Cuckoo's Nest"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 30,
+    "total": 55
+  },
+  "dateStoredMs": 1589277059695
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "_ this.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Smash."
+  ],
+  "pack": {
+    "id": "JP3WN",
+    "name": "Boku No Hero Academia"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588833817183
+}

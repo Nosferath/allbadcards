@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "My death will be caused by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Emily's tattoos.",
+    "The way Emily looks at JJ.",
+    "Jennifer Jareau.",
+    "Ian Doyle.",
+    "Jemily.",
+    "Emily Prentiss.",
+    "Blackbird."
+  ],
+  "pack": {
+    "id": "28XJN",
+    "name": "Criminal Minds Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 7,
+    "total": 8
+  },
+  "dateStoredMs": 1588555168387
+}

@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "W domu Smolara znalazłem_. Było to dla mnie szokujące gdy zobaczyłem_",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Jedziemy panowie.",
+    "Nie nie a a.",
+    "Chuj i tak nie wiem.",
+    "Yyy kurwa 8.",
+    "Robert.",
+    "Tato miałeś być w pracy.",
+    "Tu kurwa tu."
+  ],
+  "pack": {
+    "id": "K27E8",
+    "name": "hehe"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 7,
+    "total": 8
+  },
+  "dateStoredMs": 1588968427181
+}

@@ -1,0 +1,785 @@
+{
+  "black": [
+    {
+      "content": "My fellow Americans: Before this decade is out, we will have _ on the moon!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lifetime® presents _: the Story of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, permitted after midnight.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going on a cleanse this week. Nothing but kale juice and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Michael Jackson's final moments, he thought about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's how I want to die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But before I kill you, Mr. Bond, I must show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A successful job interview begins with a firm handshake and ends with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sugar and spice, all things nice, that's what _ is made of.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In an attempt to reach a wider audience, the National Museum of Australia has opened an interactive exhibit on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his new summer comedy, Rob Schneider is _ trapped in the body of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bad idea: _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on Sky Sports: The World Championship of ___.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "__! I choose you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Channel 9 is pleased to present its new variety show, \"Hey Hey It's _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I learned the hard way that you can't cheer up a grieving friend with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Belmarsh Prison, word is you can trade 200 cigarettes for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That was so metal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in the public pool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A recent laboratory study shows that undergraduates have 50% less sex after being exposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems but _ ain't one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life for Aboriginal people was forever changed when the white man introduced them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anthropologists have recently discovered a primitive tribe that worships _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In 1,000 years, when paper money is but a distant memory, _ will be our currency.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the reason I can't maintain an erection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Act now, and you will receieve _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life for American Indians was forever changed when the White Man introduced them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lifetime® presents \"_: the Story of _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na-na na-na na-na na-na na-na na-na na-na na-na _-man!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, Sir, but I couldn't complete my homework because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing X-Treme Baseball! It's like baseball, but with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Channel 4 presents _, the story of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "iTunes®: Currently playing __.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CBC presents \"_: the Story of _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In her latest feature-length film, Tracy Beaker struggles with _ for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just saw this upsetting video! Please retweet!! #stop_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Military historians remember Alexander the Great for his brilliant use of _ against the Persians.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his new self-produced album, Kanye West raps over the sounds of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on ESPN2: The World Series of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My presidential campaign core value are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ can help keep a relationship.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brought to you by XXXX Gold, the Official Beer of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check me out, yo! I call this dance move \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would be woefully incomplete without _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It’s a pity that kids these days are all getting involved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bravo's new reality show features eight washed-up celebrities living with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Air Canada guidelines now prohibit _ on airplanes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick! To the _-mobile!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Hurricane Katrina, Sean Penn brought _ to the people of New Orleans.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Jim'll fix it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As the mom of five rambunctious boys, I'm no stranger to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Once you pop, the fun don't stop!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After months of practice with _, I think I’m finally ready for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do a _-roll!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brought to you by Bud Light®, the Official Beer of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of coal, Santa now gives the bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I could take one thing on a desert island, it would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the new scent from __.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. High five, bro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maybe she's born with it. Maybe it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A romantic candlelit dinner would be incomplete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Australia, _ is twice as big and twice as deadly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MTV's new reality show features eight washed-up celebrities living with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish I hadn't lost the instruction manual for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mate, do not go in that toilet. There's _ in there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Wormwood Scrubs, word is you can trade 200 cigarettes for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom freaked out when she looked at my browser history and found _.com/_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Channel 5's new reality show features eight washed-up celebrities living with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: kid-tested, mother-approved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "__ and _ make a complete breakfast.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is my canvas, _ is my muse.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Airport security guidelines now prohibit _ on airplanes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "50% of all marriages end in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Awesome in theory, kind of a mess in practice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Duck, duck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nathan is not online a _ but a real _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After Hurricane Katrina, Sean Penn brought _ to all the people of New Orleans.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spent my whole life working toward _, only to have it ruined by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Charades was ruined for me forever when my mom had to act out _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ask your doctor about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brought to you by Molson Canadian, the Official Beer of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a world ravaged by _, our only solace is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm Lebron James, and when I'm not slamming dunks, I love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Good idea: __",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the amazing superhero/sidekick duo! It's _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stop in the name of __.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan for world domination begins with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A romantic, candlelit dinner would be incomplete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lovin’ you is easy ’cause you’re _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A remarkable new study has shown that chimps have evolved their own primitive version of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Betcha can't have just one!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kneel before me! For I am the god of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of coal, Father Christmas now gives the bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "IF you like _, YOU MIGHT BE A REDNECK.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry to inform, but your child has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: kid tested, mother approved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the new buddy cop movie starring, _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Life was difficult for cavemen before _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never truly understood _ until I encountered _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mate, do not go in that bathroom. There's _ in there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One _ to rule them all!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kids, I don't need drugs to get high. I'm high on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on Nine's Wide World of Sports: The World Championship of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm no doctor, but I'm pretty sure what you're suffering from is called \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get by with a little help from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the BAFTA for _ goes to _. ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Men's Wearhouse: You're gonna like _. I guarantee it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keep out of reach of children. May cause _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Two guys, a girl, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ABC presents: \"_\": The Story of\" _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Reddit! I'm _. Ask me anything.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As my New Year's resolution, I vow to give up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know when that hotline bling, that can only mean one thing: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just once, I'd like to hear you say \"Thanks, Mum. Thanks for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a world ravaged by _ our only solace is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "As the mum of five rambunctious boys, I'm no stranger to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "__ TIME.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the Academy Award for _ goes to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Next on Eurosport: The World Championship of __.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Money can’t buy me love, but it can buy me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I drink to forget _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can't be with the one you love, love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m not like the rest of you. I’m too rich and busy for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: good to the last drop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on Sky Sports: The World Champsion of ___.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The road to heaven is paved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Yeah, nah.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alternative medicine is now embracing the curative powers of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's why mums go to Iceland.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In 2050, the internet will be used for __.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "9 out of 10 nutritionists recommend _ twice a day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ of the dead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? There's an app for that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arby's: We Have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Major League Baseball has banned _ for giving players an unfair advantage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you like __, then you'll love _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bros before _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "6NGW7",
+    "name": "Dan's Deeeck"
+  },
+  "quantity": {
+    "black": 154,
+    "white": 0,
+    "total": 154
+  },
+  "dateStoredMs": 1589135849460
+}

@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "And now for something completely different... _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Holy Hand Grenade of Antioch!.",
+    "Getting crushed by a giant foot.",
+    "Picasso painting on a bicycle.",
+    "That exploding penguin on top of your TV.",
+    "A man with three buttocks.",
+    "The knights who say \"ni.\".",
+    "Taking a class that teaches you how to defend against fresh fruit.",
+    "Biggus Dickus.",
+    "The Ministry of Silly Walks.",
+    "Arguing over whether certain kinds of swallows can carry a coconut to Britain.",
+    "Nobody expects the Spanish Inquisition!.",
+    "Venezuelan Beaver Cheese.",
+    "A guy who puts a bag over his head anytime someone says the word \"mattress\" to him.",
+    "Buying a dead parrot at a pet shop.",
+    "A shrubbery!.",
+    "A balls-naked guy playing an organ.",
+    "A homicidal barber who really, really shouldn't be trusted with a pair of scissors.",
+    "A gang consisted entirely of grannies.",
+    "A poor bastard who is mistaken for Christ himself.",
+    "Using coconuts to make it sound like a galloping horse.",
+    "Graham Chapman's \"Biggus Dickus.\".",
+    "Paying actual money to have an argument with someone.",
+    "A joke so funny that just hearing it causes you to die laughing.",
+    "A race between the city's upper-class idiots.",
+    "Vikings singing about Spam.",
+    "The unmistakable fact that every sperm is actually special.",
+    "A lumberjack that puts on women's clothing and hangs around in bars.",
+    "A bunch of morons trying to perform brain surgery.",
+    "A cheese shop that ran out of cheese.",
+    "The Larch.",
+    "Having a 16 ton weight dropped on your head.",
+    "A knight wielding a raw chicken.",
+    "A man with a tape recorder inside his nose."
+  ],
+  "pack": {
+    "id": "FA2S5",
+    "name": "Monty Python's Flying Cardcast"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 33,
+    "total": 34
+  },
+  "dateStoredMs": 1588786064936
+}

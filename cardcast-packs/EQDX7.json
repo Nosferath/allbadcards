@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "The CDC just released a statement today that Public Schools will be closed until spring 2021. They are providing additional resources to parents including zoom counseling and _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Really having to pee at an inconvenient time.",
+    "Crying into your pillow when your partner gives you the \"come get me\" look.",
+    "Having a glass of wine at 10:00 am because you're working from home and trying to homeschool 3 kids who won't stop fighting.",
+    "Actually getting to poop in peace.",
+    "Stepping on a lego in the dark of night.",
+    "Secretly paying the $50 no-show fee out of your personal care fund because you forgot about your kid's checkup.",
+    "Mommy-brain.",
+    "Zoom parent-teacher conferences in pajama bottoms.",
+    "Wearing an adult diaper for a year because you pee when you laugh/sneeze/cough.",
+    "Forgetting your kid's lunch.",
+    "Watching your baby sleep because they are just so cute!.",
+    "Leaky boobs."
+  ],
+  "pack": {
+    "id": "EQdx7",
+    "name": "#momlife"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 12,
+    "total": 13
+  },
+  "dateStoredMs": 1588914123770
+}

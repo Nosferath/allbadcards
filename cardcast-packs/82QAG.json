@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "After growing tired of raising chickens, Shane decided to try his hand at _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can slay 10 _s, you'll have earned your place in the Adventurer's Guild.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Sam get in trouble for this time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FOR GIRLS ONLY: psst... I need a _ ... you know what it's for. Keep it a secret, okay?  - Haley",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abigail was surprised to find _ on her most recent mining adventure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happens to the farmer after 2 AM? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Demetrius needs a fresh _ for his research.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Abigail.",
+    "Harvey.",
+    "Charlie the chicken.",
+    "Maru.",
+    "Sam.",
+    "Not having anyone to dance with at the Flower Dance.",
+    "Sam's skateboard.",
+    "Sebastian.",
+    "Emily.",
+    "Void Mayonnaise.",
+    "Penny.",
+    "Elliott.",
+    "Haley.",
+    "Alex.",
+    "Leah.",
+    "The Farmer.",
+    "Abigail's concerning quartz-eating habit.",
+    "Shane.",
+    "Pierre's General Store."
+  ],
+  "pack": {
+    "id": "82QAG",
+    "name": "Farmers Against Humanity"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 19,
+    "total": 26
+  },
+  "dateStoredMs": 1588207300711
+}

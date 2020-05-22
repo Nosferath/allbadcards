@@ -1,0 +1,219 @@
+{
+  "black": [
+    {
+      "content": "Such _ for such _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a classic gift for your new foundling.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are not good or bad. They are neutral reflections of those who imprint them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moff Gideon is most infamous for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not a toy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are part of my religion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When one chooses to walk the way of _ , one is both _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The Mando, dying: Let me have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Child requires _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would like to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it not the code of the guild that _ is/are now forgotten?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He said you were _. He also said you were expensive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of a signet,  the mando can have little _ as a treat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "IG-11: You have suffered damage to your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is the way: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's barely enough to cover fuel these days.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some of my favorite people are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was not a noble kill. I had help from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I have spoken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our _ is our survival. Our survival is our _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The helmet stays on, except in cases of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mando: You expect me to deliver this creature to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They all hate you, Mando. But not me. I for one celebrate your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Mando doesn't accept _ as payment, only _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yodito uses _ to try and get Mando's attention but it just causes _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A man of your skill should make _ of this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The helmet stays on even when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING: Bored scout troopers turn to _ for entertainment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can bring you in _ or I can bring you in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To prevent capture, an IG unit's best option is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ rode the great mythosaur. Surely you can ride this young foal.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A nurse droid.",
+    "Post-force-use nappytime.",
+    "Flame-broiled stormtrooper.",
+    "Getting the baby to do the magic hand thing.",
+    "Sukaaaaaaa.",
+    "A mythosaur necklace that's way too long.",
+    "Yodito.",
+    "Whistling birds.",
+    "Getting force-choked by a baby.",
+    "Kalamari flan.",
+    "A foundling.",
+    "An enemy that did not know it was an enemy.",
+    "When the AT-ST's eyes glow.",
+    "Not being a living thing, technically.",
+    "A warrior's death.",
+    "Kuiil.",
+    "Imperial credits.",
+    "A friendly arm-wrestling match.",
+    "Furry egg.",
+    "When the mando sighs heavily.",
+    "Droids.",
+    "Living in hiding.",
+    "Using the darksaber as a steak knife.",
+    "A clan of two.",
+    "The males all being eaten during mating.",
+    "Getting pwned by jawas.",
+    "Swallowing a frog whole.",
+    "Countless tracking fobs.",
+    "Hitting a defenseless baby just for squirming around.",
+    "Speaking terrible Jawa.",
+    "A race of enemy sorcerors.",
+    "Little round thingamabobber.",
+    "IG-11's baby pouch.",
+    "An ice-cream maker full of beskar.",
+    "Cara Dune's arms.",
+    "Walkin into the club in shiny new beskar.",
+    "Bounty hunters.",
+    "That floating baby carriage.",
+    "Sippin' soup.",
+    "Initiating self destruct.",
+    "Enormous ears flapping in the wind.",
+    "Sounding like a Wookiee.",
+    "Ending every sentence with \"I have spoken\".",
+    "Imps.",
+    "The most stylish potato sack.",
+    "The child.",
+    "Actually starring in a horsegirl movie.",
+    "Space toilet."
+  ],
+  "pack": {
+    "id": "WTZCZ",
+    "name": "The Mandalorian deck"
+  },
+  "quantity": {
+    "black": 31,
+    "white": 48,
+    "total": 79
+  },
+  "dateStoredMs": 1588616202681
+}

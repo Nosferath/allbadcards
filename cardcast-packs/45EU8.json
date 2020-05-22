@@ -1,0 +1,112 @@
+{
+  "black": [
+    {
+      "content": "In 2019, Donald Trump eliminated our national parks to make room for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump has nominated _ for his VP",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As reparations for slavery, all African Americans will receive _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump's first act as president was to outlaw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump's great! Trump's got _. I love that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you go to the polls on Tuesday, remember: a vote for me is a vote for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's 3 AM. The red phone rings.    It's _.     Who do you want answering?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senator, I trust you enjoyed _ last night. Now, can I count on your vote?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know who else liked _? Hitler.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jeb!.",
+    "Trying to remember what music was.",
+    "The purging of the disloyal.",
+    "A gnawing sense of dread.",
+    "Shouting the loudest.",
+    "Nuclear winter.",
+    "World Wars 3 through 5.",
+    "Increasing economic inequality and political polarization.",
+    "A liberal bias.",
+    "Growing up and becoming a Republican.",
+    "Slapping Ted Cruz over and over.",
+    "A back-alley abortion from a Mexican cyborg doctor.",
+    "Black lives mattering.",
+    "Burying my only son.",
+    "Whipping lower-class white men into a xenophobic frenzy.",
+    "President Donald Trump.",
+    "Conservative talking points.",
+    "Making Islam illegal.",
+    "Trying to wake up from this nightmare.",
+    "Finding out that democracy might not be such a great idea.",
+    "Letting Bernie Sanders rest his world-weary head on your lap.",
+    "Extra rations for my little girl.",
+    "The Bernie Sanders revolution.",
+    "Roaming through a wasteland of windblown trash and deserted highways.",
+    "Actually voting for Donald Trump to be President of the actual United States.",
+    "The good, hardworking people of Dubuque, Iowa.",
+    "The systemic disenfranchisement of black voters.",
+    "Desperately hurling insults at Donald Trump as he absorbs them into his rapidly expanding body.",
+    "Rage.",
+    "Drinking urine to survive.",
+    "Full-on socialism.",
+    "A father and son fighting each other over the last scrap of bread.",
+    "Mild amusement.",
+    "Dispelling with this fiction that Barack Obama doesn't know what he's doing.",
+    "Hating Hillary Clinton.",
+    "The fact that Hillary Clinton is a woman.",
+    "Bringing millions of dangerous, low-paying manufacturing jobs back to America.",
+    "Courageously going ahead with that racist comment.",
+    "A beautiful, ever-expanding circle of inclusivity that will never include Replublicans.",
+    "Sound fiscal policy.",
+    "Casual dismissiveness.",
+    "Keeping the government out of my vagina.",
+    "Eating the president's pussy.",
+    "A legitimate reason to commit suicide.",
+    "Kicking the middle class in the balls with a regressive tax code.",
+    "Donald Trump holding his nose while he eats pussy."
+  ],
+  "pack": {
+    "id": "45EU8",
+    "name": "Post Trump/Trump vs. Hillary"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 46,
+    "total": 56
+  },
+  "dateStoredMs": 1589136286520
+}

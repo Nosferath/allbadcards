@@ -1,0 +1,74 @@
+{
+  "black": [
+    {
+      "content": "Up next on Nickelodeon: \"Clarissa explains _.\" ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Stella get her  back? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight on SNICK, \"Are you afraid of _ ?\" ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Siskel and Ebert have planned _ as \"poorly conceived\" and \"sloppily executed.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a bitch, I'm a lover, I'm a child, I'm _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's Morphin' Time! Mastodon! Pterodactyl! Triceratops! Sabertooth Tiger! _ ! ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Believe it or not. Jim Carrey can do a dead-on impression of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Several Micheal Keatons.",
+    "The Great Cornholio.",
+    "Cool 90s up-in-the-front hair. .",
+    "Liking big butts and not being able to lie about it.",
+    "Log.",
+    "Angels interfering in an otherwise fair game.",
+    "Sunny D! Alright!.",
+    "Stabbing  the shit out of a Capri Sun.",
+    "A bus that will explode if it goes under 50MPH.",
+    "The Y2K bug.",
+    "Jerking off to a 10 second RealMedia clip.",
+    "Wearing Nicolas Cage's face.",
+    "Pure Moods, Vol. 1.",
+    "Deregulating the mortgage market.",
+    "Getting caught up in the CROSSFIRE.",
+    "Pamela Anderson's boobs running in slow motion.",
+    "Sucking the President's dick.",
+    "Freeing Willy.",
+    "Yelling \"Girl Power!\" and doing a high kick. .",
+    "A mulatto, an albino, a mosquito, and my libido.",
+    "Kurt Cobain's death.",
+    "Pizza in the morning, pizza in the evening, pizza at supper time.",
+    "Patti Mayonnaise."
+  ],
+  "pack": {
+    "id": "nxep0",
+    "name": "90's Nostalgia"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  },
+  "dateStoredMs": 1588815380820
+}

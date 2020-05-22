@@ -1,0 +1,223 @@
+{
+  "black": [
+    {
+      "content": "When I tell people I'm a witch, the response includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My element is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will ward against _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Double, double toil and trouble; fire burn, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My first spell used _ , and I ended up _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I need to write a spell for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, and mote it be.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who needs  _ when you have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Discernment: knowing the difference between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's in your cauldron, witch? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. Instant love spell.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We are the Coven of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's been a movement to replace the phrase “spirit animal” with _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not in position for this tribute!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Book of Shadows contains _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, _ is real, and it usually involves _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cakes, ale, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No altar is complete without _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only do tarot readings about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mix _ into your incense to draw _ to you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My incense smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I put a spell on you, and now you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Witchcraft is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a pop-culture pagan. I worship _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I invoke _ to help me with spells.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night's ritual involved lighting candles to honor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A curse involving _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Surprisingly, if you don't have _, you can use _ instead.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Loki, probably.",
+    "Having a shrine to David Bowie set up beside your patron God and Goddess.",
+    "Cat hair.",
+    "Ghosts waking you up in the middle of the night.",
+    "Arguing over the correct pronunciation of athame.",
+    "$30 for a whole dried pomegranate.",
+    "Silver Ravenwolf.",
+    "An athame.",
+    "The \"Ostara vs Easter\" argument.",
+    "Getting asked if  you ride a broom.",
+    "Convincing people the bag of herbs is not marijuana.",
+    "God-spousing.",
+    "Burn holes in every altar cloth.",
+    "Hiding sigils in everything.",
+    "An unnerving number of owls.",
+    "A shiny, new tarot deck.",
+    "Lady GaGa lyrics as spell words.",
+    "Being pretty sure the deities are just fucking with you now.",
+    "Wishing you actually could turn someone into a toad.",
+    "Its wicCAN not wicCAN'T.",
+    "The ouija board spelling out profanity.",
+    "BLOOD.",
+    "Witchcraft.",
+    "Dried plant matter everywhere.",
+    "Sassy tarot cards.",
+    "A bird skull.",
+    "Freaking out the neighbors.",
+    "Shufflemancy.",
+    "Spirits giving you messages in anagrams.",
+    "Scott Cunningham.",
+    "Coffee spells.",
+    "Wiccan rede-thumpers.",
+    "Astral misadventure.",
+    "Fifty half-spent candles.",
+    "Fairies abducting your first born.",
+    "So many jars.",
+    "Beltane orgies.",
+    "Missing the full moon... again.",
+    "Spending an entire paycheck on pretty rocks.",
+    "Turning into a flock of crows.",
+    "So much incense smoke that you have to evacuate the room.",
+    "Dragons.",
+    "Lots of salt.",
+    "My patron deity's great disapproval.",
+    "Stocking up on black candles during Halloween sales.",
+    "Daydreaming about a well-organized Book of Shadows.",
+    "A pocket full of acorns.",
+    "A familiar that acts like a diva.",
+    "A jar of piss.",
+    "Forgetting how you did that really effective spell.",
+    "Throwing salt.",
+    "A broomstick.",
+    "A betta fish as an animal familiar.",
+    "Getting candle wax everywhere.",
+    "Using your cauldron as a cereal bowl.",
+    "Glitter!!!.",
+    "Uncooperative runes.",
+    "More tealight candles than anyone will ever need.",
+    "Deities giving you the “I told you so”.",
+    "Fairy problems.",
+    "The entire major arcana.",
+    "Gremlins in your electronics.",
+    "Rejected offerings.",
+    "Getting asked if you worship Satan.",
+    "Stars. Can't do it. Not today.",
+    "The Tower.",
+    "A feeling of sudden dread."
+  ],
+  "pack": {
+    "id": "8SM9H",
+    "name": "Curses Against Humanity"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 67,
+    "total": 95
+  },
+  "dateStoredMs": 1589487203573
+}

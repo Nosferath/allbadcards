@@ -1,0 +1,3195 @@
+{
+  "black": [
+    {
+      "content": "Gdy zobaczyłem _ to krew mi odpłynęła z pochwy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja ulubiona bajka to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakbym mógł przestawić alfabet, to bym ułożył _ i _ razem.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stajesz na _ krzycząc: Chodź tu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czym jest miłość bez _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moszna zakleszczona w suwaku przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ byłoby śmieszne, gdyby nie ironia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie rozumiałem _, dopóki nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czego nie chciałbyś usłyszeć od pilota w samolocie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podniosłem sok a na odwrocie kartonu było napisane na składzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdzie jest mój _!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest najbardziej chrupiące? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podniebne Przygody _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wchodzi się tak po prostu do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Problem _ od starożytności trapił filozofów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie chciałem żebyś _, bo po prostu chciałem, żebyś był _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kto potrzebuje bidetu, jak masz _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A co mi chce pan pokazać w piwnicy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zostałeś wyruchany przez laskę z penisem. Co robisz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeżeli kogoś naprawdę niecierpliwisz, naucz ich rozpoznawać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest za duży na małą pogawędkę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest lepszy od _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uszłoby mi to na sucho gdyby nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabij to używając _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto to jest? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest kolejną modną dietą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żyj długo i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miałem nadzieję, że spędzimy z żoną trochę czasu przy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na wiejskim festynie był konkurs na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przychodzi do Ciebie żyd i się Ciebie pyta: \"Masz mleko?\" Ty mu na to odpowiadasz: \" _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co powiesz na _? Sam nie wiem, może lepiej _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W 2019 _ będzie miało przewagę liczebną nad _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Z wielką mocą wiąże się wielka _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na wojnie _ to normalka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czyje jajca się bardziej ścierwicą? _ czy _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jestem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z czego rezygnuje w czasie postu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wszystkich _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tam na drzewie, to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To zabawne, że można zamieniać w myślach słowo na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje zdrowie odmówiło jak zauważyłem _, bo mogę jeść _ kiedy tylko zechcę.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gej klub jest tam. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antypologowie odkryli ostatnio nowe plęmię czczące _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mam na czole? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy _ był tak naprawdę _? A może to tylko _?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Moja nowa ulubiona gra to rozbierany _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię czasami włożyć sobie _ w dupsztal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ definitywnie położyło kres niewolnictwu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noce wypełnione _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Twoi znajomi zorganizowali _ w twoim ogrodzie, lecz impreza została przerwana przez _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Życie w Indiach drastycznie się zmieniło, gdy biały człowiek pokazał im _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, no i zesrałem się.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam _, ponieważ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie umiem _, bo mama mnie nie nauczyła _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Spotykasz jedzącego _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coś Ci wypadło, to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W przyszłości chce być _ i chcę zajmować się _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wielka miłość do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli twoje dziecko _ _, to wiedz - że coś się dzieje!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prezydent przejechał przez _ by wygrać nagrodę _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moją pietą achillesową jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego jest pełno w niebie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo, tato, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jezus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Białe dildo VS _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio zatrzymała mnie policja za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słyszałem, że w niebie jest pełno _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zdecydowanie wolę _ od _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy byłem/am na dragach, _ zamieniło się w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Myślałem, że tak musi być, dopóki nie zobaczyłem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby tylko moi rodzice zrozumieli, że _ to nie jest prosta sprawa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kolejny film o nieumarłych będzie miał tytuł \" _ \"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, władca mojego _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dźwięki harfy, wiatru szum, wodo, wodo, zmień się w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Robiłem _, jak dorosły.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Od czego ja tak śmierdze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój puszek bardzo lubi bawić się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ smakuje jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co myślisz o nowej talii? Jest ona (jak) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chińczycy potrafią _, ale ja tego nie umiem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na co trzeba uważać w seksie grupowym? Na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabierz mnie do _, gdzie _ jest zielone i _ są piękne.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Kiedyś podczas mojej operacji na _ przeszkodził _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przepraszam bardzo, ale nie mówię o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zapach _ najbardziej kojarzy mi się z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nigdy nie lubiłem Meksykanców, aż _ nie uderzył mnie w twarz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kluczem do serca kobiety jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowa dyscyplina na olimpiadzie będzie się nazywała _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kocham _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mów co chcesz, ale _ to szczyt marzeń każdej kobiety.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może się z tym urodziła, a może to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co wyrzuciło morze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby nie _, elektrownia w Czarnobylu dalej by stała.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baw się dobrze, nie bądź _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do wykonania tego zabiegu potrzebne jest przy założeniu że _ nie wpierdoli nam się do sali.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Od kogo lub czego prostytutkę boli gardło?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karty przeciwko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest legalne, prawda?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miałem nadzieję że to coś prostego, lecz lecz lekarz powiedział że jestem uczulony na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ robi tak dobrze że aż wyrzuciłem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to największe nieszczęście, jakie spotkało ludzkość.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tworzy niezręczną sytuację w saunie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mięso zawiera _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może to jej urok, a może to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zanim odkryłem _, myślałem że _ to tylko _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ ostrzega przed _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O! Stanął mi _, bo _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ czekałem na to całe życie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego nie lubisz robić? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W jaki sposób udaje mi się utrzymać mój związek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszystko co jest w Rosji jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym posługuje się mała pszczoła? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W lesie spotykasz kłusownika _ polującego na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kto potrzebuje studiów, kiedy masz _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co przywiozłem z Turcji? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W więzieniu za 200 fajek dostaniesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest tylko stosowany w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Może to jej urok, a może to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co spowodowało u mnie wstydliwy wzwód? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziś spotkałem _ i mu przyjebałem używając _. A on zdziwił się.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uwielbiam ją, bo ma _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W mojej zupie jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jadę do kopalni wydobywać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym śmierdzą starzy ludzie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój sąsiad uwielbia _, kiedy patrzy na niego.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co powoduje dyskomfort na Onkologii? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Powiedz mi proszę, gdzie jest to miejsce, gdzie jest ten lepszy świat? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwierz mi, jestem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego ludzie umierają na pustyni? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puka do Ciebie, lecz nie otworzysz mu drzwi, bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Romantyczna kolacja, że świecami nie może obejć się bez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wzgórza żyją dzięki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, czyli jeden z wielu problemow wieku średniego _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wyglądam jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio modna dieta polega na zmuszaniu ludzi do robienia _ i jedzenia _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co to za dźwięk? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robi _? smaży - oczy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy faraon nie dal się przekonać, Mojżesz zesłał _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ludzie dowiadują się, że jesteś futrzakiem, gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mogę _ przez całą _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najbardziej Emo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znasz _? Podobno to on zgwałcił _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pobudki byłyby dużo łatwiejsze, jakby _ nie wyglądał jak ty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spokojnie, _ to moje drugie imię.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Laski ściągają majtki przez głowę gdy im powiem, że _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nareszcie dorwałeś swojego odwiecznego wroga. Skazujesz go na _ lub wepchnięcie w dupę _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam cały świat w moim _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy życie daje Ci _, zrób _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Boli Cię _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raz w dupe to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cisza kościelna, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zniszczyło dzieciństwo wielu ludzi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest beznadziejnym tematem w łóżku.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coś co każdego dnia sprawia, że się uśmiecham to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po ciężkim dniu zasnąłem z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gorsze niż nakrycie swoich starych na tym jak uprawiają seks jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Która karta pasuje wszędzie dobrze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przepraszam Panie doktorze ale _ daje mi się mocno we znaki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Założyłeś fundację zbierającą pieniądze na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest cięższe? Kilogram _ czy kilogram _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Tak chce umrzeć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ruchałbym _ używając kutasa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesteś suchy jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jedni wolą _, a inni wolą _ po parkach, a my wolimy grać po nocach w _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Czy się stoi, czy się leży _ się należy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pies zjadł i wymiotował _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikt mnie nie lubi, po tym jak opublikowałem _ w tematach zbyt dużo .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kolekcja jego młotków zniszczyła całą eskadrę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam jesteś _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ta strona jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopóki nie ujrzę więcej danych, będę uważał, że _ sprawia _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest odpowiedzią na pytanie życiowe? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jutro w wielkim finale zobaczymy pojedynek _ vs _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zaplanuj trzydaniowy posiłek. _, _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Do teatrów wchodzi musical o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nie jest sztuką. _ jest.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ wsadzili do garnka i mieszali co 15 minut _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest lepsze (do jedzenia) niż klocki z duplo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chłostam swoje _ tam i z powrotem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niggersi lubią _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na początku był _, wtem Pan przyszedł i powiedział \"niech się stanie _ \".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ pedał, pedał!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdzie się podziały tamte prywatki? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To jest coś co mnie nakręca.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znalazłeś _ i nazwałeś to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po pocałowaniu kogo lub czego dostałeś opryszczkę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego _ to inaczej _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nasz nowa firma powiększa penisy za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zrobiłem _, aby być popularny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co trafiłeś? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszystkie moje algorytmy to były tak naprawdę zaszyfrowane _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O kurwa, odliczanie! 5, 4, 3, 2, 1, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ułatwia życie niepełnosprawnym.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy widzę _ myślę o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kochanie, dlaczego dostaliśmy rachunek za _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy życie da mi _, to sięgam po _ i od razu jest mi lepiej.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie ma murzyna i nie ma _. Podejrzane. pewnie murzyn zapierdolił i uciekł.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wizyta skończyła się na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kochanie, czy mogłabyś podać mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ i _ są tą nową seksowną parą.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy twoi niewolnicy posiadają nową wersję _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy wiedziałeś, że Listopad to Miesiąc Świadomości o _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja tu tylko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kochanie, co powiesz na mały _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na pewno nie chciałbyś zobaczyć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mogę cofnąć, ale nie mogę usunąć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szczytem głupoty jest _ pod warunkiem, że robisz to bez kasku.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O! Więc tak wygląda _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten _ jest szpiegiem!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, piona stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ostrzega: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy pirat nie może masturbować się w tym domu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak, to ja zabiłem _. Pytacie jak? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najlepszego w byciu futrzakiem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zawsze rozkręca imprezę? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego jest tak pełno w niebie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co staje się lepsze z wiekiem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doktorze pomóż! Mam _ w tyłku!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym onanizuje się _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przeszłość to zapomniany kraj, z _ i _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Też tak kiedyś miałem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zamienię żonę na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słuchaj, jeśli chcesz być zamieszany w _ nie powstrzymam Cię. Po prostu trzymaj się z dala od _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zawsze chciałem zamieszkać w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W czasie seksu lubię myśleć o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najczęściej wypadki samochodowe zdarzają się podczas _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego nie mogę wyrobić się na spotkanie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pij, _ albo czeka Cię _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Logika\" lewicy: oskarżaj o ukrywanie _, a jako partia - promuj ich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to lek na wszystkie boleści.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowa atrakcja parku rozrywki - _ tańczące w klatkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedyś miałem takie gazy, że nawet _ nie wytrzymał _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Futrzaki. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest najlepszym przyjacielem kobiety? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O co chodzi? O _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W wolnych chwilach masturbujesz się za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co umiera ostatnie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Właśnie zaliczyliśmy z moją sąsiadką _, jeżeli wiesz o co chodzi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znalazłeś Złotą Rybkę. Masz 3 życzenia. Będą to _, _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Gdzie kucharek sześć, tam _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie chce Cię ograniczać, zwyczajnie uważam, że mówienie obcym ludziom o _ nie jest fair.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zostanę prezydentem, stworze urząd do spraw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jest tak naprawdę _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co zakończyło mój ostatni związek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pieniądze to nie wszystko, ale wszystko bez pieniędzy to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A myśłałem że _ to tylko _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pierdolnij to ty jebany, przychlaście _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W życiu każdego mężczyzny przychodzi taki dzień gdy _ już mu nie wystarcza.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po raz kolejny bohaterstwo udowodniło nam że walka z _ jest bezcelowa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dał mi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uwaga! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pssst, to ja, _, może pójdziemy gdzieś po _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy już myślałeś, że zaruchasz, ale przyszedł _ i zaczął pierdolić _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Teraz muszę żyć przez całe moje życie udając, że _ nigdy się nie wydarzyło. To będzie zabawne 70 lat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Więcej many - więcej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zniszczyło dzieciństwo Szredera.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co masz w buzi, co masz w buzi? _ mam w buzi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy człowiek, który do pana strzelał był uzbrojony? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leżysz rano w łóżku i chce Ci się _, ale nie chce Ci się wstać.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego moja siostra ma gumowego penisa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Medycyna alternatywna obejmuje od niedawna leczniczą moc _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ludzie w Bieszczadach muszą walczyć z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy _ jest bardziej od jebany w pizdu niż _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy bylem mały, zawsze chciałem zostać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego? Bo _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to jest to w twoich ustach? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Nauczyli mnie tego w szkole.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biali ludzie lubią _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zaplanuj trzydaniowy posiłek. _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. Więc jednak do tego doszło.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dając _ ja pobrudzę a ty odpoczywaj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To pułapka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszyscy wiedzą, że _ zawsze kończy się ślubem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wyczyść wszystkie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie uwierzysz! Widziałem _ w trakcie _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ 2012.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myślałem że najgorszą rzeczą jaka mnie spotkała było _, po czym zobaczyłem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najzdrowsza dieta składa się z _, _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Co powiedział byś na _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Medycyna alternatywna, zaczęła doceniać właściwości lecznicze _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię zmieniać piosenki zamieniając _ na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest bardziej emocjonujące niż walki w plemionach? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kokainę może zastąpić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy twoja babci ma w szafce _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zanim odkryłem _, myślałem że _ to tak naprawdę _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Moja normalna metoda na _ tu się nie sprawdza.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaka jest narodowa Japońska rozrywka? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazwę swoje dziecko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby nie _ nasz wyjazd wakacyjny byłby bardzo udany.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobra, gramy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy usłyszałem o _, to przed oczami stanął mi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mógłbym Cię już zabić, lecz _ będzie znacznie zabawniejsze.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pewna laska powiedziała mi kiedyś _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Halo halo! To ja, _, oddawaj mi _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest zabawne ale po czasie staje się dziwne? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy miałeś kiedyś tak, że opowiedział Ci coś, a potem okazało się, że tak naprawdę to był(o) _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszystko może być _ jeśli jesteś wystarczająco odważny _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Halo halo! To ja, oddawaj mi _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mówi, że _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dzwonili z 2009? Ostrzegłaś ich przed _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ponieważ podobało Ci się _ uznaliśmy, że _ tez będzie spoko.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ jest epickie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seks z martwym kotem to zoofilia czy nekrofilia? Nie, bo to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nic nie jest silniejsze od miłości, oprócz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój ukryty fetysz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I jeb o podłogę, a dziecko kurwa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pod jakim pretekstem rzuciłeś ostatnią dziewczynę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tam było dużo _ robiących _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jestem pewien, że _ nie wyślesz pocztą.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co powoduje u mnie gazy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoje wiertło potrafi przebić _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ potrafi być równie przerażające jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ jest bardzo rzeczny jak wąż niebezpieczny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dostałeś _, więc wyjeżdżasz do po to by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po czym poznać _? Po _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ wjeżdża na rejon _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Odkryto niedawno prymitywne plemię które zajmuje się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak będę miliarderem to stworzę 50 metrowy pomnik na cześć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem jak _, tylko z miłością.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakie miejsce kiepsko nada się pod budowę restauracji? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje życie zmieniło się diametralnie, gdy poznałem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu ten pan nas wywozi do lasu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FBI wkroczyło do domu _. Bo tak i chuj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ = ból dupy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja matka jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zamiast wazeliny wziąłbym _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bardziej nie odpowiedzialne niż zostawienie 4 lataka samego w domu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W Świecie zniszczonym przez _, naszą jedyną nadzieją będzie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W moim ulubionym filmie, główny bohater zajmuje się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parada miłości bardzo przypomina _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wypierdalaj! Chciałbym popatrzyć na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masz mój łuk. I mój topór. I mój _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Planeta _ została opanowana przez _! Jedynym ratunkiem jest _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Podejrzany przy pomocy _ zaatakował ofiarę, po czym bawił się w _, dopóki nie przyjechała policja.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie jestem pewien czy _ to dobre danie na święta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest lepsze od czarnego dilda? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy _ trzyma pod poduszką?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odwołaj wszystkie spotkania. Mamy naglą sytuacje z _, która wymaga mojego udzialu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój _ jest za duży!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zostanę milionerem, zbuduje 200-metrowy posag by upamiętnić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kalendarz Majów skończył się na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma to jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak mogę opisać swój obecny status związku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badania wykazują, że myszy laboratoryjne pokonują labirynt 50% wolniej po kontakcie z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem ekspertem od _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boli Cię _? Skorzystaj z _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pomyśl, nim _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chirurg zrobił wielkie oczy gdy wyciągnął _ z brzucha pacjenta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zawsze można znaleźć między poduszkami na kanapie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sprawia, że czuję się niekomfortowo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na co zawsze można poderwać laskę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haiku zostanie stworzone za pomocą _, _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nagrodę za _ otrzymuje _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Podczas masturbacji myślę o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byłem na marsie, to _ zmienił się w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy będzie idol? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaka jest moja ulubiona jednostka pomiaru? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chciałem kupić prezent z okazji _. Padło na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdyby nie _, wszyscy byliby szczęśliwi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wszystko jest lepsze, niż _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Anastazja weszła do pokoju zabaw jej oczom ukazał się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje ostatnie życzenie to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zawsze sprawia że dochodzę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My tu gadu gadu, a w Afryce co minutę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Porywa Cię _ po to, aby dostać od Ciebie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ Dupa mi się pali.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chcę umrzeć za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem _ i profesor Jasiak nie lubi mnie za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to mój najgorszy zwyczaj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do wąchania czego zmuszali Cię w gimnazjum? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas ewakuacji z samolotu spadochronu zabrakło dla _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masz szansę zaliczyć we wtorek, dzięki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jako moja następną sztuczkę, wyciągnę _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W twoim uchu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale ja się nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A książka miesiąca to: _ dla _ - historia o nadziei.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po tym, jak ujrzałem _, potrzebowałem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Badacze z Uniwersytetu stworzyli _ w laboratorium!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek to straszny niejadek bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, rozumiesz kontekst?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ZUS - zapłać, umrzyj, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Murzyn w stroju banana chciał _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robi kotek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nie! _ przybył z _. Jesteśmy zgubieni!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jak nazwalibyśmy nową planetę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przepraszam bardzo, ale nie mówię po _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co sprowadziłeś z Holandii oprócz klawiatury? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy masz mało pieniędzy, zawsze możesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym przetrzeć mokra plamę by szybciej wyschła? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest powodem dla którego nie gram w tą grę z rodzicami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "10% dorosłych przyznaje się do bycia uzależnionym od _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię wkładać sobie _, ale nie jest to lepsze od _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wow! _ naprawdę może latać!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedyś byłem jak Ty, lecz _ w kolano pokrzyżowała moje plany.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karta _ jest powodem dla którego nie gram w tą grę z rodzicami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu on ma _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas lotu samolotem zabrania się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wycieczka szkolna została zrujnowana przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O! Stanął mi bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy wszystko inne zawiedzie, zawsze mogę zwalić konia do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją następną sztuczką będzie wyciągnięcie _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przepraszam profesorze, ale nie odrobiłem pracy domowej przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myślisz że to pierd, a tak naprawdę to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowy film tego lata: _ wszystkich bije.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to moje ulubione danie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*puk puk* Kto tam? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tylko _ może okrążyć armię trzy razy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym najlepiej poderwać laskę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spotkałeś złotą rybkę _. Prosisz ją o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dzisiaj na obiad jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy to _ wystaje Ci z spodni?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Freestyle'owe rapowanie jest po prostu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Próbowałem wydrukować tą talię, ale _ \"zabił\" mi tusz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Musisz zadać sobie jedno pytanie. Co lubisz w życiu robić? A potem zrób _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hospicja pełne są chorych ludzi, a przecież żeby im pomoc wystarczy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy wiedziałeś, że możesz po prostu kupić _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O kurwa, odliczanie do _! 5, 4, 3, 2, 1, _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przepraszam, ale mam _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forum prawie zostało zniszczone po tym, jak _ dodał _ w sekcji dotyczącej zmarłych.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to najlepszy lubrykant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest/są w moich majtkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje osiemnaste urodziny zostały totalnie zrujnowane przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakiego szamponu używa _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mieliśmy imprezę na temat _, ale okazało się, że nie była zbyt zabawna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas seksu myślę o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z czego rezygnujesz w czasie postu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jedzie sobie _, a tu nagle _ mówi mi, że _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Dawniej rzymianie używali _ jako pasty do zębów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest następną wielką poboczną atrakcją? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziki _ się pojawił! Użył _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Śmieszniejsze niż Kapłan Zaciszu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszym lekiem na zatwardzenie jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Możesz mi possać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo mamo! Co to znaczy penis? To _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pije by zapomnieć o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja stara siedzi na _, a w mordzie trzyma _ jak na prawdziwą kurwę przystało _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Kręci mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazywam się _ i przyszedłem po _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chciałbym żeby _ został adminem na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W dzisiejszych czasach złe dzieci zamiast rózgi pod choinkę dostają _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej zjebany pomysłem jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ofiara została znaleziona z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słyszysz? _ goni Cię!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego dzisiaj dokonałeś? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego nie chciałbyś znależć w chińskim żarciu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nawet mnie nie rusza że marnuję 6 godzin dziennie na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie obchodzi mnie _, po prostu lubię _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Romantyczna kolacja, że świecami nie może obejść się bez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co będzie kolejną modną dietą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mam nadzieje, że po śmierci czeka mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co wszystko mnie boli? Przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby nie oczy, używalibyśmy _ do poznawania świata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje życie za _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy byłem mały to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co sprowadzisz z przyszłości by przekonać ludzi, że jesteś potężnym czarodziejem? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Udana rozmowa kwalifikacyjna rozpoczyna się mocnym uściskiem dłoni, a kończy się na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pewnego razu _ posiadał pewną rzecz o nazwie _, która potrafiła _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Gdyby nie _ , że trzyma mnie, nie przetrwałbym tego roku na studiach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Powrót bohatera.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za czym tęsknimy z internetu z lat dziewięćdziesiątych? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Według mnie to _ spowodowało pańską traumę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ktoś krzyczy: \"Pomocy! Jestem uwięziony w fabryce!\" Co robisz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Członkowie wyższych klas społecznych płaca miliony tylko po to by odkryć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto wypuścił psy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wiedzałem co napisać, więc wy ułożycie pytanie! _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Całe twoje życie zostało zmienione po odnalezieniu w szafce _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co cały się kleje? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Astrologowie odkryli, że _ będzie przyczyną końca Świata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to najlepsza rzecz w moim życiu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chwała _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest gorsze od Szredera? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przy pomocy czego polski rzad wspiera studentów z regionów wiejskich? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tylko dlatego że masz _, jeszcze się Ciebie nie pozbyli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie jesteśmy jak inne organizacje medialne. U nas jesteśmy otwarci na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziecko kurwa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To on zgolił mi włosy łonowe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W końcu _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mam postawić w salonie za kanapą? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesteś tępy jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Synu, gdybyś tylko wiedział jak ważna w życiu jest _ to byłbyś tak szczęśliwy jak ja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nałożą nowy podatek na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hej mała, wpadnij wieczorem do mnie a pokaże Ci _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze będziemy mieć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Więc przychodzisz w dniu ślubu mojej córki i prosisz mnie o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Powiedz to szybko) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy miałem 25 lat wygrałem nagrodę _ za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mój kochany pokój 226. Kto spał od okna? _, _ i _, bo nasrałem pod materac.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Dlaczego spóźniłeś się? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja tu tylko na chwile, żeby _ Cię nie wyjebał z kapci.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego? Czego? Nie da się wciągnąć nosem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ podaje rękę policjantom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto jest najlepszym przyjacielem kobiety? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego masz kuszę na biurku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubisz muzykę? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ksiądz _ lubi w mordzie trzymać _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy miałem 25 lat wygrałem nagrodę za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Posunąłeś się za daleko, wspominając o _ w odniesieniu do swojej matki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest czarne, głupie i skacze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to za plama na mojej kanapie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem pod _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co okrywają przede mną rodzice? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja stara w śmieciach znalazła _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiesz co zrobić z wielką tłustą dupą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seks z drzewem nie stanowi już dla Ciebie wyzwania i postanawiasz wyjebać z całej kurwy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weź _, to będzie trwało dłużej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wypełniłem swój apartament _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W mojej następnej sztuczce pokażę Państwu jak wyjmuje _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Żadne z miejsc po których pływałem nie miało _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O tak, dokładnie tak nie przestawaj tego bo _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Więcej niż jedno zwierze to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co nie mogłeś zasnąć w nocy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tylko _ może nam pomóc odnaleźć pańską córkę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego jest pełno w piekle? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał nie wiedział, że _ było tym co tak bardzo uraziło jego żonę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawszę się śmieję, gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej lubię dotyk _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przygotuj swoje ciało na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo, ten _ jest zajebisty!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Laski zawsze lecą na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By przyciągnąć więcej gości, Muzeum Narodowe otworzyło interaktywny eksponat z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Próbowałem wydrukować tą talię, ale _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaram się, gdy sadzę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagroda za _ trafia do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co tam robiłeś? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pani Klementynka lubi czasami _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jak byłem na dragach to _ zamieniło się w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Podniosłem sok a na odwrocie kartonu było napisane _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - miejsce, gdzie spełniają się marzenia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus kocha _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odblokowano osiągnięcie: _ - _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, nie wkurwiaj mnie, dobrze?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wygląda fajnie w teorii, ale bywa problematyczne w praktyce.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiesz że jesteś futrzakiem, kiedy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szparki i psychiatrzy doprowadzili nas do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uważaj na _, bo jest uzależniające!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesteś bystry jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Będą cycki, będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za 1000 lat zamiast papierowych pieniędzy będziemy używać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do kin wchodzi najnowszy film pod tytułem \" _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja ulubiona pozycja do ruchania w dupę tak, żeby sraka wylatywała to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszy drink: Jedna część _, trzy części _ i dolanie _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Kto? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym miał tylko jedno życzenie u złotej rybki, z pewnością poprosiłbym o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ukrywają przed tobą rodzice? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W przyszłości naszym paliwem będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W moich marzeniach erotycznych pojawia się głownie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1: _. Krok 2: _. Krok 3: ??? Krok 4: Zysk!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ - jedyny słuszny władca _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest dobre do ostatniej kropli? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie bądź wkurzony, bądź _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myślałem, że bycie _ było najlepszą rzeczą, jaka może być, dopóki nie zostałem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Właśnie minęło 0 dni pracy w tym biurze bez problemu z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Janusz, dlaczego tak lubisz _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fetysz _ to: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ciągle się _ zawsze w niespodziewanym momencie. Dopóki w aptece kupiłem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oskarżony otrzymuje kare dożywocia za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to moja ulubiona forma sztuki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badania wykazują, że myszy laboratoryjne pokonują labirynt 50% szybciej po kontakcie z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, dobry do ostatniej kropli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co Cię dzisiaj uszczęśliwiło? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierwszą zasadą dyskotekową jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dostałem mandat graniczny za przekroczenie granic _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ludzka inteligencja zmniejsza się przy zwiększającej się bliskości do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To pułapka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maszyna do masażu nie powinna być używana do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na obiad zjadłbym(am) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepiej podsumowującym cytatem wypowiedzianym na pogrzebie zawsze jest \" _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wczoraj przyznałem się do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do Gałgan-landu trafi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co Cię dzisiaj wkurzyło? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kurwa, goni mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co się staje lepsze z wiekiem? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Faraon nie dawał się przekonać, Mojżesz zesłał plagę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tato? dlaczego mama płacze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zostawiłem w innych spodniach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jasiu, znowu nie masz zadania! Co masz na swoje usprawiedliwienie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Świetną imprezę miejską pod parlamentem Ukrainy zakończył _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym domu to ja jestem _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tylko _ potrafi podniecić biskupa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziwki, koks, smak jabola - to nie dla mnie, ja wolę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tłum wkurwił się, gdy zobaczył _ i postanowił za to ukarać _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Karta z _ jest powodem dla którego nie gram w tą grę z rodzicami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wojna! A jaki z niej pożytek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pewien mądry człowiek przed śmiercią powiedział mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mówi: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To straszna szkoda, że wszystkie dzieci w dzisiejszych czasach mają do czynienia z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Śniadanie tak jak wczoraj a na obiad będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W świecie opanowanym przez _ Naszym jedynym ratunkiem jest _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ posiada _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co powiedział syn do matki? Oczywiście że: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dentysta zamiast aparatu zaproponował mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nigdy nie myślałem, że _ będzie tak przyjemne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stewardesa podczas lotu zauważyła na skrzydle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pierwszy krok do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest moja super mocą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak pachnie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słońce Cię razi, czym się osłonisz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierdol się, jestem _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To mój fetysz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak mi wstyd za cały ten _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego w niebie jest bardzo dużo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze trzymam przy sobie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas Czwartej Wojny Światowej będzie się walczyć za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego pienisz się, że złości? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mam na czole? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jedyna rzecz, która ma znaczenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co było najgorszą rzeczą jaką robiłeś po pijaku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? No jasne stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może powtórzymy _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podnieca mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabawmy się przy dźwiękach _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W najnowszym filmie pod tytułem _, zmierzy się _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Co jest moim narkotykiem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pewien człowiek powiedział \"Wszystko kreci się wokół seksu, za wyjątkiem seksu. Seks kreci się wokół _ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Według nowej reformy zabrania się _ na terenie samolotu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chcę umrzeć za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje Hobby: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w wolnym tłumaczeniu oznacza _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Antropologowie odkryli ostatnio starożytne plemię czczące _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gram w grę. Jaką? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzieciaki wyskoczyły z łóżek i poleciały schodami na dół by pod choinką znaleźć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Największy skandal na spotkaniu wywołał _ prezentując _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co to za zapach? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co rozkręci każdą imprezę? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "GJ6WN",
+    "name": "Karty Przeciwko PoLskiej Ludzkości - Czarne (domyślne)"
+  },
+  "quantity": {
+    "black": 636,
+    "white": 0,
+    "total": 636
+  },
+  "dateStoredMs": 1589192941010
+}

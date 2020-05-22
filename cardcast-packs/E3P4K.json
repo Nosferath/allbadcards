@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "Imagine finding  _ in Arena.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alcohol + _ + _ = best night ever",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I hate it when my flatmate starts _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We all love Exeter because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing about a night out is waking up and having to deal with _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The overwhelming Exeter white majority.",
+    "Point Exe.",
+    "Procrasturbating.",
+    "A £10 Wilko drying rack, discount toilet roll and vodka.",
+    "Twats that keep setting off the fire alarm.",
+    "Trying to find girls in engineering lectures.",
+    "Stir Fridays.",
+    "VKS.",
+    "The irony of having a cardiac on Cardiac Hill.",
+    "Unit 1.",
+    "That one housemate who gets menstrual about cleaning.",
+    "Decent banter.",
+    "That 1/10 you accidentally got with and won't go away.",
+    "People in Birks moaning about cardiac every day.",
+    "The SSB.",
+    "Best Kebab.",
+    "Your campus crush.",
+    "Estate patrol.",
+    "The struggle of trying to convince your ONS to come to Point Exe.",
+    "Meg's horrendous sunburn.",
+    "Exeter's Yik Yak game.",
+    "Pre-drinks in the middle of the afternoon.",
+    "Holland \"Ballers\".",
+    "Silly fresh.",
+    "That one flatmate that just can't pull.",
+    "Wannabe \"journalists\" who write for the Tab.",
+    "Locals on ket sweating through their eyes at Cellar Door.",
+    "Being the tall guy everyone \"meets by\" while clubbing.",
+    "Penny C roadmen.",
+    "Domino's at 5am.",
+    "Rainbow VK chunder.",
+    "Coming home at 6:30am and carrying on drinking.",
+    "Being in the rugby team and surprisingly not being a cunt.",
+    "SO.MANY.FUCKING.HILLS.",
+    "\"Rape Alley\".",
+    "Playing BUCS Ultimate Frisbee and thinking you're the shit.",
+    "Cracking a Nazi joke in a history lecture.",
+    "Not making it out to town after a heavy pre's.",
+    "That borderline sexual assault guys call \"flirting\".",
+    "Following a nice plump ass up Forum Hill.",
+    "Danger wanking in the library."
+  ],
+  "pack": {
+    "id": "E3P4K",
+    "name": "Exeter Uni Pack"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 41,
+    "total": 46
+  },
+  "dateStoredMs": 1588877797519
+}

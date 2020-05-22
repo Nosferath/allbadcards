@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "I'm _ because of  Zen",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know _ is popular because _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Unknown is my _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mc's new _ is a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it me or _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juman Han is _ because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Crappy.",
+    "Crossdresser.",
+    "Marriage in the space station.",
+    "Honey Buddha chips.",
+    "Only an assistant.",
+    "Has an emo twin.",
+    "Zens looks.",
+    "Mystic Messenger.",
+    "Rika Rika Rikkaaaa.",
+    "Phone case.",
+    "A narrcist.",
+    "App.",
+    "Fighter.",
+    "Boyfriend.",
+    "Bff till the end.",
+    "Hot guys.",
+    "Juman Daddy.",
+    "Studyi ng.",
+    "Pranked you.",
+    "It's 707s fault.",
+    "College student.",
+    "Try me.",
+    "Drank too much chocolate milk.",
+    "Too busy to date.",
+    "My Yoosung!.",
+    "Lol.",
+    "Gaming hard too see.",
+    "Lolol is the best.",
+    "Am I gay?.",
+    "Hacked my phone."
+  ],
+  "pack": {
+    "id": "Z8S6Z",
+    "name": "Mystic messenger"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 30,
+    "total": 36
+  },
+  "dateStoredMs": 1589093653587
+}

@@ -1,0 +1,502 @@
+{
+  "black": [
+    {
+      "content": "Mijn oma kreeg zowat een hartaanval nadat zij _ in haar Chinees vondt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is er niet veel aan? _ maakt ieder feestje leuker!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geen zorgen zoon, je bent in goede handen bij _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Straks op Eurosport2: het wereldkampioenschap _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Er zijn slechts 2 dingen zeker in het leven: de dood en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het spijt me meester, ik kon mijn huiswerk niet maken door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als er iets beter wordt met de jaren, dan is het _ wel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beste Hitkrant, ik heb _ in _ gestopt en nu komt het er niet meer uit! Wat moet ik doen?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "RTL4 presenteert _, het verhaal van _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ik houd van de geur van _ in de ochtend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn vorige relatie eindigde door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik had al een hekel aan 3D, maar toen ik _ in 3D zag, was ik er echt helemaal klaar mee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Zo wil ik sterven.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na mijn vakantie heb ik _ uit Duitsland meegenomen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het is nogal triest dat kinderen zich tegenwoordig vooral met _ bezighouden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toen ik thuis kwam, had _ _ stuk gemaakt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vlak voor zijn dood dacht Michael Jackson aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tijdens de kabinetsformatie, overwoog Mark Rutte nog een ministerie voor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn favoriete smurf is _ Smurf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de toekomst zullen historici het erover eens zijn dat _ het begin van de achteruitgang van Nederland heeft ingeluid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De wetenschap zal nooit de oorsprong van _ verklaren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naar verluid komen Bassie en Adriaan volgend jaar terug met de film: Bassie en Adriaan en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ heeft weer eens alle donuts opgegeten!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een wereld verwoest door _, is _ onze enige hoop.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = WINNEN!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Het Internationaal Gerechtshof in Den Haag heeft _ schuldig bevonden van _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is toch wel de grootste reden waarom ik 's nachts niet kan slapen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop... _-time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Met nieuwe maatregelen probeert het Ministerie van Onderwijs moeilijke leerlingen met _ te inspireren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ik een miljardair ben, zal ik een 15 meter hoog standbeeld plaatsen om _ te gedenken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In plaats van de roe geeft Sinterklaas nu _ aan stoute kinderen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De nieuwste best seller van Tel Sell is gek genoeg _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volgens insiders helpt _ Mark Rutte te ontspannen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ en _. Een nieuwe film over een superheld en zijn sidekick.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wat is die lucht? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maar voordat ik u dood, Mr. Bond, moet ik u _ laten zien.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik heb _ nooit volledig begrepen, totdat ik _ tegenkwam.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In zijn nieuwste matige comedy, is Adam Sandler gevangen in het lichaam van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volgens Lange Frans en Baas B. komen we uit het land van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is een geweldig cadeau voor _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In het nieuwe seizoen van 24, heeft Jack Bauer 24 uur de tijd om _ te bestrijden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeetje, wat koud! Laten we snel de _ aansteken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hints werd verpest toen mijn moeder _ moest uitbeelden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is voor de verandering enorm moe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de volgende aflevering van Dr. Phil: hoe te praten met je kind over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amerika liet zijn beste kant zien, toen ze _ uit de vliegtuigen lieten vallen voor de kinderen in Irak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het beste aan Nederland is toch wel _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toen de Farao niet toegaf, ontketende Moses een plaag van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die nieuwe populaire video over _ heb ik inmiddels wel tien keer gezien.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dit theaterseizoen in Koninkelijk Theater Carré, _ : De Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanaf deze maand vind je _  bij je volgende McDonalds Happy Meal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Op kinderen getest, door moeders goedgekeurd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik had nooit verwacht dat _ en _ beste vrienden zouden worden!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "En de prijs voor _ gaat naar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is de nieuwste aanwinst voor 3FM veiling.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik kan niet veel, maar _ is mijn geheime kracht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een poging om een breder publiek aan te trekken, opende het Rijksmuseum een interactieve tentoonstelling over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het schooluitje werd compleet verpest door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waarom kunnen vrouwen toch niet zonder _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ik ooit de gevangenis in moet, smokkel ik _ mee naar binnen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nieuwe richtlijnen verbieden nu _ in vliegtuigen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De KNVB heeft _ verbannen, omdat het spelers een oneerlijk voordeel gaf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het leven van de Amerikaanse indianen veranderde voorgoed toen de blanke man ze introduceerde aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De donatie van _ had toch wel de grootste impact op Het Glazen Huis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Er gaat niets boven _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bassie en Adriaan.",
+    "Abstracte kunst.",
+    "Kaaskop.",
+    "The Beatles.",
+    "Angst.",
+    "Bananen in pyrjama's.",
+    "Voormalig president George W. Bush.",
+    "Facebook.",
+    "SBS6 kerstparades.",
+    "Even Apeldoorn bellen.",
+    "Saxofoonsolo's.",
+    "Spontaan gaan zingen en dansen.",
+    "Dansen met een bezem.",
+    "Een toppertje en een breezer ananas.",
+    "De Vietnamese verkiezingen van 2012.",
+    "André Hazes-verzamelalbums.",
+    "The Backstreet Boys.",
+    "Gandhi.",
+    "Een waterpokkenepidemie.",
+    "Mark Ettur.",
+    "Een man van middelbare leeftijd op rolschaatsen.",
+    "RoboCop.",
+    "Ollie's afschuwelijke Donald Duck impresie.",
+    "Een robot leren lief te heben.",
+    "Een miljard euro.",
+    "Blinden en slechtzienden.",
+    "Ondergoed binnenstebuiten dragen om een wasbeurt te voorkomen.",
+    "De ware betekenis van Sinterklaas.",
+    "Een boer verwachten en op de vloer kotsen.",
+    "Puppy's.",
+    "Dagobert Duck.",
+    "Mijn ziel.",
+    "De ware betekenis van Kerstmis.",
+    "Het Junior Eurovisie Songfestival.",
+    "Dit spel.",
+    "Jack van Gelder.",
+    "Netflix.",
+    "In brand staan.",
+    "Inbrekersrisico.",
+    "Geen broek dragen.",
+    "Wetenschap.",
+    "Geert Wilders.",
+    "Patatje oorlog.",
+    "Precies wat je verwacht.",
+    "De paus.",
+    "Biologische ongediertebestrijding.",
+    "Een scheermes.",
+    "Macht.",
+    "Muziek van Adele.",
+    "Emoties.",
+    "Darth Vader.",
+    "Mijn relatiestatus.",
+    "Rijk zijn.",
+    "Deze avond.",
+    "Noord-Korea.",
+    "Explosies.",
+    "Tinky Winky.",
+    "Het einde van de wereld.",
+    "Een pony.",
+    "Vikingen.",
+    "Jopie!.",
+    "Een scheet laten en weglopen.",
+    "Doen alsof je ergens om geeft.",
+    "Elvis Presley.",
+    "Knuffelen.",
+    "Kermisvolk.",
+    "Bezuinigen.",
+    "Elektriciteit.",
+    "Mariëtte.",
+    "Sesamstraat.",
+    "Media-aandacht.",
+    "Italianen.",
+    "Feyenoord.",
+    "Alcohol.",
+    "Jan Peter Balkenende.",
+    "Kentucky Fried Chicken.",
+    "De Rijdende Rechter.",
+    "Geesten.",
+    "Batman.",
+    "Te hete soep.",
+    "Het vernietigen van bewijsmateriaal.",
+    "De Johan Cruijff-schaal.",
+    "De rode zee bevaren.",
+    "Een teleurstellende verjaardag.",
+    "Een pittige kapsel.",
+    "Een eerlijke agent met niets te verliezen.",
+    "Het kapsel van Geert Wilders.",
+    "Padvinders.",
+    "De nieuwe dienstregeling van de NS.",
+    "Belgen.",
+    "Mark Rutte.",
+    "Justin Bieber.",
+    "Vegatarische maaltijden.",
+    "Goede grammatica.",
+    "Kwik, Kwek en Kwak.",
+    "Feline.",
+    "Theo Janssen.",
+    "Wildbreien.",
+    "Een groep tieners dat verblijft in een afgelegen hut in de wildernis.",
+    "Planking.",
+    "Wereldvrede.",
+    "Authentieke Turkse shoarma.",
+    "Mannen.",
+    "Magnetronmaaltijden.",
+    "Lennart.",
+    "Gandalf.",
+    "Snoep stelen van een kind.",
+    "Tom Cruise.",
+    "Snot.",
+    "Mijn overleden goudvis.",
+    "De provincie Drenthe.",
+    "Kampvuurgitaristen.",
+    "Een hoofd als een bak met wormen.",
+    "Beroemd zijn.",
+    "God.",
+    "Arrogantie.",
+    "Stilte.",
+    "Arnold Schwarzenegger.",
+    "Een gebalanceerd ontbijt.",
+    "Zinloos geweld.",
+    "Bruine bonen.",
+    "Een cactus.",
+    "Kanye West.",
+    "Extreem strakke broeken.",
+    "GroenLinks-stemmers.",
+    "Vleesboek.",
+    "Een klein paard.",
+    "Ongepast jodelen.",
+    "Ontvoerd worden door Peter Pan.",
+    "Donald Duck.",
+    "Michael Jackson.",
+    "AXE Body Spray.",
+    "Slechte levenskeuzen.",
+    "Valsspelen op de Paralympische Spelen.",
+    "Eminem.",
+    "Morgan Freeman's prachtige stem.",
+    "Zoete, zoete wraak.",
+    "Het chinese atletiekteam.",
+    "De melkman.",
+    "Piratenfestijnen.",
+    "Gratis iets proeven in de winkel.",
+    "Nelson Mandela.",
+    "Een live-publiek.",
+    "Neuspeuteren.",
+    "Stichting Doe Een Wens.",
+    "Gedaanteverwisselaars.",
+    "Ollie.",
+    "In de fik staan.",
+    "De economie.",
+    "Grappige hoedjes.",
+    "De Telegraaf.",
+    "Passief agressieve plaknotities.",
+    "Gladiatorgevechten.",
+    "Een dinosaurus zijn.",
+    "Oma.",
+    "Een beetje in je onderbroek poepen terwijl je een scheet laat."
+  ],
+  "pack": {
+    "id": "NEQS8",
+    "name": "Dutch Family-Friendly Version 1 / Nederlandse Familie-Vriendelijke Versie 1"
+  },
+  "quantity": {
+    "black": 66,
+    "white": 156,
+    "total": 222
+  },
+  "dateStoredMs": 1589058114970
+}

@@ -1,0 +1,564 @@
+{
+  "black": [
+    {
+      "content": "This is an add-on for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tfox has added an elaborately time-consuming recipe for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is OP!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Resource pack makers can now use JSON to add _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chisels and Bits can even be used to create _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ offers to buy Mojang for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mojang should just add _ to vanilla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most players these days only like overpowered things like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is soooo unbalanced.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grum is vocally opposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Creating ironic mods only leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time you bug a mod author for updates, _ happens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The FTB team decides that _ should be optional.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tekkit fans will never forgive SirSengir for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bukkit was actually owned by _ all along!  What a twist!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ completely breaks the balance of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I've been banned from r/feedthebeast for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you imagine a modpack without _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A DMCA takedown has been issued against _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "FTB announces a new modpack: FTB _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Project _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now against the EULA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thaumic _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of picking between 1.8, 1.9, and 1.10, lets settle for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notch says _ is used to steal passwords.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notch sells Mojang to _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Microsoft is going to turn Minecraft into _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forgecraft is voting on whether to add _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vazkii has nerfed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the only hardcore player because I use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FTB Monster now includes _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ violates my moral rights.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My modpack is based around _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Modding API will include _, _, and _ when it is finally released.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is now blackballed by the Resonant Rise team.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minecraft: _ Edition",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just like playing Creative Mode.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was banned from #minecraftforge for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greg is only on the IC2 team for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crafting an infinity ingot now requires _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help! My game crashes when I try to craft _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Draconic Evolution is balanced because it takes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ now requires Xbox Live Gold.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GregTech now requires _ to craft _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All aboard the Drama Train!  Next stop: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not updating to 1.12 until they add _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notch has used his excessive wealth to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_craft",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New to Dartcraft: Force _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buildcraft now runs on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest Thaumcraft has replaced wands with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "$200 Patreon Milestone: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ingots are so unrealistic. Items  should be crafted from _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Direwolf20's username is on sale for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Psi now has Trick: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Open_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a much better system than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My modpack will now only use mods hosted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does your modpack even have permission for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ with sprinkles!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New from Direwolf20: A spotlight on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just spawned a Mystcraft age with an ocean of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why go mining when you can just build _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thermal _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, _, and _ belong in the Void Pipe.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Waiting for the crystallizer to finish.",
+    "Successfully writing a program in FORTH.",
+    "30 pages of GregTech placeholder items.",
+    "Equivalent Exchange 3's release date.",
+    "GregTech.",
+    "76 different dusts made from the same metal.",
+    "A mod that requires bee breeding to progress.",
+    "Pixelmon's DRM.",
+    "Voodoo poppets.",
+    "Shadows of Israphel finally being completed.",
+    "Trying to make The Aether work in a modpack.",
+    "Getting Chickenbones to write a mod for you.",
+    "Eloraam's Twitter.",
+    "Throwing Xychorium crystals in the Forge Lexicon so they'll at least match.",
+    "A 9x9 recipe for sticks.",
+    "IChun winning a ModJam.",
+    "RedPower Clones.",
+    "When the modding API came out in Minecraft Beta 1.8 as promised.",
+    "The Bedrock Dimension.",
+    "Ignoble Bees.",
+    "Wondering why the Thaumometer can't figure out trees.",
+    "Literally grinding your face against a grindstone.",
+    "Mojang.",
+    "Forking an entire mod so you can have solar panels.",
+    "AE2's channel system.",
+    "Trying to figure out which FTB Wiki to go to.",
+    "Open Source.",
+    "Finding that ONE research you still need to unlock Ichor.",
+    "More Iridium than actually exists on Earth.",
+    "The Modding API.",
+    "Thaumic Tinkerer's elemental fire.",
+    "9 x 9 Cobblestone Shacks.",
+    "Asking inappropriate questions at a panel.",
+    "Actually enjoying Avaritia.",
+    "Kihira creating a new mod.",
+    "A mod with 20 dependencies.",
+    "Way too many configs.",
+    "KingLemming's smooth cowboy voice.",
+    "Wondering where the Morvy-In-A-Box went.",
+    "X3n0ph0b3 streaming for 24 hours straight.",
+    "1.8's Rendering System.",
+    "NOVA.",
+    "Lots and lots of particles.",
+    "Calling a poorly made mod WIP as an excuse.",
+    "A nauseating excess of the color pink.",
+    "In-game capes.",
+    "A Minecraft update without JEI.",
+    "A dirt block.",
+    "An update checker that can't be disabled.",
+    "An exploit not even RWTema will touch.",
+    "A mod that isn't allowed in any modpack ever.",
+    "An actual Alfheim dimension.",
+    "Power Converters.",
+    "Nine different aspects for plants.",
+    "Not knowing the difference between RF and MJ.",
+    "Tungsten Ore.",
+    "A crash report consisting entirely of \"it dont work\".",
+    "TC.  You know which one I'm talking about.",
+    "Sticking to Minecraft 1.7.10 forever.",
+    "More Creeps and Weirdos.",
+    "Ore Tripling.",
+    "Twitch App for Linux.",
+    "The squishy noise Taint makes.",
+    "Another Copper Ore.",
+    "Power Perdition.",
+    "Making an aggregator site to repost mods from other sites.",
+    "Sticking it to The Man by boycotting Twitch App.",
+    "Getting banned from #minecraftforge.",
+    "Nether Stars.",
+    "Wondering who this Jason guy is and why modders hate him.",
+    "Those really fat cables from the first IndustrialCraft.",
+    "Ignoring all warnings and installing Optifine anyway.",
+    "Another division sigil.",
+    "Adding a boiler and calling your mod steampunk.",
+    "Minefactory Reloaded.",
+    "GPL or something.",
+    "Dartcraft.",
+    "Vanilla Mechanics.",
+    "The Thaumcraft Add-on Bandwagon.",
+    "Petabytes of JSON files.",
+    "Anything written by Reika.",
+    "Using unit conversion to bypass a mod.",
+    "Dirt 2 Diamonds.",
+    "Knocking Notch's fedora off only to reveal a smaller fedora underneath.",
+    "Putting a Soul Shard into an anvil.",
+    "Finding a reference in Botania.",
+    "Idling next to a Soul Cage to keep it running.",
+    "Pneumaticcraft plants swallowing the planet.",
+    "Twilight Forest biomes generating in the overworld.",
+    "Buildcraft pipes vomiting items all over your clean floor.",
+    "Minecraft's EULA.",
+    "Trying to download a mod with no direct download while adf.ly is down.",
+    "Cheating in a full book of Mystcraft symbols.",
+    "Redstone Flux.",
+    "Hardcore Questing Mod.",
+    "Blowing up your third macerator.",
+    "That one cool mod I saw on Forgecraft.",
+    "Making a profit off of volunteer labor.",
+    "Blah blah blah SOARYN blah blah.",
+    "Completely draining the Nether of lava.",
+    "Installing Railcraft just for the steam boilers.",
+    "Minetweaking a mod beyond recognition.",
+    "Some shiny tools you'll never use because of Tinkers Construct.",
+    "The new and improved Minecraft Joules.",
+    "Trying to balance PvP.",
+    "Magical Crops.",
+    "That really irritating drama generator twitter bot.",
+    "A Botania update.",
+    "Actually doing Thaumcraft research instead of checking a cheat sheet.",
+    "An entire void age that contains only a single house.",
+    "A barren land of bauxite as far as the eye can see.",
+    "MCF's spam filter eating your post.",
+    "Installing Project E and complaining about balance.",
+    "Equivalent Exchange 2.",
+    "Blue slimes trampling your crops.",
+    "An entire hand of blank cards, all with Xycraft written on them.",
+    "Adf.ly.",
+    "A twenty step crafting recipe.",
+    "Better Than Wolves.",
+    "TAAAAAKE IT EASY!.",
+    "Soaryn's Patreon.",
+    "A block that's actually shaped like a cube.",
+    "Marc Watson talking about the EULA.",
+    "Reika's commit history.",
+    "A recipe that requires several instances of a non-stacking item.",
+    "Ore Octupling.",
+    "A chunk reset.",
+    "The Galgadorian Drill.",
+    "A new ore that's stronger than diamond!.",
+    "Trying to craft multiple overclockers with non-stacking coolant cells.",
+    "An infinity ingot.",
+    "Zombe's Mod.",
+    "Eight modules, each with their own adf.ly link.",
+    "IT'S THAUMIC, OKAY?!.",
+    "Thinking mods are written in Javascript.",
+    "Actually understanding how to use MFR's Rednet Controller.",
+    "Yet another XyCraft ore.",
+    "Ruining everything with Fake Players.",
+    "Harassing a mod author and wondering why you're kicked off the FTB wiki.",
+    "Killing yourself with a loopcast spell.",
+    "Frisky Taintacles.",
+    "Using Twitch App for anything other than starting Minecraft.",
+    "Abandoning a mod when it doesn't make you famous.",
+    "ExtraTic materials.",
+    "Hanging out in r/feedthebeast to hate on modders.",
+    "A barrel of nether stars.",
+    "Notch's room full of rotten, uneaten candy.",
+    "Programmer Art.",
+    "Minecraft Forge.",
+    "Universal Electricity.",
+    "An actual legit playthrough with ICBM installed.",
+    "A candlelit vigil to wait for the return of RedPower.",
+    "Accidentaly right clicking inside your base while holding a Bound Pickaxe.",
+    "Including Mo' Creatures in a modpack.",
+    "A very laggy frame machine.",
+    "Absurdly large multiblock structures.",
+    "Balancing things with clay.",
+    "A bunch of superfluous Thaumcraft aspects.",
+    "Textures done in MS Paint.",
+    "An Infusion Altar that looks like a New Age shop vomited all over it.",
+    "Expecting a colorblind person to play a mod with color-coded machines.",
+    "Passive Decay.",
+    "Curse.",
+    "Micro$oft.",
+    "Reika's intrusive update checker.",
+    "HELLO, EVERYONE!  THIS IS DIREWOLF20!.",
+    "Warp.",
+    "Making demands of a hobbyist as though you're a customer.",
+    "Magical Boxes.",
+    "Anything Grum says on Twitter.",
+    "Those beetles in the Twilight Forest that hold you a little too close.",
+    "Rioting in the streets because Dayblooms decay.",
+    "That potato config in Avaritia.",
+    "Equivalent Exchange 2 clones.",
+    "Pahimar's dad jokes.",
+    "Risugami's ModLoader.",
+    "Better Than GregTech, Galgadorian Rotarycraft Edition.",
+    "Crafting a full set of draconic armor before you build a house.",
+    "Compact Solar Panels.",
+    "A Well of Suffering full of witches.",
+    "Thinking Sword Art Online invented Norse Mythology.",
+    "Programming a turtle to do it instead.",
+    "The Ore Dictionary.",
+    "A tech mod with no wiki or documentation.",
+    "A retextured zombie.",
+    "Gating Immersive Engineering behind Avaritia.",
+    "Thinking Alfheim is an anime reference.",
+    "The Bukkit Team.",
+    "Ore Doubling.",
+    "Programming a turtle to move an energy cell slightly to the left.",
+    "Azanor creating another reboot of Thaumcraft.",
+    "A bootleg copy of Immersive Engineering.",
+    "A mod compatible with Better Than Wolves.",
+    "Forge Multipart.",
+    "Worldgen that doesn't do anything yet.",
+    "Placing a Wrath Lamp and breaking every multiblock structure in a five chunk radius.",
+    "Ramping up the stats on some mobs and calling it an RPG Mod.",
+    "Immibis.",
+    "Fallen Kanade.",
+    "Func_149851_a(World p_149851_1_, int p_149851_2_).",
+    "Literally receiving a bag of poop for completing a quest.",
+    "An ID conflict.",
+    "Another adventure map with Hardcore Questing Mod.",
+    "Notch explaining to a woman that mansplaining doesn't exist.",
+    "EUs, but the experimental kind.",
+    "Xbox Live Gold.",
+    "Trying to craft something only to realize GregTech is in the pack.",
+    "Minia.",
+    "Forgecraft's IP address.",
+    "A new skyblock adventure map.",
+    "Mods that don't accept Ore Dictionary planks in recipes.",
+    "Mine Little Pony.",
+    "A mod that doesn't exist, but you have totally awesome ideas for.",
+    "GODDAMN FIRE BATS.",
+    "Trying to find a vanilla desert after installing Biomes O Plenty.",
+    "Saying \"Can someone help me?\" in IRC and then leaving after 30 seconds.",
+    "GODDAMN HECATES.",
+    "Sacheverell's sexy voice.",
+    "Open Source, but don't touch my shit.",
+    "Throwing a stack of cobble into a crucible and watching the server get covered in Thaumic Slimes.",
+    "Taking over an existing mod and renaming all the packages after yourself.",
+    "A fuckton of Dayblooms.",
+    "Using placeable milk to decorate a giant phallus."
+  ],
+  "pack": {
+    "id": "YROSL",
+    "name": "Minecraft Drama"
+  },
+  "quantity": {
+    "black": 65,
+    "white": 223,
+    "total": 288
+  },
+  "dateStoredMs": 1588521959612
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "How did Pocahontas get to England? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pinocchio snorting Viagra."
+  ],
+  "pack": {
+    "id": "FCQ8S",
+    "name": "Cards Against Disney"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588205954235
+}

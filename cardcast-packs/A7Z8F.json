@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "_ is the title I chose for my passport.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how I manage to pay off my debt to Tom Nook.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was enjoying my time on the island until _ happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes! I caught a _ 99 more and I’ll have dollaripede!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tarantula island.",
+    "Those balloons that carry Presents to your island.",
+    "Animal crossing new horizons.",
+    "Isabels cute face.",
+    "Shaking trees hoping for something good but getting wasps instead.",
+    "Saharah’s ugly mysterious wallpapers.",
+    "Selling Timmy and Tommy a oceans worth of fish every day.",
+    "Tom Nook breaking my knee caps because I’m late on my house payment."
+  ],
+  "pack": {
+    "id": "A7Z8F",
+    "name": "Animal crossing new horizons"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 8,
+    "total": 12
+  },
+  "dateStoredMs": 1589079722952
+}

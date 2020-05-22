@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "_ makes the Homestuck fandom uncomfortable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ stays awake at night, crying over ___.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "SJZTC",
+    "name": "Cards against Homestuck"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588816572648
+}

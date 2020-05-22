@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "Can't keep my _ in my pants.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Push me to the edge, all my friends are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't for everybody. You need a certain level of intelligent's to really vibe to his music.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Listening to all 570 of Viper's albums.",
+    "Clout tokens.",
+    "Asking producers for free beats.",
+    "Sitting down and being humble.",
+    "30,000 Soundcloud rappers.",
+    "Goop.",
+    "John Coelho's ego.",
+    "Kairyuu."
+  ],
+  "pack": {
+    "id": "YWPQ8",
+    "name": "NOT a Rap Shitposting Pack"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 8,
+    "total": 11
+  },
+  "dateStoredMs": 1589030027515
+}

@@ -1,0 +1,347 @@
+{
+  "black": [
+    {
+      "content": "A héten _ jár a Happy Meal mellé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ meg a fia fát vágnak az erdőben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kár, hogy a mai gyerekek csak a(z) _ -ra tudnak godolni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha egyetlen dolgot választhatna Orbán Viktor, ezt vinné egy lakatlan szigetre: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elnézést, de találtam egy _ -t az ételemben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ez vetett véget a legutólsó kapcsolatomnak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha _ harcolna _ ellen, azt megnézném!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A célom az, hogy _ leszek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Nem fog fájni!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A következő bűvészmutatványomban elővarázsolom _ -t _ -­ból/ből.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szerintem a legjobb karácsonyi ajándék _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nélkül nem élet az élet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars Episode IX, a _ bosszúja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. gyerekek tesztelték, anyák hagyták jóvá.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és _ egy illegális disznóvágás hevében jöttek össze.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nem gondoltam volna hogy ezt érzem, más szemmel nézek rád. Beléd estem és tudom támadni fog majd a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apu, miért sír anyu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Én így szeretlek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elnézést tanárnő, nincs kész a házim a(z) _ miatt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Áder János csak egy dolgot szeret jobban a bajszánál: _ t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és _ a tökéletes páros.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Orbán Viktor úgy döntött mától a _ legális.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Akármennyire is csodásnak tűnik a _ , soha nem fog megtörténni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Van egy _ a szobámban szerintem tök modern.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hiszek egy istenben, hiszek egy hazában, hiszek _ feltámadásában.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az orvosok szerint a heteroszexualitást csak _ -el lehet gyógyítani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hé, _ , melyik út megyen itt Budára?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagypapi újabban _ -ból csinál pálinkát.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mostantól csak a(z) _ -ban/ben hiszek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az orvosok azt mondják, hogy a(z) _ egészséges.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Te elmehetnél _ nak/nek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bízz bennem, _ vagyok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rádió 1, itt igazi mai _ megy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Kúrnám.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "én azért nem szavazok idén mert _ vagyok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gyurcsánynak a mikulás _ -t hozott ajándékba.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ilyen szagúk van az öregeknek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = egy emlékezetes este.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Egy gondolat bánt engemet: _ által halni meg.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jó volt ez a _ , csak kevés volt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bármikor elolvasok egy jó könyvet ami a _ -ról/ről szól.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mostantól a Mikulás virgács helyett _ -t hoz a rossz gyerekeknek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Létrejött egy új vallás amit _ hivnak és minden követője hisz a _ eljövetelében.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. így akarok meghalni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A hazug _ ­et hamarabb elviszi a NAV, mint a sánta _ ­et.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Miért nem jön álom a szememre? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Facebookon bejelöltem egy csajt, de mikor taliztunk kiderült hogy ő _ kamu profillal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és _ : együtt tették tönkre az országot!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Az Oroszok már _ -ban/ben vannak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A világegyetem _ és a(z) _ ütközésével jött létre.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A reptéri biztonsági előírások mostantól megtiltják a _ fedélzetre vitelét.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha lehetne egy kívánságom, _ -t kívánnék a seggembe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ne próbáljátok ki otthon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szex közben mindig _ -re gondolok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ inkább _ ­-et vinné föl a padlásra.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Magyarország következő miniszterelnőke: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az ISIS terroristái lecserélik a szlogenjüket, az \" Allahu Akbar\"-t. Mostantól _ -t fognak ordibálni a harcok előtt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tanárnő, a kutya megette a _ -m.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az igaz KDNP­s a havi 47 ezer forintból _ -­t venne előszőr.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az egyetlen emlékem a tavalyi Szigetről: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Alexa.",
+    "Tinder.",
+    "Anyád.",
+    "Baszás.",
+    "Facebook.",
+    "Coronavirus.",
+    "Livi.",
+    "Manuel.",
+    "_.",
+    "Netflix.",
+    "Marci.",
+    "Vodka.",
+    "Utazás.",
+    "Rajzolás.",
+    "Lucifer.",
+    "Remény.",
+    "Instagram.",
+    "Gyurcsány.",
+    "Fasz.",
+    "Szőr.",
+    "Liszt.",
+    "Wc papír.",
+    "Iván.",
+    "Martin.",
+    "Orbán Viktor.",
+    "Viki."
+  ],
+  "pack": {
+    "id": "Z5FGV",
+    "name": "lolxd"
+  },
+  "quantity": {
+    "black": 61,
+    "white": 26,
+    "total": 87
+  },
+  "dateStoredMs": 1588447332782
+}

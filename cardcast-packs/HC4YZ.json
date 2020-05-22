@@ -1,0 +1,101 @@
+{
+  "black": [
+    {
+      "content": "If you are in a guild, _. That is all I have to say.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You don't _ for your friends, you _ for them.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You're not going to believe this, but I think _ has a crush on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Like _ this place as eternal mystery, a never ending _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Requip! _ Armor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Special Request! Watch Out for the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Such beautiful scarlet hair.... Why don't we call you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking _ is a specialty of everyone in Fairy Tail!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do fairies really have _? Do they even exist?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, but it doesn't matter if you're a _. I don't go easy on anybody who hurts my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's nothing happy about having your fate decided for you! You have to grab your own _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Living a strong life means _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "10,000 dragons.",
+    "Stalking.",
+    "Shipping wars.",
+    "Winged fish.",
+    "Fanservice.",
+    "Booze.",
+    "24 hour road race.",
+    "Stripping.",
+    "The number 7.",
+    "The Grand Magic Games.",
+    "YOU ARE MY RIVAL.",
+    "AYE SIR.",
+    "Nakama.",
+    "Jellal clones.",
+    "Stupid people.",
+    "Hiro Mashima.",
+    "Propety damage.",
+    "Depressing flashbacks.",
+    "30 babies.",
+    "REAL MEN.",
+    "Fanfictions.",
+    "PARFUM.",
+    "Love rival.",
+    "Foreshadowing.",
+    "Love potions."
+  ],
+  "pack": {
+    "id": "HC4YZ",
+    "name": "Fairy Tail~"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 25,
+    "total": 37
+  },
+  "dateStoredMs": 1588376653356
+}

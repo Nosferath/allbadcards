@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "_ is Cyril's new sexual partner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Brett shot this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't they know you're in the _ zone?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lana. LANA. LAAANNAAAAA. / WHAT / _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mallory Archer.",
+    "Cheryl Tunt.",
+    "Danger zone.",
+    "Cheryl's ocelot.",
+    "Cyril's sexual addiction.",
+    "Sterling Archer.",
+    "Woodhouse.",
+    "Kreiger.",
+    "Kreiger's virtual girlfriend.",
+    "Cyril Figgus.",
+    "Brett.",
+    "Nikolai Jakov.",
+    "ISIS.",
+    "Archer's dependancy on his mother.",
+    "Ray Gillette.",
+    "Pam.",
+    "Len Trexler.",
+    "Lana Kane."
+  ],
+  "pack": {
+    "id": "ZLOS5",
+    "name": "Cards Against Archer"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 18,
+    "total": 22
+  },
+  "dateStoredMs": 1589035223906
+}

@@ -1,0 +1,417 @@
+{
+  "black": [
+    {
+      "content": "My _ is sensitive to sound.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "America has _ but Saudi Arabia has _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Im in the middle of _, can i call you back?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The saying in the middle east is:_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Careful, you might make my _ angry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guess what the new blank is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll blow up your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hide in the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a proud ISIS member, i enjoy to (do)_ in foreign countries.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cant decide to join _ or join _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How many _ does it take to get to the center of a _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My house is full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, It's alright to die because ill get _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know whats pointless?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta light for my _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, want to _ the neighboring country?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just took my kids to _ at the new attraction in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: My favorite phrase!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a bad case of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You really srewed the _ this time. Where are we gonna find a new _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I make sure my _ stays covered.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'mon! You clogged the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wont _ but i will _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll trade _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I might be a _ but that was uncalled for!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is way better than those Samolian pirates.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wants our _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ha! A spy, it was clear because you didnt have (a) _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ =Middle Eastern power couple.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is always causing us trouble!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where's the _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a _ to keep sand out of my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey kids want some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cant wait to _ my _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why _ your goats when you _ them.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Leave it to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothin' like the smell of _ in the mornin'!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate when America _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put your _ in that glory hole?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of D&D , we play _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will rub my _ on your _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: Achmid can't get enough!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thats how I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isis killed my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't so bad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It would be better if this _ wasn't so short.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dont make me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You might have a _, it might be the _, but ain't nobody got a _ like mine.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hope we can _ in the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I jsut realized i have a _ in my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where will we get _ for all these _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Have you heard the new hit album: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need some more _ for my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Got _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that a _ in your bag?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Iraqi Christmas.",
+    "Poorly packaged bullets.",
+    "Oil.",
+    "Muslims.",
+    "Child carrying a bomb.",
+    "Afghanistan.",
+    "My 3rd wife found my bomb stash and told the SEAL team.",
+    "Islamic terrorists.",
+    "Hookas.",
+    "American drones.",
+    "Molotov.",
+    "Middle east power.",
+    "Abu Bakr al-Baghdadi.",
+    "Isreali officials.",
+    "Middle Eastern strip club(lucky to see some ankle ).",
+    "Isreal.",
+    "Famine.",
+    "Syrian refugees.",
+    "Goats.",
+    "Toss the grenade.",
+    "Blow up the block.",
+    "ISIS.",
+    "Knock off middle eastern soda.",
+    "Allahu Akbar.",
+    "Taking goats.",
+    "Fuze.",
+    "Free gas, except it's in Baghdad.",
+    "Desert tent.",
+    "Al Qeadu.",
+    "Midnight smuggling.",
+    "IED.",
+    "Wasteland.",
+    "Falsely labeled weaponry.",
+    "U.S. food banks.",
+    "Iraq.",
+    "Bomb Who?.",
+    "Tomahawk Missiles.",
+    "Bombs.",
+    "Receiving 72 virgins.",
+    "Mosul.",
+    "Shot.",
+    "72 virgins.",
+    "Using Allah's name in vane.",
+    "Classic white truck with an overcrowded tailgate full of armed terrorists.",
+    "China.",
+    "ISIS beheading videos.",
+    "The high explosive material.",
+    "My favorite extra long turban.",
+    "Timer.",
+    "Dirt hut.",
+    "Over 100 degrees weather.",
+    "Iran.",
+    "U.S. military.",
+    "This gun.",
+    "Plane to Iraq.",
+    "Eat goats.",
+    "11 year old translator.",
+    "Eating strange foods.",
+    "Yemen.",
+    "Syrian beer brewed in a desert hole.",
+    "American humvee's mounted with 50 calibers.",
+    "AK-47.",
+    "Illegal gas weapons.",
+    "Mortar.",
+    "Bomb vest.",
+    "Making a bomb deal with my secret source.",
+    "Civilian casualties.",
+    "Sand.",
+    "Coffins.",
+    "I have a painfully obvious bomb under my shirt.",
+    "American disguises.",
+    "Only for show.",
+    "Child murderer.",
+    "Digouts&Dynamite.",
+    "Blow up little kids and woman.",
+    "Cheap cigarettes.",
+    "In middle east, oil drills you.",
+    "Home made ski masks.",
+    "Playing COD to sharpen my skills.",
+    "Mosul, town of fun tunnels and IEDs.",
+    "Free Egyptian Cotton.",
+    "Arabian McDonald's.",
+    "Stolen organs on ice.",
+    "Training kids to be terrorists with firworks.",
+    "R.P.G.",
+    "Firefight.",
+    "Several wives.",
+    "Full concrete compound.",
+    "Smuggling.",
+    "Hot potato bomb.",
+    "Makeshift bomb shelter.",
+    "Making bombs.",
+    "Secret warehouse of working Turkish children.",
+    "Donald Trump.",
+    "The real Jesus Christ.",
+    "Shoot civilians.",
+    "Booby trapped.",
+    "Home made ski masks.",
+    "Invade.",
+    "Saudi Arabia.",
+    "الله أكبر!.",
+    "Running from U.S. militants.",
+    "SEAL team 6.",
+    "My black flag.",
+    "Crater.",
+    "Middle East temple.",
+    "Shrapnel bomb at the marathon.",
+    "Goat fucker.",
+    "Desert shitter.",
+    "Sexy curly facial hair.",
+    "Ass.",
+    "Pretty damn big.",
+    "Goat fuckers.",
+    "Launching nukes.",
+    "AIDs.",
+    "Big ass warzone."
+  ],
+  "pack": {
+    "id": "YCXVQ",
+    "name": "Muslim Magic"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 116,
+    "total": 173
+  },
+  "dateStoredMs": 1588716547327
+}

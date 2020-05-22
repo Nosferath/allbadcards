@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "I'm going to the supermarket and _ at anyone I see panic-buying toilet paper.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Day 5 of quarantine. I am hours deep into binge watching YouTube videos about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm planning on _ during my quarantine period. I can't wait!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The government doesn't want you to know that _ is the best prevention strategy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I decided to beef up my immune system with a cleanse. It involves 14 days of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You may be vulnerable to COVID-19 if you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the seventh day of quarantine, COVID gave to me, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The WHO warns that you will be at greater risk for COVID-19 if you're _ every day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My prof suggested replacing our final projects with _ instead. How could the Dean approve that?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you experience symptoms such as _ and _ , please call your local healthcare provider.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I make sure to wash my hands every time I even think of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear students, we’ve decided to transition to an online learning experience. Starting Wednesday, we will begin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The mystery symptom of COVID-19 makes it appear as if you are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Coughing on all the Karens.",
+    "Fabricating COVID-19 statistics.",
+    "Being a little extra racist.",
+    "Running out of food and eating your pets.",
+    "Using lysol wipes for skincare.",
+    "Assaulting toilet paper hoarders with many toothpicks.",
+    "Saying that COVID-19 is \"an old people problem\".",
+    "Taking time to improve myself.",
+    "Pretending that you don't have a computer so you don't have to take classes.",
+    "Writing a New York Times best-selling novel.",
+    "Staying at least 2 meters apart.",
+    "Being shamelessly xenophobic.",
+    "Meeting in large groups to pray for health.",
+    "Running out of soap and refilling it with semen.",
+    "Hosting mass slumber parties.",
+    "Testing negative for COVID-19, but positive for being one sexy bitch.",
+    "Hoarding condoms and lube.",
+    "Watching porn numbly for several hours in a row.",
+    "Never hugging anybody, ever.",
+    "Listening to the COVID-19 Quarantine Party playlist on Spotify.",
+    "Listening to \"Toxic\" by Britney Spears on repeat.",
+    "Cleaning your ass with hand sanitizer.",
+    "Eating at McDonald's instead of your favourite Chinese restaurant.",
+    "Drinking hand sanitizer to ward off that pesky lil virus.",
+    "Supporting Asian businesses."
+  ],
+  "pack": {
+    "id": "VFEV2",
+    "name": "COVID-19 quarantine party"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 25,
+    "total": 38
+  },
+  "dateStoredMs": 1589535909168
+}

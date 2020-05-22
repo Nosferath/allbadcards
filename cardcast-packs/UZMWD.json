@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "This is my favorite part you see. Here's where she meets _, but she won't find out it's him until chapter three.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at this stuff, isn't it neat? Wouldn't you think my collection's complete? Wouldn't you think I'm the girl, the girl who has _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tale as old as time, _ and the _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do you wanna _ a snowman?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Little town, full of little people, waking up to say: _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "UZMWD",
+    "name": "Disney Against Humanity"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 0,
+    "total": 5
+  },
+  "dateStoredMs": 1589051265213
+}

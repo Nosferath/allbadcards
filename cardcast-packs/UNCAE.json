@@ -1,0 +1,20 @@
+{
+  "black": [],
+  "white": [
+    "United States.",
+    "Brexit.",
+    "#Brexit.",
+    "European Union.",
+    "#Bremain."
+  ],
+  "pack": {
+    "id": "UNCAE",
+    "name": "Brexit"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 5,
+    "total": 5
+  },
+  "dateStoredMs": 1589570555531
+}

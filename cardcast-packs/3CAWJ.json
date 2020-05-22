@@ -1,0 +1,218 @@
+{
+  "black": [
+    {
+      "content": "_ pa rin, mga ulol!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, nagtaas na naman ng presyo -- mga customer, umaalma na!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bata, bata, paano ka ginawa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saan aabot ang 20 pesos mo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. 'Di lang pang-pamilya, pang-sports pa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bakit nanaman nasira ang MRT? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This time check is brought to you by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Basta may _, may _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Para kanino ka bumabangon? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nanay, tatay, gusto ko, _, ate, kuya, gusto ko, _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Baka mabansagan ka na hari ng _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mabuhay ang _, mabuhay!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for sale, 3 pesos isa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gusto kong halikan si _, tirahin si_, at patayin si _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. More fun in the Philippines!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New and improved _, now with 20% more _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Here at _, we've got it all for you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, inaresto dahil sa kasong _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Walang ganyan sa States!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sa kanan, representing _, mag-ingay para kay _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, pinatay dahil sa away sa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Naghiwalay kami ng syota ko dahil nag-away kami tungkol sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pinagalitan ako ng nanay ko dahil nakita niya akong tumingin sa _.com.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Incest.",
+    "Dong-A gel pen.",
+    "Manny Pacquiao.",
+    "Rugby.",
+    "Quiapo.",
+    "Anygma.",
+    "Michael V.",
+    "Andrea Brillantes.",
+    "Philippine Navy.",
+    "Papaya sa tinola.",
+    "Pork barrel scam.",
+    "Graft and corruption.",
+    "Ryan Cayabyab.",
+    "Coco Martin.",
+    "Ryzza Mae Dizon.",
+    "Jennifer Laude.",
+    "Willie Revillame.",
+    "Charice Pempengco.",
+    "Zamboanga City crisis.",
+    "Noli de Castro.",
+    "Red Horse Extra Strong beer.",
+    "Rodrigo Duterte.",
+    "Dutertards.",
+    "Reckless imprudence resulting in physical injury and damage to property.",
+    "DepED.",
+    "Katrina Halili.",
+    "Baguio City.",
+    "Tondo.",
+    "Perjury.",
+    "Estafa.",
+    "Maute Group.",
+    "Typhoon Yolanda.",
+    "Ang Probinsyano.",
+    "Dubidubidapdap dubidubidipdip.",
+    "Alan Peter Cayetano.",
+    "Kanto Fried Chicken.",
+    "Tax evasion.",
+    "Cavite.",
+    "The Big One.",
+    "Bruno Mars.",
+    "NBN–ZTE scandal.",
+    "GLOCO.",
+    "Jollibee  Choco Mallow Pie.",
+    "Vice Ganda.",
+    "Pichi-pichi with niyog.",
+    "Extra-judicial killings.",
+    "Cong TV.",
+    "Cebu City.",
+    "Unlimited gravy.",
+    "Instagram.",
+    "Jessica Soho.",
+    "LBC.",
+    "Mocha Uson.",
+    "Hayden Kho.",
+    "VulcaSeal.",
+    "Daniel Padilla.",
+    "Dayang Dayang.",
+    "Fake rice.",
+    "Yellowtards.",
+    "Downy.",
+    "Quirino Grandstand hostage crisis.",
+    "Torre de Manila controversy.",
+    "Torjackan.",
+    "Leni Robredo.",
+    "Bacolod City.",
+    "Makati.",
+    "Pichi-pichi with cheese.",
+    "Pornhub.",
+    "Chowking Pork Chao Fan.",
+    "Pineapple on pizza.",
+    "Darren Espanto.",
+    "Ninja cops.",
+    "Meteor Garden.",
+    "Encantadia.",
+    "Miriam Defensor-Santiago.",
+    "Baste.",
+    "Mamasapano massacre.",
+    "Davao City.",
+    "Boracay.",
+    "Salisi Gang.",
+    "Angelica Santibañez.",
+    "Fake Viagra.",
+    "Seiko Wallet.",
+    "Alabang.",
+    "Kris Aquino.",
+    "ALS Ice Bucket Challenge.",
+    "Bonifacio Global City."
+  ],
+  "pack": {
+    "id": "3CAWJ",
+    "name": "Cards Against Humanity: Philippine Edition"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 87,
+    "total": 110
+  },
+  "dateStoredMs": 1588509663604
+}

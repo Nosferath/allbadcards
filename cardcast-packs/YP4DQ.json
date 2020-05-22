@@ -1,0 +1,72 @@
+{
+  "black": [
+    {
+      "content": "I can’t believe _ for _ magazine exists",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Draw me like one of you’re _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Is the start to a perfectly horrid day",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Toys.",
+    "My hopes.",
+    "Silly putty.",
+    "Fuzzy Socks.",
+    "Video games.",
+    "Bongos.",
+    "Radios.",
+    "Tents.",
+    "Unicorns.",
+    "Hiccups.",
+    "My sixteenth birthday.",
+    "Gold chains.",
+    "Pokémon.",
+    "Stars.",
+    "Witches.",
+    "Canada.",
+    "Snowballs.",
+    "Stuffed animals.",
+    "French maids.",
+    "Nail polish.",
+    "Old men.",
+    "Bees?!?.",
+    "A cabin in the woods.",
+    "Weird Al Yankovic.",
+    "Danny DeVito.",
+    "New Orleans.",
+    "Convenience stores.",
+    "Chain letters.",
+    "A cheap motel.",
+    "Time travel.",
+    "Angry hornets.",
+    "Velcro.",
+    "My dreams.",
+    "My hopes and dreams.",
+    "Stubbed toe.",
+    "Summer camp.",
+    "State fair.",
+    "A bad hair cut.",
+    "Rainbows.",
+    "Nicholas Cage.",
+    "Morticians."
+  ],
+  "pack": {
+    "id": "YP4DQ",
+    "name": "Apples Against Humanity"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 41,
+    "total": 44
+  },
+  "dateStoredMs": 1589156229145
+}

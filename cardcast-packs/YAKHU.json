@@ -1,0 +1,53 @@
+{
+  "black": [
+    {
+      "content": "Lara once had a dream  where she french Kissed _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lara once dressed up as _ to impress her crush.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When she was 17 years old Sophia had a hot affaire with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sophia once killed _ just by using her bare hands.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A polish Salsa dancer.",
+    "Conan o'brien.",
+    "Yo mama.",
+    "Sylvia plath.",
+    "The guy Who wrote the instructions  for the board game \"monopoly\".",
+    "A bear with chainsaw.",
+    "The hair Stylist of Richard Ayoade.",
+    "A swarm of racist bees.",
+    "The Artist formerly known as prince.",
+    "The ghost of jeffrey Epstein.",
+    "Her evil twin sister.",
+    "The winner of a Harry potter lookalike contest.",
+    "A pipe smoking  train conductor dressed as a sheep.",
+    "The sexiest Holocaust surviver ever.",
+    "A cum filled plastic bag.",
+    "A Stripper who somehow become the world Champion in throwing Baby rabbits very far.",
+    "Hitler."
+  ],
+  "pack": {
+    "id": "YAKHU",
+    "name": "Whatisthisbullshit69"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 17,
+    "total": 21
+  },
+  "dateStoredMs": 1588703399017
+}

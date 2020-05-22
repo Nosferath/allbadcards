@@ -1,0 +1,175 @@
+{
+  "black": [
+    {
+      "content": "Many Republicans want to repeal birthright citizenship in order to prevent _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ ever becomes president, (s)he'll have to give up _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is Bobby Jindal best known for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the top-secret hidden agenda of the Republican Party? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the top-secret hidden agenda of the Democratic Party? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The event that swung the election was when _ was endorsed by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ used to be the most conservative wing of the Republican Party, now it's the mainstream.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the election comes down to _ vs _ , I will choose the first because of _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What is the Obama administration best known for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Democrats are actually pretty rational. If you believe in _, then _ actually makes sense.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the hardest way to get into the US? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When they leave the White House, what is first on the Obama family's to-do list? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the government of Mexico send to the USA? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really happens to politicians \"Inside the Beltway\" after winning an election? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the election, a scandal will erupt because the winner couldn't explain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to many Republicans, _ should be illegal even in cases of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Republicans are actually pretty rational. If you believe in _, then _ actually makes sense.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What does freedom of speech mean to you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ is elected, (s)he'll set the ambitious goal of _ for the nation.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This presidential campaign was defined by the rancorous debate between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Many Republicans still believe that the only reason Obama was elected was by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing to happen during the current presidential campaign is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How should future presidential campaigns be funded? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Posting insults about reporters on Twitter.",
+    "Protesting in Ferguson.",
+    "Barack Obama.",
+    "A libertarian anarchist utopia.",
+    "Puerto Ricans emigrating to Florida.",
+    "Rape, incest and danger to the life of the mother.",
+    "De-funding Planned Parenthood.",
+    "Failed casinos and bankruptcies.",
+    "Ted Cruz.",
+    "Bernie Sanders.",
+    "Repealing Obamacare.",
+    "Calling out the National Guard to prevent an invasion by the federal government.",
+    "Running for president.",
+    "Anchor babies.",
+    "The Ku Klux Klan.",
+    "The Great American Melting Pot.",
+    "Benghazi.",
+    "Abortion.",
+    "Graduating from the Electoral College.",
+    "Being the lesser of two weasels.",
+    "Donald Trump.",
+    "The future First Lady of the US - in the NUDE.",
+    "A Christian Theocracy.",
+    "The reappearance of 1000's of emails that were reported as missing.",
+    "Rapists and drug dealers.",
+    "Hillary Clinton.",
+    "Crossing the border in the undercarriage of a tractor trailer.",
+    "Jeb Bush.",
+    "Banning all Muslims (especially BLACK muslims) from entering the US.",
+    "The corrupting influence of billions of $ in campaign contributions.",
+    "Drug money seized at the border.",
+    "Playing The \"Race\" card.",
+    "Corporate billionaires.",
+    "Rhyming \"hate\" with \"great\".",
+    "States' rights, segregation and a wall around Mexico.",
+    "The Tea Party.",
+    "A socialist welfare state.",
+    "Hot millennial college students.",
+    "Social Justice Warriors.",
+    "Yelling \"White Power!\" at a political rally.",
+    "A wall around Mexico.",
+    "Police shooting unarmed civilians.",
+    "A single-payer system.",
+    "Food stamps, Universal Healthcare and free university education for party members."
+  ],
+  "pack": {
+    "id": "eh6g8",
+    "name": "US Election 2016"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 44,
+    "total": 67
+  },
+  "dateStoredMs": 1589127542681
+}

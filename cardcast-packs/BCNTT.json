@@ -1,0 +1,226 @@
+{
+  "black": [
+    {
+      "content": "Hi and welcome to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That is not correct. Because according to the encyclopedia of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at all those _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am confusion. Why is this one _ but this one is not _? America explain!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I ain't got no sleep cause of _. Now y'all ain't get no sleep cause of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Anything for you Beyonce!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How much money you got? 69 cents. Ah - you know what that means? I ain't got enough money for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, I'm Jared, I'm 19 and I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When will you learn? When will you learn that _ has consequences?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OH! He need some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, my name is _. I got a _ tomorrow,",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I smell like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, I'm _ and I'm your freestyle dance instructor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Has anyone ever told you you look like Beyonce? No, they usually say I look like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not to be racist or anything but _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two bros, chillin' in a hot tub, 5 feet apart cause they're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you know whats good for me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's only one thing worse than a _. Boom. _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When there's too much drama at school, all you gotta do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh hi, thanks for checking in. I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whoever threw that water bottle, your mom's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fell on my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hurricane Katrina! More like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what? I'm about to say it. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop! You almost made me drop my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chris, is that a _? No, this is a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey, I'm a lesbian. I thought you were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a bad bitch, you can't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn Daniel! Back at it again with the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is there anything better than pussy? Yes, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This is why mom doesn't fucking love you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh my fucking God, she's fucking _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck is up Kyle? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck, _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "American.",
+    "Fork in the garbage disposal.",
+    "I can't believe you've done this.",
+    "Buttcheek on a stick.",
+    "Walk awayayayayayay.",
+    "Adam.",
+    "Still a piece of garbage.",
+    "A really good book.",
+    "Barbecue sauce on my titties.",
+    "B-I-C-T-H.",
+    "Chicken nuggets.",
+    "My valentino white bag.",
+    "Osteoporosis.",
+    "Milk.",
+    "Hurricane tortilla.",
+    "That's my opinion!.",
+    "Good evening.",
+    "A weed.",
+    "Free taco.",
+    "White vans.",
+    "Then perish.",
+    "I won't hesitate, bitch.",
+    "Desgusteng.",
+    "You better stop.",
+    "Miss Keisha.",
+    "PATRICIA.",
+    "Richard.",
+    "Booty.",
+    "Guacamole.",
+    "Boogie woogie woogie.",
+    "Chili's.",
+    "Beef.",
+    "Iridocyclitis.",
+    "Free real estate.",
+    "Never went to oovoo javer.",
+    "Not caring about you breaking your elbow.",
+    "Church girl who go to church and read her bible.",
+    "FR E SH A VOCA D O.",
+    "T-t-t-t-t-target.",
+    "Yeet."
+  ],
+  "pack": {
+    "id": "Bcntt",
+    "name": "Vines"
+  },
+  "quantity": {
+    "black": 34,
+    "white": 40,
+    "total": 74
+  },
+  "dateStoredMs": 1589066121899
+}

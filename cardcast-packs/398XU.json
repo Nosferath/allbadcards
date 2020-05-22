@@ -1,0 +1,56 @@
+{
+  "black": [
+    {
+      "content": "Jeff the Killer wants you to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you feel _? Does it brighten up your day?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "YOU SHOULDN'T HAVE _ THAT.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "come _ with us",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slender: The Eight _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ALWAYS _, NO _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Go to sleep.",
+    "BEN DROWNED.",
+    "Sonic.exe.",
+    "Herobrine.",
+    "Slenderman.",
+    "Smile Dog.",
+    "Chatroom 98.",
+    "Hypno's lullaby.",
+    "Jeff the Killer.",
+    "Don't open your eyes."
+  ],
+  "pack": {
+    "id": "398XU",
+    "name": "Creepypastas Against Humanity"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 10,
+    "total": 16
+  },
+  "dateStoredMs": 1589378729404
+}

@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "All you need is faith, trust, and _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Meeting someone and getting married 30 minutes later.",
+    "When the sea monkeys have your money.",
+    "Everything the light touches.",
+    "Momeraths.",
+    "The butt.",
+    "Breaking out into song and dance for no apparent reason.",
+    "Eating and drinking."
+  ],
+  "pack": {
+    "id": "ZD2OB",
+    "name": "Disney"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 7,
+    "total": 8
+  },
+  "dateStoredMs": 1589579141227
+}

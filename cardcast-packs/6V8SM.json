@@ -1,0 +1,340 @@
+{
+  "black": [
+    {
+      "content": "Spock is really good at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did James T. Kirk give Spock for his birthday? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain, the planet is inhabited by _ who participate in a ritual of _ on the night of every full moon. They have requested we join them.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If Dr. McCoy had to describe Spock, he'd say this: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A fluke transporter malfunction has turned _ into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Live long and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain, we have arrived at Planet _. Your orders, sir?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you out of your _ -mind?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain Kirk climbed the mountain because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit, Jim! Can't you keep your _ in your pants for five minutes?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the next episode of Star Trek: Captain Kirk convinces Spock to go to a _ party with him. Doctor McCoy compains about too much _ in the medbay.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chekov is actually a giant _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , it was invented in Russia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. McCoy's new cure for space disease: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help me, doctor! I've got _ on my _ and it burns!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Spock give Jim for his birthday? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Dr. McCoy give James T. Kirk for his birthday? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahhh, Sulu! I just found ze keptin in _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain... I am experiencing... _. Permission to leave the bridge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is the pon farr --  the time of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Set phasers to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mind to your mind. My _ to your _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dr. McCoy to the bridge. The Captain has contracted a case of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a doctor not  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leave _ in your quarters; there's no room for it on the bridge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warp _ , Mr. Sulu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's dead, Jim. Cause of death: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Illogical, Captain. There is a 98% chance of achieving _ if we employ the use of _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You look quite well for a man that's been through _, Mr. Spock.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Vuclans really love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All right, Bones. What's your beef? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To boldly _ where no man has before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. McCoy secretly enjoys _ in the privacy of his own quarters.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space, the final frontier. These are the voyages of the Starship _. Her five year mission: to explore _ and to seek out _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Space is disease and _ wrapped up in darkness and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is illogical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Spock met Kirk for the first time, he said \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ and _. These are a few of Mr. Spock's favorite things.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Dr. McCoy's greatest fear is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I thought the next Star Trek movie would be about _ , but it was about _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I feel _ for you, I feel ashamed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goddamn irresponsible! Playing games with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After bridge shift, Kirk and Spock relax by enjoying _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My wife took the whole damn planet in the divorce. All I have left are my _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Scotty's homebrew.",
+    "The dingle dangle.",
+    "A gentle caress of his fingers.",
+    "Romulan ale.",
+    "Spock's weird brother.",
+    "Space husbands.",
+    "Killing off anything that threatens to harm your captain.",
+    "Lots and lots of vodka.",
+    "An alternate universe where Kirk wears a shirt covered in glitter that shows of his cleavage and flatters his waistline.",
+    "Captain Kirk.",
+    "Lots and lots of tribbles.",
+    "Seeing a single tear slide down your first officer's cheek as he watches you die from radiation posioning.",
+    "One hundred dead red shirts.",
+    "Gay space rainbows.",
+    "The needs of the one outweighing the needs of the many.",
+    "Digging it in there.",
+    "Jim!.",
+    "Green blooded hobgoblin.",
+    "Doctor McCoy not in the best of moods.",
+    "Leonard \"Bones\" McCoy.",
+    "Warp core feels.",
+    "A fluffy pink tribble.",
+    "A pig's eye.",
+    "A big sharp hypo.",
+    "Spock's brain.",
+    "A moistier tastier turkey.",
+    "Spirk fanfiction.",
+    "Emotional compromise.",
+    "Emotional compromise.",
+    "Space bffs.",
+    "Spock's bed.",
+    "A bigger sharper hypo.",
+    "Spock.",
+    "A no-win scenario.",
+    "A real cold Georgia-style mint julep.",
+    "Klingon aphrodisiacs.",
+    "Spock cuddling a tribble for science.",
+    "The gorn.",
+    "A hypo fetish.",
+    "Spiking Spock's drink with chocolate sauce when he's not looking.",
+    "Trying to keep your captain's shirt on and failing.",
+    "Captain Kirk's driving skills.",
+    "Getting handsy with your Vulcan first officer.",
+    "High levels of sass.",
+    "Boning your first officer in the captain's chair.",
+    "The biggest sharpest hypo.",
+    "Dr. McCoy's identity crisis.",
+    "Captain Kirk's chest glistening with sweat.",
+    "Old Spock.",
+    "Logic.",
+    "Wondering about the biology of Vulcans.",
+    "A cupboard full of Romulan ale for medicinal purposes.",
+    "A well plucked eyebrow.",
+    "Captain Kirk's aesthetically pleasing buttocks.",
+    "Your voice choking with grief during your first officer's funeral.",
+    "Becoming one with the rock.",
+    "Boob window.",
+    "Two Kirk's one Spock.",
+    "No pants.",
+    "A tribble in the bed.",
+    "Space herpes.",
+    "Logical Vulcan eyeshadow.",
+    "Driving a man to drink.",
+    "Accidental bonding.",
+    "Dry humping your first officer on the red burning sands of Vulcan.",
+    "Phasers set to stunning.",
+    "Phasers set to kill.",
+    "Eating spiked beans around a campfire with your bffs.",
+    "A convenient Vulcan nerve pinch.",
+    "Imagining Kirk naked while talking about science.",
+    "Vulcans who suck at science.",
+    "Spock with a cat.",
+    "Shore leave shenanigans.",
+    "Finally getting the last word.",
+    "Knowing the things that love can drive a man to.",
+    "Spock's chest hair.",
+    "Captain Kirk's cornfed mind.",
+    "The outline of Captain Kirk's erection in Starfleet issue gym tights.",
+    "The prime directive.",
+    "An alternate universe where Spock has a beard and Kirk thinks it's hot.",
+    "Bubble butt.",
+    "Copious amounts of lube.",
+    "Using chess as foreplay.",
+    "Chocolate.",
+    "A convenient transporter malfunction.",
+    "Being blinded by lens flares.",
+    "Eyesexing your first officer on the bridge.",
+    "Mindmelds during sex.",
+    "The biggest greenest dick.",
+    "Fake heterosexuality.",
+    "Pretending you want to have sex with everyone but your Vulcan first officer and failing.",
+    "Sex in a turbolift.",
+    "A giant spinning cube following your starship in a threatening manner.",
+    "Blood-boiling pon farr sexual rage.",
+    "A fuck-or-die scenario.",
+    "A big green dick.",
+    "Ogling your first officer's ass as he bends over the science station.",
+    "One million hypos in the ass.",
+    "Vulcan blowjob.",
+    "Vulcan hand porn.",
+    "A bigger greener dick.",
+    "Sex pollen.",
+    "A 0.001 percent chance of catching your first officer with his pants down.",
+    "All the homo."
+  ],
+  "pack": {
+    "id": "6V8SM",
+    "name": "Space Husbands and Friends"
+  },
+  "quantity": {
+    "black": 44,
+    "white": 104,
+    "total": 148
+  },
+  "dateStoredMs": 1589487421665
+}

@@ -1,0 +1,43 @@
+{
+  "black": [
+    {
+      "content": "Bóg stworzył sex, bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię sex, bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masturbuje się, bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wącham klej, bo _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wącham klej.",
+    "GTA V.",
+    "WTF.",
+    "Lubi Ewę.",
+    "Pierdol się Card Czarze!!!.",
+    "Gówno.",
+    "Lubię mamę."
+  ],
+  "pack": {
+    "id": "GEY89",
+    "name": "POLSKIE GÓWNA HOMOSEKSUALNE"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 7,
+    "total": 11
+  },
+  "dateStoredMs": 1589488963790
+}

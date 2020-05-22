@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "Before he started saying \"Believe it\", Naruto's catchphrase was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sakura made me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naruto's first mission was actually_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason that Naruto and Sasuke stopped being friends was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst mission was when _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sakura's favorite pass time is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sasuke realized that _ was annoying when _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ had a party at their house.  We started by _ and then _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ killed _ when _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ _ when they found out there name meant _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Sleeping in absurd places.",
+    "Neji.",
+    "NaruHina.",
+    "Gai.",
+    "Unresolved plot threads.",
+    "Murdered an entire clan.",
+    "Yelling and fainting every five seconds.",
+    "Drank expired milk.",
+    "Kakashi.",
+    "Tsunade's jugs.",
+    "Kakashi's book.",
+    "Ino.",
+    "Sasuke.",
+    "TenTen.",
+    "7 minutes in heaven.",
+    "Snakes, doing just what you think they are doing.",
+    "Reading terrible fanfiction.",
+    "Lee.",
+    "Kiba.",
+    "Naruto.",
+    "Sakura.",
+    "Discovered Yaoi.",
+    "Hinata.",
+    "Getting random nose bleeds.",
+    "Shikamaru.",
+    "Sakura being useless.",
+    "Taking eyeliner Lessons from Gaara.",
+    "Ramen.",
+    "Lee's drunken face.",
+    "Itachi."
+  ],
+  "pack": {
+    "id": "M59BB",
+    "name": "Naruto Deck"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 30,
+    "total": 40
+  },
+  "dateStoredMs": 1589189395583
+}

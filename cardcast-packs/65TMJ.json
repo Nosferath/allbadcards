@@ -1,0 +1,62 @@
+{
+  "black": [
+    {
+      "content": "We do not talk about _ in the TMNT fandom. It did not happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real location of the Turtle's lair: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Have you seen the video where the cat plays _ with the chopsticks?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you met my OC, _ ? She's a mutant _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Karai.",
+    "Leo and Raph arguing endlessly over who should be leader.",
+    "Raphael being angry that Leatherhead is angrier.",
+    "The complete and utter lack of females in the TMNT franchise.",
+    "The Secret of the Ooze.",
+    "Donatello.",
+    "Donatello's tech goggles.",
+    "Leatherhead's fits of uncontrolled rage.",
+    "Leonardo.",
+    "Donnie ignoring the others in favor of yet another computer update.",
+    "The Next Mutation.",
+    "Oroku Saki.",
+    "Under the local pizzeria.",
+    "Casey Jones.",
+    "Donatello's Laboratory.",
+    "Mikey's utter simplicity.",
+    "Hun.",
+    "Raphael's tantrums.",
+    "The episode dedicated to slowly removing parts of Hun's shirt to tease the fandom.",
+    "Michelangelo.",
+    "Master Splinter.",
+    "April O'Neil.",
+    "Venus de Milo's shellboobs.",
+    "Irma Langinstein.",
+    "Leatherhead.",
+    "Raphael."
+  ],
+  "pack": {
+    "id": "65tmj",
+    "name": "Ninja Turtles"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 26,
+    "total": 30
+  },
+  "dateStoredMs": 1588299846328
+}

@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "FEAR NOT, HUMAN! IT IS I, THE GREAT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a beautiful day outside. Birds are singing, flowers are blooming. On days like this, kids like you... Should be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anime is still _ right?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're in for a _ time.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Megalovania.",
+    "Mettaton.",
+    "Legs.",
+    "Spider Dance.",
+    "Bad time."
+  ],
+  "pack": {
+    "id": "YME2T",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 5,
+    "total": 10
+  },
+  "dateStoredMs": 1589523795703
+}

@@ -1,0 +1,86 @@
+{
+  "black": [
+    {
+      "content": "Hydra's first plan during WII was to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ made Black Widow sterile.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Ronan was destroyed, Nebula ran off to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look out! Here comes _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, assemble!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At first, Peter Quill wanted to name the Guardians of the Galaxy _ of the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Steve Rogers first came to modern New York, his first thought was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tony Stark is hiding _ in Stark Tower.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bruce Banner made a new formula to turn _ into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Bucky lost his arm, his first thought was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Steve Rogers' pre-serum dick.",
+    "The Hooked on a Feeling tribal chant.",
+    "Thor's godly hairless chest.",
+    "Pepper being salty.",
+    "Drax's inability to understand metaphors.",
+    "The Hulk's big green dick.",
+    "Loki's icy heart and soul.",
+    "Ultron's sexual Pinocchio fantasies.",
+    "Bucky getting frustrated with his robot arm.",
+    "The unnecessary death of Quicksilver.",
+    "Loki making everyone kneel.",
+    "Groot's morning wood.",
+    "Shwarma.",
+    "Stony.",
+    "Tony Stark's iron cock.",
+    "Wanda Maximoff's ability to change probability.",
+    "Tony wondering if anybody kissed him while everyone thought he was dead.",
+    "Rocket's yiffing session.",
+    "Stucky.",
+    "Steve Rogers' post-serum dick."
+  ],
+  "pack": {
+    "id": "2659V",
+    "name": "Sh*t Avengers Say"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 20,
+    "total": 30
+  },
+  "dateStoredMs": 1588853021181
+}

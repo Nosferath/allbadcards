@@ -1,0 +1,163 @@
+{
+  "black": [
+    {
+      "content": "What is Pennywise's favorite snack! Is it _ or is it _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What was Pennywise Dancing to? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pennywise's weakness? _ _ and _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Beep Beep _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Richie wanted to bring down into the sewers when he faced IT again as an Adult? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got his arm ripped off!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new movie IT, Bill Skarsgård will play as Pennywise, _ Clown!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello... weezy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiss me _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Bill looking at? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! That's all Bill wanted to do!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We all _ down here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Losers Club first fought IT as kids, now they have to face IT again, but this time as _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! That's how we all got out of the sewers!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This isn't real enough for you, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come join the clown, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Bill see in his basement? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your Hair is Winter Fire, _, My Heart burns there, too",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bill Denbrough.",
+    "Tickle Pennywise like a horny teenager.",
+    "Henry Bowers.",
+    "Donald Trump's disapproving stare!.",
+    "Find Georgie alive!.",
+    "Beverly Marsh.",
+    "A shower scene... Awesome!.",
+    "Machine Gun.",
+    "Oopa Loopas.",
+    "Ben Hanscom.",
+    "Hillary Clinton.",
+    "Adults.",
+    "Rip Georgie's arms off.",
+    "Stan Uris.",
+    "Richie Tozier.",
+    "Let It Go!.",
+    "Itsy Bitsy Spider!.",
+    "Richie.",
+    "Pop the balloon.",
+    "Fat Boy.",
+    "Belch Huggins.",
+    "Vic Criss.",
+    "Clowns.",
+    "Georgie Denbrough.",
+    "Can't Touch This!.",
+    "Make out with Bev!.",
+    "Georgie's rotting ghost!.",
+    "The Master Sword.",
+    "Eddie Kaspbrak.",
+    "Give Pennywise a dental makeover.",
+    "Gang up on Henry Bowers.",
+    "Audra Phillips.",
+    "Balloon Animals.",
+    "Pennywise in a bathing suit.",
+    "Children.",
+    "Stephen King Gargling and Spitting.",
+    "The Young and the Restless.",
+    "Boy.",
+    "Mike Hanlon.",
+    "All the dead kids, eaten by Pennywise!.",
+    "Patrick Hockstetter.",
+    "Not another Circus Song!.",
+    "Pennywise's many different forms.",
+    "The Leper.",
+    "Richie's dirty sense of humor.",
+    "Pennywise the Dancing Clown.",
+    "Randall Flagg.",
+    "The Barrens.",
+    "January Embers.",
+    "Pennywise fucking the shit out of children and shoving them down the sewer drain, just for the hell of it!.",
+    "Getting bitch slapped by Stephen King.",
+    "Adolf Hitler.",
+    "Oh No... not another damn Clown sighting!.",
+    "I'm Sexy and I Know It!.",
+    "Pinching the nose!.",
+    "Another Gosh Damn Child Orgy Scene that didn't make sense!.",
+    "Sex Crazed Maniacs."
+  ],
+  "pack": {
+    "id": "CKQPK",
+    "name": "Cards Against IT"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 57,
+    "total": 75
+  },
+  "dateStoredMs": 1588459282547
+}

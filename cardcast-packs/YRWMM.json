@@ -1,0 +1,487 @@
+{
+  "black": [
+    {
+      "content": "When I opened the door to the change room, all I saw was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! I think that the school lunches gave me _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, Mrs. Szalay, but there was  nothing to do. At 2:19, your son succumbed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The police found _ in HSC's dumpsters.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the HSC grad prank, there were posters of _ everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next science class, we'll be dissecting a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Congratulations on completing HSC's newest course, applied _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the award for Most Improved Swimmer goes to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikhil the pickle likes to tickle his _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When MeltedSheep Arvin was taken down, Doug screamed out _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now on HSC-TV: _, the story of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The guidance councillors told me that if I liked _ I'd probably like _ too!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The HSC buses now prohibit _ onboard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HSC lunches are worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I looked at Moffatt's search history, all I saw was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing we learned about in Civics this year was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Doug leaving HSC? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that _ has the biggest _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How does Ghali spend his weekends? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was _ playing on the school TVs?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new trend among the grade 9's is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puma got a new tattoo in Spanish, it roughly translates to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Vedelago asked David why he was late for class, he blamed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here at HSC, _ is a way of life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Sormaz mad? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did _ yell out _ to Mandeep Sood?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only thing worse than biology is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tedesco picks up girls by talking about their shared love for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the teachers try _, you ask? Well, it seemed like a good idea at the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HSC will now be torturing students who are called into Sacchetti's office by subjecting them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that _ has the smallest _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sleep Country Canada: Why buy a _ anywhere else?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When all else fails, I can always bust a nut to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in my pasta at Lawson Hall!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Slo-Pitch team has a new slogan: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doug was diagnosed with a very rare case of _ today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s new website deals exclusively with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tristan showed me _ yesterday. I'm scarred for life!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear that _ was added to the lunch menu?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "911, what's your emergency? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tristan was complaining today because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Inside Ride, I rode to support _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The HSC Slo-Pitch team has banned _ for giving players an unfair advantage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Senior School presents this years play, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The HSC transportation board would like to apologize for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Sacchetti dream about at night? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Live with _, learn with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "People that wear #1 dress every day should try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HSC outsourced the _ department to India.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saw _ and _ in the science lab, and they weren't doing chemistry!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The FBI came to HSC today! They were looking for an alleged case of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the new school mascot, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was called into Sacchetti's office because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Golf is about as much of a sport as _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Most HSC teachers got their degrees in _, with a minor in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The key to being popular at HSC is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When HSC gives you _, give it to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The first thing that Doug did after leaving HSC was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Having parents that are siblings.",
+    "Tedesco.",
+    "Nikhil.",
+    "Mr. Edgar.",
+    "Losing a staring contest to a kid with no eyes.",
+    "School lunches.",
+    "Getting 27% on a test.",
+    "Chris \"The Flash\" Dimarino.",
+    "Pretending biology is a science.",
+    "Drinking bleach.",
+    "Hill's computer password.",
+    "Nick M's appendix.",
+    "Matthew Grace.",
+    "Tritty.",
+    "David.",
+    "The Great Wall of Milton.",
+    "Golden shower.",
+    "A family friendly game of nude twister.",
+    "Doug's intense dandruff.",
+    "Not-So-Melted Sheep.",
+    "Unvaccinated kids who end up autistic anyways.",
+    "Hill's browser history.",
+    "All of Dougs YouTube accounts.",
+    "The Gremlin.",
+    "Doug throwing his feces like a monkey.",
+    "All the STIs in the world.",
+    "Lawson Hall's new dog meat burrito.",
+    "The creature that lives under the Slo-Pitch mound.",
+    "The legendary head freckle.",
+    "200 used condoms pouring out of Locker 1089.",
+    "Reheated roast beef.",
+    "A complete waste of oxygen.",
+    "A low standard of living.",
+    "Writing love notes to Sacchetti.",
+    "An Athiest Christmas card.",
+    "Malaysian Airlines: russian roulette of the airline world.",
+    "A racist old billionaire who just happens to be running for president.",
+    "A scream of \"SYEEEER\" echoing through the halls.",
+    "Vigorous jazz hands.",
+    "Harrison's epic dad, Bruce Lee.",
+    "Tritty's ankle fetish.",
+    "The Braid.",
+    "Helen Kellner.",
+    "Sacchetti's golf cart.",
+    "#1 Dress.",
+    "Xetraem dyslexia.",
+    "Change room rap battles.",
+    "A strange smell coming from the supply closet.",
+    "The campus store ladies.",
+    "A good sniff.",
+    "Terminal autism.",
+    "Ms. Hideg.",
+    "Mrs. Munnings saying something controversial.",
+    "Science.",
+    "Becoming a drunk department store Santa.",
+    "Playing dodgeball with the front desk apples.",
+    "Getting Zika from Zeka.",
+    "A new donut place at Mohawk named 'Glory Hole'.",
+    "Pounding the mound.",
+    "A ruptured ovary.",
+    "Childhood cancer.",
+    "The middle school.",
+    "Vedelago putting coal in the Junior School stockings.",
+    "Sacchetti's sniper tower.",
+    "Puma wearing a pink dress and stilettos.",
+    "An even slower version of Slo-Pitch.",
+    "Saying you're \"spiritual but not religious\".",
+    "Osama bin Laden.",
+    "Settle eating agar.",
+    "Puma.",
+    "A salty surprise.",
+    "Optics.",
+    "Throwing rocks at the Junior School kids.",
+    "The HSC slo-pitch dynasty.",
+    "Getting shot down running to Hawk.",
+    "BDSM.",
+    "Trying to explain to De Lazz that biology isn't a real science.",
+    "Sneaking a flask of whiskey into the annual MADD presentation.",
+    "Doug.",
+    "Tritty Bowman.",
+    "Ghali.",
+    "Rohan.",
+    "Selling your organs for tuck.",
+    "Jerking off in chapel.",
+    "Serving BBQ at the hospital burn ward.",
+    "Getting a lifetime supply of Lawson Hall Fusilli Pasta.",
+    "Largest amount of cancer cells ever recorded.",
+    "Harrison.",
+    "A Special Ed teacher marking late students as \"tardy\".",
+    "Drinking bleach to get through midterms.",
+    "Gracey's severe autism.",
+    "Pierre's horrifying dab.",
+    "Mandeep.",
+    "Ronald McDonald's \"secret sauce\".",
+    "Daddy issues.",
+    "Chemistry.",
+    "Going mandeep.",
+    "Double penetration.",
+    "Mitch.",
+    "Foot fetish.",
+    "Getting stoned, in the biblical way.",
+    "Doug's hair flowing lusciously in the wind.",
+    "Biology.",
+    "Kuhn's knee fetish.",
+    "Mrs. Munnings.",
+    "Ben.",
+    "David's hyena laugh.",
+    "The countless hours of life wasted in Geo.",
+    "Father Methius.",
+    "Getting the death stare from the IT guys.",
+    "Hillzy.",
+    "September 11, 2001.",
+    "Mertin.",
+    "Rohini.",
+    "A urinal cake that still tastes better than half the food at lunch.",
+    "Applied science.",
+    "Spiking the pudding.",
+    "Mandeep.",
+    "\"ENOUGH IS ENOUGH\" echoing through the halls.",
+    "Ms. Carvaggio.",
+    "Assorted buns and sliced meats.",
+    "Settle keeping the bench warm.",
+    "Breasts that are clearly silicon.",
+    "Being \"politically correct\" while talking about Trump.",
+    "Sacchetti, just Sacchetti.",
+    "Arvin.",
+    "Teenage pregnancy.",
+    "IPS (Infant Penile Syndrome).",
+    "Hours upon hours of kinky cuddling.",
+    "Eternal virginity.",
+    "Demonic possession.",
+    "The tribe elders.",
+    "Dimarino's deafening music.",
+    "Rohan's watering hole.",
+    "Dr. De Lazz.",
+    "Kindergarten.",
+    "Getting 53% in English.",
+    "Dominic.",
+    "Helen Keller's driving school.",
+    "Tristan aggresively licking Bowman's ankle.",
+    "A dyslexic KKK member who hates gingers.",
+    "Viagra.",
+    "Getting lost in the Artsplex.",
+    "Snorting Grandma's ashes at Hawk.",
+    "Ms. Sheridan.",
+    "Terry Fox's prosthetic leg.",
+    "Kuhn.",
+    "Escaping Sacchetti by climbing up the flag poles.",
+    "Badly timed adoption jokes.",
+    "Bruce Pearson.",
+    "Arvin's obsession with the word \"boi\".",
+    "A presentation that lasts longer than the Remembrance Day ceremonies.",
+    "The smallest cock of alltime.",
+    "Cameron's hentai collection.",
+    "Dick fingers.",
+    "Dick.",
+    "Double fisting.",
+    "Synthetic weed pills.",
+    "Kids with ass cancer.",
+    "Anal tickling.",
+    "Sexy plant.",
+    "Finding a sex doll in the maintenance closet.",
+    "Anal cum farting.",
+    "Naming chicken after a continent.",
+    "Incest.",
+    "Anal tearing.",
+    "Anal massacre.",
+    "Blatant homophobia.",
+    "Random pubes.",
+    "Scouting for porn talent at grad.",
+    "Plagiarizing a suicide note.",
+    "AIDS.",
+    "Literally eating shit.",
+    "Serial Anus Tickler.",
+    "Ass-to-mouth resuscitation.",
+    "A dance move that's just sex.",
+    "Hardcore porn.",
+    "A rhino horn up the ass.",
+    "Balls.",
+    "A pedo accidentally hitting on a midget.",
+    "A sandpaper dildo."
+  ],
+  "pack": {
+    "id": "YRWMM",
+    "name": "The Boi Pack"
+  },
+  "quantity": {
+    "black": 58,
+    "white": 181,
+    "total": 239
+  },
+  "dateStoredMs": 1589578709494
+}

@@ -1,0 +1,74 @@
+{
+  "black": [
+    {
+      "content": "Jezus jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W każde święta, mój wuj upija się i opowiada historię o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W te ferie, Tadeusz Drozda musi pokonać swój strach przed _ aby ocalić święta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obudź się Polsko, świeta są pod ostrzałem lewaków i ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co sprawia, że jest mi ciepło podczas zimnej, lodowatej zimy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na trzeci dzień Świąt, moja prawdziwa miłość dała mi: trzy francuskie kury, dwie turkawki i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy podczas Sylwestra urwał mi się film, zostałem obudzony przez _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Niepokalane poczęcie.",
+    "Skarpetki.",
+    "Udawanie bycia szczęśliwym.",
+    "Malutkie, zrogowaciałe ręce chińskich dzieci, które wyprodukowały tą kartę.",
+    "Toksyczne środowisko rodzinne.",
+    "Sperma elfa.",
+    "Krwawa ścieżka z szablą przez centrum handlowe.",
+    "Kosmiczny Mecz na VHS.",
+    "Znikome znaczenie postu.",
+    "Pakowanie żywego chomika jako prezent.",
+    "Kilka przeplatanych historii miłosnych z udziałem braci Mroczków.",
+    "Świąteczne pończochy pełne białej kapusty.",
+    "Pada Shrek.",
+    "Kolędnicy.",
+    "Kolejny gówniany rok.",
+    "Kolacja wigilijna z mrożonek.",
+    "Sklepowy Mikołaj.",
+    "Pożeranie wzrokiem ludzi w swetrze-golfie.",
+    "Moja seksowna kuzynka.",
+    "Zdejmowanie Mikołaja rakietą ziemia-powietrze.",
+    "Ciężko worek Świętego Mikołaja.",
+    "Spieprzenie \"Cichej nocy\" przed 300 osobami.",
+    "Zjedzenie całego bałwana."
+  ],
+  "pack": {
+    "id": "UMKW1",
+    "name": "Holiday Pack 2012 (PL)"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  },
+  "dateStoredMs": 1589051031058
+}

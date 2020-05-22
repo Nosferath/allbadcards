@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "And to show you the power of Flex Tape® I sawed _ in half!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can Flex Tape® not fix? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imagine everything you can do with _ !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Flex Seal®.",
+    "Major damage.",
+    "Josephi Krakowski.",
+    "Flex Tape®.",
+    "Phil Swift.",
+    "Flex Seal Liquid®.",
+    "Sniffing flex glue.",
+    "The power of Flex Tape®.",
+    "A lotta damage.",
+    "Spending $356.87 on Flex Seal®."
+  ],
+  "pack": {
+    "id": "K6TJU",
+    "name": "Flex Tape"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1588282502199
+}

@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "_ Erotica",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica.",
+    "Harry Potter Erotica."
+  ],
+  "pack": {
+    "id": "z7y3m",
+    "name": "Harry Potter Erotica"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 11,
+    "total": 13
+  },
+  "dateStoredMs": 1588420730526
+}

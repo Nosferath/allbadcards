@@ -1,0 +1,89 @@
+{
+  "black": [
+    {
+      "content": "You know you had too much to drink when you wake up naked in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your father _ you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That awkward moment when you accidentally send your Grandma _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know you had too much to drink when you wake up next to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your fapping to _ , but _ pops in your head.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When your thinking about _ but Jesus comes first.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your having sex and _ pops into your head.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you get you dick stuck in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ can suck my dick.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you find out you and your dad both like masturbating to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That awkward moment you find out your favorite stripper is really _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A dickpick.",
+    "A baby hanging from the ceiling.",
+    "Morgan Freeman.",
+    "Morgan Freeman.",
+    "Your local Taco Bell.",
+    "The New York Plaza.",
+    "Your Grandma.",
+    "Rape.",
+    "Fuck you, just fuck you.",
+    "Nasal hentai.",
+    "A fucking dick.",
+    "Tentacle porn.",
+    "A box of full gay porn."
+  ],
+  "pack": {
+    "id": "PDKKE",
+    "name": "The Deck of Rape"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 13,
+    "total": 25
+  },
+  "dateStoredMs": 1588972876743
+}

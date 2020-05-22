@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "I will not give you my _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason why I can't sleep at night is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stan LOONA.",
+    "Evelin.",
+    "Loriz.",
+    "Haley.",
+    "Haley.",
+    "Gienel.",
+    "Stan LOONA.",
+    "Trish.",
+    "Christina.",
+    "Raina.",
+    "Trish.",
+    "Carlos.",
+    "Loriz.",
+    "Gienel.",
+    "Gay.",
+    "Raina.",
+    "Carlos.",
+    "Gay.",
+    "Christina.",
+    "Evelin.",
+    "Chrissy.",
+    "Chrissy."
+  ],
+  "pack": {
+    "id": "JNCCZ",
+    "name": "Stan LOONA (BVC VERSION)"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 22,
+    "total": 24
+  },
+  "dateStoredMs": 1588464890140
+}

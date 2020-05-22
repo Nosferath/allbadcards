@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "The doctor sat me down today. He says I have a serious case of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ ,\" she said.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was so good in bed last night!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes I like to _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some women think that men should automatically know to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One time, I ate a whole _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd kill myself, but _ is too important to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ loves _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite thing about school is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes I watch _ , just for fun!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cutting myself for attention.",
+    "Suicide.",
+    "My crippling depression.",
+    "Keemstar.",
+    "Dab, bitch, dab!.",
+    "Wiggle, wiggle, wiggle.",
+    "Cats.",
+    "Dis dick.",
+    "Hating myself.",
+    "Father Johnny who likes to touch you in 'special' ways.",
+    "Yes, Daddy!.",
+    "Bag of jellybeans up my ass.",
+    "Whoring myself out for fun.",
+    "Harambe.",
+    "Cancer.",
+    "AIDS."
+  ],
+  "pack": {
+    "id": "5P3JA",
+    "name": "Dark Humor is Gold"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 16,
+    "total": 26
+  },
+  "dateStoredMs": 1588633688753
+}

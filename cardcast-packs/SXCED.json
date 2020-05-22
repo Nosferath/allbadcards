@@ -1,0 +1,150 @@
+{
+  "black": [
+    {
+      "content": "Nie pierdol jak nie znasz sie na  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z Sylwestra u Natalii pamiętam jak ,, _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krzysiu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy słysze ,,SBQ on the track\" to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciuś po bongo wygląda jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": ",, _\" pomyślałem jak zamknęli palarke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "U Aleksa zarobie sie jak ,, _\" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "POOOOLEEE POLEEE, ŁYSEEE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy myśle o Natalce to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Białobrzewska to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prędzej wyruchałbym ,, _\" niż przytuliłbym sie z Rafałem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy zobaczyłem Krzysia to _ aż wypadł mi z kieszeni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natalia śpiewa jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy Malinowski podchodzi do mnie to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebać _ kurwe maczetami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to dobry sposób na podryw.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Nie, dzięki. Wole _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sram _ na morde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elwira obleje mnie przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dochodzi jak widzi _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Michał wygląda jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy spojrze w glace Malinowskiego to widze _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kutas.",
+    "Michał.",
+    "Jajecznica z jajek Maćka.",
+    "Maciuś.",
+    "Aleks.",
+    "Kurwa.",
+    "Mam ciarki.",
+    "Malinowski.",
+    "Patryk.",
+    "Moja przyszłość.",
+    "Krzyś.",
+    "Marcin.",
+    "Natalia.",
+    "Zjarus.",
+    "Staje chuj.",
+    "Szczur.",
+    "Pole.",
+    "Sram ze strachu.",
+    "Loda.",
+    "Sex.",
+    "Bażant.",
+    "Jebana kurwa.",
+    "Ruchanie.",
+    "Jebać Krzysia."
+  ],
+  "pack": {
+    "id": "SXCED",
+    "name": "ZSTiE"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 24,
+    "total": 46
+  },
+  "dateStoredMs": 1588852163513
+}

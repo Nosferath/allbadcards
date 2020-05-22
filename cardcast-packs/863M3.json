@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "I always say _ is a great gift.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ebola.",
+    "Ebola.",
+    "Ebola.",
+    "Ebola.",
+    "Ebola."
+  ],
+  "pack": {
+    "id": "863M3",
+    "name": "Ebola"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1589142125736
+}

@@ -1,0 +1,73 @@
+{
+  "black": [
+    {
+      "content": "The \"A\" in LGBTQIA+ now stands for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new gender is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God said Adam and Eve, not _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All the kids are calling themselves _ -sexual now days.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The difference between bisexuality and pansexuality is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In some countries, _ is punishable by death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom, Dad, I'm _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "An lgbt friendly church.",
+    "Lettuce gay bacon tomato.",
+    "Rainbows.",
+    "A stereotypical gay romance story ending in tragedy.",
+    "The gender binary.",
+    "An unpronounceable neopronoun.",
+    "The local gay bar.",
+    "The gay agenda.",
+    "Praying the gay away.",
+    "Lipstick lesbians.",
+    "That one gay cousin.",
+    "2nd puberty.",
+    "Being fabulous.",
+    "Butch lesbians.",
+    "Two dads.",
+    "Gender neutral bathrooms.",
+    "Two moms.",
+    "A pride parade.",
+    "The gay lisp.",
+    "An invisible bisexual.",
+    "Asexuals eating cake.",
+    "No homo."
+  ],
+  "pack": {
+    "id": "AATVW",
+    "name": "LGBT"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 22,
+    "total": 29
+  },
+  "dateStoredMs": 1588669679420
+}

@@ -1,0 +1,727 @@
+{
+  "black": [
+    {
+      "content": "Last week's damage report has 3000$ billed to SHIELD for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tony's spectacular ineptitude in the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, _. Does the carpet match the drapes?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever tried making _ with _? Oh it's the best!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why does Scott get all the ladies? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ let _ into _ again.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "547 reasons not to trust _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Needs more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't get a PhD in _ for this...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can also use _ as a sled if you're bored enough.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumour has it that _ will be releasing a pin-up calendar next year.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your country needs you. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who told the X-men they could come? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bring your child to work day is no longer recognized at SHIELD after the _ incident.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Logan convincing the Avengers to try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's on Darcy's iPod? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magneto meets  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That time Tony thought _ was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I hear Thor's been collecting _ lately.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't see how that's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen _ lately?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Underneath all Sabertooth's furry layers is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SHIELD's ridiculous budget for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's been a lot of debate about whether or not _ is dating _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ /_ /_? Oh yeah. That's my fetish.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Who invited Spiderman? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you say _ in the mirror three times _ will appear behind you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ School For Gifted Youngsters.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awh _ no.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm too busy doing _ to notice or care.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deep down in your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever seen _ and _ in the same room?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dammit! _ broke the fourth wall again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once broke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who the hell is Bucky? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got into the space booze again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never believed the rumours about _ until I saw them in the shower.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who convinced Pepper to override JARVIS? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you like me? _ / _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ beating up hundreds of drug dealers just for something to do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hear _ is thinking of going solo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steve Rogers found that fanart of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ secretly wears lingerie to meetings.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clint hasn't even managed to _ this week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well of course _ sounds stupid when you say it like that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loki's horn helmet is a good container for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once read a slash fic that paired _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A startlingly common headline _ and _ arrested for disorderly conduct.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's a new line of sex toys based on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ were caught beating up an old man. Don't worry it was actually a skrull.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can't get enough of _ doing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dude, we're starting a super secret boy band called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ at law.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? More like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instant popularity: Wolverine and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Howard's experimentation with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ killed my dad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awh. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I moonlight as a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Howard's love of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is there so much fluff of _ and _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_! your experiment melted through the _ again!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pietro using _ to jerk off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wolverine fisting someone when suddenly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight Kitty has tried _ and completely ruined the basement.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coulson's Collection of officially licensed Captain America _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An OT3 that no one has. _ / _ / _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "How did we manage to break _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I jerk off to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you think Bruce has ever Hulked out during _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you have to bring _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never really wanted to _ until I met _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why are all the X-Men in the hospital? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There was one time Coulson called the Avengers to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick Fury once managed to _ a bear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coulson's room is filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new class in applied _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick Fury's Fetish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The fall of a giant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clint was once caught wearing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mister Sinister has created a new hybrid clone using _ and _ 's DNA.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Phil was caught touching Himself to pictures of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That time Pepper caught Tony _ in his _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you know that there's actually _ behind Fury's eyepatch?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing quite like trying to play cards with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sick of tripping over_ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New Pairing : _ / _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bucky? I thought you said _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How many times can you hit _ before someone hits you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tony once made a robot out of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh by the way, I'm inviting _ over for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't know what it is but I want it. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe we convinced _ to train with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All I've ever wanted to do was _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ will be getting their own clothing line next week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever just _? Yeah. Me too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's the newest star in the Mojoverse? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really happened in Budapest?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay.  This looks _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one remembers _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : An Avenger's biography.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Charles has convinced everyone that _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All I want to do is _ , is that so much to ask?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Nat take her coffee? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest avenger is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "No one noticing that Professor X has the munchies.",
+    "Moist.",
+    "Mistyping 'Darkholme' as 'Darkhomie'.",
+    "Gentle Twerking.",
+    "Mortimer Toynbee.",
+    "Daddy issues.",
+    "Vibrinium.",
+    "Wolverine's lovely bear tits.",
+    "Peter Parker.",
+    "The Fantastic 4.",
+    "Steve Rogers' tasteful sideboob.",
+    "Cable.",
+    "Patriotic ass.",
+    "Hank's shedding problem.",
+    "Scott Bummers.",
+    "Pizza Dog.",
+    "Bishop.",
+    "High grade, custom sex toys powered by the Tesseract.",
+    "Spiral Cha-cha'ing in and ripping out your spine.",
+    "Adamantium.",
+    "Death metal.",
+    "Vague mutant elitism.",
+    "Raven Darkholme.",
+    "The Hellfire Club.",
+    "The Assassins Guild.",
+    "Natasha's ability to crush a walnut with her thighs.",
+    "The Blackbird not being a partyjet but totally being a partyjet.",
+    "SHIELD's embarrassing employee list.",
+    "Hydra.",
+    "Belladonna.",
+    "Bruce Banner.",
+    "Science.",
+    "Star Spangled Underpants.",
+    "She-Hulk.",
+    "Starbucks getting your name wrong.",
+    "Embarrassing pop songs.",
+    "Pyrokinesis.",
+    "Azazel.",
+    "Clint Barton.",
+    "Wheelchair sex.",
+    "Asgard.",
+    "Jean-Luc Lebeau.",
+    "Alpha Flight.",
+    "A talking pigeon everyone just assumes is a mutant.",
+    "Todd Tolanski.",
+    "Natasha Romanov.",
+    "Barney Barton.",
+    "A Barrel of Dicks courtesy of deadpool.",
+    "Charles Xavier.",
+    "Man Bits.",
+    "Deadpool.",
+    "Hipster Mutant Teens.",
+    "A Candlelit dinner.",
+    "The Weapon X Program.",
+    "Cap's insatiable hunger.",
+    "The sad truth that since The Avengers became public figures, the media has been more focused on their relationships than the good they do.",
+    "The mojoverse.",
+    "Nightcrawler's tail.... if not for the fur....",
+    "The X-Men.",
+    "Phil Coulson.",
+    "Gentle bubbing in the distance.",
+    "Sam Wilson.",
+    "One Sentinel too many.",
+    "Loki Laufeyson.",
+    "Jean Grey.",
+    "Havok.",
+    "7000 Tony Stark Action figures.",
+    "Tesseract Weapons.",
+    "Jane Foster.",
+    "The Maximoff Twins.",
+    "Sabertooth's flea problem.",
+    "The Jotuns.",
+    "The Danger Room.",
+    "Alex Summers.",
+    "Nick Fury Reading 'go the fuck to sleep' to the Avengers.",
+    "The Mutant Registration Act.",
+    "People forgetting that Wolverine is 5'3''.",
+    "Slim Summers.",
+    "Kitty Pride.",
+    "Logan's oversized stunt double; Huge Jackman.",
+    "Doreen Green.",
+    "Magnuts.",
+    "Omega Red.",
+    "Squirrel-related powers.",
+    "Hank McCoy.",
+    "Nat's panties.",
+    "Darcy Lewis.",
+    "Scott's cat allergy.",
+    "Namor having a geoduck for a penis.",
+    "Forgetting Clint Barton.",
+    "Kitchen.",
+    "Weapon X.",
+    "Snikt.",
+    "Krakoa.",
+    "Sinister terminating his clones before they can be used for untoward purposes.",
+    "All of Wolverine's Bastard Children.",
+    "Daken Akihiro.",
+    "The obvious parallel between Clint and Thor and Legolas and Gimli.",
+    "Bedroom.",
+    "Animal Magnetism.",
+    "Maria Hill.",
+    "Clint Barton with his hearing aids out.",
+    "Espionage.",
+    "Jotunheim.",
+    "Logan's pot habits.",
+    "Thor's Hammer.",
+    "Clint's Bow.",
+    "Cap's Shield.",
+    "Scott Summers.",
+    "Android Husbands.",
+    "What even is this place?.",
+    "Science Bros.",
+    "Kate Bishop.",
+    "Logan's 'give a shit' deficiency.",
+    "Impromptu shawarma trips.",
+    "I was promised donuts.",
+    "Remy's Cat infestation.",
+    "The Thieves Guild.",
+    "Mr. Sinister trying futilely to get his employees to stop giving him nicknames.",
+    "Victor Creed's obvious crush on Wolverine.",
+    "Illyana Rasputin.",
+    "Midgardians.",
+    "Laura Kinney.",
+    "My only allegiance is to the Sea.",
+    "Women who hit on Wolverine expecting it to go well.",
+    "An omelette that takes two hours to make.",
+    "A Coffee Shop AU.",
+    "The wide array of new college courses invented to suck money from the mutant rights movement.",
+    "Steve Rogers.",
+    "Magnets.",
+    "Party.",
+    "Red Ledgers.",
+    "Seriously?.",
+    "Not Spiderman.",
+    "The Hulk's jolly green giant.",
+    "The Avengers.",
+    "Mystique.",
+    "Summerscest.",
+    "Clint's Hobo-chic lifestyle.",
+    "Toad's 'aroma'.",
+    "Auntie Em.",
+    "Emma Frost.",
+    "Charles Xavier reading Go the Fuck to Sleep to his X-men.",
+    "Falcon's ability to do a literal flying kick.",
+    "A female Hyena mutant that everyone is tense around.",
+    "Howard the Duck.",
+    "Scott Summers in his bedtime visor.",
+    "Kate Hawkeye-.... Bishop.",
+    "Scott's replacement shades.",
+    "The Asgardians.",
+    "I'm Canadian.",
+    "Remy LeBeau.",
+    "The Hulk.",
+    "Nick Fury.",
+    "Piotr Rasputin.",
+    "Kurt being unable to flip anyone the bird.",
+    "Victor Creed.",
+    "Goddamnit Deadpool.",
+    "The New Avengers.",
+    "Midgard.",
+    "Thor Odinson.",
+    "Pixie's hallucinogenic wing-dust.",
+    "Kurt Wagner.",
+    "Laura Kinny.",
+    "This is why science isn't allowed in the microwave anymore.",
+    "Aggressive Twerking.",
+    "Steve Rogers' Glorious Bosom of Freedom.",
+    "Lorna Dane.",
+    "Howard Stark.",
+    "Tony Stark.",
+    "The X-Men being fun police.",
+    "Poptarts.",
+    "Clint's coffee addiction.",
+    "Telekinesis.",
+    "The Hawkeye Initiative.",
+    "Bucky Barnes.",
+    "Blink forgetting she can teleport.",
+    "Toad's tongue and all it could be used for if you could get past the smell.",
+    "Sentient Technology.",
+    "Blackmail.",
+    "Harry Leland.",
+    "The Chitaurii army.",
+    "Pietro's 'premature' problem.",
+    "Problematic tumblrinas misinterpreting the mutants rights movement.",
+    "Raze Darkholme.",
+    "Android Husbands becoming the new fad."
+  ],
+  "pack": {
+    "id": "9JYJ6",
+    "name": "Cards Against Marvel"
+  },
+  "quantity": {
+    "black": 105,
+    "white": 186,
+    "total": 291
+  },
+  "dateStoredMs": 1588373996189
+}

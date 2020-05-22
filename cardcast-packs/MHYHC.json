@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "_ ha dejado la sesión para _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fui al _ a pedir _ y me dieron _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "El kiro te baneó por _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El Kiro se fue afk después de _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toda la gente odia _ pero yo amo _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La Michi tuvo que terminar su stream por culpa de _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando fui a comprar _ al super me llevé la sorpresa de _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La cura total para el COVID-19 es _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El server de borja fue atacado brutalmente por _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Has sido baneado por _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me comí una olla repleta de _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Michi.",
+    "Nimphu.",
+    "Sendo pichulazo en la cara.",
+    "Una incontrolable eyaculación en pleno funeral.",
+    "Panda.",
+    "Terminar con mi polola.",
+    "Un adolescente ofendido.",
+    "Mayonesa Hellman's.",
+    "Un tarro lleno de pichí.",
+    "Kirby poto.",
+    "Un tremendo poto.",
+    "Tomar Pisco con blanca.",
+    "Lanzar un dildo en la frente de la Panda.",
+    "Un pene volador.",
+    "Una lata de Becker.",
+    "Kiro.",
+    "El pene del Kiro.",
+    "La Sofi.",
+    "Gato.",
+    "Un ban.",
+    "Tomar Whisky con negra.",
+    "Pene.",
+    "Un haitiano vendiendo Super 8.",
+    "Gvsnicolas.",
+    "El Burger King.",
+    "Vindex."
+  ],
+  "pack": {
+    "id": "MHYHC",
+    "name": "Borjards Against Humanity"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 26,
+    "total": 37
+  },
+  "dateStoredMs": 1588219330703
+}

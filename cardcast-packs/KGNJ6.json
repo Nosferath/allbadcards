@@ -1,0 +1,173 @@
+{
+  "black": [
+    {
+      "content": "_ Prompto",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Youre hair looks like a _ _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I've come up with a new Recipeh!_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eat your vegetables _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best dad award goes to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prompto _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You stay positive, Prompto. You always believe that everything's going to work out. How do you do it? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Ignis",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_Gladio",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sunshine child _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noctis, you have to marry _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noctis _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet Baby _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prom, _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noctis has the power of the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ never bothered me anyway",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walk tall my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wanna ride my _ all day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ x _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gladio's favorite thing is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MTs.....they've all got these _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ignis is all _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Noctis",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vegetables.",
+    "Carbuncle.",
+    "Sharingan.",
+    "Promptis.",
+    "Len.",
+    "Cid.",
+    "Lucis Caelum.",
+    "Backstreets Back  Alright.",
+    "Chocobos.",
+    "The floor is vegetables.",
+    "Gods.",
+    "MT.",
+    "Prompto.",
+    "Cindy.",
+    "Cooking Mama.",
+    "Prompto in a blanket.",
+    "Gladio.",
+    "No.",
+    "Mexican.",
+    "Chocobros.",
+    "Hyper Jump.",
+    "Gentiana.",
+    "Noctis.",
+    "Moogle.",
+    "I lie to myself.",
+    "Ever at your side.",
+    "Camping simulator.",
+    "Y'ain't'd've.",
+    "Iggy.",
+    "Iris.",
+    "Ardyn.",
+    "Prince.",
+    "Cup Noodles.",
+    "Y'aint.",
+    "Y'all'd've.",
+    "Cat.",
+    "Chocobo Festival.",
+    "Oracle.",
+    "Local man comes up with a new Recipe!.",
+    "Argentum.",
+    "Prince charmless.",
+    "King Regis."
+  ],
+  "pack": {
+    "id": "KGNJ6",
+    "name": "Final Fantasy 15"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 42,
+    "total": 65
+  },
+  "dateStoredMs": 1589144714477
+}

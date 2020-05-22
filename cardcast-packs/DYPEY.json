@@ -1,0 +1,125 @@
+{
+  "black": [
+    {
+      "content": "There's a _ shaped hole in my _ shaped heart.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "DARK, DARKER, YET DARKER. THE _ KEEPS GROWING.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this world, it's kill or _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _ now! That's my attack!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick! Behind that conveniently-shaped _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is an echo flower. It repeats the last thing you say. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're carrying too many _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You never gained any LOVE, but you gained _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On days like these...kids like you...should  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beware of the man who _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Howdy! I'm _ the _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You tell Mettaton that there is a _ behind him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're gonna have a bad _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Howdy! I'm _ the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jevil used to be the Jester, but one day, he started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Surprise! Do you smell that? I made _ pie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which would you prefer? _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I already _ your mom last night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where Sans  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I CAN _ ANYTHING!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HOI!! I'M _!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fills you with DETERMINATION.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "DYPEY",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 0,
+    "total": 22
+  },
+  "dateStoredMs": 1588648322755
+}

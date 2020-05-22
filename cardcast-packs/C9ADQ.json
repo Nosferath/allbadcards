@@ -1,0 +1,397 @@
+{
+  "black": [
+    {
+      "content": "_ is beautiful.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I do last night? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why _ when I can _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you know that _ is made out of _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is _? Baby don't _ me, no more.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We should go to _ for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I was a kid, _ was all the rage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leonardo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did _ get in _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I LIKE _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's your favorite type of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "dO _ ThEy SAiD. It'Ll bE FuN, tHEY SaiD.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that? You did _ today, Karen?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "15 ÷ 83x • 23 + -321 = _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm pretty sure _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I saw a cat _ today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is something that wouldn't help at all, Gerald.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ an instrument?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "911, what's your emergency? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, Officer? _ is outside doing _ again.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't a word, dude.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I use _ instead of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's wrong with Kryoz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you alright, man? I heard you _, so I had to ask.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s channel is dead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Charrlot, did you hide my _ again?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, did you hear? It's the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The technical term for _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who's the best YouTuber? _, that's who.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is cancer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wouldn't it be nice to _ together?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whose mans is this??? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that a _ spider? Cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You like _? You, sir, are a sick fuck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dude, you're fucking stupid. _, really?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did Sarah fuck last night? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Johnny got _ after he _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "The Card Charizard.",
+    "Autism spinners.",
+    "PrivilegePrivildge.",
+    "Child abuse.",
+    "WHy aM i AliVE.",
+    "Filling doughnuts with thickened human blood instead of jelly.",
+    "The FitnessGram Pacer Test™.",
+    "Mini Ladd.",
+    "Unedited Daithi De Nogla Videos.",
+    "Mastaurbate.",
+    "I__AM__WILDCAT.",
+    "YOU WHAT?!.",
+    "Daithi De Nogla.",
+    "Triangles.",
+    "Mini Ladd's Mario Kart™ rage.",
+    "Diamondminer74.",
+    "Pythons.",
+    "♪.",
+    "GOTTA GO FAST DUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUDUD.",
+    "Box.",
+    "VanossGaming.",
+    "Moo Snuckel.",
+    "Child abuse.",
+    "Ohmwrecker actually being a homewrecker.",
+    "H2ODelirious.",
+    "_.",
+    "It's high noon.",
+    "Becky lemme smash.",
+    "YouTube.",
+    "Terroriser.",
+    "Shoes.",
+    "The Card Czar.",
+    "H2ODelirious' laugh.",
+    "Banana Bus.",
+    "NOOO JOE!!!.",
+    "Fidget Spinners.",
+    "Spaghetti.",
+    "CS:GO.",
+    "BasicallyIDoWrk's Black Stamp of Approval™.",
+    "Mini Ladd is H2ODelirious' face.",
+    "You just got bean'd.",
+    "PUNCAKE.",
+    "Whose mans is this???.",
+    "Child abuse.",
+    "Another one truck with awp.",
+    "The McChicken.",
+    "Minecraft YouTubers.",
+    "Box.",
+    "MiniLadd's Videos.",
+    "Box.",
+    "Robbage.",
+    "Helmetman.",
+    "Hoodini.",
+    "Racist animals.",
+    "McCree.",
+    "Amn't.",
+    "Keemstar.",
+    "Big, meaty claws.",
+    "Ohmwrecker.",
+    "Wildcat.",
+    "Snails.",
+    "Wildcat wheezing.",
+    "EXPECTO POPIVILAGE.",
+    "(::).",
+    "Oh wow, a Gay Man™.",
+    "Anthony's Real Laugh.",
+    "Snoop Dog; A dog who solves crimes.",
+    "Child abuse.",
+    "Alcoholic Grandmothers.",
+    "Tigers.",
+    "Box.",
+    "The Fibonacci Sequence.",
+    "Child abuse.",
+    "Child abuse.",
+    "Drinking an Italian's blood because you were told it's marinara sauce.",
+    "Bullet Ploof Grass.",
+    "Terroriser always winning in Mario Kart™.",
+    "Gay seahorses.",
+    "Food? Food.",
+    "Crapplebees.",
+    "Another one gone, another one gone.",
+    "Das a toilet.",
+    "Child abuse.",
+    "Hoebags.",
+    "¯\\_(ツ)_/¯.",
+    "Child abuse.",
+    "KryozGaming vaping.",
+    "Kryoz going down on Betty White.",
+    "SMii7Y.",
+    "Anthony's Fake Laugh.",
+    "Bleach.",
+    "Spiderman, Hulk, Batman, and Superman relentlessly gangbanging an elderly woman.",
+    "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.Yellow, black. Yellow, black...",
+    "Ohmwrecker the Homewrecker.",
+    "Tracer is gay.",
+    "How does Shawty have boots with the fur and Reboks with the straps at the same time?.",
+    "Mom's spaghetti.",
+    "Box.",
+    "Squeeze my weiner.",
+    "Joe & Tony.",
+    "Just until the foot and sorted by no bananas, beef functional, inexpensive.",
+    "Niko, we should go bowling.",
+    "Spidirre.",
+    "Sub 2 Kryoz.",
+    "_.",
+    "Lui Calibre.",
+    "Harry Potter and the Missing Chromosome.",
+    "Another one bites the dust.",
+    "Daithi De Nogla playing the 'Unedited Daithi De Nogla Videos.' card.",
+    "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal.",
+    "Fucknuggets.",
+    "A homophorbic bisexual.",
+    "Irish cum being mashed potatoes.",
+    "♪You a hoe, you a hoe. You suck dick on the low♪.",
+    "Cuntbag.",
+    "Wanting to step on a dead bird, but deciding against it... Only because your shoes would get bloody.",
+    "Finals, every college and high-schooler's nightmare, combined with The FitnessGram Pacer Test™, every middle-schooler's nightmare, to create one, big, horrific, fuckbag of a thing.",
+    "Taxman, coming to fuck your bitch.",
+    "You don't know shit, shut the fuck up.",
+    "Wario's Thicc™ ass.",
+    "Jesus, still can't find that fucker.",
+    "Cat semen.",
+    "Playing her pussy like a guitar.",
+    "Who's this Allahu Akbare? Is he the reason I'm fuckin' my cousin?.",
+    "Fucknuggests.",
+    "A lone fox raping several small dogs.",
+    "Fisting her gills.",
+    "You're a cuntbag, Card Czar.",
+    "You want sum fuck?.",
+    "Cock.",
+    "Hey Faggots, My name is John, and I hate every single one of you. All of you are fat, retarded, no-lifes who spend every second of their day looking at stupid ass pictures. You are everything bad in the world. Honestly, have any of you ever gotten any pussy? I mean, I guess it’s fun making fun of people because of your own insecurities, but you all take to a whole new level. This is even worse than jerking off to pictures on facebook. Don’t be a stranger. Just hit me with your best shot."
+  ],
+  "pack": {
+    "id": "C9ADQ",
+    "name": "¯\\__(ツ)__/¯"
+  },
+  "quantity": {
+    "black": 50,
+    "white": 131,
+    "total": 181
+  },
+  "dateStoredMs": 1588776978570
+}

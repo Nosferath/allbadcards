@@ -1,0 +1,827 @@
+{
+  "black": [
+    {
+      "content": "Co jest pożyteczne ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szkoła jest jak _. Nie ma z niej nic Dobrego !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przykro mi że dzieci w dzisiejszych czasach mają do czynienia z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli zabierzesz pare liter , lub dodasz do wyrazu_ to wyjdzie ci _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Drogie Bravo mam problem z_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego nie chcesz znalezdzć w chńskim żarciu?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją ulubioną rzeczą jest_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odpowiedzia na wszystkie pytania jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co nie zawsze jest dobrym rozwiązaniem ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest na moim biurku?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Klasa 1Ta znowu nie miała lekcji języka niemieckiego z powodu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co nie istnieje?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za co można wpisać się do księgi Ginessa ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas rozgrywek w zbijaka, młodzi mechatronicy, nie spodziewali się, że na przeszkodzie stanie im _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Faraon Nie Dawał się przekonać Mojżesz zesłał plagę_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wojna! Jaki z niej pożytek ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Darek:,,Poddaj się !\" .    Kamil : ,, _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ewka rysująca Yaoimi z Kamilem I Gawlikiem nie spodziewała się że na przeszkodzie stanie jej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kategoria: Ptaki Polskie. To dzięcioł czy _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest głupie, oraz nie działa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zanim spotkałem Bartka, nigdy nie sądziłem że _ może być takie fajne!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest głupie ale działa_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za 1000 lat zamiast papierkowych pieniędzy będziemy używać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ułóż Wierszyk: _ _ _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ostatnio w Parku widziałem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W więzieniu za 200 fajek dostaniesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pięciu kumpli udało się do opuszczonej rozlewni napojów alkoholowych, a tam spotkali_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byłem na kwasie , to _  , zmieniło się w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdybyśmy żyli w czasach Jezusa , to zamiast krzyżować ludzi to używaliśmy by na nich _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zobaczył_ zesrał się, po czym umarł na śmierć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzielni kajakarze nie spodziewali się_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego Potrzebują Francuzi do wymiany żarówki ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikt nie spodziewał się , że w wycieczce na Erasmusa dzielnym studentom przeszkodzi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_+6=6",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój związek jest jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.Ruchałbym!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest głupie ale jednak działa ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co sprawia że się tak zachowujesz ? Że jesteś taki, a nie inny .        Co cię motywuje .                   Darek : Odpowiedz jest prosta-,,_\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest moją supermocą ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego wsytydzi się Ewka ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Poczucie humoru jest jak _ . Nie każdy je ma !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co wszystko mnie Boli ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W jaki sposób udaje mi się utrzymać mój związek ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To pamiętam z mojego dzieciństwa !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nowym reality show TVP ośmiu pijaków wprowadze sie do domu z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1:_.Krok2_.  Krok3:Profit.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Z czego rezygnuje w czasie Postu?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie rozumiałem  _ , dopóki nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W ostatnich chwilach Jan Paweł II myślał o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio ochrzciłem dziecko_. Niczego nie żałuje ...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W przerwach pomiędzy gwłaceniem dzieci, a uczęszczaniem na pielgrzymki Jan Paweł II myślał o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaka jest ulubiona postać dzieci?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Galaktyka Kurvix została zaatakowana przez złych kosmitów. Powstrzymać ją może tylko załoga gwiezdnego patrolu, na czele której stoi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W TVP na żywo cykl turniejów _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dariusz, w nowym utworze literackim stworzył obszerny opis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za _ Zrobiłbym wszystko !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrode Za_ otrzymuje_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co ukrywają Przedemną rodzice ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas włamania na Syberię odważni podróżnicy postanowilić urządzić mistrzostwa w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy plochu nie chciał porzucić petard , Darek był zmuszony użyć na nim _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak zadowolić nauczyczycielke ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co Staje się Lepsze z wiekiem ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Właśnie zobaczyłem to odrażające video . Proszę przekaż tę wiadomość dalej . #stop_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak jebło z kierunku naszej wyspy ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co masz między Nogami ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co może spowodować nagrodę Darwina ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co pomaga MI się wyluzować ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_Dobry do ostatniej kropli",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy kobiety naprawdę mogą mieć wszystko ? Karierę i _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . I już wiecie że macie przejebane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrodę Darwina otrzymuje _. Spowodowało ją _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najgorzej wspominam _ Na wycieczce Szkolnej",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak będe Miliarderem to wzniosępomnik na cześć_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma to jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zakończyło mój ostatni związek ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to za Dźwięk ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "o Czym teraz myszlisz ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wycieczka szkolna Została zrójnowana przez_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak naprawdę , I Wojna Światowa zaczeła się od _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niewiem czym będziemy walczyć podczas III wojny światowej ale czwarta będzie na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest Najlepszym Przyjacielem Kobiety ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co by źle świadczyło o kobiecie gdybyś znalazł to w jej piwnicy ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W dzisiejszych czasach niegrzeczne dzieci zamiast rózgi dostają _ pod choinke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plochu podczas Gali Famme MMA na zadupiu poddał się ponieważ jego przeciwnik _ , władał _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najgorszą torturą ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To zamało !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Picasso w czasie swoich twórczych eksperymentów stworzył Setki obrazów przedstawiających _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest kolejną modną dietą ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobrze panie Bond , zanim pana zabije musze pokazać panu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym zadowolisz swoich Rodziców ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepsza Nazwa Gry to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrodę za najmniejszy iloczyn inteligencji otrzymuje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nauczyciele, nie spodziewali się, z jakiego powodu Rafał Trzeciak opuścił kolejny dzień w szkole. Mianowicie: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest Brutalne ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na następnej lekcji wdż pani Szlaga opowie nam o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Konwencja Genewska zakazała stosowania _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy bóg tworzył Ziemie dał szczypte dobra , kawałek nieba , szklanke wody i_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co chciałbyś zobaczyć ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Medycyna współczesna zaczeła dostrzegać właściwości medyczne _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nowym Filmie Kamil odkrywa że czały czas był_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio do zrobienia sobie dobrze użyłem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pan Jezus powiedział _. A słowo ciałem się stało i zamieszkało między nami.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Delfin Gwałciciel.",
+    "Czarny rudy Chiński żyd wyznający islam.",
+    "Kangur Striptizer.",
+    "Branie w dupę, aby zarobić na 3 fajki u Furgoła.",
+    "Naruszenie podstawowych praw człowieka.",
+    "Biedni Ludzie.",
+    "Głosowanie Na PiS.",
+    "Chilary Clinton.",
+    "Chuck Norris.",
+    "Zmazy nocne.",
+    "Rozstąpienie Morza Czerwonego .",
+    "Kawałek Patyka.",
+    "II wojna światowa.",
+    "Palenie się.",
+    "Niedźwiedziorekin z olbrzymim kutasem .",
+    "Kamil, mistrz rysowania kutasów światłem.",
+    "Kariera aktorska Przemysława Salety.",
+    "Chwytające za serce  spojrzenie sierotki po przejechaniu jej rodziców. Zdarza się.",
+    "Justin biber.",
+    "Zrzucanie żyrandolu na głowę przeciwnika i wjezdzanie po linie do góry.",
+    "Zostawianie napiwków w automatach z Batonikami.",
+    "Słodka zemsta.",
+    "Luźne usta.",
+    "Outstanding Move.",
+    "3 czarnych karłów, z ooooolbrzymimi kutasami.",
+    "40 latek na rolkach.",
+    "Napletek.",
+    "Rozpierdol.",
+    "Zostawianie napiwków w barze dla pedałów.",
+    "Zapładnianie Kobiet poprzez rzut siekierą ze spermą .",
+    "Afera Taśmowa.",
+    "Walenie Konia na pogrzebie .",
+    "Nastoletnie ciąże.",
+    "\"Dieta\" Cud.",
+    "Ptaki Nieloty.",
+    "Dilerka alkocholowa.",
+    "Kibole.",
+    "500+.",
+    "Pełne zniszczenie.",
+    "Moje genitalia.",
+    "Piercing Genitaliów.",
+    "Granie w rosyjką ruletke M4A1-S.",
+    "Wujek Bimbrownik.",
+    "Okno życia.",
+    "Królik Gwałciciel.",
+    "Dług Publiczny.",
+    "Moc Jedi .",
+    "Karmienie psa chipsami .",
+    "Wieloryb.",
+    "Arnold Schwarzenegger.",
+    "Niedźwiedziorekin.",
+    "Kijek Zagłady.",
+    "Prawdziwe znaczenie świata.",
+    "Bogactwo.",
+    "Jej Wysokość Królowa Elżbieta II.",
+    "Konwulsywnie wymiotujący Kuba Wojewódzki podczas gdy Chmara pająków wylęga się z jego mózgu i ekspoloduje z kanalików łzowych .",
+    "Katapulty.",
+    "Okres.",
+    "Liczne rany kłute.",
+    "Plecak Michała.",
+    "Gąbke pełną kocich Sików.",
+    "\"Serek\" spod napletka.",
+    "Publiczne Ośmieszenie.",
+    "Jak to jest dostać Raka ?.",
+    "Pan Artur.",
+    "Zoofilia.",
+    "Michał Urban.",
+    "Noszenie Bielizny na lewą strone aby uniknąć prania.",
+    "Barbara Cziba.",
+    "Spuszczanie się w majtki.",
+    "Gwałt na noworodku.",
+    "Obóz Koncentracyjny.",
+    "Ewka ( ͡° ͜ʖ ͡°).",
+    "Czas dla siebie.",
+    "Hajs za gwałcenie żon obcych ci mężczyzn na live a potem ich samych.",
+    "Potańcówka z batmanem będać w połowie nagim oraz pijanym w 3 dupy.Swoją drogą masz zajebisty krawat.",
+    "Seksowna Walka na poduszki.",
+    "Komornik.",
+    "Rzut karłem.",
+    "Cipa.",
+    "Random.org.",
+    "Janusz Korwin Mikke.",
+    "72 Dziewice.",
+    "0,7.",
+    "Według mnie nie ma tak że dobrze albo niedobrze.",
+    "Bakteria żywiąca się mięsem.",
+    "Męzczyżna w płaszczu , bez spodni.",
+    "Napięcie seksualne.",
+    "Podrywanie Dziewczyn w Klinice Aborcyjnej.",
+    "72 prawiczków oraz Bartosz <3.",
+    "Gdzie jest KRZYŻ ?!.",
+    "Autokanibalizm.",
+    "Karmienie psa cukrem podczas grania w csa.",
+    "Cezary Pazura.",
+    "Karty Przeciwko ludzkości.",
+    "Strzał w głowe kijem  Bejsbolowym .",
+    "Ćwiczenia integracyjne pomiędzy wyznawcami religii pokoju.",
+    "Mordowanie,Palenie,Gwałcenie.",
+    "Naturalna selekcja.",
+    "Trzymanie kogoś tak długo pod wodą aż przestanie cię wkurwiać.",
+    "Gęsi.",
+    "Labirynt gwałtu.",
+    "Koraliki Analne.",
+    "Cios Podbródkowy .",
+    "Kała Bez Koszulki...Nie chcę już wspominać o bokserkach...",
+    "Społeczeństwo dzielimy na ludzi i kobiety.",
+    "Muzyka Justinna Bibera <3.",
+    "Walenia Konia do czajnika aby Uprzykrzyć Współpracownikom Życie .",
+    "( ͡° ͜ʖ ͡°).",
+    "Otworzenie burdelu.",
+    "MAGISTER INŻYNIER PIOTR KIEŁBASA.",
+    "Apfelsaft from München.",
+    "Pierdzenie i odchodznie.",
+    "Gwałt pod prysznicem.",
+    "Terroryści.",
+    "Deszcz kondomów.",
+    "Płód.",
+    "Wykorzystywanie Dzieci.",
+    "Ten pas z TV Mango.",
+    "Kazirodztwo.",
+    "Reszta Ekipy.",
+    "Smótna robutka ręczna.",
+    "Poronienie.",
+    "Auschitz.",
+    "Rozczłonkowanie Nożyczkami biurowymi i zaklejanie ran kropelką i ich rozdzielanie .",
+    "Ten słynny akwarelista.",
+    "Zabawa w wampira podczas miesiączki.",
+    "Chińska drużyna lekkoatletyczna. Główny profil: Skoki wzwyż.",
+    "Kuba wojewódzki zaczepiony moszną o haczyk od zasłony.",
+    "Używanie Wspólnej Strzykawki.",
+    "Śmiercionośny Laser.",
+    "Młyn Pełen Trupów.",
+    "Otrzymanie wpisu w Księdze rekordów Ginessa za masowy Gwałt.",
+    "Papież.",
+    "Auto amputacja swoich kończyn piłą mechaniczną .",
+    "Kobiece Prawa wyborcze.",
+    "Czarna śmierć.",
+    "To miejsce między nogami a odbytem męzczyzny.",
+    "Amatorskie aborcje.",
+    "Kim Jong-Un.",
+    "Wzwód trwający 4 godziny.",
+    "Gra w Szklaną Pułapke W domu .",
+    "Tabletki ,,Dzień Po\".",
+    "Kamil , muszę ci zadać jedno ważne , ale to naprawde ważne pytanie . Jedziesz jutro na dni otwarte?.",
+    "Kozy pożerające Ludzi.",
+    "Naprawde Fajny Kapelusz.",
+    "Whiskas.",
+    "Metamfetamina.",
+    "Oblać Kwasem.",
+    "Co najlepiej kładzie asfalt? - Ebola.",
+    "Globalne Ocieplenie.",
+    "Mahomed.",
+    "Zakazany owoc.",
+    "Kwas.",
+    "Nadmierna Rekompensata.",
+    "Islam.",
+    "Dawanie dupy , aby zdobyć szybciej awans.",
+    "Wzwód na Basenie.",
+    "Ostry Wpierdol.",
+    "Kwiczoł.",
+    "Terapia hormonalna.",
+    "Putin.",
+    "Za dużo żelu na włosach łonowych.",
+    "Wpierdol.",
+    "\"2,5 km to idealny dystans na rozgrzewkę\" -Arkadiusz Janicki.",
+    "Czekanie do  ślubu aby ją zaliczyć .",
+    "Katapulty.",
+    "Przeciwstawne Kciuki.",
+    "Dwóch karłów srających do Wiadra.",
+    "Pokój na Świecie.",
+    "Plebs.",
+    "Smutek ,żal i zwątpienie.",
+    "Niebieski Wieloryb.",
+    "Obciąganie w czasie jazdy autobusem.",
+    "Dokładnie to czego się spodziewasz.",
+    "Mlecarz.",
+    "Rule 34.",
+    "Gwałcenie małych chłopców aby zaoszczędzić na antykoncepcji .",
+    "Krzystof Ibisz .",
+    "Rafał Trzeciak.",
+    "To uczucie, gdy niewinne czytanie listu po Niemiecku, zamienia się w Faszystowski ruch obalający demokratycznie wybrany rząd.",
+    "Malutki konik.",
+    "Zakładanie Szpitala obok cmętarza aby w razie jakichkolwiek komplikacji  umieścić pacjenta na odpowiednim miejscu.",
+    "Kamil Ulaniec Kała.",
+    "Zespół Feel.",
+    "Mim w takcie zawału.",
+    "Zachciało ci się zimnego monsterka...",
+    "Dupie.",
+    "Przebiegnięcie 1km na WF.",
+    "_.",
+    "Czyngis-Chan.",
+    "Tabletki gwałtu.",
+    "Rurku , dlaczego ten stół jest tak upierdolony ?.",
+    "Daniel Kała i Tajemnica zaginionych Chromosomów.",
+    "Ministranci.",
+    "Gwałt na redaktorach.",
+    "Andzej Wajda.",
+    "Krasnoludki.",
+    "Gejowski Taniec na lodzie po całonocnej libacji alkocholowej .",
+    "Żydzi .",
+    "Bierz Ich Merci ! Zapierdol Skurwysynów !.",
+    "Lech Wałęsa.",
+    "Przecinanie Kości.",
+    "Gwałt.",
+    "Ziołowe tabletki na problem z erekcją.",
+    "Stosunek dzieci.",
+    "Masturbacja.",
+    "Nagły zwrot akcjii.",
+    "Nekrofilia.",
+    "Szykowanie się na pożarcie kochanka podczas stosunku .",
+    "Amisze.",
+    "Jądra.",
+    "Mali Ministrnci.",
+    "Komórek macierzystych.",
+    "Krew Chrystusa.",
+    "Wieczny ból dupy.",
+    "Bezdomni.",
+    "Skręt Jądra.",
+    "Gwałt na randce.",
+    "Azjaci którzy nie są dobrzy w niczym.",
+    "Piły łańcuchowe zamiast rąk.",
+    "Odpowiednia ilość chromosomów.",
+    "Gwałcąca Piłka.",
+    "Viagra.",
+    "Jan Paweł II.",
+    "Państwo Polskie.",
+    "Obmacywanie się na żywo w telewizji niczym Kały w ławce na Biologi.",
+    "Noworodek Płetwala błękitne waży prawie 3 tony. W ciągu 9 miesięcy przybiera na wadze średnio 4 kg/godzinę. Po tym okresie waży średnio 100 ton. To niemalże tyle, ile kała ważył po narodzinach.",
+    "Pocałuj mnie poniżej pasa .",
+    "Trynkiewicz.",
+    "Famme MMA na zadupiu.",
+    "Nalot na redakcje.",
+    "Speklakularne mięsnie brzucha.",
+    "Bycie chujem w stosunku do dzieci.",
+    "Dziurawa Prezerwatywa.",
+    "Seksowna walka w rzeźni.",
+    "Bóg.",
+    "Żałosna gra wstępna.",
+    "Stalin.",
+    "Eugenika.",
+    "Pikante śniadanie.",
+    "Lobotomia Cegłą.",
+    "Zabijanie ludzi i Chowanie ich ciał na czas.",
+    "Fundacja Polsat Dzieciom .",
+    "Gej Party.",
+    "Podtapianie,aby osiągnąć zamierzony poziom satysfakcji seksualnej.",
+    "Uwodzenia.",
+    "Laktacja.",
+    "Martwi Rodzice.",
+    "Ewka kropkująca Yaoi z kamilami w roli głównej .",
+    "Mrrrrrrrr <3.",
+    "Włamanie się na teren Syberii tylko po to aby potańczyć na kłodzie.",
+    "Wąchanie kleju.",
+    "Martwe niemowlęta.",
+    "Gwałcenie dzieci .",
+    "Jan Paweł II.",
+    "NekroDżentelMenel.",
+    "ManBearPig.",
+    "Papież Franciszek.",
+    "Latający Potwór Spaghetii.",
+    "Wybuch Termojądrowy.",
+    "Rak.",
+    "Sepuku.",
+    "Nagość.",
+    "Mistrz Inżynieri.",
+    "Łysy z Brazzers.",
+    "Martwi rodzice, to nie koniecznie problem .",
+    "Lesbijki.",
+    "Ru ru ru ru rurkowce.",
+    "Chłopiec.",
+    "Dojrzewanie Płciowe .",
+    "Głupie Pierdolenie .",
+    "Plochu , zostaw te petardy bo ci przypierdolę .",
+    "Dad's funny balls.",
+    "Nieodzwajemniony seks oralny.",
+    "Ocenzurowane Bukkake.",
+    "Księża Pedofile.",
+    "Dzieci  z rakiem odbytu, spowodowany ciągłym gwałceniem . Lekko szkoda dzieci, ale jak sobie z Mariuszem ulżyliśmy!.",
+    "Członkowstwo w Ku Klux Klanie.",
+    "Pedofilskie materiały porno.",
+    "Propaganda homoseksualna.",
+    "Anime=Hentai. You can't change my mind.",
+    "Żółw jaszczuroaty gryzący cię w końcówkę penisa.",
+    "AIDS.",
+    "Obudzenie się w Więzieniu mając olbrzymie dildo W dupie .",
+    "Chorowanie na AIDS.",
+    "Wielkie Czarne Dildo.",
+    "Naziści.",
+    "Blowjob.",
+    "Tak jak pan jezus powiedział.",
+    "Potężny czarny homoseksualista.",
+    "Olbrzymie czarne Dildo.",
+    "Masturbacja do zdjęć kolegi, aby sprawdzić czy jest się homoseksualistą.",
+    "Dwóch Pedofili.",
+    "Pedofil.",
+    "Mikro penis.",
+    "Muszę zadać wam pytanie .Co Czuje Pedofil Dosiadając Noworodka ? Bicie Serca .",
+    "Hentai.",
+    "Sperma w Kawie.",
+    "Porno z Mackami.",
+    "Nie odzwajemniony seks analny."
+  ],
+  "pack": {
+    "id": "JPDWA",
+    "name": "Karty Dla Normalnych Ludzi"
+  },
+  "quantity": {
+    "black": 102,
+    "white": 301,
+    "total": 403
+  },
+  "dateStoredMs": 1588880951285
+}

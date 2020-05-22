@@ -1,0 +1,110 @@
+{
+  "black": [
+    {
+      "content": "\"I feel _ in this Chili's tonight.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That's what _ said.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dunder Mifflin is a place where everyone can _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bears. Beets. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I feel like all my kids grew up, and then they _. It's every parent's dream.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Nostalgia is truly one of the greatest human weaknesses... second only to _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OMG! _ is the new regional manager!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I don't care what Jim says, that is not _. I am 99% sure.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest Chad Flenderman novel is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year, the Christmas party's theme is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm not superstitious. But I'm a little _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Fortunately, my _ reciprocate at twice the speed of a normal man.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Mr. Scott, whatcha gonna do? Whatcha gonna do, make our  _ come true!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's casual Friday! I'm wearing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ryan started the _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ , bitch.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jim's hair.",
+    "Mose Schrute.",
+    "Dunder Mifflin, Inc.",
+    "Knocking out Stanley with bull tranquilizers.",
+    "A 60-acre beet farm.",
+    "Jan's boob job.",
+    "The latest Chad Flenderman novel.",
+    "Dwight Schrute: A Night of Passion.",
+    "Serenity by Jan™.",
+    "Michael Scott.",
+    "Dwight.",
+    "Suck-it!©.",
+    "A Ben Franklin roleplaying stripper.",
+    "A shit ton of the Malone family's special chili."
+  ],
+  "pack": {
+    "id": "2K2VF",
+    "name": "The Office"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 14,
+    "total": 30
+  },
+  "dateStoredMs": 1589338704011
+}

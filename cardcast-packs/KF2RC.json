@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "The Card Czar's favorite AU is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Blueberry spike the punch? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ink has a secret stash of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error likes making _ when he knits.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Underswap.",
+    "Undertale.",
+    "Fontcest.",
+    "Swapfell.",
+    "Underfell."
+  ],
+  "pack": {
+    "id": "KF2RC",
+    "name": "Undertale AU's"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 5,
+    "total": 9
+  },
+  "dateStoredMs": 1588648322784
+}

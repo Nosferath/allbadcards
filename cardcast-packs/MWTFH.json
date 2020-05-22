@@ -1,0 +1,68 @@
+{
+  "black": [
+    {
+      "content": "Gandalf is such a shipper, he even ships _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Hobbit: Desolation of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unexpectedly finding _ in the mines.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thranduil is thinking of _ right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thorin's _ wasn't the only thing Bilbo stole.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are Galadriel and Gandalf mentally discussing over thousands of miles of distance now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_:the real reason Numenorians can no longer trade with Valinorians, not even by sea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He looks more like a _ than a burglar.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Interspecies sex.",
+    "The destruction of the gender binary in the dwarven community.",
+    "Choking to death on your tears while clutching an acorn.",
+    "Dwarf racist party dad.",
+    "Dubiously wise advice from Gandalf.",
+    "Being a dick to mortals.",
+    "Gollum's uncanny ability to live through basically anything.",
+    "Grond.",
+    "Bofur's hat.",
+    "Eye contact.",
+    "Skyping the Dark Lord to remind him about your date at the Black Gate.",
+    "Pannormativity."
+  ],
+  "pack": {
+    "id": "MWTFH",
+    "name": "Tolkien Humor"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 12,
+    "total": 20
+  },
+  "dateStoredMs": 1589035222128
+}

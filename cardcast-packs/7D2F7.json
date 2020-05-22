@@ -1,0 +1,43 @@
+{
+  "black": [
+    {
+      "content": "Patricia pay houd er van om  _  vernederd te worden",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "je heb _ nodig voor een geslaagd weekend",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "wendy heeft cup maat _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "geert wilders _ samen met mark ruten",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Aller jezus groot.",
+    "666.",
+    "Dam.",
+    "The devil him self.",
+    "Baffen.",
+    "Silicone.",
+    "Sex drugs en hardcore!!!."
+  ],
+  "pack": {
+    "id": "7D2F7",
+    "name": "enkhuizen deck"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 7,
+    "total": 11
+  },
+  "dateStoredMs": 1589058115140
+}

@@ -1,0 +1,468 @@
+{
+  "black": [
+    {
+      "content": "Never ever do _ near a padalin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Always visit the black market if your a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lets call it a day and figure out how to beat this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I flirt with the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The GM hates me. I always see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think the _ is a tab bit to scary for us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You guys go on, I'll stay here and fight the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget about rolling a d20 to evade this _. I'm screwed no matter what.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am too drunk to talk to the _ and instead I faint.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a nat20, and got a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope I don't get surprised by a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lets backtrack and revisit the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel like the _ is up to something.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I rolled a nat1 and got _ by a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I got a _ from a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Roll a death save to survive _ with a group of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I think I have fallen in love with a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lets go find a half- _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would want some of that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your alignment will go to Chaotic Evil if you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would marry a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me and my wife _ just had a kid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I keep getting lost in the maze of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I use fireball on the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like my _ flame-broiled.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lets go kill some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of course I like to eat _. It makes me feel like a true _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh lord _ , please help my team survive our quest!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always eat _ garnished with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I lost my _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just mated with a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think were lost in this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always visit the bar for some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Its dissapointing that I get _ all the time from a slime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loot EVERTHING no matter if theres a _ in the room.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BRB, I have to use the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got 500 silver peices from this _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of my favorite past times next to goblin smashing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Free XP for killing _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our new guy is stupid. All he says is \"_\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Congradulations, You got arrested by the _ and are going to be tortured.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My character loves to hug _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never ask for a _ at a bar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I keep having to keep creating character sheets because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Always loot chests unless if theres a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a _. I know its cursed because _ keep raining on me.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Never ever be mean to a DM. He will curse you with a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have no time to help the _! Lets go!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nat20 on perception check. I can see every single one of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't purchase that! It will turn you into a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would hump a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to fuck a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, im not healing you after you scared me with your pet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well shit, you just got eaten by a _. Roll for death save.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nat1 on persuasion for the _. Well shit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You encountered a _. Roll for anal circumfrence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want some of that ass from the _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A pretty conch shell.",
+    "Fairy.",
+    "Leather armor.",
+    "Necromancer.",
+    "Slime princess.",
+    "Wizard.",
+    "Monk.",
+    "Bard.",
+    "Pandora's box.",
+    "Elf.",
+    "Spider princess.",
+    "Zombie.",
+    "Creature with a very long name that it might just be easier to sum it up.",
+    "Celestial dragon.",
+    "Water elemental.",
+    "Potion of mana.",
+    "Immovable safe.",
+    "Horny dragon.",
+    "Spike trap.",
+    "Ranger.",
+    "Warrior.",
+    "Potion of combustion.",
+    "Fire dragon.",
+    "Anime-loving rouge.",
+    "Shadowmancer.",
+    "Golden stick.",
+    "Rock golem.",
+    "Mask.",
+    "Princess.",
+    "Medium-rare steak.",
+    "Pirate.",
+    "Face monster.",
+    "Kobloid princess.",
+    "Druid.",
+    "Mage.",
+    "Stash of coins.",
+    "Dragonborn.",
+    "Very high monkey.",
+    "Harpy.",
+    "Severed arm.",
+    "Giant chicken armed with laser beams.",
+    "D10.",
+    "Pit trap.",
+    "Annoying dog.",
+    "Corckscrew.",
+    "Egg with feet.",
+    "A jar of dirt.",
+    "Dinosaur.",
+    "Centaur.",
+    "Wand.",
+    "Blue dragon.",
+    "A pocket book of dwarvern poetry.",
+    "Dragon princess.",
+    "Dryad.",
+    "Furry.",
+    "Beholder.",
+    "Cactus.",
+    "Cursed book.",
+    "Wizard robe.",
+    "Bow.",
+    "Possessed object.",
+    "Flirting orge.",
+    "Alien.",
+    "Fish.",
+    "Slimegirl.",
+    "Slime.",
+    "Vial of poison.",
+    "A small glowing orb.",
+    "Lustful lamia.",
+    "Void dungeon.",
+    "Royal guards.",
+    "Wormhole.",
+    "Poison arrow trap.",
+    "Fire trap.",
+    "Stick.",
+    "Naga.",
+    "Earth elemental.",
+    "Maid.",
+    "A box of rocks.",
+    "King.",
+    "Mermaid.",
+    "Bottle of water.",
+    "Drugs.",
+    "Drunk.",
+    "Mimic.",
+    "Horny female dragon.",
+    "Wyvern.",
+    "Drakeling.",
+    "Cyclops.",
+    "Ship dungeon.",
+    "Abomination.",
+    "Potion of dexterity.",
+    "Beer.",
+    "Padalin.",
+    "Mushroom.",
+    "Moon dungeon.",
+    "Severed head.",
+    "Skeleton.",
+    "Barbarian.",
+    "Warlock.",
+    "Rat.",
+    "Squid.",
+    "Echidna.",
+    "Cthulhu.",
+    "Dungeon.",
+    "Gay dwarf.",
+    "Locking pit trap.",
+    "Red dragon.",
+    "Set of sixteen cards.",
+    "Mysterious robe-person.",
+    "Potion of lust.",
+    "Spider.",
+    "Rouge.",
+    "Mallet.",
+    "Dwarf.",
+    "Halfling.",
+    "Necronomicon.",
+    "Boring 500-page book.",
+    "D3.",
+    "Gelantinous cube.",
+    "Nymph.",
+    "A twenty-sided die.",
+    "Lich.",
+    "Huge celesital body of gas.",
+    "Fire elemental.",
+    "Huge orge.",
+    "Gold bar.",
+    "Mountain.",
+    "Ore minic.",
+    "Airship.",
+    "Potion of healing.",
+    "Minataur.",
+    "Collapsing roof.",
+    "Werewolf.",
+    "Dungeon Master.",
+    "Dart trap.",
+    "Electric elemental.",
+    "Narwhal.",
+    "Tiefling.",
+    "Flirting neko.",
+    "Fighter.",
+    "Gnome.",
+    "Highly drunk witch.",
+    "Penguin.",
+    "Kobloid.",
+    "Ghost.",
+    "Flammable rock.",
+    "Green dragon.",
+    "Lamia.",
+    "Unicorn.",
+    "Blob.",
+    "Death.",
+    "Draconian.",
+    "Sword.",
+    "Cleric.",
+    "Goblin.",
+    "Very depressed sheep.",
+    "Astronaught dwarf.",
+    "Lizard.",
+    "Ale fairy.",
+    "Human.",
+    "Falling net.",
+    "Turd golem.",
+    "Sexy harpy.",
+    "Severed penis.",
+    "Possessed dildo.",
+    "Sex trap."
+  ],
+  "pack": {
+    "id": "4KZDC",
+    "name": "Cards against Dungeons"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 167,
+    "total": 224
+  },
+  "dateStoredMs": 1588523834729
+}

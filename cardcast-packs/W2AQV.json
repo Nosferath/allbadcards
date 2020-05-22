@@ -1,0 +1,145 @@
+{
+  "black": [
+    {
+      "content": "Jingle _, jingle _, jingle all the way.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I have found the meaning of life. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why would you _ like, dude, that's disgusting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason why everyone is out to get me: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys! Guess what SpongeBob did today! He (was) _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "YOU SHALL NOT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guys! The next best meme is here! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel like _ today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! How could you!? You have just summoned _. It is the beginning of the end!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At that moment, Elmo realized his buddies were actually _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to be an adventure like you, until I took an _ to the _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_  _ _ and glee, these are a few of my favorite things.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "This. Is. _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loki: I have an army. Me: I have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey! Did you know that _ is/are one of the main ingredients of _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What goes up must _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let us eat and drink and be merry, for tomorrow we _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish these _ would stop _ on my lawn. It is very loud and distracting!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My sister and I went _ today and decided to _ along the way.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why does the Hulk get angry? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want this card. Here. _. Take it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one does hard work anymore. They would rather _ than lift a finger towards _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like to wear _ on my head on most Monday mornings.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm feeling like _ tonight, like _ tonight!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I don't want these cards. Here they are. _. _. _. Take them all. I don't care.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "King: I wonder what's for dinner? Link: Oh boy. I'm so hungry, I could eat _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "W2AQV",
+    "name": "Cards against family friendly"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 0,
+    "total": 26
+  },
+  "dateStoredMs": 1589490080912
+}

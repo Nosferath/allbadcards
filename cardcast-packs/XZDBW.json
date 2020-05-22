@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "Stop! I could have almost dropped my_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Crippling depression.",
+    "Tumblr.",
+    "Croissant."
+  ],
+  "pack": {
+    "id": "XZDBW",
+    "name": "Vine Pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1588456531898
+}

@@ -1,0 +1,43 @@
+{
+  "black": [
+    {
+      "content": "The candidates for the election are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest dance team on dancing with the stars are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. The latest Trend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sunday Night Football will now be replaced with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Donald Trump.",
+    "Cooking show.",
+    "Disney.",
+    "Turkey giblets.",
+    "Facebook.",
+    "Lady Gaga.",
+    "Mariachi band."
+  ],
+  "pack": {
+    "id": "T3PU7",
+    "name": "Censored But Fun"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 7,
+    "total": 11
+  },
+  "dateStoredMs": 1589491343092
+}

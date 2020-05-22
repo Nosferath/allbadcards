@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "How did I die? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being eaten alive by angry crocodiles.",
+    "The floor actually being lava because you live near a volcano that's erupting.",
+    "Hard vore.",
+    "Falling into a manhole.",
+    "Mistaking Dumb Ways To Die for a list of suggestions."
+  ],
+  "pack": {
+    "id": "TGCP8",
+    "name": "The Death Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588556856298
+}

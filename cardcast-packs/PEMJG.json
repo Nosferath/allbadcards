@@ -1,0 +1,126 @@
+{
+  "black": [
+    {
+      "content": "Już za chwilę, kolejny odcinek serialu  opowiadającym o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rzecz, którą ostatnio miałem w ustach, to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słyszeliście? Nowa moda w Japoni! Zamiast kocich uszu rysuje się ludziom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W 2016 wybory prezydenckie w USA wygra_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na giełdzie wymieniłem _ za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeśli jeszcze raz to zrobisz, _ trafi do twojej dupy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dałem ci kamień z napisem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W te święta zamiast śniegu, z nieba spadnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Promocja! Jeśli kupisz _, to _ dostaniesz za połowę ceny!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W następnej rundzie  _ zmierzy się z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepsze prezenty ukryte są w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy umrę, chcę, żeby na moim nagrobku leżało _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio ukradłem _. Ale nikomu o tym nie mów!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim zdaniem najgorszym daniem jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To wszystko by mi uszło na sucho, gdyby nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest teraz moim nowym fetyszem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W 2115 roku najlepszym sposobem na zarobek będzie _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Uzależnienie od League of Legends.",
+    "Danie dupy za 20zł.",
+    "Rosyjskie bomby atomowe.",
+    "Pie****ony tyranozaur.",
+    "72 prawiczków.",
+    "Donald Tusk.",
+    "Gówno z kawałkami wczorajszego obiadu.",
+    "Polska patologia.",
+    "Lewatywa kwasem siarkowodorowym.",
+    "2 murzynów i 1 biały ułożeni w pozycję Oreo.",
+    "Polskie seriale komediowe.",
+    "Natychmiastowy orgazm.",
+    "158 sierotek zabitych w ataku terrorystycznym.",
+    "Tablety graficzne.",
+    "Gwałcenie małych dzieci.",
+    "Ul w odbycie.",
+    "Wielki murzyński harem.",
+    "Taka jedna pani z Eurowizji.",
+    "Bardzo duże wiadro.",
+    "Wazelina.",
+    "Tania kurwa.",
+    "Donald Trump.",
+    "Bicie dzieci mini-choinką.",
+    "Dwa penisy sklejone kropelką.",
+    "Penis. Po prostu."
+  ],
+  "pack": {
+    "id": "PEMJG",
+    "name": "Deck by Disu"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 25,
+    "total": 42
+  },
+  "dateStoredMs": 1588613271636
+}

@@ -1,0 +1,132 @@
+{
+  "black": [
+    {
+      "content": "In beta, the software was _ but now it is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ app needs another update.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frequently bought together: guide to JS and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = working program!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Can we add _ to the project scope?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If your security was any good, it wouldn't have mattered if my password was _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Run _.exe in command prompt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not a bug, it's a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To keep a computer from taking your job, all you have to do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The program worked perfectly but the user _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have to push back our deadline because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spending twelve hours looking for the bug that turned out to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maybe I should've been a _ instead of a programmer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first step in the design process is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do not tap on the glass as the programmers are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Java programmer has been replaced by a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused my program to crash?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My manager recommends _ to complete our deadline faster.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Coffee once an hour.",
+    "Referencing Stack Overflow.",
+    "Code fast, not well.",
+    "Summoning Steve Wozniak for help.",
+    "Managers in IT that know nothing about computers.",
+    "Worrying about security later.",
+    "Setting your password to \"password\".",
+    "Profanity++.",
+    "Converting pizza into code.",
+    "Wondering why you picked this career.",
+    "Neglecting sleep.",
+    "Windows Vista.",
+    "Microwave dinners.",
+    "Tears of regret.",
+    "Naming your son \"bobby';) DROP TABLE Students;\".",
+    "//comments are for suckers.",
+    "Using a \"goto\" to save time.",
+    "Ramen.",
+    "Turning it off and on again.",
+    "Summoning Cliff Stol for help.",
+    "A misplaced semicolon.",
+    "Desigining for Internet Explorer.",
+    "Buying winrar because you were drunk.",
+    "An error has occurred trying to display the error.",
+    "Screaming at your computer all night long.",
+    "Teaching your kids JavaScript as punishment."
+  ],
+  "pack": {
+    "id": "TTGUS",
+    "name": "The angry programmer"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 26,
+    "total": 44
+  },
+  "dateStoredMs": 1588377456999
+}

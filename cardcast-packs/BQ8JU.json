@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "Reggel, mikor kinéztem, a munkások _ -val(vel) bontották a falat.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mózi.",
+    "Medve."
+  ],
+  "pack": {
+    "id": "BQ8JU",
+    "name": "Galvani"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589196967943
+}

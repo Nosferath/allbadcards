@@ -1,0 +1,230 @@
+{
+  "black": [
+    {
+      "content": "Raz w _ to nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ty biedaku! Nawet _ nie masz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze mam ochotę na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze mam ochotę na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ukrywają przede mną rodzice? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zniszczył/ło dzieciństwo wielu ludzi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ już nigdy nie będzie takie same po _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najbardziej emo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wieczorami lubię _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to jest? Czy to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak pachnie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stwierdzam zgon, ponieważ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spale ci _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak, to ja zabiłem. Pytacie jak? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Poka _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kto umarł ten _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ czy to ty?!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest moim narkotykiem ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tu mówi wasz kapitan. Proszę zapiąć pasy i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1: _  Krok 2: _   Krok 3: Profity.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czosef rzuca _  w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do teatrów wchodzi musical o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może to jego urok, a może to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marzy mi się _ ale taki mocarny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas grania w Outlasta, szejku _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zostawiłem _ w domu. A ja w domu mam _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O nie! _ jesteśmy zgubieni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wyobrażam sobie streama szejka bez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ biore w ciemno.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miota nim jak _..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy dorosnę chciałbym być _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten dzisiejszy świat jest dziwny! Siedziałem sobie na _ i mnie pobili. Tłumaczył się, że mnie pomylił z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uciekaj! Bo inaczej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ dla ciebie, dla rodziny!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zakola szejka są jak _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nie było go już od dawna.",
+    "Nocne granie.",
+    "Precel.",
+    "Martwe płody.",
+    "Szatan.",
+    "Wstrząsamy.",
+    "Zrobił w majty.",
+    "Ptak.",
+    "Aligatora.",
+    "Bagienne baby.",
+    "Piwko.",
+    "Pożałujesz.",
+    "Kiełbasa.",
+    "Dzban.",
+    "Zakola szejka.",
+    "Streamie.",
+    "Bo umarł.",
+    "Donejt od pretoxa.",
+    "Deby.",
+    "Złota.",
+    "Sąsiad.",
+    "Zamknę cię w piwnicy.",
+    "Szejk.",
+    "Oberwiesz.",
+    "Grzyba.",
+    "Blendujemy.",
+    "Oglądać strumyk szejka.",
+    "Święty mikołaj nie istnieje.",
+    "Spocone pachy.",
+    "Grzech.",
+    "Dupe.",
+    "Zrelaksować się.",
+    "Wiedźminem.",
+    "Bezimienny.",
+    "Szejkiem.",
+    "Miksujemy.",
+    "Wściekłe karły.",
+    "Streamerem.",
+    "Samolot."
+  ],
+  "pack": {
+    "id": "Hhdcz",
+    "name": "Szejkove Love"
+  },
+  "quantity": {
+    "black": 35,
+    "white": 39,
+    "total": 74
+  },
+  "dateStoredMs": 1588713216729
+}

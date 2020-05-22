@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "I want a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Linguini.",
+    "Blowing up the school."
+  ],
+  "pack": {
+    "id": "C8U9R",
+    "name": "Musicals"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588623539029
+}

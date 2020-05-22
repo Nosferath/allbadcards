@@ -1,0 +1,74 @@
+{
+  "black": [
+    {
+      "content": "_! Heaven! Now!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot diggity shit, that is one baller _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wizards of the Coast has now released a brand new D&D class: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ — am I right ladies?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The perfect May Day wouldn't be complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone knows that _ is the best spell in the PHB.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Setting your video game wife as your screensaver.",
+    "37 points of slashing damage.",
+    "Me, your dad.",
+    "Throwing away your shot.",
+    "My favorite D&D character.",
+    "Ahren LaLonde.",
+    "Zelda, the green guy with the sword.",
+    "It's called fashion, look it up!.",
+    "Making death saves.",
+    "Jorts.",
+    "Our beautiful son, Chevin.",
+    "Netflix's hit show \"Love Is Blind\".",
+    "The empty meat sack we call the human body.",
+    "Rolling a natural 1.",
+    "Dabbing on 'em.",
+    "Meeting a bunch of strangers at a tavern and deciding to go off on an adventure together.",
+    "A flesh golem.",
+    "Grand opening.",
+    "The calming atmosphere of The Great British Bake Off.",
+    "Darmok and Jalad at Tanagra.",
+    "A massive group of mostly women dressed in white dancing and chanting \"hey hey ho ho the patriarchy has got to go\".",
+    "Flameo, hotman!.",
+    "Pisspee."
+  ],
+  "pack": {
+    "id": "BHNDV",
+    "name": "Weirdos Expansion Pack"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  },
+  "dateStoredMs": 1588982191389
+}

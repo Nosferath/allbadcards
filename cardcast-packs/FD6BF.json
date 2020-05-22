@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Mutually Assured Destruction Also Known as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During a Nuclear test _ is not nearly as bad as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ = mc².",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the best place to hide a suitcase nuke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 50 megaton explosion of Tsar Bomba can be matched by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry that _ caused a meltdown.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ & _ essentials for surviving the nuclear winter.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Radioactive fallout is caused by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Chernobyl 2.0.",
+    "The Davy Crockett: Americas Nuclear Bazooks.",
+    "A \"small\" nuclear exsplosion.",
+    "3 mile island being 2.5 miles long.",
+    "Losing a nuclear bomb.",
+    "A nuclear technician saying \"oops\".",
+    "20 tons of uranium 235 for only $69.99 on the black market.",
+    "Miscalculating the Size of the Blast.",
+    "Nukes in space.",
+    "Bombing Hiroshima Again.",
+    "The china syndrome.",
+    "Plutonium wedding rings.",
+    "Almost nuking yourself.",
+    "The thermonuclear fart.",
+    "Launching an ICBM in the wrong direction."
+  ],
+  "pack": {
+    "id": "FD6BF",
+    "name": "Nuclear Doom"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 15,
+    "total": 23
+  },
+  "dateStoredMs": 1589228951635
+}

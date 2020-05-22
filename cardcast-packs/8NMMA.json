@@ -1,0 +1,341 @@
+{
+  "black": [
+    {
+      "content": "Ai neri piace _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova norma sulla sicurezza ora proibisce _ sugli aerei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il video della canzone \"YMCA\" fu registrato dai Village People vestiti da marinaio, pompiere, indiano e _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il prossimo romanzo di J.K. Rowling. Harry Potter e la camera dei _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prof. mi dispiace, ma non ho potuto finire i compiti per colpa di _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quale sarà la prossima coppia di supereroi? _ x _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qual è il miglior amico di una ragazza? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa piace a Silvio Berlusconi? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante il sesso mi piace pensare a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mentre ero sotto effetto degli acidi, _ si trasformò in _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Questa bibita energetica ha un sapore di _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voci dicono che il piatto preferito di Vladimir Putin è _ ripieno di _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La gita scolastica fu completamente rovinata da _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sarò milionario erigerò una statua di 30 metri per commemorare _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "È un peccato che i ragazzini al giorno d'oggi partecipino a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono Valerio Staffelli e sono qui per parlarvi di _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perché ho male ovunque? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sei simpatico come _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : buono fino all'ultima goccia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per il mio prossimo numero tirerò fuori _ da _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cos'è che mia nonna troverebbe allarmante ma nello stesso tempo anche stranamente affascinante? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual è il vizio segreto di Batman? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ è una tendenza pericolosa che porta a _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "E il premio Oscar per _ va a _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Di cosa odorano le persone anziane? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sei simpatico come _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante il trascurato Periodo Marrone, Picasso ha prodotto centinaia di quadri su _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa posso andare a prendere dal passato per convincere la gente di essere un potente stregone? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fra mille anni, quando le banconote saranno soltanto un ricordo lontano, _ sarà il nostro denaro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa non vorresti trovare nel tuo cibo cinese? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa usano gli insegnanti per ispirare al successo i ragazzi? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prossimamente su Rai Sport 2: i mondiali di _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa aiuterebbe Mario Monti a rilassarsi? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gli antropologi hanno recentemente scoperto un'antica tribù che venera _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sì, ho ucciso _ . Ti domandi come? _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Negli ultimi istanti di vita, Michael Jackson pensò a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quale sarà il prossimo giocattolo nell'Happy Meal? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amaro Montenegro, sapore di _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual è la cosa più incrostata? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nel tentativo di attrarre nuove persone, il Museo Nazionale di Storia Naturale inaugurerà una mostra interattiva su _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa ti permette di portarti a letto, con assoluta certezza, una ragazza? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Invece del carbone la Befana ora porta ai bambini cattivi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arricchisciti rapidamente con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual è la nuova dieta del momento? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cara Top Girl, ho difficoltà con _ e vorrei qualche consiglio.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Allattamento.",
+    "Popolo delle Libertà.",
+    "Tirarlo fuori.",
+    "Bruno Vespa che si impiglia con lo scroto in un gancio per le tende.",
+    "Justin Bieber.",
+    "Gli ebrei.",
+    "Sexting.",
+    "I patti Lateranensi.",
+    "Capodogli.",
+    "Essere in fiamme.",
+    "Una buona sniffata.",
+    "Totò Riina.",
+    "Tortura cinese.",
+    "Robo-Cop.",
+    "Gorgheggi in momenti inappropriati.",
+    "Preliminari meschini.",
+    "Pac-Man che trangugia sperma.",
+    "Fare l'occhiolino a persone anziane.",
+    "La pace nel mondo.",
+    "Natalie Portman.",
+    "Herpes labiale.",
+    "Campioni gratuiti.",
+    "La squadra di ginnastica artistica cinese.",
+    "Abbuffarsi e vomitare.",
+    "Fare solo un pochino di pipì.",
+    "Rimorchiare ragazze all'ospedale dopo un aborto.",
+    "Cosce poderose.",
+    "Sesso orale non ricambiato.",
+    "Alcolismo.",
+    "Lo sguardo fisso di una Winx.",
+    "Un'antilope che soffre di flatulenza.",
+    "Fantasmi.",
+    "Barbara D'Urso in lacrime mentre ascolta una storia triste.",
+    "Uccelli incapaci di volare.",
+    "Toccare una tetta senza dare nell'occhio.",
+    "Lecca-lecca giganti.",
+    "Benny Benassi.",
+    "Gandhi.",
+    "Un robusto mongoloide.",
+    "Una pugnetta triste.",
+    "Gravidanza in età adolescenziale.",
+    "Lasciare un messaggio imbarazzante in segreteria.",
+    "Attacchi di velociraptor.",
+    "I miei genitali.",
+    "Aborti fatti con l'appendiabiti.",
+    "Piloti kamikaze.",
+    "Mani vigorose da jazzista.",
+    "Scuole gestite da suore.",
+    "Un poliziotto onesto che non ha niente da perdere.",
+    "Barboni.",
+    "Polluzione notturna.",
+    "Arrabbiarsi così tanto da farsi venire un'erezione.",
+    "Giorgio Mastrota.",
+    "Chierichetti.",
+    "Bambini al guinzaglio.",
+    "World of Worcraft.",
+    "Oompa-Loompa.",
+    "Obiettivi politici degli omosessuali.",
+    "Petting duro.",
+    "Incesto.",
+    "Il sangue di Cristo.",
+    "Le mie tette.",
+    "Serpenti volanti che fanno sesso.",
+    "Mr. Muscolo, giusto dietro di te.",
+    "Porno in un sotterraneo tedesco.",
+    "La banda Bassotti.",
+    "Un'erezione che dura più di quattro ore.",
+    "Un mimo che muore di infarto.",
+    "Una grattata di culo clandestina.",
+    "Pac-Man.",
+    "Una maledizione di un gitano.",
+    "Pornostar.",
+    "Un minuto di silenzio.",
+    "Darth Fenner.",
+    "Aspettarsi un rutto e invece vomitare sul pavimento.",
+    "Gioielli da rapper.",
+    "Skeletor.",
+    "Scaccolarsi con l'alluce del piede sinistro.",
+    "Il rapimento alieno.",
+    "Un uomo di mezza età con un paio di pattini in linea.",
+    "Formaggio piccante.",
+    "Gigi D'Alessio.",
+    "La sacra Bibbia.",
+    "Post-it passivo-aggressivi.",
+    "Psicofarmaci.",
+    "Rubare veramente le caramelle ad un bambino.",
+    "Ditalini.",
+    "Una spagnola non simmetrica.",
+    "Una colazione equilibrata.",
+    "Obesità.",
+    "Un operoso cinese.",
+    "Pizza con la nutella.",
+    "Passare a Vodafone.",
+    "Un festival della salsiccia.",
+    "Scienza.",
+    "Pubertà.",
+    "Caccole.",
+    "Tom Cruise.",
+    "Polaretti®.",
+    "Sesso tra panda."
+  ],
+  "pack": {
+    "id": "8NMMA",
+    "name": "Italiano"
+  },
+  "quantity": {
+    "black": 45,
+    "white": 100,
+    "total": 145
+  },
+  "dateStoredMs": 1589059207191
+}

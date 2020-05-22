@@ -1,0 +1,134 @@
+{
+  "black": [
+    {
+      "content": "How can _ be more British than _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "God save _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Prince Andrew sweat? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am extremely displeased with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That must be illegal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget Brexit, we want to get rid of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing could be more British than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Brexit we'll have way more _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The village cricket game had to end because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry _ is here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Lynda from marketing break down on the corporate day out? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In an effort to diversify, the Royal Family is now getting into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A very polite knife fight.",
+    "Prince Philip hitting and killing a child with his Land Rover.",
+    "Boris Johnson.",
+    "The Chuckle Brothers.",
+    "Laughing at the concept of Scottish independence.",
+    "Nearly throwing up at the mention of Slough.",
+    "Being shafted by David Cameron.",
+    "Running out of toilet paper and having to use tea bags.",
+    "Ed Miliband having a seizure.",
+    "Winning in 1918, 1945 and 1966.",
+    "Colonising the world and then complaining about immigrants.",
+    "Mary Berry's moist cakes.",
+    "England losing the match but not the post-game punch up.",
+    "Northerners.",
+    "Burning down the White House.",
+    "Getting angry at other people's problems.",
+    "Agreeing with Jeremy Clarkson on all topics.",
+    "Red squirrels covered in HP sauce.",
+    "Engelbert Humperdinck.",
+    "Complaining about the weather.",
+    "Having to turn around and making it look like you know where you are going.",
+    "The EDL.",
+    "Bill and Ben the flowerpot men.",
+    "Using long words to appear intelligent.",
+    "Running out of 70s children's entertainers that are OK to like.",
+    "Keeping the Falkland Islands.",
+    "Q tricking James Bond into shooting off his legs.",
+    "Lawn bowls.",
+    "The NHS.",
+    "Stripping naked and running through the street wearing a St George's flag as a cape.",
+    "A highly elitist upper class.",
+    "Chanting the dangerously racist version of Eeny, Meeny, Miney, Mo.",
+    "The entirety of Cornwall.",
+    "Prince Phillip somehow not being racist.",
+    "Moaning about immigrants stealing jobs because you lack the skills to get one.",
+    "Singing \"Rule Britania\" at the top of your voice.",
+    "The Welsh.",
+    "Jimmy Saville.",
+    "Merthyr Tydfil.",
+    "Trying to explain the teletubbies to an American.",
+    "Feeling guilty for finding money.",
+    "An unjustified hatred of the French.",
+    "Hipsters from London.",
+    "Thinking it's ok to put a flag on everything you see.",
+    "Monologues about the war.",
+    "Feeling compelled to apologise for everything.",
+    "Posh people who wear wellies all the time.",
+    "Holding the door long enough to make it awkward.",
+    "Asking a stripper to put more clothes on.",
+    "Dick and Dom.",
+    "Margaret Thatcher calling Nelson Mandella a dirty terrorist.",
+    "Pippa Middleton's arse.",
+    "The shit stained floor of a Wetherspoons toilet.",
+    "Heston Blumenthal accidently torching the Houses of Parliment with his special cheesecake.",
+    "Going along with America's stupid fucking plans.",
+    "Very carefully ignoring the shit that's happening in Ireland.",
+    "Eating After Eight mints before eight O' clock.",
+    "Showing up to your child's sports day high on cocaine."
+  ],
+  "pack": {
+    "id": "X6br6",
+    "name": "A Very British Deck"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 58,
+    "total": 70
+  },
+  "dateStoredMs": 1588660915702
+}

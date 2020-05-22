@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "Son, if I ever catch you listening to  _  again, I will rip your ears off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On behalf of _ , Coachella music festival would like to apologize for their comments on _ . What was said was insensitive and tasteless.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you pass your class, we can get tickets to see _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest musical act to perform on Disney Channel is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in the old days popular music was great, but today we are stuck with such shit such as _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Taking LSD while listening to The Wiggles and being perfectly cool with it.",
+    "Ozzy Osbourne.",
+    "Assassinating one of the members of the Beatles.",
+    "A washed up band that was popular in the 90s and 00s that won't ever just break up.",
+    "The first ska band with 1000 members.",
+    "GG Allin.",
+    "A boring and cliche love song that gets played on the radio over and over again.",
+    "Selling out.",
+    "My Chemical Romance.",
+    "Being in a punk band with a phd.",
+    "Calling Green Day a punk band.",
+    "Minor Threat.",
+    "Gangsta rap.",
+    "Writing lyrics advocating for social justice while being a white male.",
+    "Christian punk.",
+    "Annoying autotune that ruined the whole fucking song.",
+    "Fat Mike's sex dungeon.",
+    "Some shitty cover band on YouTube.",
+    "Giving a blowjob to the sexiest member in the boy band.",
+    "Another goddamn one hit wonder from the jukebox again."
+  ],
+  "pack": {
+    "id": "BAT2Y",
+    "name": "Cards Against Musicianship"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 20,
+    "total": 25
+  },
+  "dateStoredMs": 1588913996150
+}

@@ -1,0 +1,185 @@
+{
+  "black": [
+    {
+      "content": "Things got really awkward when the druid turned into _ and started _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I knew that I was in trouble when the GM started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried to cast 'aura of purity' on _ but, of course, it failed because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Accidentally _ after failing your _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I landed a critical hit on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's all fun and games until someone casts _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, you can't focus your 'enlarge' spell on just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The drow was about to kill me, so I tried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A giant approaches the party. You decide to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, 'dominate person' doesn't mean _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I realize I was charmed? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We thought it was a good plan until _ started _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I decided to use _ as my weapon after I lost my sword.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried to cast 'animate object' but it turns out _ isn't considered an object.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After failing my wisdom save, the enemy forced me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I rolled a natural 1 while trying to _. It resulted in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My chosen deity is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Using speak with animals, I told the wolf about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I failed my constitution check for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cast confusion on _ who then started _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ if you know what I mean.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cast 'detect thoughts' and couldn't believe _ was thinking about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I failed my persuasion check and ended up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things got a little awkward when the rogue started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My weapon of choise is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After succeeded my charisma check, I persuaded _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I cast 'animate dead' because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dexterity check.",
+    "Rolling a dexterity save.",
+    "Constitution save.",
+    "Strength check.",
+    "The cleric.",
+    "Rolling a critical fail.",
+    "Rolling a natural 1.",
+    "The druid.",
+    "The wizard.",
+    "Rolling a natural 20.",
+    "The ranger.",
+    "Rolling a constitution check.",
+    "Dexterity save.",
+    "Using 'enhance ability' in the bedroom.",
+    "Casting 'invisibility' on unsuspecting villagers.",
+    "The bard.",
+    "Enhance ability.",
+    "Accidentally casting 'arms of Hadar' in the bedroom because you thought it was 'arms of harder'.",
+    "Charisma check.",
+    "Sentient weapons.",
+    "The sorcerer.",
+    "The rogue.",
+    "Playing monk, monk, ooze.",
+    "Constitution check.",
+    "Calling a failed resurrection a \"CLERICal error\".",
+    "The paladin.",
+    "Boots of haste.",
+    "The monk.",
+    "Rolling a natural 20.",
+    "Bigby's hand, if you know what I mean.",
+    "The barbarian.",
+    "Big bards, if you know what I mean.",
+    "CRITICAL HIT!.",
+    "Wisdom save."
+  ],
+  "pack": {
+    "id": "HJACY",
+    "name": "D&D"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 34,
+    "total": 61
+  },
+  "dateStoredMs": 1588739467753
+}

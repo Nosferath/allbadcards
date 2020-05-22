@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "PZPN zakazał _, bowiem dawało to graczom niesprawiedliwą przewagę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za 1000 lat zamiast papierkowych pieniędzy będziemy używać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas lotu samolotem zabrania się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To straszna szkoda, że wszystkie dzieci w dzisiejszych czasach mają do czynienia z _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "C486E",
+    "name": "Polish"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588607420791
+}

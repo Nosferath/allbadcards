@@ -1,0 +1,47 @@
+{
+  "black": [
+    {
+      "content": "What is my favorite food? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is better than _. True or false?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is my favorite Sans? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Geno Sans.",
+    "Swapfell Sans.",
+    "Colorful skeletons.",
+    "Classic Sans.",
+    "Frisky the Frisk.",
+    "Inktale Sans.",
+    "Chara.",
+    "Errortale Sans.",
+    "Swaptale Sans.",
+    "Flowey the Flower.",
+    "Papy the Paps.",
+    "Underswap Sans.",
+    "Chary the Chara.",
+    "Underfell Sans.",
+    "Papyrus.",
+    "Sansy the Sans."
+  ],
+  "pack": {
+    "id": "6HG97",
+    "name": "My Special Hell"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 16,
+    "total": 19
+  },
+  "dateStoredMs": 1588648321940
+}

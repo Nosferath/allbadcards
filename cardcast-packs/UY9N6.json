@@ -1,0 +1,506 @@
+{
+  "black": [
+    {
+      "content": "Der frühe _ kann mich mal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drei Tage _ . Das reicht erstmal für den Monat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein jeder Söldner braucht _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn einer Bauern schlachten kann, dann _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Erst _ , dann _ . Langsam geht's bergauf.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Der Spieß hat nur eine Schwäche: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es geht ins Feld! Männer, stimmt _ an.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein hellerbrunner Sprichwort lautet: \"Lieber den Spatz in der Hand, als _ .\" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seit _ ist Rag Askur auch nicht mehr der Hauptmann.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als die Legatin _ gegenüberstand hatte sie nur _ im Kopf.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Am liebsten kämpft Eugen mit _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim _ den kürzesten Strohhalm zu ziehen ist wie _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rein durch das Stadttor und Zack, stehst du im _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit _ lockt man auch Arturius aus dem Zelt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nein! _ ? Hat er nicht gesagt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hast du Kacke an der Spitze warst du bei _ dabei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lexus von Rallersquell geht nur mit _ ins Bett.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, was riecht hier so nach _ ? Ah, musste aufstoßen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der nächste, der sich duellieren will, bekommt _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ob du _ gesoffen hast?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn es um _ geht ist auf Komarn Verlass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oldrian bekommt man nur mit _ 'rum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist immer der Kracher auf dem Hellersbrunner Markt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ziehe ich Azrael und Naphtael jederzeit vor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elanos, Lyskar und _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nach drei Wein hat Azrael sicher nichts gegen ein bisschen _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ führte zur Reichsgründung.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn wir _ überleben gibt's erstmal ordentlich _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist wohl das Einzige, was Rag unter \"Training\" versteht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Interesse an _ ? Heute nur drei Kupfer!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum ist Arturius so still? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Krieg ist _ unerlässlich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Und wenn man fragt, wen liebet dieses _ , sie liebet wohl den _ in der Ferne so weit weg.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nur _ ist Beongard wichtiger als _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ! So weit weg!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ beschäftigt Drachengard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statt Frauen haben die Eisenbärte _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ klingt wie der Mogwyer Brunftruf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rodericks Lieblingsspielzeug ist _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer _ macht schlägt sicher auch seine Frau.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir haben gesagt keine _ im Zelt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit _ ehrt man tote Krieger.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trommler, spiel auf zum _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 330 nach Reichsgründung, ich war dabei!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das ist kein _ , wir werden \"bewartet\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! Huld Huld Jubel!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieber als Mais mag Beo wohl nur _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vult!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der _ am Morgen vertreibt Kummer und Sorgen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hmm, _ ? Klingt gut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anderlinge? Bei sowas hilft nur _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lang lebe Kan-Kuzgun, Land der _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! Gib mir Fünf!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es wäre kein romantischer Abend ohne _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute saufen wir mit _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Herr Kahlet wurde für _ zum Ritter geschlagen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist fester Bestandteil der Rekrutenausbildung.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Für eine Hochzeit mit Vitus kommt ja wohl nur _ in Frage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es liegt _ in der Luft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es wäre kein Zuberabend ohne _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich muss zurück in mein Zelt, _ wartet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im letzten Suff verletzte sich Justus an _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neu-Boffelt kann man auch nur mit _ einnehmen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Immer wenn ich _ sehe juckt mir die Kuppe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vitus kann man das Maul nur mit _ stopfen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist nicht die Lösung für alles!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist in Drachengard weniger erwünscht als _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Ein Urin-Strafaufguss.",
+    "Völkische Säuberung durch die KGH.",
+    "Eine Nacht mit den Companeros.",
+    "Die rote Ruhr.",
+    "Anderlinge mit Brechdurchfall.",
+    "Eschendreschen.",
+    "Pries-Maschine.",
+    "Wettschnupfen mit dem Wirt.",
+    "Unter das Kleid gucken.",
+    "Quietschende Galgenstricke.",
+    "Aufgehende Morgenmöse.",
+    "Am Feldrand verscharrt werden.",
+    "Kleine Kinderhände.",
+    "Schwarzes Banner zum Sturm.",
+    "Roter Schlamm.",
+    "Fotzenmelone.",
+    "Bier-Liegestütze.",
+    "Portweinfrühstück.",
+    "Morgoner Zwiebelimbiss.",
+    "Zahllose Bankerte.",
+    "Zwei, Vier und das dreckige Dutzend.",
+    "Zuberbrecher.",
+    "Ork-Orgien im Mad Goblin.",
+    "Packerl Fotzen.",
+    "Der schwarz-weiße Ritter.",
+    "Zuber-Libre versenken.",
+    "Versehentliche Samenspende.",
+    "Reinigendes Feuer.",
+    "Purpurbehelmte Soldaten.",
+    "Der Anderlingsmörder.",
+    "Rausch ausschlafen.",
+    "Justus' haarige Zunge.",
+    "Beinlinge ohne Bruche tragen.",
+    "Elb-Drachen-Hybrid.",
+    "Buchensteiner Wölflinge.",
+    "Benefiz-Topfschlagen in Fuhrn.",
+    "Gurkenwasser.",
+    "Körperknoten mit Haumessern.",
+    "Fleisch-Konfetti.",
+    "Ruhrverseuchte Decken.",
+    "Ein volltrunkener Feldscher im Schlachthof.",
+    "Ein menschlicher Schild.",
+    "Belagerungswaffen.",
+    "Eine Hellebarde ins Gesicht.",
+    "Sprühstuhl am Morgen.",
+    "Blutiger Bauernaufstand.",
+    "Ein wütender Dante Steiner.",
+    "Roderick in Bruche.",
+    "Obacht.",
+    "Gebrüder Schlageisen.",
+    "Ein Krieg ohne Söldner.",
+    "Hellersbrunner Luftbestattung.",
+    "Sackratten.",
+    "Die schwangere Comtesse.",
+    "Down-Meuchelmörder.",
+    "Freundliche Vernichtung.",
+    "Erasmus von der Thann.",
+    "Der Leuchteschwängel.",
+    "Kollateralschäden.",
+    "Lotch am Lax.",
+    "Aderlass durch das Rektum.",
+    "Endlose Pfeilhagel.",
+    "Das rote Biest von Vidgard.",
+    "Eichelkäse im Mund.",
+    "Ein kleiner Auftrag für die Luigis.",
+    "Die Ärsche von den Weibern auf Tortuga.",
+    "Büttners Lyrik.",
+    "Bei der Ritualwache einschlafen.",
+    "Achtundvierzig Fass Haradnin.",
+    "Blutige Einlagen.",
+    "Räudige Wanderhuren.",
+    "Die selige Lisbeth.",
+    "Der bewusstlose Graf.",
+    "Händewaschen im Fleischwolf.",
+    "Rag Gelaber.",
+    "Reservate für Anderlinge.",
+    "Ein Hut aus Hodenhaut.",
+    "Abartige Anderlinge.",
+    "Spieß-Schell'n.",
+    "Pferdefleisch.",
+    "Ein Loch in der Abort-Wand.",
+    "Hosenkohl-Suppe.",
+    "Die Hand am Schaft.",
+    "Beschuss.",
+    "Eine Windmühle voller Leichen.",
+    "Nackt vollkommen sein.",
+    "Zwei Kupper und 'ne Maß.",
+    "Wahlloses Unterstützungsfeuer.",
+    "Verbrennungen dritten Grades.",
+    "Eine Puff-Mutter aus Alfalter.",
+    "Der Ransbach-Baumbacher Knabenchor.",
+    "Mais.",
+    "Karpodka.",
+    "Fisten mit Plattenhandschuhen.",
+    "Kupferbücker.",
+    "Eine Rennschelle.",
+    "Ein großer Schluck Zuberwasser.",
+    "Eine gestörte Schwerthaltung.",
+    "Mörserbeschuss.",
+    "Der Kupfersteinkonflikt.",
+    "Todesgeschrei.",
+    "Blut auf dem Reik.",
+    "Zähneputzen mit Drahtbürsten.",
+    "Die fünfzehnjährige Daria.",
+    "Das Harte muss ins Weiche.",
+    "Nippel wie Wagenräder.",
+    "Die einzige Frau im Zuber.",
+    "Helmpflicht bei der Wache.",
+    "Zwei Heidschnucken.",
+    "Ballisten-Tests mit Lebendziel.",
+    "Vollkommen nackt sein.",
+    "Stippen mit Panzerstechern.",
+    "Sieben um dein Leben.",
+    "Eine Horde Waisenkinder.",
+    "Völliger Kontrollverlust.",
+    "Mit vier Mann zum Einzelkampf.",
+    "Anderling Diplomatinnen.",
+    "Barfüßige Feuer-Lageristen.",
+    "Köpfen.",
+    "Die Hügel der Ländereien de Alba.",
+    "Otzländer-Leibesvisitation.",
+    "Die Schwänze der Agu-Caras.",
+    "Vitus.",
+    "Repo.",
+    "Eine Beerdigung ohne Leiche.",
+    "Anheuern bei der Vires Elementa.",
+    "Drow-Meuchelmörder im stillen Örtchen.",
+    "Infanterie.",
+    "Ein Otzländer im Zwinger.",
+    "Rag, der gelbe Lindwurm.",
+    "Kleinwüchsige Belagerungscrew.",
+    "Kotzfontäne im Wirtshaus.",
+    "Bruche und Hellebarde.",
+    "Hellersbrunner Fischmarkt.",
+    "Ein wütender Bauernmob.",
+    "Vier bemannte Männer.",
+    "Genickbruch durch den Chaos-Avatar.",
+    "Katzenwesen anlocken.",
+    "Ein Ausrutscher bei der Intimrasur.",
+    "Hämmer raus für Hellersbrunn.",
+    "Anlässe im Hause de Alba.",
+    "Prunkwämser aus Menschenhaut.",
+    "Inzest in Kan-Kuzgun.",
+    "Ein Pfeil im Auge.",
+    "Im Thronsaal ausnüchtern.",
+    "Der Hauptmann mit Durchfall.",
+    "Gehängeimitationen aus Holz.",
+    "Die dreieinige Walpurga.",
+    "Zu frühe Hexenverbrennung.",
+    "Schnitzel du Fotze.",
+    "Penisse in Aspik.",
+    "Ein Rülps-Nies-Furz.",
+    "Fotzenschleim.",
+    "Ein Sack Kartoffeln voll Scheiße.",
+    "Rosen im Arsch."
+  ],
+  "pack": {
+    "id": "UY9N6",
+    "name": "Karten gegen Drachengard"
+  },
+  "quantity": {
+    "black": 67,
+    "white": 155,
+    "total": 222
+  },
+  "dateStoredMs": 1588447353397
+}

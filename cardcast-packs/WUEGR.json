@@ -1,0 +1,130 @@
+{
+  "black": [
+    {
+      "content": "There's no _ in engineering.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is better in Spain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jack stunned us all when he asked about _ on the midterm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This _ is gross.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matt always looked especially shocked when Jack _ during the breaks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aria: _...... Jack: Uh, nope.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of working on our research papers, we spent the entire lab _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One time Diana made Matt spit out his _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matt's presentation on _ was a great way to end the week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even Medora's _ is green!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did my bridge fail? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Christopher shocked his hall by drawing pictures of _ on their whiteboards.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jack totally blew my mind today when he taught us about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't have _ in Hawaii.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The girls loved shipping mattily, but even the lewd pairing of _ and  _ could avert their attention.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I turn, like, _ in the winter. -Julia",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My RFP is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of spaghetti, next year the students will be building their bridges from _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Diana.",
+    "Spaghetti.",
+    "Aria's lost frisbee.",
+    "Skyler kim.",
+    "MIKKURU BEAM-UUUU.",
+    "Aria.",
+    "Hhhhhhhhhhh.",
+    "The dongle.",
+    "Middlefish.",
+    "Trusses.",
+    "Nand gates.",
+    "Julia.",
+    "One way bridedge.",
+    "Jack's insatiable love for dance.",
+    "Phallic architecture.",
+    "The HAC lab.",
+    "Frisbee.",
+    "Jack.",
+    "The three alexes.",
+    "Matt.",
+    "Molwitz.",
+    "Guillem.",
+    "Chris and chris.",
+    "Christopher."
+  ],
+  "pack": {
+    "id": "WUEGR",
+    "name": "IENG"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 24,
+    "total": 42
+  },
+  "dateStoredMs": 1588396013882
+}

@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "It's extremely hot in here. _ must leave the room, because _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm extremely sorry for _ , I'm gay.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Laughing about hungry children from Africa.",
+    "A German Leader with a small Mustache."
+  ],
+  "pack": {
+    "id": "TDZ59",
+    "name": "The jews"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588715463185
+}

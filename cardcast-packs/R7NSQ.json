@@ -1,0 +1,47 @@
+{
+  "black": [
+    {
+      "content": "With the purchase of the _ suit, a religion was born.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What ended my career? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "| || || |- What is the image above? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait who killed Sakurai!? Seriously _ did it!?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "T H E R E.",
+    "Dracula's fine glass wife.",
+    "Stage 5 terminal gay.",
+    "Flesh.",
+    "Archie.",
+    "Daddy Sakurai saying no no to Waluigi.",
+    "A down air by Ganon so hard that your head is sent to your stomach.",
+    "That person hiding in the corner spamming projectiles like a mad man.",
+    "The soul crushing sound of Snake spamming projectiles.",
+    "P k F i r e.",
+    "Isabella using the multiple assist trophy glitch to bring a plague of Waluigi upon the world."
+  ],
+  "pack": {
+    "id": "R7NSQ",
+    "name": "Humanities Lost Classics"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 11,
+    "total": 15
+  },
+  "dateStoredMs": 1588597518331
+}

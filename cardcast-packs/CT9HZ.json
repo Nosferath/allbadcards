@@ -1,0 +1,117 @@
+{
+  "black": [
+    {
+      "content": "Did I say downgrade? I meant _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can we conquer? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Japan is a(n) _ by the sea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And they stole China's _ and wrote a book.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now there's more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now there's lots of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get the door, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world is about to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ruled by a heavenly super person, or _ for short.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Postwar economic _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How are you supposed to protect your shit from criminals? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ said everybody again, quieter this time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They have technology from the future, like _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who's going to be the next Shogun? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Knock knock. It's _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dutch studies.",
+    "A fuckton of soldiers.",
+    "Sexy times.",
+    "The year -1,000,000,000.",
+    "This hot new religion.",
+    "Making the government govern more.",
+    "Stones and bowls.",
+    "How about maybe you chill.",
+    "Gunboats.",
+    "Collaborative poetry.",
+    "Beautiful.",
+    "Sunrise land.",
+    "Trees.",
+    "Jesus.",
+    "Hire a samurai.",
+    "Hi dipshits."
+  ],
+  "pack": {
+    "id": "CT9HZ",
+    "name": "History of Japan"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 16,
+    "total": 33
+  },
+  "dateStoredMs": 1589576857594
+}

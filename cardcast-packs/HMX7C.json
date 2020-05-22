@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "Winston Churchill was racists to _ by saying they were a _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rebecca Wrong-Bailey simply refused to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tony Blair committed a war crime by _ on _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Margaret Thatcher survived an attack on her life by the IRA and immediately _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boris Johnson rugby tackled a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Winston Churchill had a fight with Hitler and defeated him by _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Margaret Thatcher saved the UK by _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeremy Corbyn recently sent money to the IRA for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Theresa May danced to _ when _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "John Major decided to have sex with _ after _?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Excuse me, I am not for turning.",
+    "Labour.",
+    "Young Chinese communist.",
+    "Winston Churchill.",
+    "Adolf Hitler.",
+    "Destorying Labour.",
+    "A whore.",
+    "Beaten by the Conservatives.",
+    "Margaret Thatcher.",
+    "Conservative.",
+    "Ya mam gay.",
+    "Little girl.",
+    "John Major.",
+    "Theresa May.",
+    "Told them they were a bunch of potato hoarding slags.",
+    "Sucking dat kid.",
+    "Tony Blair.",
+    "Jeremy Corbyn."
+  ],
+  "pack": {
+    "id": "hmx7c",
+    "name": "UK Politics"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 18,
+    "total": 28
+  },
+  "dateStoredMs": 1589127542963
+}

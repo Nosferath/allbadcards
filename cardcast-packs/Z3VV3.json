@@ -1,0 +1,110 @@
+{
+  "black": [
+    {
+      "content": "My first posting was as a _ on the USS _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Picard and Beverly secretly like to  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space, the final_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sensing a great deal of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THERE ARE FOUR _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my expert medical opinion, I'd say it's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. Barclay can't seem to use the holodeck without _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is Captain James T. Kirk of the Enterprise. Stand down or we will _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Prophets are _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scotty! _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vulcans never _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gah! Q is so _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deep Space _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need a nice tall glass of Saurian _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a human emotion, and I am an android.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today is a good day to _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's _ in that nebula!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit Jim, I'm a _ not a _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is futile.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "Z3VV3",
+    "name": "Star Trek"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 0,
+    "total": 19
+  },
+  "dateStoredMs": 1588370353621
+}

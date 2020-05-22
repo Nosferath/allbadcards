@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Do you even _ bro?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bees?."
+  ],
+  "pack": {
+    "id": "XMJB8",
+    "name": "do you even bees?"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588227780937
+}

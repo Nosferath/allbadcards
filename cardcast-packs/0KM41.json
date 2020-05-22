@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "I only play sims to watch them _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your baby decided to put his hands in the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only place I actually can woohoo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There will be a _ if your sim doesnt read a cooking skill book.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The neighbor decided to come over, use the hot tub, and trim the bushes _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate it when my_ randomly pees their pants because they wouldn't go to the bathroom on their own.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SIMS.",
+    "Toilet.",
+    "WooHoo.",
+    "Naked.",
+    "Sim.",
+    "Fire."
+  ],
+  "pack": {
+    "id": "0km41",
+    "name": "Sims"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1588420730635
+}

@@ -1,0 +1,29 @@
+{
+  "black": [],
+  "white": [
+    "Mandrax.",
+    "AIDS.",
+    "Chlamydia.",
+    "Ectasy.",
+    "HIV.",
+    "Vodka.",
+    "MDMA.",
+    "Heroine.",
+    "PCP.",
+    "Shots.",
+    "Red Ice.",
+    "Beer.",
+    "Weed.",
+    "Speed."
+  ],
+  "pack": {
+    "id": "38X8D",
+    "name": "Drugs For Humanity"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 14,
+    "total": 14
+  },
+  "dateStoredMs": 1588717444430
+}

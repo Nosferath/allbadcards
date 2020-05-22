@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "Now take your brush, and beat the _ out of it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Bob Ross painting today? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SAVED.",
+    "Beating the devil out of it.",
+    "A happy little cloud.",
+    "A happy little tree.",
+    "RUINED.",
+    "Magic White."
+  ],
+  "pack": {
+    "id": "52ANH",
+    "name": "Bob Ross"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 6,
+    "total": 8
+  },
+  "dateStoredMs": 1588457247919
+}

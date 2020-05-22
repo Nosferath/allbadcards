@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Every tuesday at 3:33 am, we sacrifce _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "40 y/o virgins."
+  ],
+  "pack": {
+    "id": "MNQBP",
+    "name": "Satan"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588609368441
+}

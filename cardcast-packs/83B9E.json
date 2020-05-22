@@ -1,0 +1,63 @@
+{
+  "black": [
+    {
+      "content": "Excuse me, kelnerze. Czy mógłby pan to zabrać? Ta zupa smakuje jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie przegap nowego show Karola Okrasy, \"Gotowanie z _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Och, kochanie, twoje beknięcia pachną jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem Magda Gessler i jeżeli nie możesz znieść _, wynocha z kuchni!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Już teraz w Netflixie: \"Jiro śni o _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To nie jest dostawa, to jest _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stół dla jednej osoby w Cheescake Factory.",
+    "To, co zrobić z tą całą czekoladą na moim penisie.",
+    "Brzuch pełen jajek na twardo.",
+    "Bycie emocjonalnie i psychicznie zdominowanym przed Gordona Ramsey'a.",
+    "Nudna impreza wegan.",
+    "Hot-dog, którego wsadziłam sobie do waginy 10 dni temu.",
+    "Korporacja Majonezu Hellman's.",
+    "Spuszczanie się na ciasteczka.",
+    "Prawdziwy smak sera.",
+    "Zabronione czekoladki taty.",
+    "Meksykańskie dziecko uwięzione w środku burrito.",
+    "Zaciskanie się na szyi gazeli i kosztowanie jej ciepłych wód życiowych.",
+    "Kapuściane pierdy.",
+    "Zupa, która jest lepsza od cipki.",
+    "Niesłyszalny krzyk marchewki.",
+    "Zlizywanie resztek ciasta z palców babuni.",
+    "Kręcenie kieliszkiem wina i wąchanie go jak sutener."
+  ],
+  "pack": {
+    "id": "83B9E",
+    "name": "Food Pack - Polish Translation"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 17,
+    "total": 23
+  },
+  "dateStoredMs": 1588613271541
+}

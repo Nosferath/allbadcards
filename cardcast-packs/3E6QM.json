@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "What happened to the Jedi Order? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daddy what happened to your arms and legs? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best Star Wars quote? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is your father? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "3E6QM",
+    "name": "Star Wars Stuff"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588616200179
+}

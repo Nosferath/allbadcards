@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Do you ken what your sisters just finished with me for? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cause ma maws no paid her cooncil tax."
+  ],
+  "pack": {
+    "id": "q945g",
+    "name": "Scottish Twitter"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588165068334
+}

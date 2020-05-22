@@ -1,0 +1,2545 @@
+{
+  "black": [
+    {
+      "content": "Disgusting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wired: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desperate: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sexy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mushy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fast & Furious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crunchy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brilliant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hazardous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clever: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Timeless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wash & Wear: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Risky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Painful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Heavy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honorable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dreamy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sour: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enjoyable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Irresistible: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Useful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polite: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cheerful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Small: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Extreme: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cozy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warm & Cozy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Phony: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sticky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unreal: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Insulting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spunky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rich: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frazzled: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brutal: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smooth & Creamy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Realistic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loud: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Humorous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lovable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wonderful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unhappy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lumpy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Young & Restless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tender: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Little: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elitist: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shocking: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dumb & Dumber: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ordinary: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sick & Twisted: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obscene: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smooth: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eternal: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crisp: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sluggish: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Conceited: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Offensive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Charming: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cool: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lewd & Lascivious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old & Wise: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Modern: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Insane: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Devious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mysterious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tasty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awesome: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Funny: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Spicy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pale: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goody-Goody: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tame: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Relaxing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Primitive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Colorful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clumsy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harmful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scented: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Squeaky Clean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amazing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tiny: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fast: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brains & Brawn: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Believable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dead & Gone: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Large: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flat: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vain: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "High & Dry: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pathetic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Exquisite: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hilarious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naughty & Nice: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worldly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old & Cranky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unusual: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crazed: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boisterous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shiny: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Long & Lean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Cold: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Evil: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dirty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cruel: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kind: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sophisticated: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heavy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Difficult: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Visionary: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dramatic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stinky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whimsical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sick & Tired: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Distinguished: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adorable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sensitive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aged: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Special: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flaky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thoughtful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clueless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Orderly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Selfish: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Profound: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Confused: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Untamed: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuzzy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dignified: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fragile: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Delicate: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Touchy-Feely: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slimy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Graceful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fantastic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Confusing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skillful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rough & Ready: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hale & Hearty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crazy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Valuable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thin: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Explosive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fabulous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fake: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Healthy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secretive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mischievous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feminine: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spic & Span: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Big: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terrible: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Annoying: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cheesy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spicy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hardworking: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Overwhelming: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Repulsive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Glamorous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Virtuous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Exciting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Earthy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awkward: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frightening: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bright: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Demanding: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gorgeous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ideal: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Innocent: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Revolutionary: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meek: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cold: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Round: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slow: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warm: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Refined: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hopeless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odd: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fine: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smart: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Interesting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Surprising: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sensual: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Influential: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Caring: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Famous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dark: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Filthy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thick & Chunky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ancient: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Snappy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Important: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slender: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fearful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tough: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New & Improved: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Furious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fat: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emotional: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nice: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Square: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intelligent: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Serious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meek & Mild: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gentle: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Popular: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Radiant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juicy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Straight: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Creepy & Crawly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weird: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Furry: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twisted: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosmic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Horrible: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Handy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tempting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gigantic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slow & Steady: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abundant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Costly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sharp: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Temperamental: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boring: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Foreign: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plain & Simple: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chewy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fashionable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dead: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Expensive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sappy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peaceful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plump & Tender: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuddly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legendary: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Responsible: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Horrifying: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patriotic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flirtatious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Up & Down: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talented: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Light: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weak: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spiritual: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Up & Coming: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slippery: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unscrupulous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stereotyped: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intense: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unnatural: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mesmerizing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sensational: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Comical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Torn & Tattered: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dainty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Depressing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Absurd: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fancy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sad: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Swift & Sure: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Young: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plain: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lively: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bold: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Foot Loose & Fancy Free: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stunning: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dysfunctional: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Relaxed: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Delightful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cool & Collected: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fast & Loose: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hostile: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ugly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unhealthy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pretty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stupid: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Speedy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senseless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honest: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shiny: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jolly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harsh: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fun: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Animated: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quiet: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fragrant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Edgy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lazy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Short: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clear: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fascinating: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cute: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wet: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lean & Mean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luxurious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saintly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miserable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unforgettable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plug & Play: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chubby: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Calm: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unbelievable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "American: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Handsome: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Funky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Simple: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick & Dirty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Delicious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bumpy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sporty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitter: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Favorite: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cut & Dried: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Endangered: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pleasant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nutty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Respectable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arrogant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warm & Fuzzy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Careful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Misunderstood: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luscious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trustworthy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elderly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Down & Dirty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Bothered: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Entertaining: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natural: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shaggy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flavorful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neat: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beautiful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Playful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scary: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Courageous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spooky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sultry: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Glitzy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spotless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Short & Sweet: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Energetic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heartless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gruesome: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frail: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neglected: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chunky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Sweaty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cute & Cuddly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dumb: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loud & Clear: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loving: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tall: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosmopolitan: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Big & Tall: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inspirational: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ridiculous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tormenting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wild: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Complicated: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "High & Mighty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black & Blue: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Idiotic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Global: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cruel & Unusual: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black & White: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Glorious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smelly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enormous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trashy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Practical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Long: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perfect: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Helpful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Charismatic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Normal: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Swift: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haunting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scenic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drunk & Disorderly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Creative: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flamboyant: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Easy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Radical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strange: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proud: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goofy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grungy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strong: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Best: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Useless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hit & Miss: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Great: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wicked: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Industrious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Outrageous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Appetizing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brave: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Light & Fluffy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pure: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eccentric: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enchanting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thick: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crooked: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masculine: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grueling: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sloppy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Technological: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daring: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rough: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "True & Blue: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Woebegone: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Comfortable: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obnoxious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dangerous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casual: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nerdy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raw: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perverse: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wide: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Creepy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mystical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Huge: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Melodramatic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gloomy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crisp & Delicious: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Attractive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Poor: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Irritating: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bright & Shining: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Friendly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wild & Wooly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Icky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Exhausting: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Philosophical: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Touch & Go: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tried & True: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dazed & Confused: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puffy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Addictive: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terrific: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Soft: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bogus: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot & Muggy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zany: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lucky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silent: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noisy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Down & Out: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dashing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flawed: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sneaky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Controversial: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Refreshing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "European: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Excellent: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On The Up & Up: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Curved: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Busy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Corrupt: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yucky: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fresh: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rare: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prim & Proper: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frivolous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Messy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Organic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Short & Stout: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skinny: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sickening: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Armed & Dangerous: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shallow: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Witty: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hard: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worthless: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disturbing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Powerful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hairy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fat & Happy: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Violent: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bashful: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dull: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Principled: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deadly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cowardly: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Classic: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neat & Clean: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "High & Low: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cranky: _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "SNFEX",
+    "name": "All \"Apples to Apples\" Green Cards"
+  },
+  "quantity": {
+    "black": 506,
+    "white": 0,
+    "total": 506
+  },
+  "dateStoredMs": 1589069588056
+}

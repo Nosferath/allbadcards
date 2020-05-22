@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "\"You understand what I'm saying, don't you?\" \"Yes. _ cancer.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have _ cancer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your bill will now be _ if you go through with the surgery.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, but the cancer has spread to your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Great news! It seems as if the tumor has _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bad.",
+    "Hospital bills.",
+    "Benign.",
+    "Tumor.",
+    "Bad cancer.",
+    "Chemo.",
+    "Chemotherapy.",
+    "Cancer.",
+    "Coughing up blood.",
+    "Leukemia.",
+    "Bad cancer."
+  ],
+  "pack": {
+    "id": "H28B8",
+    "name": "Cancer (Like, not as a joke)"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 11,
+    "total": 17
+  },
+  "dateStoredMs": 1588714486801
+}

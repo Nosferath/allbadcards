@@ -1,0 +1,78 @@
+{
+  "black": [
+    {
+      "content": "I deal with grief by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents are dead because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you're the child of a supervillain, the only logical thing to do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My two rules for crime fighting are _, and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the Batcave, there's a giant penny, a robotic dinosaur, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotham is my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst villain in this city is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ Mask.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new codename is going to be _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dead birds.",
+    "No guns.",
+    "A dead robin.",
+    "Riddler.",
+    "A thing for redheads.",
+    "Bruce Wayne IS the mask.",
+    "Harley Quinn.",
+    "Old chum.",
+    "The Joker.",
+    "A crowbar.",
+    "Nightwing.",
+    "Fight criminals dressed in a bat costume.",
+    "Oh my goodness gracious, I've been bamboozled!.",
+    "I'm Batman.",
+    "Finding your birthmother.",
+    "Dead parents.",
+    "A C-rate villain."
+  ],
+  "pack": {
+    "id": "NNT23",
+    "name": "Batman"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 17,
+    "total": 26
+  },
+  "dateStoredMs": 1588565589299
+}

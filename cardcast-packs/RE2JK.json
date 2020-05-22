@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "I'm not mad, I'm just _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why I was banned from a winery.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The tiniest horse.",
+    "Doing med things with all your med friends.",
+    "Paccy.",
+    "Turtlenecks.",
+    "Kieran.",
+    "Saying \"hashtag\" unironically.",
+    "A tinier horse.",
+    "Misuderstanding everything you hear.",
+    "Firing shots.",
+    "Trying to convince everyone you're just clumsy, not drunk.",
+    "Hummus.",
+    "How the turns have tabled.",
+    "Andy.",
+    "Brodie, may he grace us with his chiseled bod.",
+    "Making out with a 30 year old woman named Frank.",
+    "Georgia.",
+    "A chonky horse.",
+    "Anja.",
+    "Soph.",
+    "Adam."
+  ],
+  "pack": {
+    "id": "RE2JK",
+    "name": "Personalised"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 20,
+    "total": 22
+  },
+  "dateStoredMs": 1588129799844
+}

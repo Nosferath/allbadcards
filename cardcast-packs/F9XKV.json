@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "Two Cows _ Together.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old Mcdonald had _ for breakfast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Farmer John went to the store and found _ For His Animals.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Those _ are so dirty at it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Farmer John _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Farmer John Found _ and _ Having Sex.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Horse.",
+    "Fucked the shit out of a cow.",
+    "Corncob Dildo.",
+    "Cow.",
+    "Pig.",
+    "Feed flavored condoms."
+  ],
+  "pack": {
+    "id": "F9XKV",
+    "name": "farm"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1588453700050
+}

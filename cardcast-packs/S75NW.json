@@ -1,0 +1,145 @@
+{
+  "black": [
+    {
+      "content": "Who IS that? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If this doesn't match up exactly with my fanfic, _ , I'm going to be very disappointed!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's too late! You are all _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Son of a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , coming through, that _ is you! Oo-ooh, o-ooh!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The real secret ingredient to Lazy Susan's coffee omelets is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember: _ is an illusion, _ is a hologram, buy _! Bye!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I named him _ , because he waddles.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Author of the Journals, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the one thing I asked you not to do tonight? _. And what did you do? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "ANCIENT BLOOD AND BLACKENED SKIES, _ SHALL ONCE MORE RISE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't think nature would allow _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _? That's mathematically plausible . . . I reckon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , for you kid!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Soos's life is my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eeenie, meenie, miney, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I go one more hour without eating, I'm going to resort to _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A head that's always screaming.",
+    "The Owl Trowel.",
+    "Illuminati dorito.",
+    "Dipper's birthmark.",
+    "Pacifica.",
+    "Gompers the goat.",
+    "Ancient sins.",
+    "Keeping human clones as pets.",
+    "Big Henry's death.",
+    "Using Agent Trigger as a human shield.",
+    "The Stan O' War.",
+    "Blacklight messages.",
+    "Gideon Gleeful, child psychic.",
+    "BEWARB.",
+    "A baby-sized earthquake.",
+    "CONFIRMED.",
+    "Dipper Pines.",
+    "A boyfriend secretly made of gnomes.",
+    "Discovering the fandom's biggest theory was actually true.",
+    "Toby Determined.",
+    "Wax Stan.",
+    "Attack glitter.",
+    "The author of the Journals.",
+    "Toby Determined's horrifying secret birthmark.",
+    "Disco girl.",
+    "The Mystery Shack.",
+    "Cloning yourself.",
+    "Candy that eats you.",
+    "The Duchess Approves.",
+    "Homework: the Candy.",
+    "Fiddleford Computermajigs.",
+    "Bill Cipher.",
+    "Baby Fights.",
+    "Waddles.",
+    "Giffany.",
+    "ANCIENT SINS ANCIENT SINS.",
+    "KERPRANK'D with Justin Kerprank.",
+    "The agents' subtle cameos throughout season 2.",
+    "Deer teeth.",
+    "Wendy.",
+    "A Junior Yum-Yum Baby-Time Kiddo Meal.",
+    "Wasting your time trying to develop personal computers in a garage in Palo Alto.",
+    "Soos.",
+    "McGucket's raccoon wife."
+  ],
+  "pack": {
+    "id": "S75NW",
+    "name": "Cards Against Bill Cipher"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 44,
+    "total": 61
+  },
+  "dateStoredMs": 1589306730600
+}

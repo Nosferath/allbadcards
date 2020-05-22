@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "The past is past. Forgive, forget. The truth is, you ain't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's the baddest of them all? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The strength of evil is good as none, when stands before _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you think they deserve a shot at _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you want to be _, like me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can look into your eyes and I can tell you're not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm rotten to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beware. For swear. Undo _'s hair.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With that wand, I will be able to bend both _ and _ to my will!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's ridiculous? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hating dogs because of things said by mother.",
+    "Evil.",
+    "Carlos De Vil.",
+    "Wondering if this was only just a dream.",
+    "Deciding what's wrong, what's right.",
+    "Evie.",
+    "JUST the evil fairy.",
+    "Setting it off.",
+    "Auradon.",
+    "The Isle of the Lost.",
+    "Auradon Prep's Fighting Knights.",
+    "Turning into a dragon.",
+    "Audrey.",
+    "Losing your cell phone.",
+    "Stealing.",
+    "Mal's glowing, green eyes.",
+    "The coronation.",
+    "Chad Charming.",
+    "Good.",
+    "Lonnie.",
+    "Freddie Facilier.",
+    "The Dragon's Eye.",
+    "My wicked world.",
+    "Jane.",
+    "Jordan.",
+    "Bal.",
+    "Jay.",
+    "Dove Cameron's purple hair.",
+    "Being very, very good at being bad.",
+    "Mal.",
+    "Ben.",
+    "Rubbing a lamp.",
+    "Being your guest.",
+    "Spending your life attending to the poor.",
+    "The mirror, mirror on the wall.",
+    "Auradon Prep Academy.",
+    "R-I-D-I-C-U-L-O-U-S.",
+    "Making mischief your daily routine.",
+    "Grabbing the wand.",
+    "Doug."
+  ],
+  "pack": {
+    "id": "8T9V9",
+    "name": "Disney's Descendants"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 40,
+    "total": 50
+  },
+  "dateStoredMs": 1588205954336
+}

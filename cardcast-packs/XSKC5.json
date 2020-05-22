@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Why isn't Waluigi a playable character in Smash? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Waluigi."
+  ],
+  "pack": {
+    "id": "XSKC5",
+    "name": "Waluigi"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588356661829
+}

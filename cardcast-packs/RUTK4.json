@@ -1,0 +1,513 @@
+{
+  "black": [
+    {
+      "content": "I'm scared of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This will be how Sophie L dies: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in my parents' underwear drawer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why should you not be friends with Mary Jane? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait, wait, wait. So you're telling me you got herpes from _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHO SAYS '_'?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Sophie L in 2 cards: _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Having problems with _? Try _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do I want to shove up myself right now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, I'm Natalie. You might recognise me from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is definitely a bottom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sophie N often fantasises about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'I'm sorry sir, but we don't allow _ here.'",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sophie L's worst nightmare is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, sex is cool, but what about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This isn't a beach, this is _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I want for Christmas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I honestly think that _ is impossible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things that will never happen: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do we want? _. When do we want it? Now!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry, I'm just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zak dreams to be _ when he grows up.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maddest two cards wins: _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alice's sex life consists of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Natalie's most recent instagram caption: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Sophie L had a time machine, she would probably go back in time just for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spent most of quarantine _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You. Me. _. Now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing Zak has ever done for a pack of fags has to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder what it's like to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Alex's kink? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mum, it's not what it looks like, I'm just _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We go together like Zak and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is next on Alice's \"Must Molest\" list? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Natalie's favourite hobby? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will forever haunt me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck, I didn't know Sophie N was _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alex gets maximum pleasure from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that _ was actually invented by Zak?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck me in the bum and call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you say you're _ one more time, I'm calling the police, Natalie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ok, that's enough of _ for today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? Alice has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the reason I had to get an abortion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes, I wish _ didn't exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The audacity of _ is just astounding.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you rather commit suicide, or be _? I'd rather commit suicide.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 101: The Basics.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Sophie N's biggest fear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alex's favourite drug would probably be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, this? I call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Sophie N breaks up with Alex, it will be because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. For legal reasons that's a joke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're _, clap your hands.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you have _, please speak to a doctor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I told my boss I was sick, but I was actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get a load of this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Although his name is Alex, he'd prefer to be referred to as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always cum when thinking about _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sophie L's marijuana presentation.",
+    "The blacks.",
+    "The word of God.",
+    "Hymen eliminator.",
+    "Tree?.",
+    "That good sloppy toppy gluck gluck 3000.",
+    "Soph Nips.",
+    "My Minecraft girlfriend who is actually a 50 year old man from Pakistan.",
+    "Idris, bathing in oregano and oil from his own face.",
+    "Weeeeeeeed.",
+    "Alith.",
+    "Tbh I'm tryna hit it.",
+    "Shrek and Peppa's extraordinary love.",
+    "Putting Zak's chinchillas under the cold tap until they're crushed by their own dense fur.",
+    "One of Natalie's phases.",
+    "Cottage cheese but it's actually vaginal discharge.",
+    "Your French teacher showing you his Eiffel Tower.",
+    "Jerking off into a diabetic's insulin pump.",
+    "Natalie's amateur guitar playing.",
+    "Alice the virginity snatcher.",
+    "Committing spermicide.",
+    "Maybe back scratch will be our always.",
+    "Slavery.",
+    "SMALL INDIAN CHOOOOOOODE.",
+    "The delicious acid drip of ketamine down your throat.",
+    "Hannukah.",
+    "Badoink.",
+    "Ronald McDonald being stuffed with Shrek's onions.",
+    "Lia Rose's absolutely COLLOSAL knockers.",
+    "Getting fisted in the urethra, but hey, it's better than Zak's fashion sense.",
+    "Sweating flaps of majesty.",
+    "Alice's loose bunghole.",
+    "Aaron's stagnant seed.",
+    "Crying because someone got out the Devil's lettuce.",
+    "An invite to Jamie's circumcision.",
+    "Scalping Alex.",
+    "Snorting coochie crumbs.",
+    "Your nipples rising at the exact same tempo as Sophie N's soapy nipples so you can have a nipple duel.",
+    "Alzheimers.",
+    "Two engorged stretched flaps billowing in the wind to propel you to your next victim.",
+    "Soggy biscuit.",
+    "Crying under a table at a Halloween party.",
+    "Chiken tika masalla bby grl x.",
+    "\"Guys did you know I'm gay?\".",
+    "Zak apologising to his clothes.",
+    "Sophie L picking up on a single romantic hint.",
+    "A colostomy bag full of the sweat collected from between Aaron's buttcheeks.",
+    "Uncle Alex.",
+    "A human centipede made up of every person Idris has called brudda.",
+    "Sleesy.",
+    "Dying on a ship from dysentery on your way to the plantation.",
+    "The ever-present fear of being molested by a teacher who gives you sweets at Catholic school.",
+    "Ripe nipples.",
+    "Goaticus Hatch the Third.",
+    "Pet.",
+    "Second only to Chloe's fragrant bosom.",
+    "Selling Ralph to a Chinese restaurant.",
+    "Giving Uncle Alex a goodnight kith.",
+    "Druid chant no. 235.",
+    "The width, depth and breadth of Ashley's gaping hole.",
+    "Thirsty slavs.",
+    "Hypodermic needles filled with Natalie's tears.",
+    "Just plain old racist.",
+    "An Alabama hotpocket.",
+    "Big teddy Español gf.",
+    "Squirting into the abyss.",
+    "Alexander Szczech.",
+    "Lucius Malfoy and Severus Snape.",
+    "A dirty little turnip for daddy.",
+    "Giovanni.",
+    "Ralph's raging red rocket standing to attention every time Zak gives it a rub.",
+    "My adventures with crabs.",
+    "*nervously heehees*.",
+    "Crushing Sophie's cat under your feet.",
+    "Holding hands with a high 19 year old as they fall asleep.",
+    "Thpotticus dithappearicuth.",
+    "Uh uh uh uh uhhhhhhhhhhhhh yes yeah YES yES UH OH OH UHHHHH BABY I'm GOInG TO UUH UHH CUMMMMM yesssss uh uh uh UHHHHHHHH OH OOOOOOHHHH.",
+    "Squeezing a baby out.",
+    "Vacuuming the green carpet only to find a wet patch of vaginal fluid.",
+    "The softness of tiny toddler hands on your genitals.",
+    "Getting Jamie to come watch your strip tease.",
+    "Aaron causing an earthquake that's an 8 on the Richter scale from his sheer body weight.",
+    "Eron's incredible novel, making your dellierious with amazement.",
+    "Seeing the Hatch siblings at Exeter and pretending you don't know them.",
+    "Jewish.",
+    "Natalia Elisabeth Lees.",
+    "Licking Tom's greasy hair all the way down to his shrivelled gnome feet.",
+    "Pure autism.",
+    "A line of everyone Chloe has claimed to get off with that wraps around the equator 3 times.",
+    "Hairy man arms.",
+    "The entire concept of virginity.",
+    "Johnny Sins.",
+    "Being tickled by matted ball hair.",
+    "Gassing those pesky Jews.",
+    "DISGUSTANG.",
+    "A homesick abortion crawling up a woman's inner thigh.",
+    "A thirsty Slav getting all up in your guts until you're wheelchair-bound.",
+    "A poor Ugandan family living in a cardboard box.",
+    "Kate's long pubic hair in a braid.",
+    "The majestic plumptious derriere of Alice.",
+    "Honque.",
+    "Fat rolls, moistened by sweat and arousal.",
+    "Picking up Jewish women with a dustpan.",
+    "When Alex yells the priest's name instead of yours.",
+    "God I'm so random and quirky.",
+    "Using Zak's credit card to crush up speed.",
+    "*confused unga bunga*.",
+    "A crumb of Chloe's voluptuous coochie.",
+    "Choking yourself to see if you like it.",
+    "Laughing when he says he loves you.",
+    "Eron's wispy bum fluff beard.",
+    "Smearing poopoo on the walls because it's better than that awful yellow colour.",
+    "Crazy lesbians squirting their fishy juices.",
+    "A shark tooth necklace but it's actually Eron's tooth.",
+    "Procreation orbs.",
+    "Haha u know babes lol yeh i hav gonoria lol bby jsut wanted u 2 no.",
+    "Singing hymns in chapel.",
+    "Will's creepy jokes.",
+    "Sophie N's arousal evaporating as soon as she hears the words 'vibe check'.",
+    "Being off a Perc-30 to forget interacting with Sophie L.",
+    "Dry humping the furniture and pretending it's Sarah.",
+    "The clap.",
+    "Doing a little wee in Ash's swimming pool to add extra flavour when you drink the water.",
+    "What are you doing, actual bro?.",
+    "Josef Stalin.",
+    "If the girl is not adult, then be prepared for Alex's assault.",
+    "Zacharius Connolly.",
+    "Anna, a good Christian woman that got off with her one true love's cousin.",
+    "Gambas.",
+    "Cumlogged bunghole.",
+    "Dame Alice's ginormous gaping cave of wonders.",
+    "Cutting your wrists like you mean it.",
+    "Skinny white boys.",
+    "Northern lights.",
+    "*jiggle jiggle* Lord Aaron approaches.",
+    "The insects crawling around on the crusty green carpet.",
+    "Have a nice life.",
+    "Ginny dominating you.",
+    "The centaur Ashbourne Hatchery.",
+    "A scratch-and-sniff card but the scent is Chloe's fragrant bosoms.",
+    "The absolute annihilation of Hiroshima and Nagasaki.",
+    "Being voluptuous.",
+    "Scrumptious.",
+    "A POV porno of Zak and Ralph.",
+    "The squirt stains on my jeans after watching Sophie N through her window.",
+    "The Holocaust.",
+    "That's a huge bitch!.",
+    "Coughing up a hairball after eating her out.",
+    "Mouldy infested pussy.",
+    "You want to play rape? No? That's the spirit!.",
+    "Finding the clitoris.",
+    "Minge.",
+    "Mummy playing violin too loud so you go lick her pussy to distract her.",
+    "Centaur porn.",
+    "Anal stretching with a tennis ball.",
+    "The seat that Tom's sweaty bollocks have dampened.",
+    "Incestuous relations.",
+    "Sophie L having the perfect sized mouth to fit a juicy penis in.",
+    "Sophie N scratching the dyke's eyes out.",
+    "A back scratching session.",
+    "Watching the Teletubbies as a child and not understanding why there was a tingly feeling downstairs whenever you saw Tinky Winky.",
+    "Your Auschwitz prisoner number being 69420.",
+    "Kristallnacht.",
+    "Anal fisting, but instead of using your hand, use Luca's shiny bald head!.",
+    "Tom's big hairy balls taxi service - we cum when you need it.",
+    "Virginity is cool as long as you have daddy's credit card and some sexy disabled children in your shed.",
+    "The fuCKING GREEN CARPET AND THE YELLOW WALLS WHO MADE THAT DESIGN CHOICE.",
+    "Gammon vag.",
+    "Getting a sex doll and naming it Madeleine McCann.",
+    "Every UTI Alice has had from mediocre sex.",
+    "Getting ready to make Ralph's tight little doggy asshole bleed.",
+    "The only people that would be willing to suck your dick would be the desperate refugee children in Syria who would do anything for a drop of water.",
+    "Suck your mum. No, like suck your actual mum. Get her dangly old tit, and suck on it. Like a baby. Fuck you.",
+    "I yearn for your sweet cock, Jamie White.",
+    "BIG TIDDY JEW GF - SHOWER TIME (GONE WRONG) (GONE SEXUAL).",
+    "Reaching true enlightenment after seeing.",
+    "Alex doing press ups at 3 in the morning because weed?.",
+    "The coat hanger abortion Sophie got after Angus' weak pullout game.",
+    "A deck of sex cards for mummy and daddy.",
+    "Grated Stilton smegma.",
+    "Honestly king shit.",
+    "Anorexia.",
+    "Men who can't sexually or intellectually satisfy me.",
+    "Zak's HIV infested boner.",
+    "Mouldy infested pussy.",
+    "Smuggling large quantities of cocaine across the Mexican border.",
+    "Anna's perky titties that are begging to be abused.",
+    "A fat ass that jiggles at a high frequency so Ralph comes running with a stiff red rocket.",
+    "Bukkake.",
+    "Waterfalling but you're in St Benedict's and it's a priest's cum.",
+    "A dirty crack whore.",
+    "Jerking off to Colombian mafia beheading videos while Ralph repeatedly bites you in the ass and a piggie squeals in your ear when you ejaculate.",
+    "Ash bent over, hairy ass out for the world to see and his hole a cavernous never ending abyss (maybe a trickle of poo?).",
+    "Plumptious pussy.",
+    "A beard of Natalie's luscious ginger pubes.",
+    "Tits.",
+    "Loose foreskin.",
+    "Being brought into the Italian Mafia by your dad and forced to become a sex slave.",
+    "Saf's little brown chode.",
+    "A sperm bank of only Jamie White's sperm to create a Jamie White army.",
+    "If I could go back in time, I wouldn't kill Hitler. I would cockblock Zak's mum.",
+    "What a self-centred bitch."
+  ],
+  "pack": {
+    "id": "RUTK4",
+    "name": "The Elite Deck"
+  },
+  "quantity": {
+    "black": 59,
+    "white": 202,
+    "total": 261
+  },
+  "dateStoredMs": 1588547927934
+}

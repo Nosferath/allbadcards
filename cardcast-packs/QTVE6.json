@@ -1,0 +1,105 @@
+{
+  "black": [
+    {
+      "content": "Why you stuck up, half witted, scruffy looking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so glad that _ was not in the new Star Wars movie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ always put Darth Vader in the mood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May the _ be with you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"This is not the _ you are looking for.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ shot first.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That's no moon, that's _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I find your lack of _ disturbing.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do or do not, there is no _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help me, _! You're my only hope!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aren't you a little short for a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join me, and together we can rule the _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A galaxy far, far away.",
+    "C3P0.",
+    "The Dark Side.",
+    "Luke Skywalker.",
+    "The Star Wars prequels.",
+    "Nerf-herder.",
+    "The Death Star.",
+    "Yoda.",
+    "Jabba the Hutt.",
+    "R2D2.",
+    "Jeff Vader.",
+    "Bathing Jabba the Hutt.",
+    "[Darth Vador breathing].",
+    "A bad motivator.",
+    "The Force Awakens.",
+    "Jedi Knight.",
+    "Cloud City.",
+    "X-Wings.",
+    "TIE Fighters.",
+    "Chewbacca.",
+    "A pet AT-AT.",
+    "The Millennium Falcon.",
+    "The Empire Strikes Back.",
+    "A-Wings.",
+    "Faith in the Force.",
+    "The smell of wet wookies.",
+    "Darth Maul.",
+    "DROIDS!.",
+    "A stormtrooper with decent aim."
+  ],
+  "pack": {
+    "id": "QTVE6",
+    "name": "Star Wars - Clean"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 29,
+    "total": 41
+  },
+  "dateStoredMs": 1589060639671
+}

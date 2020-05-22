@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "_ was the reason All Might gave All for One to Izuku?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bakugou.",
+    "Todoroki.",
+    "Kaminari."
+  ],
+  "pack": {
+    "id": "52T69",
+    "name": "BNHA"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1588497040733
+}

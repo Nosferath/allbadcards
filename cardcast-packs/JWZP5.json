@@ -1,0 +1,464 @@
+{
+  "black": [
+    {
+      "content": "Zehn zahme Ziegen ziehen zehn Zentner _ zum Zoo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich jemanden töte, denke ich an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Direkt in die Sonne starren hat mir _ gegeben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeden Vollmond verwandle ich mich in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich muss nie aufs Klo, denn ich habe _ neben mir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In jeden Kuchen gehört/gehören _ als Zutat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aliens greifen die Erde an. Aktiviert den/die/das _!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Jahre 2143 wird die Welt von _ beherrscht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit _ werdet ihr jedes Mädchen kriegen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich Fußball spiele, dann nur mit _ als Ball.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Versucht es mit _, dann klappt das auch mit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Warten auf _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ weiß/wissen, was ich letzten Sommer getan habe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn du dreimal _ rufst, erscheint _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Um als Erster auf den Mond zu fliegen, musste die USA _ produzieren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich einen Mord plane, dann nur mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Fernsehkanal für _, mit heißen News.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf Youtube präsentiere ich immer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lüge mich nicht an! Was versteckst du unter deiner Bettdecke? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Dichter wollte uns mit diesem Reim _ erklären.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich liebe japanische Animes, denn da ist  _ drin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich hasse Kevin wegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh mein Gott, _ entwickelt sich zu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Luke, ich bin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sollte(n) verboten werden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hätte ich _, würde(n) _ nie existieren.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wenn man _ unter die Lupe nimmt, findet man _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Frankensteins neues Monster: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist/sind _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hinter _ versteckt sich oft _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich habe _ entführt und verlange _ als Lösegeld.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mit _ verbreite ich Angst und Schrecken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe einmal so stark gelacht, dass mir _ aus der Nase flog/flogen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manchmal, aber nur manchmal haben Frauen _ gern.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was würde Jesus tun? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diese Operation ist streng geheim und trägt den Codenamen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich wollte eigentlich _ zu Weihnachten, aber _ geht auch.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Euer Ehren, ich rufe _ in den Zeugenstand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es geht das Gerücht um, dass _ mit _ sexuelle Beziehungen pflegt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Das Klopapier ist alle! Nimm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich nicht beobachtet werde, esse ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heureka, ich habe _ erfunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was hilft gegen Schmutz und Bakterien? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du wirst in einer dunklen Gasse attackiert. Was nimmst du zur Verteidigung? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Häuptling _ war schon immer ein weiser Anführer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In meinem ganzen Leben wollte ich schon immer _ probieren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bei Husten immer 100g von _ und 20mg von _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bei einer Zombieapokalypse habe ich immer _ dabei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich alt bin, werde ich täglich _ zu mir nehmen müssen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neu im Kino: _, die Rache.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Gemälde über _ sagt mehr als tausend Worte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Spiel enthält _. Ein absoluter Hit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schritt 1: _. Schritt 2: _. Schritt 3: Profit!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist die einzige Lösung zur Weltherrschaft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Früher war alles besser, sogar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler-Alarm: _ ist in Wahrheit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Die Dinosaurier sind wegen _ ausgestorben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen _ lagge ich immer :(",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Erst durch _ sind Zeitreisen möglich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gestern ist/sind mir _ ins Gesicht gesprungen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Findet _! Es muss hier irgendwo sein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist das Erste was du denkst, wenn du in den Spiegel siehst? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deine Mutter ist so fett, sie ißt _ zum Frühstück.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vielleicht könnte(n) _ die Welt verändern.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ein freundlicher Nachbar/einen freundlichen Nachbarn.",
+    "Die Qual des Lesens.",
+    "Vergammelter Rotkohl.",
+    "Gigantische(r) Todeslaser.",
+    "Bockspringen.",
+    "Fußpilz.",
+    "Braun goldener Ohrenschmalz.",
+    "Ein schwarzes Loch.",
+    "Die Unterwäsche eines Profi-Sumoringers.",
+    "Garantiert ungiftiges Gift.",
+    "Das knackende Geräusch von Kinderknochen.",
+    "Ein großer roter Knopf, auf dem \"Nicht drücken\" steht.",
+    "Tödliche Feuerameisen.",
+    "Elternlose Kinder.",
+    "Freundliche Menschen mit Bazookas.",
+    "Amerikanische Wirtschaft.",
+    "Gerechtigkeit.",
+    "Auftragskiller.",
+    "Massenkarambolage.",
+    "Die 4 Mägen einer Kuh.",
+    "Hektischen Bewegungen.",
+    "Leise furzen.",
+    "Eine Horde Amazonen.",
+    "Riesige gefräßige Arschbacken.",
+    "Zuviel Freundlichkeit.",
+    "Abgetrennte Hände und Füße.",
+    "Stark quälendes Nervengift.",
+    "Afrikanische Sklaven.",
+    "Enten mit Kalaschnikow.",
+    "Zombies.",
+    "Tretminen.",
+    "Mund-zu-Mund Beatmung.",
+    "240 Tonnen Sprengstoff.",
+    "Eine sprechende Kloschüssel.",
+    "Zwerge(n).",
+    "Denkende Tampons.",
+    "Bauchnabelfussel.",
+    "Handverlesene Katzenscheiße.",
+    "Deine Mudda.",
+    "Schläge auf den Po.",
+    "Das Haus eines Obdachlosen.",
+    "Eine Systemüberlastung.",
+    "Virtuelle Realität.",
+    "Kampfjojo(s).",
+    "Das Mittelalter.",
+    "Zu viele Informationen.",
+    "Ein Hybrid aus Hund und Katze.",
+    "Den/der Sinn des Lebens.",
+    "Ziemlich viele Nasenhaare.",
+    "42.",
+    "Chinesische Massenproduktion.",
+    "Kopfläuse.",
+    "Ein Affe/einen Affen.",
+    "Falltüren.",
+    "Eine Formel, um Nierensteine in Gold zu verwandeln.",
+    "Die Erdkrustenverschiebung.",
+    "Schokoladetaschen-Tragetaschen.",
+    "360 Noscopes.",
+    "Internetmemes.",
+    "Lose zum Millionen-Gewinn.",
+    "Frittierter Babywal.",
+    "Ein Atomunfallopfer.",
+    "Der Todesstern.",
+    "Brasilianischer Fußball.",
+    "Dein allerschlimmster Albtraum.",
+    "Das Oktoberfest.",
+    "Aggressiven Hodenkrebs.",
+    "Schlechter Fäkalhumor.",
+    "Zwanzig tollwütige Kampfhasen.",
+    "Weinende Kleinkinder.",
+    "Das geile Gefühl des Rückenkratzens.",
+    "Deutsche Industrie.",
+    "Ein Glas Nasenblut.",
+    "Essen, was in den Hintern geschoben und rückwärts verdaut wurde.",
+    "Rassismus der rassistischen Rassisten.",
+    "Alles zerschmelzende Lava.",
+    "Bananen.",
+    "Ein Schokomuffin.",
+    "Ungemein befriedigender Analverkehr.",
+    "Eine Brechstange.",
+    "Regelmässige Gehirnwäsche.",
+    "Zuviel Schlaf.",
+    "Freitag, der 13.",
+    "Frauenfußball der dritten Liga.",
+    "Freche Damen-BHs.",
+    "Ein Sack wütender Katzen.",
+    "Illuminati.",
+    "Literweise Elefantenurin.",
+    "Pfandflaschen.",
+    "Ein Hengst mit 13 primären Geschlechtsteilen.",
+    "Heiße Suppe.",
+    "Plötzliche Erektionsstörungen.",
+    "Satan.",
+    "Käsetoast.",
+    "Geschlechtsumwandlungen.",
+    "R2D2.",
+    "Ganz liebe Kinder.",
+    "Eingelegte Fingernägel.",
+    "Den schlechtesten Haarschnitt der Menschheitsgeschichte.",
+    "Kerngesunde Eichhörnchen.",
+    "Einen nuklearen Sprengsatz.",
+    "Ein Mensch/Menschen aus dem Jahre 2143.",
+    "Dummen Antworten.",
+    "Katzenbabies.",
+    "Ein schwuler Teenie-Vampir.",
+    "Tütensuppe aus der Dose.",
+    "Voll korrekte Gangsterrapper.",
+    "Ein Tornado mit Kettensägenhaien.",
+    "Ein Mensch ohne Arme und Beine.",
+    "Die Tränen einer 80 jährigen Frau.",
+    "Luft.",
+    "Verstörende Freudentänze.",
+    "Trockenes Brot.",
+    "Offener Hosenstall/offene Hosenställe.",
+    "Plötzliches Nierenversagen.",
+    "Dreck unter den Fingernägeln.",
+    "Russische Kraft.",
+    "Ein T-Rex mit Roboterarmen und Laseraugen.",
+    "Das allwissende Riesenbaby.",
+    "Gefrorenen Achselschweiß.",
+    "Ganz gemeinen Sarkasmus.",
+    "Die 7 Todsünden.",
+    "Geklonte Ratten.",
+    "Wohlduftene Scheiße.",
+    "Erotischen Sex mit toten Tieren.",
+    "Hentai-Pornos.",
+    "Dünnschiss wider Willen.",
+    "Ein Auto, das sich in ein Dildo transformieren kann."
+  ],
+  "pack": {
+    "id": "JWZP5",
+    "name": "Kiltecstudios"
+  },
+  "quantity": {
+    "black": 64,
+    "white": 128,
+    "total": 192
+  },
+  "dateStoredMs": 1589578402755
+}

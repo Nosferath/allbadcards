@@ -1,0 +1,150 @@
+{
+  "black": [
+    {
+      "content": "_ Bless America.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A 16 year old girl suffered first and second degree burns when _ caught fire in her pants.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "U.A is a great time to experiment with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear, Principal Nezu, I'm having trouble with _ and would like your advice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need to protect the future generations from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chaos is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The League of Villains has captured you, _ is your torture.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "United States of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is coming.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The class field trip was completely ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We will do whatever it takes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry Mister Aizawa, I didn't complete the assignment because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are those who say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was sent to save _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Warning: Popping _ can be dangerous. So snort it instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My worst nightmare is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather be quirkless than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Mt. Lady, _ is better at _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the game of _ you win or you _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the most dangerous thing you can let your child enjoy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Might must _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before U.A, I would never have done _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , best job ever!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obviously, _ has the quirk to teleport over long distances.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Being a hero takes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Quirk is called _ that does _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today on Maury, \"I _ with Endeavour.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "WJ5B6",
+    "name": "My Hero"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 0,
+    "total": 27
+  },
+  "dateStoredMs": 1588495118325
+}

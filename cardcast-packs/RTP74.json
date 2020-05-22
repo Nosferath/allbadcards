@@ -1,0 +1,870 @@
+{
+  "black": [
+    {
+      "content": "Kiss Ádám arra tanított, hogy  _ a győzelem kulcsa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dattu róka farmján _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ki vagyok éhezve egy kis _ -ra/re.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ téged választalak!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barátaink a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A következő Patch-ben _ buffolják.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ez nagyon fontos!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kínos pillanat mikor ráébredsz, hogy illegális a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem tudom, hogy a harmadik világháborúban milyen fegyverekkel fognak harcolni, de a negyedikben csak _ fegyverek lesznek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nélkül nem élet az élet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stefa és Dattu találkoznak, aztán _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Disney bemutatja: _ a jégen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a legjobb síkosító.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szerintem a legjobb ajándék _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dattu rókafarmján _ -vel etetik a rókákat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha lehetne egy kívánságom, egy _ -t kérnék a seggembe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A bíró felmentett, mert technikailag a(z) _ nem bűncselekmény.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és a _ ötvözete menti majd meg a világot.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Be akarom kenni Nutellával a(z) _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az X-faktor győztese kiadta első lemezét, melynek címe: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem vagy egyedül. Több millió ember küzd _ -val/vel minden nap.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A szerelem ereje hasztalan a(z) _ ellen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bosszúállók 3: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ általi halál. Az ellenségeimnek nem, de a barátaimnak ajánlom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az életadó eszencia nem más mint_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha _ harcolna _ ellen, azt megnézném.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ legyen veled.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miután _ lepentázott, azt mondta _. Azóta másképp gondolok a játékra.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mai életünk neve _ egy kis _ -vel fűszerezve.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ha egy lakatlan szigeten lennék én _ vinném magammal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amikor milliárdos leszek, harminc méteres szobrot emelek _ emlékére.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magyarország egyetlen reménye a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az amerikai indiánok élete örökre megváltozott, amikor a fehérek megmutatták: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kedvenc jégkrémem a _ ízesítésű.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szex közben mindig _ -re gondolok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha egyetlen dolgot választhatna, mit vinne magával Orbán a lakatlan szigetre? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amikor a csaj azt mondja, hogy te vagy neki az első aztán csinál egy _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Séf mai ajánlata _ -krém leves.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ez itt a _ sarok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Póker közben a legjobb taktika a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kenyérpirítóba tettem a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Angliában voltam, egy _ nevű hotelben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A korszakváltó új párt: Lehet Más a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ vadászás.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bálint szereti a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szigorú szabályaim vannak. Az első randin csók. A második randin szex. A harmadik randin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anyu, Apu értsétek meg végre, én _ -nek akarom szentelni az életem!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! Ötből négy fogorvos ajánlja!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olyan mint a(z) _ csak kurvára utálom. Így belegondolva ugyan az.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Orbán Viktor úgy döntött, hogy mától _ legális.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az Effort sztárvendége nem más mint _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kedvenc szexpózom neve: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Állj át a sötét oldalra. Van nálunk _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szeretném megnyalni _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ne próbáljátok ki otthon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A szomorú érzés, amikor este nem vár az ágyban _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minden erős férfi mögött van egy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha magányos, és kanos vagy, próbáld ki a(z) _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doktor úr segítsen! Az ánuszomba ragadt a(z) _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Életem szerelme elhagyott _ -ért.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ez a fétisem!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én vagyok Isten a _ megteremtője.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az argentíniai sóbányákban _ vezeti a munkálatokat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Táncolni csak a _ -ra/re lehet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elveheted egy ember büszkeségét, becsületét, de soha nem veheted el a(z) _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Maga az ördög.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Egyetlen emlékem a tavalyi Orfűről: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az új erotikus novellámban harminc lemming mászik fel _ ánuszába, miközben _ afgán népdalokat énekel az ágyhoz kötözve.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A célom az, hogy _ legyek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magyarország következő miniszterelnöke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Így akarok meghalni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Otthon, mikor bánatos vagyok, azzal vidítom fel magam, hogy _ -ra/re gondolok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ és _. Tökéletes páros.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mi a lányok legjobb barátja? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ -tól/től azonnal elmúlik a merevedésem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tudtátok, hogy a(z) _ jót tesz az egészségnek?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A felnőttek 10%-a bevallotta, hogy _ függő.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A feladatunk mostantól _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Riot sikerességének a titka: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A büszkeség a lélek _ -ja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Houston, van egy kis _ a gépezetben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volt itt valami _! Lelőttem... A kurva anyját!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "És az Oscar-t nem más kapja mint _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A rómaiak _ használták fogkrémként.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az orvosok azt mondják, hogy _ egészségtelen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Virgács helyett a télapó _ ad a rossz gyerekeknek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rohadjon el az összes _ main.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rádférne egy kis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anyádat te kis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Azért iszom, hogy elfelejtsem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A(z) _ nyelvén még egyszer ne szólalj meg.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Viktor _ -val/vel lazít.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bízz bennem _ vagyok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sose tegyél _ -t a pizzádra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Kalandjaim _ -val/vel\" - Barack Obamától már a könyvesboltokban!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az új Champ-nek a neve nem más, mint: _ a gyengék védelmezője.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikor elutaztam külföldre bementem egy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kedvenc Champem nem más mint: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Célpont: _. A gyilkosság módja: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mi a legrosszabb dolog, amit a rendőröknek mondhatsz a letartóztatásod után? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a lehető legfurább merevedést okozza most nekem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amikor orgazmusom van, teljes erőmből azt üvöltöm, hogy: _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Egyszer szeretném kipróbálni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : gyerekek tesztelték, anyák hagyták jóvá.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pedig megúsztam volna, ha nincs(enek) az(ok) a kotnyeles _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A nők mindig felizgulnak _ -re.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minek öltöztél farsangkor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit mond a róka? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az orvosok szerint a heteroszexualitást csak _ -vel lehet gyógyítani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A péniszemre akartam tetováltatni, hogy \"Őfelsége, II. Erzsébet királynő hős matróza.\", de sajnos csak annyi fért rá, hogy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Néha _ -ra/re gondolok miközben szarok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miből van rengeteg a mennyországban? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Azt mondják a börtön olyan mint a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagypapi újabban _ -ből/ból csinál pálinkát.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Egy _ és egy _ bemennek egy bárba. Szeretkeznek.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A következő mutatványomban előhúzok egy _ -t a(z) _ -ból/ből.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Egy gyertyafényes, romantikus vacsora nem lenne teljes _ nélkül.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sajnálatos, hogy a mai fiatalok olyan dolgokkal foglalják le magukat, mint a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "...a névjegykártyán ez állt: \"Dr.  _ pénisztechnikus és makkspecialista\"...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mostantól csak a(z) _ -ben hiszek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ne aggódjon Biztos Úr, az csak az én _ -m.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ duozik _ -val. Nem bírták sokáig.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mikor sok időm van _ -val/vel szórakoztatom magam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ne felejtsd el leírni az e-mail címed. _ @gmail.com.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "pornhub.com/categories/ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A házi pornóvideóm címe _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Atis Rage.",
+    "Kommunizmus.",
+    "Juharszirup-beöntés.",
+    "Faszba akadt nyelvpiercing.",
+    "Éc.",
+    "Egy kósza nemiszőr.",
+    "Öklözés.",
+    "Szőrös talp.",
+    "SZŐKECIGÁNY ÁÓÁÁÁÁ.",
+    "Ikszdé.",
+    "Análfűrész.",
+    "Faszra szorult hagymakarika.",
+    "Ordítva hányni.",
+    "Fityma.",
+    "Nácizmus.",
+    "Ecchi.",
+    "BECAUSE I'M BATMAN!!.",
+    "Repülő péniszek.",
+    "Szovjetúnio.",
+    "Fekete Isten gyerek.",
+    "Nácik.",
+    "Rasszizmus.",
+    "HOVAA.",
+    "Telibevert lángos.",
+    "Kotonként használt csokipapír.",
+    "Divatból buzinak lenni.",
+    "Vészfasz.",
+    "Öklözőzsír.",
+    "Merevedés.",
+    "Bálint szar vicce.",
+    "Stefa és a pincében tartott loli gyűjteménye.",
+    "Szadizmus.",
+    "Viktor a végbelész.",
+    "Sztálin.",
+    "World of Warcraft.",
+    "Paks.",
+    "Ujjazás.",
+    "Pikkelyes Murloc pénisz.",
+    "Yasuo.",
+    "De csak mert feedel a team.",
+    "Több mint 200 hulla.",
+    "Pirított mellbimbó.",
+    "Gyerekek pórázon.",
+    "Farokdublőr.",
+    "Batman.",
+    "Riot szerverek.",
+    "Meglepetésszex.",
+    "Darabos lófasz.",
+    "Cserkészek.",
+    "FBI OPEN UP!.",
+    "Bálint anyja.",
+    "Négerek.",
+    "Jaina csiklója.",
+    "Láááádanyitás.",
+    "Egy picsányi póni.",
+    "Vayne aki 0/11.",
+    "Armand kicsi kukija.",
+    "Egy metroszexuális Riven main.",
+    "Agyfasz.",
+    "Csillám csikló.",
+    "A seggem.",
+    "Geci.",
+    "Dattu Ahri fétise.",
+    "Jake Paul.",
+    "Anál.",
+    "Szamárondóval teli nejlonzacskó.",
+    "Fasztarisznya.",
+    "OMAE WA MOUE SHINDEIRU! NANI?!.",
+    "Orgazmus egy temetésen.",
+    "Anime.",
+    "The ting goes SKRRRRA.",
+    "Alistar mellbimbóiból csöpögő teje.",
+    "Durva szopás, ami szívrohamot okoz.",
+    "A pápa.",
+    "Úszógumin ülő kis gecidarabok.",
+    "22 darabos anál gyöngysor.",
+    "Buzi vikingek.",
+    "Levesbe főzött takony.",
+    "Buzi.",
+    "Rántott cigány.",
+    "Autómosóban segget mosni.",
+    "Kolbász.",
+    "Lófasz.",
+    "A démonjaim.",
+    "Parizercsöcs.",
+    "Viktor kicsi kukija.",
+    "Kin Dzsong Um.",
+    "Odébb imádkozni a buzit.",
+    "Koton szökevény.",
+    "Easy Geci.",
+    "Stefa, aki fekete öves mélytorokban.",
+    "Gangplank.",
+    "Hard Bass.",
+    "Vodka.",
+    "Armand véres bugyija.",
+    "Bálint análjátékai.",
+    "ZSÉP VOTL ET KECHIFEJ.",
+    "Szuggesztív seggszőr-simogatás.",
+    "Bálint, akinek csak bronzosokra áll fel.",
+    "Bronzos kutya.",
+    "Erőltetett kézimunka egy haldokló embertől.",
+    "Beja asszony.",
+    "Véreshurka.",
+    "Atis 3. heréje.",
+    "Mélytorkos duplakezes-csavarós nyálcsorgós glü-glü kombó.",
+    "Csavaros műzli.",
+    "Vérfertőzés.",
+    "Hello Kitty-s vibrátor.",
+    "Kutyafasz.",
+    "Putyin frissen szopott farka.",
+    "Poénos magömlés.",
+    "Stefa a tejem.",
+    "Tolószékes gyorsulási verseny.",
+    "Adjuk fel.",
+    "Reggeli merevedés.",
+    "Thrall szőrös heréi.",
+    "BabyRage.",
+    "League of Legends.",
+    "Szopós jány.",
+    "MIVAAAAN?!.",
+    "Mónika.",
+    "Személyesen érint.",
+    "Románok.",
+    "Csokifasz.",
+    "Viagra.",
+    "Zsidók.",
+    "Mikropénisz.",
+    "Laktózmentes tehén.",
+    "Anál kanál.",
+    "A spontán heréket növesztő 9 éves kishugod.",
+    "Bagettel mélytorkozás.",
+    "Kiss Ádám.",
+    "A magyar LoL Community.",
+    "Bálint gecinyelő.",
+    "Orbán.",
+    "Megbaszni egy csoport fát.",
+    "Trust Trust.",
+    "Győzike.",
+    "Kézimunka egy sajtburgerért.",
+    "Darth Vader.",
+    "Egy szomorú faszverés.",
+    "Seggszagú lehellet.",
+    "Bálint és Viktor szexuális élete.",
+    "Fika.",
+    "Autista.",
+    "DEMACIAAA.",
+    "Két vödörbe szaró törpe.",
+    "Egy szélmalom tele hullákkal.",
+    "Gombás lábú román kurva.",
+    "Petékkel szaporodó mutáns románok.",
+    "Egy  teáskanálnyi paprikás ondó.",
+    "Garrosh tomboló erekciója.",
+    "Maszturbálás.",
+    "Viktor jobb lába.",
+    "Napalm.",
+    "Ahri a 9 farkú férfi.",
+    "2 hetes bálna fos.",
+    "Bálint bal heréje.",
+    "Orbán Viktor melegpártja.",
+    "Tauri.",
+    "Eminem.",
+    "Túlméretezett nyalóka.",
+    "Közös faszverés a naplementében.",
+    "Szűz.",
+    "Chuck Norris.",
+    "Stephen Hawking erotikus nyögései.",
+    "Fillérbaszó.",
+    "Tatár gecik.",
+    "Puncifing.",
+    "Anális sérülés.",
+    "Süti.",
+    "Remény.",
+    "69-ezni egy 96 évessel.",
+    "Atis fitymaszűkülete.",
+    "Vakítóan világító pina.",
+    "Piros UTP.",
+    "Egy tengeri-csillag ami öt faszt elégít ki egyszerre.",
+    "Plutóniumos nyalóka.",
+    "Teemo segge.",
+    "69.",
+    "Holokauszt.",
+    "Dattu grouppen 3 Gankplankkel.",
+    "Közért.",
+    "Rákban szenvedő Yasuo Mainek.",
+    "Atis, a melegek védőszentje.",
+    "BaszóMester 420 Pro, hatsebességes pulzáló vaginával, elaszticizált mű-ánusszal, csöpögésgátló spermakollektorral, és opcionálisan beépíthető realisztikus sikító orgazmus hangrendszerrel.",
+    "Gumicukor.",
+    "Lepra.",
+    "Másfél kiló gecibe habart mesekártya.",
+    "Csecslézer.",
+    "Szala Qiyana skilljei.",
+    "290 centis bálnafasz.",
+    "Tüsszentés, fingás és elélvezés ugyanabban a pillanatban.",
+    "Faker pénisze.",
+    "Diszkrét prosztatamasszázs a szabad strandon.",
+    "Kecskefasz.",
+    "Bözsi néni.",
+    "A nagymama.",
+    "Őrült szex egy bohóccal az egykerekűn.",
+    "Szomorú meztelen négergyerekek.",
+    "Kurvák.",
+    "Donald Trump mexikóiakból épített fala.",
+    "Stefa segge.",
+    "MI EZ A CHAMP!!!.",
+    "A fehér négerek.",
+    "Fosós szex.",
+    "Hitler.",
+    "Egy fagyott szarból készült lándzsa.",
+    "Annie és Urgot egész estés pornófilm.",
+    "Pedofilok.",
+    "Teréz Anya egy csápos hentaiban.",
+    "50 Terabájt delfines pornó.",
+    "Hentai.",
+    "Auschwitz.",
+    "Thomas a pedofil gőzmozdony.",
+    "Homoszexuális.",
+    "Nemzetközileg betiltott törpés análpornó film.",
+    "Trump fospornó-gyűjteménye.",
+    "Német szadopornó."
+  ],
+  "pack": {
+    "id": "RTP74",
+    "name": "HonorME Hungary"
+  },
+  "quantity": {
+    "black": 127,
+    "white": 219,
+    "total": 346
+  },
+  "dateStoredMs": 1588537962116
+}

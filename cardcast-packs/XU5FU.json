@@ -1,0 +1,815 @@
+{
+  "black": [
+    {
+      "content": "What don't you want to find in your Klingon food? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the nature of the medical emergency? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Data installed a new chip so he can experience _ for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Yoda fantasize about? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Lando sold out Han Solo on Cloud City, all it took was the promise of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was, and always shall be,  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars: _ Strikes Back!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meesa Jar Jar Binks! Meesa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Using the Guardian of Forever, we went back in time to change _ into _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "R2D2's beeping is really just a long story about _ with some jokes about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lieutenant Geordi \"_\" LaForge",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to the universal translator, that alien is talking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To boldy go where _ has never gone before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's explore the Dark Side of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Commander Data painting now? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Cardassians left a lot of rubbish behind on Deep Space 9, but the worst to clean up was _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We defeated the Borg when we set up a subroutine in their systems to analyze _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars: _ Awakens.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The official cause of Jar Jar Binks' untimely death was ruled as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The replicator is broken again. I asked for _ , but it gave me _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Due to a transporter malfunction, I now have _ sticking out of my back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check out my new ship, _ Falcon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Q snapped his fingers, suddenly everyone on the bridge was _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Darth Vader altered the deal by requesting _ be brought to his chamber.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Klingon cranial ridges arose when _ combined with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "For over 1000 years, Jedi Knights were the sole guardians of _ and _ in the galaxy.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I find your lack of _ disturbing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten Forward is now serving a drink called \" _ with a cherry on top.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Counselor Troi told me I was having problems with _ . The solution? _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How does Commander Riker relax? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. And hate leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Star Wars supervillain is a combination of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Admiral! There be _ here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain Janeway was surprised to learn that the Delta quadrant was mostly composed of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieutenant Barclay's new holodeck fantasy involves _ and _ . And nudity.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Shields up! Red alert! Scanners detect _ in our vicinity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Trek: The _ Generation",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someone tried to kill Quark with _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Logic is the beginning of _ , not the end.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I recognized your foul stench when I was brought onboard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "None of the other Sith lords took Darth _ very seriously.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While exploring the planet, Kirk had an encounter with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At Starfleet Academy, Dr. McCoy was known as Lenny \"_\" McCoy",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Darth Vader spend the long hours in hyperspace? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Star Wars super weapon is going to combine the power of _ with the shape of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Your powers are weak old man! When I left you I was _. Now I am _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Star Trek VI: _ Country",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The needs of the many outweigh the needs of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ferengi are what you get when you combine _ with a whole lot of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Space... the _ frontier. These are the voyages of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Han and Leia's relationship really fell apart when Leia found out about Han's secret fetish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TK-421 why aren't you at your post? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ are no match for a good blaster at your side, kid.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ . That's how a Klingon attracts a mate.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Leia introduce to the Rebel forces to help improve morale? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ability to destroy a planet is insignificant next to the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Trek III: The Search for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Second star to the left, and straight on until _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What subject will Data eventually teach at Oxford? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would Spock find highly illogical but also somewhat endearing? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always obey Ferengi rules of acquisition when they involve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Obi-Wan's biggest mistake? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the real reason Luke Skywalker was exiled? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gorn fighting techniques are highly effective against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help me _. You're my only hope!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quark has introduced a new program in the holosuites featuring an interactive experience with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Darth Vader regretted missing Luke and Leia's childhood introduction to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are part of the Rebel alliance and _. Take her away!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At Starfleet Academy, Wesley Crusher almost failed a course on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mos Eisley. You will never find a more wretched hive of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What was making that noise in the warp core? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh great, it's the Founders again. Just give them some _ and maybe they'll go away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anakin! You're breaking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Crusher diagnosed me as the first case of _ syndrome.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a strange case of interstellar linguistics, \"hello\" in Romulan actually means _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Trek: Deep _ Nine",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made me resign from Starfleet? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit Jim! I'm a doctor, not _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to call engineering because _ is stuck in the jeffries tube on deck 8 again",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A long time ago, in _, far away...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How is Q planning to destroy humanity this time? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Wesley Crusher want for his birthday? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Jean-Luc Picard's secret weakness? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Counselor Troi likes better than chocolate is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bought a droid that can finally help me with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I leave Starfleet, I'm going to get my own ship. I'll call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Trek II: The Wrath of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't like _. It's course, and rough, and irritating and it gets everywhere!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars: Revenge of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do tauntaun smell like? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These aren't the _ you're looking for.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars: Return of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, that's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After blowing up Starkiller Base, Poe and Finn celebrated with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After getting out of carbonite, Han found he occasionally had problems with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Luke see in the cave on Dagobah that haunts him long after Darth Vader is dead? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out that shitting out _ is sometimes a side effect of a Vulcan nerve pinch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Dax and Worf were bored with their sex life, what did they add to spice it up a little? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn the Prime Directive! We're going to interfere with _ anyway!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A house party at Lando Calrissian's.",
+    "Using the Force to play with Princess Leia's nipples.",
+    "A Finn, Poe and Rey threesome.",
+    "A planet full of clones.",
+    "Leonard Nimoy.",
+    "Redshirts.",
+    "The Genesis torpedo.",
+    "Slugs that crawl in through your ear and control you.",
+    "Georgi LaForge's awkward attempts at flirting.",
+    "Being assimilated.",
+    "Ewoks who are really just Carebears that gave up their magical powers for meth.",
+    "Probe droids.",
+    "Data's fully functional anatomy.",
+    "Quantum mechanics.",
+    "Harrison Ford.",
+    "Boba Fett, ladies man.",
+    "Numerous alien species that are somehow still all white.",
+    "A luxurious mudbath with Deanna and Lwaxana Troi.",
+    "Captain Picard enthusiastically banging Dr. Crusher.",
+    "George Lucas's directing chops.",
+    "A wretched hive of scum and villainy.",
+    "Flying casually.",
+    "William Shatner.",
+    "A high speed chase through Coruscant's underbelly.",
+    "The Kobayashi Maru.",
+    "Stealing a starship while sabotaging another starship.",
+    "A good day to die.",
+    "Picard's \"Number Two\".",
+    "Ferengi rules of acquisition.",
+    "A black Vulcan.",
+    "A womp rat.",
+    "Moisture farming.",
+    "Riding single file to hide your numbers.",
+    "An entire legion of my best troops.",
+    "A bucket of bolts.",
+    "Darth Maul's severed torso.",
+    "Sling-shotting around the sun.",
+    "An Irishman with an Asian wife.",
+    "General Grievous's cough.",
+    "Wesley Crusher's sweaters.",
+    "The force.",
+    "A ridiculous promotion ceremony.",
+    "Going back in time to make sure the love of your life dies for the good of humanity.",
+    "The mess Odo makes when orgasming.",
+    "Marrying a hologram.",
+    "Being illogical.",
+    "Selling BB-8 for a giant pile of food.",
+    "Demolishing half of Disney World to capitalize on Star Wars's popularity.",
+    "Space Romans.",
+    "An Oscar-winning score by John Williams.",
+    "A horrifying yeti monster that sometimes looks like a 16-year-old girl.",
+    "Captain Hikaru Sulu of the USS Excelsior.",
+    "The Borg.",
+    "Spock's katra.",
+    "Aunt Beru's blue milk.",
+    "Another warp core breach.",
+    "Somehow enslaving a race of seven foot tall aggressive bears.",
+    "Betazoid wedding customs.",
+    "Alien virgin births.",
+    "All of these isolinear chips.",
+    "Trying to convince your girlfriend to paint herself green so that you can pretend to be Kirk.",
+    "Doing the nasty in the cargo bay.",
+    "Rey's enormous pole.",
+    "A piece of the action.",
+    "Sleeping inside a tauntaun.",
+    "Starfleet Academy.",
+    "Breaking a leg on the Holodeck.",
+    "The Picard maneuver.",
+    "Supreme Leader Snoke.",
+    "Lore.",
+    "Doing nothing about the rise of the Empire for 20 years.",
+    "Bringing your family onboard a starship exploring the deepest reaches of outer space.",
+    "Rura Penthe, the alien's graveyard.",
+    "Prune juice, a warrior's drink.",
+    "Darmok and Jilad at Tanagra.",
+    "Gang-banging Deanna Troi with Riker and Worf.",
+    "Natalie Portman, naked, petrified, and covered in grits.",
+    "Alien cantina bands.",
+    "JJ Abrams slipping a Klingon into the background of a Star Wars movie.",
+    "Guinan's hats.",
+    "Space barbers.",
+    "Princess Leia's slave outfit.",
+    "Gaining Q's powers and using them to pull pranks on your friends.",
+    "The god-awful mess that was \"Enterprise\".",
+    "The fashion House of Duras.",
+    "A sassy female engineer.",
+    "Harrison Ford's broken ankles.",
+    "Klingon exchange programs.",
+    "Using a phaser to fry eggs.",
+    "A space alien Captain Kirk hasn't slept with.",
+    "The sound Chewbacca makes when orgasming.",
+    "Risa, intergalactic pleasure planet.",
+    "A thermal exhaust port.",
+    "Shaka, when the walls fell.",
+    "The Starfleet unikilt.",
+    "Overthrowing the Empire.",
+    "Logic.",
+    "A time space paradox.",
+    "Blowing up the Death Star or Death Star-like Imperial base.",
+    "Compressing a five-year mission into three seasons.",
+    "Encountering the native life forms.",
+    "Gang warfare between Star Wars and Star Trek fans.",
+    "Beaming up.",
+    "Twin-cest.",
+    "Kylo Ren's emo poetry journal.",
+    "The token Asian crewmember.",
+    "Blowing two dudes in an airlock for a hit of Ketracel White.",
+    "A super duper Star Destroyer.",
+    "Patrick Stewart.",
+    "Blowing up a planet of 3 billion people just to impress Darth Vader.",
+    "Killing Kirk's son.",
+    "A tiny rancor.",
+    "Mr. Spock riding a unicorn.",
+    "Klingons.",
+    "Blowing up the Enterprise to kill a couple Klingons.",
+    "Plain, simple, Garak, the tailor.",
+    "The token black Jedi.",
+    "Telling Carrie Fisher she has to lose 30 pounds.",
+    "A lionfish in an exterior wall of a space ship.",
+    "Worshipping C3PO as a god.",
+    "Ricardo Montalban's expertly waxed chest.",
+    "Jar Jar Binks, Senator from Naboo.",
+    "Lieutenant Worf's luscious locks.",
+    "Pain sticks.",
+    "Pon-Farr, the art of Vulcan finger orgasms.",
+    "Greedo shooting first.",
+    "Klingon calisthenics.",
+    "The droids you're looking for.",
+    "Leia erotically force-choking Han Solo.",
+    "A hypospray full of LSD.",
+    "Majel Barrett-Roddenberry's sultry computer voice.",
+    "Prince Xizor's pheromones.",
+    "Mon Mothma.",
+    "An aluminum falcon.",
+    "A hot alien dating an ugly, annoying alien.",
+    "Becoming a Syntheholic.",
+    "Entering a six-year-old in the most dangerous land race in the galaxy.",
+    "Six Stormtroopers in a Hot Topic, looking for Kylo Ren.",
+    "A box full of parts for Data's \"fully functional\" anatomy.",
+    "A Princess Leia RealDoll.",
+    "Too many Romulans.",
+    "Y-Wings.",
+    "An interracial kiss on network television.",
+    "Commander Riker's trombone.",
+    "Spending 13 hours stuck in a shuttle with Wesley Crusher.",
+    "Twilek slave dancers.",
+    "A Vulcan nerve pinch.",
+    "Star Wars brand condoms.",
+    "Going back in time to get extinct whales to save Earth from planetary destruction, somehow.",
+    "Death sticks.",
+    "A doomsday machine.",
+    "A pile of severed Skywalker hands.",
+    "Lando Calrissian's big, black nuts.",
+    "Futilely resisting.",
+    "A flute from a long-dead world.",
+    "Being rejected by the Borg for assimilation because you would bring no value to the Collective.",
+    "Booby traps.",
+    "Counselor Troi licking chocolate sauce off your nipples.",
+    "A crystalline entity.",
+    "Accidentally shooting yourself with a phaser.",
+    "A pregnant tribble.",
+    "A secret Cardassian lover.",
+    "The Star Wars holiday special.",
+    "Cataloging gaseous anomalies.",
+    "Space mobsters.",
+    "Wookies with cookies.",
+    "A holographic doctor that wants more from life than being a hologram.",
+    "Confusing Ceti Alpha V with Ceti Alpha VI.",
+    "Romulan ale.",
+    "A deal that gets worse all the time.",
+    "Kylo Ren's recently deceased father.",
+    "Worf and Chewbacca comparing hair care products.",
+    "KHAAAAAAAAAAAAAAAAAAAANNNNN!!!!!.",
+    "A world where the women are in charge, and also super horny.",
+    "\"Bones\" McCoy.",
+    "Being a little short for a Stormtrooper.",
+    "The charred remains of your aunt and uncle.",
+    "The shambling corpse of Han Solo.",
+    "Slaughtering the younglings.",
+    "Warp 9.",
+    "Letting the wookie win.",
+    "Lieutenant Jadzia Dax's symbiont.",
+    "Counselor Troi's jumpsuits.",
+    "Android poetry.",
+    "A world where gender doesn't exist.",
+    "A utopian society that can't seem to mind its own business.",
+    "An Orion slave girl.",
+    "An android phone.",
+    "Erotic Star Trek fan fiction where all the characters are furries, like Kirk is an ocelot or something.",
+    "A Vulcan who thinks he's God.",
+    "A great disturbance in the Force.",
+    "Crazy Captain Christopher Pike.",
+    "Seeing an attack on the Galactic Republic from any random planet in the universe.",
+    "A self-destruct sequence.",
+    "Zombie Gungans.",
+    "A rescue mission.",
+    "Rescuing the princess, only to have to get rescued by the Princess.",
+    "Pretending to be a time traveler from the future, when you're really a time traveler from the past.",
+    "Kim Cardassian.",
+    "Going to Toshe Station to pick up some power converters.",
+    "Giving her all she's got.",
+    "Space muffins.",
+    "Abandoning thirty years worth of extended universe.",
+    "Nuclear wessels.",
+    "Using a photon torpedo tube as a casket.",
+    "Selling out to Disney for billions of dollars.",
+    "Strategic rips in Natalie Portman's costume.",
+    "Choosing to stay in the Nexus.",
+    "Leaving Anakin Skywalker's charred body for dead.",
+    "A scruffy-looking nerf herder.",
+    "To boldly go where no one has gone before.",
+    "The USS Enterprise vs. the entire Imperial fleet.",
+    "Obi-Wan's lies.",
+    "An a capella group made up of wookies and droids.",
+    "That time Counselor Troi was in command of the ship.",
+    "Photon torpedoes.",
+    "Strip sabacc at the Mos Eisley cantina.",
+    "JJ Abrams putting lens flares all over everything.",
+    "Captain James T. Kirk.",
+    "Captain Jean-Luc Picard.",
+    "A droid built by a six-year-old kid.",
+    "A black stormtrooper.",
+    "A mirror universe where everyone is evil and has awesome facial hair.",
+    "Dilithium crystals.",
+    "A fire planet.",
+    "Blaming a car crash on a wampa attack.",
+    "Qui-Gon Jinn.",
+    "A stable wormhole.",
+    "Stormtrooper weapon accuracy.",
+    "Using the transporter to travel 70 years into the future, when all your friends are dead.",
+    "Losing the will to live.",
+    "Having no feelings about the end of every life on Earth.",
+    "Using the Force to change the TV channel.",
+    "Klingon food.",
+    "Klingon honor.",
+    "Being too human for Klingons and too Klingon for humans.",
+    "A temporal loop.",
+    "Mace Windu's purple lightsaber.",
+    "Experiencing Shakespeare in the original Klingon.",
+    "Rebel scum, the kind you can't scrub out of the shower.",
+    "Programming the replicator to spit out guacamole.",
+    "Being as gay as George Takei.",
+    "A forbidden affair with a Galactic Senator.",
+    "The Star Wars special editions.",
+    "Unrequited inter-species love.",
+    "The smell of burning Vader.",
+    "Opening hailing frequencies.",
+    "Lieutenant Montgomery Scott, Chief Engineer.",
+    "Locutus of Borg.",
+    "Crashing the Enterprise into a planet.",
+    "The size of JJ Abrams's bank account.",
+    "Grand Moff Tarkin, right before the Death Star blew up.",
+    "Data and C3PO discussing human society.",
+    "Species 8472.",
+    "Salacious B. Crumb.",
+    "Alternate-universe Tasha Yar.",
+    "Synthehol.",
+    "De-evolution.",
+    "Earl Grey tea. Hot.",
+    "Ferocious, spear-wielding, cannibalistic teddy bears.",
+    "Bar fights with Naussicans.",
+    "A wookie mating call.",
+    "Lieutenant Worf's naturally ribbed Klingon schlong.",
+    "A dildo shaped like a lightsaber.",
+    "Worf's sexy thong.",
+    "Lightsaber dildo jousting.",
+    "A shit-ton of celebrity cameos.",
+    "A holodeck porn program.",
+    "Exploring human sexuality.",
+    "A dildo shaped like the USS Enterprise 1701-D.",
+    "Gungan sex tapes.",
+    "Emperor Palpatine stripped, shackled and begging for cock.",
+    "James Earl Jones narrating your sex life.",
+    "Fucking up the away team.",
+    "A virus that makes everyone sexually promiscuous.",
+    "A tractor beam locking on to your penis.",
+    "Dr. Katherine Pulaski's dry vagina.",
+    "A droid orgy.",
+    "Using internal sensors to spy on people having sex.",
+    "A changeling that enjoys turning into a giant vagina.",
+    "Eyesexing your entire bridge crew.",
+    "Turning into a lizard, then having lizard sex with your commanding officer.",
+    "A Hutt sex swing.",
+    "The sexual tension between Luke and Leia.",
+    "Disobeying the Prime Directive.",
+    "Sexy Borg.",
+    "A green-blooded son of a bitch.",
+    "Space Nazis.",
+    "The holodeck after Riker is done with it.",
+    "A sexy Boba Fett halloween costume.",
+    "Fucking 7 of 9.",
+    "Ferengi ear sex.",
+    "That little shit Wesley Crusher.",
+    "Bailing out Bail Organa after one too many Reactor Cores.",
+    "Slapping a Star Wars branded label on every fucking thing in the known universe.",
+    "Scaring the shit out of some 1980s whalers.",
+    "Having sex with the native life forms.",
+    "Klingon dungeon porn.",
+    "Sexy unitards."
+  ],
+  "pack": {
+    "id": "XU5FU",
+    "name": "CAH: Star Trek vs. Star Wars"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 299,
+    "total": 399
+  },
+  "dateStoredMs": 1588616201675
+}

@@ -1,0 +1,183 @@
+{
+  "black": [
+    {
+      "content": "Star Wars Episode VIII: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, it's  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never tell me the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the path to The Dark Side.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When 900 years, you reach... Look as  _ you will not.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Use the _, Luke!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No. I am your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is strong with you. A powerful Sith you will become.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having a _ does not make you a Jedi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is _ in him. I've felt it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is strong with this one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your _ is your weakness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sir, the possibility of successfully _ is 3,720 to 1.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! It's a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of Padawan, Jedi's in training are now called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why, you stuck-up, _, scruffy looking nerf-herder!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sense great _ in you, Skywalker. You have _.. you have _.. but you don't use them.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Instead of lightsabers, Jedi's now use _ as a weapon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May the _ be with you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke, we're gonna have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? I've got a very bad feeling about this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The force is strong with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I left you, I was but the learner, now I am the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love you. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join me, and together we can _ the galaxy as father and son!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Anakin Skywalker.",
+    "Hate.",
+    "Clones.",
+    "A stormtrooper that can actually shoot.",
+    "Dicksabers.",
+    "Cutting arms off with ligtsabers.",
+    "Fear.",
+    "Obi 1 Canoli.",
+    "Luke Skywalker.",
+    "The Force.",
+    "Han Solo.",
+    "Leia's slave outfit.",
+    "Stormtroopers.",
+    "Murder.",
+    "Sith.",
+    "Father.",
+    "Princess Leia.",
+    "Dark Side.",
+    "Light Side.",
+    "An endless amount of promotions because your superior always get's killed.",
+    "Anger.",
+    "Stormtroopers not being able to hit anything with their guns.",
+    "Wookies.",
+    "Jedi mind tricks.",
+    "Boring conversations.",
+    "A droid.",
+    "Odds.",
+    "Duoble sided ligthsabers.",
+    "The Empire.",
+    "A pet AT-AT.",
+    "X-wing(s).",
+    "R2D2.",
+    "Dick.",
+    "Space-fucking-fantastic.",
+    "A penis shaped lightsaber.",
+    "Fuck.",
+    "Vagina.",
+    "A single family fucking up the entire galaxy.",
+    "Shoving a lightsaber up your ass because you can.",
+    "Skywalker incest.",
+    "Using The Force to masturbate.",
+    "Having sex with a bunch of clones because they're all equally hot."
+  ],
+  "pack": {
+    "id": "5NFXP",
+    "name": "The Force Against The Empire"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 42,
+    "total": 67
+  },
+  "dateStoredMs": 1588616200520
+}

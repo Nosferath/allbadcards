@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "Marcos decided to incorporate _ into his daily workout! Don't ask me how.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Adam leaving everyone for graduation without saying a word in a similar fashion to my dad all these years ago.",
+    "Seductively sucking on a Jaffa Cake."
+  ],
+  "pack": {
+    "id": "YXRN2",
+    "name": "V2"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588336045125
+}

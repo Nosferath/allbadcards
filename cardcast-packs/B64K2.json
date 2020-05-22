@@ -1,0 +1,1162 @@
+{
+  "black": [
+    {
+      "content": "Dumb - (stupid, dull, mute)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hazy - (misty, unclear, obscure)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Little - (small, unimportant, miniature)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sour - (acidic, bitter, resentful)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pitiful - (pathetic, disgraceful, inadequate)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Difficult - (complicated, demanding, obstinate)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Needy - (poor, desperate, dependant)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Essential - (necessary, fundamental, crucial)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Valuable - (precious, important, expansive)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Superior - (top-quality, advanced, pompous)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silent - (soundless, hushed, still)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Artistic - (creative, talented, imaginative)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Astonishing - (surprising, amazing, shocking)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Costly - (expensive, valuable, pricey)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Regal - (royal, majestic, dignified)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flammable - (combustible, fiery, burnable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Embarrassing - (awkward, upsetting, disconcerting)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trivial - (unimportant, random, erratic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crunchy - (crispy, crusty, crackly)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feisty - (lively, spirited, aggressive)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Revealing - (exposing, enlightening, informative)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perky - (lively, playful, vivacious)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Romantic - (loving, passionate, idealistic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durable - (tough, resilient, heavy-duty)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alluring - (attracting, charming, seductive)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joyful - (happy, pleasant, elated)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drab - (dull, dreary, lackluster)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lame - (ineffective, weak, crippled)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disappointing - (frustrating, inadequate, unacceptable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Revolting - (disgusting, repulsive, sickening)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naughty - (mischievous, wayward, bad)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frail - (fragile, delicate, weak)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Politically Correct - (inoffensive, conciliatory, ingratiating)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First-class - (superior, unequaled, first rate)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intriguing - (fascinating, captivating, mysterious)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disgraceful - (shameful, scandalous, appalling)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Significant - (important, noteworthy, substantial)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polluted - (contaminated, impure, tainted)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ripe - (ready, mature, full-grown)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Childish - (immature, self-indulgent, silly)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick - (rapid, speedy, abrupt)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bulky - (cumbersome, massive, awkward)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ferocious - (savage, cruel, vicious)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Logical - (rational, reasonable, plausible)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Authentic - (genuine, realistic, reliable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slippery - (slimy, sneaky, greasy)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intricate - (elaborate, complicated, complex)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scented - (fragrant, aromatic, perfumed)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heartbreaking - (distressing, tragic, pitiful)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magnificent - (marvelous, glorious, grand)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captivating - (charming, enchanting, bewitching)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopey - (stupid, dazed, silly)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cheerful - (happy, joyful, merry)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well-preserved - (youthful, fresh-looking, unchanged)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disturbed - (troubled, unstable, upset)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Distracting - (off-putting, disturbing, confusing)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fishy - (suspicious, dubious, seafood)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daring - (bold, courageous, defiant)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dense - (thick, solid, unintelligent)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intoxicating - (stimulating, exhilarating, alcoholic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reliable - (dependable, trustworthy, consistent)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Corny - (silly, clichéd, sentimental)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Complex - (multifaceted, difficult, complicated)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Impressive - (remarkable, extraordinary, striking)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gigantic - (enormous, colossal, gargantuan)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space-aged - (modern, futuristic, newfangled)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dreadful - (terrible, frightful, shocking)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inferior - (lesser, second-rate, mediocre)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Darling - (adorable, dear, lovely)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dazzling - (impressive, stunning, glittery)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fireproof - (incombustable, flame-resistant, fire-retardant)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perishable - (unpreserved, fresh, fragile)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quirky - (unusual, peculiar, odd)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tormented - (attacked, tortured, distressed)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Informal - (casual, relaxed, unceremonious)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stately - (dignified, elegant, noble)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lively - (energetic, animated, vigorous)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gross - (foul, grotesque, disgusting)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old-fashioned - (outdated, traditional, behind the times)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strange - (bizarre, weird, odd)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shabby - (ragged, nasty, tattered)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Exceptional - (outstanding, extraordinary, special)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deteriorated - (worn, battered, dilapidated)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Careless - (imprudent, slipshod, sloppy)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Exotic - (unusual, strange, foreign)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clear - (understandable, uncluttered, transparent)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Festive - (celebratory, joyful, merry)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Incredible - (unbelievable, far-fetched, amazing)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solid - (firm, dense, reliable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disgusting - (revolting, repulsive, nauseating)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Liberated - (open-minded, free, enlightened)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sporty - (athletic, active, rakish)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sticky - (gummy, clammy, gluey)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non-threatening - (safe, powerless, weak)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inexperienced - (innocent, naïve, untested)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Confusing - (perplexing, bewildering, puzzling)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trite - (commonplace, unoriginal, clichéd)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Engaging - (appealing, engrossing, attractive)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worthless - (insignificant, useless, trashy)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Practical - (sensible, useful, functional)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sturdy - (durable, well-built, strong)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grumpy - (irritable, cranky, crabby)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitter - (sour, harsh, resentful)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ghetto - (in the ghetto, like the ghetto, from the ghetto)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warm - (tepid, mild, affectionate)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enlightened - (insightful, progressive, knowledgeable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Devoted - (loyal, faithful, committed)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Active - (lively, vigorous, functioning)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Affectionate - (loving, passionate, tender)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nerve-racking - (irritating, distressing, annoying)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magnetic - (attractive, compelling, alluring)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proper - (appropriate, polite, correct)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uplifting - (elevating, inspiring, soul-stirring)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Familiar - (well-known, comfortable, intimate)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beloved - (much-loved, cherished, adored)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sensible - (levelheaded, prudent, reasonable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frisky - (playful, lively, peppy)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Precious - (valuable, prized, loved)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Passionate - (zealous, obsessive, loving)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Necessary - (essential, indispensable, basic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Common - (ordinary, regular, familiar)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plentiful - (abundant, bountiful, ample)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frustrating - (exasperating, wearisome, annoying)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Extravagant - (lavish, excessive, bling-bling)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stylish - (fashionable, trendy, mod)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Orderly - (methodical, formal, systematic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thick - (wide, dense, bulky)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Defective - (faulty, flawed, malfunctioning)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cautious - (careful, guarded, watchful)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flexible - (bendable, accommodating, adaptable)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bewildering - (confusing, baffling, perplexing)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elegant - (stylish, graceful, chic)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greasy - (oily, slimy, slippery)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Precise - (exact, accurate, clear-cut)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Immoral - (morally wrong, wicked, decadent)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reserved - (detached, aloof, modest)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deep - (profound, multi-layered, cavernous)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intellectual - (thoughtful, rational, scholarly)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reckless - (irresponsible, careless, wild)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puzzling - (perplexing, mystifying, confusing)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neurotic - (anxious, phobic, disturbed)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Edible - (not poisonous, ripe, tasty)- _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disagreeable - (offensive, rude, unfriendly)- _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Retirement - Youth may be wasted on the young but retirement is wasted on the old.",
+    "Dallas, Texas - The largest city in Texas. The big D.",
+    "John Doe - Who?.",
+    "Hurricane Katrina - Katrina made landfall in August of 2005, and caused major damage to the coastal regions of Louisiana, Mississippi and Alabama.",
+    "Wizards - \"Meddle not in the affairs of wizards, for they are subtle and quick to anger.\" - J.J.R. Tolkien.",
+    "The Daily Show - The award-winning comedy-news program featuring Jon Stewart as anchor. And now for your moment of Zen.",
+    "Steven Seagal - 1951-, American action film star of Under Siege, Executive Decision and many more. He holds the rank of 7th dan in aikido.",
+    "Energizer Bunny - The pink, drum beating \"Spokes Hare\" for Energizer batteries. It keeps annoying... and annoying...and annoying.",
+    "Drive-In Movies - The entertainment's not just on the screen.",
+    "Nurses - \"After two days in the hospital I took a turn for the nurse.\" - W. C. Fields.",
+    "Learning Latin - I came, I saw, I flunked.",
+    "Target Stores - Stores in 47 states... Target the one near you.",
+    "Meteorologists - They're so predictable.",
+    "Boston Strangler - Between 1962 and 1964, Albert DiSalvo assaulted and murdered eleven single women in their Boston apartment.",
+    "U.S. Air Force - U.S. air and space power. The most technologically sophisticated of the military branches. Cross Into The Blue.",
+    "Losing Your Luggage - If only your luggage got frequent flyer miles.",
+    "An Autopsy - On the plus side, it's the last physical you'll ever have to take.",
+    "Tourists - Increase traffic flow ... and cash flow.",
+    "Road Maps - You have to know when to hold 'em and when to fold 'em.",
+    "Getting A Raise - Asking for one gets a raise ... out of your boss.",
+    "A Blind Date - I can't see much future in it.",
+    "Scientific Knowledge - Prove it!.",
+    "Krispy Kreme - Making doughnuts since 1937. If the light's on you'll get hot doughnuts. HOT NOW!.",
+    "Chaps - Used to be just for cowboys.",
+    "Roadside Cafés - You want pie? We got pie.",
+    "Graham Crackers - Developed in 1829, by Sylvester Graham, for the health benefits. He also promoted hard mattresses and cold showers.",
+    "Lemmings - Native to Scandinavia, lemmings have round furry bodies, short legs, and small eyes...and a loyal following!.",
+    "Intelligent Design - The name given to the concept that the universe, and all living things, are a result of an intelligent creator.",
+    "Wisconsin - Somewhere between Illinois and Canada. Fishing, cheese, and beer. On Wisconsin!.",
+    "Larry King - 1933-, television talk show host. He began broadcasting in 1957 and 40,000 interviews later, he's considered \"Master of the Mike.\".",
+    "Parachutes - Golden or otherwise.",
+    "Rogaine - A non-prescription formula developer to help regrow hair. Hair today, hair tomorrow.",
+    "Pockets - Pick one!.",
+    "Sponges - They'll soak it up.",
+    "Mammoth Cave - The longest recorded cave system in the world, over 360 mapped miles. Stay with your group.",
+    "Tater Tots - \"Are you gonna eat your tots?\" - Napoleon Dynamite.",
+    "Foreign Films - How do they expect you to watch the film when you gotta read the subtitles?.",
+    "Acupuncture - This traditional Chinese practice will have you on pins and needles.",
+    "Sororities - Organizations of female college students. Sisters to the end...or at least until graduation.",
+    "Corsets - From whalebones to latex...still in fashion.",
+    "Iron Chef - Japanese television program. World-class chefs compete to create 3-course meals. Galloping Gourmet meets World Wrestling Federation.",
+    "Anarchy - Who's in charge here?.",
+    "Lowriders - The modified suspension decreases ground clearance on these customized vehicles. East L.A. to New York to Japan...they're hoppin'.",
+    "Going Bald - \"Bald Is Beautiful!\" -BHMA (Bald-Headed Men of America).",
+    "Geronimo - 1829-1909, Apache leader known for his wisdom and courage. He died as a prisoner of war at Fort Sill in Oklahoma.",
+    "Grilled Cheese - Cooking School 101.",
+    "Lethal Weapons - Too many kinds to list.",
+    "Cinnamon Toast - Sugar and spice and everything nice.",
+    "Wal-Mart - The very first Wal-Mart opened in 1962. They're now the world's largest retailer. They're on a roll...back!.",
+    "Prickly Pears - Type of cactus with flat, oval pads and large spikes.",
+    "Nebraska - Famous Nebraskans: Willa Cather, Crazy Horse, Fred Astaire, and Marlon Brando.",
+    "Alcoholism - The compulsive consumption and dependence on alcoholic beverages.",
+    "Baghdad - The capital of Iraq. This city was founded in 764 A.D. and called Madinat as-Salam which means \"City of Peace.\".",
+    "Husbands - \"When a husband brings his wife flowers for no reason, there's a reason.\" -Molly McGee.",
+    "Hula-Hoops - The fad that keeps going round and around.",
+    "Nachos - \"Nacho, nacho man. I want to be a nacho man,: - Homer Simpson.",
+    "A One-Horse Town - Half the size of a two-horse town.",
+    "The Marines - The United States Marine Corps. The Few. The Proud. Semper Fi.",
+    "Patriot Act - Public Law No. 107-56, introduced in 2001. \"To deter and punish terrorist acts in the U.S. and around the world...\".",
+    "Girls Night Out - Don't worry, Honey, it's just shopping and dinner.",
+    "Boys Night Out - Nothing, Honey, just played some card.",
+    "Crisis Centers - Please leave a message at the sound of the beep.",
+    "Jennifer Anistor - 1969-, American film and television actress, best known for the highly successful comedy series, Friends.",
+    "Kevin Bacon - 1958-, American actor of Mystic River, A Few Good Men, The River Wild and JFK. Footloose from the start.",
+    "Knights In Shining Armor - \"You're my knight in shining armor. Don't you forget it.\" - Ethel Thayer On Golden Pond.",
+    "Garage Sales - Tag sales, yard sales, rummage sales - take your pick, just get there early!.",
+    "Flannel Sheets - Some nights call for satin sheets, and some for flannel.",
+    "Budapest - Capital of Hungary. This city of almost 2 million is divided into two parts - the hilly Buda and the flat Pest.",
+    "Pie Charts - For people with an appetite for numbers.",
+    "EBay - \"The World's Online Marketplace.\" The bazaar for the bizarre.",
+    "Wall Drug - Mega-tourist stop on Interstate 90, located in Wall, South Dakota. Free Ice Water! Only 978 miles to go.",
+    "Frogmen - What do you get if you kiss a frogman?.",
+    "Tsunami - The Japanese word meaning \"harbor wave.\" The wave heightens when the speed diminishes as the wave travels into shallower water.",
+    "School Prayer - Please, God, let me pass this test.",
+    "Doomsday - I reckon it will come.",
+    "Cucumbers - A little brine and they're in a pickle.",
+    "Miami Beach - So hot and yet so cool.",
+    "Gladiators - Although most of the Roman gladiators were slaves, they were well-fed and given expert medical care.",
+    "Julia Child - 1912-2004, American chef, author and television personality. She popularized French cooking in the United States. Bon Appetit!.",
+    "Model Prisoner - He made the BEST license plates.",
+    "Long Division - That's why calculators were invented.",
+    "Magnetic Fields - Strangely attractive!.",
+    "Three Bears - Is this Chicago? Then it'd be \"Da Three Bears.\".",
+    "Live Bait - GONE FISHIN'.",
+    "Jet Lag - Some travel experts estimate that it takes a day of recovery for each time zone passed.",
+    "American Beauty - It's a classic-the rose, the movie, the woman, or the automobile.",
+    "The Secret Service - They're so cool, they wear sunglasses at night.",
+    "Witness Protection Program - Get a life...a new life.",
+    "Lavender - Hearty shrub with spikes of small purple flowers which smell just like...lavender.",
+    "Cross Dressing - A personal statement... or a fashion statement.",
+    "Calculus - How do I calculate my level of confusion in calculus class?.",
+    "Focus Groups - We need to run this card past a few dozen people first.",
+    "James Woods - 1947-, American actor nominated for Academy Awards for Ghosts of Mississippi and Salvador. He dropped out of M.I.T. to pursue acting.",
+    "Cream Puffs - A real lightweight... unless you're counting calories.",
+    "Don King - 1932-, American boxing promoter. He has donated millions to worthy causes, but is better known for his knock-out hair.",
+    "Barbra Streisand - 1942- , American singer, actor, director, and producer. The first ever to win a Grammy, Emmy, Oscar and a Tony.A star WAS born!.",
+    "Diet Pills - Results may vary.",
+    "International Spies - Cool gadgets.",
+    "Single Women - Girls just want to have fun!.",
+    "A Pool Boy - Keeping it clean!.",
+    "The Economy - \"It's the economy, stupid.\" - James Carville Political Strategist for Bill Clinton.",
+    "Hummers - Combat carrier turned kid carrier.",
+    "Fire Hydrants - The fire hydrant was invented by Birdsill Holly in 1869. Holly held over 150 U.S. patents, second only to Edison.",
+    "Snoop Dogg - 1971-, American popular gangsta-rapper known for his distinctive style, as well as his albums, soundtracks, and TV and film appearances.",
+    "Garlic - The flavor that lasts, and last, and lasts.",
+    "Foam Rubber - Foam rubber is a biodegradable matter produced from rubber trees. That'd be a cushy job.",
+    "Steroids - Dude...didn't you used to have a NECK?.",
+    "Hugh Grant - 1960-, British actor of numerous romantic comedies including Four Weddings and a Funeral, Notting Hill, and About a Boy.",
+    "Sex And The City - The critically acclaimed HBO television series based on the lives of four single women in New York City...and sex.",
+    "Paranoid - I don't trust them!.",
+    "Train Depots - A hundred years later and it's an upscale restaurant and gift shop.",
+    "Flounders - Bottom-feeding flatfish. Things gotta be looking up.",
+    "Sand Dunes - The are five basic dune shapes: linear, dome, crescent, star and parabola.",
+    "Thomas Jefferson - 1743-1826, author of the Declaration of American Independence and third president of the United States. He died on the 4th of July.",
+    "Limosines - Stretch out and enjoy the ride.",
+    "The Axis Of Evil - The term used by President Bush to describe regimes that sponsor terror.",
+    "Carrots - The root of all carrot cakes.",
+    "Shoplifting - The gateway to a life of crime.",
+    "Hamburgers - The all-American sandwich named after a city in Germany.",
+    "Island Retreat - Look, Honey, The Island of Dr. Moreau, doesn't that sound nice?.",
+    "Silicon Valley - Great place to live... they're all virus protected.",
+    "Political Debates - They ARE political- the rest is debatable.",
+    "Dirty Dancing - Now legal in most states.",
+    "White Castles - Square hamburgers... 24 hours a day. I'll take four \"slyders\" with onions!.",
+    "Mayonnaise - In 1905, Richard Hellman, a German immigrant, opened a delicatessen selling salads made with his wife's mayonnaise.",
+    "My Blue Jeans - When I wake up in the mornin' light, I pull on my jeans and I feel all right.\" - Keith Urban.",
+    "Law School - \"You got into Harvard Law?\" \"What? Like, it's hard?\" - Elle Woods Legally Blonde.",
+    "The Milk Man - Door-to-door dairy.",
+    "Pneumonia - Serious inflammation of the lung caused by bacteria or a virus.",
+    "Sermons - I think he was talking to you.",
+    "Cockpit Recordings - If those black boxes are so indestructible, why not make the whole plane out of them?.",
+    "DNA Testing - I had my DNA tested. It failed.",
+    "Chicken Feed - You can't get it for chicken feed.",
+    "Engineers - They have designs on your future.",
+    "Chick Flicks - Steel Magnolias, Beaches, Waiting To Exhale... Ratings: **** ...and fifteen tissues.",
+    "Oklahoma City Bombing - On April 19, 1995 a massive explosion was set off, destroying a federal building, killing 168 people, and injuring 850 others.",
+    "Susan Sarandon - 1946-, American actor and social activist. Won an Academy Award for Dead Man Walking and much critical acclaim for Thelma and Louise.",
+    "Saber-Tooth Tigers - Now extinct, the saber-tooth tiger used large canine teeth to rip into the throat or belly of it's prey. It's the California State Fossil.",
+    "Cabin In The Woods - Relaxing...unless that guy in the hockey mask shows up.",
+    "Married Men - Statistics show that married men live longer, healthier, happier, and wealthier lives. Of course, there are exceptions.",
+    "Private Schools - An expensive lesson.",
+    "September 11 - The date in 2001 when terrorists attacked the U.S. by flying hijacked jetliners into the World Trade Center and the Pentagon.",
+    "The Moral Majority - A U.S. political action group founded in 1979 by Jerry Falwell to promote a conservative, fundamentalist Christian agenda.",
+    "V8 - Super charged: the tomato juice or the engine. Wow, I could have had a V8!.",
+    "Conservatives - To the right of the political spectrum.",
+    "Weapons - Of mass destruction, or just minor destruction.",
+    "Illegal Aliens - International or interplanetary.",
+    "Empire State Building - The static electricity buildup on the top of the building is so great that kissing can actually create sparks!.",
+    "Ponchos - They're totally armless!.",
+    "Airplane Restrooms - Small, cramped and smelly - but they're lining up to get in!.",
+    "Caterpillars - Bugs or bulldozers. There's gonna be some changes 'round here.",
+    "A Miracle - It's going to take a miracle.",
+    "Domestic Partners - Not exactly married, not exactly dating.",
+    "Acne - It's not funny - is zit?.",
+    "Norway Spruce - This fast-growing conifer is native to central and northern Europe and quickly reaches 80 feet in height.",
+    "Identity Crisis - Who? Me?.",
+    "The Infantry - Branch of the army trained to fight on foot. The front line.",
+    "Bill Cosby - 1937-, American actor and comedian who starred in I Spy, The Cosby Show, and created Fat Albert. Hey, hey, hey-he's got a PhD!.",
+    "Cowgirls - \"Even cowgirls get the blues.\" -Tom Robbins.",
+    "A Genie - Most grant three wishes...and then head for the bottle.",
+    "Home Alone - Kids like it. Parents love it!.",
+    "Black Eyed Peas - Good listening and good eating!.",
+    "Irish Setters - High-energy bird dog known for its silky red coat and playful personality. Erin go woof.",
+    "Halftime Shows - From marching bands to \"wardrobe malfunctions.\".",
+    "Almond Joy - \"Sometimes you feel like a nut...\".",
+    "Fjords - Long narrow inlets from the sea between steep cliffs.",
+    "Inflation - Back in my day, mansions used to cost a nickel. A NICKEL!.",
+    "Leaky Faucets - Your own personal water torture.",
+    "Toe Rings - Foot Bling.",
+    "Car Insurance - Don't leave home without it!.",
+    "Factory Work - Everyday working shifts.",
+    "Reality - It's overrated!.",
+    "Greece - Lofty mountains, blue seas and 8,000 miles of coastline. I'll take the spanakopita with calamari on the side! OPA!.",
+    "Mondays - \"Monday, Monday, can't trust that day...\" - The Mamas and the Papas.",
+    "Buffalo Soldiers - African American U.S. army units who fought in the Indian Wars and explored vast areas of the southwest.",
+    "Injustice - It's just not fair.",
+    "Wedding Cake - \"You may now kiss the bride...\" And lovingly stuff cake into each other's face.",
+    "The Atkins Diet - Steak and potatoes... minus the potatoes.",
+    "Substitute Teachers - \"I'm a substitute Spanish teacher. Los estudiantes son mis amigos.\" - Peggy, King of the Hill.",
+    "Fireside Chats - From stories around the campfire, to Franklin D. Roosevelt's popular 1930s and 1940s radio addresses - they'll warm your heart.",
+    "Morgan Freeman - 1937-, American actor who won Academy Awards for Million Dollar Baby and Driving Miss Daisy. He's Street Smart and much more.",
+    "Pamela Anderson - 1967-, Canadian actor. From Home Improvement to Baywatch and Stripperella, with five Playboy covers along the way.",
+    "Boomerangs - They're due for a comeback!.",
+    "Sharon Stone - 1958-, American actor known for her portrayal of smart and aggressive characters in such films as Casino and Basic Instinct.",
+    "Ring-Necked Pheasants - The male is easily identified by the distinct green head, red facial skin, white neck ring, and long golden tail feathers. All dressed up.",
+    "A Midnight Snack - Pizza, chips, cereal, ice cream.",
+    "Income Tax - Nothing \"in-coming\" about it.",
+    "The Rodeo - Real cowboys... surrounded by a bunch of clowns.",
+    "Hospitals - The nation's first hospital, opened in the 1750s, was established for the \"sick, poor and insane\" in Philadelphia.",
+    "Down Comforters - Just ducky when the cold weather gets your goose.",
+    "Ted Kennedy - 1932-, U.S. Democratic Senator representing Massachusetts since 1962. One of the clan.",
+    "Father's Day - Traditionally, more collect calls are made on Father's Day than any other day of the year.",
+    "Flying Saucers - On July 8, 1947 the U.S. Army reported that flying saucer wreckage was discovered near Roswell, NM. (Statement retracted on July 9.).",
+    "Botox - A few shots and you'll have no worries for six months - or at least you'll look that way.",
+    "France - Not just a country- it's a state of mind!.",
+    "Cowboy Boots - These boots were made for two-steppin'.",
+    "Alimony - What was for richer is now for poorer.",
+    "Risky Business - Risky business is risky business except when it's a sure thing like the 1983 film starring a young Tom Cruise.",
+    "Broccoli - Fighting cancer for over 2,000 years.",
+    "A Good Education - Found at school... or at home.",
+    "Penthouse Apartment - A deluxe apartment in the sky! - The Jeffersons.",
+    "Crop Circles - Worldwide, more than 10,000 crop circles have been reported. No crop squares, to date.",
+    "Spending Money - But it was on sale.",
+    "Sherwood Forest - At one time, Sherwood Forest was the largest of England's royal forests. Legendary home of Robin Hood and his Merry Men (in tights).",
+    "Fraternities - An organization of male college students. Toga! Toga! Toga!.",
+    "Sockeye Salmon - Found in the Pacific and Arctic oceans, the sockeye salmon can be identified by the distinct gill rakers, or the sublime tarragon sauce.",
+    "Radishes - The root of a good salad.",
+    "Galactic Noise - The radio-frequency radiation originating outside the solar system. Is it just us, or is there somebody else out there?.",
+    "Oktoberfest - Lace up your lederhosen and roll out the barrel!.",
+    "Cocktail Parties - Shake and serve straight up. It's a drinking game!.",
+    "Puppet Shows - Just pull a few strings.",
+    "Hash - \"There is nothing worse for the health, or the palate, than a poor hash.\" -Miss Beecher's Domestic Receipt Book, 1846.",
+    "Big Bellies - Often found on chubby hubbies.",
+    "Champagne - Salud! ... Le chaim! ... Cheers! ... Sláinte! .",
+    "Wine Country - A delightful Pinot Grigio.",
+    "Will Ferrell - 1967-, American television and movie actor and winner of the American Comedy Award for Saturday Night Live. Three cheers for Will!.",
+    "Facial Hair - Good news for teenage boys. Bad news for middle-aged women.",
+    "Diane Keaton - 1946-, American actor, known for her personal style and award winning acting in Annie Hall, Marvin's Room, andSomething's Gotta Give.",
+    "Spider-Man - Peter Parker, a young orphan, was bitten by a genetically altered spider...you can find him hanging out on the web.",
+    "Trout Fishing - Everybody's got an angler.",
+    "Segregation - The discriminatory policy, or practice, of imposing the separation of people based on race.",
+    "Gen. Douglas MacArthur - 1880-1964, the most decorated soldier in the history of the U.S. military. MacArthur took part in WWI, WWII and the Korean War.",
+    "Richard Gere - 1949-, American actor. He's been an American Gigolo and An Officer and a Gentleman and sang and danced his way through Chicago.",
+    "Michael Moore - 1954-, American documentary film maker of Roger and Me and Fahrenheit 9/11 He won an Academy Award forBowling for Columbine.",
+    "Paper Shredders - What bill from Tiffany's? I didn't see any bill from Tiffany's.",
+    "Waxing - Mustache, eyebrows or the floor...it's all a pain.",
+    "Mother's Day - Oh, honey...you made... it...all by yourself.",
+    "Saturday Night Live - The award-winning comedy show featuring top musical performances and guest hosts. \"Live from New York...\".",
+    "A Blackberry - It's a fruit and an integrated communications system!.",
+    "Orlando, Florida - Cypress Gardens, Universal Studios, Sea World and Disney World. Something for everyone- everyone who likes theme parks, that is.",
+    "Home Run - Get up...get up...get outta here...GONE! -Bob Uecker.",
+    "Gas Prices - What goes up, must...go up again!.",
+    "Chicken, Alaska - Take the Klondike loop from Whitehorse to Dawson City and you're almost there. Get the cluck over here!.",
+    "Cameron Diaz - 1972-, American actor in Gangs of New York, and one of Charlie's new angels. There's something about Cameron.",
+    "Danny Glover - 1946-, American actor who was appointed goodwill ambassador for the United Nations Development Program. Lethal box office weapon.",
+    "The Beach Boys - The band's first hit, \"Surfin\" came out in 1961, but beach boys have been around almost as long as California.",
+    "Kevin Costner - 1955-, American actor and director who starred in JFK and Field of Dreams. His Dances With Wolves won an Academy Award for Best Picture.",
+    "Teleporters - Beam me up!.",
+    "Four-Inch Heels - Better to start with one-inch and work your way up.",
+    "Jugglers - They've got their hands full.",
+    "Spyware - They're watching you.",
+    "Cannibals - We must have you for dinner sometime!.",
+    "Steak & Eggs - The breakfast of champions...Atkins champions, anyway.",
+    "The Starship Enterprise - A galaxy-class, extended duration, starship from Star Trek. \"The engines can'nae take it, Captain!\".",
+    "Poverty - Who won the war on poverty, anyway?.",
+    "Farm Animals - \"Four legs good, two legs bad.\" -George Orwell Animal Farm.",
+    "Grease Monkeys - The boys under the hood.",
+    "Owen Wilson - 1968-, American actor, appeared in Rushmore, The Royal Tenenbaums and Wedding Crashers. He's a self-proclaimed trouble-maker.",
+    "Nelson Mandela - 1918-, South African, awarded the 1993 Nobel Peace Prize for his leadership in the peaceful termination of apartheid.",
+    "Lumberjack - \"I'm a lumberjack and I'm okay...\" - Monty Python.",
+    "Burger King - 11,000 restaurants serving flame-broiled burgers worldwide. Have it Your Way.",
+    "School Uniforms - You might not be smarter but you'll look smarter.",
+    "New York Times - \"The grey lady\" was one of the last newspapers to adopt color photography. Seems like they were a bit behind the times.",
+    "Janet Jackson - 1966-, American singer, composer and actor. Early in her career she played Penny on Good Times and Charlene onDiff'rent Strokes.",
+    "Primrose Path - Come on down!.",
+    "Bruce Lee - 1940-1973, American icon of martial arts films. This kung fu master influenced martial arts worldwide. Enter the Dragon.",
+    "Green Acres - It's the place to be.",
+    "A Damsel In Distress - Where's that knight in shining armor?.",
+    "Boston Tea Party - On December 16, 1773, American patriots boarded ships in the Boston harbor and emptied 342 chests of tea in protest of British taxation.",
+    "FEMA - Federal Emergency Management Agency, responsible for disaster mitigation, preparedness, response and recovery.",
+    "Angelina Jolie - 1975-, American actor in Gone in Sixty Seconds and Lara Croft: Tomb Raider. She won an Academy Award for Girl, Interrupted.",
+    "Soul Mate - Even soul mates won't put up with some things.",
+    "Blackmail - I know what you did last summer.",
+    "Elvis Impersonators - Will the real Elvis please stand up?.",
+    "Paradise - \"They paved paradise and put up a parking lot.\" - Joni Mitchell.",
+    "Central Park - Each year, over 25 million people visit these 843 acres of beautiful lawns and woodlands located in Manhattan.",
+    "Mu Shu Pork - Pancakes - Chinese style.",
+    "Action Figures - Batteries not included- or needed.",
+    "Bowling Balls - In 1963 alone, Americans spent over $43 million on bowling balls. The bowling industry was on a roll.",
+    "My Inheritance - It's all in the family.",
+    "The Louisianna Purchase - In 1803, the U.S. purchased about 600 million acres of land from France for less than three cents per acre.Now, there's a bargain!.",
+    "4-H Clubs - Head, Heart, Hands and Health. A youth organization promoting leadership, citizenship, and life skills. See you at the fair!.",
+    "Desperate Housewives - A prime-time soap opera featuring the lives of five suburban housewives. Apparently, millions are desperate to watch.",
+    "Rain Forests - Endangered ecosystems, or trendy cafés.",
+    "Prescription Drugs - WARNING: Do not operate heavy machinery.",
+    "Identity Theft - What if nobody wants your identity?.",
+    "Tony Bennett - 1926-, American singer whose music is love across generations and continents. The United Nations honored him as a\"\"Citizen of the World.\".",
+    "Weight Training - I can hardly weight.",
+    "First Born - All the attention and no hand-me-downs.",
+    "The Attic - It's up there somewhere.",
+    "Safety Pins - For diapers. Or punks. Or old punks' diapers.",
+    "A French Bakery - Baguettes, croissants or a nice Gateau St. Honore? Just don't ask for French Toast.",
+    "The Mob - A.k.a. the Mafia. The only mob that IS organized.",
+    "Rare Coins - One old coin can cost several thousand new ones.",
+    "A Rump Roast - The meat of Meat and Potatoes.\".",
+    "The Pope - The spiritual leader of the Roman Catholic Church.",
+    "Park Rangers - \"What pic-a-nic basket, Ranger Smith?\" - Yogi Bear.",
+    "Ping-Pong - The game was first played with a rubber ball (too fast), then a cork ball (too slow), and then a celluloid ball (just right).",
+    "Social Workers - Going down to the water cooler doesn't make you a social worker.",
+    "Hot Tub Parties - Warning: the use of drugs or alcohol before or during spa use could lead to unconsciousness.",
+    "M. C. Escher - 1898-1972, Dutch artist known for his \"impossible structures\" including Ascending and Descending. I can't tell if he's coming or going!.",
+    "Egg Rolls - Tasty Chinese appetizers. We're not sure where the egg comes in.",
+    "Grass Huts - People who live in grass huts shouldn't throw matches.",
+    "Breast Implants - A growing industry.",
+    "Renée Zellweger - 1969-, American actor, starred in Bridget Jones's Diary, and Chicago, and won an Oscar for her portrayal of Ruby inCold Mountain.",
+    "Dr. Phil - Psychologist Dr. Phil McGraw helps millions \"get real\" on his TV show... Life Law #1: Either you get it or you don't.",
+    "Vegetarians - I'll take the tofu burger with the soy bacon strips.",
+    "Mint Jelly - Good with lamb... and that's about it.",
+    "Mona Lisa - Leonardo da Vinci's painting of the most famous smile in the world.",
+    "Nicole Kidman - 1967-, actor, American born but raised in Australia. She won Academy Awards for The Hours and Moulin Rouge.",
+    "Saunas - Just sweat it out...!.",
+    "A Comb-Over - The world's worst cover-up.",
+    "Chicken Dance - Da, da, da.",
+    "Medicinal Plants - For medical use only.",
+    "My Dad's Car - \"Oh, man, he's going to kill me!\".",
+    "Dreams - \"If you can dream it, you can do it.\" - Walt Disney.",
+    "New Year's Resolution - This year's going to be different.",
+    "Pussy Willows - A type of willow tree distinguished, in the spring, by silky, grey catkins.",
+    "Sauerkraut - Cabbage, salt and the magic of fermentation.",
+    "Greenhouse Effect - Without any greenhouse effect the earth would not be warm enough to sustain life.",
+    "Christopher Walken - 1943-, American actor and winner of an Academy Award for The Deer Hunter. He makes \"mentally unbalanced\" look so natural.",
+    "Duckbill Platypus - A furry, egg-laying animal with webbed forefeet. It's a bird...no, it's a reptile, no, it's a mammal ...actually, it's a marsupial.",
+    "Granite - You can take it for granite.",
+    "Swordfish - A cut above other fish.",
+    "Sand Dollars - Members of the class of marine animals known as echinoids. Save enough and you can buy a sand castle.",
+    "Monopoly - The longest game of Monopoly ever played lasted 1,680 hours.",
+    "Boa Constrictor - Found in the Central and South America, this snake can reach 13 feet in length. Want a hug?.",
+    "Cashmere Sweaters - They should be called CashMORE sweaters!.",
+    "Internet Dating - Turn-ones: candlelight dinners and walks on the beach. Turn-offs: the computer crashing.",
+    "Group Therapy - Being analyzed with a group of strangers? And how does that make you feel?.",
+    "The Purple Heart - Awarded to members of the U.S. armed forces who are wounded or killed as a result of combat.",
+    "Bird Flu - Bird flu is caused by avian influenza viruses. It is highly contagious among birds and has the potential to adapt and spread among humans.",
+    "Black Widows - Large venomous spiders in the American southwest. The male is half the size of the female, and very nervous.",
+    "Roadies - ...check...check... testing...check... check.",
+    "Thistles - The thistle has been a symbol of Scotland for over 500 years - the rest of its history is a bit thorny.",
+    "Gravy - No lumps? Good gravy!.",
+    "The Meaning Of Life - Go ask your mother.",
+    "Angels - \"Teacher says every time a bell rings, an angel gets his wings.\" - Zuzu Baily It's a Wonderful Life.",
+    "Alaskan Pipeline - At 800 miles long and 48\" in diameter, this is one of the largest pipeline systems in the world Cold and crude.",
+    "Bulging Biceps - My, what big muscles you have.",
+    "Optic Nerves - You're getting on your optic nerves, man!.",
+    "Hostages - It looks like we'll be tied up for awhile!\".",
+    "Hitchhikers - Going my way?.",
+    "Razorbacks - A 250 pound wild boar, or the University of Arkansas athletic teams. \"Time to call in the pigs. Woo...Pig...Sooiee!\".",
+    "Labor Pains - Don't push me!.",
+    "Pomegranates - The size of an apple, this fruit is covered with a dark red, leathery rind. The seeds and juice are the only edible parts.",
+    "Scorpions - The big sting!.",
+    "Stem Cell Research - Potential scientific breakthrough...and political hot button.",
+    "Red Peppers - You'll warm up to 'em.",
+    "Fire Ants - A hot topic in the extermination business.",
+    "Book Clubs - It doesn't matter if the book is good, as long as there's dessert.",
+    "Notre Dame Football - Not just football-it's Notre Dame Football! WE-ARE-N-D, GO-IRISH!.",
+    "Idaho - Scenic beauty, rugged wilderness, and more than enough potatoes.",
+    "Sleep - \"I have never taken any exercise except sleeping and resting.\" - Mark Twain.",
+    "Hugh Hefner - 1926-, founded Playboy magazine in 1953 and went on to build an empire based on celebrating sex.",
+    "Robert Redford - 1937-, American movie man. Produced 23 films, directed 7, acted in 39, and supports emerging film makers through the Sundance Institute.",
+    "Drooling - What a drip!.",
+    "Chicks - Fine feathered friends.",
+    "Fight Club - 1999 film starring Brad Pitt and Edward Norton. Don't talk about Fight Club.",
+    "The Village People - Disco band formed in the 1970s. Y...M...C...A.",
+    "Mushrooms - Nobody knows the truffles I've seen.",
+    "Owning Land - \"Why, land is the only thing in the world worth workin' for, worth fightin' for, worth dyin' for...\" - Gerald O'Hara Gone with the Wind.",
+    "Magicians - Now you see 'em... now you see 'em again.",
+    "Aluminum Siding - Encase your house in metal - sheer genius!.",
+    "Starbucks - \"They're opening a Starbucks in my living room.\" - Janeane Garofalo.",
+    "Mistletoe - The Druids believe that mistletoe could improve fertility...so be careful who you kiss.",
+    "Coastal Erosion - Wasn't California here just a minute ago.",
+    "Credit Cards - For everything else there's CASH.",
+    "The Speed Of Light - According to Einstein, nothing in the Universe can exceed the sped of light. It's the cosmic speed limit!.",
+    "Cigars - Power smoking.",
+    "My Sweetheart - \"No, I love YOU more!\" \"No, I love YOU more!\".",
+    "Gentlemen - They prefer blondes... brunettes...redheads.",
+    "Liberals - To the left of the political spectrum.",
+    "Iraq - Iraq attained its independence in 1932 and was declared a republic in 1958. Population: 26 million.",
+    "Sheep - What do sheep count when THEY can't sleep?.",
+    "Usama Bin Laden - 1957-, Saudi Arabian suspected of masterminding terrorist attacks throughout the world.",
+    "Shrek - The Academy Award winning 2001 animated film featuring an ogre and a donkey rescuing a princess.",
+    "My Obituary - \"The report of my death was an exaggeration.: - Mark Twain.",
+    "Flying Solo - You're on your own!.",
+    "Cream Rinse - Perfect after a milk bath.",
+    "Puerto Rico - As a territory of the United States, Puerto Rico's 4 million people have their own constitution and their own Olympic team.",
+    "Trench Coat - The classic trench coat was designed by Thomas Burberry in 1901 for army officers in the U.K. It's a flashin' statement.",
+    "Cleveland Indians - This Cleveland baseball team took the name \"Indians\" in 1915. It's the tribe.",
+    "Utah - The name, Utah, came from the American Indian tribe Ute, and means \"people of the mountains.\".",
+    "Exchange Students - You can only exchange them if you've got the receipt.",
+    "The Hamptons - Where the elite meet to summer.",
+    "The Real World - In 1992, MTV launched a new genre of TV - the documentary/soap opera. Seven young people move in together and the world watches.",
+    "Jail - Do not pass Go. Do not collect $200.",
+    "Justin Timberlake - 1981-, American singer whose career began on Star Search at age 11, then on to The Mickey Mouse Club, and 'N Sync. Curly Spice!.",
+    "Super Powers - That's Incredibles!.",
+    "Enron - They manipulated the books, stocks plummeted, people lost their jobs and a couple of guys went to jail.",
+    "Lettuce - Two heads are better than one!.",
+    "Malcolm X - 1925-65, American civil rights leader, was assassinated on the first day of National Brotherhood Week.",
+    "Florida - Over one thousand miles of beaches to enjoy ...if the sharks don't get you.",
+    "Karaoke - Sing...sing a song... sing it badly, to last your whole life long.",
+    "The Suburbs - \"Another Pleasant Valley Sunday, charcoal burning everywhere, rows of houses that are all the same...\" - The Monkees.",
+    "A Broken Nose - It adds character!.",
+    "Emeril LaGasse - 1959-, chef, restauranteur and television personality, known for New Orleans regional specialties. BAM!.",
+    "Christopher Reeve - 1952-2004, American actor, director, author, activist and chairman of the Christopher Reeve Paralysis Foundation.A real Superman.",
+    "Sugar Daddy - \"She used to have a sugar daddy and a candy-apple caddy.\" - Tom Waits.",
+    "Tony Hawk - 1968-, American Skateboarding superhero. He led the way as skateboarding went from street sport to big business.",
+    "Luncheon Meat - What a bunch of baloney!.",
+    "Game Sanctuaries - Protection for game players everywhere.",
+    "Free Clinics - Hey, the disease was free, the clinic should be too!.",
+    "Bette Midler - 1945-, American actor and popular singer. From the New York bathhouses to the \"Divine Miss M.\".",
+    "Duck Decoys - A bunch of quacks!.",
+    "Appalachians - Get your fiddle and I'll bring the banjo. There'll be music in the mountains tonight!.",
+    "Donald Trump - 1946-, American success story. Chairman of The Trump Organization for real estate development. If he says you're fired, you're fired!.",
+    "Fondue - The taste says fondue...the calories say fonDON'T.",
+    "Ground Zero - A blast area or the target of a missile or bomb.",
+    "Box Cutters - Take one on a plane and they'll cut you off the passenger list.",
+    "Evolution - Charles Darwin's observations of the variations among plants and animals on the Galapagos Islands led to his theory of evolution.",
+    "Clinical Depression - Clinical or not - it's depressing.",
+    "Librarians - \"How to make an atomic bomb? No problem, we have a book on that.\".",
+    "Aretha Franklin - 1942-, American rock and roll, blues, and gospel singer. The Queen of Soul deserves.",
+    "My Car - My other car is a beater too.",
+    "Avalanches - Nearly all avalanches that involve people are triggered by the victims themselves. So walk softly and carry a cell phone.",
+    "Jahn Malkovich - 1953-, American movie actor and director. Known for In the Line of Fire, Places in the Heart and, of course, Being John Malkovich.",
+    "Slot Machines - Think you'll win? The they're pulling YOUR arm.",
+    "Pythons - I'll name mine Monty!.",
+    "Fire-Eaters - A hot career move.",
+    "Lima Beans - Lima beans have been cultivated in Peru since 6000 B.C. - that's a whole lotta limas.",
+    "Graveyards - Finally, a real resting place.",
+    "Hardware Stores - I need a thingy to put on the what-cha-ma-call-it.",
+    "Napoleon Dynamite - 2004 upbeat comedy film starring Jon Heder as an alienated teenager in a small western high school. Gosh!.",
+    "Ray Charles - 1930-2004, American singer and songwriter of Jazz, Rhythm & Blues, and Rock & Roll. Awarded the National Medal of Arts in 1993.",
+    "Butter - I can't believe it's not margarine!.",
+    "Mimes - [No words, just two four-fingered gloves.].",
+    "Phantom Limb - The sensation that an amputated limb is still there. Also known as \"stump hallucination.\".",
+    "Kentucky - Bordering seven states, Kentucky is known for horses, mountains and bourbon. Not a bad combination.",
+    "Paris Hilton - 1981-, American model, actor and TV personality. We'll always have Paris.",
+    "Sweet Potatoes - Now available in chip form.",
+    "The Frozen Tundra - Derived from the Finnish word for barren, a tundra has long, cold winters and strong dry winds. Muskoxen and Packer fans seem to like it.",
+    "Fangs - Take a bite out of life... someone else's, that is.",
+    "A Galaxy - A galaxy can range from 1,500 to 300,000 light-years. It's enough to make your head spin.",
+    "Lap dogs - Portable pooches.",
+    "The Seven Dwarfs - From the classic 1937 Disney film, Snow White and the Seven Dwarfs. Snow White's posse.",
+    "American Idol - FOX network's reality program based on a talent competition for 16-28 year-olds. No visible tattoos allowed.",
+    "National Debt - We'll let our kids worry about that.",
+    "Wives - \"What's for dinner, Honey?\".",
+    "Jane Fonda - 1937-, American actor who made 40 films and won Academy Awards for Klute and Coming Home. A.k.a. Hanoi Jane."
+  ],
+  "pack": {
+    "id": "B64K2",
+    "name": "Apples to Apples Party Expansion 2"
+  },
+  "quantity": {
+    "black": 143,
+    "white": 431,
+    "total": 574
+  },
+  "dateStoredMs": 1588867494009
+}

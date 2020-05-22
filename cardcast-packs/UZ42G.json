@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "Warum hast du eine Nachricht von _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weißt du erst dachte ich _ ist schlecht. Aber jetzt...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Wohl eher_!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wieso ist deine Mutter hier? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe das Gefühl, dass du auf _ stehst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wieso ist meine Mutter hier? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist mein heimlicher Fetisch.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cards Against Humanity.",
+    "Massenvernichtung.",
+    "Cards Against Humanity.",
+    "Philipp  Amthor."
+  ],
+  "pack": {
+    "id": "UZ42G",
+    "name": "german try me"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 4,
+    "total": 11
+  },
+  "dateStoredMs": 1588458390776
+}

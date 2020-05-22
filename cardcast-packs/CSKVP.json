@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "Goblin King! Goblin King! Wherever you may be take this _ of mine far away from me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How you turn my world, you precious _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put that magic spell on me. Slap that _, make him free!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarah, go back to your room. Play with your _ and your _. Forget about the baby.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ludo, call the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Through dangers untold and hardships unnumbered, I have fought my way here to the castle beyond the Goblin City to take back the _ that you have stolen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She should not have gotten as far as the _; she should've given up by now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a _. Nothing more. But if you turn it this way and look into it, it will show you your dreams.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your _ can be so cruel, just as I can be so cruel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's so stimulating being your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything I've done, I've done for you. I move _ for no one.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cool owls.",
+    "Hoggle.",
+    "Oubliette.",
+    "Sir Didymus.",
+    "Poor Ludo.",
+    "Hoggle.",
+    "Hedgewart.",
+    "*close up of Jareth's crotch*.",
+    "Lion King moment.",
+    "Everything in your childhood turning to garbage.",
+    "The Bog of Eternal Stench.",
+    "Eyeliner lessons.",
+    "*close up of Jareth's crotch*.",
+    "Package.",
+    "David Bowie's package.",
+    "~plastic~.",
+    "Roofie peach.",
+    "Slime and snails, puppy dog tails.",
+    "~foreshadowing~.",
+    "Finding Ludo attractive because he can call rocks.",
+    "The power of Crotch.",
+    "Hogwarts.",
+    "Masquerade gangbang.",
+    "Fucking Higgle.",
+    "Being the perfect blowjob height."
+  ],
+  "pack": {
+    "id": "CSKVP",
+    "name": "Labyrinthine"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 25,
+    "total": 36
+  },
+  "dateStoredMs": 1588786064328
+}

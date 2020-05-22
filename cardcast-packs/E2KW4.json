@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Why is _ a feature in CS:GO?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason we lost 0-16 was because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry guys, we have _ on our team.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Accidentally taking the silencer of the USP-S.",
+    "Getting an ace with the knife."
+  ],
+  "pack": {
+    "id": "E2KW4",
+    "name": "Counter Strike : Global Offensive"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 2,
+    "total": 5
+  },
+  "dateStoredMs": 1589403812267
+}

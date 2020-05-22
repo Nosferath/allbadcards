@@ -1,0 +1,99 @@
+{
+  "black": [
+    {
+      "content": "_ 's movepool doesn't really work well with its stats.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fans were shocked to learn that the new Eeveelution was _ -Type.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To evolve your Eevee into a _ you need to use a _ Stone.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fans finally got the _-Type Eeveelution they were clamoring for.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best held item for your _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_eon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think that _ needs _ in its movepool to be viable.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you hear?  _ is finally getting Flare Blitz!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eevee's next evolution is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eevee should have a _ -type Evolution.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Finally getting Flare Blitz.",
+    "A Jolteon's spiky fur.",
+    "A Jolteon.",
+    "A Flying-type Evolution.",
+    "A Hidden Ability that completely changed how a Pokemon is used.",
+    "An Umbreon.",
+    "Magic Bounce.",
+    "An Espeon's gem.",
+    "Fan-made Eeveelutions.",
+    "People shipping two Eeveelutions because they were introduced in the same generation.",
+    "A Poison-type Evolution.",
+    "A Dragon-type Evolution.",
+    "A Glaceon.",
+    "A Flareon.",
+    "Eevee's new evolution.",
+    "A Ghost-type Evolution.",
+    "A Leafeon's photosynthesis.",
+    "A Glaceon's diamond pattern.",
+    "A fluffy Flareon.",
+    "A Sylveon.",
+    "A Fighting-type Evolution.",
+    "Mega Evolutions.",
+    "A Steel-type Evolution.",
+    "A Normal-type Evolution.",
+    "Pixilate.",
+    "An Eevee.",
+    "An Espeon.",
+    "A Sylveon's ribbons.",
+    "A Vaporeon.",
+    "A Rock-type Evolution.",
+    "An Umbreon's rings.",
+    "A Vaporeon melting and then appearing behind you.",
+    "A Leafeon."
+  ],
+  "pack": {
+    "id": "UENED",
+    "name": "Cards Against Eeveelutions"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 33,
+    "total": 43
+  },
+  "dateStoredMs": 1588668441534
+}

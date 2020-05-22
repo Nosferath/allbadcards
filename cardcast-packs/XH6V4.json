@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "_ kids are Rocking it,Rocking it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cause you're always on my mind _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Left my scooter outside the dairy_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's on sunday? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Jonesy! huh? give a hand with a job Saturday?! Mate... you're _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E Y E S, what does that spell? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pack n save.",
+    "Ghost chips.",
+    "Countdown.",
+    "South Auckland.",
+    "John Key pulling a ponytail.",
+    "Nek Minute.",
+    "Kotuku.",
+    "Bush Maori.",
+    "Fathers day.",
+    "L&P Chocolate.",
+    "Gotta get me a mince pie.",
+    "Rutherford."
+  ],
+  "pack": {
+    "id": "XH6V4",
+    "name": "New Zealand memes"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 12,
+    "total": 18
+  },
+  "dateStoredMs": 1588571602593
+}

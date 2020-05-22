@@ -1,0 +1,241 @@
+{
+  "black": [
+    {
+      "content": "_ is my passion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, you code in C++, I code in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here at Havery Mudd School of Counting, we specialize in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi Dean Bassman, I am concerned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and Wave Motion",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Honor Code says don't _ or _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You know it's a CMC bro when they have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you do when your school rents you out to a defense contractor? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ distribution.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pain is temporary; _ is forever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diagonalize the _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why have work life balance when you can have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the _ Hecke?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me: I can't find a job. STEM major: I got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finally I got my _ to look good in Igor Pro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Answering _ on an iClicker question.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In exchange for _, you get free printing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "75k a year, for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a _ ; I have a _ ; uh, _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Because of _ , portal is down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You shall not pass _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll have you know I took _ , and only cried myself to sleep every night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That feel when the Hoch serves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sakai is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Mudd's defining quality.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will now have stories.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The relativistic rhinos.",
+    "Prof. Saeta.",
+    "Tell the frosh to do it.",
+    "The wart aesthetic.",
+    "The premier social media platform.",
+    "Protest.",
+    "Mechanics.",
+    "Mongolian.",
+    "Math Comp Bio.",
+    "Low GPA.",
+    "Pineapple.",
+    "SPAM.",
+    "Your research poster (really just a powerpoint printed out on sheets of paper).",
+    "HSA 10.",
+    "Alcoholism.",
+    "All of my self destructive habits.",
+    "Kerry K. Karukstis.",
+    "Norf.",
+    "Work life balance.",
+    "Racket.",
+    "Picobot.",
+    "A complete and total lack of self confidence.",
+    "President Klawe.",
+    "South.",
+    "Thesis.",
+    "P-orbitals.",
+    "Clinical depression.",
+    "E&M.",
+    "Applepen.",
+    "CIPACS.",
+    "Flashbacks to core.",
+    "\"samosas\".",
+    "The panty raid story.",
+    "Burrito Bar.",
+    "Showering.",
+    "Getting help from the writing center.",
+    "Return on investment.",
+    "IClicker.",
+    "Suite Booty.",
+    "Professor Gerald Van Hecke (Gerry).",
+    "Frosh Chem.",
+    "A drinking problem.",
+    "Intertube water polo.",
+    "WIBSTER.",
+    "Clinic.",
+    "Recursion.",
+    "Igor.",
+    "Data.",
+    "Case.",
+    "Partying on the roof.",
+    "North.",
+    "Sakai.",
+    "West.",
+    "E4.",
+    "Anxiety.",
+    "Eggs?.",
+    "Vibrio Cholerea.",
+    "Topless.",
+    "Sit in.",
+    "The Hoch.",
+    "A \"Scripps Dad\" bro-tank.",
+    "Fratwood.",
+    "OOK.",
+    "No sleep.",
+    "Prof. Eliot Bush.",
+    "Screaming into the void.",
+    "The worst matrix ever.",
+    "Somehow tasteless eggs.",
+    "Drinkward.",
+    "Apple.",
+    "Portal.",
+    "Linde.",
+    "Havery Mudd School of Counting.",
+    "Galileo Koi.",
+    "The La Place transformation.",
+    "Harvard Med.",
+    "Pineapplepen.",
+    "Cry.",
+    "BSTs.",
+    "Sontag.",
+    "The Honor Code.",
+    "Imposter Syndrome.",
+    "Penpineappleapplepen.",
+    "An econ major and a devout belief in capitalism.",
+    "Living problem set to problem set.",
+    "The Hammer.",
+    "Salad bar.",
+    "Pen.",
+    "Atwood.",
+    "Nurhsorf.",
+    "East.",
+    "Unicycling to class.",
+    "Harvey Mudd College.",
+    "Lying your way through ASP.",
+    "Angery Mudd College."
+  ],
+  "pack": {
+    "id": "NAKXU",
+    "name": "Harvey Mudd"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 95,
+    "total": 121
+  },
+  "dateStoredMs": 1589509095637
+}

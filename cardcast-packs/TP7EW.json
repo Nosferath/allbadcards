@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "The taste of the stardrop reminds you of your favorite thing: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm only shopping at Jojamart because it's Wednesday, Pierre's is closed, and I desperately need _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FOR GIRLS ONLY: I need _... You know what it's for.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Uppercutting Morris through the roof of the community center.",
+    "Passing out in the town square at 2 AM.",
+    "Pierre's secret stash.",
+    "Nurse fetish roleplay with Maru.",
+    "The Shane Train.",
+    "Strange-looking purple lettuce.",
+    "The Mayor's lucky shorts.",
+    "The Lunaloos."
+  ],
+  "pack": {
+    "id": "TP7EW",
+    "name": "Cards Against Pelican Town"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 8,
+    "total": 11
+  },
+  "dateStoredMs": 1589425957556
+}

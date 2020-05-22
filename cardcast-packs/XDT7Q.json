@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "All Might's New Attack: _ SMASH!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Toru Hagakure.",
+    "Aizawa.",
+    "Katsuki Bakugo.",
+    "Denki Kaminari.",
+    "Himiko Toga.",
+    "Mashirao Ojiro.",
+    "Neito Monoma.",
+    "Nomu.",
+    "Fat Gum.",
+    "Momo Yaoyorozu.",
+    "Tamaki Amajiki.",
+    "Dabi.",
+    "Mt. Lady.",
+    "Tenya Iida.",
+    "Izuki Midoriya.",
+    "Mina Ashido.",
+    "Nejire Hado.",
+    "Tomura Shigaraki.",
+    "Eijiro Kirishima.",
+    "Fumikage Tokoyami.",
+    "Shoto Todoroki.",
+    "Kyoka Jiro.",
+    "Overhaul.",
+    "All Might.",
+    "Minoru Mineta.",
+    "Ochaco Uraraka.",
+    "Mirio Togata.",
+    "Gran Torino.",
+    "Tsuyu Asui.",
+    "Endeavor.",
+    "Yuga Aoyama."
+  ],
+  "pack": {
+    "id": "XDT7Q",
+    "name": "BNHA"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 31,
+    "total": 32
+  },
+  "dateStoredMs": 1588497040348
+}

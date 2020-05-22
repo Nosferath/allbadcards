@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Against the advice of health officials, Donald Trump recommended _ as a cure for Coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Billy, put that down! You know _ is exactly how you catch Coronavirus!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "K6448",
+    "name": "Covid-19"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589426677474
+}

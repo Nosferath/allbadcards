@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "No, I am _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "...and I thought _ smelled bad...on the outside!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Irvin Kershner stiff-arming George Lucas.",
+    "Robot camels."
+  ],
+  "pack": {
+    "id": "6ARX9",
+    "name": "Episode V"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588616200628
+}

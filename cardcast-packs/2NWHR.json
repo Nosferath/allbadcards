@@ -1,0 +1,156 @@
+{
+  "black": [
+    {
+      "content": "  Papyrus went to a/an _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Asgore has been overthrown by _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Monster Kid looks like free _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Napstablook listens to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Chara confessed to a crush on _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Ice Cap also wears a _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Flowey's least favorite food is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Shyren sings a cover of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Undertale has been leaked to cross over with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Alphys invented a _ for the underground.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Mettaton invited _ to guest star on his new show.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Moldsmal wanted to do nothing but _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Tsunderplane's favorite game is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Toriel, Sans, and Snowdrake discussed _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Knight Knight goes to sleep at _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Undyne suplexes at least 99 _, since she does that.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Woshua is now the owner of a _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "  Frisk wouldn't dare _.\t",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jacuzzi.",
+    "... Jerry.",
+    "Rocket.",
+    "Bikini.",
+    "Food.",
+    "Classical.",
+    "7:00 PM.",
+    "Every Saturday night.",
+    "Hot spring.",
+    "Outer space.",
+    "Play Amnesia.",
+    "Boombox.",
+    "Frisk.",
+    "Papyrus.",
+    "The sky.",
+    "Go streaking.",
+    "Puns.",
+    "Hopscotch.",
+    "1000 years from now.",
+    "Kill anything.",
+    "Kiss a girl.",
+    "The president of the United States.",
+    "The Alphabet.",
+    "Acapella.",
+    "Shirt.",
+    "Gravity Falls.",
+    "Glove.",
+    "Clothes.",
+    "Fortune Street.",
+    "Puzzles.",
+    "Some actress.",
+    "Cars.",
+    "Waterfall.",
+    "Whenever.",
+    "Chess.",
+    "Death metal.",
+    "Now.",
+    "Yandere Simulator.",
+    "Dubstep.",
+    "Spaghetti.",
+    "Farts.",
+    "The desert.",
+    "Asriel.",
+    "Go skydiving.",
+    "Megalo Strike Back (now with vocals for some reason).",
+    "Complicated.",
+    "A party.",
+    "Who Let The Dogs Out.",
+    "Gun.",
+    "Condom."
+  ],
+  "pack": {
+    "id": "2NWHR",
+    "name": "Just how many Undertale cards could there be?"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 50,
+    "total": 68
+  },
+  "dateStoredMs": 1588648321127
+}

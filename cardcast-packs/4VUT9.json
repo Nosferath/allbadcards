@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "Oh, my OTP is _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite book is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I crying? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Right now, my muse is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My OTP is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Take a drink every time a fanfic mentions _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, I've been reading this fanfiction about _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The worst kind of fanfiction is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What am I writing fanfiction about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ship _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite character is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ship _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite show is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I crying? Because _ is hard, okay?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite movie is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That feel when _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That feel when your favorite show is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the mun doing right now? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gay fanfiction.",
+    "My OTP.",
+    "Reluctant fanservice girls.",
+    "Mpreg.",
+    "A manic pixie dream girl.",
+    "Writing gay smut.",
+    "Innocent fanservice girls.",
+    "Waiting for a new season.",
+    "Cancelled.",
+    "Relationship goals.",
+    "Shameless fanservice girls.",
+    "The FEELS.",
+    "Your otp will never be canon.",
+    "Self insert fanfiction.",
+    "Yaoi.",
+    "Yuri.",
+    "An alpha bitch.",
+    "A beta bitch."
+  ],
+  "pack": {
+    "id": "4VUT9",
+    "name": "Fandomless Fandoms"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 18,
+    "total": 36
+  },
+  "dateStoredMs": 1589226688490
+}

@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "Introducing Xtreme Phonetics! It's like phonetics, but with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best way to preserve endangered languages is through _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are over 7,000 human languages, but only 1 of them features _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Inuit and Yupik may not have 50 words for snow, but they do have 50 words for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Many people falsely believe that linguists only study _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Russian grammar prohibits _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's easy to learn a new language! All you need is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to a recent study, people who speak _ are better at _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bilingual people are often better at _ than monolingual people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Thai, the words for _ and _ are only distinguished by tone.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "A746W",
+    "name": "Linguists Against Humanity"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 0,
+    "total": 10
+  },
+  "dateStoredMs": 1588471021851
+}

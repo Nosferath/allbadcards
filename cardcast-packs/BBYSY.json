@@ -1,0 +1,846 @@
+{
+  "black": [
+    {
+      "content": "Per prevenire (_) i medici consigliano (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qual è il prossimo giocattolo degli Happy Meal? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_): soffice e delicato sulla pelle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come ho perso la mia verginità? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! I miei occhi! Hai spruzzato (_) sui miei occhi!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è quel suono? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per fare (_),  ci vuole (_),  per fare (_)...",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "TU NON PUOI (_)!!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) il ragazzo che è sopravvissuto... Venuto a (_)...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Io non sono tuo padre sono (_). E io non sono tuo figlio, sono (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uccidete (_)! Prima che deponga le uova!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_)+(_)=(_)",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "(_) è molto utile affinché i bambini imparino (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(_): solo così posso essere felice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_). È così che vorrei morire.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prova a essere più (_) per tua figlia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mentre ero strafatto di acidi, (_) è diventato (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vivo una vita serena in compagnia di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) fa bene alla salute!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vivi libero o (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ASPETTAH! Aspettah... (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "È solito per i piccoli koala mangiare (_) direttamente dalla loro madre.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ora che possiedo (_) posso controllare il mondo! AHAHAHAHAH!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasce, cresce, (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usa la cannuccia per bere (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per Natale voglio (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E' un peccato che i ragazzini al giorno d'oggi partecipino a (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_). Morivo dalla voglia di sentirlo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'è (_) e (_) ma io preferisco (_).",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Una nuova normativa proibisce (_) sugli aerei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'è (_) nel mio bicchiere... Riportalo indietro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_)... Surprise muthaf**ka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi dispiace... Lei ha una malattia incurabile... Lei ha (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per i poeti ottocenteschi era solito (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamma diceva sempre: \"(_)\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sento che si avvicina! Lo sento! \"Chi?\" (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa mi tiene lontano dalla droga? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho 99 problemi ma (_) non è uno di quelli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le api erano gelose di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_). BATTI CINQUE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scusa oggi non posso perchè (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) lo sento crescere dentro di me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anch'io ero (_) come te, ma poi (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Forse ci è nata. Forse è (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, (_)! Non distruggere (_)!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(_).È una trappola!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa stai mangiando? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho chiamato il mio cane (_), per commemorare (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Per il mio nuovo trucco, farò uscire (_)  da (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(_) è un crimine contro natura!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'unica cosa che potrebbe farti diventare più uomo è (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_): il nuovo programma di Rai2 condotto da (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Orribili cose accadono a chi (_)!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono felice come (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Io voglio essere (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_): 4 morti e 10 feriti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come faccio a prendere una decisione? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi appassiona (_), mi diverte molto.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gli scienziati hanno scoperto che già nel brodo primordiale erano presenti tracce di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dietro ogni uomo potente c'è (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La vita è troppo breve per sprecarla a (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vedo la gente (_)...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_): Testato dai bambini, approvato dalle madri.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Squadra, è arrivato il momento di cominciare Operazione  (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_). Io ho fatto così e ne ho tratto molto vantaggio!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sogno un mondo libero da (_) e da (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Due cose sono infinite... L'universo e (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Io penso che (_) sia un sacrosanto diritto dei cittadini italiani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Perchè non riesco a dormire la notte? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) sta arrivando!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sarò miliardario, creerò una statua di 10 metri per commemorare (_) .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fra 1000 anni, quando le banconote saranno soltanto un ricordo lontano, (_) sarà il nostro denaro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è quell'odore? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I profeti predissero la nascita di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La bibbia dice che senza (_), non si può avere (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "(_)! NOOO! NON È VERO!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi su Pomeriggio 5: \"Aiuto! Mio figlio è un (_)!\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La mia vita sarebbe incompleta senza (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come faccio a mantenere la mia relazione amorosa? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come posso far finire questa depressione? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ci sono campi, campi sterminati dove gli esseri umani non nascono: vengono (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sul cadavere è stato rinvenuto (_) in evidente stato di decomposizione.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tu sei (_)! Che stupido nome!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa manca a gli ebrei? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) costruita intorno a te.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ciao io sono (_), ma tutti mi chiamano (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Luke, io sono (_)!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho bisogno di un momento per (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legolas! Cosa vedono i tuoi occhi da (_)?! Stanno portando (_) a Isengard!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "QUESTA È (_)!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Che cosa chiede a San Gennaro? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa ti piace fare il sabato sera? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante recenti scavi archeologici, sono stati ritrovati resti di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Temi tu la morte? (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E l'Academy Award per (_) va a (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bambini.... Ma dov'è (_)?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il profeta Isaia predice che (_) darà alla luce (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mi piace fare (_) perchè mi rilassa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La medicina alternativa sta ora abbracciando i poteri curativi di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La scienza non spiegherà mai  (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) sarà il mio prossimo cosplay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Preferisco vivere una vita piena di (_) che essere (_)!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "IL MIO (_)! AAAAAAH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se (_), allora (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "È ben noto che le prime civiltà Maya predissero l'avvento di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho sempre pensato che sarei potuto diventare qualunque cosa nella vita... Così sono diventato (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_).... Ridicolo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per forzare la serratura utilizza (_). Se non ci riesci prova con (_).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Amaro Monte Negro, Sapore di (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In futuro, le nuove guerre verranno combattute con (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come riesco a compensare il per mio piccolo pene?  (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_)! Bitch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Say my name... (_). You're goddamn right!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ieri abbiamo banchettato tutta la notte con (_) e (_).",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Il collo di Maurizio Costanzo.",
+    "Un maestoso candelabro ebraico.",
+    "ASPETTAH! ASPETTAH!.",
+    "Arruolarsi volontariamente nell'ISIS.",
+    "Un laborioso cinese.",
+    "Un Mario sott'olio.",
+    "La lebbra.",
+    "KKK.",
+    "Carlo Conti.",
+    "Il funerale dei Casamonica.",
+    "Degli orfani che ti scaldano il cuore.",
+    "Placenta in decomposizione.",
+    "Un ciccione che si munge in solitaria.",
+    "Un peto.",
+    "Le uova... Le uova...",
+    "Homer Simpson.",
+    "Il male.",
+    "Usare i baffi di un parente per pitturare casa.",
+    "Gigi D'Alessio.",
+    "Maurizio Costanzo che si spara un segone a du mani sulla pelata di Giancarlo Magalli.",
+    "Capire l'utilità di Riff in Dragon Ball.",
+    "Bear Grylls che si fa un clistere.",
+    "Un esercito di castori assatanati in cerca di un buco anale in cui insediarsi.",
+    "La vita.",
+    "Andrea Diprè.",
+    "I genitori morti.",
+    "Aiutare Goku a salvare la terra.",
+    "Dario Moccia.",
+    "Farenz.",
+    "I vichinghi.",
+    "Una sboccata ma elegante signora di campagna.",
+    "La mamma di Stifler.",
+    "Essere mangiati vivi da Pippo Baudo mentre si presta ad una rigorosa ciucciata di testicoli.",
+    "Dar luce all'anticristo.",
+    "Le mirabolanti avventure sessuali di Gabriele D'Annunzio.",
+    "L' organo sessuale malmesso di un vecchio giapponese.",
+    "Justin Bieber.",
+    "Un vecchi ortolano analfabeta.",
+    "Tinky Winky che accetta pagamenti in natura.",
+    "Rimanere perplessi osservando due nani che si calano da un elicottero mentre cagano in un secchio.,Michele Misseri.",
+    "Gli Umpa-Lumpa.",
+    "Giuseppe Simone.",
+    "Un maiale sellato.",
+    "Vladimir Luxuria.",
+    "Paolo Brosio.",
+    "Il panino della vittoria.",
+    "Bambini idrofobi.",
+    "Prepuzi maleodoranti.",
+    "Dio.",
+    "Demonio.",
+    "La faccia plasticosa di Berlusconi.",
+    "JOOOOOHN CENA *THEME*.",
+    "Un nero Giappo-Cinese biondo armate di cannoni a fusione termo-capezzolare che si accinge a conquistare il Sudan in solo.",
+    "Giuseppe simone che balla su un tavolo mentre Andrea Diprè lo guarda eccitato.",
+    "Avvertire l'aura di Freezer.",
+    "Avere un'erezione cosi' potente da trapassare l'intera trachea di una giraffa.",
+    "Sono Giapponese...",
+    "Nani armati di ascia.",
+    "Vincere una partita a lol 11/50.",
+    "Sono stato castrato.",
+    "Ugo Foscolo.",
+    "OH MIO DIO È GODZILLAAAAAAAAAAAAA!!!!!.",
+    "Fare un peto talmente forte da scatenare un terremoto di grado 9.1 della scala Mercalli.",
+    "Dante Alighieri.",
+    "La lebbra.",
+    "Un anziano giapponese pensieroso.",
+    "Premere le fontanelle di un neonato per trasformarlo in un posacenere.",
+    "Ebrei.",
+    "L'uomo puma.",
+    "La mozzarella smegmosa sulle labbra di Rosario Muniz.",
+    "Peter Griffin.",
+    "Un marocchino che ti importuna per venderti delle rose.",
+    "Negri.",
+    "Harry Potter che utilizza la SUA bacchetta magica.",
+    "Vladimir Putin.",
+    "Uno spermatozoo.",
+    "Un feto.",
+    "Ippopotami che mangiano un happy hippo.",
+    "Stalin.",
+    "Yotobi.",
+    "Un ubriaco russo che si tromba un nano da giardino.",
+    "Montare la propria ragazza come un mobile dell'IKEA.",
+    "Un uomo provvidente che usa il casco prima di iniziare un coito.",
+    "Una moschea piena di terroristi.",
+    "Spongebob.",
+    "Sesso a sorpresa.",
+    "L'11 settembre.",
+    "Joker.",
+    "Richard Benson.",
+    "Convincere Albus Silente a fare coming out.",
+    "Combustione umana spontanea.",
+    "Gli instancabili lavoratori messicani.",
+    "Un neonato che sta per essere circonciso.",
+    "La prostata di Maurizio Costanzo.",
+    "Hodor.",
+    "Ebreo.",
+    "Infilare un cactus nell'ano di Germano Mosconi e osservare la sua reazione.",
+    "Giancarlo Magalli.",
+    "Batman.",
+    "Tagliare i capelli a Povia.",
+    "Un santo zoppo.",
+    "I FANTAGENITORI!!!!.",
+    "HowToBasic.",
+    "Castori sessualmente attivi.",
+    "Un panzer.",
+    "Video di bubboni esplosivi su Youtube.",
+    "Darth Vader.",
+    "FUS RO DAH!!! *Skyrim Theme*.",
+    "Cavalcare verso il tramonto.",
+    "ALLAH UH AKBAR!!! *BOOOOOOM*.",
+    "Scoprire se Vladimir Luxuria ha ancora i testicoli.",
+    "Il tuo vicino che custodisce gelosamente roba Loli illegale.",
+    "Un nero che incula un nano e aspettarsi una morte per impalamento.",
+    "Valanghe di cremina crea popoli.",
+    "Uno stupro ben riuscito.",
+    "KAMEHAMEHAAAA!!!.",
+    "Penetrare una capra fino alle palle.",
+    "Torsione testicolare.",
+    "Un anglosassone dai denti storti.",
+    "Gandalf e Frodo che lo fanno appassionatamente mentre Gimli guarda interessato.",
+    "Una borsa di falli magici allungabili.",
+    "Sputare nel bicchiere prima di bere.",
+    "Maurizio Merluzzo.",
+    "Eiaculare all'interno di un flacone e spacciarlo per sciampo miracoloso.",
+    "Un enigmatica canzone di Fabri Fibra.",
+    "Capezzoli duri come il diamante.",
+    "LA MAFIA... LA MAFIA!.",
+    "Il topetignao.",
+    "Il popolo della libertà.",
+    "Un drago che invece di sputare fuoco, sputa capezzoli.",
+    "Una 2000.",
+    "Vinoh!.",
+    "I nani, i gobelini, i cobboldi, gli elfi, gli eoni, la canfora, il fico sacro, la betulla... Le ossa dei morti che se lanciano contro er nemico!.",
+    "Una balena spiaggiata in decomposizione.",
+    "DO IT! JUST DO IT!.",
+    "Smallville.",
+    "L'agenda degli omosessuali.",
+    "Pasquale.",
+    "Salvini.",
+    "Un peto talmente radioattivo da far scroffolare sotto terra Obama e tutti i negri africani assieme.",
+    "La  bavuzza biancastra di Rosario Muniz.",
+    "Chuck Norris.",
+    "Il prepuzio maleodorante di Richard Benson.",
+    "Una eiaculazione precoce.",
+    "Mangiare un gelato grondante di cioccolata sulle palle pelose di Emilio Fede.",
+    "La nonna.",
+    "Venire talmente forte da far esplodere la testa della tua ragazza.",
+    "Sebo.",
+    "Giacomo Leopardi.",
+    "Un paradosso temporale capace di portare indietro il tempo.",
+    "Il terzo capezzolo.",
+    "Preservare le forme di vita presenti sulla schiena di Rosario Muniz.",
+    "Un anziano sessualmente attivo.",
+    "Favij.",
+    "Cambiare il proprio nome in Ermenegildo Tamberrini.",
+    "Orifizi.",
+    "L'aurora boreale.",
+    "Una prostituta di alto borgo.",
+    "GIANCARLOOOOOOOOOO!!!!!.",
+    "Saltare sulla pancia flaccida di un ciccione credendo di stare sulle sabbie mobili.",
+    "Parliamo di VG.",
+    "Il barbone mistico.",
+    "Un cane fedele.",
+    "Invadere la Polonia.",
+    "Fare l'elicottero di fronte a tua nonna.",
+    "La morte.",
+    "Cascare da un dirupo.",
+    "Cercare il buco di entrata a luce spenta e scoprire con sorpresa che si tratta dell'orecchio del proprio partner.",
+    "La rosea e delicata vagina di Poppy.",
+    "Un tanfo talmente cancerogeno da far resuscitare Hitler mentre si appresta alla conquista della Polonia.",
+    "Uno stronzo grande quanto l'oceano pacifico.",
+    "Un nero che spara raggi anti-materia dal pene.",
+    "Infilare il pene in una cassetta delle lettere.",
+    "I nazisti.",
+    "Un secchio letteralmente pieno di sperma.",
+    "Un porno tentacolare asiatico.",
+    "Sperma.",
+    "Beccare tua figlia di 7 anni che esplora con la bocca gli oggetti sessuali di tua moglie.",
+    "Resuscitare Crilin con le sfere del drago.",
+    "Un prete pedofilo con un' attrazione particolare per i piedi inzaccherati di svariate merde dei bambini africani.",
+    "AIDS.",
+    "Mangiare da dio e cacare l'opera del diavolo.",
+    "Un coglione di nome e di fatto.",
+    "Lesbo tra cavalli.",
+    "Hitler.",
+    "Quando ti prende il nazismo e sferri con rude violenza il tuo cappellame nell'occhio di quella bimba d'innanzi a te che odora ancora di latte.",
+    "Fisting anale con Enrico Papi.",
+    "Le tette di Tyrion.",
+    "Un culo talmente peloso da ospitare Tarzan, Mulan e il Re Leone.",
+    "Un pene minuscolo.",
+    "Chiamare il proprio pube Ciubecca e aspettarsi il suo sonoro verso.",
+    "Scorreggina vaginale durante l'amplesso.",
+    "Cinture fatte con i capezzoli di ebrei.",
+    "Trattenere la cacca per ore per poi correre in bagno e pisciare merda dal culo.",
+    "Un ristorante giapponese con una brutta reputazione.",
+    "Nascondere i genitali malati per fottersi ferocemente la condomina del terzo piano.",
+    "Le tette sudate di una buzzona al supermercato,.",
+    "Pedobear.",
+    "Trapanare la mia ragazza con un ucciello rotante neanche fosse un Black et Decker.",
+    "Un preservativo XXXL usato.",
+    "Un negro.",
+    "Il cazzo vaporoso di un Nazgul.",
+    "Cacare una pila di merda da far invidia a Stonehenge.",
+    "Immaginare il cadavere in putrefazione di Sarah Scazzi da mesi nel pozzo.",
+    "La mia vagina.",
+    "Andare a cacare a riva di mare.",
+    "Tosare la schiena di Rosario Munix mentre continua a ripetere \"ciò la fica nel culo\".",
+    "Cercare di mascherare i rumori prodotti dalla masturbazione con sonori colpi di tosse e far credere ai tuoi di avere la broncopolmonite.",
+    "Immaginare Gandalf mentre si strofina un minipimer nel buco del pene.",
+    "Quella tentazione che ti pervade osservando il tuo cane, di infilargli con immane violenza il cazzo giù per la trachea.",
+    "Una mano con un pene al posto del pollice.",
+    "Mecha squali volanti guidati da nazisti zombie che distruggono aerei con la forza del pensiero.",
+    "Quel momento in cui un gatto ti si struscia sulla gamba e ti vengono in mente gli hentai e ci fai un pensierino.",
+    "Un mix letale di piscio di gatto, di cane e di altre 200 bestie non meglio identificate.",
+    "Essere stuprati talmente tante volte da sviluppare  un grave cancro al culo.",
+    "Un ceffone talmente carico di nazismo da far smolecolare.",
+    "Fare la svastica con il pene.",
+    "Il pene di Darth Vader.",
+    "Nutrire tuo figlio con il succo del tuo corposo e succulento cazzo.",
+    "Abbeverarsi dalla sacra fonte dello sperma , deglutendo violentemente dalla possente e luccicante cappella di Gianni Morandi.",
+    "Farsi uccidere da un negro a botte di pizza sulla nuca.",
+    "Sparare con un fucile in aria mentre si è dentro fino alle palle in un cinghiale che stridisce.",
+    "Merda... Merda a palate.",
+    "Papa Ratzinger che gioca con una Kobra.",
+    "Smegma.",
+    "Un capezzolo con una faccia vagamente assomigliante a SIlvester Stallone.",
+    "Il V angelo di Evangelion che perfora  a botte di cazzo gemmato il deretano di Taric.",
+    "Testare con mano le proprietà curative del prepuzio di Carlo Conti.",
+    "Un pedofilo feticista in un centro ricreativo per bambini.",
+    "Usare come dildo un lampione.",
+    "Mariangela Fantozzi che cerca un approccio sessuale con te.",
+    "Cagare facendo esplodere un ascesso nella cavità anale,  guardando perplessi il liquame misto merda e pus che cola viscosamente dal culo.",
+    "Le mie tette.",
+    "Sparare ragnatele dal pene.",
+    "Un toro che durante la corrida utilizza al posto delle corna il suo pene eretto.",
+    "HIV.",
+    "Un pene prensile.",
+    "Un prete che capisce i pedofili ma non gli omosessuali.",
+    "L'occhio di Sauron con la congiuntivite.",
+    "Essere talmente incazzati che se cambi stanza potresti invadere la Polonia.",
+    "Un uomo che sta per suonare un trombone pieno di sperma.",
+    "Utilizzare il pene come un joystick da cabinato.",
+    "Il biondo pube di Ezreal.",
+    "Non venire da cosi' tanto tempo, da riempire i serbatoi internazionali della Parmalat.",
+    "Eccitare sessualmente Taric infilandosi palline anali gemmate su per il culo.",
+    "Maria De Filippi che ha il durello osservando Maurizio Costanzo mentre si accinge ad allargare la sua cavità anale con due dita.",
+    "Castrare un bue mentre ti guarda con occhi languidi.",
+    "UN CAZZO GRANDE QUANTO UNO STOCCAFISSO!.",
+    "Capire di essere fatto quando inizi a vedere uccelli-squali volanti con piercing capezzolari e frustini sadomaso.",
+    "Leccare il tarzanello di Master Yi.",
+    "Bambini napoletani che a Capodanno sparano con un kalashnikov la casa di una grottesca vecchietta.",
+    "Le anguille in culo.",
+    "Un pene bagnato da una sostanza non meglio identificata.",
+    "Rianimare un morto a forza di inculate atomiche.",
+    "Pedonecrozoofilia.",
+    "Fare il mosto con la merda e spacciarlo per vino economico in cartone.",
+    "Una cacata talmente fotonica da essere più veloce del suono.",
+    "Una prostata distrutta dal cazzo di un orco negro in preda a una crisi asmatica.",
+    "Un pene curvilineo vagamente somigliante ad un'anguilla.",
+    "Un pappagallo estremista islamico che diffonde la parola del profeta Maometto."
+  ],
+  "pack": {
+    "id": "BBYSY",
+    "name": "Cards Against Rationality [ITA] 1.2"
+  },
+  "quantity": {
+    "black": 114,
+    "white": 260,
+    "total": 374
+  },
+  "dateStoredMs": 1589489433951
+}

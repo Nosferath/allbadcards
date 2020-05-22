@@ -1,0 +1,770 @@
+{
+  "black": [
+    {
+      "content": "So my kid is playing with _. What do you think I should do about it?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you give a mouse a cookie, he's going to ask to/for _. That escalated quickly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I watched _ instead of _. I should be _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "An aborted fetus is/has _. Now _ makes me feel empty inside.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is in the kitchen sink. In the oven. Upstairs in the bedroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This baby is/has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha! Sleep is for _. I've better things to do, like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cocks are like _. You shouldn't use _. If you do, you'll come to regret it.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where's _ going with that _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rabbit pellets look like Cocoa Puffs®. _ look(s) like _. Don't eat the 'Cocoa Puffs®', kids.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It all began with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Russian communist prefers the challenge of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not sure what gender _ is anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is a discard. Put down 3 cards you don't want. _ _ _. Judge the most useless.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Your cat is/has _. It hisses every time I try to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is a discard. Put down 2 cards you don't want.  _ _. Judge the most useless.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ and _? Let's not and say we did.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Indiana Jones finds _ and promptly wants _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quick, distract them! Hide the evidence! I'll be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It has been a terrible, horrible, no good, very bad day. Why? _. That's why.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The stroller was full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love to torture _ in my spare time. I have a lot of spare time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We taxidermied Grandma. She has ball joints so we can pose her. She's _ this week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hear voices. God wants me to _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wish I was devouring _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to cry while  _ but I'm _ now.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My Ex gave me _ for my birthday. That would be why she's missing now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The infant was found hacked to bits. _ was found to be responsible...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm still a virgin because (of) _ (and) _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Grandpa has been _ in his favorite chair for three days. We can't bear to move him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was born (a) _. It went downhill from there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, the condoms are full of _. # _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dead baby bunnies. Blood just everywhere. # _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is _ while/with _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Tell me about how you _ before you _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My goal for this year is (to) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was robbing this house. I found _. I no longer hit private residences.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nine months later, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We added _ to our leftovers to spice them up.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Chewy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I believe _ is _ , so I'll be _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ will do anything for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This kid is/has _. They should be _ and/or _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I have  _ in the garage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can fit ten dicks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't unsee my grandmother _! My world crumbles around me...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you believe me if I told you I caught _  and _  _?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I had _ for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First you start  _. Then you try _. You'll get _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ and _ don't mix. Try _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Please start _ before you lick _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Accidental _. Joy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used my last moments of freedom  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would spray _ with _ in a heartbeat.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is a discard. Put down a card you don't want. _. Judge the most useless.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you are _ , don't forget about _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Things are a lot different around here since _ moved in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello _ , I like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dracula decided that _ was just as good as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I saw _ in the Taco Bell™ bathroom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barney the Purple Dinosaur finds joy in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twilight would be better if Bella was OK with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll tell you the truth. I own _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kidnapping _ was a bad idea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flesh eating bacteria and _ are very much alike if you really think about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The doctor prescribed _. I'm no longer sure I care to live.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ingredients are _ and _. Good luck!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Release (the) _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got a new pet! Say \"hello\" to _ , my new _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't worry about _. Move along, nothing to see here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Good morning, class! Today we are learning about _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once Upon a Time, there was _. Then _ happened.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ring a ding ding, _. # _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Can't sleep, _ will eat me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't even ask how I got _ pregnant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am terrified of _. I can't remember why, but I'm just fine with that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can taste _. It's just like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lately, I've been getting turned on by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _ , you are _. Why is she _?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A gold plated turd is still a turd. _ is a case in point.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well damn, I never thought I'd see _ and _ _  just outside the porta-potty.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I pissed off the Norse God Loki  and now my life is a living hell. Today, it was _ and _. Worst part is, I am now also immortal. #FML",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Her pussy tastes like _. I'm going to _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Shove _ up my ass and call me Sally.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. #WorstSexEver.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just found porn of _ and _. Rule 34, I guess.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We fuck _ while _ and _ are present.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My dick is/has _. It smells like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The CEO is _ while masturbating to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This asshole is/has _! Why is it/he/she _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Shit for brains is/wants to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gets off by fucking _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fucking _ was easy. _ , on the other hand, not so much.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I gave my asshole neighbor's dog _ laced with _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "My brother.",
+    "A live nucular warhead.",
+    "My cat.",
+    "A rooster.",
+    "Late term abortions.",
+    "A box of fire ants.",
+    "Chaffed nipples.",
+    "Wearing a trash bag.",
+    "Slowly winking at little girls.",
+    "A litter of newborn kittens.",
+    "A live shell.",
+    "Rim jobs.",
+    "Revealing him or herself in public.",
+    "Larva.",
+    "Funding the terrorists.",
+    "Phorid flies.",
+    "Fight Club.",
+    "A hot sauce enema.",
+    "Sarin gas.",
+    "Assorted building materials.",
+    "Burning at the stake.",
+    "Pig's blood.",
+    "A noose.",
+    "A lobster.",
+    "Dripping.",
+    "Cysts.",
+    "Feeling like genital mutalation.",
+    "The Virgin Mary.",
+    "A juicer.",
+    "Dying alone.",
+    "Pounding it into the ground with a brick.",
+    "In solitary confinement.",
+    "All the little children in the world.",
+    "A caged nun.",
+    "Taxidermied relatives.",
+    "Vore.",
+    "A  chupacabra.",
+    "Osama Bin Laden.",
+    "The Antichrist.",
+    "Gonorrhea.",
+    "A goldfish.",
+    "Blood. Everywhere.",
+    "Farting during 69.",
+    "The Crazy Cat Lady.",
+    "Cucumbers.",
+    "Screaming.",
+    "Cottage cheese in the heat duct.",
+    "A rabid coyote.",
+    "My sister.",
+    "Hoarding.",
+    "Grandpa.",
+    "Cheese.",
+    "A perverted genie.",
+    "Bacon bits.",
+    "A butter knife.",
+    "Roadkill.",
+    "The Devil made me do it.",
+    "My grandfather.",
+    "A pistol with a single bullet.",
+    "Ingrown hair down there.",
+    "Living the high life.",
+    "Hookers.",
+    "Anthrax.",
+    "Failing my driver's test with flying colors.",
+    "Ebola.",
+    "A midget.",
+    "Basking in the chaos.",
+    "Hellspawn.",
+    "A two headed calf.",
+    "A whole box of laxatives.",
+    "Rotting.",
+    "The back half of a mouse.",
+    "Bubba Gump.",
+    "Bullet ants.",
+    "Daddy.",
+    "Angry yellow jackets.",
+    "Maggots under the skin.",
+    "In the back of a hearse.",
+    "A parasite that lives in the sinus cavity.",
+    "Walmart™.",
+    "Intestines full of tapeworms.",
+    "Herpes.",
+    "My aunt.",
+    "Teletubbies.",
+    "Puke.",
+    "A withering sack of necrotic flesh.",
+    "A worrisome empty casket.",
+    "Clippy the Paperclip.",
+    "Creepy iguanas.",
+    "My father.",
+    "A failed experiment.",
+    "Rectal prolapse.",
+    "Donald Trump's hair.",
+    "My cousin.",
+    "Peanut butter.",
+    "Jesus Christ.",
+    "Clots of menstrual blood.",
+    "Drowning.",
+    "Voracious dung beetles.",
+    "Locusts.",
+    "A hen house.",
+    "Genital rot.",
+    "Water balloons full of something unspeakable.",
+    "My dog.",
+    "Whispering.",
+    "Exlax.",
+    "Mommy.",
+    "Bubonic plague.",
+    "Fun for the whole family.",
+    "Cosplaying.",
+    "A spitting cobra.",
+    "Sleeping in a dumpster full of dirty diapers and euthanized puppies.",
+    "Clowns.",
+    "Love.",
+    "A starving pack of wolves.",
+    "Shooting him/herself.",
+    "Fluffy.",
+    "Killstreak.",
+    "Discovering superglue makes bad lube.",
+    "Stoning to death.",
+    "Herbert the Pervert.",
+    "Tar and feathers.",
+    "An anaconda.",
+    "A bag of cement.",
+    "Desecrating a corpse.",
+    "Supergluing his testicles to a horse.",
+    "Bubbles.",
+    "The produce section.",
+    "A burrito.",
+    "Prom night dumpster baby.",
+    "A yeast infection.",
+    "Barney the Purple Dinosaur.",
+    "Tadpoles.",
+    "Syphilis.",
+    "Surviving Mom's cooking.",
+    "Tub Girl.",
+    "Cthulhu.",
+    "Lard.",
+    "Committing vehicular manslaughter.  Extra points for strollers and wheelchairs.",
+    "Shattered glass.",
+    "Cannibalism.",
+    "Combustable suppositories.",
+    "Pork.",
+    "Poison.",
+    "Mauve nail polish.",
+    "Great Aunt Helga.",
+    "Friendly undead snakes.",
+    "Explosives/exploding.",
+    "Maggots.",
+    "Crossdressing.",
+    "A man sized sewer rat.",
+    "Licking the filthy toilet brush.",
+    "Prolapsed uterus.",
+    "A skunk.",
+    "A komodo dragon.",
+    "Used tampons. Everywhere.",
+    "Chairman Mao.",
+    "My grandmother.",
+    "A sheep.",
+    "Feeding on the corpses of the bloated dead.",
+    "A scorpion pit.",
+    "Bunnies.",
+    "Barbie®.",
+    "Bologna.",
+    "Sausage party.",
+    "A unidentifiable stain.",
+    "Pickles.",
+    "A squealing hog.",
+    "Mouth breather.",
+    "Testicular elephantitis.",
+    "Grumpy Cat disapproves.",
+    "Committing murder.",
+    "Chronic constipation.",
+    "Terrible breath.",
+    "A cactus.",
+    "Saké.",
+    "A bag of oranges.",
+    "Wasabi.",
+    "Tuberculosis.",
+    "The Destroyer of Worlds.",
+    "Crocodile Dundee.",
+    "Billy Bob.",
+    "Heroin.",
+    "Kittens.",
+    "Conjoined twins.",
+    "Dying in a fire.",
+    "Everything.",
+    "Eating a month old cheeseburger.",
+    "A corpse hanging from the rafters.",
+    "You can see the peanut butter jar in the X-ray.",
+    "Stepped on a dead mouse once. It exploded.",
+    "Zygote soup.",
+    "Going on a killing spree.",
+    "Habanaro  pepper suppositories.",
+    "Poisonous bullets.",
+    "Krokodil necrosis (dare you to image search it!).",
+    "A bag of dicks.",
+    "A herd of zebras.",
+    "The unborn.",
+    "A stallion.",
+    "Rednecks.",
+    "Sunshine and unicorn boners.",
+    "My mother.",
+    "My uncle.",
+    "Prayer beads.",
+    "A Lemon Party.",
+    "Scorpions.",
+    "A stained glass window.",
+    "Curing cancer.",
+    "Making a shank out of a crucifix.",
+    "A corn cob.",
+    "Stillborn babies.",
+    "A bleating goat.",
+    "Human giblets.",
+    "Choking.",
+    "A chicken.",
+    "Plague rats.",
+    "'Murica.",
+    "Eviscerating a turkey.",
+    "Oodles of noodles.",
+    "Panty raiding.",
+    "A scat fetish.",
+    "Fuck a duck.",
+    "Committing suicide.",
+    "Beating the crap out of your grandmother.",
+    "Nasty ass gas station bathroom.",
+    "Doing cocaine.",
+    "A mummified dildo made from an actual penis.",
+    "A bloody skull full of feces.",
+    "Weird porn from another dimension.",
+    "Masturbating furiously.",
+    "A fleshlight made from a still warm actual vagina.",
+    "One tit.",
+    "Anal leakage.",
+    "Eat shit and die.",
+    "Concentrated cat piss.",
+    "Unwashed, crusty assholes.",
+    "Fucking Grandma.",
+    "Itching powder everywhere.",
+    "The dead hooker stuffed in the matress.",
+    "A dissected penis.",
+    "Broken penis.",
+    "Cum. Everywhere.",
+    "A Catholic themed sex dungeon.",
+    "Putting out the fire with piss.",
+    "My dad's asshole.",
+    "Sudden, explosive diarrhea during sex.",
+    "Motherfuckers.",
+    "A slutty librarian.",
+    "Bitchzilla.",
+    "Piss splatters. Everywhere.",
+    "A handbasket full of shit.",
+    "Actual zombie porn. Rotting body parts and all.",
+    "Cock-a-doodle-doo.",
+    "Fuck.",
+    "A thousand rat orgy.",
+    "The Holocaust: 2.0.",
+    "A pussy covered in blue mold.",
+    "Dick fencing.",
+    "Dehydrated dog shit.",
+    "Goatse.",
+    "A punching bag.",
+    "A dragon's  slick, erect hemipenis.",
+    "Asparagus piss.",
+    "Fucking the urethra.",
+    "Watching Two Girls, One Cup.",
+    "Consentual sex.",
+    "A mircopenis.",
+    "Orphanage orgy.",
+    "A newborn's tight asshole.",
+    "Child pornography.",
+    "Fucking a severed head.",
+    "Watching dark net porn.",
+    "Fucking.",
+    "Stuffing her pussy with cheesey poofs.",
+    "Flinging poo at the passerbys.",
+    "Fucking the stoma (colostomy bag hole).",
+    "Eating a fresh turd.",
+    "Bobo.",
+    "My mom's pussy.",
+    "Sticking my dick in a blender.",
+    "Paedophilia.",
+    "King Shit of Turd Island.",
+    "Beastiality."
+  ],
+  "pack": {
+    "id": "4AX64",
+    "name": "Generally Fucked Up"
+  },
+  "quantity": {
+    "black": 94,
+    "white": 284,
+    "total": 378
+  },
+  "dateStoredMs": 1588985072986
+}

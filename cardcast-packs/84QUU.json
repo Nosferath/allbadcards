@@ -1,0 +1,149 @@
+{
+  "black": [
+    {
+      "content": "9 11 was caused by_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Evil morty is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ rick!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die potato_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "you are a piece of _ i can prove it",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "shut the  fuck up morty you_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ powers activate",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "did you eat my sandwich?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will build a wall it will_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WUBBA LUBBA DUB DUB_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "shut up ___",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "im not the nicest guy in the universe because im the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EVERYBODY DO THE _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desmond the moon_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I baked a pie for you.O boy what flavour?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SHOW ME WHAT YOU GOT?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "are u ever gonna run out of muffins?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "i need to ___ you morty",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The citadel of ricks is ___.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Kill them.",
+    "Turtles.",
+    "Lonely.",
+    "Bastard.",
+    "Shit.",
+    "Bitches.",
+    "PIE FLAVOUR.",
+    "Giraffe.",
+    "Noooooooooooo.",
+    "Penguin.",
+    "Smartest.",
+    "Dead to me.",
+    "Be the gayest.",
+    "Bear.",
+    "Morty.",
+    "Jerry.",
+    "Fucked up.",
+    "Bob ross.",
+    "Be the greatest.",
+    "Stupid.",
+    "Dog.",
+    "Trains.",
+    "WORM.",
+    "Summer.",
+    "FLOP.",
+    "Let mexicans in.",
+    "Lonely fucked up shit.",
+    "Fuck.",
+    "Allow terrorists.",
+    "Pickle.",
+    "No i work at the muffin factory.",
+    "Morgan freedman.",
+    "NO i am your sandwich."
+  ],
+  "pack": {
+    "id": "84QUU",
+    "name": "rick and morty"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 33,
+    "total": 53
+  },
+  "dateStoredMs": 1588882656135
+}

@@ -1,0 +1,175 @@
+{
+  "black": [
+    {
+      "content": "A naughty person, a wicked man, walks with _. Proverbs 6:12",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hatred stirres up strife, but _ coveres all sins. Proverbs 10:12",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a dog returns to its _ so does a fool return to his _. Proverbs 26:11",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The simple inherit _, but the prudent are crowned with knowledge. Proverbs 14:18",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And I saw _ come down from heaven, having the key to _ and _ in his hand. Revelation 20:1",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ are abomination to the Lord, but those who are truthful delight him. Proverbs 12:22",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will multiply your days and add years to your life. Proverbs 9:11",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They slew about ten thousand of Moab's men, all lusty men of _; and not a single man escaped. Judges 3:29",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He makes me lie down in _. Psalm 23:2",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ comes shame comes with it, but _ comes with humility. Proverbs 11:2",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Light in the eyes rejoices the heart, and _ makes the bones fat. Proverbs 15:30",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Humility and the fear of the Lord bring riches, honor, and _. Proverbs 22:4",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be not desirous of a man's _, for they are deceitful meat. Proverbs 23:3",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The rich rules over the poor, and the borrower is slave to _. Proverbs 22:7",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have perfumed my bed with myrrh, aloe, and _. Proverbs 7:17",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He that plans to do evil shall be called _. Proverbs 24:8",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come, eat of my _, and drink the wine I have mixed. Proverbs 9:5",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fear of _ is the beginning of knowledge, but the fools despise _. Proverbs 1:7",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There is a way that seemes right to a man, but at the end is _. Proverbs 16:25",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hellfire and brimstone.",
+    "Helping those who help themselves.",
+    "All 10 commandments.",
+    "Sons of thunder.",
+    "Provoking a child to anger.",
+    "Using the Lord's name in vain.",
+    "Rottenness in his bones.",
+    "A lake of fire.",
+    "Feeding thousands with a few loaves and a few fish.",
+    "A chattering fool.",
+    "The ways of death.",
+    "Proverbs 31 wives.",
+    "Cleanliness next to godliness.",
+    "Sparing the rod and hating the child.",
+    "Once saved always saved.",
+    "A beast with 7 heads and 10 horns.",
+    "Overcoming evil with good.",
+    "Holier than thou.",
+    "Original sin.",
+    "Wicked men.",
+    "Predestination.",
+    "Tender mercies.",
+    "Wine and strong drink.",
+    "A breastplate of righteousness.",
+    "A little sleep, a little slumber.",
+    "Coveting your neighbor's wife's idol.",
+    "Losing your dagger in a king's fat belly.",
+    "Promiscuous women.",
+    "Lust of the flesh.",
+    "Working in mysterious ways.",
+    "Song of Solomon - The Illustrated Kama Sutra Guide.",
+    "Lying lips.",
+    "Pride before destruction.",
+    "A sweet chariot swinging low.",
+    "Spiritual warfare.",
+    "Loving your neighbor as yourself.",
+    "Acts of the apostles.",
+    "The Law of Moses.",
+    "Speaking in tongues.",
+    "Feet of a bear.",
+    "A new covenant.",
+    "Gluttony.",
+    "Wisdom and knowledge.",
+    "The KJV - the one and only true and original Bible.",
+    "Teeth like little sheep.",
+    "4 horsemen of the apocalypse.",
+    "A deceitful heart.",
+    "The sinner's prayer.",
+    "This present darkness.",
+    "A camel stuck in the eye of a needle.",
+    "Bitterness like wormwood.",
+    "Red Letter editions.",
+    "The wages of sin.",
+    "Submitting to my husband.",
+    "Letting my people go.",
+    "Separated goats.",
+    "Pigs full of devils.",
+    "Loving my wife as Christ loves the church.",
+    "The NIV - Satan's own personal translation of the Bible.",
+    "7 deadly sins at the same time.",
+    "An abomination unto the Lord.",
+    "To the ends of the Earth.",
+    "King James Old English.",
+    "Wise counsel."
+  ],
+  "pack": {
+    "id": "XMVME",
+    "name": "The Bible Deck KJV Edition"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 64,
+    "total": 83
+  },
+  "dateStoredMs": 1588810875435
+}

@@ -1,0 +1,98 @@
+{
+  "black": [
+    {
+      "content": "The people of _ might be the cause of the _ event.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some conspiracy theories predicts that the leader of the Illuminati is an old smelly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The official U.S. poll have revealed that people borned under the sign of  _  is most likely to be into Furry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People that was born under the sign of _ is fond of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stereotypical _ are retards!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ enjoy _ near water.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Most killers are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientists found a correlation between the fall of society and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hate for _ is growing on social media.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 13th zodiac is revealed to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People who believes in Astrology are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gemini.",
+    "Scale.",
+    "Aries.",
+    "Crab.",
+    "Cancer.",
+    "Bull.",
+    "Ophiuchus.",
+    "Scorpio.",
+    "Aquarius.",
+    "Centuar.",
+    "Fishes.",
+    "Pisces.",
+    "Sea Goat.",
+    "Water Bearer.",
+    "Virgin.",
+    "Retards.",
+    "Capricorn.",
+    "Leo.",
+    "Libra.",
+    "Scorpion.",
+    "Lion.",
+    "Ram.",
+    "Sagittarius.",
+    "9/11.",
+    "Virgo.",
+    "Taurus.",
+    "Twin."
+  ],
+  "pack": {
+    "id": "TBBYX",
+    "name": "Card Against Astrology"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 27,
+    "total": 38
+  },
+  "dateStoredMs": 1589069380831
+}

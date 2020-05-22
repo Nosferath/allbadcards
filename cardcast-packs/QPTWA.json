@@ -1,0 +1,83 @@
+{
+  "black": [
+    {
+      "content": "Only _ can judge me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God hates _ more than _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Resent studies show that _ is good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "90% of the Africas population has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I belive in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you squint real hard you cant tell the difference between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pol Pot killed a lot of _  because why not?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was created by the devil!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think  _ and _ is the same thing...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I love www.Pornhub.com/ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fags are _ as fuck.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Incest.",
+    "Racist.",
+    "Shiting yourself for fun.",
+    "Poverty.",
+    "Vegans.",
+    "A lot of STDs.",
+    "Being really dumb.",
+    "Natzis.",
+    "Gay people.",
+    "The third Reich.",
+    "Cis-kings.",
+    "Feminazis."
+  ],
+  "pack": {
+    "id": "QPTWA",
+    "name": "over the line"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 12,
+    "total": 23
+  },
+  "dateStoredMs": 1588635770616
+}

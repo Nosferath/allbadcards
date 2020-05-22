@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "Krieger's new invention is an automatic _ robot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week, Ray gets paralyzed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Season 8 will be titled Archer: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Highway to the _ Zone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's all Archer's fault!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "N8ZWN",
+    "name": "Archer"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 0,
+    "total": 5
+  },
+  "dateStoredMs": 1588529252019
+}

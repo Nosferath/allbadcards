@@ -1,0 +1,324 @@
+{
+  "black": [
+    {
+      "content": "Nine companions, so be it. You shall be the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, Gandalf. It was my name, Gandalf the Grey, now I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're taking the _ to _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tolkien actually based _ on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "But the only brew for the brave and true, comes from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ shall sound in the Deep, one last time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All our hopes lie now with two little hobbits somewhere _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Theoden King stands alone.\" \"Not alone, _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Never thought I'd die fighting side-by-side with with an elf.\" \"How about _?\" \"Aye, that I could do\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would have followed you. My brother. My captain. My _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What Gandalf, see what?\" _ \"Well, that isn't so bad\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where there's life, there's hope, and need of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You have my sword.\" \"And my bow.\" \"And my _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tell me about Frodo and the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "History became legend, legend became myth, and for two and a half thousand years _ passed out of all knowledge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gandalf's masterplan to get the ring to Mordor? 1. _ 2. _ 3. _ = success!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A time may come, when we _ , but it is not this day! This day we _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's dangerous business Mr. Frodo, going _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forty-two? That's not bad for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before Viggo Mortenson, they were giving the part of Aragorn to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Gandalf's weapon of choice? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Sauron would've let _ take care of _ , he would have won the war.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A staff in the hand of a wizard may be more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Many that live deserve _. Can you give it to them?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going on (a) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let this be the hour when we draw _ together.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel thin, sort of stretched... like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last march of the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will be dead before I see the ring in the hands of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tom Bombadil is a merry fellow, _ his jacket is and his boots are _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it secret?! Is it _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would cut off your _ Dwarf, if it stood a little higher from the ground.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord Aragorn? Where is he? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PO-TA-TOES! Boil them, smash them, stick them in (a) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Ents are going to (a) _. It is likely we go to our doom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ride now! Ride! Ride to _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is how Elves were born.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would have gone with you to the end, into the very fires of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For I am Saruman the wise, Saruman Ring Maker, Saruman of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One does not simply walk into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you remember the taste of _ Mr. Frodo?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wizard is never late, Frodo Baggins, nor is he early. He arrives precisely when he _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That is no _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Lord of the Rings is primarily about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You shall not _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ for Helm's Deep is over, the _ for Middle-Earth has begun.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The eagles are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gondor has no _ , Gondor needs no _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are we holding onto, Sam? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The beacons of Minas Tirith! The beacons are lit! Gondor calls for _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tom bom, jolly Tom, Tom Bombadillo!.",
+    "Aragorn.",
+    "Shadowfax showing you the meaning of haste.",
+    "Eowyn getting utterly rejected by Aragorn.",
+    "Putting on a white bedsheet, holding a stick and yelling \"You shall not pass!\".",
+    "I am no man.",
+    "Hobbits.",
+    "Crying your eyes out because you'e an orc who just watched Lord of the Rings.",
+    "Gandalf and Saruman fighting with their staffs.",
+    "One ring to rule them all.",
+    "I will take it! I will take the ring to Mordor.",
+    "It's some kind of Elvish, I can't read it.",
+    "Forth Eorlingas!.",
+    "Erupting harder than Mt. Doom.",
+    "The contents of Gollum's pockets.",
+    "Beheading an Uruk-Hai like a boss.",
+    "One book adapted into three movies.",
+    "Fool of a Took!.",
+    "The Prancing Prony.",
+    "Peter Jackson's fanfiction.",
+    "Servant of the Secret Fire, wielder of the Flame of Anor!.",
+    "DEATH!!!.",
+    "My precious!.",
+    "Stupid fat hobbit.",
+    "Fifty Shades of Gandalf the Grey.",
+    "Pointy-eared Elvish princeling.",
+    "Legolas blowing kisses instead of shooting arrows.",
+    "How hot Orlando Bloom is as Legolas.",
+    "The staffs of the five wizards.",
+    "Balrog in a need of a hug.",
+    "And they call it a mine... A MINE!!.",
+    "Fly you fools.",
+    "Shirtless Gandalf on a white horse.",
+    "The Green Dragon.",
+    "Sauron's eye.",
+    "Elves at Helm's Deep.",
+    "They're taking the hobbits to Isengard!.",
+    "A red sun rises, blood has been spilled this night.",
+    "Aragorn's mighty sword.",
+    "Radagast the Brown in a pork pie hat.",
+    "Gandalf's big, white, throbbing staff.",
+    "House party at Gollum's.",
+    "Has eagles on speed dial, makes everyone walk into Mordor.",
+    "Taking Shelob to the prom.",
+    "Ride to ruins and the world's ending!.",
+    "Fat Bombur, who was fat.",
+    "Yolo Swaggins and the Fellowship of the Bling.",
+    "Horn of Helm Hammerhand.",
+    "Tripping over mushrooms while finding a ring and going on a very dangerous trip to toss it in a volcano just to wake up from a bed surrounded by your friends.",
+    "PO-TA-TOES!.",
+    "Bridge of Khazad-Dum.",
+    "Liv Tyler's tight, Elvish ass.",
+    "Pippin fucking everything up.",
+    "Smoking weed and screaming \"Burarum!\".",
+    "More fucked up than the idea of Merry and Pippin meeting Fili and Kili.",
+    "It doesn't make me a pedophile for waving my stick around little boys, It makes me a fucking wizard.",
+    "Gandalf, you ignorant slut.",
+    "Twitching because he's got Gimli's axe embedded in his nervous system!."
+  ],
+  "pack": {
+    "id": "c8zaf",
+    "name": "One Deck to rule them all."
+  },
+  "quantity": {
+    "black": 50,
+    "white": 58,
+    "total": 108
+  },
+  "dateStoredMs": 1588435585677
+}

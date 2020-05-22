@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "If I did have a tumor, I'd name it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Richard Chesler: Is that your _?  Narrator: Some of it, yeah.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reject the basic assumptions of civilization, especially the importance of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sticking _ up your butt does not make you _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am Jack's complete lack of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can swallow a pint of _ before you get sick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're gonna sell _ back to them as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am Jack's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fight Club was the beginning, now it's moved out of the basement, it's called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Motherfucker! You hit me in the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck damnation, man! Fuck _! We are God's unwanted children? So be it!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "656EJ",
+    "name": "Fight Club"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 0,
+    "total": 11
+  },
+  "dateStoredMs": 1589066866226
+}

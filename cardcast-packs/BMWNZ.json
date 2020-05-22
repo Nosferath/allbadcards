@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "What is Tiger King's Carole Baskin up to these days _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Tiger King's Joe Exotic up to these days _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Carole Baskin really kill her husband _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\"Tigers, Lions, Bears\".",
+    "\"That bitch Carole Baskin's\".",
+    "\"1 armed lesbian\".",
+    "\"Pizza made from expired Walmart meat\".",
+    "\"A gay redneck throuple\".",
+    "\"Joe Exotic for President 2020\".",
+    "\"Crazy Cat Lady\".",
+    "\"Country songs about tigers\"."
+  ],
+  "pack": {
+    "id": "bmwnz",
+    "name": "Tiger King"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 8,
+    "total": 11
+  },
+  "dateStoredMs": 1589068829790
+}

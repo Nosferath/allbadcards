@@ -1,0 +1,170 @@
+{
+  "black": [
+    {
+      "content": "Word on the street is that Shamy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "43 means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mary Cooper raised no _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Will happen on anything can happen thursday.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come on, dude, bros before _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rock, Paper,Sissors  _ , _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dude, the fourth _ movie was just fine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's amazing what _ does to guilt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well I needed something bigger than _ Now didn't I",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You look positively orange with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two words dude _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Our Children will be both _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You slipped and fell into a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only Sheldon can Jibber Jabber about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I Informed you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't come here to _ , I came here to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sheldon Cooper's Council of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will happen before Shaldon and amy Have sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sheldon Cooper does not _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Knock _  Knock _ Knock _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In What world is a _ a_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ will blunt instrument that will be the focus of Leonards murder trial.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "DID SOMEBODY SAY _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stuart.",
+    "Froot Loops.",
+    "Selective Mutism.",
+    "Mystic Warlords of Ka'a.",
+    "Aquaman Sucks.",
+    "No Goofy no.",
+    "Penis First?.",
+    "Holy Crap on a Cracker.",
+    "String Theory.",
+    "HULK SAD.",
+    "Batman.",
+    "Keeping track of you bodily fluid input and output.",
+    "Penny.",
+    "Mr. Wolowitz.",
+    "Coutis.",
+    "Alpha nerd.",
+    "Enchanted bunny.",
+    "Frisbee sized worm hole.",
+    "Spock.",
+    "Klingon.",
+    "Shut Your ass.",
+    "Zack.",
+    "Shamy.",
+    "Jibber Jabber.",
+    "Barwee.",
+    "The Green Lanten Movie.",
+    "Bazinga!.",
+    "WHEEEETTTTONNNN!.",
+    "Joss whedon.",
+    "The Avengers.",
+    "Engine waning light.",
+    "Firefly.",
+    "Stan Lee.",
+    "Kripke."
+  ],
+  "pack": {
+    "id": "NEBMD",
+    "name": "The Big Bang Theory"
+  },
+  "quantity": {
+    "black": 24,
+    "white": 34,
+    "total": 58
+  },
+  "dateStoredMs": 1589066866186
+}

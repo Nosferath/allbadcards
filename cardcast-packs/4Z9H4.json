@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Who/what is gonna have a bad time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sans is in love with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "4Z9H4",
+    "name": "Undertale Deck"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588648321635
+}

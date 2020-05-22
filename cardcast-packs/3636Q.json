@@ -1,0 +1,301 @@
+{
+  "black": [
+    {
+      "content": "O wiele więcej sensu ma _ , niż _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Morał jest krótki i niektórym znany - jesli _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mówi się, że _ jest _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to podstawa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miota nim jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olać szkołe! _ jest lepsze!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ta impreza skończyłaby się dobrze gdyby nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naprawdę czuje, że żyję tylko wtedy, kiedy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - W ten sposób w Rosji możesz załatwić wszystko.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dieta jest bez sensu, bo _ nic nie daje.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ostanio polubiłeś na Facebooku? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostani twitt  _ (kogoś) był na temat _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Powiedziałbym, że to była przyjemna randka, gdyby nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Według Amerykańskich Naukowców w ostatnim kręgu piekielnym znajdują się _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Słyszałaś, że  _ ma _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to całkiem miłe stworzenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest tak samo Polski jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alkohol nie rozwiązuje problemów, ale _ też nie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bez _ świat byłby nudny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to święto ruchome.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nienawidzę ludzi, bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy chce rządzić światem! No może poza _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tłumacznie Kart Przeciwko Ludzkości jest jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To, że pije alkohol przed 10 rano, nie znaczy, że jestem alkoholikiem, tylko, że jestem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mógłby stać się moim dobrym przyjacielem, ale _ to nie najlepszy sposób na rozpoczęcie znajomości.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ podszedł do więzienia za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nastepnym władcą Wielkiej Brytanii powinien zostać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio śniłem o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię darmowe próbki, bo są jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czorny jak _ , czerwony jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Władca Pierścieni: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Witaj w moim świecie - w świecie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najabrdziej lubię _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cały wysiłek na nic! A to wszystko przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Natura jest przepełniona _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest aktualnie najpopuraniejszy sportem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maluję _ na ścianie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Igrzyska Śmierci: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest chyba tylko dla Emo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bohaterem następnego Grand Theft Auto bedzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zacząłem szukać nowych sposobów, kiedy okazało się, że _ już mi nie wystarcza.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Rudy Irlandczyk.",
+    "Wampir.",
+    "Legolas.",
+    "Seks z księdzem.",
+    "Wojsko.",
+    "Skapiec.",
+    "Łapówka.",
+    "Oszust.",
+    "Nie wiesz co sie dzieje, ale i tak wiesz co robić.",
+    "Chuj Ci w Dupę.",
+    "Ojciec Rydzyk.",
+    "Parkour.",
+    "Kot.",
+    "Tchórzliwy Francuz.",
+    "Ruchanie w usta.",
+    "ZA. DUŻO. KRWI.",
+    "Bracia Mroczkowie.",
+    "Księżyc w pełni.",
+    "Lenistwo.",
+    "Zdrajca.",
+    "Maraton filomowy.",
+    "Dziwki.",
+    "Brutalny gwałt.",
+    "Heretyk.",
+    "Złamany miecz.",
+    "Aragorn.",
+    "Gromadka kochanek - każda z gromadką dzieci.",
+    "Facebook.",
+    "Ziemia.",
+    "Orgia z siostrami zakonnymi.",
+    "Rzucanie krasnoludem.",
+    "Głębokie Gardło.",
+    "Realista.",
+    "Dziewiąty Krąg Piekielny.",
+    "Tabletki Antykoncepcyjne.",
+    "Szatan.",
+    "Pies.",
+    "Zastąpienie drewnianych fajek przez e-papierosy.",
+    "Czołg.",
+    "AK-47.",
+    "Głupota.",
+    "Pesymista.",
+    "Seks na słomie.",
+    "Wisielec.",
+    "Gwałt na osiedziesięcioletniej staruszce.",
+    "Pijany szkot.",
+    "Google.",
+    "Dzieci z księdzem.",
+    "Gangsterski rap.",
+    "Teściowa.",
+    "BO MOGĘ.",
+    "Neil Armstrong.",
+    "Optymista.",
+    "Zima nadchodzi.",
+    "Wilkołak.",
+    "Leniwy Włoch.",
+    "Merry i Pippin.",
+    "Diabeł.",
+    "Złodziej.",
+    "Piekło.",
+    "Kapitan Ameryka.",
+    "Kobieta gwałci mężczyznę.",
+    "Woda.",
+    "Wrzód na dupie.",
+    "Miękki, czarny kutas.",
+    "Tomasz Jacyków.",
+    "Diabolo III.",
+    "Zwalczanie ognia ogniem.",
+    "Robienie loda.",
+    "Policja.",
+    "Seks z ministrantem.",
+    "Niewierny.",
+    "Seks niby z przodu ale w tyłek.",
+    "TO DARMOWE.",
+    "Teść.",
+    "Izaak.",
+    "Rozkawałkowany krawężnik.",
+    "Gruby i głupi Amerykanin.",
+    "Ogień.",
+    "Przekupny Żyd."
+  ],
+  "pack": {
+    "id": "3636Q",
+    "name": "Random from Internet (PL)"
+  },
+  "quantity": {
+    "black": 41,
+    "white": 80,
+    "total": 121
+  },
+  "dateStoredMs": 1588880951717
+}

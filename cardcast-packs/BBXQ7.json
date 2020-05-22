@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "Mother's idea of \"horizon broadening\" is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a short list isn't it Woodhouse? There's two things we don't let in here and what are they? _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Not only handsome, but also _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You think this is a game? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just wanted to show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh wait. I had something for this! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The thought of me dead gives you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always make Lana stir-fry on Friday. Guess what we call it. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just rest Ms. Archer we'll take care of _ for you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HOW!? How did I spend that much money! _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "YUUUUUP!.",
+    "SUPPRESSIVE FIRE!.",
+    "No. I think Jenga is a game.",
+    "Do you want ants!? Because that's how you get ants!.",
+    "Pam.",
+    "I'll rub sand in your dead little eyes. I also need to go and buy sand. I don't know if they grade it but ... coarse.",
+    "Dogs.",
+    "An erection.",
+    "That thing with the mayonnaise.",
+    "Stirling Archer. Code name: Duchess.",
+    "DANGER ZONE!.",
+    "Little Miss \"Hostile Work Invironment\".",
+    "Your Mother.",
+    "Jump up your own ass and die."
+  ],
+  "pack": {
+    "id": "BBXQ7",
+    "name": "Archer, Stirling Archer."
+  },
+  "quantity": {
+    "black": 10,
+    "white": 14,
+    "total": 24
+  },
+  "dateStoredMs": 1589035224045
+}

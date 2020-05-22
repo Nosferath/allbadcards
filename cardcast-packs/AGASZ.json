@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "Death to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You see, the jews want _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Israel.",
+    "The N-Word.",
+    "Terrorism."
+  ],
+  "pack": {
+    "id": "agasz",
+    "name": "Daiten's racism extravaganza"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 3,
+    "total": 5
+  },
+  "dateStoredMs": 1589179678942
+}

@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Tony Stark drinks to forget _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steve Rogers cries because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain America's new best friend is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bucky Barnes and Sam Wilson fight because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steve is still confused about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peggy Carter's last wish was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "HYDRA.",
+    "Tony Stark's drinking problem.",
+    "Daddy issues.",
+    "Natasha Romanoff.",
+    "Loki.",
+    "Steve Rogers.",
+    "Pepper Potts.",
+    "Falling from a train.",
+    "Peggy Carter.",
+    "S.H.I.E.L.D.",
+    "The Guardians of the Galaxy.",
+    "Tony Stark.",
+    "Thor's hammer.",
+    "Thanos.",
+    "Iron Man mark 19.",
+    "Bucky Barnes' metal arm.",
+    "Genetically engeneered super soldiers.",
+    "Captain America's shield."
+  ],
+  "pack": {
+    "id": "RHZSX",
+    "name": "Marvel"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 18,
+    "total": 24
+  },
+  "dateStoredMs": 1588468214653
+}

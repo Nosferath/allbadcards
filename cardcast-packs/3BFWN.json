@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "_ : what’s the worst that could happen?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who could have guessed that _ would be a thing this sprint?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like to try new things, but is _ really the answer?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m 100% sure, except for maybe _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ could save the world. Or it could kill us all.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ didn’t go exactly how I’d have liked. But it worked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why didn’t we think of _ sooner?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ surprised me more than Nic Cage in Gone in 60 Seconds.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "None."
+  ],
+  "pack": {
+    "id": "3BFWN",
+    "name": "RetroGame_ImprovementCards"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 1,
+    "total": 9
+  },
+  "dateStoredMs": 1588968511764
+}

@@ -1,0 +1,118 @@
+{
+  "black": [
+    {
+      "content": "Aeon's secret to a perfect mixed drink includes a bunch of _ mixed with a little bit of _ stirred up with _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What was Scitorem's latest scientific breakthrough? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aer's new tax policy requires that the nobility can no longer use _ as an exemption.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"DAMN THOSE LUMIANS AND THEIR HOARD OF _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come to one of Amesthyne's many luxurious resorts where you can enjoy the wonders of _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Vitora's new neo body has been having a malfunction with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aeon really regrets having to resort to _ , but at least he can still profit from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Mad General Karzla's sinister plan was thwarted, and it was all thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest neo models include exciting new features, such as _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In order to join Scitorem, first you must pass the test of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the final thing that ruined Rex and Cobalitus' brotherhood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I am Aer Asragel, Prince of Lumen, Guardian of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Tyrannus' family reunion way more awkward? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Draco's mutation caused him to grow _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Why would you make a gun that fires _ ?\" \"Why not?\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Aer's feelings.",
+    "A totally useless and frankly embarrassing mutagen.",
+    "The new Omega Elite.",
+    "The Lumian Nobility.",
+    "Another one of Karzla's wild tirades.",
+    "A cult of scaly science nerds.",
+    "A kingdom of space dragons.",
+    "Draco's beefy muscles.",
+    "Getting trapped inside a helpless toy, for instance.",
+    "Aer misjudging the throw of his sword.",
+    "Tyrannus, again.",
+    "Neos.",
+    "Aer's baby horns.",
+    "Gladius' voicebox glitches.",
+    "Commoners.",
+    "HUUUUBRIIIIIIS!.",
+    "A pale Lumian child.",
+    "A feather boa's heartwarming trill.",
+    "Aer's personal supply of uvisan wine.",
+    "Getting shot in the face with the party gun.",
+    "The Asragel Blade.",
+    "Gratuitous cybernetic enhancements.",
+    "Opallians.",
+    "Getting lost in the woods with a friendly cyborg.",
+    "Kyan fucking things up again.",
+    "Greedy-ass Uncle Colbi.",
+    "Guerra Motherfucking Tonitras."
+  ],
+  "pack": {
+    "id": "G8H8J",
+    "name": "AETHON Pack"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 27,
+    "total": 42
+  },
+  "dateStoredMs": 1589250242711
+}

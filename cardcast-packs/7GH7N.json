@@ -1,0 +1,430 @@
+{
+  "black": [
+    {
+      "content": "Il Nord (_), il Sud (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alcuni dico che in Vaticano ci sia una stanza segreta dedicata alla devozione di (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come ho perso la mia verginità? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fatti non foste a (_),  ma per (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Una VERA donna vuole solo (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il preventivo comprende consegna, assicurazione per un anno e (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) è una trappola!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niente è meglio di (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando aprì il vaso, Pandora trovò dentro un unica cosa, (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "è diffusa l'idea che i nostri antenati non si sarebbero mai evoluti senza (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "#stop(_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esiste una religione che adora (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keep calm and (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) è quello che ti auguro figlia mia",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La scienza non spiegherà mai (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il Papa aprì la finestra che dava sul Vaticano e disse (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si aggira di notte, è affamato, questa estate nessuno sarà al sicuro da (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E Dio creò (_) e vide che fu cosa buona e giusta",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) bene e (_) male",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Inventa un haiku  (_).(_).(_)",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Sei simpatico come (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Babbo Natale dà (_) ai bambini cattivi",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Io sono (_), quello che (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gesù disse: \"Lazzaro alzati e (_)\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho 99 problemi ma (_) non è uno di quelli",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) e (_) sono strettamente collegati",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Due ore di conclave, è fuoriuscita la fumata bianca ed è apparso (_) sul balcone",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'ha lasciato questa macchia sul divano? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) è come le erbe cattive, bisogna estirparlo alla radice",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando sarò miliardario creerò una statua di dieci metri per commemorare (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1, 2, 3 (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) ecco come voglio morire",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non sono un dottore, ma credo tu sia affetto da una malattia chiamata (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Clicca qui per (_)!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "è un peccato che i ragazzini al giorno d'oggi partecipino a (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papà perchè mamma sta piangendo? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bevo per dimenticare (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è questo odore? (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La Mecca non era forse il luogo più indicato per (_) non ci avevi pensato?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter e la camera dei (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) sarebbe tristemente incompleto senza (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "La lega serie A ha vietato (_) perchè dà un vantaggio ai giocatori",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solo due cose sono certe, la morte e (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando tra 1000 anni le banconote saranno un lontano ricordo (_) sarà il nostro denaro",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'assenza di (_) è un sintomi di (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oggi tutto a metà prezzo, anche (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante il sesso mi piace pensare a (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rossi non può fare a meno di (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) non è mai stato così bello",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per il mio prossimo numero tirerò fuori (_) da (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Caro Babbo Natale, per natale vorrei (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hai problemi con (_)? Prova (_)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lo maggior corno de la fiamma antica cominciò (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il sacro graal  descritto nella Bibbia in realtà non è un calice, ma è (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secondo la testata giornalista \"La Repubblica\" (_) è stato avvistato durante un rapporto sessuale con (_)",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Rubare i soldi a medici senza frontiere.",
+    "Lo scippo col motorino.",
+    "La montino.",
+    "Un bel sorso di cicuta.",
+    "Fare una bella doccia nel 1943.",
+    "Un paradosso da viaggio nel tempo.",
+    "Pappagalli verdi.",
+    "Il suffragio femminile.",
+    "Le loli chiuse nella cantina di Leo.",
+    "Il pizzo.",
+    "Mastro.",
+    "La mia prima uccisione.",
+    "I migranti arenati sulle coste siciliane.",
+    "Yara Gambirasio.",
+    "Malgioglio.",
+    "L' 11 settembre e le Torri Gemelle.",
+    "Sofia Matera.",
+    "Sesso anale a sorpresa.",
+    "Vladimir Putin.",
+    "Il sangue di Cristo.",
+    "Chirichetti.",
+    "Farsi una sega in una piscina di lacrime di bambini.",
+    "Dare fuoco ad un asilo nido.",
+    "Una lapidazione fatta bene.",
+    "Hiroshima e Nagasaki.",
+    "KONO DIO DA.",
+    "Le erezioni degli anziani.",
+    "Rubare l'elemosina ai senza tetto.",
+    "Il pelato di Brazzers.",
+    "Porca Madonna però che bella la Luna.",
+    "Un tumore al cervello.",
+    "Picchiare la propria donna.",
+    "La mamma di Mino.",
+    "Il KOBEcottero.",
+    "Emily.",
+    "Il giro in mongolfiera.",
+    "L'autocombustione umana.",
+    "Il capitano Schettino.",
+    "Bambini morti.",
+    "Il 5G.",
+    "Le lesbiche.",
+    "A volte il caso non è mai casuale, purtroppo, meno male.",
+    "Un' AK 47.",
+    "Michael Jeckson.",
+    "Il lancio dei nani.",
+    "Il secondo governo Berlusconi.",
+    "I gay.",
+    "Dare fuoco ad una chiesa.",
+    "I programmi di Barbara D'Urso.",
+    "Seghe mentali.",
+    "Una grigliata in compagnia degli amici.",
+    "Matteo Salvini.",
+    "I ROM.",
+    "Gli abitanti di Amatrice.",
+    "L'impulso.",
+    "Violentare una capra.",
+    "Una circoncisione fatta male.",
+    "Via Brombeis.",
+    "Satana.",
+    "L'amianto.",
+    "Essere bianchi.",
+    "Invadere la polonia.",
+    "Il traffico di organi.",
+    "Il Mignottauro.",
+    "Anna Frank.",
+    "Leo che va in discoteca.",
+    "Giovanna d'Arco.",
+    "Necrofilia.",
+    "Gli Ebrei.",
+    "Il Coronavirus.",
+    "Infilarsi lo scroto in un gancio per tende.",
+    "Gli aiuti alimentari alla Somalia.",
+    "Logan Paul nella foresta dei suicidi.",
+    "Il Dio Mattone.",
+    "ZA WARUDOOO.",
+    "INRI.",
+    "La mentalità ISIS.",
+    "I negri.",
+    "Hybris.",
+    "Batman.",
+    "Germano Mosconi.",
+    "Andrea Bocelli.",
+    "Meglio la trisomia che un cromosoma in più.",
+    "La sindrome di Down.",
+    "La Patti lo sà.",
+    "Mettere il burka.",
+    "La selezione naturale delle specie.",
+    "La sacra Bibbia.",
+    "Tonio Cartonio.",
+    "Un'aborto spontaneo.",
+    "Tua mamma.",
+    "Essere in fiamme.",
+    "La soluzione finale.",
+    "La Rusconi al secondo shottino.",
+    "Bucchin a mmaamt.",
+    "Quella roccia di Molty.",
+    "Maury.",
+    "Dachau.",
+    "Pistorius.",
+    "Leo e Bianco che rompono la piastra.",
+    "La dura ma nobile arte dello stupro.",
+    "Un clistere.",
+    "Clara di Heidi.",
+    "Sacro Romano Impero.",
+    "Che bella giornata Dio porco, perfetta per tagliare l'eroina.",
+    "PORCODDIO.",
+    "Il bambino di mille kg.",
+    "Aiutarli a casa loro.",
+    "Mischiare droghe per vedere l'effetto che fa.",
+    "Le conigliette di playboy.",
+    "I terroni.",
+    "Lampedusa.",
+    "Un cancro alla prostata.",
+    "Uno stupro di gruppo.",
+    "Una partita a mosca cieca in tangenziale.",
+    "Sputare sui bambini ciechi e dire che piove.",
+    "AIDS.",
+    "Il buco del culo sbiancato.",
+    "Mettere dei fiori sulla tomba di Mussolini.",
+    "Tre dita in culo.",
+    "Un pakistano con un bouquet di rose.",
+    "Un grande cazzo nero.",
+    "Un pigiama a righe con la stella di Davide.",
+    "Porno acrobatico.",
+    "Ho visto un nero con le scarpe di gomma.",
+    "Un nero, una puttana, un nordista ed un omosessuale.",
+    "Un bukkake.",
+    "Inculare le mosche.",
+    "Alice nel paese delle Pornomeraviglie.",
+    "Le ceneri del nonno.",
+    "Andare a puttane.",
+    "Un pompino alla guida.",
+    "L'Italia fascista.",
+    "La mia collezione di sex toys tecnologici.",
+    "Benito Mussolini.",
+    "Aborti fatti con l'appendiabiti.",
+    "Andare a Napoli con la maglia di Higuain.",
+    "Hitler.",
+    "I porno di Lupo Lucio."
+  ],
+  "pack": {
+    "id": "7GH7N",
+    "name": "Mi Dissocio"
+  },
+  "quantity": {
+    "black": 55,
+    "white": 139,
+    "total": 194
+  },
+  "dateStoredMs": 1588363512186
+}

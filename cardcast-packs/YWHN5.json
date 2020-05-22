@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "Qu'est-ce que miss Averback  veut dans ses memes. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pourquoi je ne peux pas dormir dans la nuit? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pourquoi la classe est-elle en panne._.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce que est le repas favori de Connor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  A ruiné mon enfance.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ est le crush de Matteo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce que Nic a apporté à l'école _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aujourd'hui, nous apprenons à propos de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ =  _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Le fupa de Gianluca.",
+    "Le schedule de l'éole de Brendon.",
+    "Le chapeau De Bob Leponge De Grant.",
+    "Le manbun attenter de Gianluca.",
+    "Un cucumber long de Nic.",
+    "Les cheveux incroyables de Hunter.",
+    "Le chandail rouge de Jack.",
+    "Johnny's chien Albert.",
+    "Les dames de déjeuner.",
+    "Étude.",
+    "Les jambes d'Anthony.",
+    "Les enfants de 8e année.",
+    "Le casée de Connor.",
+    "La bonne nourriture cavitaire.",
+    "Mrs Brasseur.",
+    "Le trois Verrues de Liam (Smokey, Willis, Et Sebastian).",
+    "Les compétences françaises de Neil.",
+    "Le front de Liam.",
+    "Un bon professeur.",
+    "Miss Averback.",
+    "Les enfants de 7e année.",
+    "Manquer l'école.",
+    "Tous les dix de Ryan's Jordans."
+  ],
+  "pack": {
+    "id": "YWHN5",
+    "name": "frecnch school project"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 23,
+    "total": 32
+  },
+  "dateStoredMs": 1589060105554
+}

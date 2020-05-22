@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "This reminds me of the time I paid a _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't you know about  _? Everybody's heard that  _ is the word!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is funnier than the time _ became _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Buzz Killington always manages to ruin _ for everyone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stewie once travelled back in time to prevent _ from ever occuring.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of killing Lois, Stewie could have been happy with just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't all talk like that you know, I happen to be a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry Peter, that's why they call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what really grinds my gears? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Thanks Ollie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Chris like to do in his free time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The safeword is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's Glenn Quagmire's fetish.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick! To _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peter! What could you have possibly spent $3000 on? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Farting right in Meg's face.",
+    "Excessive masterbation.",
+    "Lois Griffin.",
+    "Herbert's disabled dog Jessie.",
+    "Peter Griffin.",
+    "Over the top chicken fights.",
+    "Bird.",
+    "Adam West's four-piece suit.",
+    "Cleveland Brown.",
+    "Shpoople.",
+    "An Ipecac drinking contest.",
+    "RAIN.",
+    "The Peterdactyl.",
+    "Whatever lies under Meg's hat.",
+    "Brian's self-righteous bullcrap.",
+    "Having more money than Carter Pewterschmidt.",
+    "Joe Swanson.",
+    "Getting high on meth and punching a hole in the wall.",
+    "Giggedy-giggedy-goo.",
+    "A testicle chin.",
+    "The Petercopter.",
+    "Cleveland's bathroom wall constantly being destroyed.",
+    "Adam West."
+  ],
+  "pack": {
+    "id": "3ETAP",
+    "name": "Family Guy against Humanity"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 23,
+    "total": 38
+  },
+  "dateStoredMs": 1588279477663
+}

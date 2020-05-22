@@ -1,0 +1,27 @@
+{
+  "black": [],
+  "white": [
+    "Michael.",
+    "Bradley.",
+    "Ben.",
+    "Beth.",
+    "Bradley.",
+    "Hannah.",
+    "Ben.",
+    "Bradley's business card.",
+    "Michael.",
+    "Hannah.",
+    "Paw Patrol.",
+    "Beth."
+  ],
+  "pack": {
+    "id": "P7HDR",
+    "name": "Super Secret Cards"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 12,
+    "total": 12
+  },
+  "dateStoredMs": 1589570555601
+}

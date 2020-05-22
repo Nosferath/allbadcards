@@ -1,0 +1,101 @@
+{
+  "black": [
+    {
+      "content": "That _ is a spy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new original fan cnaracter is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shrek is _. Shrek is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cory in the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HEY NOW! YER A _! GET YER GAME ON, GO PLAY!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not _. It's never _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "GOTTA GO _!!!!!!!!1111!!!!ONE!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shrek urself b4 u _ urself",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ogres have _, like onions.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MY UNCLE WORKS AT NINTENDO AND HE SAYS YOU CAN PLAY AS SHREK IN POKEMON BY _ing  _!!!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Smoke _ every day.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Donkey.",
+    "Santa.",
+    "All Star.",
+    "Love.",
+    "Rick Astley.",
+    "Layers.",
+    "Onions.",
+    "Shrek.",
+    "Cancer.",
+    "Expand Dong.",
+    "Life.",
+    "Shitposting.",
+    "Ogre.",
+    "Rape.",
+    "Smash Mouth.",
+    ">Le 4chan maymay arrows.",
+    "Boobs.",
+    "My New Tractor.",
+    "Hitler.",
+    "Spooky Scary Skeletons.",
+    "Satan.",
+    "Jake from State Farm.",
+    "New Super Shrek Bros 2: The Shrekoning.",
+    "Cancer.",
+    "Swamp."
+  ],
+  "pack": {
+    "id": "X7WN6",
+    "name": "Shrek"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 25,
+    "total": 37
+  },
+  "dateStoredMs": 1588989080699
+}

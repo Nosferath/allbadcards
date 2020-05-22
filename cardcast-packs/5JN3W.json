@@ -1,0 +1,763 @@
+{
+  "black": [
+    {
+      "content": "O nie zostałeś zaatakowany przez _ już nic ci nie pomoże.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to nowa reforma wprowadzona w naszym kraju.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polski rząd wspiera studentów w rejonach wiejskich przy pomocy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest kolejną modną dietą? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ To kłamstwo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wiem czym będzie się walczyć podczas III wojny światowej, ale podczas IV będzie się walczyć _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dawno temu znałem pewną kobietę, która _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy skończyłem budować dom _ i _. Cięzkie życie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do teatrów wchodzi musical o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Więc to tak wygląda _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czarni najcześciej kradną _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pokażesz mi _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po czym poznać _ ? Po _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najbardziej emo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co tak pachnie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ = ból dupy",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na górze _ na dole _ a _  szybki jest.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "To takie smutne, że dzieci wola _ od _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Spędziłem całe swoje życie dążąc do _ i wszystko legło w gruzach przez _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdzie jest Namo? Jest w _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na co zawsze można poderwać laskę? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Już nigdy nie będzie takie samo po _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dziś _, a jutro _ aż do mojej śmierci.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepsze na ostre rozwolnienie jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ To pułapka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim narkotykiem jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Często myślę o _ gdy _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy jest w Polsce nielegalne _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziec, dzisiaj zrobimy _ na temat _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W nowej aktualizacji dodano funkcję _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biali ludzie lubią _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pomocy, nie mogę trafić do _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W dzisiejszych czasach niegrzeczne dzieci zamiast rózgi dostają pod choinkę _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym roku Oscar za najlepszy scenariusz otrzymuje _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "wiedziałem, że _ to najlepszy prezent urodzinowy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ To pedalskie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badania wykazują, że myszy laboratoryjne pokonują labirynt o połowę szybciej po kontakcie z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabieraj te _ ode mnie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nowym filmie Disneya Hannah Montana po raz pierwszy zmaga się z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "dwie najbardziej skrajne rzeczy to _ i _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dlaczego _ jest taki agresywny? Bo _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdzie jest mój _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? To brzmi jak idealna zemsta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy krok w kierunku _ przybliża mnie do _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nasz prezydent myśli o _ gdy jest głodny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widziałem dzisiaj na mieście _ , jak _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ z marmuru",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepsza metoda wyrywania zębów to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grałeś już w symulator _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Proszę księdza mam problem z _ ale pomaga mi _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Widzę, że  _  nie sprawia przyjemności twojemu kotu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Następna książka J.K Rowling będzie nosiła tytuł: Harry Potter i Komnata _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie możesz oglądać _ to może doprowadzić do problemów z główką.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim ulubionym bohaterem jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ To najlepsze co może być.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skazuję cię na śmierć poprzez _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hannah Montana podarowała ludziom z Afryki_ , bo sadziła, że _ jest dla nich dobry.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest moją super mocą? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy byłem mały, to mama mówiła mi, że _ to tak naprawdę _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to nasz nowy superbohater, którego zadaniem jest _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chcę na urodziny dostać_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jak człowiek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze mi staje gdy myślę o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest najlepszym przyjacielem kobiety? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy jaworowi ludzie przychodzą do dziewczyny, to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na gwiazdkę kupiłem mojej rodzinie _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pierwszy krok do _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mój dentysta polecił mi _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W jaki sposób udaje mi się utrzymać mój związek? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robi ksiądz na imprezie _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przed śmiercią chciałby _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chciałbym zobaczyć anime o _  z_, którzy _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Wiesz ile razy musiałem _ żeby się tu dostać?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komu w drogę temu _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cała sala krzyczy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Od dziś jestem chrześcijaninem, teraz wierze w _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu na twoim biurku leży _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to za pokemon? To_ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo! _ Biega po podwórku  z _ i _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Moim narkotykiem jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oblicz pierwiastek z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za górami, za lasami, żyli ludzie z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Serio?! Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zawsze rozkręca imprezę ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kontra _ Walka roku!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie patrz za siebie, tam jest _ !!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zupa dnia: Krem z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszy lek n potencję to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak będę premierem to stworzę ministerstwo _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robisz gdy zobaczysz obcego faceta w twoim łóżku? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wycieczka szkolna została zrujnowana przez _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co powoduje u mnie gazy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ z _ tworzą najlepszą parę.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "w młodości chciałbym być _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ty! Bo cię zaraz _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kapitan _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co powoduje u mnie gazy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To było suche jak _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "chciałbym umrzeć poprze _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masz problem z _ ? wypróbuj _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czego jest pełno w niebie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na żywo tylko w Polsat Sport cykl turniejów _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wiem kim jesteś, ani czego chcesz, ale znajdę cię i _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim fetyszem jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeżeli twoim ulubionym serialem jest \"My little Pony\" to myślę, że polubisz _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może to jej urok, a może to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uważam, że _ powinno być zabronione ponieważ _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uśmiech na twarzy Papierza, kiedy patrzy na _  to najpiękniejsza rzecz na świecie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Dla ciebie, dla rodziny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W czasie postu rezygnuję z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robił proboszcz u ciebie w nocy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co cały się kleję? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego spodziewałeś się po Wróżce Zębuszce gdy miała przyjść w nocy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby Bóg miał usunąć coś z Ziemi to co by to było? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim życiem jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W czasie seksu lubię myśleć o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam _,_ i ostry _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Znasz tego nowego Youtubera? Nazywa się _ i nagrywa _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kryminalne zagadki _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wczoraj wracając z imprezy wpadłem na _ . Chyba za dużo wypiłem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byś inaczej nazwał \"50 twarzy Greya\"? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Świat kończy się nie z hukiem, a z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widziałem _ i była to najbardziej przerażająca rzecz w moim zyciu!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale masz _ , daj!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke jestem twoim _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W czasie seksu lubię myśleć o _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1: _ Krok 2 : _ Krok 3: profity!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Za tysiąc lat zamiast papierowych pieniędzy będziemy używać _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja idę, a on _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas lotu samolotem zabrania się _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ukrywają przede mną rodzice? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co sprowadzę z przyszłości by przekonać ludzi, że jestem potężnym czarodziejem? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy to ptak? Czy to samolot? Nie to przecież _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pierd głośny jak wystrzał altyreryjski.",
+    "Nigdy nie próbowałem!.",
+    "Kwas siarkowy w bidonie.",
+    "Co ty na to tato?.",
+    "3 martwe płody na jednym drzewie.",
+    "Tramwaj pełen małych dzieci.",
+    "Chytra baba z Radomia.",
+    "Moje życie seksualne.",
+    "Sosnowiec.",
+    "Odbyt.",
+    "Cukier słodkości i różne śliczności.",
+    "Disco Polo.",
+    "Wpierdol.",
+    "Łysa Magda Gesler.",
+    "TAK!.",
+    "Potężny gej.",
+    "Dawanie dzieciom odbezpieczonych granatów.",
+    "Arab rańczący kankana.",
+    "Ojciec Mateusz.",
+    "Szczotka klozetowa.",
+    "To było nie chcący.",
+    "Struś pędziwiatr.",
+    "Papamobil  rozjezdżający dzieci.",
+    "Karkówka bez kości.",
+    "Arabski strój kpielowy.",
+    "Tańczyć na taborecie.",
+    "Gejowski taniec na lodzie.",
+    "Człowiek z jelitem wyciąganym przez lewe ucho.",
+    "Spontaniczne mówienie po niemiecku podczas seksu z żydówką.",
+    "Woda z chlorem.",
+    "Kurwa spłoniesz!.",
+    "Chuj ci w wioskę.",
+    "Diamentowy napletek.",
+    "Potrzeba więcej złota!.",
+    "Zabiłem i dobrze mi z tym.",
+    "Kremowanie rąk w autobusie.",
+    "Nakurwiam węgorza nana nana nana.",
+    "Błona dziewicza.",
+    "Gwałtowny poród.",
+    "Gęsta wydzielina z pochwy.",
+    "Nie, a właściwie NEIIN NEIN NEIN!!!.",
+    "Zużyty tampon.",
+    "Tomasz Karolak.",
+    "Radom.",
+    "Padaczka.",
+    "Zabawa w słoneczko.",
+    "Niby tak, ale kurwa, no nie do końca.",
+    "Dać dupy.",
+    "Chuck Norris.",
+    "Putin.",
+    "A co cię to obchodzi?.",
+    "To nie ja byłam Ewą!!!!!!!!!.",
+    "Dzikie pnącza.",
+    "Ogórek.",
+    "Armia Putina.",
+    "Kurwa przepraszam, przebiłem ci rękę.",
+    "Lekcja tańca z batmanem.",
+    "Simsy.",
+    "Inteligencja DŻOANY Krupy.",
+    "Amator sado-maso wbijający nóż w worek cebuli.",
+    "Anie wino o smaku Cebuli.",
+    "Twoja stara.",
+    "Wynikostatnich wyborów.",
+    "Zapętlająca się na Pleyerze reklama Iladianu i serka President.",
+    "Sikać pod prysznicem.",
+    "COVID-19.",
+    "Ssanir pręta owłosionemu kuglarzowi.",
+    "Strzelanie do dzieci.",
+    "Trzech Muszkieterów.",
+    "Wszyscy jesteśmy pojebani.",
+    "Maczeta.",
+    "Emerytura z wypadającą szczęką.",
+    "Ojciec Rydzyk proszący o jałmużnę na Radio maryja.",
+    "Nieudana aborcja.",
+    "Myśli samobójcze.",
+    "Umieranie z powodu biegunki.",
+    "Rolka papieru toaletowego."
+  ],
+  "pack": {
+    "id": "5JN3W",
+    "name": "Best of PL (polskie karty)"
+  },
+  "quantity": {
+    "black": 134,
+    "white": 77,
+    "total": 211
+  },
+  "dateStoredMs": 1589282217064
+}

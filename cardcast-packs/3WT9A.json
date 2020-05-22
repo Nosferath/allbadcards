@@ -1,0 +1,19 @@
+{
+  "black": [],
+  "white": [
+    "A toilet paper shortage.",
+    "Universal healthcare.",
+    "The 1990s.",
+    "Covid-19."
+  ],
+  "pack": {
+    "id": "3WT9A",
+    "name": "2020"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 4,
+    "total": 4
+  },
+  "dateStoredMs": 1589560780854
+}

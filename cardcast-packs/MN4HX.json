@@ -1,0 +1,101 @@
+{
+  "black": [
+    {
+      "content": "_ , the gold standard in every student's trick diary.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That moment when you have to reach between your partner's legs and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The moment of an aerial student's first invert, and that mortified look on their face when _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back balances in the hoop are to the spine what _ are to _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\" _ !\" the instructor yelled, \"or you'll never _ !\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the instructor decides its time to teach you _ but neglects to warn you about _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When your students' _ reflects on your inadequacy as an aerial instructor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just drop already! I don't care about your _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alcohol, _ and _ ,  a recipe for an aerial disaster.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's nothing an instructor is more proud of seeing than their student _ from nailing it. .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Insane silk wedgie.",
+    "Accidentally rip out a patch of pubes.",
+    "Lack of circulation.",
+    "Become as calloused as a lumber jack.",
+    "Aerial silks drops.",
+    "Bruises, bruises, bruises.",
+    "Going so fast you scream for your mother but she keeps flying back into your mouth.",
+    "Asphyxiation.",
+    "You grab their pants instead of their hips.",
+    "Pass out from.",
+    "Pretend the silk burn didn't happen.",
+    "Falling 7 meters.",
+    "Sudden backbending.",
+    "Cracking sounds.",
+    "The tippy lyra.",
+    "Bad BDSM jokes.",
+    "Pleading, desperate looks of terror.",
+    "Vertigo.",
+    "Inverting repeatedly.",
+    "You hear their wrist snap.",
+    "Bad puns about being tied up.",
+    "Getting the breath knocked out of them.",
+    "Puns about hanging out.",
+    "That jarring shudder up your spine when you slam down hard into your heels.",
+    "Try not to hang yourself on their elbow.",
+    "Displaying the pain like a badge of honour.",
+    "Trapped in their partner's groin.",
+    "Mortified shrieks.",
+    "Bodily fluids.",
+    "Wrapping your ankles like you going to bungee.",
+    "Bleeding fingers.",
+    "Air, sucked down deep into the bodily voids, suddenly escapes.",
+    "Armpit roasties.",
+    "7m of sweat-soaked fabric.",
+    "Slippery poles."
+  ],
+  "pack": {
+    "id": "MN4HX",
+    "name": "Backyard_Circus"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 35,
+    "total": 45
+  },
+  "dateStoredMs": 1589361830733
+}

@@ -1,0 +1,95 @@
+{
+  "black": [
+    {
+      "content": "O novo Reality Show serão 8 adolescentes vivendo em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu tenho 99 problemas mas _ não é um deles!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu bebo para esquecer que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A medicina alternativa acaba de descobrir os poderes de cura de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talvez ela tenha nascido com isto. Talvez seja _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E o Oscar de _ vai para _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qual o próximo brinde do Mc Lanche Feliz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Porque não consigo dormir à noite? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Como eu perdi minha virgindade? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meu último namoro terminou quando ele(a) descobriu que eu tinha _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É uma pena que essa geração esteja tão interessada em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que barulho foi esse? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que cheiro é este? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Professor, não trouxe a lição de casa porque _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Atirei o pau no gato-to. Mas o gato-to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esta sexta, o Globo Reporter investiga _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HM4X5",
+    "name": "CAB"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 0,
+    "total": 16
+  },
+  "dateStoredMs": 1589508494794
+}

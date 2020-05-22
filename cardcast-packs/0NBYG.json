@@ -1,0 +1,88 @@
+{
+  "black": [
+    {
+      "content": "The new type of magic includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sora, Shiro, and Steph's next game includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I believe in _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are the new guild member(s).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trying to get _ to notice you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was what they had to do to fufill their greatest regret.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Being trapped in a cage by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you a boy? Or are you a girl? Or  _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ went on a quest to find _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ just got past Wall Maria!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WINGS OF THE _ DRAGON!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Senpai.",
+    "PARFUM!.",
+    "Mirai Nikki with a knife.",
+    "Fifteen crazy Exceeds.",
+    "Skimpy battle outfits.",
+    "Sandwich-kun.",
+    "Pervy old men.",
+    "Character death.",
+    "Casting celestial spirits.",
+    "Two small girls in a naked shower scene.",
+    "The badass sniper.",
+    "More members for the harem.",
+    "Fighting dragons with non-dragon-slaying magic.",
+    "Panties.",
+    "The Tsundere.",
+    "Hideyoshi.",
+    "That one derpy titan."
+  ],
+  "pack": {
+    "id": "0NBYG",
+    "name": "Anime~"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 17,
+    "total": 28
+  },
+  "dateStoredMs": 1589496142813
+}

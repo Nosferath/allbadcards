@@ -1,0 +1,79 @@
+{
+  "black": [
+    {
+      "content": "Why is it that I got three slimes? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi. I'm Kelly, and I invented _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret slime action is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does it involve _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You're a _. You're cute.\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you or have you ever been a member of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Lori Beth afraid of getting slimed? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ active?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wondering why CatDog are panelists.",
+    "Having wet dreams about Summer Sanders.",
+    "Being in Lori Beth's seat.",
+    "Being the dream crusher.",
+    "Getting cake thrown in your face only to get slimed shortly after.",
+    "Billy the Answer Head.",
+    "Shipping Danny Tamberelli and Lori Beth Denberg.",
+    "Eating cereal out of your brother's chest bowl.",
+    "Not having an episode aired due to accidentally saying \"hoe\".",
+    "Putting sushi in your hair.",
+    "Trying to look pretty for Billy the Answer Head.",
+    "Appearing as a panelist via CGI animation.",
+    "Slime facials.",
+    "Danny Tamberelli swallowing slime.",
+    "Getting slimed as a clue.",
+    "Being the only one to touch the clue.",
+    "Being the Slime King.",
+    "Always sitting in the same god damn seat.",
+    "Eating 11 pounds of watermelon.",
+    "Being a puppet and getting slimed.",
+    "Keeping it real.",
+    "Wanting to pet a dog after the show.",
+    "Having little traction with slime in your buttcrack."
+  ],
+  "pack": {
+    "id": "9E7HW",
+    "name": "Cards Against Figuring It Out"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 23,
+    "total": 31
+  },
+  "dateStoredMs": 1588933397911
+}

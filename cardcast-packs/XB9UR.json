@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "I often think about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guys i think there's  _ in my bed",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What gives me a spontaneous erection? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Something I can get off to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is gasbag upset about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry i can't come over right now i have _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would rather _ than be _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is worth more than Nazi gold? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The inevitable chun that follows when vodka is mixed with _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Go to Auschwitz for summer holidays.",
+    "Get a blowjob from a chihuahua.",
+    "Penis.",
+    "Stick a cactus up my ass.",
+    "Unironic incest.",
+    "Forced gender reassignment.",
+    "Dying from coronavirus because you're black.",
+    "Death by AA gun.",
+    "Snorting crack out of a hooker's ass.",
+    "Overdose on meth.",
+    "An interracial marriage.",
+    "Menstruation.",
+    "Karen.",
+    "Getting a stiffy at the thought of Ging's ginger pubes.",
+    "Play hunger games to determine which child to adopt.",
+    "Shitting on Spurs tickets.",
+    "The unwavering power of Ging's virginity.",
+    "An orgy with the powerpuff girls.",
+    "Barebacking Burgers.",
+    "Wellsy's tennis ball.",
+    "Forgetting to turn the gas chamber valve off."
+  ],
+  "pack": {
+    "id": "XB9UR",
+    "name": "Gasbag"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 21,
+    "total": 30
+  },
+  "dateStoredMs": 1589055261142
+}

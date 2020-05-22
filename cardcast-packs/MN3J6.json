@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "And I am _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Iron Man.",
+    "Hulk.",
+    "Captain America.",
+    "Thor."
+  ],
+  "pack": {
+    "id": "MN3J6",
+    "name": "MCU"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1588536135595
+}

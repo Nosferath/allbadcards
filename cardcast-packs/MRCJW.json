@@ -1,0 +1,87 @@
+{
+  "black": [
+    {
+      "content": "_ invented emo in 2005.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would like to thank the _ band for their music.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn, the opening band really sounds like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , Like NoPlace is There.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But I'm  _, a tooth out of line",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason Mobo broke up was because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me tell you what I think about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't _ -Splain me Kid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Real Emo only consists of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One! Where the fuck is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What makes a band emo? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tuning your guitar to FACGCE.",
+    "The americ anfootball house.",
+    "Mike Kinsella.",
+    "JANK.",
+    "E|------------0----0-----0----0-------0-----| C|---4p2p0---0-0--0-----0-0--0-------0-0----| G|--------0-2----4---5/7----9---10/12-------| C|-0----------------------------------------| A|------------------------------------------| F|------------------------------------------|.",
+    "Front Porch Step.",
+    "Nick Hartkop.",
+    "R/Emo.",
+    "Anthony Fantano's Red Flannel.",
+    "Remo Drive's second album.",
+    "Lou Diamond.",
+    "Mom Jeans.",
+    "Vinyl records.",
+    "McCafferty.",
+    "Analphabetapolothology.",
+    "Anthony Fantano's Yellow Flannel."
+  ],
+  "pack": {
+    "id": "MRCJW",
+    "name": "Emo Deck"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 16,
+    "total": 27
+  },
+  "dateStoredMs": 1589516099314
+}

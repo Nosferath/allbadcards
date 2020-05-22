@@ -1,0 +1,1476 @@
+{
+  "black": [
+    {
+      "content": "Eu sempre dependi de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é uma ladeira escorregadia que leva direto a _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: não saia de casa sem isso.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apaga as memórias que eu vou _. Pára, seu _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O que vou deixar de fazer na quaresma? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prefiro _ que _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Encontrei os dois se pegando _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antrópologos recentemente descobriram uma tribo primitiva que cultua _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu vou _. Ele não poderá recusar.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que os EUA jogaram de avião nas crianças do Afeganistão? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chega à Broadway nesta temporada o musical _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. É uma armadilha.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genialidade é 10% inspiração e 90% _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca de fato entendi _, até encontrar _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sim, eu matei _. Como? _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Je suis _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é feio, fedorento e cabeludo.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ não te pertence mais.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando o faraó permaneceu imóvel, Moisés invocou a praga do(a) _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual é meu poder secreto? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Agrega tudo: agrega _, agrega _, agrega _, agrega tudo.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ dançava o cancan com _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Adoro ver _. É excitante!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tudo que Rei Midas tocava, virava _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, a senhora é _ mesmo.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Assim expira o mundo / Assim expira o mundo / Não com uma explosão, mas com _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que cheiro é esse? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minha mãe me dizia que todos os dias devíamos _ para ir pro céu.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É por isso que _ trabalha sozinho.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Você a viu _? Nojento!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A dona aranha subiu pela parede. Veio _ e a derrubou.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antropólogos recentemente descobriram uma tribo primitiva que cultua _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talvez ela tenha nascido assim. Talvez seja _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desculpe o atraso, estava praticando meu novo vício: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Como estou mantendo minha relação amorosa? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu vejo _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é o mesmo que _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No novo filme da Disney, Hanna Montana enfrenta _ pela primeira vez.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obrigado, mas eu estou acostumado com algo maior que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estudos comprovam que ratos de laboratório atravessam labirintos 50% mais rápidos depois de expostos a _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu tenho a impressão que você não vai parar de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que tem à vontade no céu? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que som é esse? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chega de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sou _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu vou _ com meu pai a noite inteira. Lide com isso.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O gato se lambe porque gosta de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando eu estava viajando no LSD, _ se transformou em _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No próximo Tropa de Elite, Capitão Nascimento descobre que milicianos estavam usando _ para _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dizem que em Bangu 3 se troca dois maços de cigarro por _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: testado pelas crianças, aprovado pelas mães.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é melhor que _ e pior que _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Se você gosta disso, devia _ pra melhorar.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um jantar romântico à luz de velas seria incompleto sem _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Encontramos uma série de _ em sua mãe.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que eu levaria ao passado para convencer as pessoas de que sou alguém muito poderoso? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu como _ no café da manhã. Tem gosto de frango.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Admito que quando era criança, não parava de pensar em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ai que delícia, _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é lindo como _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando eu for presidente, criarei o departamento de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ e _ são os próximos novos super-herói e seu ajudante.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No último domingo, o pastor disse que _ matou Jesus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em breve, em uma livraria perto de você, _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É uma pena que hoje em dia as crianças estejam tão envolvidas em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "50 tons de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando fui pra África, vi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando Neil Armstrong pisou na lua, teve a sensação de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homem nessa terra só tem validade quando começa a _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estou com 99 problemas, mas nenhum deles é _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu escovo meus dentes com _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doutor Dráuzio, estou com problemas em _ e gostaria de saber o que fazer.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toc, toc. Quem é? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tem que ser revisto o _ no-Bra-sil!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Armas não matam pessoas. _, sim.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A medicina alternativa está explorando os efeitos curativos de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minha amiga foi estuprada por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Novo reality show mostram _ fazendo _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Depois da invasão do Caveirão, Luciano Huck levou _ aos moradores de Rocinha.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gosta de _. Eu tenho certeza.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Véi, na boa.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que ajuda Dilma Rousseff a relaxar depois do trabalho? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não sei com que armas se lutará a Terceira Guerra Mundial, mas a quarta será com _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ele se apaixonou por alguém olhando para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Faço direto.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estou com vontade de você _ debaixo do meu cobertor.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Só tenho uma pergunta: Afinal, _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antes de _, tudo o que tínhamos era _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O que eu trouxe do Paraguai? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tem cheiro de quê?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Resolução da ANAC agora proíbe _ em aeronaves.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu prefiro ser _ que _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Globo Filmes apresenta: _, a história de _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mãe, no céu tem _? E morreu.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que vontade de _. Faria isso com _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sabe quem detesta _? _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A boa notícia é que não é _. A má é que é _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meu mais novo esporte é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enquanto os EUA e a URSS competiam na corrida espacial, o governo brasileiro investia pesado em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando você morrer, colocarei _ no seu túmulo.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que _ esteja com você.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já falei com Bandeirantes, não vou _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual o cúmulo da porquice? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke, eu sou _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sempre quis _ quando crescesse.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Você me pediu hamburguer. Eu te trouxe _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu preciso de um advogado com experiência em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Tem um app pra isso.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sou uma profissional de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Historiadores encontraram dezenas de cadernos de Picasso com esboços de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por que não consigo dormir a noite? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homem que é homem curte _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noite boa só se for regada de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Passo 1: _. Passo 2: _. Passo 3: lucrar.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vem aí o novo livro de J.K. Rowling: Harry Potter e a Câmara de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dizem que o prato predileto de Vladimir Putin é _ recheado com _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Não. Não. Não. Nunca. Jamais. Não. Eu nunca _. Não. Nunca. Jamais.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A vida dos índios americanos mudou para sempre quando o homem branco lhes apresentou _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A excursão escolar foi fiasco devido a _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. É assim que espero morrer.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu passei minha vida inteira sentido como _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ adora _ por dinheiro.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na União Soviética, _ _ você.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Droga! Estou cercado de _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando estiver em perigo de _, chame _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Huston, temos _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aleluia! Está chovendo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu quero _ na cara de _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Conheço uma menina que se chama Marilu. Ela tem a perna aberta de tanto _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não há noite que não penso em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fé em Deus que ele é justo, ei, irmão, nunca se esqueça de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estou louco para _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slot quer _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não resisti e acabei por _ do _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Faça um poema de três versos: _. _. _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Se não estou enganado, aquilo foi _ se espatifando no rosto de um cara.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual o próximo brinde do McLanche Feliz? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pessoas idosas tem cheiro de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é prática comum entre os grupos de _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ prova que Deus existe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As pessoas se esqueceram que nos anos 80, eram viciadas em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toda vez que vou ao banheiro, lembro de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por que não consigo dormir à noite? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: como até o caroço.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desde que experimentei _, minha vida mudou.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nós sempre teremos _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Por que estou todo dolorido? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A primeira regra do Clube da Luta: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mata _ e mostra _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O que meus pais escondem de mim? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que Vin Diesel teve no jantar? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amiga, desse jeito eu não tenho como _. Eu fico triste, cara!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saim de perto! _ me causa gases incontroláveis!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em 1000 anos, quando o dinheiro de papel for apenas uma lembrança distante, _ será nossa nova moeda.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que nunca falha em deixar uma festa mais animada? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É algum crime _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mãe, _ caiu.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é diversão para toda a família.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bebo para esquecer _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quem nunca teve _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Super Gêmeos ativar! Forma de _! Forma de _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Misturar _ e _ é sinônimo de vida.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vovó acharia perturbador _, mas estranhamente atraente.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papai, por que mamãe está chorando? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para meu próximo número, tirarei _ de _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Quando os portugueses chegaram ao Brasil, encontraram _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Você precisa dizer que o ingrediente secreto é _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flagrei meu filho se preparando para _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em seus momentos finais, Michael Jackson pensou em _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando eu for bilionário, mandarei fazer uma estátua de 15 metros para celebrar _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que causou o fim da minha última relação? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual a dieta do momento? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No próximo natal, papai noel dará _ para a criança que não se comportar.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que o Ministério da Educação está usando para inspirar estudantes do interior a serem bem-sucedidos? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bandido bom é _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Troque seu velho _ por grana, JÁ!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No amor e na guerra, vale até _. Afinal, vivemos para _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ontem eu acordei com _ na minha boca.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As pessoas vão _ comigo e com toda minha família.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é uma questão de estilo.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sugiro que dê _ pro seu pai.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu matei _. Como? _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "CBF proíbe _ por proporcionar vantagem desleal aos jogadores.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Tá mais para _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Tô dentro.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gostei de _. Faria de novo.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ também se come na China.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não usei camisinha. Agora, terei que _ pro resto da vida.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Devolve meu _, Pedro!!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ em todo o mundo, no passado e no futuro: eu os condeno a _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ e _ garantem um(a) maravilhoso(a) _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Qual o melhor amigo de uma garota? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu consigo dirigir e _ ao mesmo tempo.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não existe nada mais brega que _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ e _: a matemática perfeita.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, você está tentando _, não está?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Qual o prazer proibido do Batman? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joguei fora _ pra conseguir _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Que pássaro é esse? Hah! Pegadinha, isso é _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prove! Essa sopa foi feita de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Encontrei _ comendo _ debaixo de um pé de árvore.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "E o prêmio de _ vai para _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu sou _ no corpo de um homem.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual o maior segredo de Sandy? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ falou que eu estava na pior. Porran, se _ é estar na pior, o que é estar bem?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Francamente, querida, eu quero _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pra que serve a guerra? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Assisti ontem _. Estavam falando como _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A seguir, na ESPN, campeonato mundial de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estou afim de _ com _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu não sou de fofoca, mas _ tem _. Papo sério.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Aposto que só um não te satisfaz.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em um mundo devastado por _, nosso único consolo é _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "As chamadas vieram de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ adora tomar banho de _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Conheço uma menina que se chama Dorotéia. Ela tá muito doente, ela tá com _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. As mina pira, véi.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Didi Mocó queria _ antes do Mussum morrer.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mas antes de matá-lo, Sr. Bond, preciso de mostrar _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu brochei por causa de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não devo dirigir sem antes _. Gosto de grandes emoções.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O cara adora _ e se acha o pica das galáxias.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu juro, doutor! Eu não sei como _ foi parar na minha bunda.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Essa pica não é mais minha, essa pica é de _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buscando aumentar sua audiência, o Museu de História Natural abriu uma exposição interativa sobre _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que baba é essa na minha bunda? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Foda-se o dinheiro, eu quero _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não há nada mais foda que _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dadinho é o caralho. Meu nome agora é _, porra.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que é que fica melhor quando envelhece? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tive relações homoafetivas com _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é tão ruim que dá a volta e fica bom.\t",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jeitinho brasileiro\t.",
+    "Bebendo com o cão\t.",
+    "Preliminares meia-boca\t.",
+    "Um lugar garantido na friendzone\t.",
+    "Xuxa\t.",
+    "Notas passivo-agressivas no trabalho\t.",
+    "Moradores de rua\t.",
+    "Separar o Mar Vermelho\t.",
+    "Igreja Universal\t.",
+    "Caralhos flamejantes\t.",
+    "Fingir que se importa\t.",
+    "O time de ginástica chinês\t.",
+    "Dar uns amassos\t.",
+    "Pagar mico em público\t.",
+    "Machucar, furar e sangrar neguim\t.",
+    "Jogar strip roleta russa\t.",
+    "Um policial trambiqueiro\t.",
+    "Gente fedida\t.",
+    "Buffet de camarão livre por R$ 4,99.\t.",
+    "Smurfs.",
+    "Queimar a rosca com isqueiro\t.",
+    "Pai de família\t.",
+    "Entrar em chamas\t.",
+    "Vestir uma blusa de gatos vivos\t.",
+    "Capitão Planeta\t.",
+    "Grupo Molejo\t.",
+    "Uma torta de pterodáctilo\t.",
+    "O milagre do parto\t.",
+    "Vaginas secas\t.",
+    "72 virgens\t.",
+    "Uma boa cheirada\t.",
+    "Lamber a cabeça de um rato\t.",
+    "Arianos.",
+    "Celso Portioli\t.",
+    "Clitóris.",
+    "Lamber coisas para estabelecer que são de sua propriedade\t.",
+    "Jeremias muito doido\t.",
+    "Nicolas Cage\t.",
+    "Axé Music\t.",
+    "Uma maldição cigana\t.",
+    "Bíblia Sagrada\t.",
+    "Pagode\t.",
+    "Forninho\t.",
+    "Filho de chocadeira\t.",
+    "Desodorante AXE\t.",
+    "Coroinhas\t.",
+    "Roubar cachaça de mendigo\t.",
+    "Passar o rodo\t.",
+    "Giovana\t.",
+    "Tomar uma dose de Prozac.\t.",
+    "Motosserras\t.",
+    "Chamego\t.",
+    "Petralhas.",
+    "Problemas com o pai na infância\t.",
+    "Gente velha\t.",
+    "PM do Rio\t.",
+    "Torção testicular\t.",
+    "Irado\t.",
+    "Erro 404: carta não encontrada\t.",
+    "Vanessão\t.",
+    "Um tremendo bacanal\t.",
+    "Lágrimas de crianças\t.",
+    "Placenta.",
+    "Literalmente roubar doces de criança\t.",
+    "Argentino\t.",
+    "Evacuação dolorosa\t.",
+    "Vovó babada\t.",
+    "Esperma\t.",
+    "Hipoglós\t.",
+    "Embebedar bebês\t.",
+    "Um festival de linguiça\t.",
+    "Exibição para fins de acasalamento\t.",
+    "Rei Pelé\t.",
+    "Gonorréia\t.",
+    "As fotos da sua mãe pelada\t.",
+    "Compartilhar agulhas\t.",
+    "Ataques de velociraptor\t.",
+    "Xingar a professora de mocréia\t.",
+    "Zé do Caixão\t.",
+    "Danilo Gentili\t.",
+    "Escassez de comida\t.",
+    "Clínica de aborto\t.",
+    "Flanelinha\t.",
+    "200 gramas de heroína preta mexicana\t.",
+    "Índio Chiquinha\t.",
+    "Peste bubônica\t.",
+    "Dar uma surra em crianças com outras crianças\t.",
+    "Transfusão de sangue de despacho.",
+    "Gritar com fio terra\t.",
+    "Novo disco do Roupa Nova\t.",
+    "Seu animal imundo\t.",
+    "Tomar banho em galões de mijo\t.",
+    "Auto-repugnância\t.",
+    "Estuprar e saquear.",
+    "Fazer amor pelo bumbum\t.",
+    "Marcelo Augusto\t.",
+    "Ladrão de vadias\t.",
+    "Um feto\t.",
+    "Miriam vende Mary Kay.",
+    "Necrofilia\t.",
+    "Nudez frontal\t.",
+    "Um mímico tendo AVC\t.",
+    "Vestir cueca ao avesso para economizar roupa\t.",
+    "Indigestão de torresmo\t.",
+    "Para nossa alegria\t.",
+    "Políticos brasileiros\t.",
+    "Brincar de roleta russa com seu irmão menor\t.",
+    "Hora de aventura\t.",
+    "Uma jarra com suco quente de porco\t.",
+    "Crianças na coleira\t.",
+    "Seiya de Pégaso\t.",
+    "Dinheiro na cueca\t.",
+    "Silicone industrial\t.",
+    "Vinte reais\t.",
+    "O tio pinguço\t.",
+    "Aborto clandestino\t.",
+    "Herpes bucal\t.",
+    "Colocar um gato na cueca\t.",
+    "Feirante vendendo planta\t.",
+    "Quem pede impeachment da Dilma\t.",
+    "Acariciar alguém sem permissão\t.",
+    "Injeções hormonais\t.",
+    "Tomar café coado na calcinha\t.",
+    "Pegar mulher em clínica de aborto\t.",
+    "Rolezeira\t.",
+    "Fazenda de anões\t.",
+    "Alexandre Frota\t.",
+    "Cueca comestível\t.",
+    "Sado masoquismo\t.",
+    "Batman\t.",
+    "Afogamento simulado\t.",
+    "Engravidar pelo ânus\t.",
+    "Injetar whisky na veia\t.",
+    "Ouvir 1 hora de música da Britney Spears por dia\t.",
+    "O sangue de Cristo\t.",
+    "Depender do SUS\t.",
+    "50 milhões de brasileiros que me amam\t.",
+    "Dedé Santana\t.",
+    "Sua mãe\t.",
+    "Autismo.",
+    "Um cara de meia idade andando de patins\t.",
+    "Meu relacionamento.",
+    "Carne humana.",
+    "Raio de sentimentos bons dos Ursinhos Carinhosos\t.",
+    "Suzana Vieira\t.",
+    "Eunuco\t.",
+    "Hemorróida\t.",
+    "Gritar o nome de seu gato na hora da transa\t.",
+    "Mamilos protuberantes\t.",
+    "Corrimento\t.",
+    "Prepúcio\t.",
+    "Gravidez na adolescência\t.",
+    "Fofão\t.",
+    "Fungada no pescoço\t.",
+    "Ver uma briga com drag queens\t.",
+    "Bruna Surfistinha\t.",
+    "Uma vacina que induz o autismo\t.",
+    "Judeus\t.",
+    "Churrasco na laje\t.",
+    "Cheirar pus de macaco\t.",
+    "Gorilão da bola azul\t.",
+    "Buracos gloriosos\t.",
+    "Comer a tia do Batman\t.",
+    "Lavagem intestinal.",
+    "Sentar num prego com tétano\t.",
+    "Beliscar azulejo\t.",
+    "Romance entre primos.",
+    "Minha genitália\t.",
+    "Coito interrompido\t.",
+    "Perereca suicida\t.",
+    "Um virjão flatulento\t.",
+    "Beber o vômito de um cachorro .",
+    "Bater na mãe por falta de mistura\t.",
+    "Homens japoneses idosos\t.",
+    "Erva para aumentar libido\t.",
+    "Morre diabo\t.",
+    "Árabe\t.",
+    "Xingar a sogra\t.",
+    "Um mexicano que trabalha duro\t.",
+    "Coxinhas.",
+    "Filho duma burra\t.",
+    "Violência doméstica\t.",
+    "Demônios interiores\t.",
+    "Paradoxo temporal\t.",
+    "Cunete\t.",
+    "Cobiçar a mulher do próximo\t.",
+    "Gugu Liberato\t.",
+    "Funk proibidão\t.",
+    "Debaixo de um pé de árvore\t.",
+    "Robocop\t.",
+    "Marmitex azeda\t.",
+    "Correr pelado na procissão\t.",
+    "Tim Maia\t.",
+    "Esperar arrotar e acabar vomitando\t.",
+    "Exaltasamba\t.",
+    "Tentar usar uma pokebola para \"capturar\" mulher na balada\t.",
+    "Achar ótimo\t.",
+    "Alcoolismo\t.",
+    "Lactação\t.",
+    "Lençóis infectados com varíola\t.",
+    "Boneca inflável\t.",
+    "Sacolé\t.",
+    "Uma carícia suave na parte interna da coxa\t.",
+    "Grupo de extermínio\t.",
+    "John McLane.",
+    "Assistir ao strip tease de sua avó\t.",
+    "Mãe, no céu tem pão\t.",
+    "Um mendigo craqueiro.",
+    "Heteronormatividade\t.",
+    "Disfunção erétil\t.",
+    "Troca de gentilezas\t.",
+    "Achar o Wally.",
+    "Transformar mendigos em pontos de wi-fi\t.",
+    "Tenente Ripley de calcinha e metralhadora.",
+    "Diarréia\t.",
+    "Micose do pé de mendigo.",
+    "Paulo Maluf\t.",
+    "Agnaldo Timóteo\t.",
+    "Pobres\t.",
+    "Destruidora\t.",
+    "Mijo de gato\t.",
+    "Acordar pelado e assado\t.",
+    "Venérea na boca\t.",
+    "Fazer corrida de cadeirantes\t.",
+    "Cotas raciais\t.",
+    "Pernalonga vestido de valquíria\t.",
+    "Inês Brasil.",
+    "Luiza Marilac\t.",
+    "O privilégio de ser branco\t.",
+    "Tétano\t.",
+    "Forrar o sofá com o couro do próprio corpo\t.",
+    "Flertar com Hannibal Lecter\t.",
+    "Papa\t.",
+    "Atrizes pornô\t.",
+    "Deixar o lustre cair sobre seus inimigos enquanto a outra ponta da corda te lança pra cima\t.",
+    "Uma agenda homossexual\t.",
+    "Bicha muda\t.",
+    "Culpar o mais imbecil\t.",
+    "Como aumentar o tamanho do pênis\t.",
+    "Chupar o cu de um pombo\t.",
+    "Clipe homo-erótico sobre voleibol\t.",
+    "Ser um feiticeiro filho da puta\t.",
+    "Minha vida sexual\t.",
+    "Dar uma cheiradinha fogosa em um negão suado\t.",
+    "Mafagafo amafagafinhando os mafagafinhos.",
+    "Cheirar cocaína pela bunda.",
+    "Transar com travestis anões.",
+    "Caralhos voadores\t.",
+    "Teta de vidro\t.",
+    "Fumar maconha antes da entrevista\t.",
+    "Comer uma torta de bosta\t.",
+    "Pornografia envolvendo tentáculos\t.",
+    "Pau de fósforo\t.",
+    "Ator pornô gay\t.",
+    "Chupar um rato\t.",
+    "O saco do papai noel\t.",
+    "Dor anal\t.",
+    "Um aplicativo de pornografia\t.",
+    "Fresco boiola\t.",
+    "Taca-le pau\t.",
+    "Aquele pau comprido\t.",
+    "Sexo surpresa\t.",
+    "Cu sangrando\t.",
+    "Limpar a bunda com papel crepom.",
+    "Chamar Alexandre Frota de tesudo\t.",
+    "Fazer sexo oral não recíproco\t.",
+    "Ereção que dura mais que quatro horas\t.",
+    "Empinar a bunda pro cavalo\t.",
+    "Se desfazer em merda\t.",
+    "Rir de Zorra Total\t.",
+    "Ser foda\t.",
+    "Bicha\t.",
+    "Cão voador cagando na cabeça de crianças\t.",
+    "Cortar o pinto fora\t.",
+    "Soltar um peido e se cagar inteiro\t.",
+    "Tensão sexual\t.",
+    "Pinto pequeno\t.",
+    "Mijar no sofá para marcar território\t.",
+    "Pornô calabouço-alemão\t.",
+    "Peidar no elevador .",
+    "Cheiro de bunda\t.",
+    "Cair o cu da bunda\t.",
+    "Um arranhão na bunda mantido em segredo\t.",
+    "Pinga e gasolina\t.",
+    "Tatuar um pênis nas costas\t.",
+    "Masturbação feminina\t.",
+    "Ejaculação precoce\t.",
+    "Enfiar um esquilo no cu\t.",
+    "Morte cerebral pós-sexo\t.",
+    "Transar com gente velha\t.",
+    "Punheta triste.",
+    "Incesto.",
+    "Sair mijando pelo cu\t.",
+    "Jesus negão\t.",
+    "Beber leite de burro\t."
+  ],
+  "pack": {
+    "id": "yrxd3",
+    "name": "Português Brasileiro (Normal)"
+  },
+  "quantity": {
+    "black": 233,
+    "white": 295,
+    "total": 528
+  },
+  "dateStoredMs": 1588875292118
+}

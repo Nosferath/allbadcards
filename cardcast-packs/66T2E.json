@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "Where is the best place to take a selfie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some black people actually enjoy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black people like _ . White people like _ . Mexicans like _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Maybe in the 9/11 the planes were just racing and crashed, or maybe they just _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Racism is kinda weird don't you think? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once you go _ you never go back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  is what really happened in Auschwitz.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Black furries.",
+    "Being gassed by jews.",
+    "Aucshwitz.",
+    "Burritos.",
+    "Tried to kill Barack Obama because hes white.",
+    "Cotton.",
+    "Twin Towers #NaturalDisaster?.",
+    "Hot butt sex because why the hell not.",
+    "Black dick in the bum.",
+    "Sexy dungeon whips and chains time.",
+    "Nazis riding ducks into war with the muslims.",
+    "Niggers on horses.",
+    "Fuck the Jews, love Nazis.",
+    "Fuck a duck.",
+    "Sexy Scottish men."
+  ],
+  "pack": {
+    "id": "66T2E",
+    "name": "Racism is love, Racism is life"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 15,
+    "total": 22
+  },
+  "dateStoredMs": 1588469644888
+}

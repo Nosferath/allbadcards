@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "A _ boy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pan- _ , pan- _ , panholiday.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Toad loves being an indentured servant almost as much as he loves _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiss your dad square on the _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unless... _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Yahoo was sent in by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And I'm your babiest brother, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chicken Soup for _ 's Soul",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emerging from the _ like the Chilean Miners.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new episode of Griffin's Amiibo Corner, Griffin tests the mouthfeel of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiss _ square on the _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiss _ square on the lips.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think _ should be able to vote!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Candlenights.",
+    "The Final Pam.",
+    "Cyber Garfield.",
+    "Shower Boys.",
+    "Bramblepelt!.",
+    "A couple of Genuine Wrestleboys.",
+    "The time belt.",
+    "Disgraced Simpsons Creator Matt Groening.",
+    "Justin McElroy.",
+    "Metal Husband.",
+    "Haunted dolls.",
+    "Truck Shepard.",
+    "Taako The Wizard.",
+    "Ghost horse.",
+    "Borth Sampson.",
+    "Invisible pregnant women.",
+    "The VR zone.",
+    "Bubble Jug.",
+    "Bliss-Delight.",
+    "SUCCOTASH!.",
+    "Trash Hulk.",
+    "Travis McElroy.",
+    "Peepum's Nastygum.",
+    "Rat Baby.",
+    "The Junker.",
+    "Old Lady Pills: Origins.",
+    "Griffin McElroy.",
+    "Clint McElroy.",
+    "The Chilean Miners.",
+    "Big Gulp.",
+    "Slime clones of Michael Jordan.",
+    "Glistening fishlifters.",
+    "Garfield's head on Pamela Anderson's body."
+  ],
+  "pack": {
+    "id": "7BH6T",
+    "name": "Cards Against the McElroys"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 33,
+    "total": 46
+  },
+  "dateStoredMs": 1588478636779
+}

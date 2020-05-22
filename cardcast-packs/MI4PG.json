@@ -1,0 +1,129 @@
+{
+  "black": [
+    {
+      "content": "The worst thing ever to happen in the medbay was _ , by a longshot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The timeline has been once again saved due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit Jim, I'm a doctor, not a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirk's girlfriend of the week, surprisingly enough, is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason Scotty was exiled to Delta Vega? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A transporter malfunction accidentally combined _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ : A good enough reason to turn the ship around, mid-mission.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Klingons vehemently dislike _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The punishment for crossing the Romulan neutral zone border: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Live long and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "20  Redshirts lost on previous away mission. Cause of death: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's wrong with the deflector shield this time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain Janeway was court-martialed again. Why? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was inwented in Russia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seeing your enemies for the first time, and realizing they're _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Phlox has began studying the behaviors of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ferengi Rule of Acquisition # 34: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "An away team consisting of the Captain, First Officer, and twenty Redshirts.",
+    "Porthos, Archer's pet beagle.",
+    "Captain Kirk.",
+    "Getting buried in a pile of Tribbles.",
+    "Leonard 'Bones' McCoy.",
+    "Mother. Fucking. Romulans.",
+    "Picard and Kirk making scrambled eggs.",
+    "Spock.",
+    "Finding our your mirror-universe self is an evil lesbian dictator.",
+    "Lt. Sulu.",
+    "Nuclear Wessels.",
+    "A holodeck full of booze and Orion prostitutes.",
+    "Lt. Uhura.",
+    "Angering thousands of nerds by rewriting Khan as Benadryl Cucumbersnatch.",
+    "Angry, violent, Klingon hatesex.",
+    "Getting Spock drunk on hot chocolate.",
+    "That one guy in the background of ST:TNG wearing a dress.",
+    "Wrist Nipples.",
+    "Picard's barber.",
+    "Q being an asshole. Again.",
+    "The Gorn of Cestus III.",
+    "Nurse Chapel.",
+    "Determining what season it is by the length of Riker's beard.",
+    "Make it so.",
+    "Inconveniently timed Pon Farr.",
+    "KHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN!!!.",
+    "Odo's bucket.",
+    "Overuse of lens flares."
+  ],
+  "pack": {
+    "id": "MI4PG",
+    "name": "Trek Deck"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 28,
+    "total": 45
+  },
+  "dateStoredMs": 1589116222877
+}

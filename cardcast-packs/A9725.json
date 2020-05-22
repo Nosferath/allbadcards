@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Bakugou's new hero name is... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Izuku \"_\" Midoria.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? Yaoyoruzu can now make _ containing _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Iida's engines run on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Midoria is muttering about _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todoroki's quirk is classified as Half _ Half _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wow, Todoroki must really hate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Might's new attack: _ Smash!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "DAD MIGHT.",
+    "The souls of the innocent.",
+    "Endeavor.",
+    "Deku.",
+    "Matryoshka dolls.",
+    "Uraraka.",
+    "Iida.",
+    "Ice mom.",
+    "Lord explosion murder.",
+    "Blasty mcSplode.",
+    "Uravity.",
+    "Ingenium.",
+    "DADZAWA.",
+    "Orange juice.",
+    "Aizawa's gravity defying scarves."
+  ],
+  "pack": {
+    "id": "A9725",
+    "name": "meme hero academia"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 15,
+    "total": 23
+  },
+  "dateStoredMs": 1588497040662
+}

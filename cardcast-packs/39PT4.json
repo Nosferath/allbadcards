@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "_ HAS TURNED KYLE BUSCH.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ HAS WON THE DAYTONA 500.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OMG _ HAS FLIPPED AT TALLADEGA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ HAS WON THE CHAMPIONCHIP AT HOMESTEAD.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Has won the SpongeBob 301 At Kansas.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Daniel Suarez.",
+    "David Ragan.",
+    "Kyle Busch.",
+    "Ryan Blaney.",
+    "Johnny Sauter.",
+    "Alex Bowman.",
+    "Tommy Regan.",
+    "Gray Gaulding.",
+    "Timmy Hill.",
+    "William Byron.",
+    "Ryan Newman.",
+    "Austin Cindric.",
+    "Jonathan Hoff.",
+    "Derrike Cope.",
+    "Ricky Stenhouse Jr.",
+    "Matt Crafton.",
+    "Martin Truex Jr.",
+    "Alon Day.",
+    "Chase Elliott.",
+    "Trevor Bayne.",
+    "Ross Chastain.",
+    "Clint Bowyer.",
+    "Bubba Wallace Jr.",
+    "Danica Patrick.",
+    "Chase Briscoe.",
+    "Dale Earnhardt Jr.",
+    "Ty Dillon.",
+    "Cole Whitt.",
+    "Jimmie Johnson.",
+    "Matt Kenseth.",
+    "Erik Jones.",
+    "Chris Buescher.",
+    "John Hunter Nemechek.",
+    "Matt DiBurrito.",
+    "Ryan Preece.",
+    "Austin Dillon.",
+    "Kyle Larson.",
+    "Aric Almirola.",
+    "Paul Menard.",
+    "Kurt Busch.",
+    "TJ Bell.",
+    "Joey Logano.",
+    "Kasey Kahne.",
+    "Corey LaJoie.",
+    "Ben Rhodes.",
+    "AJ Allmendinger.",
+    "Landon Cassill.",
+    "Michael McDowell.",
+    "Jamie McMurray.",
+    "Reed Sorenson.",
+    "Kevin Harvick.",
+    "Brad Keselowski.",
+    "Jeffery Earnhardt.",
+    "Denny Hamlin.",
+    "Carl Long.",
+    "Nathan Stapleton."
+  ],
+  "pack": {
+    "id": "39PT4",
+    "name": "Nascar"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 56,
+    "total": 61
+  },
+  "dateStoredMs": 1589002473261
+}

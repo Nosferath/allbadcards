@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "What is the American Dream™? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, you're a furry? Thats pretty _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Buying a fursuit.",
+    "Splooge.",
+    "Heehee hoohoo, I'm the monkey man.",
+    "The American Dream™.",
+    "Big brain time.",
+    "Zoops.",
+    "Being a furry.",
+    "I'm not interested in being polite or heterosexual!.",
+    "*eye emojis*.",
+    "The Donald™.",
+    "The KFC hole."
+  ],
+  "pack": {
+    "id": "M32HU",
+    "name": "heehee hoohoo im the monkey man"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 11,
+    "total": 13
+  },
+  "dateStoredMs": 1588381593222
+}

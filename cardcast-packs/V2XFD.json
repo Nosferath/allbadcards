@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "I can't believe _ isn't going to be in the new Avenger's movie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! _ has died. Again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When it's cold outside, Peter likes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shipping _ and _ is like shipping a walnut and an elephant.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Bucky.",
+    "Captain America.",
+    "Loki.",
+    "Pondering the relationship between Tony and Jarvis.",
+    "Wearing Captain America merchandise.",
+    "Rocket.",
+    "Hulk.",
+    "Santa Claus.",
+    "Professor X.",
+    "The Winter Soldier.",
+    "Hawkeye.",
+    "Iron Man.",
+    "The Thing.",
+    "Vision.",
+    "Magneto.",
+    "Deadpool.",
+    "Falcon.",
+    "Eating chimichangas.",
+    "Human Torch.",
+    "Spiderman.",
+    "Scarlet Witch.",
+    "Mr. Fantastic.",
+    "Black Widow.",
+    "Storm.",
+    "Uncle Ben.",
+    "Quicksilver.",
+    "Rogue.",
+    "Thor.",
+    "Star Lord.",
+    "Groot.",
+    "Wolverine."
+  ],
+  "pack": {
+    "id": "V2XFD",
+    "name": "MARVEL"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 31,
+    "total": 35
+  },
+  "dateStoredMs": 1589233237047
+}

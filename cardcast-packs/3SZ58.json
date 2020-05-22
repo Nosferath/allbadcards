@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "Bambi just called... his _ is stuffed and he needs a replacement.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was so angry! I put _  in my warmer and I felt better",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the Lamb had the newborn smell stuffed up his _ and was the hit of the baby shower!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Whenever I meet someone who hasn't heard of Scentsy I _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shit! I ran out of _ and _ just called, they need it now!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I'm really down I put _ and _ in a blender. Huzzah! The world is a happier place.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My samples come in _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Judge them openly.",
+    "Aussie Plums.",
+    "Small ziplock bags filled with crystals.",
+    "Honeymoon Hideaway.",
+    "By the Sea.",
+    "A wink and a smile.",
+    "Lemon Drop it Low."
+  ],
+  "pack": {
+    "id": "3SZ58",
+    "name": "Scentsy!"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 7,
+    "total": 14
+  },
+  "dateStoredMs": 1588933397801
+}

@@ -1,0 +1,79 @@
+{
+  "black": [
+    {
+      "content": "My OTP is _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ really turns me on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's be _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't normally fuck fuckboys, but when I do, it's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck your _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want _to shove her/his forearm up ass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We played all these bands, now let's  play shit from _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like to fuck _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brendon Urie.",
+    "Peterick.",
+    "Andy Hurley.",
+    "Ryden.",
+    "Ryan Ross.",
+    "The Milk Fic.",
+    "Chicken Strips.",
+    "Alone Together.",
+    "Dallon Weekes.",
+    "Brencer.",
+    "Fedora The Explorer.",
+    "Brallon.",
+    "Patrick Stump.",
+    "Spencer Smith.",
+    "Joe Trohman.",
+    "The Emo Princess.",
+    "Pete Wentz.",
+    "The Fuckboy."
+  ],
+  "pack": {
+    "id": "J7AAQ",
+    "name": "A Million Emo Tears"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 18,
+    "total": 27
+  },
+  "dateStoredMs": 1589382198632
+}

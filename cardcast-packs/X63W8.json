@@ -1,0 +1,138 @@
+{
+  "black": [
+    {
+      "content": "_ was all over the bathroom floor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A parent today complained about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "parents love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barbara announced _ on the radio.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ on the bus this morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is what's for lunch today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _  in the changing tent!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My counselor arrived late again because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Counselors, pay attention. I will demonstrate how to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maggie called! _ is happening on the field!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Security on the radio: I got _ here for an early pickup!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silly division leader! Did you think you could escape from _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WOW! THEY DID _ FOR THE TALENT SHOW",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mt favorite butterbeans meal is _ stuffed with _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My campers ate _ for lunch today!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to camp this summer: _ day!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "3 grapes and some shredded cheese.",
+    "Kristen.",
+    "Bobby's early pickup annoucements.",
+    "Fabio's morning assembly jokes.",
+    "Cranky Frankie.",
+    "Maureen Duffy.",
+    "Ray's mustache.",
+    "COVID 19.",
+    "SWIM LEVELS.",
+    "Turkey tacos all over my face.",
+    "Nicolas Blanco.",
+    "Peckton allergies.",
+    "Kids rioting.",
+    "That ranch dressing all over my body.",
+    "Raging parents.",
+    "Stacey Decter.",
+    "Yoga injuries.",
+    "Cold Delizia Pizza.",
+    "Member Time.",
+    "Margie Franco.",
+    "Early pick ups.",
+    "Sprinkler problems.",
+    "Tshirts are optional.",
+    "Wear  a mask.",
+    "A lot of fuckin' cheese.",
+    "Barbara wheeling her chair down a hill.",
+    "Failed lip sync battles.",
+    "Maggie's wrath.",
+    "Poop, poop everywhere!.",
+    "Barbara's bad knee.",
+    "Yuri's food rationing.",
+    "Maggie.",
+    "Racist grandmas.",
+    "Changing tents.",
+    "\"Family emergencies\".",
+    "Kids farting.",
+    "Counselors hooking up in the stairway.",
+    "Teddy Best.",
+    "Sun butter and Jelly on my armpits.",
+    "Sindy's love for changing tents.",
+    "Not enough kale salad.",
+    "Katie Duffy."
+  ],
+  "pack": {
+    "id": "X63W8",
+    "name": "AG"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 42,
+    "total": 58
+  },
+  "dateStoredMs": 1588794079493
+}

@@ -1,0 +1,670 @@
+{
+  "black": [
+    {
+      "content": "Faith in _ can only lead to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I don't know what got into me, but I just murdered _ by _... It felt great!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ joined the game!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Hanukkah our family exchanged _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Diary of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tried and true: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Frank Family hid in a secret room to avoid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I were a Jewish knight I would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Jews were actually guilty of hating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why must Jews always be circumcised? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who would you want to manage your gas bill? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was _ all along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I always enjoy making _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am never quite sure how to feel about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 6000 Jews ran out of the train when they hear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the sound of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ never really died and now runs the world in secret.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Jews always liven up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the only reasonable way to deal with erectile dysfunction? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Isn't a _ 20% off? If not, I will not take it!\" -Some Jewish woman.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_~ ;)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The perfect seasoning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mmmm... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "World War II started over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. #JustDictatorThings",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"When all else is gone, they shall remember me for _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put the Jews in the  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This place smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We roasted the Jews over the coals of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Jewish secretly loved killing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. IT'S THE JEW'S FAULT!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hail to the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You see, my people, _ is what Communism is really about.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The perfect game for the whole family!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Humanity at it's core.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was probably the happiest moment in history!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death Match: _ vs. _! Begin!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "That awkward moment when you realize that _ is your blind date.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They kill for one reason: They kill for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Fun for the whole family.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I loved being a Jew until _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that _ I smell?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. All the cool dictators are doing it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ killed the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Honey, I think I want to paint the house a lovely shade of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's fun for the whole family? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How many times do I have to tell you children to stop _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was proudly responsible for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ was almost a bad thing... Almost.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was probably the saddest thing in history.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For what will they remember the Xyzzy of this round? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The newest product of the Nazi Party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only Adolf Hitler would have _ as a fetish.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every Nazi recruit was put through a series of tests to make sure they were not Jewish. First they stripped down to _, and then Hitler did the _ test.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hitler only wanted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler's stripper name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Hitler do right? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Historian Friedrich Meinecke described Hitler as: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Russians stole _ from Hitler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do cats adore Adolf Hitler? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler poured millions of dollars into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler followed a _ diet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Nazi Master Plan was to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler's biggest kink was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will be Hitler's personal _ for a week if the _ live!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Hitler do wrong? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Hitler do on his first date with his cousin? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Hitler love? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler cried when he found out that his son was secretly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler secretly lead two separate lives: a life of _, and the life of a Führer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite Hitler's Youth memory was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler was fundamentally opposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Hitler do to deserve to die so early in his reign? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler was born into practicing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: An Autobiography by Adolf Hitler himself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "English historian Hugh Trevor-Roper saw Hitler as: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What got me out of Auschwitz? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ drove Hitler to kill _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Holocaust was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler did not believe in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the Russians take Adolf Hitler's testicle? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler: \"Why won't they stop shouting! The _ can't be that bad!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What scares Hitler the most? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler was really _ all along.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would Adolf Hitler's rapper name be? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler was really working for _ all along.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Hitler missing? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Hitler find sexy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Nazi Party has stated that they will support _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was needed at Auschwitz? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I literally orgasmed in my pants at the Holocaust Museum when I saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler created a public image as a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Adolf Hitler's favourite pass time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Hitler's favourite toy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With what or whom  did Hitler like to sleep? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The smash hit \"_\" by Adolf Hitler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler created a public image as a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hatred.",
+    "Führerious.",
+    "Killing every last Jew because I feel like it.",
+    "FIRE!.",
+    "20% off sales.",
+    "The best kind of genocide.",
+    "A new shower.",
+    "Genocide.",
+    "World War II.",
+    "ALL the Jews!.",
+    "The Great German Empire.",
+    "Death.",
+    "Boku NEIN Pico.",
+    "NEIN NEIN NEIN.",
+    "6 million Jews.",
+    "Dirty Jews.",
+    "The Star of David.",
+    "The King of the Jews himself.",
+    "More dead Jews.",
+    "The Bankers (AKA, the Jews).",
+    "Our goat Führer!.",
+    "Einsatzgruppen death squads.",
+    "Titler.",
+    "Jew dust snow angels.",
+    "Fascism.",
+    "Dying.",
+    "Jewish women.",
+    "A Jewish sacrafice.",
+    "Clitler.",
+    "Accidental casteration.",
+    "My fading ID tattoo.",
+    "Burning Jewish babies just to hear their scream.",
+    "Canada's Führer, Stephen Harper!.",
+    "Invading Poland.",
+    "Ashday.",
+    "Führeriously jerking off into a pool of Jewish tears.",
+    "Everything and everyone but the Jews.",
+    "Fapping to a burning Jewish orphanage across the street and getting off to their final screams.",
+    "The Führerious Five.",
+    "Furnace.",
+    "Swastika black.",
+    "A Jewish Kingdom.",
+    "When she tells her Jewish boyfriend to slip his train into the oven and release the Jews.",
+    "An infestation of Jewish rodents.",
+    "Sweet Succulent Sadism.",
+    "Being rejected from an art school and deciding to commit genocide to the race of the doctor who brought you into this world.",
+    "Preheating the oven to \"Jew\".",
+    "Kill the Jewish for reasons unknown.",
+    "The Aryan Master Race.",
+    "A bludgeoned Jewish child.",
+    "Segregated showers.",
+    "Mein Kampf.",
+    "A sweet talking Jewish girl.",
+    "One of the great examples of the singular and incalculable power of personality in historical life.",
+    "The Jews.",
+    "Adolf Kitler.",
+    "Gas Chambers for Dummies.",
+    "Gas bill management.",
+    "The Berlin Wall.",
+    "Jew dust grey.",
+    "Gas masks.",
+    "Aryans.",
+    "Jew smoothies (AKA Jewsies).",
+    "Antisemitism.",
+    "Communism.",
+    "MORE JEWS!.",
+    "Jewish holidays that make no sense.",
+    "Sir Cumcised.",
+    "Yabba dabba Jew!.",
+    "Gas.",
+    "Gas chambers.",
+    "Burning Jews.",
+    "I AM THE ALMIGHTY FUHRER!.",
+    "The ashes of the Jews.",
+    "Cristpy Jews.",
+    "Blond hair and blue eyes.",
+    "Genocidal.",
+    "Your Jewish bestfriend.",
+    "Jewish Fraternities.",
+    "Greed.",
+    "Fire roasted little boys stuffed with babies.",
+    "Sensationalism of the Aryan race.",
+    "Having a big nose.",
+    "Drowning in the blood of the Jews.",
+    "Anne Frank.",
+    "Literally being Jewish.",
+    "Dead Jews.",
+    "Jewish men.",
+    "Oven.",
+    "Among the 'terrible simplifiers' of history, the most systematic, the most historical, the most philosophical, and yet the coarsest, cruelest, least magnanimous conqueror the world has ever known.",
+    "Germanisation.",
+    "Lebensborn.",
+    "A big German sausage.",
+    "Segregated ovens.",
+    "Jewish Porn.",
+    "Adolf Hitler's weird fetish.",
+    "CyberNazis.",
+    "Hitler's secret 'stache.",
+    "Shitler.",
+    "Auschwitz shower parties.",
+    "Adolf Cousinfucking Hitler.",
+    "Hitler's baking problems.",
+    "A cum-stained Nazi uniform.",
+    "Smelling the asses of each new Nazi recruit to make sure they didn't smell like a coin slot, proving they were not Jewish posers.",
+    "Hitler penetrating your virgin asshole.",
+    "A giant, flying, circumsized cock.",
+    "Hitler's favourite thong.",
+    "Adolf Hitler seductively rubbing his nipples.",
+    "FUCK YOU! I'M THE SUPREME LEADER!.",
+    "Holocaust.",
+    "Perfectly timed Holocaust jokes.",
+    "An Anne Frank shaped dildo.",
+    "Hitler's sister.",
+    "Jew dust with so much Nazi cum in it that you could use it as plaster.",
+    "Hitler's Clitleros.",
+    "Hitler's Mother.",
+    "MechaHitler.",
+    "Adolf Motherfucking Hitler.",
+    "Nazi sex slaves.",
+    "Nazi Eugenics.",
+    "Hitler's right nut.",
+    "Streets named after Hitler.",
+    "Hitler's cousin.",
+    "Following \"Mein Kampf\" as though it's a sacred testament.",
+    "Hitler's Easy-Bake oven.",
+    "Hitler himself.",
+    "Feminazis.",
+    "Nazi red.",
+    "Holocaust jokes.",
+    "MechaHitler.",
+    "Jewish dungeon porn.",
+    "Pseudo-Nazism.",
+    "Hitler's missing testicle.",
+    "The Almighty Führer, Adolf Hitler.",
+    "Secretly Hitler.",
+    "Fuck the Jews!.",
+    "The Jewish Troll, Rumpled Foreskin.",
+    "Neo-Nazism.",
+    "Incest.",
+    "Jerking off in the bathroom of a Holocaust museum.",
+    "Multiple Hitler clones.",
+    "The dildo of Anne Frank.",
+    "Grammar Nazis.",
+    "The Nazi Master Plan.",
+    "Nazi \"vacation camps\".",
+    "Jewish Bukkake.",
+    "Sexy showers at Auschwitz.",
+    "Shaving your pubes to look like Hitler's moustache.",
+    "Nazi concentration camps.",
+    "Masturbating to Jewish porn.",
+    "Undercover Jewish Nazis.",
+    "MechaHitler's robo cock.",
+    "Hitler's flaccid schlong.",
+    "Kicking Hitler in the gnads.",
+    "Heinrich Himmler, the Reichsführer of the Schutzstaffel.",
+    "Hitler did nothing wrong.",
+    "Hitler's House of BBQ.",
+    "Auschwitz Gone Wild.",
+    "Jewish sex slaves.",
+    "Fisting Hitler's tight, Nazi ass.",
+    "Hitlerious.",
+    "My secret Hitler 'statche.",
+    "The Schutzstaffel.",
+    "A dick tater.",
+    "MechaHitler and his army of CyberNazis.",
+    "Nazis.",
+    "Nazi Propaganda.",
+    "Using the tears of the Jewish children to masturbate.",
+    "Felinazis!."
+  ],
+  "pack": {
+    "id": "NJBSX",
+    "name": "Hail Hitler! - The Führer Pack to end... nevermind..."
+  },
+  "quantity": {
+    "black": 97,
+    "white": 169,
+    "total": 266
+  },
+  "dateStoredMs": 1589470438548
+}

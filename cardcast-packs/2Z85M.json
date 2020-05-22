@@ -1,0 +1,939 @@
+{
+  "black": [
+    {
+      "content": "Gefeliciteerd met je diploma: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "www. _ .nl",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Belgie? is dat niet het land waar ze _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waar is die vlek op de bank van ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Een romantisch etentje zou niet hetzelfde zijn zonder _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pas op! _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om er voor te zorgen dat Nederland onmogelijk het Eurovisie songfestival kan winnen weeft de AVROTROS besloten om _ als inzending te sturen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sympathieke motie maar: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oranje bereikte weer niet de finale vanwege _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oorlog! Waar is het goed voor? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is Patty Brard eigenlijk? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey! Een _ , poah das mien maerk!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De Toppers bestaan dit jaar uit _ , _ , en _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In een moment van verstandsverbijstering het ineens eens met _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rtl late night wordt dit jaar gepresenteerd door: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry meneer, ik kon mijn huiswerk niet afmaken vanwege _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De rede dat ik te laat ben is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De cabaretier werd keihard uitgejouwd toen hij een grap maakte over _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn levensdoel is een boek schrijven over _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat onderscheid de top 1% van de overige 99%? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat maakt ieder feestje leuker? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het nieuwe boek van Carry Slee: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat onderscheidt de boomers van de zoomers? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik mag dan wel een _ zijn, maar dat maakt me nog geen _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Om zijn personeelsbestand te diversificeren ontsloeg de CEO _ en nam daarvoor in de plaats _ aan.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Om genderneutraal over te komen, zal de NS in plaats van \"Dames & Heren\", _ om gaan roepen op de stations.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik wil niet opscheppen maar ze noemen me ook wel de Mark Rutte van _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , het nieuwste metal album van _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gadverdamme ik proef _ ! is er nog wijn?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het Rijks heeft een nieuwe tentoonstelling over _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Comedy Central presenteert: The Roast of _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik heb nachtmerries dat de eerste woorden van mijn kind _ zullen zijn!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een garagebox in Helmond is een producent van illegale _ porno opgerold.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Absoluut niet\", zei de penningmeester toen iemand vroeg of er _ gedaan kon worden met verenigingsgeld.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : het nieuwe motto van Almere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ IT GIET OAN!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In plaats van de roe, geeft sint stoute kinderen dit jaar _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : heel normaal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waarmeer kunnen we MBO'ers inspireren? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is het meest emo? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het leger zet nu _ in tegen _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lay's nieuwe chips smaak: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joop van de Ende presenteert: _ : de Musical!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik word later _ , let maar op !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naast de Armeense genocide ontkent Turkije nu ook de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , nog nooit verslagen met _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nu zwarte piet nagenoeg weg is, protesteert Sylvana Simons tegen _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is Ivo Niehe's guilty pleasure? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om alle moppen te vergelden, heeft de Belgische regering besloten _ te sturen naar Nederland.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om bakfietsen tegen te gaan, heeft de gemeente besloten om _ neer te zetten op fietspaden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik besefte hoe makkelijk politicus zijn is toen ik _ leerde kennen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! Dat zei je moeder gisteravond ook.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het is allemaal de schuld van _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik wil _ , ik ben ook een klant!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zoals Cruijf altijd zei: Je moet _ om te _ , maja; das logisch.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wat hoef ik echt niet te weten? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , Het beste idee voor een JD-activiteit ooit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gij zult niet _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat doet Gordon op dit moment? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waarom plak ik zo? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah, zondag, de mooiste dag om _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na de stikstof crisis, de corona pandemie, en Henk Krol's breek met 50+ stond de _ crisis alweer voor de deur.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na het succes van Zoop en Huis Anubis, komt Nickelodeon dit jaar met een serie waarin _ op zoek gaat naar _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tijdens de seks denk ik het liefst aan _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dit jaar werd de Top 40 gedomineerd door _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Een lastigere uitdaging kan uit de kast komen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is het volgende Happy Meal speeltje? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waar kreeg de Europese Unie vandaag weer de schuld van? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is een schoolvoorbeeld van _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Maak een sinterklaasgedicht: _ _ _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "De nieuwste Volkswagen rijdt niet op diesel maar op:  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de toekomst zullen onze auto's op _ rijden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In zijn latere jaren schilderde Rembrandt van Rijn vooral portretten van _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat ruik ik toch? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deze week bij Zondag met Lubach de nieuwe rubriek: Zondag met lubach _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toen ik LSD gebruikte, verandere _ in _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wat gaat volgens Baudet ongelofelijk veel geld kosten? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREKEND: Freek Vonk is aangevallen door _ , hij heeft het helaas niet overleefd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de nieuwstee KRO-NCRV serie zeiken Maarten van Rossem en zijn broer _ af.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is een veel voorkomend verschijnsel onder _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , zo wil ik sterven.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat wordt beter met de tijd? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Waarom is Femke Halsema nu weer in het nieuws? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om Edam op de kaart te zetten word een muzikaal duo gevormd a la Nick & Simon: _ & _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ DAT IS RACISTISCH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Willen we meer of minder _ ? (minder, minder, minder)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja, seks is geweldig, maar heb je _ wel eens geprobeerd?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niemand komt aan _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanwege beperkte publiciteit heeft Patricia Paaij een _ tussen d'r benen laten plaatsen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik presenteer, de nieuwste JD appgroep: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beter vijf _ in de hand, dan tien in de lucht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maandag wasdag, Woensdag gehaktdag, Vrijdag _ dag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , het nieuwste boek geschreven door _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In het nieuwe seizoen van wie is de mol, kunnen kandidaten geld verdienen met _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Water, aarde, vuur, _  Lang geleden leefde de 4 naties in vrede samen, maar alles veranderde toen de vuurnatie aanviel, alleen de Avatar, meester van alle 4 de elementen kon ze stoppen, maar toen de wereld hem het meeste nodig had verdween hij.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "@NS_online de #trein waarin we zitten is te laat door _ , belachelijk!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "WTF is dit? Schreeuwde de blinde man toen hij _ aanraakte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uit een nieuw onderzoek blijkt dat _ achter MH17 zit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rtl presenteert: _ island.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is de grootste bedreiging voor de mensheid in het jaar 2040? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om hun achterban te vergroten besluit GroenLinks _ aan te bieden aan _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dat heb gestaan op _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanaf volgend jaar wordt ook _ vergoed door je basisverzekering.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vandaag is rood, de kleur van _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , de beste uitvinding sinds gesneden brood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is een ziekte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na maanden oefenen met _ , ben ik eindelijk klaar voor _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ik drink om _ te vergeten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoe origineel: Merol's nieuwste hit gaat over _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Alle coole kinderen doen dit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik heb niets tegen _ , maar...",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Een micropenis.",
+    "Valsspelen bij de Paralympics.",
+    "De clitoris.",
+    "De aarde is plat godverdomme!.",
+    "Een virtueel pedo-lokmeisje.",
+    "Eikenprocessierupsverdelger.",
+    "Elk stadje een ander schatje.",
+    "Het syndroom van down.",
+    "Lesbienes uit de Achterhoek.",
+    "Duitse dierenporno.",
+    "Urk.",
+    "Lijm snuiven.",
+    "Oorlog met België.",
+    "Kleerhanger abortus.",
+    "De gehele katholieke kerk.",
+    "Mohammed B.",
+    "Lingo.",
+    "Halverwege erachter komen dat je toch wel gay bent.",
+    "Franse filmhuisfilms.",
+    " Een Blijf-van-m’n-lijf-huis.",
+    "Het mannetje in de lesbische relatie.",
+    "Blauwe hoedjes en sjaaltjes.",
+    "Voorvocht.",
+    "Een minderjarig meisje.",
+    "Lijst Otten.",
+    "Jan-Peter Balkenende.",
+    "SGP.",
+    "50+.",
+    "Een natte droom.",
+    "DENK.",
+    "Rukken op slecht gerenderde porno totdat m’n bundel op is.",
+    "Minister van Engelshoven.",
+    "DUO.",
+    "Inteligente Lockdown.",
+    "Ljouwert.",
+    "Je zus tegenkomen in de pornofilm die je kijkt.",
+    "Slecht getimede nazi grappen.",
+    "Een bankstelsel gemaakt van aangereden herten.",
+    "Seks met eenden.",
+    "Mijn geheime voetenfetisj.",
+    "Rapper sjors.",
+    "Voetbalmoeders.",
+    "Lauwe pis.",
+    "Christenunie.",
+    "Een pandemie.",
+    "Mijn seksleven.",
+    "Macaroni met ham en kaas, maar dan zonder ham, zonder kaas en de macaroni is havermout.",
+    "Een raketje.",
+    "Limburg.",
+    "Een niet-poolse stukadoor.",
+    "Vingerverfen.",
+    "Een minderjarig jongetje.",
+    "Overcompenssatie.",
+    "Sambal bij?.",
+    "Een boomer die wel in klimaatverandering gelooft.",
+    "Bassie en Adriaan.",
+    "All-you-can-eat sushi.",
+    "Karin Bloemen.",
+    "Overspel.",
+    "De Gele Hesjes.",
+    "Een penthouse cadeau krijgen.",
+    "Perry het vogelbekdier.",
+    "Zoete, Zoete wraak.",
+    "De stekker eruit trekken.",
+    "Thaise ladyboys.",
+    "De Zuidas.",
+    "Skribbl, Jackbox en Cards against Humanity.",
+    "Een hersentumor,.",
+    "De multiculturele samenleving.",
+    "69.",
+    "Het Juiste doen.",
+    "Kinderen voor kinderen.",
+    "De manier hoe James Bond omgaat met vrouwen.",
+    "Legale slavernij.",
+    "Kindermisbruik.",
+    "Goudse kaas gebruiken om je schaamhaar te maskeren.",
+    "Het Partijkartel.",
+    "“Ik geloof dat de aarde plat is”.",
+    "Texel.",
+    "Een pak hagelslag.",
+    "Dom zijn.",
+    "De Nexit.",
+    "Twintig jaar oude niet behandelde gonoreau .",
+    "De Jonge Democraten.",
+    "Een mislukte verjaardag.",
+    "Pepernoten die in Augustus al in de winkel liggen.",
+    "Een drie-uur-durende video van het uitknijpen van puisten.",
+    "420.",
+    "Kleurenblindheid.",
+    "De VrijMiBo.",
+    "Stiekem zitten op een komkommer.",
+    "Het ware kerstgevoel.",
+    "Het internet.",
+    "FvD.",
+    "Primaire geslachtskenmerken.",
+    "Dood gaan omdat je uitgegleden bent over een bananenschil.",
+    "Onze enige echte god Peter R. de Vries.",
+    "De haai die Freek Vonk heeft gebeten.",
+    "Elk lichaamsvloeistof denkbaar.",
+    "Piano man van Billy Joel.",
+    "AIDS.",
+    "Tarrels.",
+    "De mosselman.",
+    "Een dolfijn in z’n spuitgat neuken.",
+    "#Oprutte.",
+    "Robots met zelfmoordneigingen.",
+    "De nieuwste M1 Abrahams tank, maar zonder munitie of benzine.",
+    "Geert Wilders’ Haar.",
+    "Almere.",
+    "70 Irakese burgerdoden.",
+    "Sambal Oelek.",
+    "De NS winterdienstregeling.",
+    "Freddy Mercury.",
+    "De Homoseksuele levensstijl.",
+    "Floortje Dessing.",
+    "Een boom vol processierupsen.",
+    "Bowlen, maar dan zonder bowlingbal en zonder pins.",
+    "Groenlinks.",
+    "BijEEN.",
+    "Fierljeppen met je geslachtsdeel.",
+    "D66.",
+    "Iemand die de deur open doet terwijl je zit te schijten.",
+    "Kees Momma.",
+    "Vijf terabyte aan dierenporno.",
+    "Een masker van je eigen gezicht.",
+    "Nickelback.",
+    "Soep gemaakt van verbrande takken, hondenspeeksel, 3 eskerogen en een wasbeer met hondsdolheid.",
+    "Anne Frank.",
+    "Een onderbroek vol remsporen.",
+    "Hamsteren.",
+    "Bewijzen dat ik geen robot ben.",
+    "Halverwege erachter komen dat je toch niet gay bent.",
+    "Een hele grote akka.",
+    "Tim en Tom Coronel.",
+    "Dwergen.",
+    "De Albanese maffia.",
+    "Een gebleekte anus.",
+    "Bakfietsmoeders,.",
+    "Glitter Plaatjes op Hyves.",
+    "De weersvoorspelling van Piet Paulusma.",
+    "Hunnebedde.",
+    "Anonieme moedermelk drinken.",
+    "Een fleshlight.",
+    "In je nakie Dora kijken.",
+    "Mosterdgas.",
+    "Beter Bed.",
+    "Rick Roll’ed.",
+    "Rijk zijn.",
+    "Uit de kast komen.",
+    "Vochtige meems.",
+    "Jody Bernal's succesvolle carriere.",
+    "Alcoholisme.",
+    "300 spartanen.",
+    "Een kapot kapotje.",
+    "Een 3 weken oude burrito.",
+    "De Armeense Genocide.",
+    "Ongesteldheid.",
+    "Een stuk rookworst, een fiets, en een gesigneerde kopie van Mein Kampf.",
+    "De italiaanse overheid.",
+    "Een heel nieuwe soort porno.",
+    "Auschwitz.",
+    "De webwinkel van de JD.",
+    "Olieworstellen.",
+    "Een legitieme verkrachting.",
+    "De nieuwste hit van Rinus.",
+    "Karin.",
+    "Een asymmetrische borstvergroting.",
+    "De nieuwste beschamende uitspraak van de jeugdafdeling van de SP.",
+    "Volendam.",
+    "Africa van Toto.",
+    "De SGP.",
+    "Dat hele gebeuren met Epstein.",
+    "CDA.",
+    "De allernieuwste IPhone.",
+    "Zelfmoordterrorist die twijfelt.",
+    "Een jongere versie van Minister Koolmees.",
+    "Het afschaffen van de CITO-toets.",
+    "De boze witte man.",
+    "42.",
+    "Een man op het punt van orgasme.",
+    "Nee.",
+    "Zijne Majesteit Koning Willem Alexander.",
+    "Boomers.",
+    "Apartheid.",
+    "Johan Cruijf.",
+    "50.000 volt op je tepels.",
+    "Kroepoek.",
+    "Zo’n boomer-bril met in/uitklapbare zonnebrilglazen.",
+    "Een vrouw op het punt van orgasme.",
+    "Thierry Baudet.",
+    "De bol.com man aan de speed.",
+    "Posttraumatische Stressstoornis.",
+    "Arme mensen.",
+    "VVD.",
+    "Wachten tot de bruiloft.",
+    "Je ‘Huiswerk’ mapje .",
+    "Storm Ciara.",
+    "De gehele familie roelvink.",
+    "Mijn bet-overgrootmoeder.",
+    "Een grijze stoel die groen kleurt als je liegt.",
+    "72 maagden in de hemel.",
+    "Het prachtige Lelystad.",
+    "Een geschiedenis diploma.",
+    "Vrienden worden met een donkere jongen zodat je het n-woord kan gebruiken.",
+    "Je dronken vader.",
+    "Die aflevering van Game of Thrones waar Juf Ank wordt aangerand en Tim Hofman er vervolgens een #BOOS aflevering van maakt. (of haal ik nu dingen door elkaar).",
+    "JD vochtige meems.",
+    "Moslims.",
+    "De melkboer.",
+    "De Laidl (Lidl).",
+    "Duits bier.",
+    "Een miljoen mieren.",
+    "Een feutus.",
+    "Knuffelen.",
+    "De trein naar het oosten.",
+    "Een kikker.",
+    "Het gehele Bestuur Pekaar I.",
+    "Gewoon, chillen.",
+    "Space Cake zonder space.",
+    "Ome Duo in natura betalen.",
+    "De Linkse Kerk.",
+    "Herpes in je oog.",
+    "Partij van de Arbeid.",
+    "Een perenijsje.",
+    "Ja zeggen tegen MDMA.",
+    "Het handschrift van een dik wijf uit 5 VWO.",
+    "De uil van Minerva.",
+    "In het ootje genomen worden.",
+    "Een erectie die langer dan vier uur duurt.",
+    "Romeo & Juillia.",
+    "Een bouwvakkersdecolleté.",
+    "Stukken dode prostitue.",
+    "Moorden, eten, drinken, en gewoon m’n leven leiden.",
+    "Marokkanen.",
+    "20 minuten voor de deadline.",
+    "Etnisch profileren.",
+    "PVV.",
+    "Tampons door de wc spoelen.",
+    "Vrije uitloopeieren.",
+    "Merol.",
+    "Maxima met 5 penisen.",
+    "Niet genoeg drugs.",
+    "#Nexit.",
+    "De Geneve conventie.",
+    "#Nietvanmijncenten.",
+    "Lil Kleine.",
+    "Kutschurft.",
+    "Zierikzee in deze tijd van het jaar.",
+    "Mijn relatiestatus.",
+    "Laxeermiddel.",
+    "Terug de kast in gaan.",
+    "5x achter elkaar D invullen in een multiple choice toets.",
+    "Een menselijke haarbal.",
+    "De vagina van Erica Terpstra.",
+    "Een kind vasthouden en een scheet in zijn gezicht laten.",
+    "Nederlandse Rap.",
+    "Halina Reijn.",
+    "Een belgische vluchteling.",
+    "Een dikke keyboard warrior.",
+    "Ziek stoned worden.",
+    "Gemeentelijke belastingen.",
+    "Mijn racistische oom.",
+    "Ghosten.",
+    "Een ijsje stelen van een gehandicapt persoon.",
+    "Coronavirus en 5G.",
+    "Emoties.",
+    "De Joods-christelijke samenleving.",
+    "Niks.",
+    "Ome Adolf.",
+    "De NSB.",
+    "Bewijs vernietigen.",
+    "Mark Rutte.",
+    "Een eindeloze stroom diaree.",
+    "Arme mensen die VVD stemmen.",
+    "Dikke mannen in te strakke speedo’s.",
+    "Een hond die kan praten, maar ervoor kiest dit niet te doen.",
+    "Vingerverven.",
+    "Een biggetje met een regenjas en laarsjes.",
+    "Een zielloze ginger.",
+    "De holocaust.",
+    "De chocolade vla in dubbelvla vervangen door diarree van je dementerende oma.",
+    "De 2e wet van thermodynamica.",
+    "Grachtengordel Elite.",
+    "K3 erotica.",
+    "Asielzoekers.",
+    "Luid van de daken schreeuwen dat je er klaar mee bent.",
+    "Tendentieus, ongefundeerd en nodeloos kwetsend.",
+    "Vmbo’ers.",
+    "Een zoute verrassing.",
+    "SP.",
+    "Een prostaatmassage.",
+    "Alle Duitsers terug naar Mofrika!.",
+    "Vingeren.",
+    "Een sexy siamese tweeling.",
+    "Een syrische vluchteling.",
+    "Een vijfjarig autistisch jongetje.",
+    "Overcompensatie.",
+    "De Zwarte Pieten discussie.",
+    "Racisme.",
+    "Een boer verwachten, maar de hele vloer onder kotsen.",
+    "Het koloniale verleden.",
+    "Corona, de pest van de 21e eeuw.",
+    "Het rode licht buurt in Amsterdam.",
+    "Nickelback.",
+    "Maarten van Rossem.",
+    "Een vies wit busje.",
+    "Hard “Oh ja ik kom” roepen terwijl je een boterham met kaas eet.",
+    "Het broertje van je beste vriendin.",
+    "Het bomvest dat ik draag.",
+    "JGay.",
+    "Een vluggertje.",
+    "Dode ouders.",
+    "De huidige olieprijs.",
+    "Jezelf aftrekken in een bad met kindertranen.",
+    "De Penningmeester van de JDA.",
+    "Vijf euro?! Op je muil gauw!.",
+    "Natuurlijke selectie.",
+    "Afrikaanse Kinderen.",
+    "Die plek waar spiderman is opgenomen.",
+    "Vrouwenstemrecht.",
+    "Henny Huismans internet historie.",
+    "#D666.",
+    "Paardenvlees.",
+    "Een kat in een honden kostuum.",
+    "Famke Louise als ze 50 is.",
+    "Klimaatverandering.",
+    "Een coffeeshop voor zwaar gereformeerden christenen.",
+    "Lactatie.",
+    "Het idee van een walrus.",
+    "Hoog Geleid zijn.",
+    "Een busje vol met polen.",
+    "Plasseks op de EO-jongerendagen.",
+    "Kortpittige Garnaalkroketjes.",
+    "Die ene prinses, ja, de middelste ja.",
+    "Zierikzee.",
+    "Dre hazes.",
+    "Knipogen naar oude mensen.",
+    "Corpsballen.",
+    "Servetjes.",
+    "Partij voor de Dieren.",
+    "Het verzamelzakje met al jouw kindertanden.",
+    "Positieve Discriminatie.",
+    "Oude mensen geur.",
+    "Rijk zijn.",
+    "Een oprechte menselijke connectie.",
+    "Trouwen, Kinderen krijgen, dingen kopen, rentenieren aan de spaanse costa, dood gaan.",
+    "Natte dromen.",
+    "Passief agressieve post-it-notes.",
+    "Polen binnenvallen.",
+    "Aziaten die niet goed zijn in Wiskunde.",
+    "De coronacrisis.",
+    "Verkeerd begrepen pedofielen.",
+    "Opstaan uit het graf.",
+    "De persoon links van mij.",
+    "Tweedehands luiers voor volwassenen.",
+    "Bungeejumpen zonder touw.",
+    "Brabant jonguh!.",
+    "Meerdere steekwonden.",
+    "Nazies.",
+    "Met pensioen gaan.",
+    "Het halveren van de veestapel.",
+    "Batman en Robin.",
+    "Wereldvrede."
+  ],
+  "pack": {
+    "id": "2Z85M",
+    "name": "JDA"
+  },
+  "quantity": {
+    "black": 112,
+    "white": 363,
+    "total": 475
+  },
+  "dateStoredMs": 1589217573053
+}

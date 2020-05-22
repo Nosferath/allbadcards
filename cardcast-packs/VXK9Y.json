@@ -1,0 +1,116 @@
+{
+  "black": [
+    {
+      "content": "\"Cieszę się, że jesteś tutaj ze mną, _. Tutaj, w ostatniej _.\" - Frodo",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Nie żałuj _, Harry, żałuj _\" - Dumbledore",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ poczuł ogromną ochotę, by podjąć próbę _\" - Narrator (Wiedźmin)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Są takie _, które - przeżyte wspólnie - muszą się zakończyć _\" - Hermiona",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Pomyliłeś _ z _ odbitymi nocą na powierzchni stawu\" - Vilgefortz",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ nigdy się nie spóźnia\" - Gandalf",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Później mówiono, że _ ten nadszedł od północy; od _.\" - Narrator  (Wiedźmin)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Jeśli mam wybierać między _ a _, to wolę nie wybierać wcale\" - Geralt",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Wszędzie dobrze gdzie jest _.\" - Halt",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ to zbyt skromne przezwisko, synu _. Ja bym cię raczej nazwał _.\" - Eomer",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Zajebany rok u Pawłyszcze.",
+    "Studniówka w wieliczce.",
+    "R u c h a n i e.",
+    "Pojeb.",
+    "Henio.",
+    "Golum.",
+    "Żydowski targ w tym miesiącu.",
+    "Tatra.",
+    "Stary Mołoko.",
+    "Sławek.",
+    "Kodowiec.",
+    "Twój stary.",
+    "Promocja.",
+    "Zajebany sprawdzian u  Pawłyszcze.",
+    "Płód.",
+    "Szczęście.",
+    "Gwałt.",
+    "Segz.",
+    "Gta V 1.8 patch full dlc cracked free no virus.",
+    "Tibia.",
+    "Twoja stara.",
+    "Bill Gates.",
+    "Pawłyszcze.",
+    "WoW.",
+    "Bimber.",
+    "Stach.",
+    "Menel.",
+    "Technikum Komunikacyjne nr 25.",
+    "Śpiewać nago utowry Bajmu.",
+    "Lewiatan.",
+    "Impreza.",
+    "200cc za 20pln psc only Vunira 300.",
+    "Ruchacz.",
+    "Wódka.",
+    "Śliwa.",
+    "Harnaś.",
+    "Sbek.",
+    "NightBlue3.",
+    "Andrzej.",
+    "Kloszard.",
+    "Zajebany semestr u Pawłyszcze.",
+    "Promocja świąteczna.",
+    "Ubek.",
+    "Walić konia.",
+    "Geralt z Rivii.",
+    "Huragan.",
+    "Ulung.",
+    "Eryk Tabiś.",
+    "Legut.",
+    "Rozlane kuflowe mocne 7.2%."
+  ],
+  "pack": {
+    "id": "VXK9Y",
+    "name": "Cytaty + TK"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 50,
+    "total": 60
+  },
+  "dateStoredMs": 1589523178116
+}

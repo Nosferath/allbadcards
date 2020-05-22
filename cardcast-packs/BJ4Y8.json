@@ -1,0 +1,102 @@
+{
+  "black": [
+    {
+      "content": "_ abre as jolas com os dentes!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu não comia _ nem que me pagasses!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoje decido variar. Em vez de italiano, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No zoo eu vi um elefante, uma girafa e _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "És mais feio que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ deve ser o chefe de turma!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "2€ - Limonada ; 50€ - _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se fosse açoriana ou _ até comia!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Martim já não sonha com Sporting ser campeão. Agora o sonho dele é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ÚLTIMA HORA: _ traiu a mulher com _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ > _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "www._xxx.com",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Paulo Bento a tranquilizar.",
+    "A barba do Lome.",
+    "Uma torrada meio queimada.",
+    "The End of Days.",
+    "A meia-irmã que quer palhaçada.",
+    "Big Bambu.",
+    "O bigode inexistente do Lome.",
+    "O Arlindo.",
+    "Irina de quatro.",
+    "Cliché.",
+    "Terroristas.",
+    "Um silêncio tenso.",
+    "Os pintelhos do tio.",
+    "O fim dos dias.",
+    "A filha do Alberto.",
+    "Uma muleta.",
+    "AI a ganhar os jogos.",
+    "Ciumes numa chamada.",
+    "Uma namorada com periodo.",
+    "Um homem.",
+    "Um pão de leite.",
+    "Uma surpresa.",
+    "Gajas mais ou menos boas.",
+    "Cabelo sedoso, maravilhoso do Johnny.",
+    "Uma italiana virgem.",
+    "Um pénis muito mediano."
+  ],
+  "pack": {
+    "id": "BJ4Y8",
+    "name": "O Abreolhos 3"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 26,
+    "total": 38
+  },
+  "dateStoredMs": 1589497172477
+}

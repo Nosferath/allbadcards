@@ -1,0 +1,89 @@
+{
+  "black": [
+    {
+      "content": "Nézd meg mennyi _ van itt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kedven játékom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit gondolsz magadról? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit gondolsz Michael Jacksonról? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Légy te a kiválasztott, _ , aztán _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Berek Elek: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Állj, nem gondoltam volna, hogy ezt érzem, más szemmel nézek rád beléd estem, s tudom támadni fog majd ,_!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Huncut a mókus  újra _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ téged választalak!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vigyázz magadra drágám, tudod, hogy te vagy az eggyetlen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az apám _, az anyám meg _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Horváth Tamás.",
+    "Yu-gi-oh.",
+    "Egy jó szakember egy jónagy fasszal.",
+    "Szarja fel magát az égbe.",
+    "A faszom.",
+    "Verd ki!.",
+    "Jotaro.",
+    "Hát ha leesik akkor fel is esik.",
+    "Senkinek nem kellek.",
+    "Hülyegyerek.",
+    "Egyél szart egy kocsmában.",
+    "Az anyád.",
+    "Gyerekek a balaton parton.",
+    "Kúrd meg mindet!.",
+    "Sasuke.",
+    "Naruto.",
+    "Maradj ott mert leszopom a refluxod.",
+    "Koronavírus."
+  ],
+  "pack": {
+    "id": "ZFFFA",
+    "name": "hülyegyerekek és a fogyatékosság"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 18,
+    "total": 29
+  },
+  "dateStoredMs": 1589140765947
+}

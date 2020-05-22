@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Why did Bush do 911? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daddy, is mummy crying because of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did hitler kill the jews? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The jews took all the money.",
+    "_."
+  ],
+  "pack": {
+    "id": "4K94J",
+    "name": "Best Deck"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 2,
+    "total": 5
+  },
+  "dateStoredMs": 1588966514764
+}

@@ -1,0 +1,99 @@
+{
+  "black": [
+    {
+      "content": "Who else but Quagmire? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I await your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(as Emily Vasquez) What's up, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ and _ time!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'd like to _ her _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ayyyy, it's the _. Who are you people?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And I mean teen girl who _...",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mr. Enter.",
+    "Ringo Starr.",
+    "Yo Yogi.",
+    "Clone High.",
+    "Nolan.",
+    "90s Kids.",
+    "A diaper fetish.",
+    "The Pizza Party Podcast.",
+    "Pan-Pizza's Patreon.",
+    "Gaz from Invader Zim.",
+    "Coconut Fred's Fruit Salad Island.",
+    "Pearl's nose.",
+    "Goth girls.",
+    "Ben T. Looney.",
+    "Emily the Strange.",
+    "Loonatics Unleashed.",
+    "Cel Damage.",
+    "Jim.",
+    "The cops.",
+    "The Powerpuff Girls reboot.",
+    "The prom being tomorrow.",
+    "Emily Vasquez.",
+    "Shrek.",
+    "Stephany Vasquez.",
+    "GTA V being the poor man's Saints Row.",
+    "CN Real.",
+    "The Pre-MLP Review era of RebelTaxi.",
+    "Mike Mozart of JeepersMedia.",
+    "Gothtober.",
+    "Ken.",
+    "ZONE-tan.",
+    "Jimmy Neutron's religious subtext.",
+    "The GameSlave 2.",
+    "Teen Titans Go.",
+    "The final episode of Evangelion.",
+    "Pan-Pizza.",
+    "Space Jam.",
+    "Derpy Hooves.",
+    "Invader Zim.",
+    "StevRayBro's previous life as a man.",
+    "Tara Strong.",
+    "Roxy Bear.",
+    "Sonic the Hedgehog.",
+    "Pan's true face.",
+    "Raven.",
+    "Raven's ass.",
+    "That one time Pan slipped Cartoon Porn in a Top 10 list.",
+    "Cock Zone."
+  ],
+  "pack": {
+    "id": "EQJDX",
+    "name": "Cards Against The RebelTaxi"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 48,
+    "total": 55
+  },
+  "dateStoredMs": 1589068725954
+}

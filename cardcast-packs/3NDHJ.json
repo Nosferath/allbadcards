@@ -1,0 +1,62 @@
+{
+  "black": [
+    {
+      "content": "If I had a droid his main function would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars Episode VII: _ Awakens.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Killing your dad because you can.",
+    "Poe Dameron.",
+    "Finding a random girl on a desert planet and fucking the shit out of her.",
+    "Going back to Jakku.",
+    "The Guavian Death Gang.",
+    "The Resistance.",
+    "Han Solo.",
+    "Rey's sweet ass.",
+    "A Rathtar.",
+    "Kanjiklub.",
+    "Finding Luke Skywalker.",
+    "Space Nazis.",
+    "Trying to find Luke Skywalker.",
+    "BB-8.",
+    "Using the Force to undress that scavenger you just met.",
+    "Rey.",
+    "The Force.",
+    "Being the only black stormtrooper.",
+    "Fucking Finn.",
+    "The First Order.",
+    "Telling things to Kanjiklub.",
+    "Masturbating to your grandpa's old, melted helmet.",
+    "Something that looks like a soccer ball with a head, but is actually a droid.",
+    "Getting eaten by a Rathtar.",
+    "Worshiping your dead grandpa's old, crusty helmet.",
+    "Chewbacca.",
+    "Awakening the Force.",
+    "Pounding Poe.",
+    "The map that leads to Luke Skywalker.",
+    "Raping Rey.",
+    "Seeing a girl for the first time in 30 years and Force Raping her.",
+    "Kylo Ren.",
+    "A black stormtrooper.",
+    "Turning a planet into a giant fucking space cannon.",
+    "Finn.",
+    "Blowing up entire planetary systems with your planet cannon."
+  ],
+  "pack": {
+    "id": "3NDHJ",
+    "name": "Star Wars Episode VII: The Deck Awakens"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 36,
+    "total": 38
+  },
+  "dateStoredMs": 1588616200280
+}

@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "Dawno temu ja też znałem pewną kobietę _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie bede przeklinał bo _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gruz.",
+    "Jest tu jakiś cwaniak.",
+    "Kopa z pięści w szyję.",
+    "Chuj.",
+    "Chuj dupa i kamieni kupa.",
+    "Gówno.",
+    "Ssij.",
+    "Dupe liżesz a gówno płynie.",
+    "Bijcie masterczułki.",
+    "Twój stary pijany.",
+    "Admin rucha psa jak sra.",
+    "Idź tam wyliż jape ojcu.",
+    "Grzegorz Brzęczyszczykiewicz.",
+    "Osioł na rowerze.",
+    "Tibie krzesłem obronie.",
+    "Kaj Ty tam strzelosz Duduś.",
+    "Cipa i wrotki.",
+    "Błogosławiony kto nie widział a uwierzył.",
+    "Spierdalaj.",
+    "Debile pojebane.",
+    "Chamie.",
+    "Ryj tam psie.",
+    "Jebać ulane kurwy.",
+    "Kapitan Bomba."
+  ],
+  "pack": {
+    "id": "5EXDW",
+    "name": "Dodatki"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 24,
+    "total": 26
+  },
+  "dateStoredMs": 1589282217099
+}

@@ -1,0 +1,176 @@
+{
+  "black": [
+    {
+      "content": "If we succeed, this'll be the very first time I've won as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The executioner managed to get the town to hang his target by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A report was filed for _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "At the expense of their own team, _ sided with _ to help _ win the game.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Surprisingly, the serial killer managed to avoid being hanged by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The jester managed to get the town to hang him by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An amnesiac remembered that they were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the worst role.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the very end, _ revealed that they were really _ all along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ has revealed themselves as the mayor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"If I die tonight, _ did it!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ being blackmailed or are they just _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The serial killer accused _ of being _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The veteran went on alert last night and shot _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "According to the spy, the mafia were talking about _ last night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apparently the executioner admitted to the jailor that their target is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to the jailor's will, _ claimed to be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Well done arsonist, you just doused _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The mafia killed _ , who was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "BlankMediaGames have revealed that the new role, _ 's ability is _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "EVERYONE WHISPER ME YOUR ROLES NOW.",
+    "The Jailor.",
+    "The Retributionist.",
+    "The Mayor.",
+    "The Blackmailer.",
+    "The Vampire Hunter.",
+    "The Witch.",
+    "The town.",
+    "The Sheriff.",
+    "The Werewolf.",
+    "The mafia.",
+    "Five lookouts, three escorts and a medium in all any mode.",
+    "The Survivor.",
+    "A successful double-bluff.",
+    "Random hangings.",
+    "The Godfather.",
+    "People who leave because they didn't get a killing role.",
+    "The Consort.",
+    "The Serial Killer.",
+    "The Lookout.",
+    "Spamming the chat.",
+    "The Medium.",
+    "The Vigilante.",
+    "A kinky death note.",
+    "Pretending to reveal as mayor.",
+    "The Bodyguard.",
+    "The Doctor.",
+    "Werewolves roleplaying in their death notes.",
+    "Being blackmailed every single day.",
+    "Skype cheating.",
+    "Consorts claiming escort.",
+    "The Escort.",
+    "The Vampire.",
+    "The Janitor.",
+    "Repicking the host.",
+    "The Disguiser.",
+    "Roleblocking the serial killer and getting shanked.",
+    "Themed naming.",
+    "The Forger.",
+    "Vigilante justice.",
+    "Veterans that write \"get off my lawn\" in their death notes.",
+    "The Arsonist.",
+    "The Spy.",
+    "An afk host.",
+    "The Investigator.",
+    "The Executioner.",
+    "The curse of the medium.",
+    "The Consigliere.",
+    "A poorly-timed roleblock.",
+    "Hanging the mayor.",
+    "Multi-accounting.",
+    "Roleblocking the investigator.",
+    "The Framer.",
+    "The Mafioso.",
+    "The Amnesiac.",
+    "Gamethrowing.",
+    "The Jester.",
+    "The Transporter.",
+    "The Veteran.",
+    "A useless jailor."
+  ],
+  "pack": {
+    "id": "37SKE",
+    "name": "ToS Against Humanity"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 60,
+    "total": 80
+  },
+  "dateStoredMs": 1589560333397
+}

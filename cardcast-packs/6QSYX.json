@@ -1,0 +1,217 @@
+{
+  "black": [
+    {
+      "content": "BIGYAN NG _ YAN!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eto ang bagong _ dito sa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bakit di ka crush ng crush mo? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before leaving for Australia, General Douglas Macarthur uttered: \"_ \".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Housemates, ang challenge niyo sa linggo na to ay _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baguio. The _ of the Philippines",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daig pa _ ang hindi magmahal sa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. SUSUNOD SA THE BUZZ!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By Presidential decree, I declare this day a holiday because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That Thing Called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Love team between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Back then Filipino kids used to watch _ in the afternoon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NAPAKASAKIT!!! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Napupuno nanaman ng Jeje ang _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ang bayan kong _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a recent documentary, they found out that inside a taho factory, they found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mapapanood mo na gabi gabi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After joining the PBA, Manny Pacquiao now wants _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eto _ ay para sa paborito kong apo, si Gina.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new teleserye, a poor _ falls in love with a rich _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are Filipino girls into these days? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Typhoon _ is going to make landfall tomorrow night",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a campaign stint, Vice President Binay put his name on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pinoy, nahatulan ng kamatayan sa ibang bansa dahil _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now watch me _. Watch me _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Naniniwala na ako sa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NEW SEX SCANDAL FEATURING _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Jejomar \"The Dark Lord\" Binay.",
+    "China trying to claim territories.",
+    "Putangina.",
+    "Tabon Man.",
+    "Ryzza Mae Show.",
+    "Penitensya.",
+    "Sinigang.",
+    "UP Diliman.",
+    "Semana Santa.",
+    "PBB.",
+    "Chicken Pizza of KFC or whatever abomination they will make.",
+    "Cory Aquino.",
+    "Shabu.",
+    "Underground River in Palawan.",
+    "Kontrabando.",
+    "Chicser.",
+    "Ginebra San Miguel Basketball team.",
+    "Pancit Canton.",
+    "Willie Reviliame.",
+    "Dirty Ice Cream.",
+    "Coco Martin.",
+    "Grace Poe.",
+    "The Filipino trend of putting an H in your nickname.",
+    "Robin Padilla.",
+    "Chiz Escudero.",
+    "Deyniyel Pedille.",
+    "Pabebe Girls.",
+    "Eating with your Bare Hands.",
+    "Tuwid na Daan.",
+    "PAKYU KA.",
+    "Jessica Soho.",
+    "Changing to a rainbow themed profile pic cause you thought it was Marijuana.",
+    "UPLB.",
+    "Diary ng Panget.",
+    "Askal.",
+    "PBA.",
+    "Cards Against Filipinos.",
+    "Mar Roxas.",
+    "Freshly \"shipped\" cellphones on the overpass.",
+    "Noli de Castro saying Kabayan, A LOT.",
+    "Sharon Cuneta.",
+    "Isaw.",
+    "Rodrigo Duterte.",
+    "Noynoy Aquino.",
+    "Taho Vendors.",
+    "Bisaya people trying to speak in English.",
+    "Chuchubells ni ecklabu.",
+    "TANGINA MO JHEPOY DIZON.",
+    "Nadine Lustre.",
+    "Boracay.",
+    "Jiro Manio.",
+    "Bolo ni Lapu Lapu.",
+    "James Reid.",
+    "KMI aNG JEj3lH0urDsxz.",
+    "Manny V. Pangilinan.",
+    "PLDT.",
+    "BB Gandanghari.",
+    "M Lhuhiller.",
+    "It's Showtime.",
+    "The trend of wearing a cap and shades inside the Church.",
+    "ASAP.",
+    "Chow King.",
+    "Trying to speak in Beki like genern diba nakakaloka.",
+    "Jireh Lim.",
+    "MILF.",
+    "Bagito Sex Scandal."
+  ],
+  "pack": {
+    "id": "6QSYX",
+    "name": "Cards Against Filipinos 2"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 66,
+    "total": 93
+  },
+  "dateStoredMs": 1589530396009
+}

@@ -1,0 +1,89 @@
+{
+  "black": [
+    {
+      "content": "All Your Base Belong to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keep calm and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Ain't nobody got time for that!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One does not simply _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Memes do not think about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eat. Sleep. _. Repeat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's OVER _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nintendo decided to make their new console, the Wii _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SUPAA SMAAAAASH _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's SUPER _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And this is where I'd put _, IF I HAD ONE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jump. Jump. Shoot. Jump. _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "You and I.",
+    "A Trophy.",
+    "Brathas.",
+    "Shoot more.",
+    "9000.",
+    "Make sense.",
+    "Cena.",
+    "Surprised patrick.",
+    "Spelling things correctly.",
+    "German suplex.",
+    "Piledrive everybody.",
+    "Dodge a boomerang.",
+    "Me."
+  ],
+  "pack": {
+    "id": "YXYXT",
+    "name": "Memes & Video Games"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 13,
+    "total": 25
+  },
+  "dateStoredMs": 1589053283769
+}

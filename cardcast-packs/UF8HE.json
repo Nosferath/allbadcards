@@ -1,0 +1,158 @@
+{
+  "black": [
+    {
+      "content": "Join me _ , and I will make your _ the greatest in Koridai.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's 4 o'clock in the morning, why are you making chocolate pudding?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you don't hear from me in a month, send _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grass grows, birds fly, sun shines and brudda... I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It isn't called \"the McRoll,\" you plebe, the song is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Squa-da-la, we are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I worked on this _ for 40 hours in ms paint.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This! Is! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ does _ while I play unfitting music.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where there's smoke there's _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is no time, your _ is enough!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's mama _ , to you Mario!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just wonder what _ is up to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ , _ , you want it? It's yours, as long as you have enough rupees.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Sonic sez: Kids, there's nothing more cool than _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for ten hours.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How about a _ , for luck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ with a layer added every second.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so hungry I could eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is written only _ can defeat _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The birds are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, cookie monster, _ is not delicious.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dr.Robotnik.",
+    "King Harkinian.",
+    "Colgate filing copyright takedowns against your videos.",
+    "The magic labyrinth of I.M Meen.",
+    "Gay luigi.",
+    "Lotsa spaghetti.",
+    "Joj valjeaj.",
+    "Mudkipz.",
+    "Sentence mixing.",
+    "Dr.Rabbit.",
+    "WalrusGuy.",
+    "Mama Luigi.",
+    "PINGAS.",
+    "Bad Windows Movie Maker effects.",
+    "The bagel.",
+    "Pitch shifting.",
+    "Touhou remixes.",
+    "DIE.",
+    "U.N Owen.",
+    "Gwonam.",
+    "Dinner.",
+    "WeeGee.",
+    "Impa.",
+    "MAH BOI.",
+    "Link.",
+    "The wand of gamelon.",
+    "A dangerous nun.",
+    "Ganon.",
+    "Zelda.",
+    "WeeGee staring at you from the corner of your room, in the night.",
+    "The triforce of wisdom.",
+    "Candleja."
+  ],
+  "pack": {
+    "id": "uf8he",
+    "name": "Youtube Poop Deck"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 32,
+    "total": 54
+  },
+  "dateStoredMs": 1588998658802
+}

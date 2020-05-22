@@ -1,0 +1,87 @@
+{
+  "black": [
+    {
+      "content": "Laten we een vuur maken met behulp van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het is niet te geloven, tijdens het kerstdiner zag ik _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leiding mag ik _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dit zomerkamp gaan we zeker _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volgend jaar wil ik met zomerkamp _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het nieuwe ijsberenlied dit jaar is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dames en heren ik stel jullie voor aan de nieuwe groepsleider _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We gaan een hike lopen van _ naar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is tijn _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deze opkomst gaan we _ met _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Leiding terroriseren.",
+    "Daniels instagram account.",
+    "Martijn´s fursona.",
+    "De disco op ijsberenweekend.",
+    "Dania´s kattengeluiden.",
+    "Sara´s kale hond.",
+    "Menno z.",
+    "Broodjes bakken.",
+    "Een van dylan´s fietsen.",
+    "Een belg van zomerkamp.",
+    "Fietsen.",
+    "Anna´s wil om te leven.",
+    "Knopen.",
+    "Call of duty spelen.",
+    "Gay.",
+    "Het magazijn.",
+    "Het houthok.",
+    "Banaan.",
+    "Een van marisols boys.",
+    "Nathan´s gourmetpannetjes.",
+    "Het leidinglokaal."
+  ],
+  "pack": {
+    "id": "WS9DV",
+    "name": "mondriaan explos"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 21,
+    "total": 31
+  },
+  "dateStoredMs": 1589015245923
+}

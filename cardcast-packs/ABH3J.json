@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "\"I call it _blook!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sans new he was lost when he woke up in _tale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know that you need help when Underfell Toriel _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"My dear child I baked you a _ and _ pie!\"",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ABH3J",
+    "name": "Undertale Au"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588648322639
+}

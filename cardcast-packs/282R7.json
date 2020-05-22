@@ -1,0 +1,196 @@
+{
+  "black": [
+    {
+      "content": "_. Yes, I'm into it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ rushes in!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ seemed like a good idea at the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next challenge in the Suffering Game involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talk to your doctor if you experience _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magnus breaks into the BoB jail to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taako breaks his _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I mean, I did _ enough to see through your _. So, I can't be too bad.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why is my son crying? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've solved my _ puzzle!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make room for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the dankest meme? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Out with the old, in with the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is good out here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You threw my _ in the fire!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My best line to flirt with is \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad news, compadres, this place is _ as hell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No _ allowed on the moon. They just run off the damn thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can fuck any _ I want!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm always a slut for _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The flaming, poisoning, raging sword of doom.",
+    "Cheating with magic.",
+    "Getting Touched by An Angel.",
+    "Studying your cantrips.",
+    "Being so fed up you animorph into a dinosaur.",
+    "\"Grab the Gauntlet And Don't Look Back: The Taako Story.\", the hit inspirational CD.",
+    "Steven the fish.",
+    "The existential feeling of being jerked around by forces beyond your control.",
+    "Eating a delicious sandwich.",
+    "Singing the Sweet Flips lullaby to yourself.",
+    "Being Taako from TV.",
+    "A pile of armless robits.",
+    "Coming up with strange manuevers because you don't know a single spell.",
+    "Casting Charm Person on everyone in sight.",
+    "Getting that perfect fastball special in at the crucial second.",
+    "Losing your pants in an elevator shaft.",
+    "Not wasting spell slots.",
+    "The most beautiful woman that Magnus has ever seen.",
+    "Garyl, the rainbow binicorn.",
+    "Lying through your teeth.",
+    "Bonding with the Voidfish.",
+    "Offering many macarons to everyone.",
+    "God lying.",
+    "Eating the Philosopher's Stone.",
+    "The eighth grand relic, Love.",
+    "Burning spell slots like they'll be reset in an hour.",
+    "Pulling the arms off of everything in sight.",
+    "Very flirtaciously hitting things with your warhammer.",
+    "Jumping from battlewagon to battlewagon.",
+    "Stealing shoes right off a dead body.",
+    "Murdering anyone who gives the vaguest reason.",
+    "Ruining Leon the Artificer's day.",
+    "Perception checking to see if he wet his pants.",
+    "Getting your entire lower half corkscrew-y.",
+    "Looking at those big, dead dogs.",
+    "Swimming with the Voidfish.",
+    "A very, very large crossbow.",
+    "Killing Tom Bodett.",
+    "Living in a bubble.",
+    "Far too large cockroaches.",
+    "Silverpoint venom.",
+    "Every liquid tasting like Gogurt.",
+    "Flirting with Death. Literally.",
+    "Walking it off.",
+    "Chopping down every tree you come across.",
+    "Wishing desperately you didnt free that kid who shot your cousin.",
+    "Griffin's elevator fetish.",
+    "Getting married in a gazebo you built yourself.",
+    "Getting all horny about your first kill.",
+    "\"Hail and well met!\".",
+    "Your brethren's delicious, tasty arm.",
+    "Carving some wooden ducks.",
+    "Completely failing to fulfill a bounty on three guys cheating death and dating one instead.",
+    "Never using your magical items.",
+    "A lavender-scented chair perfect for comforting a baby.",
+    "An incompetant wizard.",
+    "Hearing the most beautiful music ever in an elevator.",
+    "The incredible wrath of a DM.",
+    "Wizard robes with 'Juicy' on the butt.",
+    "Pokemoning some boys and accidentally murdering said boys.",
+    "Vouge-ing your brains out.",
+    "The Hunger.",
+    "Complicated Gerblin office politics.",
+    "Tuff Greg.",
+    "The MacDonald family silverware set.",
+    "Dildos?.",
+    "Using the Gaia Sash to fuck some plants.",
+    "Doing some wild-ass train acrobatics to save the day.",
+    "Not needing magical help to fuck an onion.",
+    "Meeting your husband-to-be through tentacle porn.",
+    "Following Pan.... loosely.",
+    "A totally non-sexual 'pleasure room'.",
+    "Three assholes with godly powers.",
+    "I have emotions! I'm multi dimensional! I'm a fully realized creation! FUCK!.",
+    "The umbrastaff doing some unconventional shit."
+  ],
+  "pack": {
+    "id": "282R7",
+    "name": "tres horny boys against society"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 75,
+    "total": 96
+  },
+  "dateStoredMs": 1588740055594
+}

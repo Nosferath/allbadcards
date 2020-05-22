@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Estados Unidos ha legalizado _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "NS4KT",
+    "name": "DECK ZHINGON"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589575412649
+}
