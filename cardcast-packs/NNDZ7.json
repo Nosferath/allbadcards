@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "Alle ore 20 il premier _ farà la sua consueta conferenza stampa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "il prezzo delle mascherine è salito fino al punto di doversi _ per pagarle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Eh Giovanni, non _ da un mese neanche io ...\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il nuovo DPCM impedisce di _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "l'ennesimo post \"che vuole essere tutt'altro che polemico\" di Matteo su un aspetto della gestione della emergenza sanitaria: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dalla fase due si puo _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Guido Bertolaso che torna dall'africa per ammalarsi.",
+    "Quelle ritardate dell \"bimbediconte\".",
+    "Il DPCM.",
+    "Uscire alle 18 per applaudire dal balcone.",
+    "Lavarsi le mani per 40 secondi.",
+    "Giovanni che critica il ciuffetto del presidente Mattarella.",
+    "Gel igenizzante.",
+    "Diventare improvvisamente direttore l'istituto superiore della sanità.",
+    "Quell'untore del paziente zero.",
+    "Runners che se ne fregano della quarantena.",
+    "L'ashtag #andràtuttobene.",
+    "Odorare il maglioncino della Botteri dopo un mese di quarantena."
+  ],
+  "pack": {
+    "id": "NNDZ7",
+    "name": "Covid19 Party"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 12,
+    "total": 18
+  },
+  "dateStoredMs": 1588535919840
+}

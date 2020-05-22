@@ -1,0 +1,126 @@
+{
+  "black": [
+    {
+      "content": "I told my mom that digimon were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ digivolve to _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I totally ship _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What does Yagami spell backwards? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Digimon. Digital Monsters. Digimon are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just lifted the digiegg of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Digi Digi? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan to take over the world involves _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How do you like your eggs? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new season of Digimon, Tai and the digidestined will have to save the world from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ mon is the best partner digimon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My crest is the crest of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you like your eggs? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "I like soy sauce.",
+    "Patamon.",
+    "Leomon.",
+    "Gomamon.",
+    "Mimi.",
+    "Piyomon.",
+    "Getting digi with it.",
+    "Ken.",
+    "Mustard and jellybeans.",
+    "Gabumon.",
+    "Hawkmon.",
+    "Singing baboons.",
+    "Digivolving.",
+    "Just calling it Bob.",
+    "Takeru.",
+    "Agumon.",
+    "Being a happy little buffalo.",
+    "Taichi.",
+    "Iori.",
+    "Becoming a keychain.",
+    "Sticking \"digi\" into words whenever possible.",
+    "Tailmon.",
+    "Attack sludge.",
+    "Jyou.",
+    "Yamato.",
+    "The digibeat.",
+    "Saving Kari from the Dark Masters.",
+    "Reggae!Palmon.",
+    "Izzy's lobster outfit.",
+    "Armadimon.",
+    "Contorting yourself into the letter Q.",
+    "Daisuke.",
+    "Tentomon.",
+    "V-mon.",
+    "Punk!Agumon.",
+    "Wormmon.",
+    "Palmon.",
+    "Miyako.",
+    "Hikari.",
+    "Mon Mon.",
+    "Tentomon in a raincoat.",
+    "Metaletemon.",
+    "Sora.",
+    "A piBook.",
+    "Koushirou."
+  ],
+  "pack": {
+    "id": "6u7he",
+    "name": "Digi Digi? Mon Mon!"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 45,
+    "total": 58
+  },
+  "dateStoredMs": 1588465082637
+}

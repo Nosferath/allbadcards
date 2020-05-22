@@ -1,0 +1,933 @@
+{
+  "black": [
+    {
+      "content": "Het is nogal triest dat kinderen zich tegenwoordig vooral met _ bezighouden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geen zorgen zoon, je bent in goede handen bij _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De KNVB heeft _ verbannen omdat het spelers een oneerlijk voordeel gaf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naar verluid komen Bassie en Adriaan volgend jaar terug met de film: Bassie en Adriaan en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vlak voor zijn dood had Michael Jackson nog de drang naar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na mijn vakantie heb ik _ uit Duitsland meegenomen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Daarmee sla je het best iemand mee aan de haak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het spijt me meester, ik kon mijn huiswerk niet maken door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naar het schijnt is Vladimir Putin's favoriete delicatesse _ gevuld met _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Het Internationaal Gerechtshof in Den Haag heeft _ schuldig bevonden aan _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Er zijn slechts twee dingen zeker in het leven: de dood en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waarom kunnen vrouwen toch niet zonder _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik drink om _ te vergeten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanaf deze maand vind je _ bij je volgende McDonalds Happy Meal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik heb _ nooit volledig begrepen, todat ik _ tegenkwam.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na vele verzoeken behandelt Jeroen Pauw eindelijk _ op een speciale thema-avond.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik weet niet of ik het vasten overleef zonder _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = WINNING!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nadat ik nokkie nokkie ging met Oud & Nieuw, werd ik wakker gemaakt door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een nieuwe Disney Channel Original Movie, worstelt Hanna Montana voor de eerste keer met _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ maakt het leven op de nudistencamping vrij lastig.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De nieuwste best seller van Tel Sell is gek genoeg _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Onderzoek toont aan dat labratten doolhoven 50% sneller afleggen nadat ze zijn blootgesteld aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sommige rijke lui uit de Quote 500, betalen soms wel duizenden euro's om _ te ervaren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die nieuwe viral video over _ heb ik inmiddels wel tien keer gezien.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De AIVD ondervraagt tegenwoordig mensen door hen langdurig bloot te stellen aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ en _. Een nieuwe film over een superheld met zijn sidekick.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In de Linda van deze maand: fleur je seksleven op door _ de slaapkamer in te nemen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In plaats van de roe geeft Sinterklaas nu _ aan stoute kinderen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het gerucht gaat dat je in een Rotterdamse gevangenis 200 sigaretten kan ruilen voor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waarom durven mensen niet gewoon eerlijk te zeggen dat bejaarden naar _ ruiken?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maar voordat ik u dood, Mr. Bond, moet ik u _ laten zien.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Negers zijn vaak dol op _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: Op kinderen getest, door moeders goedgekeurd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dit theaterseizoen in Koninklijk Theater Carré, _: De Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voor het programma 'Nederland helpt Haïti' bracht Jeroen Pauw _ naar de mensen van Haïti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De vijf fasen van rouwverwerking zijn: ontkenning, boosheid, onderhandelen, _ en aanvaarding.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Dát is Batman's guilty pleasure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volgens insiders helpt _ Mark Rutte te ontspannen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn favoriete Smurf is _ Smurf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In zijn nieuwste matige comedy, is Adam Sandler _ gevangen in het lichaam van _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "En de prijs voor _ gaat naar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Straks op Eurosport2: het wereldkampioenschap _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ik het echt niet meer weet, kan ik altijd nog masturberen op _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beste Hitkrant, ik heb _ in _ gestopt en nu komt het er niet meer uit! Wat moet ik doen?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "RTL4 presenteert: _ , het verhaal van _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gewapend met alleen een _, wist het meisje _ weg te jagen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Met nieuwe maatregelen probeert het Ministerie van Onderwijs moeilijke leerlingen met _ te inspireren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ook Beatrix denkt soms aan _ tijdens _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is toch wel de grootste reden waarom ik 's nachts niet kan slapen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een nieuwe reality show van RTL5, zien we hoe acht semi-beroemdheden leren omgaan met _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik kan niet veel, maar _ is mijn geheime kracht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In het nieuwste seizoen van 24, heeft Jack Bauer 24 uur de tijd om _ te bestrijden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Speciaal voor dikke mensen is _ de nieuwste dieethype.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toen ik LSD gebruikte, veranderde _ in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "De alternatieve geneeskunde omarmt nu de geneeskracht van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het schooluitje werd compleet verpest door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amerika liet zich van haar beste kant zien, toen ze _ uit de vliegtuigen lieten vallen voor de kinderen in Irak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ik een miljardair ben, zal ik een 15 meter hoog standbeeld plaatsen om _ te gedenken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In M. Night Shyamalan's nieuwe film, ontdekt Bruce Willis dat _ eigenlijk de hele tijd _ was.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Als er iets beter wordt met de jaren, dan is het _ wel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ik ooit naar de gevangenis moet, smokkel ik _ mee naar binnen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Een romantisch, met kaarsjes verlicht diner, is niet compleet zonder _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn oma kreeg zowat een hartaanval nadat zij _ in haar Chinees vond.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bij de Derde Wereldoorlog weet ik het niet, maar de Vierde Wereldoorlog wordt uitgevochten met _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Al sinds mijn geboorte, proberen mijn ouders _ voor mij te verbergen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de volgende aflevering van Dr. Phil: hoe te praten met je kind over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De Maya's dachten eigenlijk vroeger dat _ voor het einde van de wereld zou zorgen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geruchten gaan dat het Vaticaan een geheime kamer heeft, dat louter gewijd is aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn vorige relatie eindigde door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Volgens Lange Frans en Baas B. komen we uit het land van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tot grote teleurstelling van de deelnemers, bracht _ de orgie tot een abrupt einde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik houd van de geur van _ in de ochtend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je kan een rouwende vriend niet opvrolijken met _, ben ik door schade en schande wijs geworden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Zo wil ik sterven.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ik had al een hekel aan 3D, maar toen ik _ in 3D zag, was ik er echt helemaal klaar mee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een poging om een breder publiek aan te trekken, opende het Rijksmuseum een interactieve tentoonstelling over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hints werd verpest toen mijn moeder _ moest uitbeelden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het zal je niets verbazen dat Chuck Norris _ neemt als ontbijt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In de toekomst zullen historici het erover eens zijn dat _ het begin van de achteruitgang van Nederland heeft ingeluid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In een wereld verwoest door _, is _ onze enige hoop in bange dagen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is echts iets dat oma verontrustend, maar tegelijkertijd ook wel charmant zou vinden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik ben ontmaagd door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mijn moeder schrok zich rot toen ze in mijn internet- geschiedenis www. _ .nl/ _ vond.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is er niet veel aan? _ maakt ieder feestje leuker!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Er gaat niets boven _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler maakte vroeger vooral schilderijen van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nieuwe richtlijnen verbieden nu _ in vliegtuigen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Het leven van de Amerikaanse Indianen veranderde voorgoed toen de blanke man ze introduceerde aan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toen de Farao niet toegaf, ontketende Moses een plaag van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tijdens de kabinetsformatie, overwoog Mark Rutte nog een ministerie voor _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Dat is mijn fetish.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De wetenschap zal nooit de oorsprong van  _ verklaren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat is die lucht? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tijdens zijn midlifecrisis, raakte mijn vader verslaafd aan _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zo boos worden dat je een stijve krijgt.",
+    "De nieuwe dienstregeling van de NS.",
+    "Een paringsdans.",
+    "Puberteit.",
+    "De provincie Drenthe.",
+    "Dikke Duitse meisjes.",
+    "Zinloos geweld.",
+    "Een ongecontroleerde hunkering naar bloed.",
+    "Een met bloed doorweekt slipje.",
+    "Een odol.",
+    "Nivellering.",
+    "Geert Wilders.",
+    "Een asymmetrische borstvergroting.",
+    "De Koran.",
+    "Een mime die een hartaanval krijgt.",
+    "Hongersnood.",
+    "Handtastelijk zijn.",
+    "Rijk zijn.",
+    "Dwergwerpen.",
+    "De metroseksuele bril van Ronald de Boer.",
+    "Het EK 2016.",
+    "Mannen die niet bellen.",
+    "Een zeepje laten vallen.",
+    "De Rijdende Rechter.",
+    "Harry Potter-erotica.",
+    "Thuis niets te zeggen hebben.",
+    "Kerkjongetjes.",
+    "Krachtige dijen.",
+    "Een scheermes.",
+    "Een bloedlul.",
+    "Een mooi stukje sideboob.",
+    "Een cactus.",
+    "Dat ding dat je buikspieren elektrocuteert.",
+    "Tinky Winky.",
+    "Een seksloos leven.",
+    "Banale antwoorden.",
+    "Grensrechters.",
+    "Het wederom niet doorgaan van de Elfstedentocht.",
+    "Worstenvingers.",
+    "Mijn overleden goudvis.",
+    "Genghis Khan.",
+    "Tienerzwangerschap.",
+    "Een waterpokkenepidemie.",
+    "Ongewenste intimiteiten.",
+    "Extreem strakke broeken.",
+    "Saxofoonsolo's.",
+    "Explosies.",
+    "Mannen.",
+    "Ontmaagding.",
+    "Beroemd zijn.",
+    "Biologische ongediertebestrijding.",
+    "Een grofgebekte teddybeer.",
+    "De melkman.",
+    "Een scheet laten en weglopen.",
+    "Angstaanjagende haarverwijderingsongelukken.",
+    "Slecht getimede Holocaustgrappen.",
+    "Mijn handtastelijke oom.",
+    "Kindermisbruik.",
+    "Een seksueel overdraagbare aandoening.",
+    "Dode ouders.",
+    "Trillende billen.",
+    "Het Chinese atletiekteam.",
+    "Een beetje trieste aftrekbeurt.",
+    "Gezellige negerinnen.",
+    "Abstracte kunst.",
+    "Een zak met magische bonen.",
+    "Het wonder van de geboorte.",
+    "Dit spel.",
+    "Anti-depressiva in combinatie met alcohol en cocaïne en een beetje skunk om de scherpe randjes ervan af te halen.",
+    "World of Warcraft.",
+    "De duivel.",
+    "Bassie en Adriaan.",
+    "Een vrouwelijke orgasme.",
+    "Schaamstreekscheren.",
+    "Een spastische nerd.",
+    "Even Apeldoorn bellen.",
+    "Macht.",
+    "Een anale vernedering.",
+    "Het lelijkste meisje dat overblijft in de kroeg mee naar huis nemen.",
+    "Friends with benefits.",
+    "De übermensch.",
+    "Het ongevraagd tevoorschijn toveren van het mannelijk lid.",
+    "Travestieten die er nog net mee door kunnen.",
+    "Kinderzaad.",
+    "Volproppen en leegkotsen.",
+    "Hardstylemuziek.",
+    "Grafroven.",
+    "Het Junior Eurovisie Songfestival.",
+    "Verrassingsseks.",
+    "Aseksuelen.",
+    "Bananen in pyjama's.",
+    "Statistisch gefundeerde stereotypen.",
+    "Ryan Gosling op een wit paard.",
+    "Vrouwenbesnijdenis.",
+    "Stilte.",
+    "Wildbreien.",
+    "Teenschimmel.",
+    "Kinderen aan riemen.",
+    "Batman.",
+    "In brand staan.",
+    "Onmeetbare stompzinnigheid.",
+    "God.",
+    "Lance Armstrong's missende testikel.",
+    "Buitenlanders met een vreemd Borat-accent.",
+    "Elektriciteit.",
+    "Een grote negerlul.",
+    "Kampvuurgitaristen.",
+    "Het constant falen van Robert Gesink.",
+    "Snot.",
+    "Vliegende sekskabouters.",
+    "Patatje oorlog.",
+    "Je shirt uitdoen.",
+    "Natuurlijke selectie.",
+    "Hormooninjecties.",
+    "Geen broek dragen.",
+    "Probleemwijken.",
+    "Passief agressieve plaknotities.",
+    "Een stijve verbergen.",
+    "Vikingen.",
+    "De schietpartij in Alphen aan den Rijn.",
+    "Het vernietigen van bewijsmateriaal.",
+    "Een Super Soaker met kattenpis.",
+    "Puppy's.",
+    "Dode baby´s.",
+    "The Backstreet Boys.",
+    "Langdurige relaties.",
+    "Vegetarische maaltijden.",
+    "Antisemitisme.",
+    "De Vietnamese verkiezingen van 2012.",
+    "Jack van Gelder.",
+    "Kim Jong-un, de charismatische zoon van Kim Jong-il.",
+    "Ongewild licht urineverlies.",
+    "Daddy-issues.",
+    "De ware betekenis van Kerstmis.",
+    "Zelfhaat.",
+    "Morgan Freeman's stem.",
+    "Ondergoed binnenstebuiten dragen om een wasbeurt te voorkomen.",
+    "Gedaanteverwisselaars.",
+    "Een gepassioneerde Latino lover.",
+    "Seksuele spanning.",
+    "Media-aandacht.",
+    "Een man van middelbare leeftijd op rolschaatsen.",
+    "Menstruele woede.",
+    "Karl Noten.",
+    "Ongeïnspireerd voorspel.",
+    "Ongepast jodelen.",
+    "Een M16 assault rifle.",
+    "Een foetus.",
+    "Een gezellige negerin.",
+    "De bunga bunga-feestjes van Silvio Berlusconi.",
+    "Bruine mensen.",
+    "Seksslaven.",
+    "Pandaseks.",
+    "Van rijke tatta's stelen.",
+    "Viagra.",
+    "Overcompensatie.",
+    "Joran van der Sloot.",
+    "Ongecontroleerde woedeaanvallen.",
+    "Benno, de gezellige zwemleraar.",
+    "Bangalijstjes.",
+    "Mart Smeets.",
+    "Snoep stelen van een kind.",
+    "Een schaarsgeklede Barbara Barend.",
+    "Sesamstraat.",
+    "Mijn seksleven.",
+    "Onthoofdingsvideo's.",
+    "Een verdwaalde schaamhaar.",
+    "Een vrouw die haar plek kent.",
+    "Masturbatie.",
+    "Structureel tegenvallende resultaten.",
+    "Successupporters.",
+    "Drugsnaalden delen.",
+    "Een grote rookworst.",
+    "Precies wat je verwacht.",
+    "De joden.",
+    "Een live-publiek.",
+    "Een maagd in een vulkaan gooien.",
+    "De VOC-mentaliteit.",
+    "Herinvoering van de doodstraf.",
+    "Vrouwentaken.",
+    "Necrofilie.",
+    "Lepra.",
+    "Een dinosaurus zijn.",
+    "Mark Rutte.",
+    "Een robot leren lief te hebben.",
+    "De geur van wc-bezoek.",
+    "Royston Drenthe.",
+    "Gladiatorgevechten.",
+    "Te hete soep.",
+    "Een M. Night Shyamalan plottwist.",
+    "Mondherpes.",
+    "Mannenvlees.",
+    "Een gebalanceerd ontbijt.",
+    "Menstruatie.",
+    "Een klein paard.",
+    "Een stam van vrouwelijke krijgers.",
+    "Geboren zijn in het verkeerde lichaam.",
+    "Zoete, zoete wraak.",
+    "Een pittig kapsel.",
+    "Burgerslachtoffers.",
+    "Een boer verwachten en op de vloer kotsen.",
+    "De rode zee bevaren.",
+    "Erg stoned worden.",
+    "Piratenfestijnen.",
+    "Kanye West.",
+    "Bruine bonen.",
+    "Dirk Kuijt.",
+    "Jonge zeilmeisjes.",
+    "Houthakker-fantasieën.",
+    "Stichting Doe Een Wens.",
+    "Trollen.",
+    "Doen alsof je ergens om geeft.",
+    "Badr Hari.",
+    "Ongenuanceerde kritieken.",
+    "Kleren uittrekken en Nickelodeon kijken.",
+    "Wetenschap.",
+    "Een 55-jarige Britney Spears.",
+    "Duifmeneer.",
+    "Johan Derksen.",
+    "50,000 volt rechtstreeks naar de tepels.",
+    "De terroristen.",
+    "Overspel.",
+    "Sterven.",
+    "Mijn innerlijke demonen.",
+    "Blanke mensen.",
+    "De paus.",
+    "Spectaculaire borstspieren.",
+    "Spontane menselijke ontbranding.",
+    "Inbrekersrisico.",
+    "Verleiding.",
+    "Natte dromen.",
+    "Gemaskerd misdaad bestrijden.",
+    "Facebook.",
+    "Geamputeerden.",
+    "Onheilspellend achtergrondmuziek.",
+    "XXL lolly's.",
+    "RoboCop.",
+    "In de fik staan.",
+    "Grappige hoedjes.",
+    "Een groep tieners dat verblijft in een afgelegen hut in de wildernis.",
+    "Michael Jackson.",
+    "Meerdere steekwonden.",
+    "Bestialiteit.",
+    "Moraalridders.",
+    "Mijn genitaliën.",
+    "Marokkanen.",
+    "Hoestdrankverslaving.",
+    "Slechte levenskeuzes.",
+    "Gratis samples.",
+    "Een synagoge op het drukste moment van de dag.",
+    "Gezelschapsspellen.",
+    "Valsspelen op de Paralympische Spelen.",
+    "Authentieke Turkse shoarma.",
+    "Knuffelen.",
+    "GroenLinks-stemmers.",
+    "Femke Halsema.",
+    "De moord op Marianne Vaatstra.",
+    "Ontvoerd worden door Peter Pan.",
+    "Arrogantie.",
+    "Geesten.",
+    "Gandalf.",
+    "Rashid, de lichtonvlambare Marokkaan met vervelende maniertjes.",
+    "Tom Cruise.",
+    "72 maagden.",
+    "Bezuinigingen.",
+    "Lijmsnuiven.",
+    "Hulpeloos giechelen bij het horen over Hutu's en Tutsi's.",
+    "De EO-jongerendag.",
+    "Magnetronmaaltijden.",
+    "Seksuele spanning.",
+    "Erica Terpstra voeden.",
+    "Anne Frank.",
+    "Racisme.",
+    "Justin Bieber.",
+    "Excuusnegers.",
+    "Padvinders.",
+    "Mijn verzameling met high tech seksspeeltjes.",
+    "Lichaamsdelen van een dode prostituee.",
+    "11 september.",
+    "De KKK.",
+    "Afrikaanse kindertjes.",
+    "Landmijnen.",
+    "Voormalig president George W. Bush.",
+    "Netflix.",
+    "Geert Wilders-aanhangers.",
+    "Verontschuldigen.",
+    "Jan Peter Balkenende.",
+    "Een vergeten Tamagotchi.",
+    "De economie.",
+    "Kermisvolk.",
+    "Feyenoord.",
+    "Een bejaarde man in erecte toestand.",
+    "Kamikazepiloten.",
+    "Wachten tot het huwelijk.",
+    "Blinden en slechtzienden.",
+    "Een nobelprijswinnaar.",
+    "Bubba, de zwaarlijvige gevangenisneger.",
+    "Een vrieskist vol met organen.",
+    "Dansen met een bezem.",
+    "Angst.",
+    "Een toppertje en een breezer ananas.",
+    "Spontaan gaan zingen en dansen.",
+    "Erotiek in Full HD.",
+    "Een teleurstellende verjaardag.",
+    "Obesitas.",
+    "De stank van bejaarden.",
+    "Project X-feesten.",
+    "Leven onder de armoedegrens.",
+    "Vrouwen met tepelhaar.",
+    "Een hersentumor.",
+    "Planking.",
+    "Polsen doorsnijden.",
+    "Seksschommels.",
+    "Wereldvrede.",
+    "Mahatma Gandhi.",
+    "Lullig doen tegen kinderen.",
+    "Zelfmoordactivisten.",
+    "Weigerambtenaren.",
+    "Italianen.",
+    "Neuspeuteren.",
+    "Zwervers.",
+    "Goede grammatica.",
+    "Een eerlijke agent met niets te verliezen.",
+    "Sierd de Vos.",
+    "Alcohol.",
+    "Vingeren.",
+    "Eenzaam bezatten.",
+    "Zwarte Piet.",
+    "Moederkoek.",
+    "Belgen.",
+    "Publieke ridiculisering.",
+    "Een kop als een bak met wormen.",
+    "Darth Vader.",
+    "Gepiercete genitaliën.",
+    "Nelson Mandela.",
+    "Goed gevulde Bijlmersletjes.",
+    "Harde tepels.",
+    "Het hart van een kind.",
+    "Mijn relatiestatus.",
+    "Kentucky Fried Chicken.",
+    "Een baby met het downsyndroom.",
+    "Een leven vol treurnis.",
+    "Deze avond.",
+    "Veelvuldige slowmotions.",
+    "Skiën met Prins Johan Friso.",
+    "Noord-Korea.",
+    "De Johan Cruijff-schaal.",
+    "AXE Body Spray.",
+    "Arnold Schwarzenegger.",
+    "Een miljard euro.",
+    "Pottenlikkers.",
+    "Tiny en Lau.",
+    "Fred Gillette, de kapper met Gilles de la Tourette.",
+    "Een ongemakkelijke voicemail achterlaten.",
+    "Naar bejaarden knipogen.",
+    "Het mixen van rassen  .",
+    "Het Hofnarretje.",
+    "Sociaal gehandicapten.",
+    "Een erectie die langer dan vier uur duurt.",
+    "Dubbele penetratie.",
+    "Een niet-werkende condoom.",
+    "Het einde van de wereld.",
+    "Dingen likken om ze te claimen.",
+    "Theo Janssen.",
+    "Jankmuziek van Adele.",
+    "Het kapsel van Geert Wilders.",
+    "Mijn ziel.",
+    "André Hazes-verzamelalbums.",
+    "SBS6 kerstparades.",
+    "Oma.",
+    "Frequente erectiestoornissen.",
+    "Emoties.",
+    "De Antichrist.",
+    "Gloryholes.",
+    "Tendentieuze berichtgeving.",
+    "Mahmoud Ahmadinejad.",
+    "De Telegraaf.",
+    "Een prinsesje ontbloemen.",
+    "Buitensporig politiegeweld.",
+    "Overbehaarde moslima's.",
+    "Vrouwen in yoghurtreclames.",
+    "Voor het zingen de kerk uitgaan.",
+    "Lady Gaga.",
+    "Hulk Hogan.",
+    "Zwaar gehandicapte mensen.",
+    "Bidden dat de homoseksueel weggaat.",
+    "De nazi's.",
+    "Die dikke teef van de Plus.",
+    "Date rape drugs.",
+    "Twee dwergen die in een emmer schijten.",
+    "Kringspierpijn.",
+    "Het bloed van Jezus Christus.",
+    "Te strakke voorhuid.",
+    "Een swaffelaar.",
+    "Orale seks niet retourneren.",
+    "Nodeloos vernederen en verkrachten.",
+    "Adolf Hitler.",
+    "Pornosterren.",
+    "Auschwitz.",
+    "AIDS.",
+    "Een micropenis.",
+    "Zeiken als een wijf.",
+    "Pedofielen.",
+    "Teabagging.",
+    "Een gebleekte anus.",
+    "De clitoris.",
+    "Sexy kussengevechten.",
+    "Penisnijd.",
+    "Kopkaas.",
+    "Elke negen maanden een baby uitpoepen.",
+    "Een bukkake-festijn.",
+    "Een beetje in je onderbroek schijten terwijl je een scheet laat.",
+    "Nog zo'n fucking vampierenfilm.",
+    "\"VERRASSING\" schreeuwen en vervolgens iemand verkrachten.",
+    "Een homo-erotische korfbalcompilatiefilmpje.",
+    "Gestapo-praktijken.",
+    "Meisjes versieren bij abortusklinieken.",
+    "Sexcetera.",
+    "De homoseksuelen.",
+    "In een vagina niezen.",
+    "Een stevige mongool.",
+    "Een peniskoker.",
+    "Een hardwerkende neger.",
+    "Foto's van boobies.",
+    "Verplichte euthanasie.",
+    "Kinderen met anale kanker.",
+    "Aftrekken met schuurpapier.",
+    "Zieke, ranzige shit.",
+    "Aftrekken in een plas van kindertranen.",
+    "Incest.",
+    "Een gescheurde anus.",
+    "Bitches.",
+    "De homoseksuele levensstijl.",
+    "Met je mond aan iemands anus genaaid worden.",
+    "Met een zere anus naakt worden op het parkeerterrein van een plaatselijk Albert Heijn.",
+    "Videobanden met Duitse SM-porno.",
+    "Geen fuck geven om de derde wereld."
+  ],
+  "pack": {
+    "id": "RHKEG",
+    "name": "+ Dutch CAH (Nederlands)"
+  },
+  "quantity": {
+    "black": 96,
+    "white": 437,
+    "total": 533
+  },
+  "dateStoredMs": 1589484921227
+}

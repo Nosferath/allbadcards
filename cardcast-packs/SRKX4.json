@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "How do i die?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "SRKX4",
+    "name": "dead"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589030614190
+}

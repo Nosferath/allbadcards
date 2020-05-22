@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "You can become a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Izuku and All Might together make _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's _ power!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Traitor.",
+    "Todoroki's hair.",
+    "Bakugou's stupid hair.",
+    "The greatest hero."
+  ],
+  "pack": {
+    "id": "MGG7T",
+    "name": "BnHA"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 4,
+    "total": 7
+  },
+  "dateStoredMs": 1589328897754
+}

@@ -1,0 +1,19 @@
+{
+  "black": [],
+  "white": [
+    "Leaving your servants for dead.",
+    "Shooting an arrow into someone's chest.",
+    "The Knights Who Say \"NI!\".",
+    "A Holy Hand Grenade."
+  ],
+  "pack": {
+    "id": "DENTG",
+    "name": "Monty Python and the Cards Against the Holy Grail"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 4,
+    "total": 4
+  },
+  "dateStoredMs": 1588786064859
+}

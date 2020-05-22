@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "We hold these truths to be self-evident that all men are created _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SIT DOWN, JOHN, YOU FAT _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pardon me, are you _, sir?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THE CODE WORD IS _, DIG ME?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And when our children tell our story, they'll tell the story of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "History has its _ on you",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think your _ look hot, Laurens I like you a lot",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I go to France for more funds, I come back with more guns and _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "LAFAYETTE.",
+    "King George III.",
+    "ROCHAMBEAU.",
+    "Thomas Jefferson.",
+    "Aaron Burr.",
+    "James Madison.",
+    "John Adams.",
+    "Alexander Hamilton.",
+    "Angelica Schuyler.",
+    "John Laurens.",
+    "George Washington.",
+    "Eliza Schuyler.",
+    "AND PEGGY.",
+    "Hercules Mulligan."
+  ],
+  "pack": {
+    "id": "FJZMD",
+    "name": "Hamilton Against Humanity"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 14,
+    "total": 22
+  },
+  "dateStoredMs": 1589395648244
+}

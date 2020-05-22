@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "I love _ my sister.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're going to be _, at least make _ pretty.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My girlfriend hates _, she says it's too hard for her.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom likes to _ me, it gets really wet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "School makes me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite breakfast food is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, how's _ doing?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yesterday, I found an old _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ fell off!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Grating Cheese.",
+    "Dick Cheese.",
+    "A long, hard, dildo.",
+    "Foot Fetish.",
+    "Dick.",
+    "Waking up to bill Cosby in my bed.",
+    "Fucking.",
+    "Bloody tampon.",
+    "Homeless person.",
+    "A little bitch.",
+    "Pedophilia.",
+    "You're autistic son that fucked my grandma.",
+    "Honey Butt Cheerios.",
+    "You're ungrateful cunt.",
+    "Rape.",
+    "Lying about your depression."
+  ],
+  "pack": {
+    "id": "8YWAR",
+    "name": "Comedy shiz"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 16,
+    "total": 26
+  },
+  "dateStoredMs": 1589503965388
+}

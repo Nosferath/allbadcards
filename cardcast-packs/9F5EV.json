@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "Josh's gay sister hates_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ben hates_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gog's sister hates_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fernando Ricksen cannae walk cannea_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikey is afraid of_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lewis's nose cant handle_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Josh's hair line_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ricken's tredmil.",
+    "The Hillsborough disaster.",
+    "Gog's sister.",
+    "Lewis Rea.",
+    "Euan Stewart.",
+    "Ibrox 71 lol.",
+    "Ibrox 71 lol.",
+    "Gog's sister.",
+    "Ibrox 71 lol."
+  ],
+  "pack": {
+    "id": "9F5EV",
+    "name": "andy2"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 9,
+    "total": 16
+  },
+  "dateStoredMs": 1589077569205
+}

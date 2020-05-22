@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "_ ahead?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want a girl who go to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ my dudes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I said: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To put it short: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's only one thing worse than a rapist. Boom! _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SKINNY.",
+    "Road work.",
+    "Skinny Legend.",
+    "Despacito.",
+    "A whole bag of Jelly Beans.",
+    "Fortnite.",
+    "Church Girl.",
+    "Nice Guys™.",
+    "Woods comma Elle.",
+    "Whoever threw that paper, your mom's a hoe.",
+    "Gucci.",
+    "Wednesday.",
+    "My crocs.",
+    "A child."
+  ],
+  "pack": {
+    "id": "CJUYK",
+    "name": "the skinniest"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 14,
+    "total": 20
+  },
+  "dateStoredMs": 1589425111562
+}

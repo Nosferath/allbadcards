@@ -1,0 +1,42 @@
+{
+  "black": [
+    {
+      "content": "Louis told me yesterday that he _ in the bathtub with a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Liam went backstage with _ and accidentally spilt the _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I stumbled into Harry's closet and found _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Made In The AM CD.",
+    "Ben Winston's briefs.",
+    "Harry Styles.",
+    "Niall Horan.",
+    "Louis Tomlinson.",
+    "Liam saying sabbatical 69 times.",
+    "A Gucci suit with greasy stains.",
+    "Gucci suits.",
+    "Niall's golf clubs.",
+    "Yorkshire Tea.",
+    "Beard."
+  ],
+  "pack": {
+    "id": "566PX",
+    "name": "One Direction Theme Deck"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 11,
+    "total": 14
+  },
+  "dateStoredMs": 1588642011676
+}

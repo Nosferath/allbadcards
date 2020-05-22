@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "He's just a little brought down because when you knocked, he thought you were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's _ over at the Frankenstein place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But when he threatened your life with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's three ways that love can grow. That's good, bad, or _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's beyond me, help me _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not much of _ by the light of day, but by night I'm one hell of _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "A sweet transvestite.",
+    "The Time Warp.",
+    "An orgasmic rush of lust.",
+    "A regular Frankie fan.",
+    "A jump to the left.",
+    "A late night, double-feature picture show."
+  ],
+  "pack": {
+    "id": "EWRA4",
+    "name": "Rocky Horror"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1589035223082
+}

@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "Furries always say \"_\" and \"_\"...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I made a fursuit of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When my friend told me she was a furry, i said \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A cringey animation meme came out called \"_\"....",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A stolen character you claim as yours but really isnt.",
+    "Comicon...",
+    "I DOOOOOOOOOOOO LOVE YOUUUUUUUUUUU.",
+    "OwO.",
+    "Spoons.",
+    "Poorly draw furry vore.",
+    "Kittydoge.",
+    "UwU.",
+    "*Purrs*.",
+    "Youve gotta be KITTEN me.",
+    "A mary sue.",
+    "A fursuit that looks like its from the dollar store."
+  ],
+  "pack": {
+    "id": "jnazz",
+    "name": "Cards Against Furries"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 12,
+    "total": 16
+  },
+  "dateStoredMs": 1588103594480
+}

@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "My favourite anime is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happens in your favourite hentai? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I get senpai to notice me? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is so kawaii!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Death Note.",
+    "Kawaii.",
+    "Shinigami.",
+    "Manga.",
+    "Attack On Titan.",
+    "Senpai.",
+    "Naruto.",
+    "Big animated boobs.",
+    "Hentai.",
+    "Big-ass eyes."
+  ],
+  "pack": {
+    "id": "64FDK",
+    "name": "Anime and Japan"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 10,
+    "total": 14
+  },
+  "dateStoredMs": 1588472006953
+}

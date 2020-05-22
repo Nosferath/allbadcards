@@ -1,0 +1,303 @@
+{
+  "black": [
+    {
+      "content": "!what ? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, I can't stream because of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , WHAT A RUSH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the server, _ !: I calculate an IQ of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "New drama in Discord? Must be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? Irrel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Untied WR! _ posted _ [100]",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , I am significantly better than you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dont want to say anything else but I am. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Illu's latest obsession: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another fake untied? Better than _ , I guess.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is everyone in Clemens' stream? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doesn't sound like _ to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BK Talking About _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now Playing: _ - _ from _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Status: BACKROLLED. Reason: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most important thing a new player can remember is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joris is streaming _ on Discord Live.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now streaming _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "BREAKING: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "!_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sharpeye is trying to get _ banned from Discord.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to our newest player on the Elite rankings, _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mate, where's _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happens is being contrary about _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is a $100 bounty for finding a skip for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Announcing my latest hoard video, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ choked a run because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ with a Diet Coke, no ice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sterling discovered _ in 1998.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goose released a video explaining _ in detail.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is hoarding _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Chicago.",
+    "Deep Sea.",
+    "Villa.",
+    "Skedar Ruins.",
+    "PRU.",
+    "Escape.",
+    "MOAM.",
+    "WAR!.",
+    "JorisZ.",
+    "Strafing.",
+    "B00ter.",
+    "Hoarding.",
+    "Depot.",
+    "Seven consecutive backboosts.",
+    "Luke,.",
+    "Silo.",
+    "A lost PR video because of Amarec.",
+    "Joe.",
+    "DLTK.",
+    "Aztec.",
+    "3.",
+    "A PAL cart.",
+    "Maccas.",
+    "A Sheffield pizza.",
+    "Attack Ship.",
+    "1.1.",
+    "CI.",
+    "Streets.",
+    "Jungle.",
+    "AGDQ 2015.",
+    "Dual Klobbs.",
+    "A new untied every day.",
+    "An OBS crash.",
+    "The el-Saghira Temple.",
+    "Big doinks in amish.",
+    "The Jon push.",
+    "A B press.",
+    "LTK.",
+    "Dusky smashing a mug on the floor.",
+    "Cartnite.",
+    "The depot warp.",
+    "52.",
+    "Glover vs. Birdie in 120 star.",
+    "Mr. Blonde's Revenge.",
+    "Cradle.",
+    "Control.",
+    "5.",
+    "Infiltration.",
+    "Secret Agent.",
+    "The Discord server.",
+    "Maian SOS.",
+    "Runway.",
+    "Pelagic II.",
+    "Archives.",
+    "Perfect Agent.",
+    "The Ultimate Truth.",
+    "Dropped frames.",
+    "A sideboost.",
+    "21.",
+    "Dam.",
+    "A 9/10 controller.",
+    "An absolute legend.",
+    "The entire top 100.",
+    "[k4].",
+    "Ace.",
+    "206.",
+    "Nesquik.",
+    "A beautiful burger.",
+    "A PAL console.",
+    "Defection.",
+    "Crash Site.",
+    "Body armor.",
+    "Caverns.",
+    "Air Base.",
+    "Self-boosting.",
+    "Rescue.",
+    "Elite Community Marathon.",
+    "A Youtube video of SRT saying \"Ohh my god!\" on loop for 10 hours.",
+    "The bug throw.",
+    "Train.",
+    "Ghosting.",
+    "A cart converter.",
+    "The Duel.",
+    "The stream.",
+    "Facility.",
+    "Surface.",
+    "G5.",
+    "Wodahs' mustache.",
+    "16.",
+    "Statue.",
+    "Perfect Dark.",
+    "The dsx corner.",
+    "100.",
+    "My personal best.",
+    "PA Meet.",
+    "This is bs.",
+    "2.x.",
+    "GoldenEye.",
+    "Kapap.",
+    "Summer League.",
+    "Virginia Meet.",
+    "Din mor.",
+    "R-Leaning.",
+    "30 challenges.",
+    "99.",
+    "Investigation.",
+    "The camspy.",
+    "A system untied.",
+    "Special Agent.",
+    "A door warp.",
+    "Frigate.",
+    "Air Force One.",
+    "TheEliteBotNet.",
+    "Elvis.",
+    "A command cooldown because people won't stop spamming.",
+    "Egypt.",
+    "Bunker.",
+    "Extraction.",
+    "A single frame of audio.",
+    "00 Agent.",
+    "Agent.",
+    "1.2."
+  ],
+  "pack": {
+    "id": "E72UY",
+    "name": "The-Elite.Net"
+  },
+  "quantity": {
+    "black": 33,
+    "white": 122,
+    "total": 155
+  },
+  "dateStoredMs": 1588631371035
+}

@@ -1,0 +1,766 @@
+{
+  "black": [
+    {
+      "content": "_ goes well with chloroform.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm always _. It makes me feel dirty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the world ends, I want people to remember me for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That moment when you think you're _ , but you're actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sitting in the corner, crying and panting, wishing for a better existence. When suddenly, I had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "10 in the bed, and the little one said \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got an idea for a show. The wheel of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, Japan. Only you would think of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm proud to be  _ and I couldn't be happier!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming soon! Star Wars 8: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This baby will be _ when it's older.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We demand £500,000, a helicopter and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't think I'd be able to fit _ in my mouth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're \"_\" whether you like it or not, son.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And for my next trick, I will pull _ , out of this dying baby's throat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd have to admit, I was pretty surprised when my daughter asked for _ for Christmas.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got you a little gift. I hope you don't mind _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What don't you want to find in your pudding? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you played that new video game? It's about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The cruise party was intense. Half the people there were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The operation won't be cheap, but we need to cure you of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As I child, I remember _. Now I've grown up I'm only _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The weirdest thing about having clones, is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call 911! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom just sent me this text message about _. She said it was the wrong number.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What was that? I can't hear you over  the sound of _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a plastic surgeon. If you want I can make you look like you're  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You didn't possibly think I'd say no to _, did you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'' _ '' Said Jesus to Moses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puberty hit him like  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My boss was telling me to fulfil my agenda, I thought he was saying I needed _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Endorsed by apple.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to have a good life. Until I started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes _ acceptable.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eat. Sleep. _. Repeat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I win an argument, I prove it by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems but _ ain't one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keep calm and try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not up for a debate, _ is the best thing on Earth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bartender, give me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fun Fact: _ causes _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What does Batman spend most of his spare time doing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always look forward to waking up to _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Out Now! _ Simulator.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scissors beats paper, paper beats rock, and rock beats _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What don't you want to see at a funeral? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To protect myself on the street, I carry a taser and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's been all over the news! Everyone can't stop talking about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Has science gone too far?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\", whispered the good dinosaur.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sir, have you been drinking and _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus Christ, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the difference between Zoo Tycoon and _? My dad doesn't like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Watch it in cinemas today. Now showing in 3D!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump's presidency would be enhanced by an increase in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wrote a novel! It's called '' _ ''.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I made an app. It's called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last words I heard my husband say before he died were \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a crippling addiction to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had to ditch her. She was completely addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that _ in your pocket or are you just happy to see me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you tried the new drug? It's called  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I decided to cryogenically freeze _ so that it would last forever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My gym teacher was fired for adding _ to the obstacle course.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Erectile dysfunction? Try out _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I lose my virginity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello. Is it _ you're looking for?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During the cold war, Russia spent millions in order to research _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Gets me laid every time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what makes me livid? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In certain countries, _ is actually a common thing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was so drunk last night that I got a tattoo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't say I'm surprised. I'm used to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's mine is yours, but all I have is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any last words? \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I want for Christmas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check out my new Youtube channel! I post videos of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I knew something was wrong when my _ was misplaced for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_\", like most things, is better in Amsterdam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I become a millionaire, I will build a 10 foot statue in order to commemorate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is my brother hiding in his closet? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I patented an amazing invention for _. It's going to be revolutionary.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the chicken cross the road? So it could be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got so drunk last night; all I can remember is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish I could be out of the house so I could be _ right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. My final thought before making most important decisions.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just gonna chill this weekend, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: kid-tested, mother-approved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\" Said Hitler to the Jews.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't help but to think about _ when I masturbate.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. These fucking Germans have done it this time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I told him \"_\". He replied by asking, \"Are you fucking serious?...\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going to stuff _ in my mum's birthday card. She's going to fucking love it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump had no option but to resign after being caught _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What brought me to the orgy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was _. Now I don't have a fucking job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new favourite sex position is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The meeting went downhill after I accidently started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This DVD of _ is sexy as hell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next time we have sex, I want you to shout '' _! ''.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Social Experiment (Gone Wrong) (Gone Sexual) (In the Hood).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is there anything better than sex? Yes! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I nearly had a heart attack last time I wanked to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cutting the brake wires of your granddads mobility scooter.",
+    "Snapping a child over your knee.",
+    "Ejaculating and shattering an egg.",
+    "Rolling Stephen Hawking off of a cliff.",
+    "A degenerate.",
+    "Using hairspray and a lighter into an orphaned child's face.",
+    "Silly, silly, burning black people.",
+    "A pile of rejected slaves.",
+    "Orphan soup with a side of extra orphans.",
+    "\"The Germans have really gone and done it this time\".",
+    "Cutting open your nan's chest whilst she sleeps.",
+    "Grandma's used tampon collection.",
+    "Halloween costumes that mimic 9/11.",
+    "Harry Potter and the Chamber of Dead Orphans.",
+    "Putting elastic bands around your head until it explodes.",
+    "Casually shaving your legs in the middle of class.",
+    "Eating your boiled son.",
+    "\"Watch me slap it\".",
+    "\"I will break your mom's legs\".",
+    "Attempting to fit both of your fists in your mouth during an school exam.",
+    "Discreetly fitting a turbo-charged V8 engine to your nan's mobility scooter.",
+    "Putting your hemorrhoids on someone's face.",
+    "Paying the doctor £100 to put you back in a coma.",
+    "Spawn camping the maternity wing.",
+    "Putting your life on the line against Russian gangsters for a cheeky grope.",
+    "Beating an 8 year old girl's meat.",
+    "Old, moist towels from the 18th century, soiled by a gang of rogue terrorists.",
+    "Busting a nut whilst your 6 disabled children watch.",
+    "Terrorism.",
+    "Burning down a mosque.",
+    "Slowly sitting on a traffic cone.",
+    "Cracking open an cold orphan's skull with the boys.",
+    "Adolf Christ.",
+    "Ejaculating in an empty children's swimming pool and filling it up.",
+    "A burning orphanage.",
+    "Closing the car window as your dog sticks it's head out,  decapitating it.",
+    "Having to admit to your dad that you're gay with him.",
+    "Having a dance off with a bed and losing.",
+    "Gandhi.",
+    "Euthanasia.",
+    "Slipping in a finger whilst your nan is struggling to get up the stairs.",
+    "Clowns and dead people.",
+    "Allowing molesting to be an olympic sport.",
+    "6 million jews.",
+    "A heart attack.",
+    "Forgetting to stimulate my prostate.",
+    "Jesus Christ.",
+    "Writing my phone number on the bathroom walls in a nursery.",
+    "White privilege.",
+    "DJ Killer Keemstar.",
+    "Russia.",
+    "Local muslim women in your area.",
+    "Giving a homeless man a fat noot.",
+    "Ejaculating during a speech at a child's funeral.",
+    "Persuading a dying child to stick their toes in a plug socket.",
+    "Feeding your obese 14 year old daughter bleach.",
+    "Unknown fluid.",
+    "Overweight midget transvestites.",
+    "Sensual erotic fruits from the 'Bumbum' forest.",
+    "Being promised sweets but then getting raped.",
+    "''Thirteen tickets to the World Trade Centers please. One way.''.",
+    "Deformed baby legs.",
+    "Molesting old people.",
+    "Juices.",
+    "Burning a burn victim. They're used to it.",
+    "Doggystyling a dog.",
+    "Recieving dank noots.",
+    "Winking at my dad because nevermind.",
+    "\"I think I'll be perfectly fine in this gas chamber, for I vape\".",
+    "Sonic the Hedgehog jizzing in under a second.",
+    "Jacking off a Bop-It! toy.",
+    "Kim Jong Un.",
+    "Crying.",
+    "Tasteful nudes.",
+    "Ripping apart a 5 year old girl whilst she sleeps.",
+    "Subtly jacking off to the primary school nativity play.",
+    "Muslim fidget bombs.",
+    "Ungrateful cancer patients.",
+    "Black people whipping white people for not whipping the black people enough.",
+    "A jack-in-the-box loaded with a corpse.",
+    "Smashing a window with a dead foetus.",
+    "Jason Bourne.",
+    "My mother.",
+    "Accidently forcing a nunchuck down your brother's throat as you play WII bowling.",
+    "Tiny transgenders.",
+    "My inflatable girlfriend.",
+    "A horny priest, aka a priest.",
+    "The secret hatred everyone has for Jewish people.",
+    "Osama Bin Liftin' Weights.",
+    "Barbecuing a toddler.",
+    "A pile of burning Jewish bodies so large you can see it from the moon.",
+    "Uncontrollable robot legs.",
+    "Bob the Builder on steroids.",
+    "That one black slave that can dance really well.",
+    "Beating each other off, with eye contact.",
+    "An intense dab.",
+    "Hilarious cancer patients.",
+    "Being hung, drawn and quartered by a teletubby.",
+    "Bukakke parties.",
+    "Opening up your ribcage to find a little man that can't stop screaming.",
+    "Lube.",
+    "Putting your dog on a leash then letting it run so you can suddenly stop and decapitate it.",
+    "Beating up a transgender.",
+    "Roman Catholic priests.",
+    "Abrupt, inconveniently timed firework displays.",
+    "Ending your life.",
+    "Fapping really fast.",
+    "Throwing a dwarf over a fence.",
+    "Pinning Jesus to a cross then pinning a second cross on to Jesus and calling it the 'Holy Sandwich'.",
+    "Flavoursome butt plugs.",
+    "Thomas the Dank Engine.",
+    "Setting off an EMP in a hospital.",
+    "\"Wow. My fist can fit in this child?\".",
+    "Slipping a bit of MDMA in your grandmother's Weetabix.",
+    "The moist, horrific sound of afterbirth hitting cold hospital floor tiles.",
+    "Fucking your clone.",
+    "Stretching your foreskin so much that you can literally fuck yourself.",
+    "A pile of mutilated fags.",
+    "Sexting your dad at the Christmas dinner.",
+    "\"DAMN CAN THOSE HIPS GYRATE\".",
+    "A damp wank.",
+    "Lynx and a lighter on the gooch.",
+    "Giving your 4 year old son a blowjob after losing in a penis size contest.",
+    "Plunging a sword into your girlfriend's rectum.",
+    "\"There's no way I can fit that in my arse\".",
+    "That bitch, Theresa.",
+    "\"Did you just take a shit on my carpet?\".",
+    "\"YOU JUST FUCKING SHIT-DICKED ME\".",
+    "A farmer who fucks his corn stalks.",
+    "Wanting to fuck everyone you meet.",
+    "\"I bet this was a fucking feminist at work\".",
+    "A Hitler halloween costume.",
+    "The Cuban small-dick crisis.",
+    "The excitement I get out of setting my pubes on fire.",
+    "The Holocaust.",
+    "The thunderous force of a murderous badger ripping off your balls.",
+    "Shitting on the christmas dinner.",
+    "Masturbating.",
+    "Nonconsensual sex with a ladybird.",
+    "The wet feeling of toddler teeth wrapped around your phallus.",
+    "Peeling your skin off to reveal a sexy, sexy corpse.",
+    "Accidently having sex with a mechanical bull.",
+    "A cheeky lick of the lips. The Queen's pussy lips.",
+    "A piñata full of cum.",
+    "\"Please stop fucking my dad\".",
+    "Getting blistering friction burn from rubbing your dick against a brick.",
+    "Sleep walking and then waking up to find yourself fucking a horse.",
+    "Stupid niggers.",
+    "Watching a narwhal make sweet sweet love to a horse.",
+    "Fap.",
+    "Lubricating your arm so you can fit it through a keyhole, then proceeding to scare the crap out of the mailman.",
+    "Fucking a makeshift hole in my bed.",
+    "Rubbing your hand across your dad's cock as you give him a goodbye hug.",
+    "Literally fucking the brains out of a nun.",
+    "\"fuck me like one of your french whores\".",
+    "Foreskin repellent.",
+    "Mouthing the words \"fuck me\" to my son.",
+    "Putting my penis through a hole in a pizza box then giving it to my grandma.",
+    "Ferociously fucking a toilet paper tube.",
+    "Falcon punching a jehovas witness after opening the door.",
+    "Getting mugged by a gang of homosexual ninjas.",
+    "Putting a supressor on your cock.",
+    "THIS STUPID FUCKING HARD-ON.",
+    "The lord and saviour, Adolf Hitler.",
+    "Laser piss.",
+    "Pulling your throat out of your ass with rage.",
+    "My sexually frustrated dad.",
+    "A 10 metre tall dildo.",
+    "The type of hardcore ass rape only my dad can give me.",
+    "Raping that one teacher you like.",
+    "An ice cream truck that plays Hitler youth songs.",
+    "Talking sexy to the 'Child-Line' representitive over the phone.",
+    "Firing a cork out of your asshole.",
+    "That awkward boner I get when I see my dad fucking my sister.",
+    "Fucking the shit out of your grandfather's corpse... during his funeral.",
+    "Drowning in cunt. Wet, wet cunt.",
+    "Einstein's secret theory of hardcore ass bangin'.",
+    "The Hitler youth.",
+    "Sucker punching a child in the face.",
+    "Hitler's gas bill.",
+    "That ecstatic feeling you get after burning down a room full of children's incubators.",
+    "The almighty clit.",
+    "Fucking noot noot, bitch.",
+    "Another fucking feminist.",
+    "Using your ass as a handy snow shovel.",
+    "A rare feminist which isn't a faggot, just a Nazi.",
+    "ASS WHOOP SUPREME.",
+    "\"HOW IS THIS NOT FUCKING BUTTER\".",
+    "A suicide photobomber.",
+    "Shit. Everywhere. Just everywhere all over.",
+    "Sitting in a mosque until it inevitably gets suicide bombed.",
+    "Putting a child's nose in your ass and gassing them.",
+    "NOOTING LIKE A BITCH.",
+    "Anal cavities.",
+    "A sexy toddler.",
+    "Cyanide pills that make your penis invert immediately upon use.",
+    "Looking at your watch and seeing a dick.",
+    "Being a fucking transgender.",
+    "Suicide.",
+    "A huge throbbing cock.",
+    "A DIY penis enlargement with a ceiling fan and rope.",
+    "My girlfriend's stupid penis.",
+    "Mistaking a sexy ass melon for your whore of a wife.",
+    "Sealing kids library books shut with semen.",
+    "\"Fucking faggot\".",
+    "Warm cum.",
+    "Shitting off the top of the Empire State Building.",
+    "Testicle enhancements.",
+    "The complicated procedure of telling a muslim not to fucking blow up.",
+    "Turning around mid-handshake to shove the guys hand your ass.",
+    "A waterbed filled with semen.",
+    "Foreskin removal cream.",
+    "A superhero costume that imitates a human foreskin.",
+    "Doing the cinnamon challenge with your anus.",
+    "*sneaky wank*.",
+    "A dildo-swallowing, child-molesting, pussy-fistin' chicken.",
+    "An Auschwitz reunion party.",
+    "Riding a dildo so fast that you break the sound barrier.",
+    "Shitting out a hozizontal sea cucumber.",
+    "Stabbing the postman for fucking your letterbox.",
+    "Nigger fluid.",
+    "A motherfuckin' speedo-pedo.",
+    "Rubbing a genie's lamp with the nozzle in your ass, forcing the genie to slither up your anus.",
+    "A puppy biting down on my flaccid cock.",
+    "Fresh semen dripping for a sheep's moist pussy.",
+    "An electric buttplug the size of a bus.",
+    "Raping a newborn.",
+    "A dog with 'fuck me' eyes.",
+    "Replacing your brother's ADHD medicine with cocaine.",
+    "Cutting your wrists so much that the entire country gets drowned in blood. You pathetic bastard.",
+    "Using your massive, sagging ballsack as a parachute.",
+    "\"What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this earth, mark my fucking words.\".",
+    "Shitting in your child's Christmas stocking.",
+    "HIV.",
+    "Being covered in buckets of semen."
+  ],
+  "pack": {
+    "id": "VK7EC",
+    "name": "Dark Humour"
+  },
+  "quantity": {
+    "black": 103,
+    "white": 235,
+    "total": 338
+  },
+  "dateStoredMs": 1588373996501
+}

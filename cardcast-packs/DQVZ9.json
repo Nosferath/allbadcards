@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "There's rumours that  _ is Voldemort's child.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For Voldemort and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Dog diggity, _ - you are a doggy dynamo.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kissing your aunt.",
+    "The Sorting Hat having apparently grown legs and strutting to its spot.",
+    "The Blood Ball.",
+    "Bringing back Moldy Voldy.",
+    "Harry and Draco finally becoming bros.",
+    "Voldie, butting in at inappropriate moments just to say Harry's name in a creepy voice.",
+    "Becoming a Death Eater because you're moderately disappointed about losing a tournament.",
+    "The realisation Voldie couldn't last five minutes.",
+    "The trolley witch, now with spikes for hands.",
+    "Delphi Dark'Ness Lestrange Voldemort Way.",
+    "Healthy father-son bonding consisting of telling your son you wish he didn't exist.",
+    "A bookcase that eats people alive.",
+    "People actually paying to see The Cursed Child."
+  ],
+  "pack": {
+    "id": "DQVZ9",
+    "name": "Harry Potter and the Cursed Shit"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 13,
+    "total": 16
+  },
+  "dateStoredMs": 1588373995789
+}

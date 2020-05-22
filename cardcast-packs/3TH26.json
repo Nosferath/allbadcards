@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "Le belle storie iniziano sempre con _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non puoi avere una bella giornata senza _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odio _ , non lo sopporto proprio",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La mia ricetta preferita è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sin dalla nascita ho ottenuto _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "3TH26",
+    "name": "AlexxV4"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 0,
+    "total": 5
+  },
+  "dateStoredMs": 1589400538155
+}

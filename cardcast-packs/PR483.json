@@ -1,0 +1,124 @@
+{
+  "black": [
+    {
+      "content": "Thanks to ProLeague you can now expect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're _ , you deserve to be team killed!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the one thing all toxic players agree on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coppers think _ is the perfect strat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in the canister?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What killed me? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do an artist and _ have in common? _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ caused me to rage quit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did we loose a 5v1? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ the game!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was so good at _ it got me a promotion",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, The only thing smaller than Ash's head hitbox.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the reason Ubi nerfed Blackbeard ... again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why would Ubi fix _, when they can _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only thing faster than _ is a copper Ash rush",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No dynamic duo would be complete without _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Thank you Ubi.",
+    "Fucking laser sights.",
+    "A crazy russian filling you with nanobots.",
+    "Putting acog on shotguns.",
+    "A really big fucking hole coming right up.",
+    "Termoji.",
+    "Fixing and repairing the game.",
+    "Flash banging yourself.",
+    "Caviara's gaint purple strapon.",
+    "Our mighty lord Tachanka.",
+    "Calling potato aim that ends with a lucky headshot skil.",
+    "Dollar store power ranger bois.",
+    "Banning Clash from the game.",
+    "Hockey pucks of doom.",
+    "Castle screaming louder than a jet engine.",
+    "Leaving the defuser at spawn.",
+    "IQ's pre nerf booty.",
+    "A REALLY BIG FUCKING HOLE COMMING RIGHT UP!.",
+    "Getting black ice.",
+    "Drugs.",
+    "Being matched with plats in casual.",
+    "Baracading kids.",
+    "Throwing a candella and blinding your entire team.",
+    "Surprise EDD kill.",
+    "Some druggy hooking up car battieres to your nips.",
+    "Dropshot and lean spamming.",
+    "Removing the acog.",
+    "Nerfbeard TM."
+  ],
+  "pack": {
+    "id": "PR483",
+    "name": "R6Siege"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 28,
+    "total": 44
+  },
+  "dateStoredMs": 1588453571873
+}

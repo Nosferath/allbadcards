@@ -1,0 +1,230 @@
+{
+  "black": [
+    {
+      "content": "What got me kicked out of my apartment? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today in class, we learned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is there moaning in the dorm next door? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the newest street drug? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, professor. I can't come to class today because I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, I couldn't afford much for your Christmas gift this year, so I got you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the newest required first-year course? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the sequel to \"Frozen,\" Anna struggles to survive college and ends up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my birthday this year, I wanted _  but instead I got _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is the ultimate secret to emotional stability? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey. I forgot our assignment. What were we supposed to be doing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe we  have to write a 10 page essay on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never go to class without my  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are they serving in the dining hall today? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I crying?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the newest major being offered on campus? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I spend most of my money on? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is required to pass this class? _ of course!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is my pre-studying ritual for finals? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I pass the final?  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spend most of my time before class _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I pay off my student loans? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the class that I'm currently failing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the reason I'm THIS close to dropping out and becoming a stripper? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Screw these finals! I'm _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Screaming into an endless void.",
+    "Spectrespecs.",
+    "Burning alive.",
+    "Caribou.",
+    "Selling my soul to Satan.",
+    "Mermaid tail.",
+    "Bunny hugging.",
+    "Cuddling with a thousand overly-affectionate goats.",
+    "Reenacting 2 Girls, 1 Cup.",
+    "Student debt.",
+    "Inbreeding.",
+    "Jellyfishing.",
+    "Vore.",
+    "Making an anatomically-correct snowman.",
+    "Death Note.",
+    "Tumblr.",
+    "Going to Hogwarts.",
+    "Textbooks that I will only use once for class.",
+    "Your face.",
+    "Spreading rabies.",
+    "Reading Bee Movie fanfiction.",
+    "The krabby patty secret formula.",
+    "Wearing nothing but sweats.",
+    "Emotional stability.",
+    "Converting to Scientology.",
+    "Waiting for the Great Pumpkin to appear.",
+    "Praying to every religion and superhero in existence.",
+    "Hogwarts robe.",
+    "My face.",
+    "Caribou Coffee.",
+    "Being buried alive.",
+    "Finals.",
+    "Gambling.",
+    "Getting a job at the Krusty Krab.",
+    "Veganism.",
+    "Chipotle.",
+    "Ariel's shell bra.",
+    "Doing the Cha Cha Slide.",
+    "Crying into an endless abyss.",
+    "Tom Hiddleston.",
+    "Becoming a hermit.",
+    "Crying.",
+    "A pile of rocks.",
+    "The booty.",
+    "Nothing.",
+    "Cannabalism in Papua New Guinea.",
+    "Failure.",
+    "Wumbology.",
+    "Disney movies.",
+    "Food.",
+    "Carnivorism.",
+    "Being sacrificed to the Aztec Gods for my beauty.",
+    "Puppies.",
+    "Getting plastic surgery.",
+    "Eating the booty.",
+    "Sarah Palin.",
+    "Pole-dancing.",
+    "On tumblr.",
+    "Criminal records.",
+    "Committing murder.",
+    "Sleeping with Lord Voldemort and his dead mother.",
+    "Goat sacrifices.",
+    "Burying a body.",
+    "My appearance.",
+    "Creating the dankest meme.",
+    "Bribing my professors.",
+    "Daddy issues.",
+    "Financial security.",
+    "Dank memes.",
+    "Starbucks.",
+    "Me.",
+    "Ebola.",
+    "The Freshman 15.",
+    "Incest.",
+    "Masturbating.",
+    "The clitoris.",
+    "Kissing the professor's ass.",
+    "Going to Hell.",
+    "Bullshitting everything.",
+    "Kissing the professor's ass, literally.",
+    "Debating if I should drop out and become a stripper.",
+    "Not giving a fuck.",
+    "Penis envy.",
+    "Getting sexy with Hagrid.",
+    "Rubbing a ghost's dick.",
+    "Giving blowjobs to giant crabs.",
+    "Vagina envy.",
+    "Merpeople porn.",
+    "Watching Disney movies."
+  ],
+  "pack": {
+    "id": "N2BY7",
+    "name": "College Students Deck"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 89,
+    "total": 114
+  },
+  "dateStoredMs": 1588740961494
+}

@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "_ slept with _. Tragic.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who is name partner this season?_ _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who is Louis Loyal to this week?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who knows mike's secret?_ No that the lawyer thing, the GAY thing",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who let Louis near _? They're now filing a sexual harassment suit against the firm!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who let Louis bring his cat to work again?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ did _ and now somehow Louis is name partner",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Sheila Sazs.",
+    "Harold.",
+    "Harold.",
+    "Sheila Sazs.",
+    "Daniel Hardman.",
+    "Rachel.",
+    "Daniel Hardman.",
+    "Robert Zane.",
+    "Mike Ross.",
+    "Jenny.",
+    "Harvey.",
+    "Mike's not a real lawyer.",
+    "Mike's skinny ties.",
+    "Donna.",
+    "Mike Ross.",
+    "Jessica.",
+    "Trevor.",
+    "Rachel.",
+    "Harvey.",
+    "Jessica.",
+    "Robert Zane.",
+    "Travis Tanner.",
+    "Travis Tanner.",
+    "Donna.",
+    "Louis' cat."
+  ],
+  "pack": {
+    "id": "Z8HU2",
+    "name": "Suits"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 25,
+    "total": 32
+  },
+  "dateStoredMs": 1589315256530
+}

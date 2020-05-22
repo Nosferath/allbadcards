@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "You thought it was _ but it was me! _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The name of my stand is _...",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "What's under Jotaro's hat.",
+    "The stand Star Platinum.",
+    "Using Joseph's Prosthetic Left Hand."
+  ],
+  "pack": {
+    "id": "SX54J",
+    "name": "JoJo's Bizzare Adventure"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 3,
+    "total": 5
+  },
+  "dateStoredMs": 1588288590024
+}

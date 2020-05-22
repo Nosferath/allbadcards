@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "Two Thing Ye Must know Of the Wise Woman, one She Is _ , Two She Is _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kate? Isn't That A Bit _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is This_?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Is Your Name Boy? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Woman.",
+    "WOOOF.",
+    "Nursie.",
+    "Is this Putney.",
+    "The Jane Harrington.",
+    "Lord Melchet.",
+    "Its short for Bob.",
+    "Cunning Plan.",
+    "Of a girls name.",
+    "Edmund.",
+    "Jane bury me in a Y-shaped coffin Harrington.",
+    "Baldrick.",
+    "The Spainiards.",
+    "Queen Eliabeth.",
+    "Wise.",
+    "Kate.",
+    "Flashheart."
+  ],
+  "pack": {
+    "id": "H5PSH",
+    "name": "Blackadder 234"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 17,
+    "total": 22
+  },
+  "dateStoredMs": 1589035223735
+}

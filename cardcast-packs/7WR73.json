@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "\"Nothing runs like a _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You're not you when you're _ .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"When you're here, you're  _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The most trusted name in news: _ \"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Subway, eat _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_, it's what's for dinner.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"At the corner of happy and _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Save money, live better. _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The snack that smiles back, _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Have it your way: _ \"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ba da ba ba ba, I'm _ it.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nachos Bell Grande ™,  No Beans.",
+    "McDouble ™.",
+    "McNuggets ™ and a small fry.",
+    "Stouffer's Family Sized Mac n' Cheese Dinner ™."
+  ],
+  "pack": {
+    "id": "7wr73",
+    "name": "Companies and Slogans"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 4,
+    "total": 15
+  },
+  "dateStoredMs": 1588998658840
+}

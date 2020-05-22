@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "Wosh u _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey its me. Shows a picture of a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who needs arms when you have _ like these.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can fit 29 _ on my head.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Toriel.",
+    "Burger pants.",
+    "Jerry.",
+    "Mew mew kissy cutie.",
+    "Undyne.",
+    "Sans.",
+    "Trash can.",
+    "Spaghetti.",
+    "Legs.",
+    "Frisk.",
+    "Tsundereplane.",
+    "Mettaton.",
+    "Determination.",
+    "Temmie.",
+    "Papyrus.",
+    "Cinnamon butterscotch pie.",
+    "Hot dogs.",
+    "Flowey.",
+    "Napstablook.",
+    "Doggo.",
+    "Snow poff.",
+    "Alphys.",
+    "Asgore."
+  ],
+  "pack": {
+    "id": "6XQ2X",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 23,
+    "total": 27
+  },
+  "dateStoredMs": 1588648322070
+}

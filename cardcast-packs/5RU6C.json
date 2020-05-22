@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "you're filled with _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "5RU6C",
+    "name": "undertale"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588648321801
+}

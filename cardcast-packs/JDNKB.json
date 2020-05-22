@@ -1,0 +1,206 @@
+{
+  "black": [
+    {
+      "content": "_: How to shut Sho up",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You feel as though a million _ will never make you clean.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time never waits. It delivers all _ to the same end.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The word of the day is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're all nothing but _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Everyone makes fun of me because I like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's celebrate by _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh I get it, what you're really saying is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I loooooooove them _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a _ , the true _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You have obtained the Persona _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does it mean to be \"_\"? What does it mean to be \"_\"?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ has transfigured into _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the means by which all is revealed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You sense an intensely terrifying _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who wants to talk about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This place exists between mind and matter, _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Be careful! I sense _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you _ at midnight while it's raining, you'll see _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sorry, I don't speak _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyday's great at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is more noncanon than _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ryoji Mochizuki.",
+    "Nanako Dojima.",
+    "Chie Satonaka.",
+    "Dojima's bourbon.",
+    "Disco ninja frog.",
+    "Nanako's science project.",
+    "The Velvet Room.",
+    "Kanji Tatsumi.",
+    "Izanami's bony ass.",
+    "Fsteak.",
+    "Taro Namatame.",
+    "Jin Shirato.",
+    "Makoto Yuki.",
+    "Tohru Adachi.",
+    "Yukiko x Chie.",
+    "Chidori Yoshino.",
+    "Mitsuru Kirijo.",
+    "Maya Amano.",
+    "Kashiwagi.",
+    "Dominatrix bananahead.",
+    "Saki Konishi's dead body.",
+    "Maru-Q Striptease.",
+    "Yosuke's Social Link.",
+    "A. S. S. weapon.",
+    "Shinjiro Aragaki.",
+    "Fuuka Yamagishi.",
+    "Teddie.",
+    "Marie.",
+    "Mara.",
+    "Labrys.",
+    "Aigis.",
+    "Shadow Kanji.",
+    "Igor's nose.",
+    "The Reaper.",
+    "Yukiko Amagi.",
+    "Nyarlathotep.",
+    "Koromaru.",
+    "Shadow Rise.",
+    "Akihiko Sanada.",
+    "Minato Arisato.",
+    "Metis.",
+    "Sho's fucking bad puns.",
+    "Steamy Bathhouse.",
+    "Funky student.",
+    "Heaven.",
+    "Adachi sympathizers.",
+    "Naoto Shirogane.",
+    "Hitler in shades.",
+    "Kanji's Birth of Venus.",
+    "Robot upskirt shot.",
+    "Battle panties.",
+    "Yu Narukami.",
+    "Shadow Naoto.",
+    "Tartarus.",
+    "Takaya Sakaki.",
+    "Minako Arisato.",
+    "The Meat Dimension.",
+    "Shadow Teddie.",
+    "Shadow Chie.",
+    "Shadow Yosuke.",
+    "Lotus Juice's rapping.",
+    "Shadow Yukiko.",
+    "Yukari Takeba.",
+    "Sho Minazuki.",
+    "Magatsu Inaba.",
+    "Junpei Iori.",
+    "Magician arcana romance.",
+    "Kanji x Naoto.",
+    "Shadow Mitsuo.",
+    "Ryoji's impossibly perfect hair.",
+    "The 'Featuring Dante from the DMC Series' sticker.",
+    "Yosuke x trash can.",
+    "Rise Kujikawa.",
+    "Door-kun.",
+    "The Midnight Channel.",
+    "Elizabeth's requests.",
+    "Yosuke Hanamura.",
+    "New Game + as Danny Devito.",
+    "The King's Game.",
+    "Yu x Yosuke."
+  ],
+  "pack": {
+    "id": "JDNKB",
+    "name": "Persona"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 80,
+    "total": 102
+  },
+  "dateStoredMs": 1589496143107
+}

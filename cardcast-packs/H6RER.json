@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "Joe seems to think he can _ with a whole lot with women.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Richie says he can _ because his momma said so.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fred's guilty pleasure is to _  while walking at the same time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 326 Boyz were notorious because they liked to _ and then pass out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amanda is known to _ and always gets away with it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Richie once told Joe to _ in order to be successful in life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minh likes to _ when no one is watching.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fred and Minh usually _ on Sunday mornings.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Listen to Nickelback.",
+    "Steal bodies from the morgue.",
+    "Stare at an asshole.",
+    "Drop it like it's hot.",
+    "Race cars for blow.",
+    "Throw nickels at homeless people.",
+    "Play with murder hornets.",
+    "Poop on the bed.",
+    "Eat and fart at the same time.",
+    "Blow up a 5G cell tower.",
+    "Wear a face mask with the nose cut out.",
+    "Cry in the corner until the man stops touching.",
+    "Drink Clorox and inject Lysol.",
+    "Watch two dogs go at it.",
+    "Get a hand job in public.",
+    "Sing without pants.",
+    "Piss in the sink and shower in the toilet.",
+    "Have anal sex.",
+    "Buy stock in dildos.",
+    "Pretend to be a nice guy.",
+    "Lick COVID-19 and smile."
+  ],
+  "pack": {
+    "id": "H6RER",
+    "name": "326 Boyz"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 21,
+    "total": 29
+  },
+  "dateStoredMs": 1588904527903
+}

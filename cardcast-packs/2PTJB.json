@@ -1,0 +1,103 @@
+{
+  "black": [
+    {
+      "content": "The biggest mistake in Harry Potter was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Double double toil and trouble fire burn and _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Insult the card czar. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To give Voldemort a nose you must _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ met Hagrid it was awesome!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi I'm _ , the best Auror in the Ministry!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe the card czar in your most magical way. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Master has given Dobby _, Dobby is free!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I asked JK Rowling _ she said _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To annoy Harry you must mention _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Dumbledore said _ I was extremely relieved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite wizards swear is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A cat.",
+    "Hufflepuff.",
+    "Slytherin.",
+    "I'M A WHAT!?.",
+    "M,wizard.",
+    "Harry and Ron crashing in Platform 9 and 3 quarters.",
+    "Get shat on by a Hippogriff.",
+    "Jumping out the Weasley Wizard Wheezes with all the new goods.",
+    "A toad.",
+    "The fact Ravenclaw and Hufflepuff can actually get some.",
+    "Punching Umbridge right in here stupid hair.",
+    "M,witch.",
+    "When Drarry became cannon.",
+    "Hermione going in for the RKO on Malfoy.",
+    "Gryffindor.",
+    "A god damn firebolt!.",
+    "Having sex in Ron's slug puke.",
+    "Getting a broken 'wand'.",
+    "Ravenclaw.",
+    "I'M NOT A WIZARD HAGRID!.",
+    "Harry's dildo.",
+    "Ron's 'wand'."
+  ],
+  "pack": {
+    "id": "2PTJB",
+    "name": "Harry Potter"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 22,
+    "total": 35
+  },
+  "dateStoredMs": 1589068732393
+}

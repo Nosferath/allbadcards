@@ -1,0 +1,1667 @@
+{
+  "black": [
+    {
+      "content": "Oh no... oh man, I totally forgot to bring _! This is embarassing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no, look out! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing an amazing new superhero/sidekick duo! It's _ & _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is more fun with friends!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never knew what _ could be, until you all shared its _ with me.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sorry, but we don't allow _ in school.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On MasterChef, today's secret ingredient is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twilight Sparkle got tired of the magic of friendship & now studies the magic of _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, this? I call it the _-inator!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a spy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are people, too!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You open the treasure chest & find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my comfort food.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in my day, _ only cost a quarter!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The princess kissed _ to transform it into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am the genie of the lamp. I will grant you 3 wishes. What will they be? 1. _ 2. _ 3. _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Finally, a service that delivers _ right to your door!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my next trick, I will pull _ out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is a no _ zone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I shall use my super powers of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _. Watch how I soar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need a new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, not _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing Marvel's newest superhero, _-man!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The greatest superhero ever is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I mixed _ & _, it resulted in _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "There’s something you’d better understand about me ‘cause it’s important, and one day your life may depend on it: I am definitely _ with _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I only like to read comic books about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who killed Mr. Body? It was _ with _ in _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_: just add _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Snowcones? Oh don't worry, they're _ flavored.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The votes are in, & the new Lays Potato Chip flavor is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you Mario! But _ is in another castle!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shhh, you hear that? It's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the science fair, I made _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know what I'll do! I'll use my trusty _ as _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = happiness.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is _ , no matter how small.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Bet you can't have just one!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out clouds are made of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What time is it? _ time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so hungry, I could eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What always livens up the party? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In today's morning announcements, we learned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I say _ , be ready for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: fun for the whole family!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you order _ in the next 15 minutes, we'll throw in _ absolutely free!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There is nothing more amazing than _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why is _ on a spaceship?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is so awkward at a sleepover.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These are not _! These are _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The clown made all the children laugh with his balloon in the shape of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the 3rd day of Christmas, my true love gave to me: 3 french hens, 2 turtle doves, & _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I feel is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From there to here, and here to there, _ are everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's rough, buddy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there's one thing everyone should like, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maybe she's born with it, maybe it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get by with a little help from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is your gift.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So much _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I make  a delicious _ pie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to the moon & took _ but not _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tonight's school play is starring _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chocolate cake with _ would be epic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The greatest advice Uncle Iroh ever gave me involved _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ was the best part of my day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish we could turn into our Halloween costumes: I went as _ this year.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I really want is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't want _? Give it to the poor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Elements of Harmony were originally the Elements of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing Xtreme baseball! It's like regular baseball, but with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: it's magically delicious!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wear _ now. They're cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Always take _ to a party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The awesomest party isn't complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of gold, everything I touch turns into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd like you all to meet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And on his farm he had _, E-I-E-I-O!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler alert: _ is actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I would have gotten away with it if it hadn't been for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you be mine, could you be mine, won't you be my _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do what I do. Hold tight and pretend it’s _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the Lord of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put _ back where it came from or so help me...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a _ indeed.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why put syrup on your waffles when you can use _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ called. They want _ back.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is _. He’s been your rival since you were a baby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Is there anything they can't do?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe it, I'm _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you look up at the stars, you can see a constellation that looks kind of like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My first girlfriend turned into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gym was cancelled due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In every generation, there is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything is awesome! Everything is cool when you're part of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who allowed _ in the house?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It sucks when you look in the fridge & all you have to eat is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Little Pony: _ is Magic",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mmmm, tastes like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Release _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disney presents: _ On Ice!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will not eat them, Sam-I-Am. I will not eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like uncooked dough, my _ are sticky!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who stole the cookies from the cookie jar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesn't exist & it should stay that way!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Zelda game is going to be weird. It's called The Legend of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Halloween, I'm going as _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes you feel like _, sometimes you don't.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You want me to stop _? That's not cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the _ is my secret wizard name.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Now it's time for the word of the day: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My other car is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Avatar is the bridge between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We can defeat it, with the power of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It smells like _ in this room.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have _ in your head. You have _ in your shoes. You can steer yourself any direction you choose.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's not a boulder. It's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Danger! _ ahead!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's dangerous to go alone. Take _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've always been rather fond of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only you can control your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You got your _ in my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sweet, I just got a coupon for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would I use a time machine for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ are my power!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the #1 toothpaste flavor recommended by dentists.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't know you could burn _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been through the desert on _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't you know that _ is the most important thing in the world?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My cutie mark would be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm just a guy with a boomerang. I didn't ask for all this _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like _! They’re comfy and easy to wear!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do for a Klondike Bar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're transported to Equestria! The first thing you look for is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish I hadn't lost the manual for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What trend should make a comeback? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: boil 'em, mash 'em, stick 'em in a stew!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All aboard the _ train.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going to build my own theme park! With _! And _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The secret ingredient is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd like to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got some strange looks in the checkout line when the cashier noticed _ & _ in my cart.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I accidentally destroyed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The moon spirit is a gentle, loving lady. She rules the sky with compassion and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A fortune teller told me I will have a life filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ordered _, but they sent me _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instead of coal, Santa now gives bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate it when people give out _ instead of candy on Halloween.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got arrested for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rarity has a clothing line inspired by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Great & Powerful _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What am I supposed to do with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am the king of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let it go! Let it go! _ never bothered me anyway...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The night before a blizzard, stock up on _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My superhero's secret identity is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For Halloween, I'm dressing up as a half-_, half-_ monster.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you thought _ was impressive, wait til you see _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest Avenger is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On tonight's episode of Face Off, contestants must design a creature using _, _, & _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I may be _ , but I'm still pretty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Thanksgiving, I'm most thankful for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want _ for breakfast, lunch, & dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I bring back from Mexico? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the cutest thing ever!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "First Name: _ , Last Name: _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the reason Donald Duck is so cranky.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Are you crazy?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll never stop me now, I've got _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is probably the best band name ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey now, you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandma believes that _ is the source of all goodness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _, you're _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We are the undefeatable _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Summer, the season of _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just wait until someone figures out how to bend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in my pockets? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why we can't have nice things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best present my grandma ever gave me was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even jet fuel can't melt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A true _ is a friend indeed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things to do: 1. _ 2. _ 3. _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You say goodbye, I say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank god we're _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm starting a club for people who believe in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The winner gets _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: because you're worth it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you love the smell of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dare you to tell your parents about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chocolate-covered _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything changed when _ attacked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't take me to jail! It's not like I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe you put _ in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Honestly? _ is the best character.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's for dinner? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And that's how _ was made!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're going on a quest to retrieve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I believe that Aang can change _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like drawing pictures of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things you need to survive on a deserted island: _ & _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I have the biggest _ ever!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pikachu's weakness is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I invented _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next episode of this cooking show will feature _. And bacon. Lots & lots of bacon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our princess is in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my nemesis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of all the things that could have happened, _ is the WORST. POSSIBLE. THING.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At least I'm not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I were in the League of Incredible Vegetables, I'd be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you a real _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, I choose you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Christmas wouldn't be Christmas without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Best recipe ever: 1 part _, 3 parts _, & a dash of _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In a pinch, _ can be used as a substitute for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's my secret power? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello _ my old friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The restaurant was nice, but I was surprised to see _ on the menu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never ignore _. Unless, of course, you’re busy. In which case, always ignore _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is/are for kids.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're grounded! No more _ for 2 weeks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're off to see the Wizard! The wonderful wizard of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a day keeps _ away.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_! The best weapons in the world!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silly rabbit, _ are for kids!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a mean _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd love to live in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always wanted to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I liked _ before it was cool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't need any calming tea! I need _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The class field trip was completely ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandma gave me her secret recipe for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the stroke of midnight, CInderella's carriage turned back into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I came up with a new dance move. I call it \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother is _ & your father smells of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dear substitute teacher, would you please stop _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We _ because we are _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you're not _, then what kind of monster are you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am not afraid of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was pretty much the best _ of all time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wild _ appeared. It used _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My perfect day would have to include _ followed by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "One time after trick-or-treating, I found _ in my goody bag.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ice cream.",
+    "Unlimited rice pudding.",
+    "Waterbending.",
+    "Spyro's scales.",
+    "Mario Kart.",
+    "Cup of tea.",
+    "Cowboys.",
+    "Biscuit of Zazzamarandabo.",
+    "Coca-Cola.",
+    "Decorative vegetables.",
+    "Snorting when you laugh.",
+    "Accidentally dropping your phone in the toilet.",
+    "Mr. Green.",
+    "Eating jelly beans.",
+    "The Little Mermaid.",
+    "Squares.",
+    "A random pair of underwear.",
+    "Fancy pants.",
+    "Peter Pan.",
+    "Big Macintosh (from My Little Pony).",
+    "Clown shoes.",
+    "Friendship.",
+    "Bat Cave.",
+    "A big ham.",
+    "A giant flying whale.",
+    "Coffee and donuts.",
+    "Elliot.",
+    "Giant ball of string.",
+    "Shoes.",
+    "Turning into your Halloween costume.",
+    "The light.",
+    "Building a snowman.",
+    "Peanut butter.",
+    "Lightning.",
+    "A waterpark.",
+    "A turtle.",
+    "Ash's never-aging face (from Pokemon).",
+    "A hexagon.",
+    "An inexplicable door.",
+    "Shapes.",
+    "Rainbow Dash.",
+    "Nick.",
+    "Ninjas, pirates, & robots.",
+    "Stealth Elf.",
+    "A frying pan.",
+    "A revolver.",
+    "Hot donuts.",
+    "A ball pit.",
+    "Jason (Dad).",
+    "Random foods I didn't want to leave in my fridge.",
+    "Vampire bunnies.",
+    "Juice box.",
+    "Hot sauce.",
+    "3 kids in a trenchcoat.",
+    "A milkshake.",
+    "Juice.",
+    "Cheese.",
+    "Extra toe.",
+    "Equestria.",
+    "Cheeseburgers.",
+    "My bike.",
+    "A strawberry pie.",
+    "Earth.",
+    "Pirate Party.",
+    "Oatmeal.",
+    "A fluffy cat.",
+    "Peeing in an empty water bottle.",
+    "Robin (the sidekick).",
+    "Riding a horse.",
+    "Ice cream.",
+    "Robots.",
+    "Free samples.",
+    "The table.",
+    "Tiny sock.",
+    "Colonel Mustard.",
+    "Banana.",
+    "Blowing up a door.",
+    "Buns.",
+    "Bobs (from Cutthroat Kitchen).",
+    "Batman.",
+    "Butterflies.",
+    "S'mores.",
+    "A drying pan.",
+    "Frogs.",
+    "Your house.",
+    "Kittens.",
+    "Tiny t-rex arms.",
+    "An elf.",
+    "A boiled egg.",
+    "Water.",
+    "Enough ice cream to feed 8 people.",
+    "A wizard.",
+    "The best Pokemon breeder.",
+    "Weird Al.",
+    "A talking horse.",
+    "America.",
+    "A blue platypus.",
+    "Riding a horse.",
+    "Bats.",
+    "A dark and stormy night.",
+    "Pikachu.",
+    "My family.",
+    "Fun.",
+    "Taco Tuesday.",
+    "$50 cup of coffee.",
+    "Brains.",
+    "Jazz for cows.",
+    "A head swarming with lice.",
+    "Captain James T Kirk.",
+    "Mickey Mouse.",
+    "Another castle.",
+    "High noon.",
+    "Quinn.",
+    "Yoshi.",
+    "Waves.",
+    "A box.",
+    "My house.",
+    "A superhero.",
+    "A noisy cat.",
+    "Master Eon's beard (from Skylanders).",
+    "Bees.",
+    "Elephants.",
+    "Baseball bats.",
+    "A rope.",
+    "Scarves.",
+    "Discord (from My Little Pony).",
+    "Bears.",
+    "Plants.",
+    "Professor Oak.",
+    "A princess.",
+    "Yoshi.",
+    "Standing.",
+    "An ice cube.",
+    "Drinking tea.",
+    "Silky (from Teen Titans).",
+    "Aliens.",
+    "A grand piano.",
+    "Winning.",
+    "Plastic food.",
+    "Fried chicken.",
+    "A pie.",
+    "Grr. Arr.",
+    "An actual rainbow.",
+    "Almost a rainbow.",
+    "Another donut - with extra sprinkles!.",
+    "A banana.",
+    "Apps that cost too much.",
+    "Moves.",
+    "Spiderman.",
+    "Dinosaurs.",
+    "Making the sun go down.",
+    "Living in a trash can.",
+    "Becoming evil.",
+    "A fuzzball.",
+    "Pac-Man.",
+    "M&Ms.",
+    "Hats.",
+    "Funny things.",
+    "Toys.",
+    "Seeing dead people.",
+    "Princess Peach.",
+    "Winnie the Pooh.",
+    "A giant bucket of ice cream.",
+    "Lots of dots.",
+    "The world.",
+    "Water.",
+    "Math.",
+    "Fudge.",
+    "Getting lost in the dessert.",
+    "A villain.",
+    "Umbrellas.",
+    "Eating too much watermelon.",
+    "Licking things to find out what they are.",
+    "A comfy green blanket.",
+    "The Ballroom.",
+    "Broccoli.",
+    "The moon.",
+    "Spyro.",
+    "Water.",
+    "Hello Kitty.",
+    "Cyborg.",
+    "Metalbending.",
+    "Cars.",
+    "A pile of socks.",
+    "Finding shoes that fit perfectly.",
+    "Magical tablet.",
+    "Yeti.",
+    "The Hall.",
+    "Mrs. White.",
+    "Baby carrots.",
+    "A yacht.",
+    "A blue tiger.",
+    "The back seat of the car.",
+    "Teen Titans tower.",
+    "My job.",
+    "Dolphins.",
+    "Regularly making really bad choices.",
+    "Knees.",
+    "Chocolate.",
+    "TNT.",
+    "Shopping with Mom.",
+    "Avatar Aang.",
+    "Hulk smash.",
+    "Ghosts.",
+    "Break dancing.",
+    "Jelly.",
+    "Thin Mint cookies.",
+    "Ponies wearing clothes.",
+    "A mad man.",
+    "Another castle.",
+    "A very tiny demon.",
+    "Me.",
+    "A tiny unicorn.",
+    "Yummy sushi pajamas.",
+    "Skylanders Academy.",
+    "BB-8.",
+    "People.",
+    "Magic.",
+    "Tacos.",
+    "Gary (your rival).",
+    "My friends.",
+    "Magnets.",
+    "Mario.",
+    "The League of Incredible Vegetables.",
+    "Comfy pants.",
+    "Chocolate bars that turn adults into teens.",
+    "Superheroes.",
+    "My hair brush.",
+    "Giving yourself a haircut.",
+    "A true friend.",
+    "Love.",
+    "Cupcakes.",
+    "Half-pants.",
+    "The cutest laugh ever.",
+    "A giant bucket of water dumped on your head.",
+    "Crazy monster masks.",
+    "Bees.",
+    "A barrel of apples.",
+    "Izzy.",
+    "A dust bunny that hops around.",
+    "Space.",
+    "The Fire Nation.",
+    "Mike Wazowski.",
+    "Long nose hairs.",
+    "A Pokemon master.",
+    "Penguin costumes.",
+    "The plan.",
+    "$20,000,000.",
+    "Santa Claus.",
+    "Frosty chocolate milkshakes.",
+    "Darkness.",
+    "A dog.",
+    "Eat8ing Lucky Charms daily.",
+    "Bow tie.",
+    "Dolphins.",
+    "Children.",
+    "Kid Cuisine meals.",
+    "Ring Pops.",
+    "Glitter.",
+    "Thor's hammer.",
+    "Fairy princess.",
+    "LEGOs.",
+    "Figgy pudding.",
+    "A shiny new Pokedex.",
+    "Chocolate cake.",
+    "Silly hat.",
+    "Glitter.",
+    "Butter.",
+    "Raven (the demon girl).",
+    "Golf clubs.",
+    "So many Tribbles.",
+    "Almost freezing to death in a snow storm.",
+    "Prunes.",
+    "The cat that stole your dice, again.",
+    "Avatar Korra.",
+    "Nemo.",
+    "Metal trees.",
+    "Mac & cheese.",
+    "Wearing a ducky hat.",
+    "All the Robins.",
+    "Bird hat.",
+    "A robin (the bird).",
+    "Space.",
+    "A raven (the bird).",
+    "Spider webs.",
+    "Luigi.",
+    "A giant lollipop.",
+    "Leaving the door open.",
+    "A brand new pair of rollerskates.",
+    "Pancakes.",
+    "Chocolate chip cookies.",
+    "Doctor Who.",
+    "Minnie's Bow-tique.",
+    "Rocks.",
+    "A lonely cat in a dress.",
+    "Ice cold water for a dollar.",
+    "Shorts.",
+    "No name.",
+    "Flutter-bys.",
+    "Thumbs.",
+    "Cub Scouts.",
+    "Pirates.",
+    "A teacher.",
+    "A delivery man.",
+    "An army of Barbie dolls.",
+    "Nutella.",
+    "Easter eggs.",
+    "Number one.",
+    "T-Rex.",
+    "A candlestick.",
+    "Not showering for days.",
+    "Pretty yellow socks.",
+    "An evil dentist.",
+    "A day trip.",
+    "Twinkle lights.",
+    "Non-Mario brothers.",
+    "Dragons.",
+    "Face paint.",
+    "Hawaiian shirts.",
+    "Rubber ducks.",
+    "A pretty pink dress.",
+    "Tofu.",
+    "Tiny trees.",
+    "Spirits.",
+    "Puppies.",
+    "Having a dog & a duck as best friends.",
+    "A person.",
+    "The best Robin.",
+    "My Little Pony.",
+    "Tails.",
+    "Donald & Goofy.",
+    "Huge pile of books.",
+    "Pants.",
+    "Fungus.",
+    "Milk.",
+    "Pretending to be a princess.",
+    "Princess Twilight Sparkle.",
+    "Cyndi (Mom).",
+    "Mom card.",
+    "Feet.",
+    "Elliot.",
+    "Kale chips.",
+    "Pillow fights.",
+    "Using a giant banana to fight.",
+    "You.",
+    "A barrel of monkeys.",
+    "Grandma card.",
+    "Apple juice.",
+    "A horse.",
+    "Who-peppers.",
+    "The school mascot.",
+    "Starfire.",
+    "A trip.",
+    "Tiny angels.",
+    "Food.",
+    "A rusty old Pokedex.",
+    "Chopsticks.",
+    "Laughing gas.",
+    "GI Joe.",
+    "Stitch.",
+    "Sam's Club samples.",
+    "Luigi.",
+    "The robin (the fighting bird).",
+    "The Conservatory.",
+    "A pineapple.",
+    "Pain Bot.",
+    "A tree.",
+    "Your worst nightmare.",
+    "Googly-bear.",
+    "Miss Peacock.",
+    "The door.",
+    "Mario brothers.",
+    "The Library.",
+    "Carrot juice.",
+    "Spider-Pig.",
+    "Colorful plastic chairs.",
+    "Erupter.",
+    "Mooing.",
+    "Nice shoes.",
+    "A stop sign.",
+    "Pixie dust.",
+    "A rock star.",
+    "Pepper.",
+    "Kaos' power.",
+    "300 years too late.",
+    "The kitchen sink.",
+    "Lunch.",
+    "Pokemon.",
+    "Ocean.",
+    "Antman.",
+    "The socks you were 5 days in a row.",
+    "Fishing.",
+    "Breeding Pokemon.",
+    "Coffee beans.",
+    "Unlimited rice pudding.",
+    "Cookies that are actually dog biscuits.",
+    "Fish heads.",
+    "Being forced to watch Food Network all night with your parents.",
+    "Ash Ketchum.",
+    "Never-ending exhaustion.",
+    "Lava.",
+    "Baking pink cupcakes.",
+    "Horses.",
+    "A carousel.",
+    "A unique sword just like your brother's.",
+    "A million dollars.",
+    "A 400 foot platypus bear with pink horns and silver wings.",
+    "Books.",
+    "Bunnies, bunnies, it must be bunnies!.",
+    "Balls.",
+    "A lead pipe."
+  ],
+  "pack": {
+    "id": "2XW6U",
+    "name": "CM kids' deck (clean)"
+  },
+  "quantity": {
+    "black": 248,
+    "white": 411,
+    "total": 659
+  },
+  "dateStoredMs": 1589489588366
+}

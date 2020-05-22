@@ -1,0 +1,178 @@
+{
+  "black": [
+    {
+      "content": "No one works harder than _! They totally deserve the job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My locker is protected by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We put in hours of _ for no pay! Would it be too much to thank us?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They closed the boys bathrooms because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Let's get to work\" they say. The reality is: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Its very safe! I used _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Techademics could really benefit from _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I keep looking for _ but can never find it.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. Marean said he's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I have three ex-wives, _, and have three adopted, biracial children.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When it was my turn with the brain cell I got to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Computer lab classes are just coolmath games and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We'll hand out PPE when everyone is _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm so tired of all the drama majors _ in the halls.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry! _ is OSHA certified!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The tech majors are okay. It's just musical season and they're all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beth's return is as good as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have 20 minutes to get _, eat it, and get back to work.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They just banned _ during production!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ is just one of the many responsibilities you'll have to take on in tech.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beware of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "August Osage county will still never live up to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The back pains of a 60 year old man.",
+    "Loitering.",
+    "Family friendly nazis.",
+    "Taking a nap on the floor.",
+    "Burning your hands on a spotlight.",
+    "Ceiling cat.",
+    "Overturning the entire department in a year.",
+    "Grades unfairly swung in my favor.",
+    "Realizing we are wildly unprepared for the future in C&FM.",
+    "Ugh... ham.",
+    "Falling ceiling panels.",
+    "GBen's bagles.",
+    "Huffing paint.",
+    "The communist manifesto.",
+    "Mr. Lewis' Buddha statue.",
+    "Paid internships.",
+    "Skateboarding to school.",
+    "Wearing neon instead of black.",
+    "The vaum ghost.",
+    "Sawdust in lungs.",
+    "Ms. Shay's wedding.",
+    "Stealing from the shops.",
+    "Snorting Emergen-C.",
+    "Ominously jingling keys.",
+    "Getting pizza before it's all gone.",
+    "Lung cancer from the scene shop.",
+    "PPE.",
+    "Forgetting you're a tech major and wearing colorful clothes.",
+    "Riding a dolly like a skateboard.",
+    "Nintendo switches.",
+    "Tie line.",
+    "A metaphysical spray booth.",
+    "Standing on the top rung of a ladder.",
+    "Mango flavored usb sticks.",
+    "Condoms in the Little Flower.",
+    "Complaining about things we do willingly.",
+    "The marley shuffle.",
+    "Ralph's silent laughter.",
+    "Basement gremlins.",
+    "Freshman running around like little frenzied mice.",
+    "Dumpster runs.",
+    "Stealing from the shops.",
+    "The unfinished set.",
+    "Pushing drama majors to the floor.",
+    "Assuming fetal position in the locker banks.",
+    "8 weeks of broken wrench.",
+    "The shattered remains of my sanity.",
+    "A purgatory of sweeping the stage for eternity.",
+    "Child labor.",
+    "Jared's career as a writer.",
+    "The hierarchy.",
+    "A dead cockroach."
+  ],
+  "pack": {
+    "id": "Z25FB",
+    "name": "lag kiddos: tech major edition"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 52,
+    "total": 74
+  },
+  "dateStoredMs": 1588277802141
+}

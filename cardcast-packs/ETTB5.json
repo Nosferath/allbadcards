@@ -1,0 +1,109 @@
+{
+  "black": [
+    {
+      "content": "What differs Spain from France, Dutch, and English colonization: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plymouth offered _ a way to practice their  _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mestizos are a combination between _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mulatto is a combination between _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "New York was originally called _ and was colonized by the _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Poor Richard's Almanac was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Indentured servants often came from_, _, and _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Why was the Glorious Revolution so glorious _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zambo is a combination between _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Society of Friends (or the Quakers) impacted America today because of their _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Metis are a combination between _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jamestown was settled _, in _ and it's important because _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What was the crop that boosted Maryland's and Virginia's economy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord Baltimore's real name was _ and he is known for found _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "House of Burgesses was a _ for the _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Dutch.",
+    "Spanish.",
+    "French.",
+    "African.",
+    "Religion.",
+    "Native/Indigenous.",
+    "Massachussetts.",
+    "Black.",
+    "Legislative body.",
+    "Virginia.",
+    "Maryland.",
+    "Brazil.",
+    "Pilgrims.",
+    "Maize.",
+    "George Calvert.",
+    "English.",
+    "Ireland.",
+    "13 colonies."
+  ],
+  "pack": {
+    "id": "Ettb5",
+    "name": "APUSH"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 18,
+    "total": 33
+  },
+  "dateStoredMs": 1589571197271
+}

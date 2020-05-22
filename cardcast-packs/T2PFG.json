@@ -1,0 +1,21 @@
+{
+  "black": [],
+  "white": [
+    "An arcade machine full of organs.",
+    "Jaws, the shark without a cause.",
+    "Statues of a man's missing children crying his own blood.",
+    "A really cool wig.",
+    "A mask of your own face.",
+    "Grave digging."
+  ],
+  "pack": {
+    "id": "T2PFG",
+    "name": "Lemon Demon"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 6,
+    "total": 6
+  },
+  "dateStoredMs": 1588478636875
+}

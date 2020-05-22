@@ -1,0 +1,108 @@
+{
+  "black": [
+    {
+      "content": "I like Scorpios because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Libras because  ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's your sign? ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Capricorns because _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Virgos because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Leos because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scorpios are _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Sagittarians because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing to do with a Scorpio is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Aquarians because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Geminis because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Pisces people because _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Cancers because  ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Aries because ( _ ).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a (_).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like Taureans because  ( _ ).",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pisces.",
+    "Scorpio.",
+    "Sagittarius.",
+    "Cancer.",
+    "Capricorn.",
+    "Gemini.",
+    "Aquarius.",
+    "Taurus.",
+    "Aries.",
+    "Leo.",
+    "Libra.",
+    "Virgo."
+  ],
+  "pack": {
+    "id": "AQVPW",
+    "name": "Cards Against Astrology"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 12,
+    "total": 28
+  },
+  "dateStoredMs": 1589042707691
+}

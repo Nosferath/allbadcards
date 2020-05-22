@@ -1,0 +1,801 @@
+{
+  "black": [
+    {
+      "content": "Obama  hat gerade zwei Mal _ bestellt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ihr nehmt doch alle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was möchtest du nicht in deinem chinesischen Essen finden? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn du denkst, dass du _ bist, obwohl du nicht _ bist, was hast du dann gedacht?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ aus Ocholt wetten, dass sie in zwei Minuten 100 Mal _ ablecken können!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Und wenn sie nicht _ sind, dann leben sie noch heute.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weil einfach einfach _ ist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lifetime präsentiert: _ , die Geschichte von _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In meiner Freizeit klebe ich _ auf _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nichts ist trauriger als _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gott hat gesagt, _ zu küssen ist Sünde!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ihr seid doch alle _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Füllen Sie Formular \"_\" aus, um kostenlos _ zu erhalten!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hitradio _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Theresa isst am liebsten _ zum Frühstück.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nur _ hilft Merkel beim entspannen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Deo von Dove. Jetzt mit _-Geruch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das beste Mittel gegen _ sind immer noch _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Auf Wiedersehen _, schön Sie gekannt zu haben!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist das für ein Geräusch? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geh ich in die Stadt, was macht mich da satt? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das ist das Ende von _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich zeige Ihnen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist das nächste Happy Meal Spielzeug.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sänk ju for träwelling wis _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Und hier sehen Sie die Vereinigung von _ mit einer Essenz von _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich mag _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Vater riecht gerne _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich traurig bin brauche ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh lecker, geröstete _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es gibt keine Schmetter-Bälle, nur Schmetter-_!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niemand hat die Absicht _ zu errichten!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie halte ich meine Beziehung am Laufen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mmmh, heute gibt's lecker _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momo singt ein Duett mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist rot und klebt am Straßenrand? Überfahrene _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich fühle mich wie eine Mischung aus Käse und _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein ganzes Leben träume ich schon von _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es waren ein Mal _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ach, wie gut, dass niemand weiß, ich find _ heiß!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich trinke, um _ zu vergessen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hier könnten Ihre _ stehen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie riechen alte Leute? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich ein Kind bin, brauche ich _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paula hat _ geklaut und muss deswegen zur Strafe die ganze Woche _ putzen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ : Mit Kindern getestet, von Müttern empfohlen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Gut bis zum letzten Tropfen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nur mit _ sind Nudeln wirklich gut!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus sagt, selig sind _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sie brauchen _, um sich bei der Pubertät anmelden zu können.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir haben sie mit unseren _ umzingelt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fischers Fritz fischt gerne frische _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe _ aus Russland mitgebracht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bilde ein Haiku: _ ; _ ; _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Was haben die USA auf Afrika abgeworfen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waldorfschüler können auch _ tanzen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Womit wird man dich immer ins Bett bekommen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am liebsten gucke ich Pornos mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist ein schmaler Grat, der zu _ führt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Der Akkustand ist niedrig, schließen sie _ möglichst schnell an _ an um das Problem zu beheben!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Theresa sitzt gerade mit _ in der Badewanne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich stehe heimlich auf _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diese Saison am Broadway: _, das Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es tut mir leid, Professor, aber wegen _ konnte ich meine Hausaufgaben nicht machen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Füttern Sie Ihre Kinder mit pürierten _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na denn, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-Spritzer und _-Spieler!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wieso kann Muddi nachts nicht schlafen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Mutter hat _ von meinem PC gelöscht!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ und _! Das beste Verhütungsmittel!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lang lebe _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist das für ein Geruch? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter und _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hier ist ihre Pizza mit extra _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Geben Sie eine Prise _ in ihr _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Das stimmt, ich habe _ getötet. Wie fragst du? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Statt Kohle gibt der Weihnachtsmann den bösen Kindern nun _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Mutter steht total auf _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn's um _ geht, Sparkasse!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum tut mir alles weh? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sind meine geheime Kraft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schokolade ist wie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist das Ende des Welthungers? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Und dann ich so _! Und dann er so _! Und dann sie so _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Zehn Ziegen zogen zehn Zentner _ zum Zoo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gestern habe ich _ geklaut. Heute mache ich daraus _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Deine Mudda is so fett, in ihrer Bauchfalte leben _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was wird im Alter besser? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die Klassenfahrt wurde durch _ völlig ruiniert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nur von _ wird man wirklich glücklich!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Da gibt's doch was von Ratiopharm!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vielleicht wurde sie damit geboren, vielleicht sind es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Baby von _ und _ ist so süß!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gestern habe ich einen Film geguckt, in dem _ und _ sich prügeln!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Es ist Zeit für _-Man!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was würde Vati verstören und doch irgendwie anziehen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Dafür gibt es eine App.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lach- und Sachgeschichten! Heute mit _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Am besten Hausgemacht!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wo sind all die _ hin?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iss deine _ sonst kriegst du keine _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Und der Oscar für _ geht an _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ verkaufen getragene _ auf Ebay!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ und _ sind das beste Rezept gegen _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Und natürlich mit der Maus und _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Hundefutter von Chappi! Jetzt mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir begrüßen unsere Staatsgäste mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manchmal, aber nur manchmal, haben Frauen ein bisschen _ gern.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wissen Sie was, Sie können sich Ihre _ in Ihre _ stecken!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wie heißt die neue Platte von den Ärzten? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Es gibt doch nichts besseres als _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der alte Holzmichel verdient sein Geld jetzt mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ digitiert zuuuu _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meine neue Post-Punk Band heißt \"faschistische _ Krümel\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man nehme _ und _ und erhalte _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Es ist alles die Schuld von _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wurstfinger.",
+    "Popoklapse.",
+    "Gefühle.",
+    "Dieter Bohlens ulkige Nudel.",
+    "Obdachlose.",
+    "Langhaarige Hippies.",
+    "Haschgiftspritzer und Stromgitarrenspieler.",
+    "Frauenwahlrecht.",
+    "Die Klitoris.",
+    "Getragene, gelbe Unterhosen.",
+    "Piepsende Pupse.",
+    "Heimliche Arschkratzer.",
+    "Gartenzwerge.",
+    "McDonald's.",
+    "Ein einsames Schamhaar.",
+    "Kettenrechnung.",
+    "Heiße Leute.",
+    "Hackschnitzel mit Rahmpilzsoße.",
+    "Flatulenzen.",
+    "Pummelige Penisse.",
+    "Mauern.",
+    "Singende, tanzende Kängurus.",
+    "Jodelnde Jense.",
+    "Wackelnde, üppige Busen.",
+    "Knuddelige Koalabären.",
+    "Fusselige Schnuller.",
+    "Butterkekse mit nur 31 Zähnen.",
+    "Haarige Männerbeine.",
+    "Elkes Nase.",
+    "Chris' krasse Kokoscroissants.",
+    "Günter Jauchs Fußnägel.",
+    "Nicht mein Zuständigkeitsbereich.",
+    "Illegale Bausparverträge.",
+    "Behaarte Brüste.",
+    "Filigrane Pobacken.",
+    "Künstliche Befruchtung.",
+    "Paulas Popel.",
+    "Unz unz unz unz unz unz unz unz.",
+    "Skifahrer.",
+    "Robert Downey, Jr.",
+    "Blasiger Kniekehlenherpes.",
+    "Pandasex.",
+    "Ne-kruuug, ne kruuug.",
+    "Paul McCartney eingerieben mit Olivenöl.",
+    "Tom Cruise.",
+    "Kim Jong-il.",
+    "Vaterkomplexe.",
+    "Haarige Hodensäcke.",
+    "Deine Mudda.",
+    "Thermonukleare Explosionen.",
+    "Friede, Freude, Eierkuchen.",
+    "Veraltete Facebookprofile.",
+    "Gesalzene Heringe.",
+    "Sexuelle Spannungen.",
+    "Ingeeee!.",
+    "Beleidigte Pauls im Doppelpack.",
+    "Süße Träume.",
+    "Hape Kerkelings rosa Socken.",
+    "Vaginalfürze.",
+    "Hier könnte ihre Werbung stehen.",
+    "Hoffnung.",
+    "Paulas Nase.",
+    "Männer mittleren Alters auf Rollschuhen.",
+    "Haarige Popos.",
+    "Globale Erwärmung.",
+    "Lebenslange Verbeamtung.",
+    "Fanfaren und Posaunen.",
+    "Justin Bieber.",
+    "Winzige Mikropenisse.",
+    "Schamlose Selbstdarstellung.",
+    "Gebrauchte Sextoys im Sonderangebot.",
+    "Diese Antwort ist postmodern.",
+    "Zu viel Haargel.",
+    "Hals- und Beinbruch.",
+    "Feuchte Träume.",
+    "Schwingende Schnitzel.",
+    "Vierzig gebrauchte Bullis.",
+    "Weltfrieden.",
+    "Drogen.",
+    "Penisneid.",
+    "Staubsaugervertreter.",
+    "Das Internet.",
+    "Züge.",
+    "Mein Beziehungsstatus.",
+    "Angela Merkels Reizwäsche.",
+    "Wird geladen.",
+    "Deftige Frühstücksdöner.",
+    "Ein Sack voll Genitalien.",
+    "Zahnlose alte Damen mit Mundgeruch.",
+    "Das Wunder der Geburt.",
+    "Alte Menschen, die nach Formaldehyd riechen.",
+    "Frippel zum Mitnehmen.",
+    "Gepanzerte Lastwagen.",
+    "Hartnäckiger Nagelpilz.",
+    "BREZEL.",
+    "Backsteinförmige Verstopfung.",
+    "Tango-tanzende Italiener.",
+    "Badewasche-Babies.",
+    "Glitzernder Durchfall verkauft als Designerstuhl.",
+    "Lach- und Sachgeschichten.",
+    "Körperverletzung mit einem Fahrzeug.",
+    "Tetes theatralische Torten.",
+    "Schwule Schwule.",
+    "Yoko Onos Gesangskünste.",
+    "Klobige, klebrige Kloschüsseln.",
+    "Saxophonsolos.",
+    "Männer.",
+    "Strunz!.",
+    "Afrikanische Kinder.",
+    "Meine Popojungfräulichkeit.",
+    "Haufenweise Oompa Loompas.",
+    "Bin laden.",
+    "Gelbe Schneeflocken.",
+    "Der Tag des jüngsten Gerichts.",
+    "Krumme Frauenzehen.",
+    "Katzenbabies.",
+    "Chris' Nase.",
+    "Lade gerade.",
+    "Paulas perfekte Käsemuffins.",
+    "Hornissen.",
+    "Fusselige Poritzen.",
+    "Michael Jackson's Ersatznase.",
+    "Ein Moment der Stille.",
+    "Bauchnabelfussel.",
+    "Massive Analperlenketten.",
+    "Kinderarbeit auf der Dönerparty.",
+    "Was lustiges.",
+    "Ein bisschen hier, ein bisschen da.",
+    "Drei Schichten von Nina Hagens Schminke.",
+    "Hundebabies.",
+    "Bienen in Blüten.",
+    "Paulas problematische Piratenpastete.",
+    "Hochintelligente Sonderschüler.",
+    "Hanebüchene Hamburcher aus Hamburch.",
+    "World of Warcraft.",
+    "Bücher über Kekse.",
+    "Deutsche Bahn.",
+    "Seniorenballet.",
+    "Pumuckls kleiner, haariger Hintern.",
+    "Frauen, die nach Sushi schmecken.",
+    "Eine furzende Antilope.",
+    "Windschnittige Nasenflügel.",
+    "Vorpubertäre Boygroups.",
+    "Detlef D! Soost' schwarze Seele.",
+    "Fruchtzwerge.",
+    "Lady Gagas Vagina.",
+    "Unvollkommene Vaginalverklemmung.",
+    "Momos Miefmandeln.",
+    "Glitzernde Regenbogeneinhörner.",
+    "Currywurst mit Pommes.",
+    "Nervige kleine Kackbratzen.",
+    "Theresas Nase.",
+    "Selbsthass.",
+    "Löchrige Kondome.",
+    "Uli Hoeneß verlorene Steuergelder.",
+    "Meine Seele.",
+    "Heiterkeit.",
+    "Unschuldige Säuglinge.",
+    "Rosenpupse.",
+    "Wabbelige Männertitten.",
+    "Eier.",
+    "Ein heißes Durcheinander.",
+    "Multivitamintabletten.",
+    "Spontane menschliche Selbstentzündung.",
+    "Jens' Nase.",
+    "Haue.",
+    "Gott.",
+    "Zwiebelig-geröstete Hackbällchen.",
+    "Alle deutschen Superstars.",
+    "Alte japanische Leute.",
+    "Erbsen und Mörchen.",
+    "Frauen.",
+    "Trottelige Turteltäubchen.",
+    "Babies.",
+    "Rauchende Menschenaffen.",
+    "Bitte warten.",
+    "Fette, schwitzende Ballettänzer.",
+    "Dämliche Hornochsen.",
+    "Die haarigen Säcke vom Weihnachtsmann.",
+    "ELEKTROTITTE.",
+    "Frühstücksflocken von Saitenbacher.",
+    "Fliegende Bücherregale.",
+    "Inzest.",
+    "Dicke, fette Katzenkötel.",
+    "Rote Wollstrumpfhosen.",
+    "Kleine Glitzersteinchen.",
+    "Flabbelige Möpse.",
+    "Nackte alte Männer.",
+    "Gelaber.",
+    "Schimmelnde Augäpfel.",
+    "Momos marinierte Mini-Murmeln.",
+    "Überraschungssex.",
+    "Barack Obama.",
+    "Arme Leute.",
+    "Kinder an einer Leine.",
+    "Tiefkühltruhen voller Organe.",
+    "Hawasa?.",
+    "Momos Nase.",
+    "Dunkle Gassen.",
+    "Schnitzelsuppe.",
+    "Mehrere Stichwunden.",
+    "Klatschendes Bauchfett.",
+    "Theresas Tentakel.",
+    "Chris' krumme Nase.",
+    "Diese Schere, dieses Klebeband."
+  ],
+  "pack": {
+    "id": "J9FAA",
+    "name": "Deutsches Familiendeck"
+  },
+  "quantity": {
+    "black": 116,
+    "white": 205,
+    "total": 321
+  },
+  "dateStoredMs": 1588973611375
+}

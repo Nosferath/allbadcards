@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "_ saved my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I was _ my father took me into the city to see _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Used have released a new album! It's called _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wearing black clothes every day.",
+    "Energy drinks and sadness.",
+    "Slitting your wrists.",
+    "My Chemical Romance getting back together.",
+    "Feeling dead inside.",
+    "Wearing too much eyeliner.",
+    "Skinny jeans."
+  ],
+  "pack": {
+    "id": "G297P",
+    "name": "The Emo Pack"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 7,
+    "total": 10
+  },
+  "dateStoredMs": 1588462839763
+}

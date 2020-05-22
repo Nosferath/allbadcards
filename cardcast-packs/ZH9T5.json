@@ -1,0 +1,229 @@
+{
+  "black": [
+    {
+      "content": "_ is perfect for middle of the night munchies.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With crappy service, I also expect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taco Bell just saved _ from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Every time you think of Chipotle, think _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life is like _; you never know what you're going to get.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The salt masks the taste of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s called ground beef because it’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having the munchies for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Popeye, the sailor man actually preferred _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is going straight to my belly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May the force be with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When a customer is rude, _ is deserved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ten thousand spoons when all you need is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _ so much, just take my money already.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hamburglar’s favorite thing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Colonel Sanders crossed the road to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If it doesn’t get all over the place, _ doesn’t belong on your face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Customer service was so great, I'm definitely going back for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ordered a Quarter Pounder with cheese and ended up having _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Jack and Wendy's made a baby, you'd really have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fresh, never _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’d rather have _ than enjoy my bag of chips.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It takes Five Guys to make _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once ordered a meat lovers pizza, but instead got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s called fast food because _ is meant to be eaten with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Burger King is the king of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dropped _ on the floor, but it’s still good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In-N-Out’s known for _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The last time you said, \"Never again\".",
+    "A bus full of kids.",
+    "Finger lickin’ good.",
+    "Your momma.",
+    "Employees dancing to Hungry Eyes.",
+    "Wendy’s.",
+    "A chicken strip.",
+    "Your food falling and still getting served.",
+    "Steak in my vegetarian meal.",
+    "Nothing.",
+    "A finger in my chili.",
+    "Baths in the back-of-house sink.",
+    "Long curly hair.",
+    "Eating your food while driving.",
+    "A wrong order, but hitting the jackpot.",
+    "Gloves from the bathroom.",
+    "Cold and soggy fries.",
+    "A few toppings missing.",
+    "Burnt, hard bread.",
+    "E. Coli.",
+    "Biting into someone’s nail.",
+    "A soggy brown salad.",
+    "Quality you can taste.",
+    "Pineapples needing to be picked out.",
+    "Old fish fillet.",
+    "Pizza Hut.",
+    "Spit on food.",
+    "Square patties.",
+    "Hair in my salad.",
+    "Vegan meat.",
+    "Jared walking it off.",
+    "Anchovies.",
+    "The sneeze guard juices.",
+    "Dirty hands from the toilet.",
+    "Pink slime.",
+    "A knife.",
+    "Paper bags soaked in grease.",
+    "COVID-19.",
+    "Chipotle.",
+    "The world.",
+    "You.",
+    "Half eaten fries.",
+    "In-N-Out.",
+    "Chick-fil-a.",
+    "El Pollo Loco.",
+    "A red-headed clown.",
+    "McDonald’s.",
+    "Oily food.",
+    "The day.",
+    "Overpriced nibbles and crumbs.",
+    "Raw and gooey eggs.",
+    "A screwed up order.",
+    "Food in and out.",
+    "Frozen.",
+    "Getting the wrong order and not noticing until I’m home.",
+    "Carl’s Jr.",
+    "Burger King.",
+    "Sticky fingers.",
+    "Cold chicken feet.",
+    "Chewing on stale bread.",
+    "Chicken getting battered.",
+    "Frozen Cinnabon Delights.",
+    "Food from the ground.",
+    "A vegetarian platter.",
+    "Melted milkshake.",
+    "Eating overcooked rubber just because you’re too stubborn to complain.",
+    "Food coma.",
+    "Subway.",
+    "The perfect laxative.",
+    "A party in the toilet.",
+    "Taco Bell.",
+    "Let It Go.",
+    "A crazy person yelling."
+  ],
+  "pack": {
+    "id": "ZH9T5",
+    "name": "Foodsies"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 73,
+    "total": 101
+  },
+  "dateStoredMs": 1589395768906
+}

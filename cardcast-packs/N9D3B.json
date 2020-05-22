@@ -1,0 +1,81 @@
+{
+  "black": [
+    {
+      "content": "The leader of Claw is using his psychic power to take over the world, all so he can _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reigen has adopted another _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reigen has a new scam, and it's called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mob hit 100% because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reigen's new special move is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dimple is possessing _ and getting his ass kicked.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Teru waterboarding someone this time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To thank Mob for a job well done, Reigen takes him out for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is plaguing Reigen's new client, so Mob has to use _ to defeat it.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mob! Mob! What do you want? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tome's new plan to contact aliens involves _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dimple picking his nose.",
+    "Claw's new army of psychic babies.",
+    "Reigen being cancelled.",
+    "?????%.",
+    "Emotionally stunted adult psychics.",
+    "Ghosts?.",
+    "The Body Improvement Club.",
+    "Milk.",
+    "Salt Splash!!.",
+    "12 year olds fighting to the death."
+  ],
+  "pack": {
+    "id": "N9D3B",
+    "name": "Mob Psycho 100"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 10,
+    "total": 21
+  },
+  "dateStoredMs": 1588478636740
+}

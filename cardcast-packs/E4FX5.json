@@ -1,0 +1,511 @@
+{
+  "black": [
+    {
+      "content": "_? How did your mom do that?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "White people are no good at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just took _to the face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you're 16, it doesn't matter if you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever tried _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd give the Olsen Twins _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "18 is the best age for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smooth as a baby's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd love to play _ with Hermione Granger",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like two boys _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I go to the bathroom to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember that time they left you under a pile of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever worn _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best xmas present my grandma ever gave me was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish there were fewer _ people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "35 is the best age for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom taught me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The road to success is paved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"To _.  The cause of, and solution to, all of lifes problems\" -Homer Simpson",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The theme for our senior prom will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black people are no good at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"No\" means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dad taught me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dentist told me to make sure I _ twice per day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything I know about _ I learned from watching Sesame Street.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the time? _ time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ with Brad Pitt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who drew that _ on your face?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ than _ with with a Priest.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ should not be illegal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, at least it's not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mom is the _ person I know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's play _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sure our parents still _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you every tried _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just _ it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smoke _ every day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like taking _ from a baby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is there anything worse than being _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You should make sure you _ twice a day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would the 80's be without _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Politics is full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is a time for peace, a time for war, and a time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "65 is the best age for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever tasted _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Priests always _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you wake up from a night of heavy drinking, you usually regret _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ with Mike Tyson than _ with him.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I work out so that I can look good when I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a day, keeps _ away.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Have you ever smelled _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I put _ in your _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'd _ with Brett Favre.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't put it in your _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, Mr. Bond, I expect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How about a nice game of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I remember my first time.  You could never forget something that ended with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is better than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. It's not just a good idea, it's the law.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sure our parents still _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I gave your grandmother _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandmother never saw _ coming.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever felt _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She chocked to death on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever _ at work?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will not eat them Sam-I-Am. I will not eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ should be socially accepted.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I caught my parents _ last night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week, the Teletubbies teach us about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 1930's is often regarded as the golden age of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.  That's what she said.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They found _ in the dumpster behind the abortion clinic.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The hot chick from work.",
+    "Me.",
+    "69.",
+    "Band Geeks.",
+    "Getting your period for the first time.",
+    "Bag of dicks.",
+    "Brokeback Mountain.",
+    "Me So Horny.",
+    "The sock under my brothers mattress.",
+    "Coma.",
+    "My junk.",
+    "Photographing your junk.",
+    "A cripple fight.",
+    "A strange time in a boys life when he has funny feelings down there.",
+    "Pleasure hose.",
+    "ET's glowing finger.",
+    "Schindler's List.",
+    "Retard.",
+    "David Hasselhoff.",
+    "Fuck shop.",
+    "Diabetes.",
+    "A fat ass in spandex.",
+    "A lapdance from Hilary Clinton.",
+    "A well lubricated rubber chicken.",
+    "STD's.",
+    "Charley Murphy.",
+    "Fat bottomed girls.",
+    "Virgin.",
+    "Eddy Mercury.",
+    "K-Y jelly.",
+    "Drunkenly texting an ex.",
+    "Federal Pound-me-in-the-ass prison.",
+    "Illegal immigrants.",
+    "Big booty hoes.",
+    "In your motherfucking mouth.",
+    "A hole short of a rape party.",
+    "Lorena Bobbit.",
+    "Your grandmothers underwear.",
+    "Moist.",
+    "Fuck Tha Police.",
+    "Jesus.",
+    "Lorena Bobbit.",
+    "A yeast infection.",
+    "Daniel Tosh.",
+    "...but I poop from there.",
+    "Looking at your Ex on Facebook.",
+    "The orchestra that played as the Titanic went down.",
+    "Mistaken penetration.",
+    "Two girls, one cup.",
+    "Lincoln Guide Service.",
+    "Boobs that sag down to her knees.",
+    "Gin & juice.",
+    "Hide and go fuck yourself.",
+    "Fucked.",
+    "Clitoris.",
+    "A gas station bathroom.",
+    "The Color Purple.",
+    "The hot dude from work.",
+    "Your dead grandmother.",
+    "Lance Armstrong.",
+    "Richard Simmons.",
+    "Pop That Pussy.",
+    "Homoerotic frat boys.",
+    "When your stream of urine goes in two directions.",
+    "Sexual experimentation in college.",
+    "A dead hooker.",
+    "Pedophilia.",
+    "Slavery.",
+    "Da butt.",
+    "Warm apple pie.",
+    "N.W.A.",
+    "Fuck her gently.",
+    "Put it in your mouth.",
+    "Herpes.",
+    "Just the tip.",
+    "Me in a thong.",
+    "Michael Jackson.",
+    "Jerry Sandusky.",
+    "Pimps & ho's.",
+    "Something in your mouth.",
+    "Gay midget donkey porn.",
+    "Strippers from Maine.",
+    "A Dead Grandmother.",
+    "Because of the implications.",
+    "Yellow snow.",
+    "One bourbon, one scotch, one beer.",
+    "Santa Claus.",
+    "Weed.",
+    "Fuck the pain away.",
+    "Gin & Juice.",
+    "A racist uncle.",
+    "Throwing up in your mouth a little.",
+    "9/11.",
+    "Using tears as lubricant.",
+    "I treat a bitch like 7-Up - I never have and never will.",
+    "Seabirds strangled by plastic six-pack rings.",
+    "Six inches.",
+    "Titties & beer.",
+    "The second time I got crabs.",
+    "Lick it Up.",
+    "Rick James.",
+    "Showering with R. Kelly.",
+    "Rape Me.",
+    "Picking out hookers with Eddie Murphy.",
+    "Oral sex from Stephen Hawking.",
+    "Oral sex while crying.",
+    "Dirty junk.",
+    "I Touch Myself.",
+    "Putting out on the first date.",
+    "Nutz.",
+    "Misguided oral sex.",
+    "Having Sex With Your Clone.",
+    "Fucking.",
+    "Down Syndrome.",
+    "An uncomfortably attractive pre-op transvestite.",
+    "Not using enough lube.",
+    "Fuck.",
+    "Minorities.",
+    "A person who is a douche but still hot.",
+    "You.",
+    "A Donkey Punch.",
+    "Slutty pictures on Facebook.",
+    "Temporarily gay.",
+    "The Kids in The Hall.",
+    "Gaydar.",
+    "Osama Bin Laden.",
+    "Virginity.",
+    "Cocaine.",
+    "Hugging your grandma while you have an erection.",
+    "Dicks."
+  ],
+  "pack": {
+    "id": "E4FX5",
+    "name": "stuff"
+  },
+  "quantity": {
+    "black": 73,
+    "white": 130,
+    "total": 203
+  },
+  "dateStoredMs": 1588938678985
+}

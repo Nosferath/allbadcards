@@ -1,0 +1,132 @@
+{
+  "black": [
+    {
+      "content": "The Lexington City Council voted to turn the Centerpointe pit into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legends say _ hides in the dungeon of the Versaillers Castle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a recent Gallup poll, 30.2% Kentuckian's were addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In 2017, Kentucky added a hunting season for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The top cash crop in Kentucky is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will be the EMCEE at this year's Fancy Farm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Friends of coal? I'm joining friends of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I might not wear shoes, but I always wear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a scathing dog shit scandal, Brynneth Pawltro is to be replaced by _ as Rabbit Hash's new mayor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KFC's new secret recipe includes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The John Calipari church of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've never been to the Kentucky Derby, but I have been to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BBN has taken to burning _ in the streets instead of couches.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kentucky is only backwards when it comes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"We can fix Kentucky's pension problem with a little bit of _ and _.\" - Gov. Matt Bevin",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite bourbon is aged with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "John Calipari is recruiting _ for the UK Wildcats basketball team next season.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behind UK Basketball, _ is in the heart of every Kentuckian.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "10,000 lost coal jobs.",
+    "Getting to stand in 3 different states in the middle of fucking nowhere.",
+    "Your hot cousin.",
+    "John Calipari's sweaty taint.",
+    "Being the 5th stupidest state in the Union.",
+    "Getting charged with a DUI for riding your tractor while intoxicated.",
+    "Colonel Sanders' greasy body.",
+    "Being able to smoke wherever I damn well please.",
+    "That god damned Toyota on Nicholaville Jingle.",
+    "Jesus riding a dinosaur at The Creation Museum.",
+    "Blue people.",
+    "Getting lost in Mammoth Cave.",
+    "The Kentucky Hot Brown: Vomit on a Plate.",
+    "Mitch McConnell's neck vagina.",
+    "Making meth in the walmart bathroom.",
+    "Kim Davis' gay daughter.",
+    "Darryl Isaacs' bloody hammer.",
+    "Watching college basketball until your eyes bleed blue.",
+    "Rick Pitino's hooker collection.",
+    "Starring on 16 and pregnant.",
+    "Daniel Boone's explosive diarrhea.",
+    "Having at least 3 teeth.",
+    "KFC scented shampoo.",
+    "Being forced to eat your own beard in a fight.",
+    "An ugly water tower, y'all.",
+    "A stupid giant ark that doesn't float."
+  ],
+  "pack": {
+    "id": "H5RKX",
+    "name": "Cards against Kentucky"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 26,
+    "total": 44
+  },
+  "dateStoredMs": 1588387420728
+}

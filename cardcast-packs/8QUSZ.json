@@ -1,0 +1,556 @@
+{
+  "black": [
+    {
+      "content": "_ are friends, not food.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened to me in Disney Jail? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm like a _, I've come so far/ I can't go back to where I used to be.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What corrupted program did Tron come across while on the Grid? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At Pizza Planet, one can find an arcade game where _ must destroy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Genie, for my final wish, I wish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're sendin' out _ / And this is our message to you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Raven see in her vision? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does the Beast cope with his curse? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is afraid of the big bad _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When the Colony faced the danger of Hopper, Flik called upon _ to help stop them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandmother Willow's three pieces of advice: 1. _. 2. _. 3. _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You're only in trouble if you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What toy did Woody discover in the home of Al from Al's Toy Barn? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ does come true in New Orleans.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to boost ticket sales, Disney is making a land dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you're the best of friends, having so much _ together.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who made an unexpected guest appearance in the new 'Kingdom Hearts' game? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For your safety, remain seated with your seat belts fastened, keeping your _, _, and _ inside the bobsled.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What can be found in the Elephant Graveyard? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harlan Ellison was fired from Disney after suggesting a film about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the missing ingredient from Tiana's gumbo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do you need 101 Dalmatians? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before adapting 'Snow White', what did Walt Disney consider adapting? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Zenon film, Zenon faces a threat from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What keeps Belle from being bored in the dungeon at Beast's Castle? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In an effort to boost its 'Cars' line, Pixar is introducing _ in the next film.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everybody! Everybody! Everybody wants to be a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Ariel stay alive after she became human underwater? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, if you say it loud enough, you always sound precocious.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Judge Doom use to get the Toons out of Toontown? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honey, I Shrunk the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did evil queen offer Snow White in exchange for her pies? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be our guest/ Be our guest/ Put our _ to the test.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did 'Song of the South' get banned from being released on video? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, Mowgli, I have to take you back to the _ village.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was I kicked out of Disneyland? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Upon choosing the smoothest course, Pocahontas came across a group of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The guardian of _ was brought down to protect Mulan from the dangers of war.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Peter Pan's happy thought? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I'm human and I'm gonna be, I'm gonna _ like I did before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I mean, it's crazy how we finish each other's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_\" means \"family.\" \"_\" means \"no one gets left behind.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A _ is a wish your heart makes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No chance, no way, I won't say I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When we die, our bodies become _, and the _ eat the _. And so we are all connected in the great Circle of Life.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Welcome, foolish mortals, to the _ Mansion.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at this _, Isn't it neat?/ Wouldn't you think my collection's complete?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Giselle find disturbing, yet charming upon arrival to New York City? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come little children, the time's come to play, here in my garden of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the next Disney sequel about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And if you look to your right, you can see _ next to the hippos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did The Horned King release from The Black Cauldron? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Disney Channel Original Movie is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who puts the 'glad' in gladiator? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck was up with Ursula's crazy sister? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After awaking from her slumber, Princess Aurora and Prince Philip lead the Kingdom of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused Sid to become evil to toys? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So Prince Ali turns out to be/ Merely _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A lie keeps growing and growing until it is as plain as _ on your _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Prince Ali bring to the Sultan? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest 'Pirates of the Caribbean' has Captain Jack Sparrow team up with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mirror, mirror on the wall, who's the fairest of them all? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in the West Wing? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A controversial short shown on 'House of Mouse' featured _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What gift was Meriwether going to give Aurora before protecting her curse? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here you leave today and enter the world of _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What else did Arthur pull out of the Stone? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the lost city of Atlantis, you can find _ in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Alice find on her second visit to Wonderland? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is that _ I see staring straight back at me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One day in the Hundred Acre Wood, Winnie the Pooh was awakened by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This next number in our Fantasia program features _ set to the music of Bach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Lord is good to me And so I think the Lord/ For giving me the things I need/ The sun and rain and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Wreck-It Ralph wreck? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What were the first words uttered by Tarzan when he learned English? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the next property that Disney is buying? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything the light touches belongs to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Second _ to the right and straight on till morning!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Kronk pulled the lever, Yzma fell into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "That one part of the Disneyland Railroad that goes from friendly animals at the Grand Canyon to motherfucking dinosaurs for no reason what-so-ever.",
+    "Quasimodo's private time with his 'bells.'.",
+    "Hades, the shadiest Disney villain of them all.",
+    "Pixie Hollow's non-racially bias population.",
+    "Disney Rule 34.",
+    "The ghost of Mufasa judging you from the heavens above.",
+    "The Cheetah Girls.",
+    "Two midgets shitting into a glass slipper.",
+    "Professor Ratigan, the mind behind the 'Big Ben Caper,' the one who made headlines in every newspaper.",
+    "Ch-ch-ch-ch-CHIP AND DALE: RESCUE RANGERS.",
+    "Making love while riding Autopia.",
+    "The Famous Jett Jackson.",
+    "Kalabar's Revenge.",
+    "Air Bud.",
+    "Brave's message of encouragement for all girls to be butchy lesbians.",
+    "Dory, the lesbian fish.",
+    "Cinderella's dumbass face when she finds out about the Prince's ball.",
+    "The dumbass princess Snow White.",
+    "Bert subtlety picking up on Mary Poppins.",
+    "Not getting invited to a party and putting a curse upon the king's daughter.",
+    "Thomas shooting Kocoum in the back.",
+    "Corbin Bleu's career.",
+    "The DIP.",
+    "The Wonderful World of Disney.",
+    "The Coachman.",
+    "Famed Radio Disney DJ, Ernie D.",
+    "That bowling move they used in 'Alley Cats Strike.'.",
+    "Ariel's dumbass daughter, Melody.",
+    "Scar's tyranny.",
+    "'Gotta Kick It Up!'.",
+    "The girl squirrel from 'The Sword in the Stone.'.",
+    "The Moopets.",
+    "In the Tiki, Tiki, Tiki, Tiki Tiki Room In the Tiki, Tiki, Tiki, Tiki, Tiki Room.",
+    "Going Turbo.",
+    "Jafar's phenomenal cosmic power compensating for his own impotence.",
+    "Treasure Planet.",
+    "'Let's Sing A Little Gay Spring Song' from 'Bambi.'.",
+    "Lindsey Lohan's innocent twin from 'The Parent Trap.'.",
+    "Being a motherfucking all-powerful sorcerer and genie.",
+    "Getting drunk at Disney's California Adventure.",
+    "Mulan's bisexuality.",
+    "Captain Hook stabbing a mermaid with his hook.",
+    "Being one jump ahead of the lawman, that's all and that's no joke.",
+    "Elsa's shady ass.",
+    "Frollo's unnerving want of needing to bone a gypsy.",
+    "Creme de la Edgar.",
+    "Going to the Powerline concert.",
+    "The creepy fact that Kaa's voice is also the voice of Winnie the Pooh.",
+    "SQUIRREL!.",
+    "Governor Radcliffe and his effeminate sidekick Wiggins.",
+    "The Princess Dairies.",
+    "Debating whether or not to marry Kocoum.",
+    "Captain EO.",
+    "Aladdin's fucking deadbeat thief of a father.",
+    "The poison. The poison for Kuzco, the poison chosen especially to kill Kuzco, Kuzco's poison.",
+    "T.J. Detweiler, Ashley Spinelli, Vince LaSalle, Gretchen Grundler, Gus Griswald and Mikey Blumberg.",
+    "DConstructed: The idiotic attempt to cash-in on EDM music.",
+    "The fucked-up The Walrus and the Carpenter story in 'Alice in Wonderland.'.",
+    "The horrible whiny 'Kingdom Hearts' fanbase.",
+    "101 Dalmatians (Poison them! Drown them! Bash them in the head!).",
+    "A Hawaiian Roller Coaster ride.",
+    "Spaceship Earth (aka that thing that looks like a golf ball at EPCOT).",
+    "Ursula's tentacle porn video.",
+    "Knowing that one of the crows from 'Dumbo' might be named Jim.",
+    "Tigger's bounce.",
+    "All the masturbating Rapunzel probably did when Mother Gothel was away.",
+    "Studio Ghibli's Disney dubs.",
+    "Roo's mommy issues.",
+    "Bolt with his almost God-like superpowers killing the entire cat population with one blast.",
+    "Wreck-It Ralph's almost rape-like tendencies.",
+    "The Demyx boss fight from 'Kingdom Hearts II.'.",
+    "Shipping Elsa and Frozone to make Vanilla/Chocolate ice cream.",
+    "The Jonas Brothers... in concert...IN 3D!.",
+    "The vibrating toy that Andy's mom owns that was never seen.",
+    "The racist Indian (sorry, 'Native American') scene from 'Peter Pan.'.",
+    "A parading group of singing newspaper boys.",
+    "The DuckTales theme song (Now it's stuck in your head).",
+    "Disney buying Marvel.",
+    "The bare necessities.",
+    "Walt Disney's frozen head attached to the body of a mechanical spider.",
+    "Feel the rhythm, feel the rhyme! Get on up, it's bobsled time!.",
+    "That shitty Dinosaur movie Disney made called 'Dinosaur.'.",
+    "Losing your voice and winning over a prince with just your legs.",
+    "Mike and Sulley, the first gay Disney couple to raise a child.",
+    "Tiana, the token black princess.",
+    "Madam Mim's pink dragon (still counts!).",
+    "The Three Caballeros, three gay Caballeros.",
+    "Zac Efron's dubbed over singing voice from 'High School Musical.'.",
+    "Disney's 'Song of the South.'.",
+    "Tim Curry's voice as the over-the-top organ Forte in 'Beauty and the Beast: The Enchanted Christmas.'.",
+    "Using a Dinglehopper for your hair.",
+    "Singing 'Let It Go' while still in the closet.",
+    "The Shadow Man aka Dr. Falicier aka Baron Samedi.",
+    "Getting oral from Davy Jones.",
+    "Scar's 'Be Prepared.'.",
+    "The penis on the VHS of 'The Little Mermaid.'.",
+    "Chernabog, the bringer of darkness and greatest House of Mouse guest.",
+    "Baloo crossdressing for King Louie.",
+    "NANTS INGONYAMA BAGITHI BABA! Sithi uhm ingonyama.",
+    "Smiling because all of China knows you're here.",
+    "Iago with a cap on his head.",
+    "IT'S THE CHICKEN MAN! THE CHICKEN MAN!.",
+    "Captain Barbossa.",
+    "Supercalifragilistic- expialidocious.",
+    "Disney jail.",
+    "Young CGI Jeff Bridges.",
+    "RUFIO! RUFIO! RUFIO!.",
+    "Remy's shit all over Gusteau's kitchen.",
+    "Jumping off the stairs saying \"To Infinity and Beyond!\".",
+    "The seaweed that is always greener in somebody else's lake.",
+    "Miley Stewart.",
+    "Sixty elephants, llamas galore, With bears and lions, a brass band and more with forty fakirs, cooks, bakers and birds that warble on key.",
+    "The corpse of Bambi's mom in the meadow.",
+    "Sally getting her legs ripped off.",
+    "We are the defenders of the night! WE ARE GARGOYLES!.",
+    "The Bra Episode of 'Lizzie McGuire.'.",
+    "Taking shrooms while watching 'The Rites of Spring' segment in 'Fantasia.'.",
+    "The future fat people we will soon become in 'WALL-E.'.",
+    "Savages! Savages! Barely even human!.",
+    "Tinkerbell's cunty-ass attitude.",
+    "That one cartoon where Donald Duck is a Nazi and says \"Hiel Hitler!\".",
+    "Phil of the Future.",
+    "The Lion King 1 1/2.",
+    "Yzma's decaying ankle.",
+    "The Rescuers.",
+    "Gaston.",
+    "The Black Cauldron.",
+    "The joke that is the film 'Home on the Range.'.",
+    "Feeling the true power of the Force on Star Tours: The Adventure Continues.",
+    "The Disney vault.",
+    "That stupid bitch Aunt Sarah from 'Lady and the Tramp.'.",
+    "The sultry jazz voice of Oogie Boogie.",
+    "Using the power of love and gullibility against the princess to rule their kingdom.",
+    "The evil Icelandic hockey team from 'The Mighty Ducks 2.'.",
+    "Clayton getting hung to death from the vines.",
+    "The lost souls that power 'it's a small world.'.",
+    "Return to Neverland.",
+    "The grey stuff (IT'S DELICIOUS!).",
+    "That badass staff that Maleficent owns.",
+    "Being a virgin in 'Hocus Pocus.'."
+  ],
+  "pack": {
+    "id": "8QUSZ",
+    "name": "CAH Disney"
+  },
+  "quantity": {
+    "black": 80,
+    "white": 140,
+    "total": 220
+  },
+  "dateStoredMs": 1588386950779
+}

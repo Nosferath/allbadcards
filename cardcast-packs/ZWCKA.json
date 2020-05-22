@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Anne Frank wasn't actually killed. She was _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZWCKA",
+    "name": "Corbin"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588457248042
+}

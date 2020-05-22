@@ -1,0 +1,143 @@
+{
+  "black": [
+    {
+      "content": "Keep your _ down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why would you say _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instead of coal, Santa now gives bad children _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I'll keep a note of that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . That's what I like to hear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need to talk about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not going to lie, I hate _ . There, I said it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need _ because _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Donald Trump's first act as a president was _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A mouthful of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Please stop _ . I'll be forced to call the _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Me? No..",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear Abby, I am having trouble and need your help with _ . Sincerely, _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I just _ , dude.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What were you doing last night? I was _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Funny bone.",
+    "Slippers.",
+    "Part of a song.",
+    "Kiss.",
+    "Humpty dumpty.",
+    "Things to do.",
+    "Donald Trump.",
+    "Hunting.",
+    "The True Meaning of Christmas.",
+    "Twitter.",
+    "Spying.",
+    "Ice cream.",
+    "Stealing tickets to Shrek.",
+    "Fast asleep.",
+    "Jumping.",
+    "Penguin.",
+    "Waking from nightmares.",
+    "World's worst human being.",
+    "Bouncy ball.",
+    "Man.",
+    "Time out.",
+    "Red.",
+    "Monkey.",
+    "Pickles.",
+    "Forgetting a song.",
+    "Spy.",
+    "Cheating.",
+    "Fresh.",
+    "Cops.",
+    "Nose.",
+    "Banana.",
+    "Emma Watson.",
+    "Being crazy.",
+    "Getting ready.",
+    "Feminism.",
+    "Silly.",
+    "Window shopping.",
+    "Hope.",
+    "Being rich.",
+    "Woman.",
+    "Batman.",
+    "Teddy bear."
+  ],
+  "pack": {
+    "id": "3S7Q3",
+    "name": "Family Friendly Deck"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 42,
+    "total": 59
+  },
+  "dateStoredMs": 1589123786880
+}

@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "What broke my heart? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats my kink? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did will cockblock himself? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am i depressed? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am i not getting laid? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why can't Jess play never have i ever? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened at green lane? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did i lose my virginity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did we meet? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Corona.",
+    "Saying  i love you.",
+    "Will's sex life.",
+    "Adam's tiny penis.",
+    "Will.",
+    "Jess' taste in men.",
+    "Fat psycho bitch.",
+    "Jess.",
+    "The last person i slept with.",
+    "Two inch terror.",
+    "Men being incompetent.",
+    "Introducing yourself four times.",
+    "Lana.",
+    "Breaking a banjo string.",
+    "Rectangles.",
+    "My ex."
+  ],
+  "pack": {
+    "id": "ZUR3V",
+    "name": "Seshgremlin"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 16,
+    "total": 25
+  },
+  "dateStoredMs": 1589400948204
+}

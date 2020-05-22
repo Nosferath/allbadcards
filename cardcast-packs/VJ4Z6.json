@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "It's called the God can because? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you rather be _ or _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who needs drugs when you have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Trip!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back when I was rich, I bought _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That's grape soda!\" \"You're stupid that's _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They call me many names but, you can call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What team?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The deciders have decided to go to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Austin Nipper, I'm the manager of \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm freaking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You ever see that guy that comes up here that wears like a 3 piece suit all the time? He looks like _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Take Lead.",
+    "Jenkies.",
+    "A man sitting in a chair.",
+    "Shrek.",
+    "Chonk.",
+    "Beeg Yoshi.",
+    "Pregnat.",
+    "Jesus.",
+    "Massive!.",
+    "Stevus Curvus Chapman.",
+    "Boys Trip.",
+    "Avocado.",
+    "The manager of Take Lead.",
+    "Pregananant.",
+    "Prefnart.",
+    "HaHa Funee.",
+    "Bradford Crawdley.",
+    "Prregante.",
+    "Osteoperosis.",
+    "Gregnant.",
+    "The Scooter Gang.",
+    "Too much for Mr. Incredible.",
+    "God Can.",
+    "Poo-Poo."
+  ],
+  "pack": {
+    "id": "VJ4Z6",
+    "name": "For BCM fune"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 24,
+    "total": 36
+  },
+  "dateStoredMs": 1588300269781
+}

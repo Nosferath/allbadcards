@@ -1,0 +1,92 @@
+{
+  "black": [
+    {
+      "content": "Nayeon likes kids because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momo is afraid of _ , _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "We all know _ , _ and _ are the true Snake trio.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Tzuyu hates Nayeon because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need a sub-unit in TWICE called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ really love eating each other's asses out at night.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "TWICE's new comeback song is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momo really loves to eat _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momo and Jeongyeon were up all night because  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh my god, TWICE's new album is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ONCEs love really TWICE because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tzuyu.",
+    "Stealing children.",
+    "Jokbal.",
+    "They keep fucking everytime.",
+    "Nayeon.",
+    "Chaeyoung.",
+    "Mina.",
+    "Jeongyeon's love for Legos.",
+    "Momo.",
+    "Dahyun.",
+    "Eagle Dance.",
+    "Sana.",
+    "EH?!.",
+    "JYP.",
+    "Nayeon's bunny teeth.",
+    "Jihyo's big 'heart'.",
+    "Jeongyeon.",
+    "Mina's rare screaming.",
+    "Nayeon's loud ass laugh.",
+    "Jihyo.",
+    "Tzuyu's barking."
+  ],
+  "pack": {
+    "id": "BB2SF",
+    "name": "TWICE deck"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 21,
+    "total": 32
+  },
+  "dateStoredMs": 1589509190976
+}

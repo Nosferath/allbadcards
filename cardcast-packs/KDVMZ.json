@@ -1,0 +1,108 @@
+{
+  "black": [
+    {
+      "content": "SHUT YOUR FACE! I came back for the _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish for a... _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ only fools!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HEY PRINCESS, WILL YOU DO THE _ DANCE WITH ME?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dude, be calmed by my _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saved my _ from a _ vampire!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm killing you with _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MY _ IS AWESOME!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Girl, you smell good! Did you take a bath in _ and _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was singing my _ song! Whooaah! Whooaaaoohh!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not righteous. I'm _ -teous!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ time with _ and _ !",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ explode when they get scared?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "I'm-- puppies?.",
+    "Glitter on its own could be evil, but with rainbows...",
+    "Ice king.",
+    "Marshall Lee.",
+    "The Enchiridion!.",
+    "Wrong.",
+    "Hot Dog Princess.",
+    "Bro.",
+    "Animal-shaped chicken nuggets.",
+    "Marceline.",
+    "It's freaking adorable.",
+    "JJ Flip! What the Zip?.",
+    "Armor of Zeldron.",
+    "Jake.",
+    "WHO GOTS DA ABC'S.",
+    "Abracadaniel.",
+    "Slam-bam-in-a-can.",
+    "UUNNNNACCCCEEEEEPPPPPTTTTTTAAAAABBBBBLLLLLLEEEEEEE!!!!!!!!!!!!!!!.",
+    "Mathematical!.",
+    "Crotch catapult.",
+    "Princess Bubblegum.",
+    "Wands are for wimps.",
+    "Finn.",
+    "Well-dressed pickles.",
+    "BMO.",
+    "Rainicornicopia.",
+    "Lumpy Space Princess."
+  ],
+  "pack": {
+    "id": "KDVMZ",
+    "name": "Cards Against Adventure"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 27,
+    "total": 40
+  },
+  "dateStoredMs": 1589483082974
+}

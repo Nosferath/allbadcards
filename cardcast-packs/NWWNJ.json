@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "\"You're trapped now criminal!\" Movie Man performed his finishing move, _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emma Wilson's favourite Disney movie: The Fox and _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Simon Collins told his greatest joke, \"Why did the Fifer cross the street? He was chasing after _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cameron shouldn't have trusted that burp. He opened his mouth but out came _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Phil Davison deleting his Facebook and laughing maniacally.",
+    "Cameron Clark.",
+    "Simon Collins and his awful puns.",
+    "Emma Wilson.",
+    "Robin Goldie.",
+    "Martin Macdonald.",
+    "Christine Davison.",
+    "Simon's friend and totally not a robot, Greig.",
+    "Martin Macdonald's terrible, offensive jokes.",
+    "Phil Davison.",
+    "Christine Davison smiling patiently while the world burns.",
+    "Cameron Clark's never-ending burps.",
+    "Robin Goldie smugly explaining that the toilet paper is out of stock.",
+    "Josh Marsden.",
+    "Josh Marsden explaining how this doesn't make sense.",
+    "Simon Collins.",
+    "Emma Wilson binge watching all the Disney movies for the 76th time.",
+    "Movie Man reviewing my sex tape.",
+    "Quotation Lad sonic screaming into my asshole."
+  ],
+  "pack": {
+    "id": "NWWNJ",
+    "name": "Quarantine Club"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 19,
+    "total": 23
+  },
+  "dateStoredMs": 1589138020906
+}

@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "I like to celebrate the new year with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't wait for the harvest festival! I heard there's going to be _ this year!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. The real reason for the season.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Loudly confessing your sins in public.",
+    "Honoring thy mother and father.",
+    "Alter boys.",
+    "Phallic religious symbols.",
+    "The one true god.",
+    "Good old fashioned karma.",
+    "The high road.",
+    "Holy soup.",
+    "Shrine maidens.",
+    "Cleansing the world of sin with natural disasters.",
+    "Tolerating other faiths.",
+    "Angels interfering in an otherwise fair game.",
+    "Using the sacred texts out of context to support my personal agenda.",
+    "Sacrilege.",
+    "The devil's lettuce.",
+    "Going home for the holidays.",
+    "Seeing omens in every event and action.",
+    "Religious fasting.",
+    "Harmonious chanting.",
+    "Participating in every religion just to cover all the bases.",
+    "The holiday spirit.",
+    "One of many trickster gods.",
+    "The power of prayer.",
+    "Constantly quoting the sacred texts.",
+    "Confession.",
+    "Non-believers."
+  ],
+  "pack": {
+    "id": "7YAKB",
+    "name": "Generic Genre Deck: Religion & Holiday Expansion"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 26,
+    "total": 29
+  },
+  "dateStoredMs": 1589074574042
+}

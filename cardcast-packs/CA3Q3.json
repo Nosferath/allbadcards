@@ -1,0 +1,199 @@
+{
+  "black": [
+    {
+      "content": "My special vampire power is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Money, sex, money, sex, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alice says _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to get over her depression, Bella turns to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The one thing Demetri can't track is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't need to drink blood. I get my nutrition from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only con to dating a vampire: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is the skin of a _, Bella!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Twilight trending in 2019? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's called a _. You can google it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Charlie can cook is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know what you are. \"Say it. Out loud. Say it!\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's more tempting, my blood or my _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Alice's visions, you're  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Volturi says _ is illegal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only gift Bella will accept is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esme says it's MY turn on the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't REALLY like Twilight, I'm just here for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bella googles _ to find out what Edward really is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two things shorter than Alice are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vampires can only die by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of drinking human blood, try _ instead!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If we had happy endings, we'd all be _ now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not like other Twilight fans because I'm actually  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ set to Muse's Supermassive Black Hole.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is effervescent.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ deserved better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How long have you been _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him-and I didn’t know how potent that part might be- that thirsted for _. And third, I was unconditionally and irrevocably _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Look, Bella! It's a _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Beige.",
+    "Edward's depression.",
+    "Renememe.",
+    "Eternally in puberty.",
+    "Team Jacob.",
+    "Blue filter.",
+    "Charlie Swan.",
+    "Leah Clearwater.",
+    "Isle Esme.",
+    "Adrenaline rush.",
+    "Bella's truck.",
+    "Team Edward.",
+    "Bella's green sweater.",
+    "Vampires playing baseball.",
+    "Denali sister.",
+    "Spanish influenza.",
+    "Mike Newton.",
+    "Bree Tanner being alive for more than fifteen minutes.",
+    "Khaki.",
+    "Bella on her period.",
+    "Edward's sleeveless white button-up shirt.",
+    "Angela Weber.",
+    "Happy, healthy wolf pack.",
+    "Snail.",
+    "Seth Clearwater.",
+    "Nutting pure venom at 100 mph.",
+    "Effervesence.",
+    "Jessica Stanley.",
+    "Pussy filled with venom.",
+    "Esme's Fuck Island.",
+    "Smeyer's repressed sexuality.",
+    "Weird incestuous loner family.",
+    "Being fucked to death by a Denali sister."
+  ],
+  "pack": {
+    "id": "CA3Q3",
+    "name": "Twilight"
+  },
+  "quantity": {
+    "black": 30,
+    "white": 33,
+    "total": 63
+  },
+  "dateStoredMs": 1589509191049
+}

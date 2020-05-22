@@ -1,0 +1,87 @@
+{
+  "black": [
+    {
+      "content": "Diego also likes to throw _ at people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Klaus is not only addicted to drugs, but _ too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What REALLY caused the apocalypse? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Luther sent to the moon? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What actually killed Ben? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanya was always left out when it came to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "''I heard a rumor that you were _.''",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Five was alone for 40 years with just Dolores and _ after the apocalypse happened.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Reginald.",
+    "Stealing an ice-cream truck.",
+    "Klaus.",
+    "Cha-Cha.",
+    "The apocalypse.",
+    "Diego.",
+    "Dolores.",
+    "Eudora Patch.",
+    "Grace.",
+    "The Commission.",
+    "Five.",
+    "Harold Jenkins.",
+    "Murdering your own father.",
+    "Being sent back to 1968 and losing your boyfriend in the war.",
+    "Eudora Patch.",
+    "Leonard.",
+    "Pogo.",
+    "Hazel.",
+    "A prosthetic eye.",
+    "Vanya.",
+    "Being sent to the moon for 4 YEARS.",
+    "Dave.",
+    "Slitting your own sister's throat.",
+    "Allison.",
+    "Luther.",
+    "Wondering what happened to the other 36 children.",
+    "Being given a serum that turns your upper body into that of an ape.",
+    "Ben.",
+    "The Handler.",
+    "Allison and Luther's relationship.",
+    "Getting sober."
+  ],
+  "pack": {
+    "id": "9hvhk",
+    "name": "The Umbrella Academy"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 31,
+    "total": 39
+  },
+  "dateStoredMs": 1588826265695
+}

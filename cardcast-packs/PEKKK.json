@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "This is some spicy _ , Linda!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on Fox News, we will have Tomi Lahren speak about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What excuse are the whites using to justify their racism this time? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "White, teenaged girls in yoga pants holding their Starbucks Frappa-Whatever.",
+    "Texas.",
+    "\"Asians are basically white!\".",
+    "Yoga pants.",
+    "Spicy water.",
+    "A bad dance.",
+    "\"This is reverse racism!!1!\".",
+    "Safety pins that don't actually help us.",
+    "Something about comparing the enslavement of black people in America to killing animals for nutrition.",
+    "Unseasoned food.",
+    "\"Black people aren't slaves anymore, so racism doesn't exist!\".",
+    "\"But black on black crime!!1!\".",
+    "Assuming Asian = Chinese, and nothing else.",
+    "White, teenaged boys who wear shorts year round.",
+    "Donald Trump."
+  ],
+  "pack": {
+    "id": "PEKKK",
+    "name": "oh no reverse racism!!1!"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 15,
+    "total": 18
+  },
+  "dateStoredMs": 1589080499101
+}

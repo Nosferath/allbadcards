@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "I can't go out tonight because _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cain.",
+    "Eddy.",
+    "Danny Doolan's.",
+    "Ivan."
+  ],
+  "pack": {
+    "id": "U8TN4",
+    "name": "The Boys Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1588835570720
+}

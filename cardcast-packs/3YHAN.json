@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "_ would ban _ for _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nothing pisses Lionheart off more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is banned in the Lion's Pride. No excuses!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Lionheart's streams, the only thing more sacrilegious than _ , is the prestige of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best games of Jackbox include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was discovered in John Wayne's colon.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dr, Doppler, as voiced by Lionheart.",
+    "Feminists.",
+    "Lionheart's subscribers.",
+    "A lion posing spread-eagle.",
+    "Shigma.",
+    "Swastikas.",
+    "John Wayne.",
+    "Subscribing to Lionheart.",
+    "Lionheart's Cat.",
+    "A brutal Quiplash.",
+    "The real Rascato.",
+    "An AFK player in Jackbox.",
+    "Twelve pounds of undigested meat.",
+    "MegaSuperLionheart.",
+    "A Lion's Pride moderator.",
+    "A kaizo level.",
+    "A Rascato impersonator.",
+    "Lionheart's unbridled rage.",
+    "The sadistic shit that SirSins spews.",
+    "Fucking a bagel."
+  ],
+  "pack": {
+    "id": "3yhan",
+    "name": "MegaSuperLionheart"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 20,
+    "total": 26
+  },
+  "dateStoredMs": 1588333354958
+}

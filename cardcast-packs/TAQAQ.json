@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genji: _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need halimg.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing .",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing.",
+    "I need healing."
+  ],
+  "pack": {
+    "id": "TAQAQ",
+    "name": "I need healing"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 50,
+    "total": 56
+  },
+  "dateStoredMs": 1588558621332
+}

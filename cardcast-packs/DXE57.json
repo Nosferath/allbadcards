@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "When my parents found out what i did on the weekend,they said _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A fursuit coverd with razor blades.",
+    "When the dragon dildo card actually fits."
+  ],
+  "pack": {
+    "id": "DXE57",
+    "name": "Furry`n Scalie shit-Sandy Hook Edition"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589568462457
+}

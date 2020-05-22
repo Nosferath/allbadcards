@@ -1,0 +1,175 @@
+{
+  "black": [
+    {
+      "content": "Wait... When did I _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. You know what's more interesting? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I know my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keep calm and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Going at each other like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am eating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have a(n) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Immortality comes at the price of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just want your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have created a ripple in the time-space continuum... Through which to collect millions of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got a jar of diiiiirt, and guess what's inside it?!?!?!?!?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God may not be _ , but I still wouldn't want him babysitting my child.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm hallucinating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had the rumblies.... That only _ could satisfy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "King of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the Henry Ford of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pulling thin air out of thin air.",
+    "Poop.",
+    "Being sent to Oblivion by a cheese staff..... Again....",
+    "Hiding scones under the bed to get the attention of a certain housemaid.",
+    "Lab.",
+    "Faking an accent instead of explaining your religion.",
+    "The family guy baby.",
+    "KING OF THE LAB!!!!!!!!!!!!!!!.",
+    "Annoying.",
+    "PIRATES!.",
+    "A psycho killer.",
+    "Looney bin.",
+    "Waking up in a desert with a tattoo you definitely do not remember getting.",
+    "Baby hands.",
+    "The still-beating heart of an immortal sailor.",
+    "CAPTAIN Jack Sparrow.",
+    "Using explosives from air bags.",
+    "Throwing forks in a cannon and shooting them at the opposing ship.",
+    "A person.",
+    "A fallen comrade.",
+    "Hogging popcorn.",
+    "JAZZ HANDS!!!!!!!!!!!!!!!!!.",
+    "\"Accidentally\" jabbing somebody's eye out with a fork.",
+    "Being emotionally constipated.",
+    "Having a Texan dad.",
+    "Wrist.",
+    "Having a name as long as Dumbledore's.",
+    "Dancing phalanges!!!.",
+    "Zacaroni.",
+    "CARL!!!!!!!!!!!!!!!.",
+    "Hogging all the blankets.",
+    "Starving goldfish.",
+    "A disturbingly steep learning curve.",
+    "A Peruvian soccer team stranded in the Andes.",
+    "Getting married in Vegas.",
+    "Having to construct additional pylons.",
+    "Human meat.",
+    "Gormogon.",
+    "A sociopath.",
+    "Bones.",
+    "Stupid.",
+    "Your nose.",
+    "Knowing your poop.",
+    "I'm captain Jack Sparrow.",
+    "A pedophile.",
+    "Sperm.",
+    "Watching a purple chick with big eyes murder your family.",
+    "Bleeding from my anus and enjoying it.",
+    "A bad-ass Texan dad."
+  ],
+  "pack": {
+    "id": "26GDH",
+    "name": "Inside jokes from Movies and Series"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 49,
+    "total": 71
+  },
+  "dateStoredMs": 1589491792323
+}

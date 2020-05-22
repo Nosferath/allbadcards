@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Why is there _ in my tea?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing's more British than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This tea tastes like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you make a British person angry? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The guards of Buckingham Palace actually have _ hidden inside their hats.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not a bigoted person, but England is than every other place in the world because we have _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "U wot mate ill bash ya fookin 'ed in, a swear on me mam.",
+    "Throwing tea into the harbour.",
+    "A posh wank.",
+    "Redcoats.",
+    "The bloody Welsh.",
+    "Spilled tea.",
+    "England.",
+    "A thousand Scottish warriors lifting their kilts in unison.",
+    "Wanking into a pool of children's tears.",
+    "British food.",
+    "English accents."
+  ],
+  "pack": {
+    "id": "729dy",
+    "name": "Cards Against the British"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 11,
+    "total": 17
+  },
+  "dateStoredMs": 1588451025648
+}

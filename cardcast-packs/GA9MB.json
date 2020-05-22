@@ -1,0 +1,53 @@
+{
+  "black": [
+    {
+      "content": "Captain Picard forbids _ on the bridge.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Not being a merry man.",
+    "Geordi LaForge.",
+    "Data.",
+    "Teaching Data to dance the horizontal tango.",
+    "Tasha Yar.",
+    "Miles O’Brien.",
+    "Guinan.",
+    "Lwaxana Troi.",
+    "Dixon Hill.",
+    "Keiko O’Brien.",
+    "Beverly Crusher.",
+    "Jean-Luc Picard.",
+    "Gladly being the sidekick.",
+    "Data’s violin.",
+    "Geordi’s visor.",
+    "Deanna Troi as a cake.",
+    "Kate Pulaski.",
+    "Being fully functional and anatomically correct.",
+    "Gratuitous French.",
+    "That time when the Cardassians had ugly moustaches.",
+    "Teaching Data to dance.",
+    "Keiko O’Brien.",
+    "Playing as Sherlock Holmes and Watson.",
+    "Lore.",
+    "The Q.",
+    "Worf.",
+    "Deanna Troi.",
+    "Noonian Soong.",
+    "Nasty Cardassian beards.",
+    "Spot the cat.",
+    "Wesley Crusher.",
+    "Pretending to be a private detective."
+  ],
+  "pack": {
+    "id": "GA9MB",
+    "name": "Trekking Against Humanity: The Next Generation"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 32,
+    "total": 33
+  },
+  "dateStoredMs": 1589423239462
+}

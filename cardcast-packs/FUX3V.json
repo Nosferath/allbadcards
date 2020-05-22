@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "Did you see that bear guy? He was all like: Whoa, I have an _ in my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh, no! Frank is turning into a crazy _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That is exactly how people beat Chinese handcuffs. They turn into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next person, or horse, who calls me _ will end up in a bottle of Merlot!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in my day, we _ all the time, and we liked it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Please, Percy...change your clothes. You smell like you've been _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get a little _ and I wake up the entire earth? That’s not fair!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can’t _. And neither can my pancakes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Blackjack want? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I excel at _. said Arachne. I’m a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Look, _, we're not going to go all Hunger Games on each other.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fell in love with a _. Does that shock you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You hit the Lord of the Titans in the eye with a blue plastic _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Catch that last episode of Doctor Who? Oh, right. You were _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let us find the dam _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Coach Hedge.",
+    "Percy Jackson.",
+    "Nico DiAngelo.",
+    "Donuts. Always donuts.",
+    "Thalia Grace.",
+    "Riding on Happy The Dragon.",
+    "Hazel Levesque.",
+    "The Party Ponies.",
+    "Grover Underwood.",
+    "Festus.",
+    "Jason Grace.",
+    "Annabeth Chase.",
+    "Leo Valdez.",
+    "Frank Zhang.",
+    "Piper McLean."
+  ],
+  "pack": {
+    "id": "FUX3V",
+    "name": "Percy Jackson/Heroes of Olympus"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 15,
+    "total": 30
+  },
+  "dateStoredMs": 1589357570057
+}

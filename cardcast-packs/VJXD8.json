@@ -1,0 +1,536 @@
+{
+  "black": [
+    {
+      "content": "No et creuràs què duc al cony. És _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La majoria de catalans no votarien de president algú que estigui a favor de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què em va destrossar l’anus? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ són _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tinc ritme, tinc música, tinc _. Què més puc demanar?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ us ofereix _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Doncs si _ és un crim, que em detinguin!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L’art no només és pintar per als museus. L’art és viu. L’art és _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em sap greu, senyor, però la vostra assegurança no inclou els accidents causats per _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aquest divendres, al Pub Manolo, és la Nit de _! Les noies hi entren de franc!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notícia de darrera hora! Els científics descobreixen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prendré una hamburguesa amb bacon, salsa barbacoa i un ou ferrat, i què cony, per què no _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Al carrer és tota una senyora, però al llit és _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si no te’n surts a la primera, prova _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amb una única donació de 10€, pots salvar aquest nen de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Balla com si no et mirés ningú, estima com si no et poguessin fer mal, i viu com si fossis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Com deia Roosevelt, les grans virtuts de l’home són l’honor, el temperament, la indústria i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Us estic molt agraït! #increïble #lamevavida #_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Millor que tornis al lloc d’on hagis vingut. Aquí no ens prenem gaire bé això de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Potser no sóc gaire atractiu, però cardo com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No crec en Déu. Crec en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Déu no existeix. La vida és només _ i llavors et mors.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Corre, corre tant com puguis! No em podràs atrapar, sóc _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fill, fes cas a la gent gran. Res la posarà més calenta que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Que tothom es dediqui a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Al nostre país no xoquem la mà esquerra. És la mà que fem servir per a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "LSD + _ = un molt mal moment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què durà el ball al següent nivell? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Llista de coses pendents de la mare: 1. Comprar menjar. 2. Netejar _. 3. Futbol.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En compensació dels treballs forçats com a esclaus, tots els negres rebran _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què fot fàstic? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Una altra cosa. Compte amb en Miquel. Diuen que va matar un home amb _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quina cosa és la més problemàtica? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què canten totes les balenes? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què posarà fi al racisme d’una vegada per totes? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oooh, a mi també m’agrada _, filla.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Càsum tot! Ja sé que costa de creure, però us juro que m’agrada _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per què ric, ploro i em trec la roba alhora? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Les noies no volen res més que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ella és més de coses de nois. Li agrada la cervesa, el futbol i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, no! Siri, com puc arreglar _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, no, no, no, no, no, NO! No deixaré que _ arruïni aquest casament.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Recordatori de Google Calendar: _ d’aquí a 10 minuts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pobre Marc, encara viu al soterrani dels seus pares. Diuen que no va superar mai _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enhorabona! T’hem elegit per al nostre programa de beques. No et podem oferir cap sou, però et podem oferir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quina cosa és la més gai? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als anys 50, els psicòlegs recomanaven _ com a cura per a l’homosexualitat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Llavors la princesa va besar el gripau, i de sobte el gripau es va convertir en _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Viure mantenint viva la flama a través del temps, la flama de _ en moviment”.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Què em va fer ser del PP? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saps a qui més li agradava _? A Hitler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aquest mes, la novetat del Nostrum serà _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He tingut una visió horrible, pare. He vist muntanyes que s’ensorraven i estels que queien del cel. He vist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Les cerques més comunes al Google sobre Puigdemont: “Puigdemont discurs”, “Puigdemont ingressos”, “Puigdemont _”.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El que et dic, va ser una orgia brutal. Quan vam acabar, el meu anus semblava _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Les 24 hores, 7 dies a la setmana.",
+    "El sentiment d’anar a un McDonald’s quan tens 6 anys.",
+    "L’explotació infantil.",
+    "El dret a decidir d’una dona.",
+    "Una malaltia mental.",
+    "Convertir-se en el President de la Generalitat.",
+    "El nostre nadó.",
+    "Tu.",
+    "Un ‘brunch’.",
+    "Una abraçada.",
+    "Una llarga reunió de feina sense cap objectiu clar.",
+    "El pare anant-se’n per sempre.",
+    "L’ISIS.",
+    "Imatges increïbles de planetes i tal.",
+    "Col·locar-se amb la mare.",
+    "Ser assassinat i pujat a dalt d’un arbre per un lleopard.",
+    "Orgasmes anals bojos.",
+    "Un univers fred i indiferent.",
+    "L’experiència viscuda pels negres.",
+    "Apallissar-te al Mario Kart.",
+    "Cagarades de regla.",
+    "Ángel Acebes.",
+    "Tota la gent que he matat.",
+    "Fundar una religió principal.",
+    "Tres hores de penetració sense parar.",
+    "Aconseguir el control dels mitjans de producció.",
+    "Un camió fent ‘moc, moc’ amb la botzina.",
+    "Obrir els dits dins d’una noia jove i bonica.",
+    "La misogínia.",
+    "Regurgitar un pardal a mig digerir.",
+    "Un paio estrany que diu coses estranyes i em fa sentir estrany.",
+    "Fer 32 anys.",
+    "Un gos vell arrossegant l’anus per terra.",
+    "El lligam entre una dona i el seu cavall.",
+    "Agafar un got d’aigua, beure’n un glop i ser el president.",
+    "Una reforma important de la immigració.",
+    "Descobrir ara el genocidi armeni.",
+    "Negar l’holocaust.",
+    "Fer servir l’anus com una trompeta.",
+    "Dues boniques truges germanes.",
+    "El contingut.",
+    "Un bon plat d’espaguetis a la carbonara.",
+    "La Beyoncé.",
+    "Un bitxo picant.",
+    "Un dofí que aprèn a parlar i esdevé doctor en dret penal a la Universitat Harvard.",
+    "Atrapar un salmó viu amb la boca.",
+    "Assassinar el president.",
+    "Nyequejar com un ànec en lloc de tenir un argument coherent.",
+    "Fotre un darrere com un John Deere.",
+    "Agafar aspecte de falcó.",
+    "Derrocar el govern elegit democràticament a Xile.",
+    "Embolicar-se i tal.",
+    "La Xina.",
+    "Arbres.",
+    "Pets de noies minúsculs i rancis.",
+    "La perspectiva d’una dona.",
+    "Un cavall fort i prou racions per a trenta dies.",
+    "El meu gos morint-se.",
+    "Les millors i més profundes cites de ‘El cavaller fosc’.",
+    "Fer veure que sóc un noi normal i corrent però en realitat ser qui té la paella pel mànec.",
+    "Un home ben vestit i amb els cabells perfectes que et diu boniques mentides.",
+    "45 minuts de ficar-se els dits sense parar.",
+    "Menjar culs.",
+    "La quinoa.",
+    "El pare i la mare lluitant tota l’estona.",
+    "Un bomber minúscul que apaga focs minúsculs.",
+    "Unes autèntiques gambes ben especiades.",
+    "Esclafar el patriarcat.",
+    "Enciam calent.",
+    "Gerard Quintana.",
+    "Una d’aquestes “fel·lacions” de què parleu tan sovint.",
+    "Ensenyar el meu cony a tots els nois.",
+    "Pujar tres nens amb el salari mínim.",
+    "Com és d’estrany no ser res.",
+    "Mirar com menja una persona atractiva.",
+    "El genocidi de Ruanda.",
+    "Nois rics i intel·ligents fent clic-clac als teclats.",
+    "La por i l’odi que hi ha al cor dels homes.",
+    "El govern.",
+    "Menjar conys.",
+    "Bogeria eterna que et fa cridar.",
+    "Informar-te que la policia em té fitxat com a violador.",
+    "Començar aquesta festa!.",
+    "Emocions dolentes que no vull.",
+    "Un nen que fa por cantant una cançó de bressol.",
+    "Ser menjat per un gos.",
+    "La correcció política.",
+    "Objectificar les dones.",
+    "Ser disparat a la cara amb un canó de samarretes.",
+    "El pensament crític.",
+    "Un advocat jueu de la gran ciutat.",
+    "Donar el pit en públic com una deessa radiant.",
+    "Pixar-se de riure.",
+    "Grunyir durant deu minuts i llavors pixar sorra.",
+    "Ser avortat.",
+    "Antidepressius.",
+    "Els sistemes i polítiques dissenyats per a mantenir estructures de poder centenàries.",
+    "Llesques cremoses d’un autèntic alvocat de Califòrnia.",
+    "La Laura de Recursos Humans.",
+    "Una pistola que dispara cobres.",
+    "Fer una tombarella i vomitar.",
+    "El bon gust que té la pintura de plom.",
+    "El secret dels cabells resistents.",
+    "Pares feliços amb sandàlies felices.",
+    "El jazz.",
+    "La comunitat LGBT.",
+    "Facilitar el diàleg i desconstruir binaris.",
+    "Fer les tisoretes, si això vol dir alguna cosa.",
+    "Taules.",
+    "Començar un podcast patètic.",
+    "Convertir-se en salsitxes.",
+    "Odiar els jueus.",
+    "Festes de fel·lacions entre adolescents fora de control.",
+    "Qui fos que va fer l’11-S.",
+    "Un pastís de carn.",
+    "El vent.",
+    "Anar-se’n a dormir a una hora raonable.",
+    "La menopausa.",
+    "Doritos i llaminadures.",
+    "Cardar amb mi i després dur-me a una marisqueria.",
+    "De tot.",
+    "Identificar-se com a DJ.",
+    "Una alegria que amaga un profund autoodi.",
+    "L’art.",
+    "Sentir l’emoció de la ràbia.",
+    "La Maragda, la meva filla més bonica.",
+    "Un home més gran.",
+    "Un kebab amb salsa de iogurt i res més.",
+    "Pensaments gais.",
+    "Una llopada que s’acosta lentament.",
+    "Vèncer un goril·la en un únic combat.",
+    "La boira misteriosa que envolta la vila.",
+    "La gent de la Lluna.",
+    "Encistellar la pilota.",
+    "Com serà de trist quan en Morgan Freeman es mori.",
+    "Les restes en flames de l’Estació Espacial Internacional.",
+    "Els deures.",
+    "Cardar fortament.",
+    "Microagressions.",
+    "Despertar-se dins d’un tornado.",
+    "Caure en un pou de gofres.",
+    "Un nen gras i espantat que no vol sortir dels arbustos.",
+    "El feminisme.",
+    "Chris Hemsworth.",
+    "Tota la força de l’exèrcit americà.",
+    "Trossos tendres de pollastre blanc.",
+    "Anar pel carrer traient els tampons a la gent.",
+    "L’Albert, el meu fill més gros.",
+    "Suc de contenidor d’escombraries.",
+    "Una predisposició genètica a l’alcoholisme.",
+    "Un tro espantosament fort.",
+    "Menjar massa ensaïmada, vomitar i després menjar-se el vòmit.",
+    "Esforçar-se molt per a tenir músculs i acabar tenint-ne.",
+    "Un amic negre.",
+    "Vint euros.",
+    "Una bossa de viatge plena de llangardaixos.",
+    "Els rols de les actrius de més de 40 anys als films.",
+    "Amagar la meva afiliació política per a atreure algú.",
+    "Els llibertaris.",
+    "Gaspatxo.",
+    "Una dona empoderada.",
+    "El llarg camí d’una fulla quan cau a la tardor fins que arriba al suau terra.",
+    "Passar una bona estona bevent i conduint.",
+    "Mirar com et mors.",
+    "L’aigua.",
+    "La marginació de la gent lletja.",
+    "Pistoles.",
+    "Les matemàtiques.",
+    "Cardar amb el psicòleg.",
+    "Una orxata mitjana.",
+    "Demència senil en estat avançat.",
+    "Fotre més negres a la presó.",
+    "Barrejar M&Ms i Skittles com si fossis un psicòpata.",
+    "El cos d’un home de 46 anys.",
+    "Recaragolar la titola i els ous per a fer un globus en forma de gos.",
+    "Avortar un cony de fetus.",
+    "Restaurar Alemanya a la seva antiga glòria.",
+    "Despullar-se massa de pressa.",
+    "Albert Einstein però amb grans músculs i una titola de rinoceront.",
+    "10000 adolescents cridaneres.",
+    "Caure mort en un lavabo d’una estació de servei i no ser trobat en 72 hores.",
+    "Pensar en què coi vol dir menjar.",
+    "Qui fos que va decidir fundar Terrassa.",
+    "Menjar gent.",
+    "10 jugadors de futbol americà amb ereccions venint cap a tu a màxima velocitat.",
+    "Participar-hi.",
+    "Les cebes.",
+    "Una criatura feta de penis que ha de posar-se erecta tota l’estona per a sobreviure.",
+    "Explorar els anus l’un de l’altre.",
+    "Com de bé se’m veu el cul amb aquests pantalons.",
+    "Veure’s atrapat en una conversa sobre Quim Monzó.",
+    "Fer-me un gran pet amb merda amb el cony.",
+    "Trobar un bon ascensor per a cagar.",
+    "Passar-te el meu pubis pelut per sobre del teu cap calb.",
+    "Pits durs com una pedra i una vagina enorme.",
+    "Ada Colau, la batllessa del canvi.",
+    "Una col·lecció enorme de pornografia infantil.",
+    "Poesia instantània sobtada i no desitjada.",
+    "Fer-te pets sobre la meva cara amb el teu petit anus.",
+    "Tenir sexe amb una persona atractiva.",
+    "Una boca grossa i bonica plena del tot de dents brillants.",
+    "La Nit de Salsa a la cantina del barri.",
+    "En Yonatan, el millor xicot del món.",
+    "Ser massa tard per a deixar de tenir sexe amb un cavall.",
+    "Tenir vagina.",
+    "Dominar un home pixant-te a sobre del seu fill més gran.",
+    "Aquella puta, la Jenni.",
+    "Un X-Men que té el poder de tenir sexe amb gossos i nens.",
+    "Tenir sexe amb un home i llavors menjar-se’n el cap.",
+    "Dos nens de merda i una porqueria de marit.",
+    "En Pau.",
+    "La fantasia definitiva de qualsevol home: una vagina perfectament cilíndrica.",
+    "Arribar a una edat en què les patates amb gust de barbacoa són millors que el sexe.",
+    "Jurar lloança a les filles horribles del sultà.",
+    "El pollastre del KFC.",
+    "Grans testicles plens de semen.",
+    "Una mica d’aquell bon penis.",
+    "Un acord en què dono diners a una persona i ella té sexe amb mi.",
+    "Un homosexual incurable.",
+    "Obrir la boca per a parlar i que en surti un gran penis.",
+    "Sentir-se atret sexualment pels nens.",
+    "Tenir sexe en tot moment.",
+    "Una percepció negativa del cos que està totalment justificada.",
+    "Treure’m les restes de Doritos del pèl púbic.",
+    "Cagar al vàter.",
+    "Els atractius amics del meu germà.",
+    "Esclafar-me els ous en el moment del clímax.",
+    "Un home amb cap de cabra i cos de cabra.",
+    "La clàssica sorpresa del penis dins les crispetes.",
+    "Sexe anal.",
+    "Cagar-se als leotards i esperar que no se n’adoni ningú.",
+    "Descobrir que el que vull realment a la vida és matar gent i tenir sexe amb els seus cadàvers.",
+    "Tenir sexe amb la teva mare.",
+    "Incest no reproductiu i consentit.",
+    "La quantitat de pastanagues baby que em puc ficar pel cul.",
+    "Un dit pel cul.",
+    "Ejacular prematurament com un absolut perdedor.",
+    "El pallasso que m’ha seguit del supermercat fins a casa.",
+    "El meu penis enorme i una fortuna substancial.",
+    "La MILF més calenta de Tarragona.",
+    "Vint animadores rient-se del teu minúscul penis.",
+    "La dolça i prohibida carn de mona.",
+    "Llepar-se els penis l’un de l’altre durant hores.",
+    "Ejacular en un gir d’una muntanya russa.",
+    "Aquesta puta."
+  ],
+  "pack": {
+    "id": "Vjxd8",
+    "name": "Green box de Cards Against Humanity (en català)"
+  },
+  "quantity": {
+    "black": 55,
+    "white": 245,
+    "total": 300
+  },
+  "dateStoredMs": 1588882989299
+}

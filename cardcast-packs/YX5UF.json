@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Today,  I'm going to eat some _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "💩.",
+    "🍞."
+  ],
+  "pack": {
+    "id": "YX5UF",
+    "name": "Friendly"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589490080597
+}

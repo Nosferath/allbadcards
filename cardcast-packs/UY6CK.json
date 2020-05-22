@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "The world has a cure to cancer. It's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CSGO has a new update, which adds _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A black man with a dagger."
+  ],
+  "pack": {
+    "id": "UY6CK",
+    "name": "Racist Memes"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1589277059725
+}

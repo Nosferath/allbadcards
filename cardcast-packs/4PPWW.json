@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Københavns politi forsøger nu med civilbetjente forklædte som _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Et forgrædt mobbeoffer."
+  ],
+  "pack": {
+    "id": "4PPWW",
+    "name": "Cards (Danish"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588785105238
+}

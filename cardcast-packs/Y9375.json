@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "Jouer à League of Legend, c'est comme _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans 20 ans, les enfants devront vivre avec _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , dur au début, plaisant à la fin.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "Y9375",
+    "name": "Cards against humanity (french version)"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 0,
+    "total": 3
+  },
+  "dateStoredMs": 1589410726618
+}

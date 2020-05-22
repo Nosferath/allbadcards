@@ -1,0 +1,788 @@
+{
+  "black": [
+    {
+      "content": "_. That's what she said.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What a piece of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wham bam thank you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Please tell me you didn't _.... again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The greatest show on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop, drop, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I only had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the new black.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is okay, because it's... YOUR dog!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, is better than Christmas morning!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't recommend _ unless you want to get eaten by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They was looking at me all like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather_than waste time and money on a peloton.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next week on Cops, 2 hookers were found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happy Bday! 2 you happy bday 2 u. You look like a _ and you smell like one too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not one to gossip but, _ was _. Keep that on the DL.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mommy daddy! There's a _ under my bed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes when I get nervous I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I say _ you say _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Bye Felicia!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just threw up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any allergies? Yes, I'm allergic to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler Alert. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ brings all da boys to the yard!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo Mama so _, she _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Correction. I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And he's got this silly looking hat on, next thing he's down at my pants. He's trying to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some guy told me I parked to close to his car - I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suck a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ be like _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They should make _ a Lifetime movie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey bea! Where's the _box?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two in the _, one in the _. The Shocker!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "White noise helps me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "# _ is trending",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ all over the place!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Kim and Jess fighting over?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so freaking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I enjoy a deep conversation about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s the end of the world..I have to do _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alyssa's ears picked up a _ from a distant planet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come to lazy days and get an RV fully equipped with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is ten percent luck Twenty percent skill Fifteen percent concentrated power of will Five percent pleasure Fifty percent pain And a hundred percent reason to remember_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happy mother's day. Hope you enjoy_ from the kiddos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Show me _ for these beads! Whooo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KFC's big bucket of _  value meal ,will have you saying, _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wake up and smell_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gnarls Barkley wants to know, what you do that makes him CRAAZAY?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Morgan Freeman left me a voicemail saying _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alyssa _ photography classes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sit back relax and enjoy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hip-hip _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Order now. Only _ left I  stock.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes my nipples  chafe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can call me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_Gives Jess the poopies",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's on your mind?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good googly-moog-a-lee,_ is juicy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahh! Call 911! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nationwide is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call from an unknown number yet familiar area code and identical 3 digits to your number. You answer. It's_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bartender' I'd like to have your finest bottle of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the new white meat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gimmie some of that _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just put it in your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet Caroline...ba ba ba. _ never felt so good (so good so good so good!)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ then I woke up with my pants unbuttoned.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ding dong. You are now free to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saw 17, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I caught my roommate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does _ make me look fat?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would never play a card that reads _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Makes me feel like king ding-a-ling!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _ sushi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One time in band camp _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the end of the night the ice luge was shaped like_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Mike”... the story of a man who _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is in the closet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Nailed it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ give me the heebie jeebies.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alexa! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't forget to subscribe to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - nugget.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to my wife's night table and found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puff puff _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's your mom do for a living? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I had a _ for every time I thought about _ I would be _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I got so drunk last night when I woke up I noticed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I need is _ and a good night's rest.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a shadow puppet fetish. You wanna see _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Jokes on you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ only in Florida.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Game. Match.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know that feeling when _? ... it's like that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret to a long and healthy marriage is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Suckers!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is as amusing as Tiger Kkng",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Down! Blue 42!_ Set-hut!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen the video of _. It's gone viral!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bucket list item # 4:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The girls new roller derby team name is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you really get a tattoo that says _!?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gnarls Barkley wants to know, what you do that makes him CRAAZAY?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta run away from_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gargle, swallow, the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One day _  Uranus's rings.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Makes me feel pretty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mullets... business in the front, _in the back",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a _ kind of person.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That chick next to me just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ looks really good on you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ you idiot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ain't got shit on me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These damn fancy restaurants menus make no damn sense, with plates like _. No sir, I be goin to da  Waffle House, y'all hear!?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the tits!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slap my ass and call me _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a great name for a penis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! I wasn't _ with gerbil teabagging sluts! I swear!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! I wasn't _ with gerbil teabagging sluts! I swear!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ WTF is that?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitch better have my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I imagine _ during sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1st thing  I do after Rona_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ageplay.",
+    "Flerken Goose, the cat.",
+    "Steve Erkle gourmet cheese.",
+    "That's a big deck.",
+    "Tom Brady.",
+    "Groot.",
+    "The Flowers.",
+    "American herpes.",
+    "Killing that bottle of wine in less than 2 hours.",
+    "Duck butter.",
+    "Dallas Bull.",
+    "Getting hear from your grandma without her dentures.",
+    "The Wiemans.",
+    "Sausage chulupa.",
+    "Janis Winston's Uber driver Crab fetish.",
+    "How big the Chicago Blackhawks are.",
+    "Cracker barrel soggy biscuits.",
+    "Ding-a-ling.",
+    "Gordon Ramsey Burger.",
+    "Corn.",
+    "Bubbles.",
+    "Natty ice.",
+    "Wicked haad.",
+    "Moose knuckles vs. camel toes.",
+    "Moist.",
+    "Jarred farts.",
+    "Extra crunchy creamy peanut butter for my dog to lick.",
+    "Chinese virus.",
+    "Honky tonk beer belly.",
+    "Suck a ninja ding ding.",
+    "Kim.",
+    "Joe Exotic.",
+    "Arby's.",
+    "RamRod.",
+    "Angelique echolocation.",
+    "Because R.Kelly wants to hear you TooT Toot and Beep Beep.",
+    "Put me in the game coach.",
+    "The Tibbits.",
+    "Cuckolding my hubby with a midget.",
+    "O.K...byeee!.",
+    "Good ol meth breath.",
+    "Rotten tocó.",
+    "Garbage.",
+    "Krystal Burger.",
+    "Jessica toodle pip.",
+    "Golden Shower Girls.",
+    "Hey! Check dat ID.",
+    "Creamsicle orange.",
+    "Man-gina!.",
+    "Mike.",
+    "Cookie.",
+    "Perverted Jazz-hands.",
+    "The Impossible Whopper.",
+    "Succulent little giblets.",
+    "Edward Sissorhands finger bang bang shrimp.",
+    "HeeHee!.",
+    "Fruitcakes.",
+    "Mike's raptor pink toes.",
+    "Before you spit , take a big hock.",
+    "Jake the uncircumcised snake from Colorado.",
+    "Funky butt sniffing.",
+    "Choking the Chicken.",
+    "A Sleepy Sloth Named Janice.",
+    "Short bus.",
+    "Lizardo.",
+    "Knee-knockers.",
+    "A cray cray Puerto Rican named Raul.",
+    "Djibouti [ ji-boo-tee ] Africa.",
+    "Skeet skeet skeet.",
+    "Podunk Trash.",
+    "Oh, yeah? Why don't you come up here and show me your toolbox?.",
+    "Antonio Brown.",
+    "Fail.",
+    "Cash me outside.",
+    "Poopsies.",
+    "Brit.",
+    "The Green's.",
+    "Silly goose.",
+    "Florida man.",
+    "Pee Wee Herman.",
+    "Gay ukulele.",
+    "Punitive damages.",
+    "Gay-fur-coats.",
+    "Cornholio.",
+    "Masterbating.",
+    "St Ides.",
+    "Alyssa's karaoke voice.",
+    "Deez Nuts.",
+    "Tool box.",
+    "Pleasure Party.",
+    "The Estrada's.",
+    "Cuckqueaning my wife with Sasquatch.",
+    "Fartalitos.",
+    "PerrrP.",
+    "Neverland bunker.",
+    "Gang green.",
+    "Dweeb.",
+    "Things I did to his Wand.",
+    "Big patty melt with curly fries.",
+    "Facesit squirting.",
+    "In and Out.",
+    "Teeth...the sequal.",
+    "Dookie.",
+    "Loose as a goose.",
+    "A great offer to extend your car warranty when you barely drive.",
+    "Erotic asphyxiation.",
+    "Twigg n berries.",
+    "Balki and Larry.",
+    "Bout it bout it!.",
+    "Dinky donky punch.",
+    "Now my wife don't like them prices you gotta do better than that. I'm a veteran.",
+    "Snape Snape Andreas Snape.",
+    "Assy nipples.",
+    "A horny trombone player.",
+    "Smaat Paak.",
+    "Lizardo petting a horny toad, with slimy mucus bubbles.",
+    "Hey there, chisel chest!.",
+    "Dickfingers.",
+    "Key lime creampie.",
+    "Widdle boy penises.",
+    "I wanted to move my penis around to the back side of my ass, because I don't know which way I'm swinging just yet. But I'd like to keep it just in case.",
+    "A clit in a box.",
+    "Whoopi Goldbergs tits.",
+    "You sound like you got a nice pair of them fuckin' balogna tits on ya, huh Willy.",
+    "Thicc bitches from Wakanda.",
+    "Cuntastic.",
+    "Bee sting dick enlargement.",
+    "The penisless man.",
+    "\"OMG you're such a fag!\" Said the flaming gay parade.",
+    "Piss clams.",
+    "Lizardo's big ass ears.",
+    "Liquid cocaine.",
+    "Bitch please!.",
+    "Simultaneous fart sneeze.",
+    "Sardine pussy fingers.",
+    "Fucker.",
+    "The heavy desired lesbian sex scene between black widow and Capt Marvel.",
+    "Fidget spinner inspired vibrator.",
+    "Rosie O’Donnell’s pussy hair.",
+    "Fuckery.",
+    "Recycled anal lube.",
+    "Underwear with dick holes in them.",
+    "Yeah Bitches.",
+    "My asshole winking emoji.",
+    "Fart swatter.",
+    "A hermaphrodite midget with a big dick.",
+    "Tetas!.",
+    "Oh, God! My mother, she woke me up today. She poured a hot pan of grease all over my chest and my ass and genitals and I fell down the stairs and my shoes fell off.",
+    "Andreas homothugginharmony.",
+    "The fuckin monkeys.",
+    "Getting shit on.",
+    "Boobies.",
+    "We can go up on the bridge and I'll fur you up head up first into a f***in' sailor dive and I'll join with you down in the water and I'll rub all sea weed all over your ass and you neck and shit. Oooh, we'll have a good time!.",
+    "Like trying to fuck a wet noodle.",
+    "Cum guzzling gutter slut.",
+    "Crumbs all over the goddamn carpet.",
+    "Resting bitch face."
+  ],
+  "pack": {
+    "id": "77bnb",
+    "name": "Odrazil set"
+  },
+  "quantity": {
+    "black": 123,
+    "white": 157,
+    "total": 280
+  },
+  "dateStoredMs": 1588968540877
+}

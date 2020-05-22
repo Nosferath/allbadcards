@@ -1,0 +1,56 @@
+{
+  "black": [
+    {
+      "content": "What is the meaning of life?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As of 2020, _ will be running for president!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused Chip's crippling video game addiction?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part of conversation therapy is_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did my parents send me to Jesus camp?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dunno my guy, Hitler was kind of right about_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Chips.",
+    "Dally.",
+    "Bill Cosby's affair.",
+    "Lafayette.",
+    "The gay agenda.",
+    "Ky.",
+    "MechaHitler.",
+    "Donald Trump's juicy ass.",
+    "Flying sex snakes.",
+    "The fact that Hitler was afraid of cats."
+  ],
+  "pack": {
+    "id": "TWVDA",
+    "name": "Trashcan fire"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 10,
+    "total": 16
+  },
+  "dateStoredMs": 1588476267054
+}

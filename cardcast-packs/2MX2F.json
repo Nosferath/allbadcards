@@ -1,0 +1,412 @@
+{
+  "black": [
+    {
+      "content": "They call me  “Mr. _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My name is Peter Parker. I was bitten by a radioactive spider, and now I’m _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Police! Arrest this man! He’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shut up, Becky! At least I’m not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There’s nothing better than a peanut butter and _ sandwich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Run, run, as fast  as you can. You can’t catch me,  I’m _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Class, pay close attention. I will now demonstrate the physics of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather be _ than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Come with me, and I will show you a world of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We’re off to see the wizard, the wonderful wizard of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moms love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have invented a new sport. I call it “_ ball\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time to put on  my favourite t-shirt, the one that says “I heart _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bow before me, for I am the Queen of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beep beep! _ coming through!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Dark Lord, we show our devotion with a humble offering of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We’re not supposed to go in the attic. My parents keep _ in there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t really know what my mom’s job is, but I think it has something to do with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eww. Grandpa smells like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The easiest way to tell me and my twin apart is that I have a freckle on my cheek and she’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guys, stop it! There’s nothing funny about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I had to pick one thing that I'd really like to do, it'd be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Huddle up, Wildcats! They may be bigger. They may be faster. But we’ve got a secret weapon: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The aliens are here. They want _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't really care about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One nation, under God, indivisible, with _ and _ for all.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What’s about to take this school dance to the  next level? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today we honour St. Mungo, the patron saint of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite book is “The Amazing Adventures of _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Foolish child! Did you think you could escape from _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kids, Dad is trying something new this week. It’s called “_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, no thank you, Mrs Lee. I’ve had plenty of _ for now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I pooped, what came out of my butt? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never fear, Captain _ is here!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ladies and gentlemen, I have discovered something amazing. I have discovered _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to theaters this holiday season, “Star Wars: The Rise of _\".",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A hug.",
+    "One tough mama.",
+    "The babysitter.",
+    "Nunchucks.",
+    "Punching everyone.",
+    "A bird pooping on the prime minister's head.",
+    "Big butt cheeks filled with poop.",
+    "Idiots.",
+    "A wise, old woman with no teeth and cloudy eyes.",
+    "The gluteus maximus.",
+    "Cavities.",
+    "A killer clown.",
+    "The sweet honking of Karen's bassoon.",
+    "Coffee.",
+    "Sharks.",
+    "Pork.",
+    "Martin Luther King Jr.",
+    "Beer.",
+    "Lice.",
+    "Turning 40.",
+    "Old people.",
+    "The octopus stuck to my face.",
+    "Mashing a banana into your belly button.",
+    "Bursting into flames.",
+    "A dead whale.",
+    "Chunks.",
+    "Death.",
+    "Bench pressing a horse.",
+    "One long hair growing out of a mole.",
+    "An invisible giant who takes giant, visible poops.",
+    "Eating a whole roll of toilet paper.",
+    "Wiping my butt.",
+    "Shoplifting.",
+    "Principal Butthead.",
+    "Getting stuck in the toilet.",
+    "Farting a lot today.",
+    "SILENCE!.",
+    "The bus driver.",
+    "Getting slapped with a fish.",
+    "Boys.",
+    "The police.",
+    "The oppressive system of capitalism.",
+    "Covering myself with ketchup and mustard because I'm a hot dog.",
+    "Boogers.",
+    "14 cheeseburgers, 6 large fries and a medium sprite.",
+    "Climbing into a cow's butt.",
+    "Forgetting to put on underwear.",
+    "Russia.",
+    "Feminism.",
+    "Freeing a fart from its butt prison.",
+    "Blasting farts in the powder room.",
+    "Americans.",
+    "Grandma pants.",
+    "A baby with a moustache.",
+    "The whole family.",
+    "How much wood a woodchuck would chuck if a woodchuck could chuck wood.",
+    "Eating toenail clippings.",
+    "Having many husbands.",
+    "Spiderman.",
+    "A whole thing of cottage cheese.",
+    "Mayonnaise.",
+    "Nothing.",
+    "Crying in the bathroom.",
+    "My big donkey sister.",
+    "Ariana Grande.",
+    "Sitting on a cake.",
+    "Going night night.",
+    "Respecting personal boundaries.",
+    "Using my butt as a microwave.",
+    "Evil.",
+    "Water.",
+    "Overthrowing the government.",
+    "Stuff.",
+    "Complaining.",
+    "Rich people.",
+    "The government.",
+    "Diarrhea.",
+    "Butts of all shapes and sizes.",
+    "Literally ruining my life.",
+    "A doll that pees.",
+    "Your face.",
+    "Having no friends.",
+    "Failure.",
+    "Elegant party hats.",
+    "Going bald.",
+    "Giggling and farting and slurping milkshakes.",
+    "Getting shot out of a cannon.",
+    "Chungo, the talking gorilla.",
+    "The way grandpa smells.",
+    "Twerking.",
+    "Sweet freedom.",
+    "A planet-devouring space work named Rachel.",
+    "Being dead.",
+    "Screaming into a can of pringles.",
+    "Eating a baby.",
+    "Climate change.",
+    "My future husband.",
+    "Fake news.",
+    "My father, who is a walrus.",
+    "Voldemort.",
+    "Me.",
+    "Trees.",
+    "Baby yoda.",
+    "Hurting people's feelings.",
+    "A scoop of tuna.",
+    "Sniffing a dog's butt.",
+    "Pee-pee.",
+    "Cat pee.",
+    "Hogs.",
+    "Moving to Paris.",
+    "This stupid game.",
+    "Obama.",
+    "Huge, hairy men.",
+    "Naked people.",
+    "An old, dirty cat with bad breath.",
+    "This goat, who is my friend.",
+    "Being French, hoh-hoh-hoh!.",
+    "Biting a rich person.",
+    "My parents.",
+    "Sitting on the toilet an going poop.",
+    "Running away from home.",
+    "A cowboy who is half boy, half cow.",
+    "Farting and walking away.",
+    "A black hole.",
+    "Chest hair.",
+    "A hundred screaming monkeys.",
+    "Politics.",
+    "Getting married.",
+    "Pizza.",
+    "Love.",
+    "The baby.",
+    "Shutting up.",
+    "Shaving Dad's back.",
+    "Beyoncé.",
+    "Space lasers.",
+    "One weird lookin' toe.",
+    "You.",
+    "Being adopted.",
+    "Peeing in the cats litter box.",
+    "Abraham Lincoln.",
+    "Saving up my boogers for ten years and then building the world's largest booger.",
+    "Whatever dad does at work.",
+    "Greta Thunberg.",
+    "Living in a pineapple under the sea.",
+    "China.",
+    "Bad parenting.",
+    "Only beans.",
+    "The little mermaid.",
+    "A big sad dragon with no friends.",
+    "Mom's butt.",
+    "The British.",
+    "Harry Potter.",
+    "Going around sniffing people's armpits.",
+    "Not wearing pants.",
+    "Batman.",
+    "Soup.",
+    "The Queen.",
+    "Most of a horse.",
+    "Stealing people's money and going to jail.",
+    "Becoming the president.",
+    "Butt surgery.",
+    "Crab-walking from the toilet to get more toilet paper.",
+    "Blossoming into a beautiful young man.",
+    "Stinky farts.",
+    "Putting my brain into the body of a tiger.",
+    "Teeny, tiny turds.",
+    "Getting a skull tattoo.",
+    "Doing karate.",
+    "The huge, stupid moon.",
+    "Smelling like onions.",
+    "A dead body.",
+    "Trying to catch that dang raccoon.",
+    "Beautiful grandma.",
+    "Slowly turning into cheese.",
+    "Questioning authority.",
+    "Stinky breath.",
+    "Having a really big head.",
+    "A hot air balloon powered by fart gas.",
+    "Jesus.",
+    "Dad's famous poops.",
+    "The bin men.",
+    "Dwayne \"The Rock\" Johnson.",
+    "Never showering.",
+    "Stuffing my underwear with pancakes.",
+    "Peer pressure.",
+    "Spending my parents' hard-earned money.",
+    "Murdering.",
+    "The dentist.",
+    "A poop that just won't flush.",
+    "Girls.",
+    "Swords.",
+    "The terrible winter of 1609.",
+    "Grandpa.",
+    "Satan.",
+    "Drinking out of the toilet and eating rubbish.",
+    "Your mom!.",
+    "Living in the dumpster.",
+    "Being famous on YouTube.",
+    "Big juicy spots.",
+    "A butt that eats underwear.",
+    "Legs.",
+    "Flushing myself down the toilet.",
+    "Knives.",
+    "Unleashing a hell demon that will destroy our world.",
+    "Vomit.",
+    "My annoying sister.",
+    "Boris Johnson.",
+    "The Russians.",
+    "Falling in love.",
+    "Shrek.",
+    "Racism, sexism and homophobia."
+  ],
+  "pack": {
+    "id": "2MX2F",
+    "name": "Family"
+  },
+  "quantity": {
+    "black": 37,
+    "white": 211,
+    "total": 248
+  },
+  "dateStoredMs": 1589496190140
+}

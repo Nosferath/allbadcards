@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "En USA no se puede _ pero se puede _?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "LIBREE MERCADOO.",
+    "Las habitaciones de las chicas a las 3AM.",
+    "Cordiales saludos.",
+    "Amancio Ortega.",
+    "Una 'actividad' a las 10.",
+    "Ha superado nuestras expectativas."
+  ],
+  "pack": {
+    "id": "YJRHC",
+    "name": "gaFAOst dates."
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1588285792970
+}

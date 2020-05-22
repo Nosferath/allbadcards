@@ -1,0 +1,53 @@
+{
+  "black": [
+    {
+      "content": "Like Nancy always says _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love Nancy because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love darcy because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love libby because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wow Darcy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love Bailey _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was Libby's best job",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "What's the matta with you? eh?.",
+    "Dressing as a giant chicken and losing my dignity."
+  ],
+  "pack": {
+    "id": "J4TKC",
+    "name": "Inside jokes"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 2,
+    "total": 9
+  },
+  "dateStoredMs": 1588463856188
+}

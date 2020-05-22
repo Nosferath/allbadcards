@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "_? Tem um app para isso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Aposto que um só não te satisfaz!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "É uma pena que as crianças hoje em dia estejam todas envolvidas em _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual é meu anti-droga? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O que eu trouxe do Paraguai? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Em 1000 anos, quando o dinheiro de papel for apenas uma lembrança distante, _ será a nossa moeda.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enquanto os Estados Unidos e a União Soviética competiam na corrida espacial, o governo brasileiro investia pesado em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qual é o prazer proibido do Batman? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vem aí o novo livro de J. K. Rowling: Harry Potter e a Câmara de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CBF proíbe _ por proporcionar vantagem desleal aos jogadores.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Resolução da ANAC agora proíbe _ em aeronaves.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Desculpe, professora, mas é que eu não pude terminar o dever de casa por causa de _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Uma maldição cigana."
+  ],
+  "pack": {
+    "id": "TNNC7",
+    "name": "Cartas Contra a Humanidade"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 1,
+    "total": 13
+  },
+  "dateStoredMs": 1589472064481
+}

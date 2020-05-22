@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "We went through the dungeon. Risked our lives fighting the dragon. And at the end of all this, our only reward was _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have _ in my Bag of Holding.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ingredients to make a Shield of Faith potion are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest Unearthed Arcana has _ as a playable race!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever heard of _? It's like D&D, but with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Using the Gate spell, the legendary wizard summoned _ from the depths of the Nine Hells.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Chaotic Douchbag Alignment.",
+    "The true meaning of friendship.",
+    "The DM's face when you crit on a stupid roll.",
+    "Having all the Elves of the dark skin segregated.",
+    "Killing an enemy with sass.",
+    "Rolling a Nat 20 only for the roll to mean nothing.",
+    "My Magic Missile.",
+    "An Owlbear.",
+    "A portable hole.",
+    "4th Edition.",
+    "That one player with the Edgy Drow.",
+    "Adventurers that are actually just Murder Hobos.",
+    "D&D Wiki.",
+    "A Bearowl.",
+    "A perception check.",
+    "Being Chaotic Neutral to be Evil in a non-evil campaign.",
+    "The Deck of Many Things.",
+    "Bards.",
+    "An unnecessary steampunk expansion."
+  ],
+  "pack": {
+    "id": "zzuen",
+    "name": "Dungeons and Dragons"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 19,
+    "total": 25
+  },
+  "dateStoredMs": 1588989733950
+}

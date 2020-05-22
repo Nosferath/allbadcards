@@ -1,0 +1,102 @@
+{
+  "black": [
+    {
+      "content": "It's like JavaScript, but with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just thought of the best name for a programming language! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one implements _ correctly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try reading my new article, \"The Unreasonable Effectiveness of _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only use _ if you are truly desperate.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one has any ideas how _ got into the compiler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only way to get good numbers in the benchmark is to use _ liberally.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why doesn't this code compile? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The AI didn't understand the concept of madness until it learned about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Progress was made after _ was removed from the implementation.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hardware engineers trying to write software.",
+    "Template meta-programming.",
+    "The x86 instruction set.",
+    "Copy-pasta.",
+    "Conflicting libraries.",
+    "The most vexing parse.",
+    "Semantically important whitespace.",
+    "Templated conditionals.",
+    "Feature creep.",
+    "Only global variables.",
+    "Longjump.",
+    "\"clever\" programming.",
+    "Nasal demons.",
+    "Elegant, but impractical, code.",
+    "Adding another layer of abstraction.",
+    "Passive aggressive variable names.",
+    "5000-line long class.",
+    "Recursion.",
+    "Other people's code.",
+    "Random endianness.",
+    "Bitfields.",
+    "A sentient register allocator.",
+    "Debugging with print statements.",
+    "C#.",
+    "Replacing the parser with regex.",
+    "Dangling fields.",
+    "Duff's device.",
+    "An overly aggressive inliner.",
+    "Uncaught exceptions.",
+    "An email about a critical production bug.",
+    "Opening braces on new lines.",
+    "Global variables.",
+    "A sharply worded assertion.",
+    "Self-hosting from the silicon level.",
+    "A copy constructor that forwards to the destructor.",
+    "Automatically generated."
+  ],
+  "pack": {
+    "id": "NFAX9",
+    "name": "Cards Against Compilers"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 36,
+    "total": 46
+  },
+  "dateStoredMs": 1588377457085
+}

@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "Oh her, she's a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on The Jeremy Kyle Show: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_it's finger lickin' good!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Double cheese burkah.",
+    "Maggot infested chicken.",
+    "Greasy catbab.",
+    "Katie Hopkins look-a-like-o-gram.",
+    "Addicted to bacon.",
+    "Gregg's bakery fatty model.",
+    "Fish n chip shop dustbin.",
+    "Afterbirth breakfast roll.",
+    "Cock juggling thundercunt.",
+    "Incest saved my family.",
+    "Bat shit crazy bitch!.",
+    "Choked to death by a twelve inch dildo.",
+    "My sister claims Income Support whilst being a street hooker.",
+    "Walking STI disease spunk bucket.",
+    "Tantric sex left her cunt like a punched lasagne."
+  ],
+  "pack": {
+    "id": "PAV7P",
+    "name": "Britain Hates Normality"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 15,
+    "total": 18
+  },
+  "dateStoredMs": 1589049964798
+}

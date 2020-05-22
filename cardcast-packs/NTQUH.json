@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "_ killed Lucio.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Julian.",
+    "Lucio.",
+    "Mercedes & Melchior.",
+    "Community Theater Lucio.",
+    "Mazelinka.",
+    "Pepi.",
+    "Asra's ancient moldy sandwich.",
+    "Nadia.",
+    "Wine Dad Valerius.",
+    "Asra.",
+    "Faust.",
+    "Portia."
+  ],
+  "pack": {
+    "id": "NTQUH",
+    "name": "The Arcana Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 12,
+    "total": 13
+  },
+  "dateStoredMs": 1588668966142
+}

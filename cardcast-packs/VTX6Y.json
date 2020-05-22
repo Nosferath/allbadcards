@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Oh, you've _, I don't like it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were absolutely _. And ya know what, so was I.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _ on the inside.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next stop  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the Doctor and I just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And whatever you do don't _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Creating crop circles to call the doctor.",
+    "A big blue box.",
+    "Pre-revolutionary France on a spaceship.",
+    "GERONIMOOOOOO.",
+    "So is your dad.",
+    "Cuz I don't want to go.",
+    "In-tru-da window.",
+    "Mr. thiccity thicc thicc.",
+    "Getting shot by your wife, in front of your wife, who then proceeds to try and kill your wife, while your best friend is off to the side pregnant with your wife.",
+    "Turned it off and on again.",
+    "Been oot and aboot.",
+    "Thiccania.",
+    "Doctor's sass."
+  ],
+  "pack": {
+    "id": "VTX6Y",
+    "name": "Doctor Who Expansion Pack"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 13,
+    "total": 20
+  },
+  "dateStoredMs": 1588898290486
+}

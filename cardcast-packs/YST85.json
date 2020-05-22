@@ -1,0 +1,270 @@
+{
+  "black": [
+    {
+      "content": "A célom az,hogy _ legyek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A szemébe néztem, és láttam megcsillanni benne a régi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem félek semmilyen embertöl. De ez _ ,ez megrémít.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Csak annyit kérdezek a válaszra várva. _ legyünk vagy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Anyádnak sok a _ de apádnak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiváló játékszer lehet a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Piszkos fantáziáim a _ szolnak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Só, cukor és minden _. Ebböl lettek a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Semmi sem fáj jobban mint a _ elvesztése.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Egy _ mindig jo ajándéknak bizonyul.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Semmihez sem fogható a _ édes illata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ajándék _ ne nézd a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Minden álmom _ -vé válni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ne a _ alapján itéld el a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fennhordja a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ forgatás müvészetét már évek óta gyakorlom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Innentöl csak a _ -ban hiszek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ne mond azt, hogy mindent láttál a világból amit nem láttál _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az élet legfontosabb pillanatai mindig egy _ kezdödnek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nehéz fogást találni egy megtermett _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magyarország következő miniszterelnöke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A világnak szüksége van mégegy _ -re.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aki másnak  _  maga _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ha tisztításról van szó én a _ ajánlom.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Soha ne becsüld alá a _ erejét.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Többet _ mint _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A kockák is kiveszik a részüket a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kétség sem férhet ahoz, hogy egy _ vagy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha megdobnak _ dobj vissza _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Semi nem pótolhat egy kis _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiskoromban mindig is vonzottak a _ -ok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disney adaptáció: A kis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem lehetsz _ ha nincs _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nem minden _ ami _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nincs élet _ nélkül.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ártatlan voltam míg rá nem jöttem mi is az a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A fény az alagút végén csupán _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ mesterségét csak arra kiképzettet adhatják át.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Semmi sem jobb egy _ -nál.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az orvosok szerint a _ csak _ -al gyógyitható.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mior egyedül vagyok itthon, csak _ gondolok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha _ hatalomra kerülne, _ lenne.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ez nem egy korszak anya! Én egy _ vagyok.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Életem mélypontja a _ felfedezése volt",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem vagyok  rasszista de ha _ akkor legyen _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sokat akar a _ , de nem birja a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hiányzik _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha _ harcolna _ ellen,azt megnézném.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nem mindegy, hogy _ vagy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ábel szerint a jo móka és jo idötöltés között az a külömbség, hogy hova dugod a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Esernyö.",
+    "Eminem.",
+    "Esöfelhö.",
+    "Eröszaktevö."
+  ],
+  "pack": {
+    "id": "YST85",
+    "name": "hungarian deck"
+  },
+  "quantity": {
+    "black": 50,
+    "white": 4,
+    "total": 54
+  },
+  "dateStoredMs": 1589575945530
+}

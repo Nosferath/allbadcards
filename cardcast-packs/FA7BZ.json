@@ -1,0 +1,92 @@
+{
+  "black": [
+    {
+      "content": "Why did Jo cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Cani cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your moms a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the chicken cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "F is for _ who do stuff together, U is for _ and _, N is for anywhere and anytime at all DOWN HERE IN THE DEEP BLUE SEA",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Why did Ethan cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Enoch cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Rowan cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Sam cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Reuben cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Trevor cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Alex cross the road? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder where my black dad went... _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "how much money? all for _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's racist? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "This is a black card in disguise."
+  ],
+  "pack": {
+    "id": "FA7BZ",
+    "name": "The Black card pack"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 1,
+    "total": 16
+  },
+  "dateStoredMs": 1589277059881
+}

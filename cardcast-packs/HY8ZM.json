@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "Werewolves are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Witches are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skeletons are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bats are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ghosts are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black cats are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zombies are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jack the Skeleton.",
+    "Pumpkins.",
+    "Halloween.",
+    "Candy corn.",
+    "Jack-o-Lanterns.",
+    "Frankenstein.",
+    "Casper the Friendly Ghost.",
+    "Trick-or-treating.",
+    "Dracula."
+  ],
+  "pack": {
+    "id": "HY8ZM",
+    "name": "WCRPF (Halloween)"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 9,
+    "total": 16
+  },
+  "dateStoredMs": 1588824514513
+}

@@ -1,0 +1,188 @@
+{
+  "black": [
+    {
+      "content": "When someone sits next to me on the bus, I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just cancelled their headlining slot at Øyafestivalen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Norwegian word for boyfriend/girlfriend, kjæreste, literally means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ man suspected of intoxication driving",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fjord Line is asking the authorities to open _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "3 things you need for the garden party this summer are _ , _ & _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "With my _ covering both of my I am too scared to have a _ at you now.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The farmer agrees with the weather prophet: _ is the explanation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The headliner of Roskilde this year is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tynset hospital has had regular reception of _ during the corona crisis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May 17 this year will be very _ because of the corona virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Norwegian people didn’t used to be so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Norwegians like to tell stories of their exploits and how they fought bravely against the _ occupation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Norwegian language doesn’t have a lot of words, but it has _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is where travellers stop to buy a special _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Team Me's 4th album is soon to be released and features the hit single _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The name of the next super star band to come out of Elverum is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Norway is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oslo is called the _ capital of the world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most Norwegians’ purpose in life is to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Actually if there’s one thing Norwegian people love more than making fun of themselves it’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The true meaning of janteloven is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most Norwegians believe that diseases can be cured with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Norway is the world's most _ country.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Going to Roskilde festival and not remembering a single band.",
+    "Gule böj.",
+    "The Norwegian inhaled 'ja'.",
+    "Nachspiel.",
+    "The pure joy of buying alcohol on a sunday.",
+    "Hedmark.",
+    "Vorspiel.",
+    "Snus.",
+    "A mid-week trip to vinmonopolet.",
+    "Going to the cabin in the middle of the mountains with no electricity or running water.",
+    "Utepils.",
+    "Russtog.",
+    "The harsh reality of Norwegian society.",
+    "Ole Torstein's long flowing mane.",
+    "Bergen.",
+    "Physical exercise, codliver oil, and headache-pills.",
+    "Koselig.",
+    "The price of alcohol in Norway.",
+    "Where ever all the brown cheese comes from.",
+    "Trondheim.",
+    "Ole Torstein.",
+    "Talking to strangers.",
+    "Going home from the bar without saying goodbye.",
+    "Not holding the door open for the next person.",
+    "Elverum.",
+    "The Eurovision Song Contest.",
+    "Oslo.",
+    "Russ.",
+    "The viking overlords.",
+    "Bislett Kebab at four in the morning.",
+    "Janteloven.",
+    "Landsmans betjent.",
+    "Sharing a baconpølse with Prince Haakon.",
+    "Finding the perfect song for the nachspiel.",
+    "Norway.",
+    "The Norwegian reach.",
+    "Buckets of brunost.",
+    "Drinking fish oil by the jug full.",
+    "Finding a snus in your bed.",
+    "Norway: the land where polar bears roam free.",
+    "The world's biggest moose.",
+    "Helgefylla.",
+    "Being incapable of queueing.",
+    "The 1994 winter olympics in Lillehammer.",
+    "Sitting next to someone on the bus.",
+    "The baffling ability for Norwegians to brush anything off.",
+    "Eye contact during sex.",
+    "A  lycra-clad man pushing himself up a hill on roller skis.",
+    "Cute little houses.",
+    "Dance classes with ole torstein.",
+    "Pølser.",
+    "Beating Magnus Carlsen in a game of tug of war."
+  ],
+  "pack": {
+    "id": "JKS9W",
+    "name": "Norway"
+  },
+  "quantity": {
+    "black": 24,
+    "white": 52,
+    "total": 76
+  },
+  "dateStoredMs": 1589415400410
+}

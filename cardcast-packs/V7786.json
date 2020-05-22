@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "The 2nd Brigade are good at _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you blow that _ in my face again, I will _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing except a battle _ can be half as melancholy as a battle _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How many new recruits does it take to make a _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats that noise coming from the end tent? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the Napoleonic Association  were _ then we would be all happy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drummer! If you cannot keep the pace you will _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The battle of Waterloo was won on the playing fields of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rubbing a rifle barrel with _ causes _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bugle calls are good for _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The scum of the earth, but what fine _ we have made them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can use a sword bayonet for _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black powder and _ is a good mix for new recruits.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is not the business of _ to shoot one another.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ronald stealing all the silverware.",
+    "Si's special grog issue.",
+    "The Brigade commander.",
+    "The 2/95th Rifles.",
+    "Corporal Pratt.",
+    "2 foot 6 high dwarfs.",
+    "Doug falling down another rabbit hole.",
+    "Sergeant and corporal.",
+    "Waterloo.",
+    "Bugle.",
+    "Napoleonic Association.",
+    "The 68th Regiment.",
+    "Sergeant Dines.",
+    "The 33rd Regiment.",
+    "Laughing, puking and farting all at the same time.",
+    "Almedia.",
+    "Using a sword bayonet hilt as a butt plug.",
+    "Chosenman.",
+    "The 3/95th.",
+    "Doug's special watershed puppet show on the tent canvas.",
+    "Franks sex face.",
+    "Sjt shouty losing his shit.",
+    "Catching your foreskin on a bramble bush having a piss.",
+    "Durrant shitting in the woods with people watching.",
+    "Franks special sex face.",
+    "Camp followers doing the can-can.",
+    "Two Rifleman and a camp follower.",
+    "Using a ram rod to plug your file partners butt because he has the shits."
+  ],
+  "pack": {
+    "id": "V7786",
+    "name": "2/95th cards"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 28,
+    "total": 42
+  },
+  "dateStoredMs": 1589051561885
+}

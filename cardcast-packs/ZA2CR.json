@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "David ist so fett, weil_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ervin ist ein Freund von allen Türken und Albanern, da er immer_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thomas ist nicht nur fett und hässlich sondern hat auch_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tobias entschied sich dazu schwul zu werden, da_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_und_hat David Bauer schon mal auf seiner Speisekarte stehen",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tobias' neuer Roman heisst Tobias und die 7_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lorenz ist seit 4 Jahren clean, doch das nur, weil_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thomas trägt ne Brille, denn er_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matthias hat so \"hübsche\" Ohren, weil_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ervin schlägt seine Schwester, weil_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Einige nennen ihn Ervin Krasniqi doch ich nenne ihn_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lorenz kann nichts außer_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tobias wurde von seiner Dorfgemeinde dazu verurteilt_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZA2CR",
+    "name": "Karten Deck"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 0,
+    "total": 13
+  },
+  "dateStoredMs": 1589573494081
+}

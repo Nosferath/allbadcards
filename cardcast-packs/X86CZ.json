@@ -1,0 +1,111 @@
+{
+  "black": [
+    {
+      "content": "I hate Pete for stealing my voters. I'll use _ to get back at him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cynthia and I didn't do that much, other than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happens when there's no birth control? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only thing hotter than Beto's face is  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's bring Foss back and sing about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no. Artemis threw up _ on the carpet again!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When phonebanking. never talk about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Along with trolling and hate comments, Beto plans to remove _ from the internet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beto's face is more angular than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All my supporters have a purpose, except this one: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hell yes, I'm gonna take your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing beats a meal at Whataburger after a long day  of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Blue sweat soaked shirts.",
+    "Calves cramping.",
+    "Beto's angular nose.",
+    "Losing to Ted Cruz.",
+    "The 24-hour livestream.",
+    "El Paso.",
+    "Jen O’Malley Dillon.",
+    "Molly.",
+    "Beto O’Raw Me.",
+    "6'4.",
+    "Going to every county in Texas.",
+    "Beto's pencil dick.",
+    "Beto's cult like following.",
+    "Ulysses.",
+    "Amy.",
+    "All 254 counties.",
+    "Foss.",
+    "Artemis.",
+    "Cynthia, the side hoe.",
+    "Chris Evans.",
+    "Beto's teeth.",
+    "AR-15's.",
+    "Cynthia Cano.",
+    "Forty kids.",
+    "Skateboarding outside a Whataburger.",
+    "Wayne Messam.",
+    "Joe Biden.",
+    "Phonebanking.",
+    "Beto O’Dork.",
+    "Henry.",
+    "Rob Flaherty.",
+    "Beto saying fuck.",
+    "Jelly beans.",
+    "Weekly zoom calls with Beto.",
+    "Amy's $80 serum."
+  ],
+  "pack": {
+    "id": "x86cz",
+    "name": "Beto"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 35,
+    "total": 47
+  },
+  "dateStoredMs": 1588737957956
+}

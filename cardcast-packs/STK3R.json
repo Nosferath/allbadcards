@@ -1,0 +1,113 @@
+{
+  "black": [
+    {
+      "content": "_ and _ is cannon.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dammit! Why did I use _ as a weapon?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes all the girls come to the yard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leave the _ alone, Jeff.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leave the _ alone, Jeff.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do not trespass on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 's brother is pretty hot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the murderer and _ is the victim.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeff and _ go together.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just stop fighting and give me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why must we fight over _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The wooded areas are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did _ put _ in the blender?!",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Creepypasta.",
+    "Jane.",
+    "Smile jpg.",
+    "Spooky scary skeletons.",
+    "Fanfiction.",
+    "Jeff.",
+    "Fangirls.",
+    "Jeff the killer.",
+    "Spooky scary skeletons.",
+    "Slenderman.",
+    "Twice killed.",
+    "Fanboys.",
+    "Caught on fire.",
+    "Ben drowned.",
+    "Herobrine.",
+    "Smile dog.",
+    "Death center.",
+    "Drowned.",
+    "A disaster.",
+    "Sally.",
+    "Laughing jack.",
+    "The knife that killed my family.",
+    "The rake.",
+    "Stabbed.",
+    "Eyeless jack.",
+    "Spooky scary skeletons.",
+    "Woods.",
+    "Jane the killer.",
+    "Killing the victim.",
+    "Eight pages.",
+    "Spooky scary skeletons.",
+    "Spooky scary skeletons."
+  ],
+  "pack": {
+    "id": "STK3R",
+    "name": "Creepypasta"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 32,
+    "total": 45
+  },
+  "dateStoredMs": 1589378729368
+}

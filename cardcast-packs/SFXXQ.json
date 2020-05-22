@@ -1,0 +1,89 @@
+{
+  "black": [
+    {
+      "content": "_ is the reason for the next economic crisis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would like to make _ into a keychain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Emma's death, they found a safe in her house containing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Albert is allergic to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the pursuit of academic excellence, Valerie had succumbed to the pressures of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Simone's favourite ice cream flavour.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to unknown motives, Mark was found entering the a sex shop purchasing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next version of grand theft auto will feature _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Joanne probably suffers from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the grossest.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Miss Rona herself.",
+    "Coach Eugene.",
+    "The demonic laugh from Valerie's vocal cords.",
+    "Sarah's long & ever-growing legs.",
+    "The bus bay filled with cripples.",
+    "The strange sexual tension between Gian Sen and Hui Ying.",
+    "Perry's female voice box.",
+    "Crying every time you release a bowling ball.",
+    "The Chinese language.",
+    "A sick rap battle.",
+    "Naming each one of Simone's braces brackets.",
+    "Pascal but really tall.",
+    "Ernest's dominatrix persona.",
+    "Athan's puzzling sexuality.",
+    "Fantasising about being Albert's floorball stick.",
+    "Joel's secret desire to be a commando.",
+    "Mark's tasteful thighs.",
+    "A Raffles Bowling sports bra.",
+    "The Mariah Perry.",
+    "Emma's dead dance career.",
+    "Coach Eugene's wife.",
+    "Danika's virginity.",
+    "The undying love Valerie has for Zac Efron."
+  ],
+  "pack": {
+    "id": "SFXXQ",
+    "name": "bowling against humanity 3"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 23,
+    "total": 33
+  },
+  "dateStoredMs": 1589034055197
+}

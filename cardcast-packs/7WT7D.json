@@ -1,0 +1,955 @@
+{
+  "black": [
+    {
+      "content": "Heute habe ich schon _ erreicht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe letzte Nacht fünf Stunden mit Internettrollen über _ gestritten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen eines PR-Debakels bietet Aldi nun nicht mehr _ an.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ihr ihrem neuen Kinofilm schlägt sich die Eisprinzessin Elsa das erste Mal mit _ herum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hat zum Ende meiner letzten Beziehung geführt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Warum tut mir alles weh? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ - die perfekte Beschäftigung während langweiligen Vorträgen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "RTLs neuste Fernsehshow zeigt, was passiert, wenn _ und _ zusammentreffen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: Toll in der Theorie, ein ziemliches Durcheinander in der Praxis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Für mehr _ in der Öffentlichkeit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Woher kommt der Fleck auf meiner Couch? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Während die USA und Russland den Mond erobern wollten, haben die Franzosen ihr Geld in die Erforschung von _ gesteckt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - da muss ich direkt an deine Mutter denken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das ist mein _-Outfit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe den schlimmsten Tag aller Zeiten!!! #_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In 1000 Jahren, wenn Geld aus Papier nicht mehr existiert, wird _ unsere einzige Währung sein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gibt es jetzt auch als Familienpack im Sonderangebot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieber _ als _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ - gefürchtet mit 5, begehrt mit 18.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn du in Deutschland aufgewachsen bist, hast du _ mindestens einmal erlebt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schritt 1: _. Schritt 2: _. Schritt 3: Profit!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wir haben nichts zu fürchten außer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scharade war für mich für immer runiniert, als meine Mutter _ nachspielen musste.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit _ bekommst du immer jemanden ins Bett.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - da wird mir warm ums Herz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer nichts mehr zu verlieren hat, kann in _ den letzten Ausweg finden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jedes Jahr betrinkt sich mein Onkel und erzählt die Geschichte von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In einen Tweet hat Donald Trump _ für sein Versagen verantwortlich gemacht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe 99 Probleme, aber _ ist keins davon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gibt es tonnenweise im Himmel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im siebten Kreis der Hölle müssen die Sünder _ für alle Ewigkeit tragen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alles ist besser mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Während der Fastenzeit verzichte ich auf _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neu auf Kickstarter: _ - das Brettspiel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe nie in meinem Leben härter gelacht, als als ich zum ersten Mal _ gesehen habe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am achten Tag erschuf Gott _. Er ist seitdem nicht mehr gesehen worden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - so kann der Tag beginnen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich schwöre, es gibt nicht eine Person in diesem Land, die _ nicht hasst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich liebe den Geruch von _ am Morgen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rentner haben _ völlig verlernt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer hätte vermutet, dass die Invasion der Außerirdischen durch _ leicht vereitelt werden könnte?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die 30er Jahre werden oft als Goldenes Zeitalter von _ angesehen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein Leben ohne _ ist möglich, aber sinnlos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen _ kann ich nachts nicht schlafen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist nichts, was du nicht mit _ lösen kannst.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Du hast nicht wirklich gelebt, bis du _ und _ zusammen erlebt hast.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Egal wie man es betrachtet, letztendlich ist _ für _ verantwortlich.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist meine schlimmste Angewohnheit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn Gott nicht gewollt hätte, dass wir uns an _ erfreuen, hätte er uns nicht _ gegeben.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Am liebsten rede ich mit meinen Kindern über _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Lebensphilosophie: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gibt _ eine ganz neue Bedeutung.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Die Straße zum Erfolg ist gepflastert mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ruiniert unser Land.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dank _ halte ich meine Beziehung am Laufen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Für was hälst du mich eigentlich? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ein Goldtopf an einem Ende des Regenbogens ist, was ist dann am anderen? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein erfolgreiches Jobinterview beginnt mit einem festen Händedruck und endet mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Plan für die Weltherrschaft beginnt mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe auf die harte Tour gelernt, dass man einen trauernden Freund nicht mit _ aufheitern kann.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was stinkt hier so? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eine Wahrsagerin sagte mir, ich würde ein Leben voller _ leben und sie hatte Recht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um sein Land wieder unter Kontrolle zu bringen, setzt Assad auf _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Kölner Dom wurde nur gebaut, um als Tempel für _ zu dienen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die UNO hat _ zu einem grundlegendem Menschenrecht erklärt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ führt grundsätzlich zu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Guten Freunden gibt man _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statt Kohle gibt der Weihnachtsmann bösen Kindern nun _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Angela Merkel hat _ zur Chefsache erklärt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die AfD fordert in ihrem Wahlprogramm mehr _ für Deutsche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dank _ hatte ich ein verlängertes Wochenende.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich trinke, um _ zu vergessen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Probleme mit _? Versuche es mit _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ - bei Risiken und Nebenwirkungen fragen Sie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "IS verspricht Selbstmordattentätern neuerdings _ statt 72 Jungfrauen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was fände Oma verstörend und gleichzeitig sonderbar charmant? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Bahnstreik dieser Woche wurde durch _ ausgelöst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Egal wie oft ich es sehe, _ bringt mit immer eine Träne in mein Auge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich qualifiziere mich für diesen Job, weil ich mehrere Jahre Erfahrung auf dem Gebiet von _ habe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wer _ kontrolliert, kontrolliert die Welt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich mochte _, bevor es cool war.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was ist Liebe ohne _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mama sagt immer, das Leben sei wie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um mehr Besucher anzulocken, hat das Deutsche Museum eine interaktive Ausstellung über _ eröffnet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn Kinder _ sehen, bekommen sie ein Leuchten in den Augen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - von Kindern getestet, von Müttern für gut befunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Demnächst in der Hamburger Elbphilharmonie: _ - Das Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papa, warum weint Mama? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich weiß nicht, welche Waffen im nächsten Krieg zur Anwendung kommen, wohl aber, welche im übernächsten: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In seiner Oster-Ansprache betonte der Papst die Wichtigkeit von _ als christlichen Wert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist was Frauen wollen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ brachte die Orgie zu einem schlagartigen Stillstand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - furchtbare Tragödie oder sexuelle Gelegenheit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim Sex denke ich gerne an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie kompensiere ich meinen winzigen Penis? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Scientology.",
+    "Bambis Mutter.",
+    "Donald Trumps Toupet.",
+    "Eine vollständige Kopie des gesamten Internets.",
+    "Ein Pantomime mit Tourette-Syndrom.",
+    "Genitalpiercings.",
+    "Flugsaueriereier.",
+    "Vaginalsekret.",
+    "Eurovision Song Contest.",
+    "Juden.",
+    "Dieses Teil, das deine Muskeln mit Elektroschocks aufbaut.",
+    "Ritalin.",
+    "Chemtrails.",
+    "Pubertierende Mädchen.",
+    "Der weibliche Orgasmus.",
+    "Geruch von Fettfilz unter der Gürtellinie.",
+    "Blutiger Auswurf.",
+    "Weihnachtsbescherung im Kinderheim.",
+    "Juden.",
+    "Eine aufgedonnerte Türkin.",
+    "Das Passwort deiner Mutter.",
+    "Sonnenschein und Regenbögen.",
+    "Vorzugeben, glücklich zu sein.",
+    "Das bedingungslose Grundeinkommen.",
+    "Männerquote.",
+    "Katapulte.",
+    "Freunde mit einer Skimaske und Kettensäge überraschen.",
+    "Die Frau eines Freundes angraben.",
+    "Die vier Reiter der Apokalypse.",
+    "Sich nackt ausziehen und den Kinderkanal ansehen.",
+    "Bibel-Fanfiction.",
+    "Nutten verarschen.",
+    "Sklaven.",
+    "Die Rekolonialisierung Afrikas.",
+    "Bayern.",
+    "Eine arschfreie Cowboyhose.",
+    "20 Euro.",
+    "Entführung durch Außerirdische.",
+    "YOLO.",
+    "Männer im Strin-Tanga auf dem Kinderspielplatz.",
+    "Ein Leck in der Gasleitung.",
+    "Das Leben in vollen Zügen genießen.",
+    "Kostenlose Süßigkeiten von Fremden.",
+    "Die GEZ.",
+    "Schlimme Laser-Haarentfernungsunfälle.",
+    "Chilisoße als Gleitgel verwenden.",
+    "Selbsthass.",
+    "Nach dem Kotzen weitersaufen.",
+    "Ein toter Anhalter im Kofferraum.",
+    "Nackt auf dem McDonalds-Parkplatz aufwachen.",
+    "Das Kleine 2.0.",
+    "Fake-Taxi.",
+    "Eiterbeulen.",
+    "Fake News.",
+    "Sich mit Mundwasser betrinken.",
+    "Pummeleinhorn.",
+    "Vorgeben zu verhüten.",
+    "Nukleare Winter.",
+    "Furzen und weggehen.",
+    "Rückwärtseinpark-Korrigierer.",
+    "Kondomballontiere.",
+    "Free Hugs.",
+    "Kleber schnüffeln.",
+    "Passiv-aggressive Post-It-Notizen.",
+    "Fangfragen in der Abschlussprüfung.",
+    "Subtiles Fummeln.",
+    "RTL 2.",
+    "Das Michelin-Männchen.",
+    "Einen Orgasmus vortäuschen.",
+    "Frodo und Sam.",
+    "Vaterkomplexe.",
+    "Die deutsche Bahn.",
+    "1.000 schottische Krieger, die gleichzeitig ihre Kilts ausziehen.",
+    "Dicke Kinder.",
+    "Zivile Verluste.",
+    "Hipster mit ihren iPhones.",
+    "Kundenservicemitarbeiter.",
+    "Gerhard Schröder.",
+    "Samuel L. Jackson.",
+    "Eltern wegen ihres weinenden Babys an den Pranger stellen.",
+    "Fehlerhafte Brustimplantate.",
+    "Gollum.",
+    "Intravenöse Koffeinzufuhr.",
+    "Ein Vodoo-Fluch.",
+    "Ethnische Säuberung.",
+    "Spermaschweinchen.",
+    "Eine peinliche Nachricht auf dem Anrufbeantworter hinterlassen.",
+    "RoboCop.",
+    "Wenn beim Furzen Land mitkommt.",
+    "Wikipedia bearbeiten, um einen Streit zu gewinnen.",
+    "Deutschland.",
+    "Impotenz.",
+    "Unterwäsche auf links tragen, um nicht waschen zu müssen.",
+    "Dieser schwule Teletubby.",
+    "Brexit.",
+    "Ein bisschen gottverdammte Ruhe und Frieden.",
+    "Eine Kühltasche voller Organe.",
+    "Jagdunfälle.",
+    "Schwule.",
+    "Hartz-IV-Empfänger.",
+    "Ein zartes Streicheln der Oberschenkel-Innenseite.",
+    "Das Krümmelmonster.",
+    "Ein Zigeunerfluch.",
+    "Rassismus.",
+    "Kapfjetpiloten mit Narkolepsie.",
+    "Graf Dracula.",
+    "Sharknado.",
+    "Alkoholsucht.",
+    "Genmanipulierte Angriffsschildkröten mit Säureatem.",
+    "Frauenwahlrecht.",
+    "Pelzträger mit Farbe bewerfen.",
+    "Intim-Piercings.",
+    "Germany's next Topmodel.",
+    "Nananana Batman.",
+    "Eine furzende Antilope.",
+    "Eine ausgedruckte Version von Google Earth.",
+    "Muttertag.",
+    "Ein Zigarettenautomat im Wasserstoffzeppelin.",
+    "Ahnungsloses Fingern.",
+    "Gutmenschen.",
+    "Waldorfschulen.",
+    "Zentauren.",
+    "Placebo-Anti-Baby-Pillen.",
+    "Sich einscheißen.",
+    "Inkontinenz.",
+    "Genitalläuse.",
+    "Grumpy Cat.",
+    "Maximalpigmentierte Mitbürger.",
+    "Seinen eigenen Tod vortäuschen.",
+    "Ein Atommüllendlager.",
+    "Elektroschock-Therapie.",
+    "Vorzeitige Ejakulation.",
+    "Tränengas im Kindergarten.",
+    "Hormonstau.",
+    "Regierungspropaganda.",
+    "Juden.",
+    "Richtig high werden.",
+    "Eigenurin-Behandlungen.",
+    "Wahrheitsserum.",
+    "Riesige mutierte Kakerlaken.",
+    "Fleißige Beamte.",
+    "Fremdgehen.",
+    "Wichsvorlage.",
+    "Mundgeruch.",
+    "Die Alternative für Deutschland.",
+    "Donaudampfschifffahrtsgesellschaftskapitän.",
+    "Kommen und \"Erster!\" schreien.",
+    "Prankcalls bei der NSA.",
+    "Schimpansen mit mangelnder Selbstbeherrschung.",
+    "Eine Erektion, die mehrere Stunden anhält.",
+    "Barack Obama.",
+    "Eine halbe Stunde zu spät kommen.",
+    "Ein Nerdgasm.",
+    "Reiche Kinder.",
+    "In den Sonnenuntergang reiten.",
+    "Oma.",
+    "Eheliche Pflichten.",
+    "Ein Hirntumor.",
+    "Verschwörungstheorien.",
+    "Stephen Hawking, wenn er schmutzige Sachen sagt.",
+    "Brunch.",
+    "Noch ein verdammter Superheldenfilm.",
+    "Viagra.",
+    "Halbherziges Vorspiel.",
+    "Das Oktoberfest.",
+    "Freundschaft +.",
+    "Stiftung Warentest.",
+    "Die schwarze Seele von Markus Söder.",
+    "Ein Swingerclub mit Kinderbetreuung.",
+    "500 Gramm feinster Schnee.",
+    "Kinderschönheitswettbewerbe.",
+    "Ein Dreirad mit Chromfelgen.",
+    "Einem Kind die Süßigkeiten wegnehmen.",
+    "Mein Beziehungsstatus.",
+    "Taubstummen ein Ständchen bringen.",
+    "Whiskas.",
+    "Mein Browserverlauf.",
+    "Ganzkörperenthaarungen.",
+    "Mehr Bier.",
+    "Zu viel Haargel.",
+    "Trichtersaufen.",
+    "Auf der Arbeit mastubieren.",
+    "Scheinheilige Trauer.",
+    "Ramin.",
+    "Gebrauchte Damenunterwäsche aus dem Automaten.",
+    "Nymphomaninnen.",
+    "Zusammen duschen.",
+    "Zwei Zwerge, die zusammen in einen Eimer scheißen.",
+    "Senioren in den Hintern kneifen.",
+    "In einen Lava-Pool fallen.",
+    "Candle-Light-Dinner im Schlossgarten.",
+    "Sitzblockade im Kreisverwaltungsreferat.",
+    "Analphabeten.",
+    "Ein dicker Mann mittleren Alters in einem zu kleinen Sailor-Moon-Kostüm.",
+    "In Gebärdensprache stöhnen.",
+    "Zweckentfremdetes Stangengemüse.",
+    "Doppelkorn, der dir die Falten aus dem Sack zieht.",
+    "Tierbefreiung im Seuchenlabor.",
+    "Hello-Kitty-Hundekotbeutel.",
+    "Gruppenkuscheln.",
+    "Katzenbabys.",
+    "Vodka.",
+    "Eispickel-Lobotomie.",
+    "Ein rechtschaffender Cop, der nichts zu verlieren hat.",
+    "Mehrfachbehinderte.",
+    "Grausamer Menschenmampfer.",
+    "Weihnachtsplätzchen mit Knoblauch und Tabasco.",
+    "Die Augsburger Puppenkiste.",
+    "Schwanzwedeln.",
+    "Osteuropäische Volksmusik.",
+    "Brustmilch-Eiscreme.",
+    "Fette Schenkel.",
+    "Im Gefängnis die Seife fallen lassen.",
+    "Die längste Praline der Welt.",
+    "Drogenkartelle.",
+    "Essbare Unterwäsche.",
+    "Schrödingers Katze.",
+    "Masernpartys.",
+    "Ein vollständig bekleideter weiblicher Videospielcharakter.",
+    "Globale Erwärmung.",
+    "Angela Merkel.",
+    "Recep Tayyip Erdogan.",
+    "Etwas anlecken, um es zu markieren.",
+    "Mädels vor der Abtreibungsklinik aufreißen.",
+    "Russische Regierungskritiker.",
+    "Harry Potter-Erotik.",
+    "Eine Jungfrau in einen Vulkan werfen.",
+    "Einen Ständer kaschieren.",
+    "Die Village People.",
+    "Dinosaurierangriffe.",
+    "Netflix & Chill.",
+    "Ein Kondom ausleihen und gebraucht zurückgeben.",
+    "Die Verletzung grundlegender Menschenrechte.",
+    "Helmut Kohl.",
+    "Spongebob Schwammkopf.",
+    "Pokemon Go.",
+    "YouTube.",
+    "Obszöne Yogaposen.",
+    "Um drei Uhr morgens nackt Parkour laufen.",
+    "USA.",
+    "Selbstfahrende Autos.",
+    "Aufgewärmter, vier Tage alter Kaffee.",
+    "Die wahre Bedeutung Weihnachtens.",
+    "Bis zur Hochzeit warten.",
+    "Vor dem Orgasmus rausziehen.",
+    "Gutes aus einem viertelliter Milch.",
+    "Natursekt.",
+    "Gentrifizierung.",
+    "Menstruation.",
+    "Sich jemanden schöntrinken.",
+    "Kondome mit Geschmack.",
+    "Cards against humanity.",
+    "Terroristen.",
+    "Das Vierte Reich.",
+    "Wirtschaftsflüchtlinge.",
+    "Resteficken.",
+    "Kinderherzen.",
+    "Typen, die nicht anrufen.",
+    "Im Kino einen runtergeholt bekommen.",
+    "Ecstasy.",
+    "Die BILD-Zeitung.",
+    "Der Nationalsozialistische Untergrund.",
+    "Nächtliche Ausscheidungen.",
+    "Geschichtsrevisionismus.",
+    "Ihr den Hintern versohlen.",
+    "Über den Fight Club reden.",
+    "Meine heiße Cousine.",
+    "Die Tränen eines Clowns.",
+    "Die Kinder in der Badewanne ertränken.",
+    "Sektenanführer.",
+    "Neil Patrick Harris.",
+    "Die Matrix.",
+    "Software-Absturz im Herzschrittmacher.",
+    "Deine Mudda.",
+    "Der Geruch von faulen Eiern.",
+    "Gesichtsmalerei mit Permanentfarben.",
+    "Der Liebhaber deiner Mutter.",
+    "Deiner Partnerin einen Dreier mit ihrer Mutter vorschlagen.",
+    "Piepen beim Rückwärtsgehen.",
+    "One-Night-Stand.",
+    "Facebook.",
+    "Arnold Schwarzenegger.",
+    "Islamisierung des Abendlandes.",
+    "Biologische Kampfstoffe.",
+    "Fanatische Nickelback-Fans.",
+    "Niveaulimbo.",
+    "Toilettenpapier mit Juckpulver.",
+    "Die genetische Verbesserung der Menschheit.",
+    "Blinden in Bein stellen.",
+    "Meister Proper.",
+    "Magic Mushrooms.",
+    "Ödipuskomplexe.",
+    "Menschenopfer.",
+    "Östrogen.",
+    "Vorhaut.",
+    "Chemische Kastration.",
+    "Einen Nierenstein ausscheiden.",
+    "Analpolonaise.",
+    "Ein epileptischer Anfall bei der Bombenentschärfung.",
+    "Eine salzige Überraschung.",
+    "Feuchte Träume.",
+    "Minions.",
+    "Auf die dritte Welt scheißen.",
+    "Sich selbst einen blasen.",
+    "Sich mit Fremden im Internet streiten.",
+    "Furchtbar kitischige Pärchen.",
+    "Ein Mann mittleren Alters auf Rollschuhen.",
+    "Arschgeweihe.",
+    "Eine mit Waffen vollgestopfte Tasche im Taxie liegen lassen.",
+    "Weltfrieden.",
+    "Ins rote Meer stechen.",
+    "Christliche Werte.",
+    "Moderate Faschisten.",
+    "Hochzeit mit Disneymotiv.",
+    "Es von hinten besorgt bekommen.",
+    "Ein kuschelbedürftiger Grizzly.",
+    "Niger falsch aussprechen.",
+    "Postnatale Abtreibung.",
+    "Eine Alkoholvergiftung.",
+    "Nicolas Cage.",
+    "Horst Seehofer.",
+    "Hormonspritzen.",
+    "Hungersnot.",
+    "Dessous von KiK.",
+    "Blutige Damenbinden.",
+    "Die Macht.",
+    "Fahrerflucht unter Alkoholeinfluss.",
+    "Gummis mit Noppen.",
+    "Natürliche Selektion.",
+    "Castingshows.",
+    "Papst.",
+    "Ausschwitz.",
+    "Öffentliche Toiletten.",
+    "50 Shades of Grey.",
+    "Geruch von alten Leuten.",
+    "DLRH.",
+    "Halbherzige Kompromisse.",
+    "Asiaten, die kein Mathe können.",
+    "Heilige Gräulichkeit.",
+    "Eine Bürgerversicherung.",
+    "Vertretungslehrer.",
+    "Polizeigewalt.",
+    "Haschkekse auf dem Kirchenpicknick.",
+    "Ein Einlauf mit Mentos und Cola.",
+    "Süße, süße Rache.",
+    "FC Bayern-Fans.",
+    "Ein vernachlässigtes Tamagotchi.",
+    "Am Steuer einen geblasen bekommen.",
+    "Blackjack und Nutten.",
+    "Frauen in Joghurt-Werbespots.",
+    "Schluss machen per Twitter.",
+    "Der unausweichliche Hitzetod des Universums.",
+    "Gandhi.",
+    "Schinken!.",
+    "Autokannibalismus.",
+    "Sesamstraße.",
+    "Jesus.",
+    "Auspeitschungen.",
+    "Vladimir Putins Oben-Ohne-Photos.",
+    "Frauenquote.",
+    "Heiße Transvestiten.",
+    "Gasmasken.",
+    "Glückliche Afghanen.",
+    "Männliche Rückenbehaarung.",
+    "Theologiestudenten.",
+    "Zombie-Clowns.",
+    "Axe Body Spray.",
+    "Ein Niesfetisch.",
+    "Japanische Schulmädchen.",
+    "Deutschland GmbH.",
+    "Analperlenkette.",
+    "Sich in die Hose machen.",
+    "Chuck Norris.",
+    "Gleichgeschlechtlicher Einskunstlauf.",
+    "Gott.",
+    "Das Safeword vergessen.",
+    "Frauen am Steuer.",
+    "Latexhandschuhe.",
+    "Bergwanderung in High Heels.",
+    "Kartoffel.",
+    "Ein Moment der Stille.",
+    "Politische Flüchtlinge.",
+    "Linksträger.",
+    "Großmutter.",
+    "Akne.",
+    "Ein mit Katzenpisse geladener Supersoaker.",
+    "Antifa e.V.",
+    "Deine Hand auf die Schulter deines Urinalnachbarn legen.",
+    "Einen Haufen im Bällebad hinterlassen.",
+    "Durch die Vagina furzen.",
+    "Neonazis im Dönerladen.",
+    "Adolf Hitler.",
+    "AIDS.",
+    "Ihr den Arsch abwischen.",
+    "Ein 30cm langer Penis.",
+    "Ein realistischer Sexbot.",
+    "Der massive Penis von King Kong.",
+    "Ein Handjob in der U-Bahn.",
+    "Sich den Arsch mit 100-Euro-Scheinen abwischen.",
+    "Verpflichtende Homo-Ehe.",
+    "Omas Pornokiste.",
+    "Einen Furz, der Wellen in die Tapete schlägt.",
+    "Versehentlich eine Sexnachricht an deine Mutter schicken.",
+    "Bilder von Titten.",
+    "Deinem Haustier beim Sex zusehen.",
+    "Sich heimlich den Arsch kratzen.",
+    "Sexuell anzügliche Weihnachtsdekoration.",
+    "Pornodarsteller.",
+    "Der NPD-Chef, wie er von Zombies zerfleischt wird.",
+    "Second-Hand-Sexshop.",
+    "Ein gebleichtes Arschloch.",
+    "Ein Mikropenis.",
+    "Teabagging.",
+    "Den Spieleabend zu einer Sex-Orgie ausarten lassen.",
+    "Genitalherpes.",
+    "Von Disney inspirierte Pornografie.",
+    "Sich für Oralsex nicht revanchieren.",
+    "Penisneid.",
+    "Mein Arsch.",
+    "Klitoris.",
+    "Gruppensex.",
+    "Sexuelle Gefälligkeiten.",
+    "Sexy Kissenschlachten.",
+    "Der Ku-Klux-Klan.",
+    "Feminazis auf Tinder.",
+    "Origami Sexspielzeug.",
+    "Sexting.",
+    "Analsex.",
+    "Mein XXL-Shrek-Dildo.",
+    "Ein sexistischer Unterton.",
+    "Penispropeller.",
+    "Die zerschmetterten Träume einer Stripperin.",
+    "Eine Schnappschildkröte, die in die Spitze deines Penis beißt.",
+    "Holocaust.",
+    "Panda-Sex.",
+    "Meine Genitalien.",
+    "Gruppensex in der Demenzklinik.",
+    "Grammatiknazi mit Legasthenie.",
+    "Oralsex.",
+    "Neger.",
+    "Sexuelle Spannungen.",
+    "Cannabis legalisieren.",
+    "Ein zu großer Penisring.",
+    "Aufs Sofa ejakulieren.",
+    "Meine Sexspielzeugsammlung.",
+    "Computerspiel-Sex mit deiner Freundin vollziehen.",
+    "Eine gewaxte Vagina.",
+    "Sodomie.",
+    "Sex im Fahrstuhl.",
+    "Überraschungssex.",
+    "Ein unerfülltes Sexleben.",
+    "Eine Vodoo-Puppe meiner Lehrerin.",
+    "Ein Hello-Kitty-Vibrator.",
+    "Mein Sexleben.",
+    "Ejakulat.",
+    "Tentacle Porn.",
+    "Zwei Zwerge beim Sex in einem Sirupbecken beobachten.",
+    "Penispumpen.",
+    "Verdrehte Hoden."
+  ],
+  "pack": {
+    "id": "7WT7D",
+    "name": "Minkas CaH"
+  },
+  "quantity": {
+    "black": 96,
+    "white": 459,
+    "total": 555
+  },
+  "dateStoredMs": 1589093331229
+}

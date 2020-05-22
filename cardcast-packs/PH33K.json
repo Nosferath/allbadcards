@@ -1,0 +1,123 @@
+{
+  "black": [
+    {
+      "content": "In Ko Ko Bop, they're just high off _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you know? How do you know I'm not _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SM announces plans for a new NCT unit: NCT _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blackpink in your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real maknae is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EXO's newest single: 'Call Me _'.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new \"We Got Married!\" couple: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We are _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kyungsoo vs _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not my style.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Listen, enjoy the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1 + 1 = _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AsianFanFiction, more like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oppa _ style.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dibidibidis my name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dance practice: _ ver.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Military enlistment.",
+    "Enjoy the mayo.",
+    "Rolling like a buffalo.",
+    "Chanyeol's ears.",
+    "Rock paper scissors.",
+    "Church oppa.",
+    "*whispers* JYP.",
+    "Sasaengs.",
+    "Cringey x reader fanfiction.",
+    "No one who care about me.",
+    "Decent Engrish.",
+    "Not really knowing how to express my potato.",
+    "X2 dance.",
+    "Jesus Sunbaenim.",
+    "OT9.",
+    "2 brain cells that Sungjae and Changsub share.",
+    "Fan Wars.",
+    "Chogiwa.",
+    "Promoting in America.",
+    "Lee SooMan.",
+    "Excessive Aegyo.",
+    "BgA.",
+    "Hot like wasabi.",
+    "The latest victim of the YG dungeon.",
+    "Making finger hearts.",
+    "Korean Jesus.",
+    "Maknae on top."
+  ],
+  "pack": {
+    "id": "PH33K",
+    "name": "kpop goodies"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 27,
+    "total": 43
+  },
+  "dateStoredMs": 1588137738650
+}

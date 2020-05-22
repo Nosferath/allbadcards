@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "Nei seggi speciali gli elettori hanno il diritto di _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I due candidati a sindaco di  _ sono _ e _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In una recente intervista, _ ha detto che preferirebbe _ piuttosto che perdere le elezioni.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Abbiamo avuto un problema al seggio elettorale di _. Gli scrutatori non smettevano di _ per una scheda che non trovavano più.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sulla scheda blu _ sul simbolo di _ e scrivi _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "In caso di _, il voto è nullo.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Essere candidati appoggiati dalla chiesa.",
+    "Donald Trump.",
+    "L'innno d'Italia polifonico.",
+    "Luigi Di Maio.",
+    "Mazzette.",
+    "Mein Kampf.",
+    "Le olimipiadi di Roma 2024.",
+    "Matteo Salvini.",
+    "Sergio Mattarella.",
+    "Il reddito di cittadinanza.",
+    "Brogli elettorali.",
+    "Essere inscritto nel registro degli indagati.",
+    "Silenzio elettorale.",
+    "Referendum.",
+    "La legge di bilancio."
+  ],
+  "pack": {
+    "id": "RS2HS",
+    "name": "Election Day"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 15,
+    "total": 21
+  },
+  "dateStoredMs": 1588535920334
+}

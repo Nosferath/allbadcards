@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "Todoroki's new quirk: Half _, Half _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Boku no _ Academia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ SMASH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Izuku's new quirk: _ for All.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirishima's quirk is also good for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Izuku \" _ \" Midoriya.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Bakugou mad? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Izuku crying? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "9VMSB",
+    "name": "Boku No Hero Academia"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 0,
+    "total": 8
+  },
+  "dateStoredMs": 1588497040694
+}

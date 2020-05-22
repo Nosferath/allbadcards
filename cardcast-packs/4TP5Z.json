@@ -1,0 +1,139 @@
+{
+  "black": [
+    {
+      "content": "It always embarrasses me when my dad does something weird in public like, _ , for instance.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seeing parents _ always makes me feel better about my own childhood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daddy told me that I'm not allowed to keep _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How come uncle Jeff is always _ , Dad?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dads are so overrated, they're always _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom told me to ask you about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't think my dad's ever liked _ , he was always more into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Can you believe my dad packed me _ for lunch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The shed out back is still full of _ from that time dad tried _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Last summer, my dad tried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I asked my dad about _ and now I'm grounded.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not the 4th of July until dad's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best kind of dad likes _ for his kids.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dad said I'm not allowed to talk about _ anymore...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel bad saying it, but I just wish my dad would try _ a little less.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst dads are too obsessed with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my hillbilly uncle doing now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mommy says we're not allowed to see dad anymore because he's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now listen son, in order to be a man you're going to need to learn about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In some cultures, _ is considered a coming of age ritual.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Causing a ruckus in an otherwise quite serene gated community.",
+    "Going the wrong way for so long you're not sure you're still on the map.",
+    "An unhealthy obsession with being the 'cool' parent.",
+    "Proudly flailing on the dancefloor.",
+    "Shameful throwup.",
+    "Getting sent to the hospital for easily preventable injuries.",
+    "Manly things.",
+    "That thing where you put so many rubberbands on a watermelon it explodes.",
+    "Fixing everything with no experience and wildly inadequate tools.",
+    "Refusing to see a doctor because you're \"man enough\" to handle the pain.",
+    "Trying to do your own home repairs and getting electrocuted.",
+    "Laughing at yourself to hide the shame.",
+    "Frying things while shirtless.",
+    "Broken dreams wearing sweaters made of tears.",
+    "Thinking a home cooked meal is anything you can microwave yourself.",
+    "Faking an accident for the insurance money.",
+    "Driving a \"free candy\" van.",
+    "Holding back the tears.",
+    "Feeling like your family hates you.",
+    "Building a deck.",
+    "Almost setting the house on fire with illegal fireworks.",
+    "Getting sick by not admitting the seafood had gone bad.",
+    "Flirting with the waitress like your wife's NOT waiting at home."
+  ],
+  "pack": {
+    "id": "4TP5Z",
+    "name": "I'm gonna build a deck Deck"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 23,
+    "total": 43
+  },
+  "dateStoredMs": 1589436073846
+}

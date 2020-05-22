@@ -1,0 +1,526 @@
+{
+  "black": [
+    {
+      "content": "Ó Leonor, o que é que tu achas de _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Depois de _, tive imensa vontade de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Reparaste que o Martim e a Inês se ausentaram. O que é que achas que foram fazer? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando ela/ele me pergunta se sinto prazer ao _, rio-me tanto que acabo por _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Psst! Vou contar-te um segredo: quando estou com o pessoal, gosto muito de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quero apimentar a minha relação. O que é tu achas de _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ALERTA CM! O governo português teve de _ para evitar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Já experimentaram _? Ouvi dizer que era saudável.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já dizia Fernando Pessoa: \"“Pedras no caminho? Guardo todas, um dia vou _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Preferes _ ou _? Só podes escolher uma como prenda de aniversário!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O Lome foi para Lille porque achava que em França é que podia _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aquele tipo é um abutre. Vê-se logo que gosta de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando o Martim e o Lome se juntam aquilo é uma festa. Passam o dia todo a _ e não se cansam!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já estou farto de _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ou _? Eis a questão.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ofereceste isso ao Dany no seu aniversário? Boa opção. Ele adora _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não pude ir convosco para Lagos. Estava a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não está a dar nada de jeito na TV.  Como alternativa, pensei em _ para ocupar o tempo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não tenho proteção, mas podemos _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adoro _ quando conheço alguém pela primeira vez. Sempre me ajudou a quebrar o gelo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gosto muito daquele filme: \"Comer, orar e _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quem me dera poder _ como o Dany. Ele fá-lo magistralmente!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando não estou a _, gosto de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu admito! _ é o meu guilty pleasure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gostas de fazer exercício? LOL, eu prefiro _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aquela mulher é tão velha. Já deve ter feito muita coisa na vida, como _ e cenas que tais.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "2021 é que vai ser. No ano que vem, prometo _. ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não corras! Caso contrário, o pai vai _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não insistas, o Martim não gosta de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já me decidi. Em vez de abortar, vou _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre que penso no meu futuro, penso logo em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre achei o Lome uma pessoa que gosta de _. Ao contrário do Martim, que prefere _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Estas mobílias são muito bonitas. Fazem-me lembrar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vamos _? Preciso de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O Martim não gosta de _, mas adora _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nunca tinha percebido como _, até _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A Leonor e a Inês gostam de _. Deve ser uma coisa de raparigas!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando a Leonor nasceu, uma vidente vaticinou que quando tivesse 24 anos iria _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando encontrei o meu pai a _, fiquei tão chocado que tive de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Depois de _ nunca mais fui o mesmo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoje não quero ir sair. Não preferem _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Antes de _, pensa primeiro em _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O teste correu-me tão mal... Acho que vou ter de _ para passar à cadeira.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adoro aquele artigo que comprei na Wish. Agora já posso _ sem me sentir culpado/a.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O Dany vai ter uma entrevista no BdP. Eu acho que ele só será contratado se _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Inês gosta de _  porque é sabido que todos os comunistas gostam de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fo**-se! Gastei o ordenado todo em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabes o que é que o Martim faz todas as quartas-feiras? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não queiras comparar _ a _! Bom, bom é _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Quando for grande, quero _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odeio os políticos! Prefiro _ do que ir votar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Estava mesmo apertado! Tive de _ no meio da rua.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando estiveres doente, não vás ao Google. Em vez disso, vai _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ontem não havia papel higiénico, por isso tive de improvisar e acabei por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Miga, tenho uma kink com anões. Até já pensei em _ e tudo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ontem o quiz era muito difícil. Só tinha perguntas sobre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Este poema é mesmo lindo. Versa sobre _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Falaste sobre _ com o Lome? Olha, se calhar não devias. Ele é um gozão e adora _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ontem vi um filme muito triste sobre _. Não me contive e acabei por _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Adoro canções sobre _. Fico verdadeiramente inspirado!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoje, o Dany vai apresentar o seu quiz. Aposto que o tema mistério é sobre _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senta-te, jovem. Temos de conversar sobre _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "BDSM.",
+    "Levar uma patada na boca.",
+    "Perder tempo a criar cartas que supostamente são engraçadas, mas que não têm piada nenhuma.",
+    "\"visitar\" a Mongólia por dentro.",
+    "Abraçar o Paul Walker.",
+    "Colocar um bebé no lixo.",
+    "Ser presidente do CDS.",
+    "Morte da princesa Diana.",
+    "Casa Pia.",
+    "A Inês a gaguejar.",
+    "Imitar o Paulo Bento sem sucesso.",
+    "Cartaz a dizer \"Não matem os velhinhos\".",
+    "Convidar toda a gente, menos tu .",
+    "Apertar o pesçoco a um preto.",
+    "Abafar a palhinha.",
+    "Confundir cerveja com urina.",
+    "Escarrar na perna boa do Angel-O.",
+    "Cocó de pomba.",
+    "Beijar uma gorda e evitá-la nos dias seguintes.",
+    "Festivais de verão cancelados.",
+    "Ver Nª Srª de Fátima sem estar em ácidos.",
+    "Pedir à pessoa que repita o que disse pela 17ª vez.",
+    "Porcos capitalistas.",
+    "Encher o bandulho e arrotar gloriosamente.",
+    "Uma tatuagem a dizer \"amor de mãe\".",
+    "Falecer durante o ato.",
+    "Pedir \"refill\" do molho de alho no I Love Kebab.",
+    "Perceber que os desenhos animados só têm 4 dedos.",
+    "Ser passivo-agressivo.",
+    "Festa da salsicha.",
+    "Colocar algo no carrinho de compras sem a mãe dar conta.",
+    "Perder para os Beagles.",
+    "Cortar as unhas no metro.",
+    "Tentar mostrar como se faz e falhar redondamente.",
+    "Ouvir a Leonor a falar de linguística.",
+    "Dizer \"carjaquim\" até cansar a outra pessoa.",
+    "Confundir fio dentário com fio dental.",
+    "Lingerie comestível.",
+    "Levar com cuspo na cara depois de cuspir para o ar.",
+    "Desanimar por não ter cartas brancas fixes.",
+    "Morrer durante o sono.",
+    "Pedir à mãe para comprar um pastel de feijão e ela responder que já há pastéis de feijão em casa.",
+    "Abster-se nos quizzes, mas gozar com quem vota no PAN.",
+    "Crianças desaparecidas.",
+    "Casa do Martim.",
+    "Fatos do Goucha.",
+    "Escravizar um preto e gritar \"Angola é nossa!\".",
+    "Livros do Jordan B. Peterson.",
+    "Escarafunchar o mexilhão.",
+    "Asiáticos que são maus a matemática.",
+    "Orelha de porco.",
+    "Pegar de empurrão.",
+    "Apanhar Covid-19.",
+    "Fazer um dueto com o Tony Carreira.",
+    "Rui dos tratores.",
+    "Cheiro a bacalhau.",
+    "Pedra nos rins.",
+    "Ter mais de 30 anos e continuar a viver com os pais.",
+    "Não depilar as partes baixas durante 17 anos.",
+    "Fazer propostas indecentes nas redes sociais.",
+    "Crepe no Joker.",
+    "Desaparecer.",
+    "Um PC sem ecrã.",
+    "Maria Leal nua a cantar-te ao ouvido.",
+    "Ser suficientemente estúpido para ser escolhido para entrar no Big Brother.",
+    "Erros ortográficos.",
+    "Beber vinho e comer gomas.",
+    "Despedir os funcionários mais feios.",
+    "Ter 27 anos e falar e agir como uma criança.",
+    "Martim a dizer \"cá está\".",
+    "Vibrador às cores.",
+    "Utilizar boné para esconder a calvície.",
+    "Tremer no banho porque a água não aquece.",
+    "Infinitos mil.",
+    "Achar que o Nílton é melhor comediante do que o Bruno Nogueira.",
+    "Tratar as pessoas por \"você\".",
+    "Ouvir sem parar a música do caixão.",
+    "Auto-intitular-se Mestre antes de o ser.",
+    "Molestar uma criança mais ou menos bela.",
+    "Jesus na Cruz.",
+    "Livros de auto-ajuda que ajudam pouco ou nada .",
+    "Borbulhas na adolescência.",
+    "Fazer força enquanto arreia o calhau.",
+    "Pessoas que dizem \"conavírus\".",
+    "Entrar no curso errado.",
+    "Fazer o amor num espaço público.",
+    "Comida nos dentes.",
+    "Ter tantos pelos nas costas que as pessoas pensam que aquilo é um casaco.",
+    "Consumir e não pagar.",
+    "Dançar o vira com o Jerónimo de Sousa.",
+    "Ter mais de 20 anos e continuar a ver animes.",
+    "Ver fotos do Martim.",
+    "Vomitar na cama e adormercer.",
+    "Fingir atender uma chamada para disfarçar.",
+    "Pontapear os patos da Gulbenkian.",
+    "Morte súbita.",
+    "Ciganos que pensam.",
+    "Borboto.",
+    "Pedir boleia para Fátima.",
+    "Contar as rotundas em Viseu.",
+    "Confundir o Mandela com o Obama.",
+    "Criar uma conta no TikTok para engatar pitas.",
+    "Abichanar como o José Castelo Branco.",
+    "Ir a casa ao fim de semana para lavar a roupa.",
+    "Gozar com quem trabalha.",
+    "Cabeça de preservativo.",
+    "Vilipendiar.",
+    "Apertar as bochechas ao António Costa.",
+    "Estar de mãos dadas com o André Ventura.",
+    "Ficar \"minado\" depois de beber shots de sumo.",
+    "Meter o dedo no rabiosque.",
+    "Uma bugiganga do Aliexpress.",
+    "Ouvir os pais a fazer o amor.",
+    "Mudar o nickname no Zoom.",
+    "Martim a fumar e a beber gin.",
+    "Palhaço analfabeto.",
+    "Tirar uma foto com o RAP.",
+    "Aparecer sempre de pijama nas conversas no Zoom.",
+    "Um preservativo roto.",
+    "Achar que é cool misturar inglês com português.",
+    "Comer os macacos do nariz.",
+    "Combinar uma hora e chegar meia-hora atrasado .",
+    "Sussurrar na chamada do Zoom para a mãe não ouvir.",
+    "Ser pastor para ter momentos íntimos com as cabras.",
+    "Ignorar mensagens no chat.",
+    "Ser brasileiro.",
+    "Tratar o Lome por Lomelino .",
+    "Enfermeiro Luís.",
+    "Jogadores do Sporting a rescindir depois do ataque à Academia.",
+    "Carlos do Quiz.",
+    "Sacar o nabo cá para fora.",
+    "João Tomás, o agricultor.",
+    "Ter sonhos eróticos com o Lome.",
+    "Lome em Lille.",
+    "Tirar a máscara para falar.",
+    "Colocar uma bomba na IURD.",
+    "Hipertrofia dos pequenos lábios vaginais.",
+    "Grande e grosso.",
+    "Comer o presidente do CDS atrás de uma igreja.",
+    "Dizer \"hey\" várias vezes no chat sem obter resposta.",
+    "Exercitar a língua.",
+    "Martins dos Recursos Humanos.",
+    "Dizer que a turma da Inês era o Politécnico da Faculdade.",
+    "Considerar o André Ventura um grande estadista e herói nacional.",
+    "Colocar óculos para parecer intelectual.",
+    "Falar um portunhol perfeito.",
+    "Catarina, a menina da Meteorologia.",
+    "Mongolóide.",
+    "Uma loira que até é meio inteligente.",
+    "Pokémon raro.",
+    "Dany a corrigir o Quiz.",
+    "Resquícios de comida.",
+    "Ser simpático para alguém por pensar que essa pessoa tem cancro.",
+    "Criar perfil no Tinder.",
+    "Passar a mão pelos genitais e dizer a si próprio \"Lá vai ter de ser...\".",
+    "Ir para Angola, rapidamente e em força.",
+    "Pi pi pi parou parou.",
+    "Gozar com o sotaque do pessoal de Viseu.",
+    "Pensar que o AXN White é para brancos e o AXN Black para pretos.",
+    "Cor da pele do António Costa.",
+    "Depressão.",
+    "Ter um atraso mental.",
+    "Snifar cerelac.",
+    "Tirar fotografias à Lua.",
+    "Penteado da Karen.",
+    "Comida vegan.",
+    "Pastor cinéfilo.",
+    "Cuspir sangue.",
+    "Afirmar que Salazar era comunista.",
+    "Tratar o/a namorado/a por um nome carinhoso por não saber o nome próprio.",
+    "Ser anormal e perguntar \"Queria, já não quer?\".",
+    "Colocar a prof de História a chorar.",
+    "Sopinha de massa.",
+    "Vestir os boxers do avesso.",
+    "Exclamar \"Sinceramente!\" sempre que passar por alguém na rua.",
+    "Uma vidente com dois dentes.",
+    "Conduzir um carro automático.",
+    "Ter 12 anos e mostrar as nádegas.",
+    "Ananás na pizza.",
+    "Ter mais de 60 anos e colocar como foto de perfil no FB uma foto antiga.",
+    "Ver o Porto a enrabar o Benfica.",
+    "Ruca, o filho da puta.",
+    "Esfregar o rabo nu na parede.",
+    "Assexualidade.",
+    "Blue balls.",
+    "Mamar à grande e à francesa.",
+    "Dar um palmadão no rabo de uma rapariga e depois ter de pedir desculpa.",
+    "Festa da Foda.",
+    "Ser pedófilo e não gostar de brincar ao quarto escuro.",
+    "Entrar no quarto de hóspedes e apanhá-los a iniciarem ritos sexuais.",
+    "Não ter tema de conversa e  falar sobre o tempo.",
+    "Ter três filhos e todos serem homossexuais.",
+    "Achar que andar de mãos dadas é sexo.",
+    "Lavar a senaita.",
+    "Cagar e andar.",
+    "Cock-a-mouse.",
+    "Entortar o pénis.",
+    "Falar com um estrangeiro como este fosse um deficiente mental.",
+    "Chinelos que parecem sons de sexo.",
+    "Mandar tirar os dentes para chupar melhor o grelo."
+  ],
+  "pack": {
+    "id": "GUE2N",
+    "name": "Neves2021 1st deck"
+  },
+  "quantity": {
+    "black": 62,
+    "white": 200,
+    "total": 262
+  },
+  "dateStoredMs": 1589497172660
+}

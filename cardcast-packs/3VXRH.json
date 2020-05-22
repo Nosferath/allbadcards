@@ -1,0 +1,105 @@
+{
+  "black": [
+    {
+      "content": "_ have the highest fiber and calories of any fruit. They are found in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The first person to prove that cow's milk is drinkable was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The average _  contains half a pound of salt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Norse legend, thunder god Thor's chariot was pulled across the sky by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Greek myth, Prometheus stole _ from the Gods and gave it to humankind. The _ he kept for himself.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ are twice as intelligent, and three times as delicious, as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "While the _ is vastly superior to the _ in every way, over 97% of people still use them for aquatic transportation",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To make a _ , simply photocopy a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fact: _ does not exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cellular phones will not give you cancer. Only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Edmund Hillary, the first person to climb Mount Everest, did so accidentally while chasing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The square root of _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "According to most advanced algorithms, the world's best name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At some point in their lives 1 in 6 children will be abducted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Greek myth, the craftsman Daedalus invented _ so a group of Minotaurs would stop teasing him about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "China produces the world's second largest crop of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are made when _ is put under intense pressure. Those put under intense pressure become _ , commonly used today as packing material.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "89% of magic tricks are not _. Technically, they are _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "3VXRH",
+    "name": "Fact Core facts as black cards"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 0,
+    "total": 18
+  },
+  "dateStoredMs": 1589501893155
+}

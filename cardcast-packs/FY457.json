@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "I'd like  _ tacos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What goes great with guac?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd like a complaint card, I'd like to complain about_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you like a side of _ with that?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd like a _ burrito.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here at Chipotle we pride ourselves on_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I get an order of Chips and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would get that Guac, but..._",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Slamming your hand down on the counter so hard it scares the customers.",
+    "A side of guac. A side of grey guac. And a side of green guac.",
+    "Guac-a-mole, guac, guac, a-mole.",
+    "Forgetting your friend works there.",
+    "Alex from Chipotle.",
+    "Grey guac.",
+    "President Donald J. Guac.",
+    "A blobfish in a burrito.",
+    "I'm sorry that costs extra.",
+    "A burrito bag thats used as a notepad.",
+    "Matt's Guacophobia.",
+    "Almost walking into a wall.",
+    "The Greenest of guacs.",
+    "The burrito is aggressive."
+  ],
+  "pack": {
+    "id": "FY457",
+    "name": "The Chipotle Experience"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 14,
+    "total": 22
+  },
+  "dateStoredMs": 1589400366396
+}

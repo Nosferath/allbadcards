@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "All Might's new move:  _  smash",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "85DFX",
+    "name": "My hero academia"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588495118359
+}

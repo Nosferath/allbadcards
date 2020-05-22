@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "Assistant to the regional _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Break me off a piece of that _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dwight, you ignorant _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Bears. Beats. _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abraham Lincon once said, \"if you are a racist I will attack you with _ . \" - Michael Scott.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? Isnt that a fancy word for _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ . and _ . Tastes like Splenda, gets you drunk like scotch.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You miss 100% of the _ You dont _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_. tomorrow, because today is almost over\" - Michael scott.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jan Levinson-Gould's thousand-yard stare.",
+    "Jimothy.",
+    "Two-Way petting zoo.",
+    "Beets.",
+    "A well-timed thats what she said.",
+    "Count Choculitus.",
+    "Pippty Poppity gimmie the zoppity.",
+    "Justice Beaver.",
+    "DECLARING BANKRUPTCYYYYYYYYYY.",
+    "Football Cream.",
+    "Hotel Hell, Check-in time is now, check-out time is never.",
+    "Soup Snakes.",
+    "Pretzel day.",
+    "Not superstitious, but a little stitious.",
+    "Jim and Pams relationship.",
+    "Hot Dog Fingers.",
+    "Drinkin Flicka.",
+    "That face John Krasinski makes.",
+    "Dr. Crentist, D.D.S.",
+    "Waking up to the smell of bacon in the morning.",
+    "The Sabre Pyramid Tablet."
+  ],
+  "pack": {
+    "id": "8UWZ5",
+    "name": "The Office"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 21,
+    "total": 30
+  },
+  "dateStoredMs": 1589338703977
+}

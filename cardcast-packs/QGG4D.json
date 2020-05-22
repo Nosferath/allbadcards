@@ -1,0 +1,202 @@
+{
+  "black": [
+    {
+      "content": "Perhaps it wasn't the best idea to put _ next to Luna, the fire elemental.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only _ could break the curse.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's just a curse! I swear I'm not _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sig was sick of cursed that gave him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing you can say to a witch is_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you misuse magic _ will happen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That bitch, Aggie! She cursed me with _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best way for a knight to show his virtue is to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They say the most dangerous part of the Wilds is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elaine's potion was ruined when somebody swapped her _ for _. The results were explosive.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Luna has set up a genius distraction using nothing but _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Luna's revenge was swift and petty: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Birds arrested _ for the crime of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Sig agreed, he had no idea _ was slang for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. The most insulting slur for imps.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah yes, the curse. The curse that _. The curse specifically for _. That curse.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": " Avery was able to dodge the law by finding a loophole involving _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elaine made the unfortunate assumption that _ was actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This wild magic has the unfortunate effect of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The temple's curse is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Faking a betrayal for some sweet, sweet gold.",
+    "A deliciously ironic curse.",
+    "Oris.",
+    "Framing a minority for arson.",
+    "Tuli.",
+    "A wretched maw between Risa's legs.",
+    "Surprise wild magic.",
+    "Buying all the jelly pastries from a bakery out of spite.",
+    "A crippling fear of water.",
+    "Sig but wet.",
+    "Unwanted fur.",
+    "Sig phasing right on through.",
+    "A gay werewolf with a guitar.",
+    "Evans.",
+    "Sir Neckbeard.",
+    "Some new guy named Elone who's totally not Elaine.",
+    "Lizard dad.",
+    "A smile that's just a bit too wide.",
+    "A third eye.",
+    "A jellyfish merperson stuffed nearly in a tiny jar.",
+    "Luna's lava hot butthole.",
+    "Sig panicking in waisted deep water.",
+    "Luna, but actually it's Risa.",
+    "A completely normal secretary.",
+    "The moon god, Rae'ha.",
+    "Just some nobody farm boy with good aim.",
+    "Brynfolk's gender politics.",
+    "Being a soft, squishy human.",
+    "Myles.",
+    "A very cursed fruit.",
+    "Sig.",
+    "Avery.",
+    "A trumpet straight to the eardrums.",
+    "A really, really nice d20.",
+    "A randomly selected potion from Elaine's bag.",
+    "Myles trying to convince everyone he's not a furry.",
+    "An imp terf war.",
+    "Accidentally getting suck as a human.",
+    "Risa.",
+    "Aggie.",
+    "Way too much wild magic.",
+    "Kidnapping a woman to prove that you're nice.",
+    "Luna's fiery sneezes.",
+    "Getting deeply indebted to Elaine.",
+    "The dungeon of disappointment.",
+    "Luna.",
+    "Marlow.",
+    "A flock of husbands.",
+    "The Witches' Guild.",
+    "A cute girl that's actually just Sig.",
+    "Luna but with a trumpet.",
+    "The earthen goddess, Val'tae.",
+    "Sig not understanding the joke.",
+    "Marlow trying to drink from a glass while still wearing his mask.",
+    "Luna's womanly chest hair.",
+    "A paradise harpy's mating dance.",
+    "Suddenly becoming a furry.",
+    "A half baked polymorph spell.",
+    "A cursed swanp.",
+    "Randomly becoming a furry.",
+    "Tuli trying out a new spell.",
+    "The sun god, Leo'ro.",
+    "A witch with a fetish for 5 ton snakes.",
+    "Roan.",
+    "Elaine.",
+    "Turning into a raven randomly.",
+    "A ridiculously long lemur tail.",
+    "The familiar program.",
+    "An inexplicable portal straight to Val.",
+    "A completely unfitting soundtrack provide by Luna.",
+    "Slowly transforming into a fairy princess.",
+    "Getting a tail...again.",
+    "A cheese cake that's just an iced wheel of cheddar.",
+    "A 100 jars of fermenting berries.",
+    "Roan's judgmental eyes. Always watching and remembering everything.",
+    "Bullshit magic rules.",
+    "Risa swallowing a man whole like a sexually frustrated snake.",
+    "Surprise titties.",
+    "A very pissed off Aggie.",
+    "A blowjob from a Brynfolk.",
+    "Fabulous, sexy feathers."
+  ],
+  "pack": {
+    "id": "QGG4D",
+    "name": "Val"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 81,
+    "total": 102
+  },
+  "dateStoredMs": 1589250502017
+}

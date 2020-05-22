@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "Let it go, let it go. _ doesn't bother me anyway!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A spoonful of sugar helps the _ go down!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to Disney, I have unrealistic expectations about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "High School Musical 4 - Gabriella and Troy struggle with _ for the first time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For a long time, Ariel thought that _ was actually _!",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Sharpay Evans.",
+    "Bambi's dead mother.",
+    "Troy Bolton."
+  ],
+  "pack": {
+    "id": "GX8B4",
+    "name": "Disney"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 3,
+    "total": 8
+  },
+  "dateStoredMs": 1588373995879
+}

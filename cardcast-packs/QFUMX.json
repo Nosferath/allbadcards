@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "His _ born from disaster. To dominate and to kill.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now death descends upon you Like a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm doing you a favor as i'm taking all your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some people risk to _ , some people live to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Feeling paranoid true enemy or _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just like  _ led rats through  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Well me it was nice talking to myself a credit to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Possily i've seen too much,  _  i know too much.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brother will kill brother spilling blood across _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , these are last words i'll ever speak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on my hands and i dont know where i've been.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "QFUMX",
+    "name": "Megadeth"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 0,
+    "total": 11
+  },
+  "dateStoredMs": 1589507010540
+}

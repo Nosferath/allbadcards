@@ -1,0 +1,53 @@
+{
+  "black": [
+    {
+      "content": "The new cancer, found in the _ can eventually spread all the way to the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "!Allahu_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How much wood can my grandma swallow before she gets throat cancer?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "my mother walked in on me jerking it to an MP4 of 911. She looked at me, smiled and said:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One thing i love 'bout McDonalds is their new burger, the: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Did The U.S Drop To The Children Of Africa? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vietnam Flashbacks.",
+    "Suicidal thoughts.",
+    "A rocket launcher missile filled with canadian tree elf sperm.",
+    "Juicy Pancreas.",
+    "Cancer.",
+    "New finger fill-up anal pounder burger.",
+    "'your SO much like your father, i'm so proud!."
+  ],
+  "pack": {
+    "id": "MBAVQ",
+    "name": "Cards against XGore!"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 7,
+    "total": 13
+  },
+  "dateStoredMs": 1588719021426
+}

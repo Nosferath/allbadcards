@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Julian only loves two things; leeches and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The red plague was spread through _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nadia never expected _ at the masquerade.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Leeches.",
+    "The Devoraks.",
+    "Vesuvia.",
+    "Julian.",
+    "The red plague.",
+    "Lucio.",
+    "Main character.",
+    "Asra.",
+    "Portia.",
+    "Nadia."
+  ],
+  "pack": {
+    "id": "DFK29",
+    "name": "Cards Against Vesuvia"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1588668966179
+}

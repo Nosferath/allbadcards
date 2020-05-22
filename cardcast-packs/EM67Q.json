@@ -1,0 +1,957 @@
+{
+  "black": [
+    {
+      "content": "Mówisz ,że twoim ulubionych hobby jest _ to dobrze się składa bo właśnie miałem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W najnowszym odcinku ojca Mateusza będzie on walczył z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sąd wydał wyrok _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za każdym razem gdy się dziko masturbuje przy pomocy _ boje się ,że ktoś mnie obserwuje.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy bym miał jedno życzenie było by to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo to nie tak jak myślisz to tylko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszą teorią spiskową jaką słyszałem było to ,że _ powodowane były przez _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_  dla ciebie dla rodziny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zaglądam do piwnicy a tam _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Autyzm nie jest zły gorzej by było jak byś miał _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy sram myślę o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej nienawidzę gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Znowu nie zapowiedziana wizyta przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak bym odkrył nowy gatunek ślimaków nazwał bym go _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Babciu ale ja już nie chce. Wnusiu ale zjedz jeszcze trochę tego _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Witam byłem umówiony na wizytę z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widzieliście kobietę z brodą! Wiedzieliście pierścienie ognia a teraz panie i panowie nacieszcie swoje oczy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze gdy mówię _ poprawia mi to humor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszy sposób na poderwanie dziewczyny  to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ej oddawaj mi to moje _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy ostatnio kwas wszedł za mocno zobaczyłem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O boże kocham cie , serio kupiłeś mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W moim domu obowiązkowo będzie obowiązywać zasada najpierw _  potem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Panie jesteśmy atakowani przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja młodsza siostra lubi gdy pokazuje jej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znany polityk został przyłapany na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żeby życie miało smaczek raz _ raz _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uwaga proszę wycieczki zaraz będziemy przechodzić obok _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Habemus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? To mi się podoba!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na prawdę chciałeś być śmieszny? Schowaj to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widzimy się w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zdecyduj się albo to albo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W majówkę będę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dobrym zamiennikiem węgla do grilla jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym roku pis obiecał ze wprowadzi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ty chuju zniszczyłeś mi mojego nowego _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie przepadam za _ , ale ostatecznie mógł bym spróbować.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Według opowieści starych Indian 1000 lat temu _ zabił _ przy pomocy _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Filip Chajzer to tak naprawdę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worek pełen _ wypełniony aż po brzegi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To pudełko chyba nie powinno służyć do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polski internet jest pełen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z wiekiem lepsze są tylko _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Od korona wirusa może uratować nas tylko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Byczku ale _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KURWA znowu zgubiłem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słyszałem ,że w banku narodowym trzymają _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bardziej od chomików z media expert nienawidzę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak zaraz nie skończysz _  to cię zbanuje.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja stara jest tak stara ,że _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziadku nie dotykaj mnie ja wolę jak robi to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jedyna rzecz na której mi zależy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W skali od _ do _ jak oceniłbyś ten ból?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moja najnowsza książka będzie o _ a główny bohater będzie nazywał sie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mówi wasz kapitan. Przygotujcie się na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ta tabela wskazuje na _ w stosunku do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "O stary czy to jedyny na świecie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badacze z laboratorium stworzyli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na banknocie 1000 zł powinien się znaleźć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy myślę o _ to przypomina mi się dzieciństwo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiesz ,że kolekcjonuje _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podobno najlepszym utworem tego zespołu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Następną zabawką w Happy Meal będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Serio stary spróbuj _ to zawsze pomaga na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Witam mam horom curke czy mogła bym dostać pana _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na szczęście udało mi się schować _ zanim pijany ksiądz wszedł do mojej szatni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pierwszy krok do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zabawnie by było jak by słowo _ zostało zamienione na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moja idealna dziewczyna powinna mieć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po tylu latach na pewno umiesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ale mamo ja mam już 13 lat mogę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzisiaj będzie wykład o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo tylko nie zapomnij kupić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zjadłbym _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamo znowu przyszedł mi esemes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Umyłem się przy pomocy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usiądź mi proszę na mordzie z swoim _ w rękach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polski rząd przeznaczył 10 milionów złoty na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy gram w CS GO najbardziej nie lubię gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obecny Card Czar jest jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nie to znowu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy mam problemy z erekcją sięgam po _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A jak by stworzyć instrument z _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy jest możliwa zamiana _ za pana _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na zły humor najlepsze jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W wojsku najgorzej było gdy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "... wtedy nagle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kebab najlepiej smakuje z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tomasz Karolak na castingu do rodzinki.pl musiał odegrać scenę z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ znowu sprawiła ,że jest mi smutno.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wujek Krzysztofa Bosaka powiedział _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No i czego się lampisz kutasiarzu chcesz _ na morde?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czas pędzi jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "11 przykazaniem bożym powinno być _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja praca magisterka miała temat \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myślę że jestem gotowy na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój kraj nazywał by się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest kurwa? Lej tę _  ! Śpiesz się bo _ chce się pić! A jak nie to tam wejdę i ci kurwa pomogę.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Znowu nie mogę znaleźć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rabini już powiedzieli swoje zdanie a brzmiało ono _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ukrywają przede mną rodzice ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prawie by się udało gdy by nie wy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Świat 2.0 zawiera _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam gdy o poranku zastaje moją matkę tylko w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kurwa znowu na głównej na FB pojawił mi się post o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ z głów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czemu twoje ręce są umazane _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talerz pełen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak bym tworzył grę nazwał bym ją \"_\" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Status mojego związku to: _ (nie no tak serio to  _ ).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A teraz czas na ogłoszenia parafialne dzisiaj poruszymy temat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy życie daje ci _ , zrób _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Te karty są tak czarne jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To uczucie gdy jedyne co umiesz powiedzieć to \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żyd to najlepszy _ człowieka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrodę za oszukiwanie otrzymuje _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ nie wiedział o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeśli to nie jest twój tata to na pewno musi być to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepszym lekarstwem na ból gardła jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nie to znowu _ czemu to nie mógł być _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czemu mówi się prezydent zamiast _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak by Hitler miał _ to na pewno by wygrał 2 wojnę światową.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak jak pan jezus powiedział, a powiedział on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sex z nieletnią jest jak _ wiesz ,że jest nielegalny ale jednak kusi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak bym reżyserował film porno to był by on o _ ruchających _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nic nie wskazuje na to ,że Hitler wiedział o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy bym był bogatszy na pewno kupił bym sobie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moim ulubionym filmem porno był \"_ jedzący _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam nadzieje ,że podczas apokalipsy będę miał przy sobie _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "NO I KURWA JACKPOT.",
+    "Dzieciak grający trawę na przedstawieniu.",
+    "Wsteczne kolano.",
+    "Wbiegał tłum dzikich napalonych karłów.",
+    "Dziurawa prezerwatywa dzięki której jesteś na świecie.",
+    "Związek socjalistycznych republik radzieckich.",
+    "Lizanie dzwonków.",
+    "Jebał jebał jebał.",
+    "Prostytutka która okazała się być moim dziadkiem.",
+    "Znowu te jebane bułki.",
+    "O żesz kurwa ja pierdole.",
+    "Autokanibalizm.",
+    "1 zł 29 gr.",
+    "Zespół downa.",
+    "Picie alkoholu w samotności.",
+    "Męskie walentynki.",
+    "Cycki.",
+    "Murzyn zarzucony chujem na plecy.",
+    "Black salami.",
+    "AH 64 apache.",
+    "Płacz w łazience.",
+    "Puchowe kajdanki.",
+    "Jebany Robert Lewandowski.",
+    "Pałac.",
+    "Golenie jajek widelcem.",
+    "Zdziczała prostytutka.",
+    "Wnętrze twojej kuzynki.",
+    "Pochwa pełna czarnych kutasów.",
+    "Ksiądz z wyraźną erekcją.",
+    "Moszna zakleszczona w suwaku.",
+    "Katosożer.",
+    "Ale gejoza.",
+    "Papież.",
+    "Ćwiczenia polegające na regularnym przerywaniu strumienia moczu.",
+    "Piwo.",
+    "KURWA JUŻ MI SIĘ NIE CHCE.",
+    "Kurwa ,kuria diecezjalna.",
+    "Gułag.",
+    "4 metry czystego wpierdolu.",
+    "Wielki włochaty facet noszący bieliznę koronkową.",
+    "Jeszcze jak.",
+    "Chyba cię nie słyszę.",
+    "Prywatna prostytutka.",
+    "Zły dotyk.",
+    "Kopnięcie tak mocne ,że potem trzeba szukać buta w dupie.",
+    "SLD.",
+    "Spór z mafią.",
+    "Studiuje prawo.",
+    "Dziecięca orgia nadzorowana przez pijane zakonnice.",
+    "Ru cha nie.",
+    "Patrz jaki wielki.",
+    "Żyd.",
+    "To szmata.",
+    "BOGACTWO SKURWYSYNY.",
+    "Pawulon.",
+    "ISIS.",
+    "Twoja stara nakręcona jak kret przed gwałtem.",
+    "Ból sprawiający ci podniecenie.",
+    "64 dziewice.",
+    "Ojciec który wyszedł po papierosy i nie wrócił.",
+    "Edytka mała prostytutka.",
+    "Dwie nagie karlice wyglądające jak faceci.",
+    "Materac z TV mango.",
+    "Furgonetka pełna martwych dzieci.",
+    "Jebliwy krasnal.",
+    "Stacja paliw.",
+    "Piłowanie dronga przy użyciu dziabonga.",
+    "Prawie nagi ksiądz.",
+    "Zwłoki chłodne jak dziecko w zamrażarce.",
+    "To nie miało być tutaj.",
+    "Na chuj ?.",
+    "Wypierdalaj.",
+    "Maczeta w dupie.",
+    "I wtedy on pękł.",
+    "Roksana Węgiel.",
+    "Brodojaja.",
+    "Biblia szatana oprawiona w skórę małych nieletnich prostytutek.",
+    "Za mała gumka.",
+    "Ała kurwa rzeczywiście.",
+    "Przymusowa masturbacja w gimnazjum.",
+    "ZEGZ.",
+    "Ale jak to nie masz 12 lat tylko 18.",
+    "Niech płoną.",
+    "Janusz Korwin-Mikke.",
+    "HALO HALO.",
+    "Seksowe bliźnięta syjamskie.",
+    "Zmysłowy pas szahida.",
+    "Pogromca uśmiechów dzieci.",
+    "Za głęboko wyjmij.",
+    "Wykres.",
+    "5g fety.",
+    "Spożywanie kału.",
+    "O mój boże ale wielkie.",
+    "Bogata kolekcja gadżetów erotycznych.",
+    "Nie kurwa skąd ten pomysł?.",
+    "Kulki analne do nosa.",
+    "Ale głośna klawiatura.",
+    "Karabin AK-74.",
+    "Kosmiczny kutas.",
+    "Bolesna dawka wpierdolu od ojca.",
+    "Klarnet.",
+    "Parófka.",
+    "To uczucie dziecięcych dziąseł na twoim siusiaku.",
+    "Prostytutka która okazała się być moją siostrą.",
+    "Skręt jąder.",
+    "Człowiek robiący za asfalt.",
+    "Wąchanie męskich majtek po długim seksie z dziećmi przebranymi za klauny.",
+    "Akumulator przypięty do jąder.",
+    "Pizda małego płodu ,tak mała ,że nawet jej nie widać pod mikroskopem.",
+    "Korwin masakrujący żydo-arabów.",
+    "Dziwne dzięki wydawane dupom.",
+    "Siema kto z polski.",
+    "Kutasoser.",
+    "Flet rozkoszy.",
+    "Kardynał w stroju sado-maso.",
+    "Pan maruda niszczyciel dobrej zabawy.",
+    "Skośny murzyn.",
+    "Ramota.",
+    "Mefedron.",
+    "Bardzo i to bardzo udawany orgazm.",
+    "Jebany przez ojca grubas który zawsze będzie prawiczkiem.",
+    "Akumulator.",
+    "Ale żyg.",
+    "A chuj z tym i tak nie zarucham.",
+    "Grzybica paznokci.",
+    "Pieczenie odbytu.",
+    "Anime o braciach którzy się gwałcą gdy ich matka wchodzi do pokoju.",
+    "500+.",
+    "Wyzywanie ludzi bez powodu.",
+    "Pochwa pułapka.",
+    "Melepeta.",
+    "I cyk trzynasta emerytura.",
+    "Twoja stara prowadząca pociąg w teleexpresie.",
+    "No i pan paweł.",
+    "Robienie loda umierającemu na zawał nauczycielowi historii.",
+    "Wsadzenie chuja między drzwi a futrynę.",
+    "Trzepanie na kafelki.",
+    "Dziwna lepka substancja na mojej ręce.",
+    "Jebane UPC.",
+    "Okrutnik.",
+    "Majonez.",
+    "Kakaowe oczko.",
+    "Marcelina.",
+    "Miss click.",
+    "Ojciec Mateusz.",
+    "Skrzypiąca proteza.",
+    "Jogurt naturalny.",
+    "\"serek\" spod napletka.",
+    "Berło księdza proboszcza.",
+    "1000 zł a nie kurwa 500.",
+    "Moczydło.",
+    "Twoja stara.",
+    "Muszę mu zrobić zdjęcie taki jest wielki.",
+    "Zasadzka na twoja odbytnice.",
+    "Pomarańcza.",
+    "Seksowne zwłoki.",
+    "AllahuAkbar.",
+    "Wpierdol.",
+    "Klauni-striptizerzy.",
+    "Sikasz takim.",
+    "Jak moja dziewczyna.",
+    "Martwa prostytutka.",
+    "DOBRA WYKURWIAJ.",
+    "Czy to serio istnieje.",
+    "Sranie na klate.",
+    "PIS.",
+    "Może satanizm to jednak dobra religia.",
+    "Samobójstwo.",
+    "Bez przewodowa antykoncepcja.",
+    "Zagroda pełna dzieci z zespołem Downa.",
+    "Ale jak to nie legalne.",
+    "Tso.",
+    "Zawody z wymiotowania na odległość.",
+    "Siusiak.",
+    "Anime.",
+    "Wibrator zajebany z domu babci twojego kolegi.",
+    "Chcę bardzo chcę.",
+    "Napalona Magda Gesler zaspokajana przez Robera Makłowicza.",
+    "Ale stuleja.",
+    "Ale jak to nie za darmo?.",
+    "Brat wyskrobiak.",
+    "Dziury w serze.",
+    "Zbanuje ci matkę.",
+    "Wibrator twojego kolegi.",
+    "Ladacznica.",
+    "Multi widelec wygrany na teleturnieju.",
+    "Znowu mi się internet zerwał.",
+    "JD.",
+    "Jan papaj 2.",
+    "Smerfy.",
+    "Nagi nauczyciel WF.",
+    "Mokasyny.",
+    "Rekin z kutasem zamiast płetwy grzbietowej.",
+    "Fortnite.",
+    "Głuche dziwki.",
+    "Podpalony karzeł który szuka jeziora.",
+    "( ͡° ͜ʖ ͡°).",
+    "Julia Wieniawa.",
+    "Ginekolog który odbywał praktykę w domu starców.",
+    "Odbyt.",
+    "Chuj.",
+    "Kanapka z serkiem spod napletka i skórką zerwaną z niedorozwiniętego płodu.",
+    "Wampir w damskim internacie podczas okresu.",
+    "Badanie prostaty na które nie wyraziłeś zgody.",
+    "Orgia z udziałem prezesa PIS.",
+    "Fluoro metylo fosforan izopropylu.",
+    "PO.",
+    "Lis z downem.",
+    "Lekarstwo na raka odbytu.",
+    "Polska służba zdrowia.",
+    "Jak nie ma ceny to chyba bezpłatne.",
+    "Gej.",
+    "KURWA.",
+    "Moja kolekcja gadżetów erotycznych.",
+    "Nagi ksiądz z uśmiechem Jarosława Kaczyńskiego.",
+    "Walenie konia (dosłownie).",
+    "Nago.",
+    "Płód.",
+    "Ksiądz wyprowadzający dzieci na smyczy.",
+    "Pan mariusz.",
+    "Maciek.",
+    "RUCHANIE.",
+    "He he he.",
+    "Chyba ty.",
+    "Zakleszczenie odbytu na klamce.",
+    "Bęben powlekany skórą z nepleta.",
+    "Czarne dziecko z plemienia halakulumpa.",
+    "Ale jak to.",
+    "Wydymson.",
+    "Rychu peja cwelufka.",
+    "Pączek wypełniony miłością.",
+    "Dużą knage.",
+    "Genetycznie modyfikowane dziecko by lepiej ciągnęło.",
+    "Czarne dzieci.",
+    "Ale jebią ci giry.",
+    "Pudzian!!!.",
+    "Złodzieje porywacze dzieci.",
+    "Kazirodztwo.",
+    "Miziu miziu.",
+    "Przyrodzenie twarde jak księżycowa skała.",
+    "DOBRA WYPIERDALAJ.",
+    "Wycięta i odpowiednio spreparowana końska macica.",
+    "Skóra nieochrzczonych dzieci.",
+    "Koronawirus.",
+    "To serio ci się mieści w spodniach.",
+    "Nieopanowany terror analny.",
+    "Ale skurwiały niedźwiedź.",
+    "Piotrek.",
+    "Gejowskie porno.",
+    "Jezus.",
+    "Penis tak długi ,że podczas lodzika łaskocze po jelicie.",
+    "Sperma.",
+    "Penis tak długi ,że ciągnę go za sobą.",
+    "Biczowanie penisa który się nie spisał.",
+    "Grzybek papy smerfa.",
+    "Sex w toi toiu.",
+    "Penis Oriona.",
+    "Bocian impotent.",
+    "Sztuczna pizda przypominająca penisa.",
+    "Niespodziewany homoseksualny seks z dziewczyną kolegi.",
+    "Pedofil.",
+    "Zupełnie nagi karzeł z uśmiechem pedofila.",
+    "JEZUS.",
+    "Podwójny seks.",
+    "Murzyn w stroju Ku Klux Klanu.",
+    "Penis.",
+    "Żółw gryzący się w końcówkę penisa.",
+    "Knaga pedofila tak długa ,że dotyka serduszka.",
+    "Naziści.",
+    "Czy chodzi o penis.",
+    "Gwiazda nieletniego porno.",
+    "Gejowskie porno z księdzem w roli głównej.",
+    "Hentai anime.",
+    "Pluszowy miś z dwoma penisami.",
+    "Penis smoka w kształcie łabędzia.",
+    "Tak jak pan jezus powiedział.",
+    "Mikro penis.",
+    "Żółw gryzący cię w końcówkę penisa.",
+    "Pik pip hahaha.",
+    "Kosmiczne dildo z adapterem na penisa.",
+    "Niemieckie porno w lochach."
+  ],
+  "pack": {
+    "id": "Em67q",
+    "name": "Pure cringe PL"
+  },
+  "quantity": {
+    "black": 132,
+    "white": 281,
+    "total": 413
+  },
+  "dateStoredMs": 1588713216527
+}

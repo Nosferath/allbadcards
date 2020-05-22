@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Weißt du noch damals, als_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZYTTG",
+    "name": "Deutsches Reich"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589573493875
+}

@@ -1,0 +1,74 @@
+{
+  "black": [
+    {
+      "content": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we're learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A study published in Nature this week found that _ is good for you in small doses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really killed the dinosaurs? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In line with our predictions, we find a robust correlation between _ and _ (p<.05).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Today on Mythbusters, we find out how long _ can withstand _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In an attempt to recreate conditions just after the Big Bang, physicists at the LHC are observing collisions between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In what's being hailed as a major breakthrough, scientists have synthesized _ in the lab.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Photosynthesis.",
+    "Achieving reproductive success.",
+    "3.7 billion years of evolution.",
+    "A 0.7 waist-to-hip ratio.",
+    "Oxytocin release via manual stimulation of the nipples.",
+    "Driving into a tornado to learn about tornadoes.",
+    "Electroejaculating a capuchin monkey.",
+    "Slowly evaporating.",
+    "Being knowledgable about a narrow domain that nobody understands or cares about.",
+    "Insufficient serotonin.",
+    "Failing the Turing test.",
+    "The Sun engulfing the Earth.",
+    "Getting really worried about global warming for a few seconds.",
+    "Uranus.",
+    "Evolving a labyrinthine vagina.",
+    "Reconciling quantum theory with general relativity.",
+    "Infinity.",
+    "David Attenborough watching us mate.",
+    "Fun and interesting facts about rocks.",
+    "The quiet majesty of the sea turtle.",
+    "A supermassive black hole.",
+    "Explosive decompression.",
+    "Developing secondary sex characteristics."
+  ],
+  "pack": {
+    "id": "DFXNK",
+    "name": "Science Pack"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  },
+  "dateStoredMs": 1589045743354
+}

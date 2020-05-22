@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "A nagyi 90. születésnapjára az ajándékom egy _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HG3G5",
+    "name": "Magyar Kártya Csomag"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589196967917
+}

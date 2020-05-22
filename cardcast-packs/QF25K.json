@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "The Empires latest plan to catch the rebels involves _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hera Syndulla.",
+    "Zeb.",
+    "Sabine Wren.",
+    "Ezra Bridger.",
+    "Chopper the Murder Bot.",
+    "Kanan Jarrus."
+  ],
+  "pack": {
+    "id": "QF25K",
+    "name": "Star Wars Rebels"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1588459678261
+}

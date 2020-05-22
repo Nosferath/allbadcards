@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "According to Facebook _ can prevent COVID-19.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaimie is avoiding _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ashley is late for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amanda is giddy for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I may be in quarantine but at least I have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quarantine had me try _ for the first time",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarah loved _ at work today.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Blanket Fort Sex.",
+    "Asking what day it is.",
+    "Panic buying toilet paper.",
+    "A Rooster attacking your ankle.",
+    "Orgasming the first time I go in a restaurant after COVID-19.",
+    "Using Hand Sanitizer as lube.",
+    "Breaking CDC guidelines...all of them.",
+    "Gathering with more than 10 people."
+  ],
+  "pack": {
+    "id": "VPRAW",
+    "name": "For fun"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 8,
+    "total": 15
+  },
+  "dateStoredMs": 1588461828941
+}

@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "_ spiked the punch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "US!Papyrus gave _ a brotherly punch.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What? No no, it's okay, he was just calling me a sinner, cause I wanted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey everyone!! It's finally ready! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blueberry gives Geno a _ in an attempt to help him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death touched Geno's _ to see if it would kill him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blueberry becomes Edge's first ever _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had no idea _ were such deadly weapons!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brotherly punch.",
+    "Blueberry.",
+    "Friend.",
+    "Death.",
+    "Sci.",
+    "Kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii-.",
+    "Hershey's kiss.",
+    "US!Papyrus.",
+    "Death Sans.",
+    "Fresh.",
+    "Gaster.",
+    "W.D. Gaster.",
+    "Error.",
+    "Face.",
+    "Papyrus Classic.",
+    "Ball of Sin.",
+    "Edge.",
+    "US!Sans.",
+    "GenoSans.",
+    "UF!Sans.",
+    "Tacos.",
+    "Christmas Spaghetti.",
+    "UF!Papyrus.",
+    "Geno.",
+    "The taco incident.",
+    "Sans Classic."
+  ],
+  "pack": {
+    "id": "876NX",
+    "name": "Cards Against Christmas Party AU"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 26,
+    "total": 34
+  },
+  "dateStoredMs": 1588648322215
+}

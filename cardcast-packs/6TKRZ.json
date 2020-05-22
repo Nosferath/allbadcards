@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "My friend David Cameron is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have never _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite my cycling I still _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love bicycles so much I once _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I, the mayor of London, like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boris Johnson's hair is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Britain should leave the UK because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My congestion charges _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Immigrants.",
+    "Combed hair.",
+    "Save London.",
+    "Public transport.",
+    "Had a threesome with David Cameron and a pigs head.",
+    "Aardvarks.",
+    "An old Donald Trump wig.",
+    "Great supine protoplasmic invertebrate jellies.",
+    "Non-cyclists.",
+    "Bendy buses.",
+    "Tackling Asian children.",
+    "Said I would change my name to barclays, after the bank, if they gave me £100 million.",
+    "Can't see my tiny penis.",
+    "A cunt."
+  ],
+  "pack": {
+    "id": "6TKRZ",
+    "name": "Boris Johnson, Mayor of London and saviour of the World"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 14,
+    "total": 23
+  },
+  "dateStoredMs": 1589576965168
+}

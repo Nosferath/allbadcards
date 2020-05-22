@@ -1,0 +1,72 @@
+{
+  "black": [
+    {
+      "content": "Co zawsze rozkręca imprezy?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To pułapka .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest najlepszym przyjacielem kobiety?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biali ludzie lubią _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badania wykazują, że_pokonują labirynt z perfekcyjną siłą co_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co tak pachnie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krok 1: _.              Krok 2: _.         Krok 3: Profity.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest moją super mocą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ukrywają przede mną rodzice?_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ksiądz i jego dzieci.",
+    "Cip-ex.",
+    "Babcia.",
+    "Wpierdol.",
+    "Wpierdol od niedźwiedzia.",
+    "Ministracni."
+  ],
+  "pack": {
+    "id": "NXFTE",
+    "name": "Ostra baranina na grubym"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 6,
+    "total": 16
+  },
+  "dateStoredMs": 1588607421143
+}

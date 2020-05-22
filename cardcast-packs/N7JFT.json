@@ -1,0 +1,494 @@
+{
+  "black": [
+    {
+      "content": "Now that the Legion is defeated, we can go back to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing shakes up the PvP scene quite like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is nothing the pandaren love more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the Dark Iron Dwarves join the Alliance? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't wait to try out the new raid! I heard it has _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ completely ruined our RP session!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Garrosh lost to Thrall in a Mak'Gora because Thrall used _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that funny smell in Dalaran coming from? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe I found _ in the shadowlands!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ left the Horde because of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Are you thinking what I'm thinking? Good. Bring ample supply of _ and  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it just me, or is _ kinda hot?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ya'll think pandas are too silly for WoW? Have you even heard of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best Pandaren brews are made from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Legion came to Azeroth because they wanted _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Alliance and the Horde are fighting over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do the Goblins want now?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of toilet paper, the humans of Stormwind are using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did we defeat the Lich King? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What woke up Ny'alotha? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe Malfurion was actually _ all along!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's one thing I can never forgive Lady Jaina for: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aw man, _ got all corrupted!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! Coronavirus has infected _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing makes a girl UwU like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you Blizzard! _  goes perfectly with my Worgen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's an addon that adds _ into your adventures!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help! I can't seem to beat _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Stormwind guard can't shut _ down! It's essential!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Queen Azshara want this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Druids can turn into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know, _ is actually pretty useful for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm _ on the streets... but _ in the sheets.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How are Lightforged Death Knights made?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in your Horrific Vision? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Master~ Your pet needs some _~!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh it's horrible! I found _ in the Goldshire Inn!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love Darnassus... _ everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now entering the arena, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sells particularly well in the Auction House for some reason.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our raid team beat the final boss by using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is going straight to the Maw!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know the way to a woman's heart? _. Trust me on this one, darling.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've spent countless hours working toward _ only to have it ruined by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is truly the best way to bring a guild together!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best battle pet in the game is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Light, we are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most beautiful sight in Silvermoon is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, check out this hunter pet! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard the newest expansion will be about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do the folks of Azeroth occupy themselves while social distancing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused the elves to lose their immortality? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You sought _ from Nzoth, but at what cost?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We did not realize, but in Naaru language Exodar means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo, I heard King Anduin really has a thing for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Jaina lose her virginity? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Profit!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wait, how the heck did we wipe? _, again?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is one of the reasons Anduin is pissed at Wrathion.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "My big tiddy void elf gf.",
+    "Someone jizzing in the Well of Eternity.",
+    "Tauren tiddy juice.",
+    "Doing tha voodoo, mon.",
+    "Bwonsamdi.",
+    "Ookin 'em in the Dooker!.",
+    "MILLHOUSE MANASTORM!.",
+    "Getting absolutely butt raped by Ahoo'ru.",
+    "Panda badonkadonk.",
+    "Nutcracker, the  Amazon Futa and destroyer of booty and nuts!.",
+    "A big, thick, throbbing totem.",
+    "The bi-weekly goldshire raid.",
+    "Genn Greymane.",
+    "The Bear that Hates Furries, despite being one himself.",
+    "Pally bubble condoms.",
+    "Velen, the chillest dude ever.",
+    "PvP: Social Distancing edition.",
+    "Good posture.",
+    "Getting Disconnected during a mythic.",
+    "A Horrific Vision full of naked Velens.",
+    "The furries of Ardenweald.",
+    "Panda Land.",
+    "The local goblin-run Strip Club.",
+    "Burning Teldrassil to the ground baby!.",
+    "Space Goat Milk.",
+    "Yrel's collection of steamy romance novels.",
+    "The Alliance.",
+    "The ultimate UwU!.",
+    "Cards against Azeroth.",
+    "Finding used panties in the Weekly Chest.",
+    "The knowledge that male blood elves don't exist.",
+    "Forsaken boners.",
+    "Being the worst tank ever.",
+    "Draebois.",
+    "An important lore character doing something baaaaad.",
+    "Nzoth... with a gun.",
+    "Big pp worgen.",
+    "A Blood Elf drag show.",
+    "The Battle of Razzle Dazzle'or.",
+    "Frost mage panties.",
+    "N'Zoth.",
+    "Playing a human when you could play literally anything else.",
+    "Panda Death Knights being sad cause they can't drink.",
+    "The mogu.",
+    "Jaina Proudmoore.",
+    "The unicorn that is a female dwarf.",
+    "Actually losing an Island Expedition.",
+    "T'PAARTOS!.",
+    "Queen Azshara!.",
+    "The Warcraft Movie.",
+    "A Gamer Girl™.",
+    "Felweed.",
+    "How cool it would be if LF Death knights had blue tattoos.",
+    "Alllllll the booty.",
+    "The Horde.",
+    "The Horde hording all the toilet paper.",
+    "Getting ganked by a gnome.",
+    "Mantid working that pole like a pro.",
+    "The rare case of someone liking WoD.",
+    "Goats with horse cocks.",
+    "Steamy romance novels.",
+    "My Little Talbuk.",
+    "T'Paartos losing his virginity to Sargeras.",
+    "The thickest, fluffiest, tail ever!.",
+    "My uwu mog.",
+    "Using Peacebloom to make peace, and failing.",
+    "Sylvanas on her period AGAIN!.",
+    "Acting like a Nice Guy™ to get e-puss.",
+    "Felweed.",
+    "Mechagnomes grinding some gears.",
+    "Orcnor.",
+    "World of AlabamaCraft.",
+    "Guild drama.",
+    "My WoW gf who totally isn't a 30 year old man irl.",
+    "A goldshire G.I.R.L.",
+    "The knowledge that the shadowlands is probably full of nelf whores.",
+    "A fuzzy wuzzy Vulpera.",
+    "Russian space baras.",
+    "Riding a horse when you can ride literally anything else.",
+    "Anduin, who finally got his period.",
+    "( ͡° ͜ʖ ͡°).",
+    "Tauren on Goblin action.",
+    "Flat Azerothers.",
+    "The fact that banging a Worgeness makes you a furry.",
+    "Trolls trolling in Goldshire.",
+    "Lion's Disappointment Inn.",
+    "Committing crimes against nature with the necrolords.",
+    "Bimbofication fetish art of Jaina.",
+    "The latest patch.",
+    "Going to Goldshire with the bois.",
+    "Durotan getting a tan in Durotar.",
+    "/flirting with literally everything.",
+    "Magic space mummies.",
+    "Faction elitists.",
+    "Excessive hand holding.",
+    "Slightly used condoms.",
+    "C'Thun, the most Kawaii Old God.",
+    "The Whorde.",
+    "The Guild Bouncer.",
+    "The Feast of Winterveil!.",
+    "Tirion Fordring screaming 'for the light!' while he ejaculates.",
+    "Varian Wrynn.",
+    "Manduin.",
+    "Ogrewatch.",
+    "Several stacks of Lich King smut.",
+    "Going to Highmountain to get high.",
+    "Daddy Khadgar.",
+    "The Brawler's Guild.",
+    "Your friendly neighborhood Death Knight who loves panda girls too much.",
+    "Dwarves going rock hard.",
+    "A Discord that is actually active.",
+    "Being stuck in quarantine with a worgen in heat.",
+    "Bustin' a big ol' nut all over the raid boss.",
+    "Steamy ERP with a forsaken that totally isn't necrophilia.",
+    "Bringing your friend to a WoW CaH game.",
+    "Thrall.",
+    "Cow people who can turn into cats.",
+    "Freaky worgen yiff action.",
+    "Orc girls.",
+    "Racist troll stereotypes.",
+    "The knowledge that Wrathion is now a legal adult in dragon years.",
+    "Gamon, whom will save us.",
+    "Thicc humans.",
+    "Whorelords of Draenor.",
+    "Realizing that Velen runs a strip club.",
+    "A feast with a suspicious smell.",
+    "Getting gnomed by a gnome.",
+    "Tuesday.",
+    "Screaming \"For the Horde\" every 5 minutes.",
+    "Moaning in voice chat.",
+    "Fel-flavored condoms.",
+    "Dashing draenei paladins.",
+    "Malfurion.",
+    "Saying Naga instead of nigga.",
+    "Anduin bitch slapping Wrathion into the fucking void.",
+    "My greedy Goblin ass.",
+    "Those damn illusions.",
+    "The bisexual draegirl.",
+    "Illidan's sex dungeon.",
+    "Porn of Yrel and Maraad.",
+    "Sexy Blackrock Foundry. It's like Blackrock Foundry, but sexy.",
+    "Playing Minecraft instead of erping with sexy dwarves.",
+    "Gay ass blood elves.",
+    "Futa draenei girls with a bigger cock than yours.",
+    "Porn of N'Zoth and Azshara.",
+    "Kyrian sluts.",
+    "A bukake with all the horde leaders.",
+    "Jaina Fuckmore.",
+    "Fucking a gnome in her tight lil pussy.",
+    "Velen working part-time as a stripper.",
+    "A Nightborne orgy.",
+    "The Sexodar.",
+    "Throwing a bitch fit when you don't get e-puss.",
+    "My furry ass.",
+    "Orc Hitler.",
+    "Pornshire.",
+    "The sexiest Zandalari Troll you can imagine, honey.",
+    "Void Tentacle hentai.",
+    "Night Elves getting FUCKED by the writers, literally.",
+    "My fat dawrven ass.",
+    "Taking that futa cock like a champ!.",
+    "Trying to work the god damn Auction House.",
+    "The weekly night elf orgy.",
+    "Being a dick to gnomes and pandas.",
+    "That damn tank who won't shut the fuck up.",
+    "Twincest being wincest!.",
+    "The knowledge that Sylvanas probably fucked Arthas.",
+    "The need to fuck an Old God.",
+    "Wrathion riding Anduin like the little bitch he is.",
+    "Accidentally saying nigga instead of Naga.",
+    "Archimonde fucking the World Tree.",
+    "The raw sex appeal of male Goblins.",
+    "Illidan's fel flavored cock.",
+    "A nice... thick... juicy... Tauren cock.",
+    "Bolvar getting his ass kicked by the Bitch Queen.",
+    "Finding male goblins sexy.",
+    "Nagas and bitches.",
+    "N'Zoth themed tentacle Hentai.",
+    "Garrosh being a jackass.",
+    "The healer who doesn't fucking heal.",
+    "My big-dick Felguard bf.",
+    "Doing those damn World Quests.",
+    "Porn of Vol'jin cumming inside of Thrall's manpussy."
+  ],
+  "pack": {
+    "id": "N7JFT",
+    "name": "Cards Against Goldshire"
+  },
+  "quantity": {
+    "black": 59,
+    "white": 183,
+    "total": 242
+  },
+  "dateStoredMs": 1589363368583
+}

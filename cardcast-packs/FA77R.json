@@ -1,0 +1,120 @@
+{
+  "black": [
+    {
+      "content": "2049: the world is engulfed in _ as _ run rampant.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I've seen things you people wouldn't believe: _... I saw _ glitter in the dark near _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "New Augmentation Fad: Replace parts of your brain with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "IRL, I may be boring and unattractive, but my virtual reality avatar is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Future is bright: picture _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "High _. Low _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Computer, display _ to the main screen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To be honest, proprietary _ is preferable to GNU one.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Machine worship.",
+    "Hackers on steroids.",
+    "Simulacra.",
+    "Neo-Tokyo.",
+    "Megacorporations displacing the state.",
+    "Great filter.",
+    "Paranoia.",
+    "Police state.",
+    "Neochina.",
+    "Complete obliteration of internet privacy.",
+    "Using neuromods to tap into people's dreams.",
+    "Superintelligent artificial intelligence.",
+    "Utility nanomachines.",
+    "Global government.",
+    "Console cowboy.",
+    "Being marginalized.",
+    "Forced Proprietary Firmware.",
+    "Fake memories.",
+    "Prefrontal lobe.",
+    "Bitcoin street gangs.",
+    "Cheating on a Turing test.",
+    "Destructive consciousness uploading.",
+    "3D printed weapons.",
+    "Wetware CPU.",
+    "Artificial reality.",
+    "Individuality and the self.",
+    "Exchanging cryptographic hashes.",
+    "Unconditional empathy.",
+    "Flesh eating bacteria.",
+    "Japanese street fashion.",
+    "Outright sociopathy.",
+    "Korean corporate slavery.",
+    "VR chat.",
+    "Proprietary implants under a lease agreement.",
+    "Next step in human evolution.",
+    "Baseline humans.",
+    "Tactical neural implant.",
+    "Paperclip replicator.",
+    "Virtual reality dataspace.",
+    "Soylent™.",
+    "Laputan machine.",
+    "Brain-computer interface.",
+    "A thumbdrive with backed up consciousness.",
+    "Technological Singularity.",
+    "Talking to a Chinese room.",
+    "AI gf.",
+    "Private military corporation.",
+    "Cheap Chinese knockoff.",
+    "Nanotechnology and biotechnology spiraling out of control.",
+    "Ecoterrorists.",
+    "Internet of things.",
+    "Human hiveminds.",
+    "Blackmail and coercion.",
+    "Nootropic drugs.",
+    "Designer babies.",
+    "Hypercapitalism.",
+    "Grey goo.",
+    "Banned military grade prosthesis initially developed for disabled people.",
+    "Nanomachines.",
+    "Replicants.",
+    "Tyrell Corporation.",
+    "A swarm of AI-controlled microdrones equipped with nanoexplosives.",
+    "A dystopia we currently inhabit.",
+    "Technophobia."
+  ],
+  "pack": {
+    "id": "FA77R",
+    "name": "Cyberpunk"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 64,
+    "total": 72
+  },
+  "dateStoredMs": 1589424441129
+}

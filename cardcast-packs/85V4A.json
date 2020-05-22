@@ -1,0 +1,42 @@
+{
+  "black": [
+    {
+      "content": "How are everyone's _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Rick, did you know my dad was dating _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jerry, get out of the booth take your clothes off and _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "An Alien.",
+    "Fold yourself 12 times.",
+    "Jerry.",
+    "Beth.",
+    "Wubulubudubdub!!.",
+    "Pills.",
+    "Summer.",
+    "Szechuan Sauce.",
+    "Mr. Poopybutthole.",
+    "Rick.",
+    "Morty."
+  ],
+  "pack": {
+    "id": "85V4A",
+    "name": "Rick and Morty Deck"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 11,
+    "total": 14
+  },
+  "dateStoredMs": 1589260562845
+}

@@ -1,0 +1,678 @@
+{
+  "black": [
+    {
+      "content": "_, siinäpä vasta pulma!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suurin unelmani on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lidlin euron maksava _, siinäpä vasta hinta-laatusuhde kohdallaan!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos joutuisin autiolle saarelle Johanna Tukiaisen kanssa, olisi minulla pakko olla _ mukana.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on maailman pahin sairaus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avioliitto on kuin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hyvä vastaanottaja, haluaisimme informoida teille, että _ on peruttu _ vuoksi.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jos ryöstäisin pankin, käyttäisin apuna _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ olisi unelmien vastustaja painiotteluun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos en olisi ihminen, olisin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ystäväni ei tiedosta olevansa _, mutta se on selvää, onhan hän aivan räjähtämäisillään!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on paras tapa viettää vappua.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naapurini wifinsalasana on “MinaRakastaaIso _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ olisi parempi pääministeri kuin Sanna Marin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaikein pantomiiminä esitettävä aihe olisi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jos minusta tulisi kuningas, olisi arvonimeni _ kuningas _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jos jokin tulee hajottamaan nyky-yhteiskunnan, se on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanhempani ja heidän _ on jättänyt minulle elinikäiset traumat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lempiruokani on _, jos tiedät mitä tarkoitan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seksielämäni tiivistyy seuraaviin kahteen asiaan: _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Trump suosittelee käyttämään _ koronan ehkäisemiseen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masturbointiin paras apuväline on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karanteenin parasta ajanvietettä on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silmiäni usko en, kun se tyttö teki sen, täydellisen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paras asia treffeissä on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä et haluaisi löytää vanhempiesi yöpöydän laatikosta? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mitä tässä ruuassa on? Se maistuu hyvälle. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä on suurin haaveesi jonka haluaisit toteuttaa isovanhempiesi kanssa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ainoa keino, jolla saan unta nykyään öisin, on kuvitella päässäni _ ja laskea niitä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Työmotivaatiotani inspiroi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Supervoimieni lähde on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disney esittää: Tähtien Sota 10: Jedin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Osta _! Sen jälkeen peräpukamat pysyvät varmasti poissa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parhaimman makuisen smoothien raaka-aineita ovat _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Suurin osa suomalaisista ovat kuin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Olenko ainoa, jonka mielestä _ on hyvin seksikäs?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on perheemme traditio.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Surkeimpaani kokemusta sängyssä tähditti _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierut ovat kuin _. Aina siellä, missä ei pitäisi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juon, jotta _ unohtuu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sopisi täydellisesti näyttelemään James Bondia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ saa minussa aikaan mielihaluja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Post-Korona aikakautena valuuttana kelpaa ainoastaan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uudeksi James Bondiksi on valittu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on syy äitini pilvenpolttoon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seuraamieni instagramtilien kuvien aiheet ovat pelkästään _ ja _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jokaisen pahe on _. Se, joka kieltää sen, valehtelee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ poistaminen onnistuu parhaiten liekinheittimellä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shokkiuutinen! Jussi Halla-aholla salasuhde, jonka toisena osapuolena on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matti Nykäsen menestyksen takana oli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jouduin kerran menemään lääkäriin, sillä _ jäi kiinni anukseeni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nalle Puhin tunnusmerkki on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mieluummin sata _, kuin yksi _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Suomen armeijan uusin koulutusmetodi alokkaille sisältää _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trumpin puhe, jonka aiheena oli _, muutti maailman.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ei ole koskaan soveliasta töissä.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + pesukarhu, jolla ei ole mitään menetettävää = Poliisin uusin poliisikoira",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Elämäntarina, joka jokaisen tulisi lukea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vain _ voi auttaa ilmastonmuutoksen hidastamisessa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ja _ sopivat hyvin krapulan parantamiseen.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Siman salainen ainesosa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "K-Marketin uudessa markkinointikampanjassa on Juha Mieto kokovartalo mämmipuvussa ja _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suomen tuleva presidentti on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flirttini on huonompaa kuin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänään alkaa uusi tv-ohjelma, jossa _ ja _ kilpailevat vastakkain korttitalon rakennuksessa.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kun jään eläkkeelle, _ tulee varmasti olemaan palkkalistoillani.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänä vuonna kaikkien joululahja on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suunnittelijan tärkein työkalu on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mikä tuo ääni on? _. ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vuoden alussa oli kolmannen maailmansodan uhka, sitten saapui korona, ja sitten tuli kaikkein pahin, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Urheilukanavan viime viikon katsotuin ohjelma oli _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arnold Schwarzenegger käyttää penkkitangon painoina _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Suomen armeijan uusin ase ilmantorjuntaan on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mielestäni paras tuoksu on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ala-asteen opettajani oli niin tyhmä, että sen olisi voinut korvata vaikka _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koronan vastalääkkeen tärkein raaka-aine on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensi vuonna tavoitteenani on rakentaa 20m korkea _ naapurini takapihalle salaa keskellä yötä. ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elämäntehtävänäni on omistaa  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seuraavissa USA presidentinvaaleissa Trumpia vastassa on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tänään Pikku Kakkosessa: Rölli ja _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ aiheuttaa eko katastrofin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kun näen ihastukseni, _ on ainoa asia jota pystyn miettimään.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voi ei! _ vastaanotti vahingossa tekstiviestini, jossa tunnustin rakkauttani!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = Kesä 2020",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Viikonlopun lastenohjelmat.",
+    "Sormimaalaus.",
+    "Autokoulu.",
+    "Madonna.",
+    "Frederikin sähköpostit.",
+    "Rehottava bikiniraja.",
+    "Munkki.",
+    "Suomen voitto ruotsista jääkiekossa.",
+    "Toistuvat yllätykset housuissa.",
+    "200m korkea kumiankka.",
+    "Ihmiset, jotka sanovat 'enään'.",
+    "Palovammojen täyttämä iho.",
+    "Uusi pomo.",
+    "Runkkaus exän kuville.",
+    "Pitkä kuuma kesä kotona.",
+    "Ristiinnaulitseminen.",
+    "Super mario.",
+    "Nakkijono.",
+    "Laatikollinen munakoisoja vaatehuoneessa.",
+    "Viinisnobi.",
+    "Spiritismi.",
+    "Maailmanrauha.",
+    "Banaani.",
+    "Kokkaaminen vain essu yllä.",
+    "Kylähullu.",
+    "Taistelupastori.",
+    "Kylmät väreet.",
+    "Alasti työhaastattelussa.",
+    "Kala kuivalla maalla.",
+    "Käden laittaminen kuumalle hellalle.",
+    "Adhd.",
+    "Rehtori.",
+    "Rintoihin harhaileva katse.",
+    "Pontikan keittäminen.",
+    "Loppumaton ripuli juuri silloin kun on kiire.",
+    "Naku-uinti appivanhempien kanssa.",
+    "Synnytyssairaala.",
+    "E-pillerin unohtaminen.",
+    "Tanssiva kirahvi.",
+    "Joukkio elämämkoululaisia.",
+    "Instagram influensseri.",
+    "Vastarinta.",
+    "Sodan aloittaminen ydinpommilla.",
+    "Tequilan juominen vauvan mahan päältä.",
+    "Bioase.",
+    "Qstock.",
+    "Rikospodcastin tekeminen vankisellistä.",
+    "Hiljaisuus.",
+    "Juoksukaljat.",
+    "Punahilkka suden kidassa.",
+    "Murhaaja.",
+    "Hysteerisesti itkevä nuori mies.",
+    "Anaaliseksi lentokoneen ohjaamossa.",
+    "Sateinen päivä balilla.",
+    "Hiiva.",
+    "Velho.",
+    "Hitlerin faniklubiin liittyminen.",
+    "Parturi-kampaajat.",
+    "Pudasjärven m-market.",
+    "Väärä laulu karaokessa.",
+    "Jono alkoon.",
+    "Vuohi juoksemassa ruokakaupan sisällä.",
+    "Kahden deittailu samanaikaisesti.",
+    "Yhdys sana virheet.",
+    "Esittää välittävänsä.",
+    "Kissavideo, joka ei ole söpö.",
+    "Kalkaroksen liemitunnit.",
+    "Kuuma kesäpäivä täydessä junassa.",
+    "Lähibaarin joukkotappelu.",
+    "Mario huumattuna bussin takapenkillä.",
+    "Brexit.",
+    "Marianne-karkkien grillaus.",
+    "Kainalohiki.",
+    "Toto: africa.",
+    "Karheat jalkapohjat.",
+    "Varastettu jääkaappi.",
+    "Kylmä englantilainen aamupala.",
+    "Niinistön koira lennu.",
+    "Korvavaikun syöminen.",
+    "Koirankakan pudottaminen postiluukusta.",
+    "Joulupöydässä.",
+    "Pikachun kanssa nyrkkeilemässä.",
+    "Illallinen päivi räsäsen kanssa.",
+    "Pieruverkkarit, joita inhoamasi henkilö ei ole pessyt kuukauteen.",
+    "Aikamatkustaminen takaisin elämäsi noloimpaan hetkeen.",
+    "Joku tyyppi.",
+    "Elämänsä pahimpaa krapulaa poteva kuningatar elisabet.",
+    "Ananas.",
+    "Arnold schwarzenegger.",
+    "Koulun rehtoriin törmääminen seksikaupassa.",
+    "Puuhöylä.",
+    "Räjähdyksiä.",
+    "Haisevat, karvaiset hipit.",
+    "Karhulla ratsastava putin.",
+    "Ismo laitelan kanssa saunassa.",
+    "Poikaystävän vaihtaminen hänen isäänsä.",
+    "Euroviisut.",
+    "Korona.",
+    "Piraatti.",
+    "Barack obaman kanssa oluella.",
+    "Pieleen menneet sokkotreffit.",
+    "Temppareihin osallistuminen.",
+    "Pelkkä menolippu.",
+    "Karhuntalja.",
+    "Pilkunnussinta.",
+    "Katapultti.",
+    "Kaverini seksikäs äiti.",
+    "Kahvakuula.",
+    "Terapiaistunto.",
+    "Power point esitys.",
+    "Humalainen.",
+    "Silitysraudan käyttäminen kylpyammeessa.",
+    "Koiranpentuja.",
+    "Kirmaava hevonen.",
+    "Exän uuden kumppanin 4 vuotta vanhasta kuvasta tykkääminen vahingossa.",
+    "Jäätelöauto.",
+    "Kokkisota.",
+    "Yläasteen liikuntatunti.",
+    "Donald trump uimassa.",
+    "Freddy kruger.",
+    "Juhannus.",
+    "Syödä puolukoita.",
+    "Muiden tuomitseminen.",
+    "Vastapuristettu finni.",
+    "Mäkkärin nugetit.",
+    "Suihinotto sovituskopissa.",
+    "Kullikaruselli.",
+    "Pitkät, romanttiset kävelyt alkossa.",
+    "Seinässä törröttävä kirves.",
+    "Krapula.",
+    "Sidottuna puuhun kiinni.",
+    "Piiska.",
+    "Pöydälle jäänyt kermakakku.",
+    "Sims-peli.",
+    "Ikkunaan lentävä lintu.",
+    "Urheiluauto munanjatkeena.",
+    "Pesukarhuperhe takapihalla.",
+    "Kissa uunissa.",
+    "Pieru, joka ei jäänyt pelkäksi pieruksi.",
+    "Frendien kaikki tuotantokaudet.",
+    "Kuumaliima.",
+    "Subway pelkällä salaatilla.",
+    "Myöhässä olevat kuukautiset.",
+    "Suomalainen turisti kanariansaarilla puhumassa suomea paikallisille.",
+    "Epäkunnossa oleva liekinheitin.",
+    "Suonenjoen mansikkakarnevaalit.",
+    "Frontside ollie.",
+    "Porakoneella tehostettu vibraattori.",
+    "Bob ross.",
+    "Synkronoituneet menkat.",
+    "Lumisade juhannuksena.",
+    "Parkkisakon saaminen kauppareissun aikana.",
+    "Elovena-patukoita.",
+    "Epäonnistunut ulosveto.",
+    "Sarjamurhaaja.",
+    "Erakoitua.",
+    "Kallis, pahanmakuinen viini.",
+    "Sankollinen pyhää vettä.",
+    "Lapsen munuaisen myyminen mustassa pörssissä.",
+    "Hiomaton puudildo.",
+    "36241 pihatonttua.",
+    "Alasti kulkeminen avonaisten ikkunoiden edessä.",
+    "Puhe festariyleisön edessä.",
+    "16 kannibaalia.",
+    "Haiseva vierustoveri lentokoneessa.",
+    "Puuhamies pate.",
+    "Darude sandstormin 10h version kuunteleminen kokonaan.",
+    "Miehen penistä pidempien korkojen käyttäminen.",
+    "Asmr.",
+    "Meemit.",
+    "Nälänhätä.",
+    "Roope ankka.",
+    "Hameen alta salakuvaaminen omissa häissäsi.",
+    "Laskuvarjohyppy ilman laskuvarjoa.",
+    "Käytetty kondomi sängyn alla.",
+    "Oksentaminen.",
+    "470 000 € maksava taideteos.",
+    "Köyhien ulinaa.",
+    "Varastettu dvd-soitin.",
+    "Norjalainen kirkonpolttometalli.",
+    "Nunna.",
+    "Komissaario reinikainen.",
+    "Vähiin vaatteisiin pukeutunut joulupukki.",
+    "Ilmastointiteippi.",
+    "Kynttiläillallinen.",
+    "Raketinheitin.",
+    "Luonnonvalinta.",
+    "Grillikioski.",
+    "Viimeinen määränpää.",
+    "Monopoly perheriita.",
+    "Tuliainen kiinasta, jossa lukee made in bangladesh.",
+    "Huumelaboratorio.",
+    "Pölynimurista tehty liekinheitin.",
+    "Kokko.",
+    "Karhun herättäminen talviunilta.",
+    "Speden spelit.",
+    "Paidan selkämyksen hikoileminen litimäräksi.",
+    "Tutun soittoäänen kuuleminen hautajaisissa.",
+    "Pelleasuun pukeutunut henkilö pimeässä metsässä.",
+    "Märät alushousut.",
+    "Hopeanuoli.",
+    "Pilapuhelu, jossa huijataan lemmikin kuolemasta.",
+    "Märkä sukka.",
+    "Baarikierros.",
+    "Kolmas maailmansota .",
+    "Minipossuarmeija.",
+    "Kuristaminen.",
+    "Mikko kuustonen.",
+    "Vanhempasi harrastamassa kiihkeää seksiä.",
+    "Kiljua niin kovaa, että vieressä oleva saa tinnituksen.",
+    "Kitaristi.",
+    "Nuorempi nainen.",
+    "Naapureiden roska-astioiden dyykkaus.",
+    "Raparperipiirakan leipominen.",
+    "Ilmaisnäytteet.",
+    "Sairaan nopee ja värikäs.",
+    "Kaatunut pisan kalteva torni.",
+    "Käytetyt alushousut.",
+    "Karaoken laulaminen oksennustaudissa.",
+    "Karanteeni.",
+    "Synkkä tulevaisuus.",
+    "Saimaannorpan salakuljetus norjaan.",
+    "Pelle hermanni.",
+    "Sugar daddyna oleminen.",
+    "Koskenkorva.",
+    "Seikkailijahattu.",
+    "Tonnin seteli.",
+    "Geishakuulat.",
+    "40-vuotias neitsyt.",
+    "Vanhan naisen sukkahousut.",
+    "Jäätävä krapula.",
+    "Anneli auer.",
+    "Sängyn alta ryömivä monsteri.",
+    "Darth vader.",
+    "Ilmainen ämpäri.",
+    "Netflix & chill.",
+    "Maahan tippunut jäätelö.",
+    "Polttarit anopin kanssa.",
+    "Tahallaan aiheututtu keskenmeno.",
+    "Kirjan lukeminen aloittaen viimeisestä kappaleesta.",
+    "Kolmannen sukupolven perussuomalainen.",
+    "Lentävä kalakukko."
+  ],
+  "pack": {
+    "id": "2WVVK",
+    "name": "Wabu"
+  },
+  "quantity": {
+    "black": 84,
+    "white": 242,
+    "total": 326
+  },
+  "dateStoredMs": 1588348421037
+}

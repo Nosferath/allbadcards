@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "Help Wisp find his five missing _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I asked Isabelle to talk _ about _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Seafaring Gull of the Seven _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is visiting your island!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I caught _ in the river",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\"I caught a sea bass! No, wait- it's at least a C+!\".",
+    "Tarantula army.",
+    "Not inviting friends to your island because your interior design still sucks.",
+    "Chasing your friends around with an axe.",
+    "Museum dates.",
+    "Wacking ugly villagers with a net so they'll move off your island.",
+    "Staying up until midnight so you can get to tarantula island.",
+    "Tom Nook.",
+    "Twerking to kk bubblegum.",
+    "Isabelle.",
+    "Making a blood sacrifice to get Raymond on your island."
+  ],
+  "pack": {
+    "id": "5CUKF",
+    "name": "Animal Crossing: New Horizons"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 11,
+    "total": 16
+  },
+  "dateStoredMs": 1589568309918
+}

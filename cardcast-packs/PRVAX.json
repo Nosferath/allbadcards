@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Fadi had trouble figuring out the science behind _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "prvax",
+    "name": "the retards pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588994738857
+}

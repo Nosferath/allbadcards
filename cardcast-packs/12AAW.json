@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "One of them _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have all been scientists at one point or another, in our lives; but why now? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"No flag? Goes in the bag. Red flag? _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try not to look at the _, and do not, for any period of time, look at the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It is possible you might see _ in the dog park. Do not approach them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What color are the unmarked helicopters circling the area? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, listeners. To start off, I've been asked to read this brief notice: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The angels were ten feet tall, radiant, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new man came into town today. Who is he? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you see something, say nothing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BANS: _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The _ will not harm you.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The dog park.",
+    "Old Woman Josie.",
+    "And drink to forget.",
+    "Wheat and wheat by-products.",
+    "He says he is a scientist.",
+    "Desert Flower Bowling Alley and Arcade Fun Complex.",
+    "Dogs are not allowed in the dog park.",
+    "Changed the light-bulb for her, the porch light.",
+    "No one does a slice like Big Rico. No one.",
+    "Carlos the Scientist.",
+    "The Faceless Old Woman Who Secretly Lives in Your Home.",
+    "Black? Probably World Government.",
+    "One of them was black.",
+    "What does he want from us? Why his perfect and beautiful haircut? Why his perfect and beautiful coat?.",
+    "Public descriptions of the moon.",
+    "People are not allowed in the dog park.",
+    "They only tell lies.",
+    "Do not approach the dog park.",
+    "Hooded figures.",
+    "ALL HAIL THE MIGHTY GLOW CLOUD.",
+    "The House that Doesn't Exist.",
+    "Why here?.",
+    "Pocket calculators.",
+    "Tamika Flynn."
+  ],
+  "pack": {
+    "id": "12AAW",
+    "name": "Cards Against Night Vale"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 24,
+    "total": 36
+  },
+  "dateStoredMs": 1588453699557
+}

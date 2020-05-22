@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Mi sa che il mio prossimo acquisto sarà _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , e che fai te ne privi ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'altro giorno mia madre ha trovato _ nella mia cartella",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hai mai provato a _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La mia cronologia è piena di _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "00:00, l'orario perfetto per _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il mio brano spotify preferito è _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "La key di VALORANT.",
+    "Cose sconce.",
+    "Una scarpa nel sassolino.",
+    "Involtare l'assaggino.",
+    "Usare il proprio cazzo come idrante per spegnere un incendio.",
+    "Dio mattone."
+  ],
+  "pack": {
+    "id": "S8HXV",
+    "name": "AlexxV3"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 6,
+    "total": 13
+  },
+  "dateStoredMs": 1589400538114
+}

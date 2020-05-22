@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "Remember.  There are no such things as mistakes.  Only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now let's draw _ right there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let's mix some _ with a bit of  _ to create a nice _ color.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Beating the devil out of it.",
+    "Happy accidents.",
+    "A pocket full of baby squirrels.",
+    "A happy little tree.",
+    "Pthalo blue."
+  ],
+  "pack": {
+    "id": "ERF6V",
+    "name": "A Happy Little Deck"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 5,
+    "total": 8
+  },
+  "dateStoredMs": 1588532133526
+}

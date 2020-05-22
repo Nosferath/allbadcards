@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "I love it when computers _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Play a stupid tune."
+  ],
+  "pack": {
+    "id": "R8ZNH",
+    "name": "Norbs geekery"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589530512546
+}

@@ -1,0 +1,17 @@
+{
+  "black": [],
+  "white": [
+    "Mitochondria.",
+    "Endoplasmic reticulum."
+  ],
+  "pack": {
+    "id": "KC89P",
+    "name": "Bioloby"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 2,
+    "total": 2
+  },
+  "dateStoredMs": 1589573184638
+}

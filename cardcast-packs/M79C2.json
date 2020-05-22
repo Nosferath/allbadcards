@@ -1,0 +1,86 @@
+{
+  "black": [
+    {
+      "content": "Juanes dijo \"Veanse One Piece\", nuestra respuesta fue _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La borrachera de Camila causo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sara está llorando por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lo único que separa a Sara de Adriana es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Por qué José tiene tanto tiempo libre? La respuesta es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eres la _ mijo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando Miguel toca la guitarra no puedo evitar escuchar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dicelo Zticma! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A José le apagan el internet porque una vez lo encontraron _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Escuchar a Camila gritar es equivalente a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Los Pendejeros, También conocidos como Los _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sergio.",
+    "The Game.",
+    "Llanos.",
+    "La prima de Sergio.",
+    "Amilcar.",
+    "Sofía.",
+    "Juanes.",
+    "Gomez.",
+    "José.",
+    "No mames te la creiste.",
+    "Sara.",
+    "Camila.",
+    "Adriana.",
+    "La risa de Juanes.",
+    "A culero te la estas jalando."
+  ],
+  "pack": {
+    "id": "M79C2",
+    "name": "LosP"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 15,
+    "total": 26
+  },
+  "dateStoredMs": 1588513935349
+}

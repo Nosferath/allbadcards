@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "When you forget that _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, god there's a _ by my door!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First, let me craft my _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pumpkin.",
+    "Enderman.",
+    "Blocks.",
+    "Zombie.",
+    "Lava.",
+    "They forgot to craft pickaxes.",
+    "Creeper.",
+    "Death by hunger.",
+    "Diamond.",
+    "Villager."
+  ],
+  "pack": {
+    "id": "RFQHU",
+    "name": "Cards against Minecraft"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1589328897847
+}

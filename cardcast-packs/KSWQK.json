@@ -1,0 +1,99 @@
+{
+  "black": [
+    {
+      "content": "SVP ne rentrez pas da la chambre quand je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SVP ne rentrez pas da la chambre quand je _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non mais _ , c'est pas raciste, cest juste un peu, voilà quoi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Est ce que tu pense qu'on peux _ pendant _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Macron tu es foutu _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Depuis que je _ ma vie sexuelle est trop bien.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Avoir des régrets.",
+    "Dormir par terre.",
+    "Kkkkkkk.",
+    "Une sauterie en comité restreinte.",
+    "Sebastien Patoche.",
+    "La France.",
+    "Denoncer ses collegues.",
+    "Dire \"saloppe\" avec un accent italienne.",
+    "Faire une confession sur son crush.",
+    "Boire un peut trop du Rhum blanc.",
+    "Ecouter les chansons baufs.",
+    "Patrick Sébastien.",
+    "Etre un esseiste recconu.",
+    "La solution finale.",
+    "Les insoumis.",
+    "Etre bien sapé.",
+    "Macronistan.",
+    "Vouloir violer la meuf bonne de la calsse.",
+    "Se faire maitriser par un 2003.",
+    "Scenarios un peu trop sensuelles.",
+    "Macron.",
+    "Déraper sur le sujet de féminisme.",
+    "Ne pas respecter la règle de 3 couleurs.",
+    "Migration massif en bateaux gonflables.",
+    "Les chinois du centre.",
+    "Tonel Tanguy.",
+    "L'Afrance.",
+    "Tilter le chien ardant.",
+    "Covid-19.",
+    "Mélanger des alcools au hasard disant que c'est la facon de faire en Pologne.",
+    "Donner de plaisir prostatiques.",
+    "Didier.",
+    "Je suis la république.",
+    "Faire un 5 contre 1.",
+    "Regarder le match Brésil Corée du Sud.",
+    "Le mini verte.",
+    "Finir ses phrases en English.",
+    "La règle de trilogie des couleurs.",
+    "La macronie.",
+    "Ouvrir les portes au mauvais moment.",
+    "Juire 6 fois d'affiler.",
+    "Avoir des kinks particulières.",
+    "Le Dieu.",
+    "La mer noire.",
+    "Viol.",
+    "Parler en frenglish.",
+    "Programme surpuissance.",
+    "Se faire dominer par mr Cat.",
+    "Mettre une cartouche.",
+    "Donner les cours de Macro.",
+    "Meuf tellement bonne que on pourrait quitter sa femme et ca serrait légitime.",
+    "Changer sa cible tout le 3 semaines.",
+    "Une petite pipe."
+  ],
+  "pack": {
+    "id": "KSWQK",
+    "name": "Les apoculteurs du grand soir"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 53,
+    "total": 59
+  },
+  "dateStoredMs": 1588455969307
+}

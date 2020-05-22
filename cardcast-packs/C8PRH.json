@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Have you heard the new _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! Walter _ , now he _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Have you heard _ 's new album",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walter's favorite activity is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dennis why do you always  _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no, mom found the _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A mountain of protein powder.",
+    "Covid-19.",
+    "A Whole Arbys.",
+    "Youngmindtrips classical masterpiece \"Seasick\".",
+    "A cool Dennis.",
+    "Playing Call of Duty too much.",
+    "Alyssa's cat Darla committing murder.",
+    "Aaaaaaaaaaaaaaaaaa.",
+    "Walter.",
+    "Penis Store.",
+    "PuSsySlaYer69420."
+  ],
+  "pack": {
+    "id": "C8PRH",
+    "name": "Woah"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 11,
+    "total": 17
+  },
+  "dateStoredMs": 1588378484583
+}

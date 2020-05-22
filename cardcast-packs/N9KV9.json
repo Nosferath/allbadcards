@@ -1,0 +1,372 @@
+{
+  "black": [
+    {
+      "content": "Przeszłość to zapomniany kraj... Z _ i _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fetysz _ to: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nowy film tego lata: _ wszystkich bije.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Śniąc o _ w cyrku Cirque du Soleil.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy wiedziałeś, że Listopad to Miesiąc Świadomości o _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje Hobby: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak jem _ to lubię udawać, że jestem maszyną Turinga.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wypełniłem swój apartament _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy wiedziałeś, że możesz po prostu kupić _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Teraz muszę żyć przez całe moje życie udając, że _ nigdy się nie wydarzyło. To będzie zabawne 70 lat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To prawda. To gówniane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W 2019 _ będzie miało przewagę liczebną nad _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy naprawdę spodziewałeś się _?  Nie, Panie Bond. Ja spodziewałem się twojej śmierci!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? To działa w Kerbal Space Program.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest połączone z ACNE! 95% pewności.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaki jest najłatwiejszy sposób ochrony przed Velocirpatorami? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabierz mnie do _, gdzie _ jest zielone i _ są piękne.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. Więc jednak do tego doszło.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja nowa ulubiona gra to rozbierany _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drukarki 3D brzmią zajebiście, dopóki nie dostaniesz spamu zawierającego _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wychodzi na to, że Bóg stworzył świat używając _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest za duży na małą pogawędkę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "1# Wymówka Programistów podczas lenienia się to: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje zdrowie odmówiło jak zauważyłem, że mogę jeść _ kiedy tylko zechcę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeżeli kogoś naprawdę niecierpisz, naucz ich rozpoznawać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzwonili z 2009? Ostrzegłaś ich przed _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopóki nie ujrzę więcej danych, będę uważał, że _ sprawia _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Recenja Ebay'a: Zamiast _, paczka zawierała _. Nie kupiłbym tego nigdy więcej.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jaka jest moja ulubiona jednostka pomiaru? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za czym tęsknimy z internetu z lat dziewięćdziesiątych? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Badacze z Uniwersytetu stworzyli _ w labolatorium!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Freestylowe rapowanie jest poprostu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.tumblr.com",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest beznadziejnym tematem w łóżku.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem jak _, tylko z miłością.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię zmieniać piosenki zamieniając _ na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jak nazwalibyśmy nową planetę? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żadne z miejsc po których pływałem nie miało _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakbym mógł przestawić alfabet, to bym ułożył _ i _ razem.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wszystkie moje algorytmy to były tak naprawdę zaszyfrowane _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zasada Społeczna 99.1: Jeżeli przyjaciele spędzają ponad 60 minut na decyzji co robić, to powinni zacząć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pomocy! Jestem uwięziony w fabryce _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie chciałem, byś był _ ; Po prostu chciałem, byś był _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pobudki byłyby dużo łatwiejsze, jakby _ nie wyglądał jak ty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem pewien, że nie wyślesz _ pocztą.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ byłoby dobrą nazwą dla zespołu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ludzka inteligencja zmniejsza się przy zwiększającej się bliskości do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Nie, nie lubię Pokémonów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Moja normalna metoda tu się nie sprawdza.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To zabawne zamieniać w myślach słowo _ na _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prawdziwi programiści używają _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie obchodzi mnie _, po prostu lubię _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ byłoby śmieszne, gdyby nie ironia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Napisałem skrypt kupujący rzeczy na Ebay'u za dolara, ale kupił mi _, _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Dlaczego masz kuszę na biurku? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazwę swoje dziecko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaką rolę pełniły Media Społecznościowe w _? Na pewno sprawiły, że _ stało się głupsze.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ jest tylko stosowany w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hej mała, chcesz ze mną pójść do mojego _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler Alert! _ zabija _ używając _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Mieliśmy imprezę na tamat _, ale okazało się, że nie była zbyt zabawna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mogę cofnąć _, ale nie mogę tego usunąć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ile jest wyników wyszukiwania Google dla \"Zmarł w wypadku spowodowanym przez _\"?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Siła odśrodkowa.",
+    "Czerwone pająki.",
+    "Dziewczyna, której jedynym środkiem transportu jest ślizg M.C.Hammer.",
+    "Maszyna do ping-ponga ze samoświadomością.",
+    "Matematyka Velociraptorów.",
+    "Węże w każdym samolocie!.",
+    "Impreza malarii.",
+    "Lingwistyka komputerowa.",
+    "Zeppeliny.",
+    "Eleminacja wszystkich kultur, których nie kontrolujesz.",
+    "Używanie \"Oni\" jako zaimka bezokolicznika trzeciej osoby liczby pojedynczej.",
+    "Wymawianie \"Blog\" jako \"Blag\".",
+    "Fretka z przywiązanymi skrzydłami.",
+    "Celownik Laserowy RJX-21.",
+    "Przesyłanie dziwnych rzeczy pocztą.",
+    "Ludzkiej wielkości kula dla chomików.",
+    "Muzyka na MySpacie.",
+    "Jabłko w parze z cyny.",
+    "Rozkład Poissona.",
+    "Komentowanie tego, co mówią inni ludzie.",
+    "Sprawianie, by Jeremy Irons czytał twoje dialogi.",
+    "Lody waniliowe.",
+    "Wstydliwa historia wyszukiwania.",
+    "Nieubłaganie zbliżająca się ściana lodu.",
+    "Karmienie dzieci kamieniami.",
+    "Zespół Touretta.",
+    "Wychodzenie w blasku chwały dadaistycznej.",
+    "Pierwiastek kwadratowy miłości.",
+    "Robienie małych dziurek w makaronie.",
+    "Ataki raptorów.",
+    "Mieszanie poziomu przekleństw.",
+    "Jedyna wiedza o muzyce z Guitar Hero.",
+    "Lizanie szparki.",
+    "Odpowiadanie na normalne pytanie w pentametrze jambicznym.",
+    "Matematyka lizania szparki.",
+    "Elektryczne Deskorolki.",
+    "Względność moralna.",
+    "Przypadkowe użycie \"sudo\".",
+    "Algorytm Bellman-Ford'a.",
+    "Penis Oriona.",
+    "Transformacja Fouriera swojego kota."
+  ],
+  "pack": {
+    "id": "N9KV9",
+    "name": "XKCD (PL)"
+  },
+  "quantity": {
+    "black": 63,
+    "white": 41,
+    "total": 104
+  },
+  "dateStoredMs": 1589488963972
+}

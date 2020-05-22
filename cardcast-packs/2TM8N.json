@@ -1,0 +1,95 @@
+{
+  "black": [
+    {
+      "content": "Seige Hail _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GAS THE _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anne frank died becuae _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "the holocaust is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "nazi's are _'s",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "nazi's are _ just like _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nazi's are thick because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazi's are gay because _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "your mom is _ just like Hitler",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rape the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "sex? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "JEWS.",
+    "NEIN NEIN NEIN NEIN NEIN!.",
+    "Dab on them Jews!.",
+    "Cuz she a jew.",
+    "You're a Jew.",
+    "An M1 Carbine.",
+    "Victoria!.",
+    "Anne Frank is underaged.",
+    "Thick.",
+    "You are a gay jew.",
+    "Mass shooting.",
+    "Nazi.",
+    "Nazi sex party.",
+    "Hitler gay.",
+    "Du bist ein Dummkopf!.",
+    "Hitler's black friend's dick.",
+    "Hitler's one testicle.",
+    "Shot by a Thick Nazi.",
+    "Semen."
+  ],
+  "pack": {
+    "id": "2TM8N",
+    "name": "Thick Nazi's"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 19,
+    "total": 31
+  },
+  "dateStoredMs": 1588970228720
+}

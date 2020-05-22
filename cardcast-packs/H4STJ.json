@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "How did Maz Kanata get Luke's lightsaber?  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Shmi didn't tell Qui-Gon was that Anakin's father was actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While Padme disguised herself as one of her own handmaidens, _ was actually pretending to be Queen Amidala.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can lead to the dark side.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "H4STJ",
+    "name": "Cards Against Star Wars"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1589060639838
+}

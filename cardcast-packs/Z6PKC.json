@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "You have nothing left, but your _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have an Idea. We could ask the _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wow...So will you let me out then? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you just awkward slide me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, no blade can pierce it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was his last name? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "All because he alluded to the contents within his trousers.",
+    "Because they all look the same!.",
+    "Hobbit ships.",
+    "Mithril.",
+    "Oh no, you stay in there.",
+    "Eagles.",
+    "The dwarf? Kili the Dwarf?.",
+    "KILL THE SHE-ELF."
+  ],
+  "pack": {
+    "id": "Z6PKC",
+    "name": "HISHE Hobbit Pack"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 8,
+    "total": 14
+  },
+  "dateStoredMs": 1589051561917
+}

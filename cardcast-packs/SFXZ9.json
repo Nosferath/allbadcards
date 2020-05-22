@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "_ is currently stored in 2123A.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patrick handed me a vial with _ inside.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world shouldn't be worried about murder hornets; they should be scared of_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No 2120 collection is complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will be our guest speaker at Snodwiggs this week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saw a _ in the Comstock hallway at 3 AM.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I walked in on Cole eating _ in the basement lab.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A long night of blacklighting yielded only  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in the back room of the insect collection.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The worst order in the world, Lepidoptera.",
+    "Matricide.",
+    "Accidentally introducing an invasive species.",
+    "Digging through horse poop to find insects.",
+    "Dumb ornithologists.",
+    "Roach races.",
+    "Illegally smuggling ants.",
+    "Cricket flour cookies.",
+    "The inability to key out a larva.",
+    "Traumatic insemination.",
+    "Thesis cake.",
+    "Dating within the major.",
+    "The inexplicable urge to eat a bug.",
+    "The larvae of Merope tuber.",
+    "Patrick O'Grady's arm muscles.",
+    "Cynthia Kinsland.",
+    "A nondescript Andrenid bee.",
+    "Trying to remember the scientific name.",
+    "Cole and Rayor's hockey tickets.",
+    "An uncomfortable number of maggots.",
+    "Violent dragonfly sex.",
+    "Sexy mantis vore.",
+    "A vial with no matching cap."
+  ],
+  "pack": {
+    "id": "SFXZ9",
+    "name": "Entom deck"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 23,
+    "total": 32
+  },
+  "dateStoredMs": 1589316696322
+}

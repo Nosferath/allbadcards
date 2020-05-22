@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "We've all seen _, and we're all embarrassed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my favourite thing to eat? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I think of you, I touch _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's between my legs? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Children's genitals.",
+    "Lotte's genitals.",
+    "Old people's genitals.",
+    "Animal genitals.",
+    "In my genitals.",
+    "A wax molding of Lotte's genitals.",
+    "The genital grinder.",
+    "My genitals in your mouth.",
+    "A bag of genitals.",
+    "Genitals on a stick.",
+    "Lotte's genitals on a merry-go-round.",
+    "My genitals in your genitals.",
+    "My genitals.",
+    "Typing with your genitals."
+  ],
+  "pack": {
+    "id": "FLHMY",
+    "name": "Genitals deck"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 14,
+    "total": 18
+  },
+  "dateStoredMs": 1588458312015
+}

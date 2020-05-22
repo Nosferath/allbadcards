@@ -1,0 +1,136 @@
+{
+  "black": [
+    {
+      "content": "_ , _ , and _ all had roots in the horror genre.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ vs. _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some of the antagonists that are notable for their mental health issues include _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Vincent Price was in _ , _ , and _, among other films.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Some of Universal's Horror titles include _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ defeats _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, _, and _ are all examples of the Final Girl.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ suspected _ was haunted/posessed by _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Which phallic weapon are we going to use to defeat the antagonist?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To paraphrase Abridged!Avdol, \"I have found that the only way to defeat _ is _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lon Chaney appeared in _ , _ , and _ , among other films.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Buffy Summers.",
+    "Nosferatu.",
+    "Count Dracula.",
+    "Lila Crane.",
+    "Yog-Sothoth.",
+    "Freddy Krueger.",
+    "Frankenstein's monster.",
+    "Joro-Gumo the Spider-woman.",
+    "Sarah Connor.",
+    "The Phantom of the Opera.",
+    "The Xenomorph.",
+    "To blow it out the airlock.",
+    "The Mummy.",
+    "The Invisible Man.",
+    "1982's The Thing.",
+    "Always night.",
+    "To burn it.",
+    "A setting where it's always night.",
+    "Kamaitachi or the Sickle Weasel.",
+    "The Wolfman.",
+    "The 1942 film Cat People.",
+    "The Terminator.",
+    "A hammer.",
+    "Ellen Ripley.",
+    "Gashadokuro, a giant skeleton made up of the bones of people who died of starvation.",
+    "Norman Bates.",
+    "Charles Lee \"Chucky\" Ray/The Good Guy Doll.",
+    "Unneeded terrible sequels.",
+    "A lit match.",
+    "Michael Meyers.",
+    "The Cabinet of Dr. Caligari.",
+    "A knife.",
+    "The Hook-Handed Man.",
+    "Kirsty Cotton.",
+    "Dracula's Daughter.",
+    "The Last Man on Earth (I Am Legend).",
+    "Onryō or \"Vengeful Ghosts\".",
+    "Frankenstien.",
+    "The Thing From Another World.",
+    "Cthulhu.",
+    "Godzilla.",
+    "Pinhead.",
+    "Incredibly elaborate traps.",
+    "Phallic imagery.",
+    "Sidney Prescott.",
+    "The Macguffin.",
+    "The abandoned house.",
+    "Werewolf of London.",
+    "The Hash-Slinging Slasher.",
+    "The 1925 Hunchback of Notre Dame.",
+    "Ghostface.",
+    "The Tingler.",
+    "The puzzle box.",
+    "The 1896 Georges Méliès silent film \"The Haunted Castle\", considered to be the first horror movie ever made.",
+    "A stake.",
+    "Jason Vorhees.",
+    "Laurie Strode.",
+    "The Candyman.",
+    "IT.",
+    "The Cenobites.",
+    "To burn it is.",
+    "The creepy doll.",
+    "Samara Morgan/Sadako Yamamura.",
+    "A gun.",
+    "Leatherface."
+  ],
+  "pack": {
+    "id": "BCM4A",
+    "name": "Horror"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 65,
+    "total": 76
+  },
+  "dateStoredMs": 1588907498253
+}

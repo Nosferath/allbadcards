@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "It's hard to believe, but _ does exist on the internet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why be straight when you could be_?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sexy, NSFW fanart of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gender Euphoria.",
+    "Jace's Cockblocking Skills.",
+    "Thinking of you when he shoots his arrows.",
+    "Thinking with your stele.",
+    "A full basket of warm, succulent breadsticks.",
+    "Self-Deprecation."
+  ],
+  "pack": {
+    "id": "AGKZ2",
+    "name": "misc"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 6,
+    "total": 9
+  },
+  "dateStoredMs": 1588795515158
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "La normativa de la Secretaría de aviones ahora prohíbe _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ricardo Fort."
+  ],
+  "pack": {
+    "id": "2MJK8",
+    "name": "Cards Against Humanity: Argentina"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588806684082
+}

@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "Każdy wie że _  jest szmatą",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Minecraft.",
+    "A ja mówię bułka.",
+    "Płotka.",
+    "Halinka.",
+    "Teksańska masakra kutasem.",
+    "Spałzowanie gry online.",
+    "Kurde bele.",
+    "Gabe plz."
+  ],
+  "pack": {
+    "id": "EVDN8",
+    "name": "polished"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 8,
+    "total": 9
+  },
+  "dateStoredMs": 1588607420758
+}

@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "While playing Quidditch, witches and wizards ride _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I had a horcrux, it'd definitely be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Snape do so Draco didn't have to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite Harry Potter scene was when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Now, if you two don’t mind, I’m going to bed before either of you come up with another clever idea to get us _ or worse… _!”",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hogwarts will be introducing a fifth house called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While living with the Dursleys, Harry was forced to sleep _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry's favorite place to be was always, without a doubt, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ than go to Azkaban!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite _ in Harry Potter has always been _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I had this wild idea for the next Harry Potter book. It starts with _, then has some stuff about _ and then ends with Draco doing _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "This year, the Triwizard Tournament will be held _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I've done my _! 12 years of it! In _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What pet would you bring along to Hogwarts? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"TROLL IN THE _!!!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Herbology.",
+    "Mudbloods.",
+    "Sirius Black's underpants.",
+    "Nagini.",
+    "The Hufflepuff agenda.",
+    "The killing curse.",
+    "The Order of the Phoenix.",
+    "The Cruciatus curse.",
+    "Dobby's death.",
+    "The death of Albus Dumbledore.",
+    "The new Defense Against the Dark Arts professor.",
+    "A golden snitch.",
+    "Drarry fanfiction.",
+    "Neville Longbottom's long bottom.",
+    "Dementors."
+  ],
+  "pack": {
+    "id": "fvc2j",
+    "name": "Cards Against Wizardry"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 15,
+    "total": 30
+  },
+  "dateStoredMs": 1589528145533
+}

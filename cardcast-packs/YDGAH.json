@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "It's strange that there aren't more fairy tales about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new fairy tale: it involves _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What does Lily Weatherwax masturbate to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Lady Meserole masturbate to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Baron Saturday masturbate to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd kiss a frog if I thought he'd turn into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Exporting a good deal of prawns.",
+    "A lot of tropes that we didn't even realize were tropes until now.",
+    "Interfering fairy godmothers.",
+    "A great deal of swamp land.",
+    "Baron Saturday.",
+    "A beautiful yellow brick road.",
+    "Lily Weatherwax.",
+    "Bengo Macarona.",
+    "Ella Saturday.",
+    "Erzulie Gogol.",
+    "A fairy tale ending.",
+    "The Vieux River.",
+    "Selecting a spouse based on shoe size.",
+    "A fairy tale ending we wish we could escape.",
+    "Lady Roberta Meserole."
+  ],
+  "pack": {
+    "id": "YDGAH",
+    "name": "Life On The Disc: Genua Edition"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 15,
+    "total": 21
+  },
+  "dateStoredMs": 1589035221143
+}

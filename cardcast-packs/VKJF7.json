@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "_ slept with _. Tragic.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This season on Suits _ is named senior partner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harvey Specter is the best damn _ this city's ever seen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mike Ross is Harvey Specter's new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who let Louis near _? They're now filing for sexual harassment against the firm!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pissed in Louis' office.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who knows Mike's secret? _. (No not the lawyer secret, the gay secret).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ did _ and now Louis is somehow named partner.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who let Louis bring his cat to work again? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do Donna and Harvey use to celebrate? _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This week Louis is loyal to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The thumb tacks.",
+    "Mike Ross.",
+    "Travis Tanner.",
+    "Harold.",
+    "Jessica Pearson.",
+    "Harvey Specter.",
+    "Daniel Hardman.",
+    "Donna Paulsen.",
+    "Rachel Zane.",
+    "Sheila Sazs.",
+    "Robert Zane.",
+    "Travis Tanner.",
+    "Mike's skinny ties.",
+    "The can opener.",
+    "Robert Zane.",
+    "Trevor.",
+    "Jenny.",
+    "Sheila Sazs.",
+    "Mike Ross.",
+    "Harold.",
+    "Daniel Hardman.",
+    "Harvey Specter.",
+    "Donna Paulsen.",
+    "Jessica Pearson.",
+    "Rachel Zane."
+  ],
+  "pack": {
+    "id": "VKJF7",
+    "name": "Suits"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 25,
+    "total": 36
+  },
+  "dateStoredMs": 1589315256484
+}

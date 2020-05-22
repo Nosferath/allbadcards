@@ -1,0 +1,127 @@
+{
+  "black": [
+    {
+      "content": "You don't annoy me. You make me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do the rules of etiquette say about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've never before beheld such beauty and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is a truth universally acknowledged that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sure would like you to _ in the garden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My little kumquat you've made yourself all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm single because apparently the only good men are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "l am Aphrodite, the goddess, often fickle in my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're every _'s fantasy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any father would be delighted to have a _ as a daughter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you really going to blow your life savings on a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It would appear to be my duty to gaze into your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When my seaman's heart tell me what to do, I do not fear to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Colonel, you really are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, obviously she is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I memorized the first 3 chapters of _ when I was 13.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any father would be delighted to have a _ as a daughter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I <3 _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eyes.",
+    "Mr. Nobley.",
+    "Sparkles Pancake.",
+    "Guy.",
+    "Class.",
+    "Miss Charming.",
+    "Martin.",
+    "Turn me upside down.",
+    "Playing \"Hot in Here\" in a respectable sitting room.",
+    "\"Austen Experience\".",
+    "Wet.",
+    "Bosom sisters.",
+    "Jane Hayes.",
+    "Mr. Wattlesbrook.",
+    "Ninja.",
+    "Captain East.",
+    "Mr. Darcy.",
+    "Girl.",
+    "Colonel Andrews.",
+    "Amelia Hartwright.",
+    "Mrs. Wattlesbrook."
+  ],
+  "pack": {
+    "id": "YAWMX",
+    "name": "Cards Against Austenland"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 21,
+    "total": 39
+  },
+  "dateStoredMs": 1589051561956
+}

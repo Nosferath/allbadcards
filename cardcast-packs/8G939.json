@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "I've heard a rumour that _ cures coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since all football has been cancelled, people have resorted to _ to pass the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've written a new song to sing while washing your hands. It's called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only worse idea than getting on a cruise ship right now is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to tackle the coronavirus, the UK government has advised people to start _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe Boris Johnson just compared the coronavirus to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has been cancelled due to the coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been stockpiling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've run out of toilet roll! Now I'll have to wipe my arse on _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Calling it COVID-19 like a pretentious twat.",
+    "Reading the news and sinking into depression.",
+    "Punching an old lady and stealing her hand sanitiser.",
+    "Eating a bat and causing a pandemic.",
+    "Matt Hancock.",
+    "Wuhan, China.",
+    "Plague Inc.",
+    "A coronavirus testing kit.",
+    "Self-isolating.",
+    "Catching AIDS instead of coronavirus just to be different.",
+    "Working from home in your boxers.",
+    "Flattening the curve.",
+    "Stifling a cough.",
+    "The dramatic death of the airline industry.",
+    "Coronavirus.",
+    "Coronavirus spreading quicker than your mum's legs.",
+    "Locking your Nan in the shed to stop her getting coronavirus.",
+    "Being convinced coronavirus isn't real.",
+    "Being stuck at home with my family, who I secretly despise.",
+    "Buying 100 loo rolls like a massive fucking wanker.",
+    "Not being able to get a good trim during isolation."
+  ],
+  "pack": {
+    "id": "8G939",
+    "name": "Coronavirus (UK edition)"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 21,
+    "total": 30
+  },
+  "dateStoredMs": 1589306589769
+}

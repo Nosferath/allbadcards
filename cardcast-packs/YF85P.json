@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "GENTLEMEN, I GIVE YOU THE SCIENCE DEPARTMENTS NEWEST DISCOVERY. BEHOLD, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THEY'RE PUTTING _ IN THE DRINKING WATER! IT'S TURNING THE FRIKKIN' FROGS GAY!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What new weapon did the United States DoD unveil this Saturday? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's no such thing as _! But you can't fool me, i listen to Infowars religiously.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did JFK REALLY die? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. Goldstein, we have reason to believe that you're harboring _ in your basement. Please, show us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you explain _ without a god? HA! GOT YOU ATHEIST!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dude, what if _ happened because of _....really makes ya think....",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hitler did nothing wrong. Oh, and if you think he really murdered _ , you're wrong.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? NONSENSE! But it could use _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Jay-z, the time-traveling vampire.",
+    "Destroying the white race.",
+    "The twin towers.",
+    "Wikileaks.",
+    "Donald Trump's toupee revealing itself to be a bird as it flies away.",
+    "The astounding vertical leap of a black man.",
+    "Saddam Hussein's Stargate.",
+    "Jfk going back in time to assassinate himself.",
+    "A flat earth that's also a hollow.",
+    "Infowars.",
+    "Based Alex Jones.",
+    "The weather dominator from GI Joe.",
+    "Building 7.",
+    "Obama-flavored chocolate.",
+    "A Tibetan exorcism.",
+    "Telekinetic rocks.",
+    "A new world order spearheaded by jewish globalists.",
+    "Goatscape III: Bearded Wails.",
+    "A muslim's self-destruct button.",
+    "Jesus being crucified on top of a pyramid, underneath a spaceship.",
+    "Tinfoil hat mind-blocking powers.",
+    "Jewish mind-control powers.",
+    "Reptilian shape-shifting lizard beings from higher planes of existence.",
+    "6,000,000 Jews.",
+    "Crashing into the pentagon.",
+    "A field in Pennsylvania.",
+    "Rock-em, sock-em, muslims.",
+    "Space jesus.",
+    "Dick-fisting.",
+    "Holocaust denial.",
+    "Skinhead-on-skinhead action.",
+    "Breaking three vertebrae while sucking your own dick.",
+    "Politically motivated sex toys.",
+    "Penis Pins."
+  ],
+  "pack": {
+    "id": "YF85P",
+    "name": "Conspiracy theories"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 34,
+    "total": 44
+  },
+  "dateStoredMs": 1589068734025
+}

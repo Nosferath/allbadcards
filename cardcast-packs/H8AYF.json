@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "Why is T'challa so happy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got 69 cents, you know what that means! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a _ , you can't kill me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ in my Valentino white bag!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Uh, yeah, I sure hope it does.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This sucks, man.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Megan.",
+    "Fre sha va cado.",
+    "Hello my name is Trey, I got a basketball game tomorrow.",
+    "Because he decided never to talk to those people again.",
+    "I don't have enough money for chicken nuggets."
+  ],
+  "pack": {
+    "id": "H8AYF",
+    "name": "Modern Vines"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 5,
+    "total": 11
+  },
+  "dateStoredMs": 1589568309789
+}

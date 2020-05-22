@@ -1,0 +1,163 @@
+{
+  "black": [
+    {
+      "content": "The top teams spend millions of dollars a year on _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hamilton and Rosberg will compete over _ next.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Felipe, _ is faster than you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Skysports best? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What could possibly save Daniil Kvyat's career? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will Buxton found _ while sniffing his mic",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pastor Maldonado has been penalized for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crofty blamed _ for Lewis' poor performance in the last race.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is uglier than the halo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rio Hayranto is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Fernando faster than you? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next sponsor for an F1 team/track is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daniel Ricciardo's pit stop was ruined by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things you wouldn't want to crash in _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next thing to be banned/allowed by the FIA is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Race stewards are investigating an incident at turn 2 involving  _ and _  .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bernie Ecclestone's new policy is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statistics suggest a few F1 drivers were probably gay. The most likely hookup has to be _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Things more Blessed Then Lewis Hamilton _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "*Perez on radio: do you like my _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of Ferrari's lesser known privileges is early access to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honestly, what the fuck are we doing here? _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Max Verstappen's champagne face.",
+    "Eddie Jordan.",
+    "Going purple in the middle sector.",
+    "Daniel Ricciardo doing a shoey.",
+    "Lewis Hamilton's eyebrows.",
+    "A pornographic drawing in Ted's notebook.",
+    "Lewis Hamilton being black.",
+    "A damp racing line.",
+    "A puncture.",
+    "Fernando Alonso's neck.",
+    "Lewis Hamilton's latest single.",
+    "A Fisher Price car with the Honda badge taped to it.",
+    "Sebastian Vettel's finger.",
+    "David Coulthard's enormous chin.",
+    "Bernie Ecclestone.",
+    "Not geting out of Kimi's way.",
+    "A Sky F1 anchor literally sucking Lewis Hamilton's cock.",
+    "Pirelli \"strength\" condoms.",
+    "Track Limits.",
+    "Nigel Mansell's mustache.",
+    "Michael Schumacher's fashion sense.",
+    "Williams pitstop fuckups.",
+    "Ayrton Senna.",
+    "Murray Walker singing 'The Chain' by Fleetwood Mac.",
+    "Multi 21.",
+    "Parking in Rascasse.",
+    "ALL THE TIME YOU HAVE TO LEAVE A SPACE.",
+    "A three second pit stop.",
+    "A dive down the inside.",
+    "Fucking, FUCKING RAIKKONEN.",
+    "A full rear lockup.",
+    "Unsafe Release.",
+    "Max Mosley's sex dungeon.",
+    "Ignoring blue flags infront of Seb.",
+    "Kimi Raikkonen's yacht.",
+    "Ping Pong.",
+    "James Hunt."
+  ],
+  "pack": {
+    "id": "YE82F",
+    "name": "F1"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 37,
+    "total": 59
+  },
+  "dateStoredMs": 1588681588695
+}

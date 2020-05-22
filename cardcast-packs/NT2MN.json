@@ -1,0 +1,139 @@
+{
+  "black": [
+    {
+      "content": "Het is geen league game zonder dat _ feeden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Macky Gee, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rijstenwafels, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lekker gaan met Martijn, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , wat een _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Inkakken is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chocolate Puma, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Te klein. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wat rook je? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steeds verassend altijd vordelig? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Doet wat het belooft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bij een Porter Robinson set zou ik echt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Redder in nood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je zou maar _ zijn.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als _ niet werkt, dan maar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jan gaat vaak naar de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "2cb doen met _ , wat een ervaring.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , Kankerduur.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Casper.",
+    "Kapper.",
+    "Challenger 3 division 4.",
+    "Niels.",
+    "Green Tree.",
+    "AH to go.",
+    "Getver.",
+    "Moskee.",
+    "Ding.",
+    "Tandpasta kweken.",
+    "Klonten.",
+    "Bilel.",
+    "Een baap.",
+    "Sissy Boy.",
+    "Schoffa west.",
+    "Wiskunde.",
+    "Jesse.",
+    "Duinrell.",
+    "Klontj.",
+    "Martin Garrix.",
+    "Bakker.",
+    "Bobba.",
+    "Junk.",
+    "Weggaan.",
+    "Beuken.",
+    "Shaun.",
+    "Braadvlees.",
+    "Non-premades.",
+    "Water closet.",
+    "Kerk.",
+    "Klote.",
+    "Homo's.",
+    "Kanker goor."
+  ],
+  "pack": {
+    "id": "NT2MN",
+    "name": "DEK"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 33,
+    "total": 51
+  },
+  "dateStoredMs": 1588880626342
+}

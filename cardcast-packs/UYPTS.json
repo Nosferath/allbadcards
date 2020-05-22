@@ -1,0 +1,165 @@
+{
+  "black": [
+    {
+      "content": "Get up 'cause  _ has left you lying on the ground.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've stolen my _ , And I don't know if I want it back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish I found some better _ no one's ever heard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes a certain _ will take me back to when I was young.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ don't cry, Therefore, therefore I'm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The man deserves  _ , But he's never really won  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I don't believe you most the time, I'm lying 'cause I say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  walking around with a limp and a hunch, Saying stuff like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You say things with your mouth, _ and _ come out.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You can bring  _ , I can bring  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And we're dying with every _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taking my only friend I know, He leaves a lot, his name is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A breathless  piece of _ I've made for you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Cause if you stick around I'll _  , And we'll make money _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "But with your great arrival, this _ has turned to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Put away, put away _ , believe me when I say.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will try to avoid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why I'm in denial that they tried _!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo, this _ will never be on  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Some see a pen, I see  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found my _ , Right time, wrong place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't know if this song is _ or  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And then I saw _ , torch in hand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's _ inside my brain!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ , You don't know what that means.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was a little dark so he held _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rain down And destroy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I began to understand why _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "I fancy the singer.",
+    "Air Catcher.",
+    "I prefer the drummer.",
+    "I will deny you for years.",
+    "EMØTIØNAL RØADSHØW.",
+    "Kitchen Sink.",
+    "Blurryface react to teens.",
+    "Blurryface.",
+    "Bedroom Sink."
+  ],
+  "pack": {
+    "id": "UYPTS",
+    "name": "Lyrics Twenty One Pilots"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 9,
+    "total": 37
+  },
+  "dateStoredMs": 1589339287645
+}

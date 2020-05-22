@@ -1,0 +1,192 @@
+{
+  "black": [
+    {
+      "content": "Man har valgt at tage _ med til Mars.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skolens toiletter lugter af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Noget af krudtet vi skyder af i aften, er ødelagt på grund af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jorden eksploderede af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der gik ildebrand i huset fordi at, Jonas prøvede at tænde bål med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jorden i haven er fyldt med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vi skal have  _ til aftensmad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jonas sider kun med _ , hele aften.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pengene fra årets U-landskalender går i år til at give børn i Afrika _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Carsten synes at Mikkel lugtede af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det bliver ulovligt at spise/drikke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dronningen døde af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det nye hit i år 2015 er _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pizzaen smagte af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakobs værelse er fyldt med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulla synes at _ smager godt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Folk smider  _ på gaderne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I stedet for sne, i 2015 er haverne fyldt af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Himlen er fyldt med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marianne skreg fordi, gulvet var fyldt af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bilerne er blevet fyldt med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peters hår er fyldt med _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hvorfor begynder alle sirenerne over hele Danmark, i April 2015? Pga. _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matilde lugtede af _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toilettet blev stoppet af _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Spøgelse.",
+    "Nytårstalen.",
+    "Hannah.",
+    "Peter.",
+    "Øl.",
+    "Hunde.",
+    "Bomber.",
+    "Børn.",
+    "Slik.",
+    "Sur mælk.",
+    "Frugt.",
+    "Jonas.",
+    "Snemænd.",
+    "Klamt mad.",
+    "Sure sokker.",
+    "Kræft.",
+    "Stole.",
+    "Inbrud.",
+    "Carsten.",
+    "Brød.",
+    "Computer spil.",
+    "Hannahs bamser.",
+    "Burgere.",
+    "Kål.",
+    "Kylling.",
+    "Mikkel.",
+    "Vodka.",
+    "Rådne æg.",
+    "Matilde.",
+    "Hotdogs.",
+    "Rådne æbler.",
+    "Bønner.",
+    "Lagkage.",
+    "Lækker mad.",
+    "Myrere.",
+    "Vand.",
+    "Ebola.",
+    "Fisk.",
+    "Skraldespande.",
+    "Jakob.",
+    "Gammel krudt.",
+    "Flyvende biler.",
+    "Bøger.",
+    "IPhone's.",
+    "Varme.",
+    "Grimme børn.",
+    "Legetøj.",
+    "Marianne.",
+    "Hannahs prut.",
+    "Nokia telefoner.",
+    "Ulla."
+  ],
+  "pack": {
+    "id": "AZF3K",
+    "name": "Næste år... (Danish)"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 51,
+    "total": 76
+  },
+  "dateStoredMs": 1588782010280
+}

@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "What were Jihadi Johns dying words _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was found in the profit Muhammads ( peace be upon him) house",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Allahu Akbar.",
+    "An AK47 that is used as a vibrator."
+  ],
+  "pack": {
+    "id": "AVXE2",
+    "name": "Terrorism"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588716673200
+}

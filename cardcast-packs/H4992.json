@@ -1,0 +1,167 @@
+{
+  "black": [
+    {
+      "content": "A clown can get away with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HEEEEERES _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've killed 20 people, man. I love all that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your entire life you've hated _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you crave _ , Will?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Big deal, _ comes with the territory. See you at Disneyland.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather remember my old playmates as they were. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing they can get me for is running  _ without a license.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To spruce up my room, I decided to hang _ on the wall.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that stain from? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People don't get better, they just get smarter. When you get smarter you don't stop _ , you just think of better reasons for doing it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CARL! _ kills people!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Normal people are so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always pair _ with fava beans and a nice chianti.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'Correcting' your wife and child with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All _ and no _ makes Jack a dull boy.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How'd you like some _ , Doc?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My hamburger meat secret ingredient is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put the _ in the basket.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _ , they are tasty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It wasn't as dark and scary as it sounds, I had a lot of fun ... _ is a funny experience.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today I discovered you can fit _ into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just because I CAN masturbate to _ , doesn't mean I should.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stabbing someone 37 times in the chest.",
+    "The feeling of elation as you watch the light leave someone's eyes.",
+    "Roasted flesh.",
+    "The Trinity Killer.",
+    "Bludgeoning someone to death with a wooden spoon.",
+    "Blood gurgling out of a slit throat.",
+    "The screaming, writhing form of someone who's been poisoned.",
+    "The searing agony of acid on your skin.",
+    "A bloodied meat tenderizer.",
+    "Hearing the sound of blood gushing from my own neck.",
+    "The little man that lives in my mouth.",
+    "The Minnesota Shrike.",
+    "Coagulated blood.",
+    "Raw human flesh.",
+    "Ripping the sinew off the muscles.",
+    "Having an old friend for dinner.",
+    "The blood vortex in Paris.",
+    "The mulch of pulverized liver.",
+    "Systematically draining the blood from my victims then cutting their body up into neat, even pieces.",
+    "Dismemberment.",
+    "Jason's birthday.",
+    "Redrum.",
+    "Arson.",
+    "Marinara sauce made of blood.",
+    "Ground up bones.",
+    "Rotted organs.",
+    "Ripped-off fingernails.",
+    "Blended eyeballs.",
+    "A skinned face.",
+    "Slides of my victims' blood.",
+    "A Chelsea Smile.",
+    "The Chesapeake Ripper.",
+    "Scrambled eggs made with human bone marrow.",
+    "An ice truck.",
+    "The Bay-Harbour Butcher.",
+    "A wreath made of human fingers."
+  ],
+  "pack": {
+    "id": "H4992",
+    "name": "Psycho-isms"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 36,
+    "total": 59
+  },
+  "dateStoredMs": 1589068726911
+}

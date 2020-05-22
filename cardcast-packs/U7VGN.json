@@ -1,0 +1,47 @@
+{
+  "black": [
+    {
+      "content": "He is _ , the Skrillex of his day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarge! Where are my _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watch this Captain! Check out my _ !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Terry Jeffords.",
+    "Santiago's binder collection.",
+    "Gina Linetti.",
+    "Captain Holt.",
+    "Charles' obsession with shampooing hair.",
+    "Scully and Hitchcock.",
+    "Floorgasm.",
+    "The meal of a thousand sausages.",
+    "Amy Santiago.",
+    "Jake taking a pro-slavery stance.",
+    "Bingpot!.",
+    "Jake Peralta.",
+    "Dr Kevin Cosner.",
+    "Rosa Diaz.",
+    "Madeline Wunch.",
+    "Scully's feet."
+  ],
+  "pack": {
+    "id": "U7VGN",
+    "name": "Cards Against The Nine-Nine"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 16,
+    "total": 19
+  },
+  "dateStoredMs": 1589493240029
+}

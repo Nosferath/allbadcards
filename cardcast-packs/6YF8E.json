@@ -1,0 +1,780 @@
+{
+  "black": [
+    {
+      "content": "What is my favourite way to troll people? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Garrosh Hellscream’s guilty pleasure? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you get down to it, _ is nothing more than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "“I’m Mr T and I’m a _. What’s your game?”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I no longer have room in my bags for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "…but the most disturbing thing I saw in the Crypts under Karazhan was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new guild’s name is < _ >.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What’s my secret power? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the new Epic Mount.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, the Opera Hall at Karazhan will be performing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why aren’t you prepared? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did someone say _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The game designers should have thought twice before introducing the new / _ emote.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“You no take _!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was Garrosh’s downfall.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out that _ was neither the hero that Azeroth needed nor deserved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems but _ ain’t one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\" _ was merely a setback!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never start a raid without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every time I PvP, it’s ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The forums are in total chaos because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never truly understood _ until I encountered _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Buried for centuries beneath the sands of Uldum, the Explorers ’League has recently uncovered _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m so tired of people posting _ on the forums.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During sex, I like to think about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can now adopt a _ to support the American Red Cross.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saw _  at the Goldshire inn, and now I will never be able to unsee it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My garrison holds an extensive collection of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Playing WoW drunk always ends in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I sticky? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made my guild leader mad? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen the patch notes? Blizzard buffed _ and nerfed _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Horde and Alliance must again join forces, this time to combat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ seems overpowered, but it can be countered by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lady Sylvanas likes to use _ to relax.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The raid was going great until _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The main tank rage-quit our raid because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Sword of a Thousand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“One shot, one _.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You haven’t truly lived until you’ve experienced _ and _ at the same time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Awesome in theory, kind of a mess in practice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“By _ be purged!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“We will never be slaves, but we will be _.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new _ boss caused several wipes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a world ravaged by _ our only solace is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My guild’s battle cry is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Why do we fight? To _.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What left the stain on my couch? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Blessed Blade of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why did I transfer to a new server? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Did you bring these mongrels here just to watch you _”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Storm, Earth, and _, Heed my call!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Nat Pagle’s fishing secret? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Jaina Proudmoore dream about at night? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Citizens of Dalaran, raise your eyes to the skies and observe _!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ cost us a raid tier.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey baby, come back to my place and I’ll show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“You face _, Eredar Lord of the _!”",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I spent three weeks working toward _, only to have it ruined by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can’t believe I got banned for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daddy, why is mommy crying? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = The Lich King’s sex life.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It takes more than _ to reach level 90.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I still can’t figure out why Blizzard updated the Terms of Use to include a clause about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was I late to raid? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can’t believe Blizzard just added _ to the cash shop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only players from Vanilla truly understand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blizzard has promised to fix the _ bug “very soon”.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why can’t Patchwerk sleep at night? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear about the next Hearthstone expansion, _ vs. _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How do you kill that which has no life? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“We named him Dranosh. It means _ in Orcish.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are not prepared for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Take heart, young one. _ is near.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having problems with _? Try _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What will always get you laid? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Chicks dig _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My life is ruled by a vicious cycle of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "According to the GM’s, _ is working as intended.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Achievement Unlocked: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one expected _ to be such a big hit at the Darkmoone Faire.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, my new gold making scheme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“VICTORY OR _!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There may not be a cow level, but there is definitely a _ level.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quest: Collect 30 _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just fimed a WoW parody about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WTS _, serious offers only.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WoW’s Mature rating can be entirely attributed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Linen Shirt of _, 7 Armor, Requires Level 10.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anal _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blizzard just announced that in the next expansion, the final boss will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whenever our raid wipes, I blame _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before _, all we had was _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Indescribable loneliness.",
+    "Mr. Bigglesworth.",
+    "Discussing politics in trade chat.",
+    "Six-nippled worgen women.",
+    "Bestial Wrath.",
+    "Ragnar-O’s.",
+    "Worgen.",
+    "The entire internet.",
+    "An ethersoaked rag.",
+    "A confusing attraction to female pandaren.",
+    "Famine.",
+    "Spacegoats.",
+    "Poop quests.",
+    "A sad, fat dragon with no friends.",
+    "Rage-quitting.",
+    "Two broken legs.",
+    "A pyramid of severed heads.",
+    "Howling Blast.",
+    "Vanilla WoW.",
+    "28 gold, 50 silver.",
+    "The mixing of races.",
+    "Infected wounds.",
+    "Repeated lightwell clicking.",
+    "A bigger blacker rocker orc.",
+    "A Flippable Table.",
+    "A sea of troubles.",
+    "Molten Corgi.",
+    "A bucket of fish heads.",
+    "Being fat and stupid.",
+    "Secret fantasies about Therazane’s underboob.",
+    "Rising from the grave.",
+    "Pandaren.",
+    "The disenfranchised homeless population of Westfall.",
+    "Being on fire.",
+    "Toy Train sets.",
+    "Soon™.",
+    "Death knights.",
+    "Existing.",
+    "LARPers.",
+    "A windmill full of corpses.",
+    "Lumberjack fantasies.",
+    "C’thun.",
+    "Poorly used Misdirect.",
+    "Undead necrophilia.",
+    "Worgen racism theories.",
+    "The garrison outhouse.",
+    "Holding your pee until the end of the raid.",
+    "“TAZ’DINGO!”.",
+    "Explosions.",
+    "Taurens.",
+    "...a giiiiant spiiiider!.",
+    "Gently Squeezed Toad.",
+    "Leeroy Jenkins’ chicken.",
+    "Trolls.",
+    "40-minute Battle.net queues.",
+    "Nunchucks.",
+    "A gentle caress of the inner thigh.",
+    "WoW fanfic.",
+    "Vengeance.",
+    "Wife aggro.",
+    "AFK fapping.",
+    "“Mrrgglglgggglge!”.",
+    "Leerooooooy Jenkins.",
+    "Full frontal nudity.",
+    "Chris Metzen’s goatee.",
+    "A big Blackrock orc.",
+    "Noobfury, Whining Blade of the Attention Seeker.",
+    "Beacon of Light.",
+    "Vietnam flashbacks.",
+    "Buckets of blood.",
+    "A boo-boo.",
+    "Gold farmers.",
+    "Murloco’s, home of the best “fish” tacos in Azeroth.",
+    "Hearing your raid leader’s mother tell him to go to bed over Vent.",
+    "Server maintenance.",
+    "Buying gold.",
+    "Thunderfury, Blessed Blade of the Windseeker.",
+    "Blowing Hodir’s horn.",
+    "Dwarves.",
+    "Justice points.",
+    "The Scroll of Resurrection.",
+    "Not contributing to society in a meaningful way.",
+    "Grom’tor’s Friend’s Cousin’s Tunic.",
+    "Catapults.",
+    "Captain Placeholder.",
+    "Multiple stab wounds.",
+    "Power Word: Fallatio.",
+    "A Huge Brown Sack.",
+    "32.33, repeating of course.",
+    "50-man raiding.",
+    "Varian Wrynn’s chin.",
+    "Basic human decency.",
+    "The satanic children of Goldshire.",
+    "Warriors.",
+    "Trolls.",
+    "Warmongering.",
+    "The guild.",
+    "Shadow Word: Spank.",
+    "Mankrik’s wife.",
+    "The Twin Emperors' jockstraps.",
+    "Working as intended.",
+    "/blow.",
+    "/faceroll.",
+    "Humans.",
+    "Error 37.",
+    "Hogger.",
+    "Accidentally pulling the boss.",
+    "Bathing in the blood of my enemies.",
+    "Trade Chat.",
+    "Warlocks.",
+    "Actually being shot, for real.",
+    "Dying of Frost Fever.",
+    "Night elf mohawk.",
+    "Graveyard camping.",
+    "Level 1 Wild Boars.",
+    "A surprising amount of hair.",
+    "Noobs.",
+    "The heart of a child.",
+    "/confused.",
+    "The harsh reality of sitting in front of a computer for 16 hours straight.",
+    "Insisting your raid party have a token black guy.",
+    "Whipping it out.",
+    "Mages.",
+    "Mutually-assured destruction.",
+    "Black people.",
+    "Funny accents on Vent.",
+    "Spectacular abs.",
+    "William Shatner.",
+    "Fists of Fury.",
+    "Draenei.",
+    "Friends with benefits.",
+    "Goblins.",
+    "Yogg-Saron.",
+    "Weapons-grade plutonium.",
+    "Huntards.",
+    "Escort quests.",
+    "Ogre moobs.",
+    "Guys that play female characters.",
+    "Titan’s Grip.",
+    "Mage portals to the wrong Dalaran.",
+    "Mooing.",
+    "A lush, magnificent beard.",
+    "Golfclapping.",
+    "Paladins.",
+    "Not wearing pants.",
+    "Humans with anime hair.",
+    "An Oedipus complex.",
+    "Alcoholic dwarves.",
+    "Six-nippled Worgen women.",
+    "Sweet, sweet vengeance.",
+    "A 5-man raid consisting of only holy priests.",
+    "Cutting off an extremity so it grows back bigger.",
+    "Priest toons who are disappointed Anduin Wrynn grew up .",
+    "Blood elves.",
+    "Shamans.",
+    "Dancing naked on the auction house stage.",
+    "Mandatory Sylvanas cosplay cleavage.",
+    "Capital city fireworks.",
+    "An Unstoppable Force .",
+    "A tank in DPS gear.",
+    "Sitting in major cities all day waiting for dungeon queues.",
+    "Shadow Word: Bondage.",
+    "Take-backsies.",
+    "Chunks of dead centaurs.",
+    "Deeprun Tram.",
+    "Nothing.",
+    "Real money transactions.",
+    "Pet collectors.",
+    "Making suggestive drawings with gunpowder.",
+    "Greedy goblin merchants.",
+    "A murloc wearing a tophat and monocle.",
+    "Chainmail bikinis.",
+    "Monks.",
+    "My first kill.",
+    "Ready checks.",
+    "Inappropriate use of polymorphed sheep.",
+    "More dots!.",
+    "Night elves.",
+    "Rolling “need” every time.",
+    "Being unnecessarily racist in chat.",
+    "/insult.",
+    "Britney Spears suing over the Blood Elf dance.",
+    "A tiny horse.",
+    "Me.",
+    "/deadhooker.",
+    "Invisible tavern musicians.",
+    "The true meaning of the Feast of Winter Veil.",
+    "Hidden questlines.",
+    "Dirge.",
+    "Cenarius’ tree fetish.",
+    "Mounts.",
+    "Extremely tight pants.",
+    "Undead.",
+    "The Dance Studio.",
+    "WoW parody songs on YouTube.",
+    "GamerGate.",
+    "DING!.",
+    "The purgatory known as low population servers.",
+    "Pushing billy goats off a cliff.",
+    "Illidan’s angsty teen years.",
+    "Gnome/draenei interbreeding.",
+    "Kargath’s buttwiping hand attachment.",
+    "Survivor's guilt.",
+    "Forgetting the safeword.",
+    "Overhealing.",
+    "Orcs and more orcs.",
+    "Onyxia.",
+    "Illidan Stormrage.",
+    "Nipple blades.",
+    "Making a friend.",
+    "Erotic fanfition about Thrall and Jaina.",
+    "A tauren paladin named \"Holycow”.",
+    "Rogues.",
+    "Gnomes.",
+    "Many whelps.",
+    "The human body.",
+    "/applause.",
+    "Chuck Norris.",
+    "An Immovable Object.",
+    "Hunters.",
+    "An absurd amount of Linen Cloth.",
+    "Cuddling.",
+    "Priests.",
+    "Dying.",
+    "A good sniff.",
+    "Meeting someone from WoW IRL.",
+    "Two gnomes, one cup.",
+    "Achievement whores.",
+    "Referring to STDs as Burning Crusades.",
+    "Cybernetic enhancements.",
+    "The five minute break your raid leader gives that turns into twenty.",
+    "Spending countless hours leveling your pet by killing squirrels.",
+    "Hunters who need on rogue gear.",
+    "People who only log in once a year to get presents from Great-Father Winter.",
+    "Drinking alone.",
+    "Not being prepared.",
+    "Orcs.",
+    "Barrens chat.",
+    "Bubblehearthing.",
+    "Being too drunk to raid.",
+    "Garrosh Hellscream’s obvious daddy issues.",
+    "An Angry Chicken.",
+    "Ninjaing gear, pulling the boss, bubblehearting and transferring to another server.",
+    "Explosive sheep.",
+    "Goblin ingenuity.",
+    "Aggro magnets.",
+    "Exceptionally witty pet names.",
+    "Druids.",
+    "Daily quests.",
+    "Obsessive cosplayers.",
+    "An army of skeletons.",
+    "Goblin gentleman’s magazines.",
+    "Sargeras' codpiece.",
+    "That which has no life.",
+    "Becoming OCD over daily fishing quests.",
+    "Dancing like a Draenei.",
+    "Tinker Town.",
+    "A gnome and a goblin shitting into a bucket.",
+    "Orc boobs.",
+    "Swiftly achieving orgasm.",
+    "Bitching about capital cities.",
+    "Shutting the fuck up.",
+    "Thrall’s balls.",
+    "A vagina that leads to another dimension.",
+    "Jaina Proudmoore’s vibrator.",
+    "Goblin dungeon porn.",
+    "Whipping a disobedient slave.",
+    "Another goddamn panda.",
+    "Graphic violence, adult language, and some sexual content.",
+    "Motherfucking Deathwing.",
+    "Absolutely fuck-all.",
+    "Some really fucked-up shit.",
+    "A slightly shittier parallel universe.",
+    "Murloc sex.",
+    "Teaching a Harvest Reaper to love.",
+    "Gnoll semen.",
+    "Not having sex.",
+    "Whining like a little bitch.",
+    "Masturbation.",
+    "Power Word: Bukkake.",
+    "/fuckyou.",
+    "/fap.",
+    "Grammar nazis.",
+    "A can of whoop-ass.",
+    "Tentacle porn.",
+    "Consensual sex.",
+    "Shoulder armor that just screams, “I have a tiny  penis!”.",
+    "Sexual tension.",
+    "Literally giving a flying-fuck."
+  ],
+  "pack": {
+    "id": "6YF8E",
+    "name": "World of Warcraft"
+  },
+  "quantity": {
+    "black": 95,
+    "white": 289,
+    "total": 384
+  },
+  "dateStoredMs": 1589223653134
+}

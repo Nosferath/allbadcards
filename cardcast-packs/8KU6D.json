@@ -1,0 +1,112 @@
+{
+  "black": [
+    {
+      "content": "The government is hiding _ from us",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing to do on a first date is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is cancelled",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing better than having a girlfriend is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Theory: Sans is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ a day keeps the doctor away",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only thing keeping me alive anymore",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you think about it, Bohemian Rhapsody is a song about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me and the bois like to spend our time _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst part of high school is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will Smith is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is really hot",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Shrek.",
+    "Water.",
+    "George Washington.",
+    "Rubber ducky.",
+    "Breaking your ribs and your rodeo record.",
+    "The souls of the innocent.",
+    "Stuffing children into robot suits.",
+    "Africa by Toto.",
+    "Will Smith.",
+    "Sal.",
+    "Frosted mini wheats.",
+    "Shaggy.",
+    "Sleeping all day.",
+    "Echo Blossom.",
+    "Avocado.",
+    "Redesigning the $20 bill.",
+    "T-Series.",
+    "James Charles.",
+    "Yeet.",
+    "Listening to Kpop at a funeral.",
+    "Eating the leaves off of trees.",
+    "Cracking open a cold one with the bois.",
+    "Fortnite.",
+    "Oompa loompas.",
+    "Mike Wazowski.",
+    "Chiming in with a haven't you people ever heard of closing a flipping door.",
+    "Jimmy Neutron.",
+    "Drinking shampoo.",
+    "Meeting Dwayne the Rock Johnson.",
+    "Brendon Urie.",
+    "When the DVD logo hits the corner."
+  ],
+  "pack": {
+    "id": "8KU6D",
+    "name": "Clean Modern Memes"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 31,
+    "total": 44
+  },
+  "dateStoredMs": 1589123786866
+}

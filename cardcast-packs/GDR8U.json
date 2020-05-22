@@ -1,0 +1,93 @@
+{
+  "black": [
+    {
+      "content": "_ You Are Role Blocked!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ They Are Good!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ You Were attacked but you were saved!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ They Are Evil!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ You Were attacked but you are immune!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ They Are Immune!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ You Are Black Mailed!!!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Witch. You win if town loses.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are a Medium. You Wake up with the dead and outer mediums, and the dead get to right a note to the mediums.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are The Vigilante. Shoot a player if they are good you die to.",
+    "You Are a Jester. If you are hanged you win and get to kill a player even if they are immune.",
+    "You Are The Arsonist. Pick a player each night do douse if you ignite all doused players die, all doused players are evil to the sheriff.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Escort. You can Stop a player each night from doing there night action, you are immune from being role blocked.",
+    "You Are a Jester. If you are hanged you win and get to kill a player even if they are immune.",
+    "You Are The Bodyguard.  Pick a player each night to guard, if they are attacked you and the attacker will die.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are The Godfather. If the vote is a tie to kill someone your vote wins, You are Good To the Sheriff.",
+    "You Are the Consort. You are a escort working for the mafia, you are immune from being role blocked.",
+    "You Are a Janitor. the Furst two mafia kills are not revealed and all mafia see's it.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Werewolf. on a Full Moon You Kill a player and all visiting them, you can not die on a full moon.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Transporter. Pick two player each night to transport if one t's transported with them gets targeted.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Veteran. You have 3 alerts if you alert any player who visits you dies.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Retributionist. You can resurrect a town member one time.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are The Executioner. pick a player to target you win if they are hang, if your target dies at night you become a jester.",
+    "You Are a Medium. You Wake up with the dead and outer mediums, and the dead get to right a note to the mediums.",
+    "You Are The Murderer. Kill a player each night, you can not die at night.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are The Mayor. At day you can reveal your card to the town, when you reveal your vote is x3.",
+    "You Are The Sheriff. Pick a player each night to investigate, You will know if they are evil or good.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are a Mafioso. Vote on who to kill.",
+    "You Are The Peaceful Townie.  When someone is one voted up you have to vote innocent.",
+    "You Are The Blackmailer. pick a player to black mail they can not say anything at day.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are The Doctor. Pick a player to heal each night, if they are attacked they will live.",
+    "You Are a Townie. Find all of the evil in the Town.",
+    "You Are a Townie. Find all of the evil in the Town."
+  ],
+  "pack": {
+    "id": "GDR8U",
+    "name": "Town of Salem Card Game"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 42,
+    "total": 49
+  },
+  "dateStoredMs": 1589565038940
+}

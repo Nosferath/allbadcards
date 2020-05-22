@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "What gives, Commander? I thought you said that this was  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well Well Well— we meet again, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honestly, if it wasn't for _ , I would've quit YEARS ago.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Citizens of Britannia — I give you... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't know which is scarier, the fact that _ or the fact that _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yeah, I think I broke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like making _ from a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh, shit— this may be a bad time to tell you, but _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No; you don't understand! I have the entire cast of _ on board!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wow. I didn't even know these things could get _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, look — _! Hey, look— No hands!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'mon, it was _. No one even remembers the guy! His character development was about as deep as the shallow end of the pool.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A hasbro truck carrying smaller hasbro trucks.",
+    "Team Deathmatch.",
+    "There's only soup.",
+    "Shut up down there, I'm trying to be epic!."
+  ],
+  "pack": {
+    "id": "TXUCM",
+    "name": "Code Ment"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 4,
+    "total": 16
+  },
+  "dateStoredMs": 1588918136317
+}

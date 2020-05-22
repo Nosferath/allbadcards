@@ -1,0 +1,165 @@
+{
+  "black": [
+    {
+      "content": "Down with _! Long live the revolution!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vermont abolished _ in 1777, when it was still an independent nation. ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ask not what your country can do for you; ask what you can do for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new amendment to the U.S. Constitution grants citizens the right to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did the CIA try to kill Fidel Castro? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next war in Europe will be over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The South would have won the Civil War if only they tried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really killed JFK? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "China needs _, not _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ could have easily prevented World War I.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing we have to fear is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stephen Douglas wanted the U.S. to annex _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Peace in the Middle East can be achieved by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was invented in Nazi Germany.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sun never sets on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My next book is an alternate history about the global rise of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A heated discussion about _ resulted in several bans from the forum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fourscore and seven years ago, our fathers brought forth on this continent _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Soviets thought the Space Shuttle was _, and that terrified them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ISIS has officially laid claim to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will fall to communism next? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What has taken over the Congo this time? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Buddhist Vikings.",
+    "Aesthetic gerrymandering.",
+    "Hugo Chavez.",
+    "The pride of Nazi Germany.",
+    "Norton I, Emperor of the United States and Protector of Mexico.",
+    "Anthony Weiner taking pictures of his weiner.",
+    "A day which will live in infamy.",
+    "President Walt Disney.",
+    "Whipping out that Mexican thing again.",
+    "A soothing cup of tea.",
+    "Nigel Farage.",
+    "States' rights.",
+    "Teddy Roosevelt.",
+    "Benghazi.",
+    "Rod Blagojevich's hair.",
+    "Kazakhstan's northern border.",
+    "The glory of the British Empire.",
+    "The last shred of liberty.",
+    "Die Fuhrer's Face.",
+    "Voting for a third party.",
+    "Alien Space Bats.",
+    "Liking Ike.",
+    "The military industrial complex.",
+    "The Fourth German Reich.",
+    "Red Dawn.",
+    "The Confederate States of America.",
+    "A second shooter on the grassy knoll.",
+    "Butterflies changing the world.",
+    "Somali pirates.",
+    "Invading a country because its leader tried to kill your father.",
+    "Rhodesia.",
+    "Apartheid.",
+    "The Tea Party.",
+    "The Second Amendment.",
+    "King Gustav's silly hat collection.",
+    "The Soviet Union.",
+    "Flexible response.",
+    "Praying to Jefferson Davis and Robert E. Lee.",
+    "The Affordable Care Act."
+  ],
+  "pack": {
+    "id": "DTA7C",
+    "name": "Alternate History"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 39,
+    "total": 61
+  },
+  "dateStoredMs": 1589068732924
+}

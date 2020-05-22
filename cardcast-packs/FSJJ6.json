@@ -1,0 +1,409 @@
+{
+  "black": [
+    {
+      "content": "BREAKING NEWS: The MMDA is now charging P1,000 for non-usage of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Philippines is now the world's top exporter of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the cause of EDSA's daily traffic jams.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saan aabot ang P20 mo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bagong tren ang kailangan ng MRT pero ang binila nila _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next year, the Philippine 420 festival will be sponsored by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the Philippines, home of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Equal rights to the Chinese-Filipino community! We need _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bawal po _ dito, ma'am/ser.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: MMDA to fine P5,000 for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: EDSA shall be renamed to _ Boulevard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sino ang bagong ka-loveteam ni Ramon Bautista? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because of _ , I will run for President.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Philippines has declared _ as their new capital.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BDO. We find _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Once you pop, you can't stop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Kris Aquino mad? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? Edi wow.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: Group of _ protesting against China's illegal land settlement in the West Philippine Sea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: The President has ordered _ to be arrested, cuffed, tied up, flogged, and given golden showers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Henry Sy were to buy a healthcare company, he would produce _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for Senator!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "About to be unveiled in Rizal Park: The largest statue of _ you have ever seen before!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bili-bili na po kayo dito ng _ ! Murang-mura po!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No caroling. Those caught will be sent to _ 's home.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the Universit of Santo Tomas, home of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Featuring the newest trend: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the most important thing in Miriam's purse? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senator _ has passed a bill prohibiting usage of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sino ang ama? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: _ caught plagiarizing _ 's plagiarized speech!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Questions? Suggestions? Violent reactions? Please contact _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Presenting, the top contender for the 2015 Miss World Philippines: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Love ko 'to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the MRT stop? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ offends my religious feelings.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the episode of Bogart the Explorer, tatalakayin natin ang mahiwagang _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can buy you, your friends, and _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sino ang kumain ng balat ng Chickenjoy mo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasa 'yo na ang _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year's most promising Metro Manila Film Festival is about the story of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : The true story of how police officers earn their rank.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for President!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Take the plunge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing, the newest season of Pinoy Big Brother _ Edition!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: MRT breaks down due to: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finally, _ happened to me,",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: The CBCP believes that _ and _ are threats to our Catholic country.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bayang Magiliw, _ ng Silanganan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"'Di po kami masamang tao. Humihingi lang po ng kaunting tulong dahil nasalanta po ang pamilya ko ng matinding _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing, the newest action flick, starring _ as the President, with _ and _ as his loyal sidekicks!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Wala pang mas sasarap pa kesa sa _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pag sila'y nag-iinumang masaya, bakit sa lupa magulo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wala pa ring tatalo sa _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Big One:  A documentary of how fucked Metro Manila will be in the event of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para sa _ ang laban na 'to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ang programang ito ay hatid sa inyo ng _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing: The newest scandal featuring Boy Abunda in a steamy sex video with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Open minded ka ba sa _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kung ikaw si Batman, sino ang bahala sa 'yo? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Marlene Aguilar.",
+    "Mang Kanor.",
+    "The Ampatuans.",
+    "Fliptop.",
+    "Bimby Aquino.",
+    "Ms. Gay Philippines Finals Night.",
+    "Makati.",
+    "Generoso Cupal.",
+    "Kim Henares.",
+    "The Bangsamoro Basic Law.",
+    "#PinoyPride.",
+    "PNoy's new girlfriend.",
+    "Freddie Aguilar.",
+    "Alabang.",
+    "Master Debating.",
+    "Vice Ganda.",
+    "Clover Chips.",
+    "Mang Kanor's Greatest Hits DVD.",
+    "Ferdinand Marcos.",
+    "Daniel Padilla.",
+    "Naked street children.",
+    "Katipunani.",
+    "Tito Sotto's Plagiarized Speech.",
+    "MMDA Enforcers.",
+    "Yema.",
+    "The MRT.",
+    "Mystica.",
+    "A sign that says \"Bwal omehe d2\".",
+    "GrabTaxi(TM).",
+    "EDS rush hour traffic jams.",
+    "Vanity plates.",
+    "Persona non grata.",
+    "Rodrigo Duterte.",
+    "Adobo.",
+    "Feng shui.",
+    "Iglesia Ni Cristo.",
+    "Cubao.",
+    "Call centers.",
+    "Joey de Leon.",
+    "Domestic Helpers.",
+    "Bam Aquino.",
+    "Korina Sanchez.",
+    "Siquiwhores.",
+    "Balut.",
+    "Jejomar Binay's complexion.",
+    "The Fallen 44.",
+    "The Maguindanao Massacre.",
+    "De La Salsal Spa and Massage.",
+    "Lechon.",
+    "Hipon.",
+    "The Annual Aurora Boulevard Jeepney Drifting Competition.",
+    "Jun Sabayton.",
+    "Blind street beggars.",
+    "Kotong cops.",
+    "Carlos Celdran.",
+    "Generoso Cupal.",
+    "Butthurt Philippines.",
+    "Burgos Street.",
+    "The CBCP.",
+    "Mang Inasal.",
+    "Kris Aquino.",
+    "DVD ng bagong season ng Forevermore.",
+    "Mommy Dionesia.",
+    "Gloria Macapagal-Arroyo.",
+    "Shake Rattle and Roll: Part 2,524.",
+    "The Titas of Manila.",
+    "Shopping in Forever 21.",
+    "Lourd de Veyra.",
+    "Etits ni Vice Ganda.",
+    "Jollibee.",
+    "Squatters.",
+    "Nancy Binay.",
+    "Jejomar Binay.",
+    "Laslas Party List.",
+    "Foreigners giving the country a bad rep.",
+    "The 11th Annual DOTA Trashtalking Competition.",
+    "The Christmas Lane.",
+    "King Choc Nut.",
+    "Expansion ng LRT 2.",
+    "Ghost Fighter.",
+    "SM Mall of Asia.",
+    "Multi-Level Marketing.",
+    "Mar Roxas.",
+    "Ten billion pesos of taxpayers' money.",
+    "Mga barker sa mga terminal ng jeep.",
+    "Kris Aquino's vagina.",
+    "Juan Ponce Enrile.",
+    "Manghuhula sa Quiapo.",
+    "Isang bote ng pampa-regla galing sa Quiapo.",
+    "Jennifer Laude's dick.",
+    "Ang mahiwagang amoy sa loob ng MRT.",
+    "A small, Asian dick.",
+    "Limited Edition Payatas Voyeur Porn Collection."
+  ],
+  "pack": {
+    "id": "FSJJ6",
+    "name": "Cards Against FIlipinos"
+  },
+  "quantity": {
+    "black": 60,
+    "white": 93,
+    "total": 153
+  },
+  "dateStoredMs": 1589520804530
+}

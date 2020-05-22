@@ -1,0 +1,69 @@
+{
+  "black": [
+    {
+      "content": "Given the choice, _ would be the first thing I would throw into a secret.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usually I buff it, but you could easily enrage an angry chicken with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Surprisingly, _ has a lot of synergy with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If _ was a card, it would be a 10/10 taunt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wait, you put a _ in your deck? Why?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And to win this game I'm going to play a _, followed by a _, then a _!",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Taking fatigue damage.",
+    "Blizzard screwing with already awful cards.",
+    "A wisp that actually trades well.",
+    "Jaraxxus, eredar lord of the Burning Legion.",
+    "Lorewalker Cho.",
+    "Ysera Dreamcrusher.",
+    "Clicking on the background instead of realising it's your turn.",
+    "Angry chicken.",
+    "Play faceless manipulator on a wisp.",
+    "Elite Tauren Chieftain.",
+    "The entire hand being full of banannas.",
+    "INFERNO!.",
+    "Big Game Hunter.",
+    "LEEEROY JENKINS!.",
+    "Having your enemy play a King Crush when you are at 8 hp.",
+    "Accidentally giving your opponent lethal.",
+    "Mad bomber, killing his entire side of the board.",
+    "Playing a King Crush when your opponent is at 8 hp.",
+    "That moment when your Jaraxxus gets killed by sacrificial pact.",
+    "Your opponent actually somehow managing to make your wisp MORE useless.",
+    "Letting your opponent summon Thaddius so you can mind control him.",
+    "Realising you had lethal after you end the turn.",
+    "Milhouse Manastorm not getting instantly killed by spells."
+  ],
+  "pack": {
+    "id": "4UC3K",
+    "name": "Hearthstone"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 23,
+    "total": 29
+  },
+  "dateStoredMs": 1588377180349
+}

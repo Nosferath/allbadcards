@@ -1,0 +1,113 @@
+{
+  "black": [
+    {
+      "content": "The best reason for co-housing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The ACU Difference",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Kayla late? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, that's why I'm in crushing debt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, and that's why Edric is feral.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump announces his campaign slogan for his 3rd term: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quarantine rules don't apply to me. I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello! You're on speaker with _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is the tequila in the over? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ACU community was shocked to discover _ in the quiet rooms.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why can't I be in your social bubble? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Super Whale.",
+    "Friday Night WoW.",
+    "Choosing a Halloween theme.",
+    "Curing autism with hydrogenated water.",
+    "Fandangle.",
+    "Vampire unicorns.",
+    "Telling the Red Lobster manager that their shrimp is bait.",
+    "Box fans.",
+    "Your parents getting divorced after 40 years of marriage.",
+    "Steve Smith's sermons.",
+    "Charles Burt in enclosed spaces.",
+    "Waiting for Chris to finish eating.",
+    "COVID-19.",
+    "Friday Night D&D.",
+    "Becoming a vasectevangelist.",
+    "Inviting an ex-con boyfriend and his son to meet the family at Christmas.",
+    "Stress eating ice cream.",
+    "Using the toilet crusher to push the poop down.",
+    "Kaiden mansplaining how things work to his teacher.",
+    "Well...actually...",
+    "A purple sock.",
+    "Trying to remember all 15 names of your nephews.",
+    "Melissa's boobs.",
+    "Ken Crow's snake.",
+    "Melissa and Jan locked in a room for eight hours.",
+    "Firing your communications minister.",
+    "Auntie Em's cookies.",
+    "Firing your preacher and refusing to pay severance.",
+    "Playing Monopoly with a Lemmons.",
+    "Your mom calling to tell you someone you didn't know has died.",
+    "Living in an abandoned power plant.",
+    "Science according to Alex Jones.",
+    "Sunset School of Preaching.",
+    "Having gifted children.",
+    "Drinking yellow Gatorade.",
+    "An ACU bible major.",
+    "Pouring cranberry juice on your spotted cow dress.",
+    "Taevin's legendary poopslosion.",
+    "Going on a cruise with your wife and your pen pal.",
+    "Uncle Cookie's homemade rum.",
+    "Getting an Master of Divinity from ACU.",
+    "Putting together Penny's sound system."
+  ],
+  "pack": {
+    "id": "PB4M9",
+    "name": "Q's Deck"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 42,
+    "total": 53
+  },
+  "dateStoredMs": 1588731961486
+}

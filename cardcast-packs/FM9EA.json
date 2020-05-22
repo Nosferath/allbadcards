@@ -1,0 +1,53 @@
+{
+  "black": [
+    {
+      "content": "Who/What is Karen gossiping about now?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Karen being a bitch now?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What/Who will Karen lie about next/to?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What excuse will Karen find now to bitch at/about someone?_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Trying to get as many boyfriends as possible to not be like her Mum like Karen Le.",
+    "Karen \"I want to flirt with everyone even Elysia\" Le.",
+    "Karen can't kill herself Le.",
+    "Karen \"Attention seeker\" Le.",
+    "Karen \"I'm always right cause I'm Asian\" Le.",
+    "Karen Le can you even see me?.",
+    "Karen  lying about everything she can think of.",
+    "Someone kicking Karen's butt only to have their foot absorbed by the massacre.",
+    "Karen Lie.",
+    "Karen \"hypocrit\" Le.",
+    "Karen hating Alistair and somehow hating Jazz and Izzy too purely to spite him.",
+    "Some Karen joke.",
+    "Karen falling over and bouncing around.",
+    "Karen being a lying bitch as always.",
+    "Not being a bitch because you're not Karen.",
+    "Punching Karen only to create a ripple so big on her stomach Nepal has a third earthquake.",
+    "Karen going to desperate lengths to make Alistair feel bad but in reality only fucking up her own life."
+  ],
+  "pack": {
+    "id": "FM9EA",
+    "name": "Karen Lie"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 17,
+    "total": 21
+  },
+  "dateStoredMs": 1588386716867
+}

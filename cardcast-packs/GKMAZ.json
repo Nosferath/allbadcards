@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "You know you lost when _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "GKMAZ",
+    "name": "China Beijing Crew"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588432943806
+}

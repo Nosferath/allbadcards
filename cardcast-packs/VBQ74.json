@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "I am a _ , like my father before me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, I am your _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wobbly lightsaber.",
+    "Han Solo shot first."
+  ],
+  "pack": {
+    "id": "VBQ74",
+    "name": "Star Wars"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588388832081
+}

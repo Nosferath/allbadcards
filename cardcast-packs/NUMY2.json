@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "where we droppin' boys? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got second place to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got a legendary_  out of this chest",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Epic just added a funky new dance called _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "My first bonner.",
+    "Pleasant park.",
+    "V-buck scams.",
+    "Squeakers with scars.",
+    "Lucky landing.",
+    "Tilted towers.",
+    "Default skins.",
+    "Take the L."
+  ],
+  "pack": {
+    "id": "NUMY2",
+    "name": "Fortnite Pack"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 8,
+    "total": 12
+  },
+  "dateStoredMs": 1588661419383
+}

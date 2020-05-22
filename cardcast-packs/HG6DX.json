@@ -1,0 +1,44 @@
+{
+  "black": [
+    {
+      "content": "What lies below the TU KL? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SebWr.",
+    "S&G Fruchthandel.",
+    "MicWi.",
+    "ChHeu.",
+    "Somebody asking to help on the Ancient Dungeon VR Discord.",
+    "Saarlänner.",
+    "Playing Mario Beer Kart for 7 hours straight and dumping shots on your laptop.",
+    "TobMi.",
+    "Universität Landau.",
+    "Delta IT-Systeme.",
+    "Schorle.",
+    "Uff die Fress.",
+    "ToHor.",
+    "A 5 meter tall SebWr.",
+    "Gibtesheutepommes.de.",
+    "Karlsberg.",
+    "ErThu.",
+    "MaThe.",
+    "Janko Böhm.",
+    "The secret tunnels under the TUK.",
+    "Bitburger.",
+    "ZackZack.",
+    "Peter Liggesmeyer."
+  ],
+  "pack": {
+    "id": "HG6DX",
+    "name": "Plebz"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 23,
+    "total": 24
+  },
+  "dateStoredMs": 1588191222859
+}

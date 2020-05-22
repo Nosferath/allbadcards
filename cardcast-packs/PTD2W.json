@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "PTD2W",
+    "name": "Dla Wtajemniczonych"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589282216670
+}

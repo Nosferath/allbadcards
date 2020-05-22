@@ -1,0 +1,895 @@
+{
+  "black": [
+    {
+      "content": "That was episode one of Rory and Jess: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where did Caeser find Luke's hat? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There used to be non-white people in Star’s Hollow, but they left after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Kirk doing now? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m gonna have _ with a side of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Stars Hollow smells like _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For his new campaign as Town Selectman, Taylor campaigns against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Independence Inn, _, speaking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the town loner protesting? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rory! Have a plum, they’re better than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Damnit Gilmore, give them back their _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"There's nothing like a _ to screw up a _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All the  _  just swooned when  _ took the field.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When a woman gives birth to a crack baby you don't buy her _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Driving  _  around Hartford.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, but I got here early and there was nothing to do except feed  _  to the  _ -sniffing  _ which, apparently, the United States government frowns upon.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Miss Patty told a story of her sensual adventure with _ during her years of show biz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, but see, the  _ stops ringing once I throw it against the _ giving me ample time to fall back to sleep. You, however never stop yapping no matter how hard I throw you, thus insuring the whole wake up process.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Your _ shocks me\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emily’s latest antiquing trip was a bust, but at least she walked away with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emily fired her maid because  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're not even using _. That's not a relationship.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have to know where you are at all times, especially when you have my _ on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The code to the panic room is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"FOR THE LAST TIME, THE NAME IS  _ \" !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What interrupted Rory's class at Yale? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's never a good idea to let people know you're on a first-name basis with the _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m not afraid of your _, rabbi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alexis Bledel hates coffee, so for her scenes she secretly drank _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I really, REALLY want to take your daughter to (the) _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have one word for Jack Kerouac: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ -faced miscreant!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When  _ walked into the room, they exclaimed _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"So God IS (a)  _  AND a relative, that's so cool! ... This will make getting _ so much easier\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Coffee, coffee, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to chime in here and be supportive, but _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He smells really good and looks like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once your heart’s involved, it all comes out in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’ll give you  _ for the tree.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For his new campaign as Town Selectman, Taylor campaigns for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"She's just _ . -Stop talking to the dogs\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Only _ have two glasses of wine at lunch. -Well, then buy me a boa and drive me to Reno because I am _ \".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "All the anvils went to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can only have 12  _ for breakfast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now who wants to hear about the time I danced in a cage for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Why are you throwing _ in a public place? -Because I feel stupid doing it at _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You are not seriously sitting there. No, I'm (a) _ .  _ , isn't it\"?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No men, just lots and lots of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miss Patty became upset with  _ when she was told not to  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Doll, you’ve got the  _ , but I’ve got a body in  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Basket, Basket-maker, guy who didn’t bring enough _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The room--it smells like guilt and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paris recovered from her Daily News breakdown with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you think you’ll be _ your entire life?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest Stars Hollow festival is all about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm attracted to  _. It doesn't mean I feel the need to date _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Luke can _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The name of Babette's next garden gnome. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"No. I'm not   _   anymore. People are particularly  _  today\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Honk if _ views your head as her personal playground\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I’m saying is, sometimes  _ is preferable to  _ during dinner.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You will meet an annoying  _. Give her  _ and she’ll go away.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oy with the  _ already!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Great. Then we'll hold hands and  _  afterwards\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since when have you not liked  _ ? Since the day I ate  _  and said eww what’s this? and you said  _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Will you be my _ \"?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You can't  _  .   _ 's trained in  _\".",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Lorelai, there's nothing funny about being a _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"This is BIGGER than your love of _\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Over here is the Elihu Yale bench, where _ happened for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I stop drinking the coffee, I stop _ and _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_  is the latest event in Stars Hollow and is in honour of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What method did Sherry use to try and keep from birthing G.G. before Christopher could get to the hospital? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"All the _  just swooned when _ took the field.\" (said in cheesy southern accent).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"She _ . -Oh, another _  test\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "At this party, Paris is in charge of the French soda and the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Super-cool-  _  -bid-you- _ -adieu\"!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"They used to have _ . They used to have _ . They used to have _ \".",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"I'm afraid that once your _ is involved, it all comes out in _\".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Honestly, Lorelai, it's not your looks that keeps them away, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Babette ate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taylor Doose is affectionately known as _ by the townspeople.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crazy, lazy, hazy days of  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You should always dress up as _ when going to a Quentin Tarantino party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paul Anka is also afraid of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Nice _ , Mom. _ apart\"?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It’s national _ day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rory was mystified when she saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ are _ my house\"!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yeah,  _  , right? Can’t live with ‘em, can’t keep them from jumping in _. Go figure.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I would like a  _  martini with  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"I'm in so far over my head that I can't _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "58 _ , 62 _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To try and win back Rory, Logan hired _ to follow her around all day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you like coffee? Only with my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"He looked, out of his face, into my face, and he said to my face that he was _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Swear. Raise your right _ and say. “May _ break up if I count these _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Come to Miss Patty’s latest dance extravaganza; _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AJ was banned from the Renaissance Fair for doing _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Did you ever know that you're my _?\" (sung in the style of Bette Midler's, \"Wind Beneath My Wings\").",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And right here is where  _ pushed  _ into the lake.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Internet is more than just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You jump, I _, Jack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I bite you or pull your _, or use _ on you? ‘Cause I really need to do something.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ can kill you. Enjoy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This town is like one big _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boys do not like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sure, Lane has music hidden under her floorboards. But also _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Can't stand (the)  _ , love to watch (the) _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Norman Mailer, I'm _\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened? The reception on the phone sucked. All I heard was  _ and  _ and _. Whose butt do I have to kick?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"I didn't know _  was in town\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I swear I would eat my vegetables if only they were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the opposite of ennui? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need _ in an IV.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry Emily, I was late to Friday Night Dinner because  _  .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\" _  at the  _  .\" (sing like the \"5 o' clock at the O-aaa-sis\" jingle).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Helllo, Dolly! This is, _ , Dolly! I'll be comin' 'round the _ singing soooooooongs!\" (sung in the style of Louis Armstrong).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lorelai saved the day when she brought  _  to  _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He kissed me! And I shoplifted _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because people like you. You’re quiet. You say _. You look like little _ help you get dressed in the morning.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where would  _  wear a party vest?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Logan's parents play canasta with  _  every Sunday.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. If that's some sort of drug reference, it isn't funny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ only has lovely things to say about you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was mad when _ didn’t bid on her basket.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sorry I can't hear you the  _  is going through a  _  .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you're gonna throw your life away, he'd better have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has absolutely no place in our world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paris’ allergy to  _  means she  _  when it’s around.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Dodger.",
+    "The cognitive dissonance .",
+    "The many faces of Emily Gilmore.",
+    "300 hours of community service.",
+    "Screaming, \"Apple down!\" at a bunch of child dancers.",
+    "Butt napkins.",
+    "$100,000 in cash and prizes.",
+    "Kirk in a nightgown.",
+    "Mary.",
+    "Junkie.",
+    "Cinnamon’s wake.",
+    "Ace.",
+    "Weston's Bakery.",
+    "Follow Them To The Edge Of The Desert.",
+    "Junk food.",
+    "A nice, cold egg cream.",
+    "Going golfing with Richard at the country club.",
+    "Luke’s Dark Day.",
+    "Butt-faced miscreant.",
+    "The Festival of Living Art.",
+    "The Happiest Donut.",
+    "Making out at your Grandparent’s vow renewal .",
+    "Having to decide between N*Sync and 98 Degrees.",
+    "Being obnoxious at the movie theater.",
+    "A panic room .",
+    "Richard Gilmore .",
+    "Max.",
+    "The Crap Shack.",
+    "Bert the toolbox.",
+    "A semi-pornographic, leering monkey lamp.",
+    "Drinking Patty's Founders' Day punch.",
+    "Being totally flexible as long as everything is exactly the way you want it.",
+    "Michel.",
+    "A nice fruit basket.",
+    "Devilled eggs.",
+    "Pippy Longstocking.",
+    "Your own personal coffee cart.",
+    "A god phone.",
+    "Voted in as Editor of the \"Yale Daily News\".",
+    "A children's production of fiddler on the roof (minus kirk).",
+    "The Dragonfly Inn.",
+    "Kirk having a secret identical twin to help keep up with all his side jobs.",
+    "Al’s pancake world.",
+    "Town Loner.",
+    "Waking up to a hole in the side of your house.",
+    "Wherever the Star’s Hollow High School students hung out in the afternoons.",
+    "The last Korean wedding.",
+    "A well-attended cat funeral.",
+    "Monty the rooster.",
+    "Real Paul Anka.",
+    "Naked Guy.",
+    "Rasquats.",
+    "Kirk’s weirdly shaped body.",
+    "A model rocketship.",
+    "Mashed banana on toast.",
+    "Making/Made a fake chalk outline of a dead body in front of Doose's Market.",
+    "Kitty oven mitts.",
+    "Lulu.",
+    "Dog Paul Anka.",
+    "The Hustle.",
+    "Rune.",
+    "I LOVE YOU, LUKE DANES I LOVE YOU.",
+    "Stupid naked angel butts.",
+    "Donna Reed Night.",
+    "The gazebo.",
+    "Emily Gilmore .",
+    "Doose’s Market .",
+    "Dessert sushi.",
+    "Fro-yo Social.",
+    "Narcolepsy Boy.",
+    "Ii Duce.",
+    "Tookie Clothespin.",
+    "Green is the new pink.",
+    "A girl in a gorilla suit.",
+    "Take the devilled eggs.",
+    "Squeegee Beckenheim.",
+    "Kirk's many jobs.",
+    "Jackson.",
+    "Taylor Doose.",
+    "Solidarity, sister.",
+    "Lulu can’t see me like this.",
+    "Really good coffee.",
+    "Deep fried turkey.",
+    "Malfunctioning sprinklers.",
+    "Bjork snow-women .",
+    "Come and get it. .",
+    "Haunted leg.",
+    "Drawers full of books.",
+    "Life and Death Brigade.",
+    "Jackson's produce.",
+    "Having two glasses of wine at lunch, like a prostitute.",
+    "Getting 60/40'd.",
+    "Hug-a-World.",
+    "Pop-up book from hell.",
+    "The steamy Rory-Paris hookup of shippers’ dreams.",
+    "Blue and pink ribbons .",
+    "New neighbors giving out King-sized candy bars for halloween.",
+    "Book Tease.",
+    "Kirk Naked.",
+    "My Macy Gray CD.",
+    "The ice cream queen.",
+    "The fuzzy alarm clock didn't purr on time.",
+    "The  Great Alarm Clock Slaughter of 2002.",
+    "Mrs. Backwards-Baseball-Cap.",
+    "Digger.",
+    "Hep Alien .",
+    "The baby Jesus’s arm being used as a chew toy.",
+    "Brazzlefrat.",
+    "Motorcycle .",
+    "In omnia paratus.",
+    "Mrs. Kim .",
+    "Winning the Dance Marathon.",
+    "Sookie St. James.",
+    "Fran.",
+    "Rocky Road Cookies.",
+    "Mitchum Huntzberger.",
+    "You break, you buy.",
+    "Poodles .",
+    "Wearing someone else's socks.",
+    "Bedroom jungles.",
+    "Lane’s hidden CD collection.",
+    "Colonel Clucker.",
+    "Burning a king-sized mars bar on the front lawn .",
+    "The potting shed.",
+    "Coffee.",
+    "Umlauts.",
+    "Emily getting arrested.",
+    "Lorelai.",
+    "Luke’s Diner.",
+    "The Renaissance Fair.",
+    "Your best “come hither” look.",
+    "Wanting to make Kirk cry like a little girl.",
+    "Vicious Trollop lipstick.",
+    "Deviled egging Jess' car.",
+    "Zucchini tushes.",
+    "Celine Dion concert.",
+    "Christiane Amanpour complimenting your pajamas.",
+    "Pierpont the gnome.",
+    "Copper Boom.",
+    "Michel and Tobin the Night Manager having hate sex.",
+    "A meatball explosion sub.",
+    "Russian novels, for a little light reading.",
+    "Paris and Rory's \"friendish\" realm of friendship.",
+    "Dumping ranch dressing into a bag of lettuce and calling it a salad.",
+    "The Puffs.",
+    "1000 yellow daisies.",
+    "Throwing your golf ball cake in the trash.",
+    "Sexual tension between Luke and Lorelai.",
+    "Kirk as the Town Whore.",
+    "Imperialistic condiments.",
+    "Ridiculous amounts of stale Chinese food.",
+    "Taking your grandfather’s economics class for that easy A.",
+    "Lunch at Luke’s.",
+    "Friday Night Dinner .",
+    "Drella, the harpist for Independence Inn.",
+    "Ya-ya.",
+    "Cat Kirk.",
+    "Kirk’s jobs.",
+    "Sugar toes.",
+    "The government’s top secret anvil warehouse.",
+    "The chuppah luke makes for Lorelai.",
+    "Where You Lead.",
+    "Reading so intensely, never noticing when someone's nose gets broken nearby.",
+    "Cart, Kiosk, Cart/Kiosk.",
+    "59 rotten Easter eggs.",
+    "Ethiopian night at Al’s Pancake World.",
+    "Bid-a-Basket Festival.",
+    "Max Medina  .",
+    "Going to a party that gets raided by cops due to a fight .",
+    "Misogynistic Truck.",
+    "Those Lazy Hazy Crazy Days of Summer.",
+    "The battle of the troubadours. .",
+    "Stealing/Stole a boat with her boyfriend.",
+    "Culs-de-sac.",
+    "Booking/Booked a couples' massage for mother and daughter.",
+    "Jess' stare.",
+    "Whatever magic Keiko Agena used to look like a teenager.",
+    "Monkey monkey underpants.",
+    "Picking a fight with a swan--and losing.",
+    "God has spoken to me...rather rudely.",
+    "Writing a song with Lane’s mom.",
+    "Emily Gilmore .",
+    "Shoplifting after your first kiss.",
+    "Michel eating carbs with his mom, Céline. .",
+    "Forgetting the code to your mother’s panic room.",
+    "Miss Patty.",
+    "A perfectly balanced pro and con list.",
+    "Bangle it up.",
+    "Bikers and low-lives.",
+    "Drinking all the coffee in the house before 5am.",
+    "Dean .",
+    "Graduating from community college with a business degree.",
+    "Catching the most interesting politicians on their way to the bathroom.",
+    "Finn’s Passion of the Christ.",
+    "A Kirk victory lap.",
+    "Rory.",
+    "A Czechoslovakian football.",
+    "Civil War reenactment .",
+    "My girlfriend's the town whore.",
+    "58 seats, 62 Koreans.",
+    "God, you talk so good.",
+    "Pink and shiny underwear.",
+    "Doyle.",
+    "The Firelight Festival.",
+    "Black, White and Read movie night.",
+    "1-1-1-1-1.",
+    "Anvils.",
+    "Naked, naked Rune.",
+    "Lane Kim .",
+    "Jackson and Sookie.",
+    "Logan.",
+    "Noodle-scooz.",
+    "WWTBFCD.",
+    "Samba .",
+    "The big envelope.",
+    "Kirk and Lulu’s first date.",
+    "Freaky Clown Pillow.",
+    "Little satchamo.",
+    "Reverend and the Rabbi making jokes at Taylor's expense.",
+    "The Magic Risotto.",
+    "Tofurkey.",
+    "Rock polishing kit.",
+    "Luke’s no cellphone rule .",
+    "Shelves by AJ.",
+    "Dirty.",
+    "Babbette ate oatmeal.",
+    "Vicious Swans.",
+    "Potato...salad.",
+    "I just got hit by a deer."
+  ],
+  "pack": {
+    "id": "WYPN5",
+    "name": "Gilmore Girls"
+  },
+  "quantity": {
+    "black": 130,
+    "white": 229,
+    "total": 359
+  },
+  "dateStoredMs": 1589415505793
+}

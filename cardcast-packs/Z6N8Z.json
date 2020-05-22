@@ -1,0 +1,88 @@
+{
+  "black": [
+    {
+      "content": "There is no experience that is more thrilling than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't care, I'm still free, you can't take the _ from me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh look! _ finally earned their PPL!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone knows that the #1 LOTRO streamer is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Adventures of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Name something that always fails. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ of Green Gables.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the award for Signum Employee of the Month goes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're coming? So's _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Mandalorian.",
+    "The Helm of Victory.",
+    "Anne Shirley.",
+    "The alternate Nicholas from Canada.",
+    "Mythmoot.",
+    "Hoban Washburne.",
+    "Argyria.",
+    "Captain Froghat.",
+    "Companion Inara Serra.",
+    "The mere fact that LMM's grave is a Poké stop.",
+    "Jayne Cobb.",
+    "Snorlacticus.",
+    "Shepherd Derrial Book.",
+    "Captain Malcolm Reynolds.",
+    "The Serenity.",
+    "Vermoot.",
+    "Exploring the Lord of the Rings.",
+    "My constant pleas for Signum to buy a plane.",
+    "Spelling Anne without the e.",
+    "Simon Tam.",
+    "Lieutenant Broghat.",
+    "Zoe Washburne.",
+    "River Tam.",
+    "Kaylee Frye.",
+    "Signum University.",
+    "The Throne of Consolation.",
+    "Listening to the Tolkien Professor talk at 200% speed."
+  ],
+  "pack": {
+    "id": "Z6N8Z",
+    "name": "Olsen Family Deck"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 27,
+    "total": 36
+  },
+  "dateStoredMs": 1589490080698
+}

@@ -1,0 +1,122 @@
+{
+  "black": [
+    {
+      "content": "_. In America.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Attention Duelists! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Card games on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's like a fanfic only written by actual writers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ gives me super strength!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not gay, I'm just _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you just summon a bunch of _ in a single turn?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ (Actual 4kids dialogue.)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OH MY GOD, ANOTHER GIANT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shut up, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OH MY GOD, A GIANT _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's okay Serenity, I lived my life as a side character, fit only for _. But now, I get to die the way I always wanted, _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Marik and Bakura's current evil plan is to steal Yugi's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Screw the rules, I have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, everybody, look at me! I'm _! I have a dragon fetish, and I sound like Brock from Pokemon! Screw the rules, I'm in love with Nurse Joy!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Marik Ishtar.",
+    "Motorcycles.",
+    "Evil Council of Doom.",
+    "A Satanic teddy bear.",
+    "Oh you'll find out, I'm about to summon it!.",
+    "Money.",
+    "Mokuba.",
+    "Leather pants.",
+    "Yugi Moto.",
+    "Dan Green.",
+    "The heart of the cards.",
+    "Super Mega Ultra Chicken.",
+    "Green hair.",
+    "Tristen Taylor.",
+    "Brooklyn Rage.",
+    "An army of Steves.",
+    "LittleKuriboh.",
+    "Slifer the exacutive producer.",
+    "Spouting mindless quips and catchphrases.",
+    "Falling, screaming like a girl into a pit of boiling hot lava, flesh being seared from my bones.",
+    "British.",
+    "Melvin.",
+    "F hole.",
+    "Tell me!.",
+    "Friendship.",
+    "Season zero.",
+    "Invisible guns.",
+    "Seto Kaiba.",
+    "Joey Wealer.",
+    "Mind crush.",
+    "ALL OF THE HOMO!."
+  ],
+  "pack": {
+    "id": "SRC6F",
+    "name": "Yu-Gi-Oh Abridge expansion"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 31,
+    "total": 46
+  },
+  "dateStoredMs": 1588433759935
+}

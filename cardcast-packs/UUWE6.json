@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "How did Lucy really die? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dracula's ultimate weaknesses are garlic, crucifixes, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Seward, Quincey, and Arthur meet? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After sparrows, Renfield moved on to eating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Professor Van Helsing's PhD is in _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mina's train obsession.",
+    "Shooting every damn bat you see.",
+    "Dracula's shitty straw hat.",
+    "Hitting Dracula in the face with a shovel.",
+    "Questionable Hungarian alcohol.",
+    "Professor Van Helsing's very broken English.",
+    "Homoerotic tension.",
+    "Shipping yourself to England in a box of dirt.",
+    "Dr. Seward's phonograph.",
+    "Jonathan Harker's diary.",
+    "Sharing a bed with Abraham Van Helsing.",
+    "Cutting Lucy's head off.",
+    "An incomprehensible, six-hour-long lecture on vampire lore."
+  ],
+  "pack": {
+    "id": "UUWE6",
+    "name": "Dracula"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 13,
+    "total": 18
+  },
+  "dateStoredMs": 1589514885352
+}

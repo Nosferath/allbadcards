@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "What ultimately helped Kurt Kobain to overcome his depression? It was _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "VGMAT",
+    "name": "Tickets to Hell"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589480826158
+}

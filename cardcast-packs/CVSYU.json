@@ -1,0 +1,33 @@
+{
+  "black": [],
+  "white": [
+    "Mud Shot.",
+    "Bonemerang.",
+    "Double Team.",
+    "Role Play.",
+    "Bind.",
+    "Tri Attack.",
+    "Bone Club.",
+    "String Shot.",
+    "Sludge Bomb.",
+    "Hydro Cannon.",
+    "Pound.",
+    "Harden.",
+    "Submission.",
+    "Swallow.",
+    "Horn Drill.",
+    "Milk Drink.",
+    "Hydro Pump.",
+    "Spit Up."
+  ],
+  "pack": {
+    "id": "CVSYU",
+    "name": "Suggestive Pokemon Moves"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 18,
+    "total": 18
+  },
+  "dateStoredMs": 1589565344587
+}

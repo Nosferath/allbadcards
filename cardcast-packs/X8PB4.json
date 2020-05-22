@@ -1,0 +1,331 @@
+{
+  "black": [
+    {
+      "content": "_?  I don't think they exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dear God, what is that thing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only way I can be satisfied.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What hideous sin have you committed lately?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You seem a decent fellow.  I hate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is it that brings us together today?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hear this now:  I will always come for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You fell victim to one of the classic blunders:  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The battle of wits has begun.  It ends when you _, and we both _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ makes it go down easier.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It means I leave you in anguish, wallowing in _ forever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was shocked when I realized _ really meant _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nonsense.  You're only saying that because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I was your age, _ was called _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do you want me to send you back to where you were?  _, in Greenland?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That doesn't leave much time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life is _.  Anyone who says differently is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you haven't got _, you haven't got anything.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But then again, perhaps I have _ after all.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sleep well, and dream of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know something you don't know.  I am not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He wasn't _?  Inconceivable!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wasn't _!  Okay, maybe I was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No one would surrender to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where I come from, there are penalties when you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And you can go _, for all I care.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're trying to trick me into _.  It won't work.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've been _ all day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You rush a miracle man, you get _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you been _?  I think that's about the worst thing I've ever heard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She doesn't get _ at this time, you know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a shortage of _ in this world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't even think about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you ever heard of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello.  My name is _.  You killed _.  Prepare to die!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's possible, pig.  I might be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have fun _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death cannot stop _.  It can only delay it for a little while.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Please consider me as an alternative to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _, admit it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't think you'd accept my help, since I'm only waiting around to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want _ back, you son of a bitch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You mean, you'll put down _, and I'll put down _, and we'll try to kill each other like _?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You mean you wish to _?  Very well, I accept.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "You.",
+    "Selling something.",
+    "Nervous.",
+    "The Pit of Despair.",
+    "To the pain.",
+    "An epic sword fight.",
+    "Your brains, his strength, and my steel.",
+    "The Cliffs of Insanity.",
+    "Tie him up.",
+    "Shrieking eels.",
+    "Torture.",
+    "A mutton, lettuce, and tomato sandwich.",
+    "Dropping your sword.",
+    "The lightning sands.",
+    "An immunity to iocane powder.",
+    "The Fire Swamp.",
+    "To the death.",
+    "You warthog-faced buffoon.",
+    "The Dread Pirate Roberts.",
+    "Never go against a Sicilian when death is on the line.",
+    "Eel-infested waters.",
+    "Your rock.",
+    "The Dread Pirate Westley.",
+    "Terribly comfortable masks.",
+    "The chocolate coating.",
+    "Death.",
+    "To kill you.",
+    "Mawage.",
+    "Never get involved in a land war in Asia.",
+    "Sleeping well, and dreaming of large women.",
+    "Death first!.",
+    "The six-fingered man.",
+    "Princess Buttercup.",
+    "Vissini.",
+    "Me.",
+    "A great fool.",
+    "Storming the castle.",
+    "Civilized people.",
+    "Florin.",
+    "Slobbering drunk.",
+    "Gilder.",
+    "A wheelbarrow and a Holocaust cloak.",
+    "Men of action.",
+    "A bit concerned.",
+    "Surrender to me.",
+    "My father.",
+    "To die.",
+    "You hippopotamic land mass.",
+    "The Man in Black.",
+    "Miracle Max.",
+    "A miserable, vomitous mass.",
+    "As you wish.",
+    "Trying to escape.",
+    "Plato, Aristotle, Socrates - morons!.",
+    "The Machine.",
+    "A very noble cause.",
+    "My sword.",
+    "Iocane powder.",
+    "Mostly dead.",
+    "Inconceivable!.",
+    "We'll never survive.",
+    "Dear God, what is that thing?.",
+    "No one of consequence.",
+    "Prince Humperdink.",
+    "Eaten by eels.",
+    "Your freakish misery.",
+    "Westley.",
+    "Rodents of Unusual Size.",
+    "Being gentle.",
+    "Killing you too quickly.",
+    "Dueling him left-handed.",
+    "Rotten miracles.",
+    "The R.O.U.S.",
+    "My deep and abiding interest in pain.",
+    "Fezzick.",
+    "Kidnapping.",
+    "Inigo Montoya.",
+    "Getting used to disappointment.",
+    "Putting a damper on our relationship.",
+    "Seeing your hideousness.",
+    "Perfect breasts.",
+    "An albino with a wheelbarrow.",
+    "A dizzying intellect.",
+    "Twu wuv.",
+    "Pain.",
+    "Count Rugen.",
+    "A farm boy.",
+    "True love.",
+    "Bluffing.",
+    "Ultimate suffering."
+  ],
+  "pack": {
+    "id": "X8PB4",
+    "name": "The Princess Bride by ILostMyShoe"
+  },
+  "quantity": {
+    "black": 45,
+    "white": 90,
+    "total": 135
+  },
+  "dateStoredMs": 1588933397841
+}

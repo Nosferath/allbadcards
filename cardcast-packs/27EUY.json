@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "I'm blinded, he's lost an arm, and you're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lost Canvas - the same premise, but you know it ends in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You may know her as Saori, but now she is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm immune to _. I don't have an appreciation for it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why you should only wear your Cloth when it is absolutely necessary.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was just an illusion!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, I'm totally _ ... >.>",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only way to fix the Cloth is by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This time, Saori's been kidnapped by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And then _ was Hades.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Scamming Poseidon.",
+    "Beautiful men in shiny armour.",
+    "EXCALIBUR!.",
+    "Translating it into every language in Europe except English.",
+    "Fighting shirtless on the moon.",
+    "Death by painting.",
+    "The inescapable fate of Sagittarius.",
+    "Sagittarius.",
+    "Death, death all around.",
+    "Throwing a galaxy at someone.",
+    "Very important flower bracelets.",
+    "Fighting to the death over a box.",
+    "Poisonous blood roses.",
+    "Bleeding on it.",
+    "Phoenix Ikki.",
+    "Not making it into the anime.",
+    "Keeping boxes in your ribcage.",
+    "Running up 12 flights of stairs up a mountain.",
+    "The elusive episode 27.",
+    "Milo's scarlet fingernails.",
+    "Falling in love with a girl who looks like your brother.",
+    "Killing a puppy to prove a point.",
+    "Hypnos and Thanatos.",
+    "An unhealthy obsession with Pegasus.",
+    "Those awful, awful Gemini twins.",
+    "A sealed god in a jar.",
+    "SAORI-SAAAAAN.",
+    "Running away and dyeing your hair red.",
+    "Hyoga's mama.",
+    "Sea Dragon.",
+    "\"Don't pride, King Tiger!\"."
+  ],
+  "pack": {
+    "id": "27EUY",
+    "name": "Greek Gods Against Humanity"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 31,
+    "total": 41
+  },
+  "dateStoredMs": 1588668441453
+}

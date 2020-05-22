@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "I hope the next to leave EU will be_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To take my precautions, I will definitely be_ to keep the Mexicans out.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Donald Trump.",
+    "Building a wall.",
+    "Nigel Farage.",
+    "Vote leave.",
+    "Boris Johnson's rugby tackle in a charity football match.",
+    "Brexit.",
+    "Trump and Boris Johnson's barber.",
+    "Scottish independence.",
+    "Looking like Hagrid.",
+    "Boris Johnson.",
+    "A foolish beard."
+  ],
+  "pack": {
+    "id": "8BTVM",
+    "name": "Scottish independence"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 11,
+    "total": 13
+  },
+  "dateStoredMs": 1589061787925
+}

@@ -1,0 +1,94 @@
+{
+  "black": [
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "undertale_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale.",
+    "Undertale."
+  ],
+  "pack": {
+    "id": "47WYF",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 13,
+    "total": 26
+  },
+  "dateStoredMs": 1588648321513
+}

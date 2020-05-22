@@ -1,0 +1,63 @@
+{
+  "black": [
+    {
+      "content": "You're walking in the woods. There's no one around,  and your phone is dead. Out of the corner of your eye you spot him,  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You limp into the dark woods, blood oozing from your stump leg. But you have won. You have beaten _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's brandishing a knife, it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But he doesn't hear you enter,  you're sneaking up behind him. Strangling superstar _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But your leg! Ah! It's caught in a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Running for your life from _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fighting for your life with _, wrestling a knife from _. Stab it in his kidney. Safe at last from _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Shi LaBeouf!.",
+    "Shi LaBeouf!.",
+    "Your stump leg.",
+    "Shi LaBeouf!.",
+    "SHIA LABEOUF!.",
+    "Shia LaBeouf.",
+    "Actual, cannibal Shia LaBeouf.",
+    "Shi LaBeouf!.",
+    "Bear trap!.",
+    "Shi LaBeouf!.",
+    "Shi LaBeouf!.",
+    "Shia LaBeouf."
+  ],
+  "pack": {
+    "id": "ZAXVJ",
+    "name": "Shia LeBaouf"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 12,
+    "total": 19
+  },
+  "dateStoredMs": 1589246157476
+}

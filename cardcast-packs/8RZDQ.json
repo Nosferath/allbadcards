@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "In order to lure voters, what strategy did Malcolm Turnbull use?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened to Harold Holt?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Malcolm Turnbull trying to live it up with the lowerclass.",
+    "Tony Abbott's budgie smugglers."
+  ],
+  "pack": {
+    "id": "8RZDQ",
+    "name": "Australian Politics"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589533357106
+}

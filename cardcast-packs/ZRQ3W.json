@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Before swallowing his pride and a cyanide pill, Adolf whispered to Eva, \"Sorry about _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leni Riefenstahl's last movie was called Triumph of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Whatever brave hero killed Hitler.",
+    "Being open to new perspectives on the Holocaust.",
+    "Electro-Stalin.",
+    "The cyanide pill you keep on your person at all times.",
+    "Running an entire genre of moustaches.",
+    "Cloning Hitler.",
+    "Donald Trump's personal copy of Mein Kempt.",
+    "The Yad Vashem World Center for Holocaust Research.",
+    "Disco Mussolini.",
+    "An orgasm so powerful you travel back in time and jizz in Hitler's face.",
+    "Presenting your documents at a checkpoint.",
+    "Hitler's sound economic policies.",
+    "How cool Nazi airplanes are.",
+    "Straight up fucking loving authority.",
+    "Breaking news about what Hitler's penis was like."
+  ],
+  "pack": {
+    "id": "ZRQ3W",
+    "name": "Fascism Pack"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 15,
+    "total": 17
+  },
+  "dateStoredMs": 1589168536295
+}

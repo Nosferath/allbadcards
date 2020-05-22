@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Cos'è questo rumore? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "XZAZF",
+    "name": "CAH italiano"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589062504687
+}

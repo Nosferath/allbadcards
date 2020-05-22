@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "Everytime someone leaves Panic! At The Disco, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing bigger than Brendon Urie's forehead is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Girls/Girls/ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Death Of A _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Panic! At The _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the most fun a girl can have.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "House Of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Nothing.",
+    "Brendon's forehead grows.",
+    "Lying.",
+    "Goats.",
+    "Disco.",
+    "Dicks.",
+    "Boys.",
+    "Jeff."
+  ],
+  "pack": {
+    "id": "S2K8Y",
+    "name": "Panic! At The Cardset."
+  },
+  "quantity": {
+    "black": 7,
+    "white": 8,
+    "total": 15
+  },
+  "dateStoredMs": 1589510725925
+}

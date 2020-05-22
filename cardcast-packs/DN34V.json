@@ -1,0 +1,115 @@
+{
+  "black": [
+    {
+      "content": "Mojang's next project will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My last Minecraft death was caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst part of Minecraft is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My first house in Minecraft was made from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The one thing Minecraft is missing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The highlight of our last Minecraft session was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing about Minecraft is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The dumbest thing you can do in Minecraft is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I decided to take out the creepers by means of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minecraft's new EULA contains a controversial line about _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pushing your best friend off a cliff.",
+    "Delicious zombie flesh.",
+    "A skeleton riding on a spider.",
+    "The disappointment of returning to vanilla.",
+    "Riding a pig long and hard.",
+    "Advanced wheat farming.",
+    "Glittering diamond armor.",
+    "Spiders pooping out string.",
+    "Getting wasted and going strip mining.",
+    "Digging straight down.",
+    "The inevitable point in a Yogscast video where Lewis and Simon just start yelling at each other.",
+    "Falling into a ravine. Again.",
+    "The absurd complexity of breeding bees.",
+    "Sips and Sjin.",
+    "An unusually intelligent zombie.",
+    "Full PVP.",
+    "People who won't shut up about Minecraft.",
+    "Diggy Diggy Hole.",
+    "Falling into lava.",
+    "Microsoft's inevitable takeover.",
+    "Another terrible adventure map.",
+    "Mahogany doors.",
+    "Farming gunpowder with soul cages and lasers, the way Notch intended.",
+    "The tortured cries of a ghast.",
+    "Digging straight up.",
+    "A mountain made entirely of cake.",
+    "Notch's hat.",
+    "A single block of dirt.",
+    "Creating a black hole with a red matter bomb.",
+    "Beating a zombie to death with a stick.",
+    "Blowing shit up.",
+    "A machine that takes way longer to set up than it would take to just make the stuff by hand.",
+    "Never having enough coal.",
+    "A diet consisting entirely of pork chops.",
+    "Genetically engineered pigs with teleporting abilities.",
+    "Every Lets Player.",
+    "The old days when apples didn't stack.",
+    "Friendly snowmen and their salty snowballs.",
+    "Disappointing enchantments.",
+    "Automating everything until there's nothing left to do.",
+    "Punching NPCs knowing they won't punch back.",
+    "Getting 3/4 of the way through a building project and then just losing interest.",
+    "A skeleton pool party.",
+    "Mario-style gravity.",
+    "Intentionally aggroing pigmen.",
+    "Hearing a zombie nearby but not being able to find it.",
+    "Loading up your friend's house with TNT.",
+    "Another shitty Let's Player.",
+    "Swedish game developers."
+  ],
+  "pack": {
+    "id": "DN34V",
+    "name": "Minecraft Pack"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 49,
+    "total": 59
+  },
+  "dateStoredMs": 1589566856425
+}

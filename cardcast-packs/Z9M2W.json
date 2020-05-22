@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "_ is the best part about life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happiness is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The thought of black Jesus."
+  ],
+  "pack": {
+    "id": "Z9M2W",
+    "name": "The cute boys"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588880763864
+}

@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "Team rocket secretly likes _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There was _ all over the ground",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom was sick, so I decided to (make/get) her some _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jim was bored, so he decided to go to the store and buy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite book is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was once gay, now i'm just _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello I am _ and I am _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "xch36",
+    "name": "Fucked Up Porn"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 0,
+    "total": 7
+  },
+  "dateStoredMs": 1588316526425
+}

@@ -1,0 +1,63 @@
+{
+  "black": [
+    {
+      "content": "Goddamnit Archer! Don't _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his inaugural address, President Dwayne 'The Rock' Johnson promised to introduce _ to the nation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What awkward thing did I say mid-orgasm? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harry Potter and the Goblet of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ used _! It was super effective!",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Pickle Riiiick!.",
+    "Deadpool!.",
+    "Having a tree-way in the magical Gongqing Forest.",
+    "Rick Sanchez's portal gun.",
+    "Mr Mime, the sex offender Pokemon.",
+    "Jon Jones' third failed PED test.",
+    "Dany wanting 8 inches of (Jon) Snow.",
+    "Decapitation by guitar.",
+    "A wall around Mexico, paid for by Mexicans.",
+    "Punching Nazis.",
+    "Gil's terrifying sex dungeon.",
+    "Ash Ketchum, the world's worst Pokemon trainer.",
+    "Grand Moff Tarkin's awkward CGI appearance.",
+    "But wait, there's more!.",
+    "\"Jesse Buchler's buried in here, dum dum dum dum dum\".",
+    "Jesse's tiny penis.",
+    "The Slap of a Million Exploding Suns.",
+    "VR sex with all your favorite celebrities.",
+    "Phrasing!.",
+    "Jared Leto as Luke Skywalker.",
+    "Kenny Omega's V-Trigger finishing move.",
+    "Darkrai's lady legs."
+  ],
+  "pack": {
+    "id": "5E6WF",
+    "name": "Cards Against Your Mom"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 22,
+    "total": 27
+  },
+  "dateStoredMs": 1589081107581
+}

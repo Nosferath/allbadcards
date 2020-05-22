@@ -1,0 +1,45 @@
+{
+  "black": [
+    {
+      "content": "How would I most like to kill Dolores Umbridge? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you use as a weapon against a wandless Voldemort? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Gryffindor win the House Cup this year? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest product from Weasley's Wizard Wheezes: _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A BOSS Zefron poster.",
+    "The Heir of Slytherin.",
+    "The House Cup.",
+    "Harry's green eyes.",
+    "Half-giants.",
+    "The Goblet of Fire.",
+    "Hedwig.",
+    "House rivalry.",
+    "Wizard racism."
+  ],
+  "pack": {
+    "id": "2PVH5",
+    "name": "Harry Potter and the Cards Against Humanity"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 9,
+    "total": 13
+  },
+  "dateStoredMs": 1588373995833
+}

@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "It's never too late for _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Contracting he French disease.",
+    "Leaving your first born the plague in your will.",
+    "Std laced cod piece.",
+    "Another round of ale.",
+    "Puritans."
+  ],
+  "pack": {
+    "id": "HEEWQ",
+    "name": "Elizabethans Though"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588122310563
+}

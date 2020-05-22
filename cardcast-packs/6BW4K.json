@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Ahhhhhh the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Are you _ , master jedi?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You were meant to destroy _ ! Not join them!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good Anakin, good. _ him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Commander Cody. Execute _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another _ for my collection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is getting out of hand. Now there are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I shouldn't... it's not the _ way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only a _ deals in absolutes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello there. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you ever hear the tragedy of _?.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've just learned a terrible truth. I think Chancellor Palpatine is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Republic credits are no good out here, I need something more real. _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Do it.",
+    "General Kenobi.",
+    "It's not a story the Jedi would tell you.",
+    "200,000 with more than a million on the way."
+  ],
+  "pack": {
+    "id": "6BW4K",
+    "name": "Star Wars"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 4,
+    "total": 18
+  },
+  "dateStoredMs": 1588616200667
+}

@@ -1,0 +1,199 @@
+{
+  "black": [
+    {
+      "content": "I want a perfect boyfriend like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello. My name is _. You killed my _. Prepare to die.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My mom came in, and I had to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want the Terminator to say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You remind me of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THESE ARE _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish they'd bring back _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dream job is to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Isn't that Sherlock from BBC Sherlock?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the next episode of Doctor Who, Twelve says _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That scene in Once Upon A Time when_. That was hilarious!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I prefer _ over _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: The miraculous cure-all!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bill Pott's new girlfriend is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Six was _ at Seven because Seven _ Nine.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Remember that time Nardole said _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I brought _ back to life!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friends started watching _! Bless them!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't _ about the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The BBC can't have Twelve saying \"Fuck\" because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "That time when Rumplestilskin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My anaconda don't want none unless you got _ , hun!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only reason I watch \"Parks and Recreation\" is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The fact that \"Brain of Morbius\" is actually a tiny bit scary.",
+    "Matt Smith's hair.",
+    "Charlie the Unicorn.",
+    "Gordon Ramsey complaining about your cooking.",
+    "Watching Doctor Strange and saying \"No shit, Sherlock,\" when Strange says something obvious.",
+    "Sharing.",
+    "The perfect piece of humanity that is Matthew Gray Gubler.",
+    "Michael Jackson thinking about little boys, because he's always thinking about little boys.",
+    "Rubbish robots from the dawn of time.",
+    "Matthew Gray Gubler's Twitter.",
+    "Rory Williams.",
+    "Spencer Reid with a cup of coffee.",
+    "A long, wool-knit scarf in various colors.",
+    "Being an \"In The Flesh\" fan.",
+    "Reading the same book over and over again.",
+    "Saying \"Bloody Mary\" three times and then RUNNING FOR YOUR LIFE.",
+    "Matthew Gray Gubler's Tumblr.",
+    "Star Lord vs. a Dalek.",
+    "The fact that \"Genesis of the Daleks\" is actually a tiny bit scary.",
+    "Making a deck instead on doing homework, or sleeping.",
+    "Reid not knowing about Twilight.",
+    "ALS Ice Bucket Challenge.",
+    "Matthew Gray Gubler.",
+    "Sports bras and Sam Yao.",
+    "Matthew Gray Gubler in a Fourth Doctor cosplay.",
+    "The prank war between Morgan and Reid.",
+    "When people only watch the episodes of \"The Sarah Jane Adventures\" with the Doctor in them.",
+    "Fuckity bye.",
+    "ATTACK EYEBROWS.",
+    "Gordon Ramsey at Amy's Baking Company.",
+    "Don't be lasagna.",
+    "Mad.",
+    "Elisabeth Sladen.",
+    "Star Lord vs. a Sontaran.",
+    "Shipping Kieren/Simon.",
+    "Life Hacks on Tumblr.",
+    "Made hot, passionate love to.",
+    "The under-appreciated awesomeness that is Sarah Jane Smith.",
+    "The babe.",
+    "Nardole.",
+    "Gordon Ramsey swearing.",
+    "Laughing at the ALS Ice Bucket Challenge \"fail\" videos.",
+    "David Tennant killing vampires.",
+    "Loch Ness Monster.",
+    "Star Lord with a guitar.",
+    "Eating all your candy in one go.",
+    "Robbing a bank with the Doctor.",
+    "Sexy.",
+    "That whole \"Promised Land\" storyline.",
+    "Star Lord vs. a Cyberman.",
+    "David Tennant's Scottish accent.",
+    "Twelve getting slapped so hard that he regenerates.",
+    "One of us is lying about our basic programming.",
+    "Getting stuck in an elevator with Derek Morgan and Spencer Reid.",
+    "Sword fighting with a spoon.",
+    "Talk.",
+    "Peter Capaldi's Scottish accent.",
+    "Robin Williams.",
+    "Andy Dwyer.",
+    "Gordon Ramsey throwing stuff.",
+    "Unnecessary angst scenes in GOT.",
+    "Bill Potts.",
+    "The deal with the Glenn Beck cards."
+  ],
+  "pack": {
+    "id": "JJJEN",
+    "name": "Extremely Nerdy and Utterly Crazy"
+  },
+  "quantity": {
+    "black": 24,
+    "white": 63,
+    "total": 87
+  },
+  "dateStoredMs": 1589578866542
+}

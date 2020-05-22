@@ -1,0 +1,21 @@
+{
+  "black": [],
+  "white": [
+    "Luke.",
+    "Tom.",
+    "Kody.",
+    "Silent.",
+    "Sammy.",
+    "Moo."
+  ],
+  "pack": {
+    "id": "96SJ4",
+    "name": "Losers"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 6,
+    "total": 6
+  },
+  "dateStoredMs": 1588828480582
+}

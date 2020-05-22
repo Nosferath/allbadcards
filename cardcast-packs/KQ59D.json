@@ -1,0 +1,62 @@
+{
+  "black": [
+    {
+      "content": "When a man loves a _ very much",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Out of _, time for the sacrifice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_force 1",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Netflix and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ Sign lol\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fizney confirmed for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just another one of BasementHero's many names.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Sean change his name to this time?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ghosty.",
+    "Skimmed Milk.",
+    "Fizney Lifting Drinks.",
+    "Anti-Turkey Medicine.",
+    "Cladeven's urge to kill.",
+    "ZILTOID."
+  ],
+  "pack": {
+    "id": "KQ59D",
+    "name": "Sblock Meme Pack"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 6,
+    "total": 14
+  },
+  "dateStoredMs": 1589316417652
+}

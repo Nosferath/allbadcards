@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Why is Ann throwing her pants around again? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A burnt kitchen.",
+    "NOODLES.",
+    "Alice and Roxy PalePailing.",
+    "Nick and Cole."
+  ],
+  "pack": {
+    "id": "ZDTS5",
+    "name": ":B Family"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1589490080634
+}

@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Down with the _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Av being straight.",
+    "Av being stright.",
+    "Av not coming out.",
+    "Mods."
+  ],
+  "pack": {
+    "id": "ZN638",
+    "name": "LGBT+ Youth Official Deck"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1589579204041
+}

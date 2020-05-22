@@ -1,0 +1,767 @@
+{
+  "black": [
+    {
+      "content": "Abri a gaveta da minha mãe e encontrei _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ > _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ define o que é um Transcol lotado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esse mês na Caras: _ engravida de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Sábado de sol, aluguei um(a) _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Após renúncia do Papa Francisco, quem assume o Vaticano é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A final do Ballon D'or ficou entre _ , _ e _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A primeira regra do Clube da Luta é: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Às vezes no silêncio da noite, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre que durmo na casa do broder, não consigo evitar de _ para a mãe dele.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando você olha pra ela, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ué, mas ninguém me disse que _ era proibido.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é mó ideia errada.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minhas bolas ficaram todas misturadas e parecidas com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O próximo alvo à ser bombardeado pelo ISIS será _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se eu visse _ na rua, atravessa pro outro lado.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se rolar beijo na boca, hoje o Rodrigo Faro se veste de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E o último truque do Mister M. foi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "99% _ , mas aquele 1% _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dinho Ouro Preto foi flagrado cheirando _ em seu apartamento.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odeio festas, sempre me fazem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E o próximo episódio de Dragon Ball será: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deus acima de tudo, mas logo abaixo vem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando crescer, farei uma tatuagem de _ na parte interna da coxa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mães solteiras precisam de _ à 5km de você.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Aquele _ quentinho, HUMMMMMMM...\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é o mais novo sucesso entre as socialites do Leblon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O novo queridinho do Brasil é: _ Carioca.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feministas comem _ no café matinal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "#meuamigosecreto gosta de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Bumbumbum, Castelo _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pode sim amiguinho.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é o segredo do sucesso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PROMOÇÃO KANUI, leve 4 pares de _ por R$199,90",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ah não Péricles, não era pra você comer o(a) _. Vomite isso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nunca fui à _ , mas dizem que lá serve um dogão massa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu não acho que _ vai deixar minha perereca molhadinha.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"O rocambole é de dar água na boca, e _ então nem se fala...\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amanhã, na tela da Globo, Jô Soares entrevista _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Eu vou pra ousadia, eu vou pra cachorrada, hoje eu quero _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Penso, logo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Como vivem? Como se reproduzem? Amanhã no Globo Repórter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um _ é pouco, dois _ é bom, três _ é demais.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A dupla vencedora do Dança dos Famosos é _ e _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"E você Papai Noel, gosta mais do quê? HO HO HO , _!\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "URGENTE: Hebe morre dando selinho em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O novo single do Jota Quest se chama: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O Petr Cech joga de capacete por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Posso até  _ e até mesmo _ , mas pelo menos nunca vou  _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Pior que rir com Emoji é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dó, Ré, Mi, Fá, Sol, Lá, Si, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Uuh, eu vou comer é o seu _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Atravessei a rua e me deparei com um(a) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hoje eu acordei, me veio a falta de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O nome do novo apresentador do The Voice é _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu queria esfregar _ na pinta da Angélica.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Aquele depósito de rola.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EXCLUSIVO: Gugu Liberato entrevista _ após _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "VAZOU: Episódio VIII de Star Wars se chamará _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A, E, I, O, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tá no face? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sempre adoro _ nos meus momentos mais íntimos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Já tenho 17 anos, agora posso _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ não se cansa de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"A culpa não é minha, eu votei no(a) _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ e _ : Os novos três mosqueteiros.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Não sou racista, mas _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "João Gordo traiu o Movimento _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As minhas noites mais molhadas foram pensando em _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Eu sou fã do bolo de Abacaxi, Chocolate e _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A casa das Brasileirinhas apresenta: _ vs _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Encontraram _ na lixeira de uma clínica de aborto.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No trote da facul, me deixaram todo sujo de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é quebrar a Lei de Gil.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Com certeza ABSOLUTA, _ é a melhor coisa do mundo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CONFIRMADO: Vascão contrata _ como reforço pra próxima temporada.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu gosto de mulher como gosto de café: Quanto mais _ , melhor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Golfinho rima com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "VOCÊ CAIU NO CONTO DO _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "EXTRA: Rafinha Bastos disse que comeria a filha de _ sem dó.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AND HIS NAME IS _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tive que dormir no sofá por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Caralho, _ é muito gostosa(o), puta que pariu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imaginando meu pau veiudo batendo na cara da(o) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CARALHO mina, que _ é esse?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ terá que _ 3 vezes ao dia após diagnosticado com câncer anal.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Que merda, no meu feed só aparece coisas relacionadas a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "DESCARTE SUA CARTA MERDA QUE NÃO VAI USAR ATÉ O FINAL DO JOGO AQUI, SEU PORRA: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puta que pariu, eles mataram o _! Seus filhos da puta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Caralho, acabei de _ no meio do minhocão.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kéfera Buchmann foi vista enfiando _ na vagina.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Não é possível, o _ está saindo da buceta daquela senhora!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu respeito _. Eu como o cu de quem eu respeito.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ é certeiro(a) para sexo fácil.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stephen Hawking fazendo DuckFace.",
+    "Mãe solteira.",
+    "Furar as camisinhas na farmácia.",
+    "Torturar fetos abortados.",
+    "Ney MatoGrosso.",
+    "Boa noite Cinderela.",
+    "Separatista.",
+    "Vincent perdidão.",
+    "Aulas de Espanhol com Ricky Martin.",
+    "Zeca Pagodinho.",
+    "Coito interrompido.",
+    "Dollynho, seu amiguinho.",
+    "O empadão azul.",
+    "Furar a orelha com uma agulha com tétano.",
+    "DOTA 2.",
+    "Selena Gomez.",
+    "Socialista de iPhone.",
+    "Nicolas Cage.",
+    "Acordar com a macaca da sua mãe.",
+    "A lei de Gil.",
+    "Sasha Grey.",
+    "Twitter do Padre Fábio de Melo.",
+    "Fazer lavagem intestinal com desentupidor de banheiro industrial.",
+    "Pensar na escalação do São Paulo no mundial pra não gozar antes da hora.",
+    "Vender a alma pro Rei da Cacimbinha.",
+    "Usar esperma de garotos de 12 anos como enxaguante bucal.",
+    "Berg.",
+    "Usar o grelo pra treinar boxe.",
+    "Comer bebês com microcefalia achados na lixeira.",
+    "Hoje não Faro.",
+    "Meia 3/4 bege.",
+    "NÃO ENTENDIR.",
+    "Popó Bueno com lepra.",
+    "Gays.",
+    "Monark.",
+    "Jair Messias Bolsonaro.",
+    "É COM VOCÊ FAUSTO.",
+    "Rushar na jungle de support.",
+    "Selton Mello.",
+    "Ideais de um Marxista.",
+    "Bater uma pra sua irmãzinha enquanto ela dorme.",
+    "Oprimir a feminista com uma piaçaba.",
+    "Um tiro de airsoft no ânus.",
+    "Netinho de Paula.",
+    "Alexis Texas.",
+    "CHEFE É CHEFE NÉ PAI.",
+    "Roleta russa com eunucos.",
+    "Um carinho na parte interna de coxa.",
+    "Scarlett Johansson.",
+    "Inês Brasil.",
+    "Choro do Thiago Silva.",
+    "Stalin.",
+    "Levi Fidelix.",
+    "Clayton, o garçom gente boa.",
+    "Tríceps de Feminista.",
+    "Ter um AVC no sofá.",
+    "ESCÓCIAAAAAAAA!.",
+    "D E S C U B R A.",
+    "UMA PRETA.",
+    "Rafinha Bastos.",
+    "Kléber Bam Bam.",
+    "To.",
+    "Abrir o leite de saquinho.",
+    "Jogar de CT e perder AWP, no eco dos terror.",
+    "Acordar numa banheira cheia de gelo, e um rasgo na bacia.",
+    "Fazer o grelo de bala de gude.",
+    "Gozar na cara da irmã do broder quando dormir na casa dele.",
+    "Chico Bioca.",
+    "Gretchen.",
+    "Venom_Extreme.",
+    "Kasino.",
+    "Siriricar pros avós transando.",
+    "André Marques mandando AQUELE ao vivo.",
+    "Molestar a filha de seis anos.",
+    "Cartman.",
+    "Josi, a diarista prostituta.",
+    "Ariadna.",
+    "Morder o grelo até sair o caldo.",
+    "Pomba-Gira.",
+    "Wesley Safadão.",
+    "Nike Shox.",
+    "A sua mãe.",
+    "Fazer bronzeamento artificial com melanina de nigerianos.",
+    "Que belezura!.",
+    "Tomar bomba até o grelo parar no joelho.",
+    "Péricles.",
+    "Sandra Annemberg.",
+    "Amputar o dedo de tanto estuprar animais no zoologico.",
+    "Paralisia infantil.",
+    "Adotar um chines com trombose.",
+    "Um toque retal.",
+    "Thiaguinho.",
+    "Demi Lovato fazendo propaganda pra Gillette.",
+    "O privilégio de ser branco.",
+    "Cazalbé.",
+    "Uma suruba com Marília Pêra.",
+    "Eunuco.",
+    "Geléia de Esperma.",
+    "Luiz Carlos Alborghetti.",
+    "Marina Silva.",
+    "Sanduíche de Bufeta.",
+    "Professor Zé Pilintra.",
+    "LOL.",
+    "Kéfera Buchmann.",
+    "Suco gástrico.",
+    "Uma jeba, enrugada, feia e fedorenta.",
+    "John McLane.",
+    "Eduardo Jorge.",
+    "Leo Stronda.",
+    "ADC Lixo, report.",
+    "Grupo Revelação.",
+    "A torcida do Framêngo.",
+    "TONI ONE, The Best Player in Brazil.",
+    "Uma deusa, uma louca, uma feiticeira.",
+    "Dando a \"luz\" à um preto, preto não, pretinho.",
+    "Kim Kardashian.",
+    "Suco de homem.",
+    "Lars Grael.",
+    "Bater na mulher e só parar quando ela desmaiar.",
+    "Murilo Benício.",
+    "Thiago Leifert.",
+    "Jailson Mendes.",
+    "Fazer o pézinho no barbeiro.",
+    "Uva passa.",
+    "Meio bebê.",
+    "Vanessão.",
+    "Guaraná Antártica.",
+    "Jean Wyllys.",
+    "Mandar o elevador pro térreo.",
+    "Tirar o plástico da mortadela.",
+    "Empinar o bumbum na POP100.",
+    "Galvão Bueno.",
+    "Fechar o zíper, daquele jeito.",
+    "Estuprar mendigo.",
+    "Dilmãe.",
+    "Bolsomito.",
+    "Bilada.",
+    "Zoofilia.",
+    "David Brazil.",
+    "Zlatan Ibrahimovic.",
+    "Socialismo Radical.",
+    "Nadar crau.",
+    "Nordestinos.",
+    "Raquel Charizard.",
+    "Batom rosa choque.",
+    "Preta Gil.",
+    "Morder a pelinha.",
+    "Lâmpadas Fluorescentes.",
+    "Ivete Sangalo.",
+    "O vômito do Messi.",
+    "John Cena.",
+    "Han Solo atirou primeiro.",
+    "Conhecer o piru do amiguinho.",
+    "Feminista que entra de graça antes da meia noite.",
+    "Darude - Sandstorm.",
+    "Opressor.",
+    "Pastor Everaldo.",
+    "Fazer aquela carícia numa criança tibetana.",
+    "Paulo Guina.",
+    "Luciano, da dupla com Zezé de Camargo.",
+    "Daniel Craig.",
+    "Luciana Genro.",
+    "Piru de natal.",
+    "Usar crianças etíopes como peso no supino.",
+    "Gustavo Kuerten.",
+    "Direita Conservadora.",
+    "Comer a mãe do broder, só pra quebrar o gelo.",
+    "Paula Fernandes cantando Metallica.",
+    "Mr. Catra.",
+    "Pastelaria Alfa.",
+    "Bater uma no Instituto Médico Legal.",
+    "Orelha cabeluda.",
+    "Dar uma topada com o mindinho numa criança haitiana.",
+    "Rato Borrachudo.",
+    "Luan Santana.",
+    "Alistar-se no estado islâmico.",
+    "Cauê Moura.",
+    "Gatinhos.",
+    "Pelos pubianos.",
+    "Ver a branquinha e imaginar o tom de rosa da bufeta.",
+    "Negros maravilhosos.",
+    "Bolsonaro com peixe na mão.",
+    "Belford Roxo.",
+    "Danilo Gentili.",
+    "MC Livinho.",
+    "Exército de negões gostosos.",
+    "OLHA O GOL!.",
+    "James Rodríguez.",
+    "Stifler, de American Pie.",
+    "Dar um 360 Quickscope wallbang collateral across the map back to back double tap no scope.",
+    "Sonhar em comer todas as alunas do colégio.",
+    "A discografia completa de Los Hermanos.",
+    "Encontrar sua mulher te traindo com Gigante Leo.",
+    "O gordinho da Saveiro.",
+    "Colocar camisinha no desodorante, rolón.",
+    "Trans.",
+    "Sami Khedira.",
+    "Dilma Rousseff.",
+    "LSD turco vencido.",
+    "Bater em freiras.",
+    "Dedo de Lésbica.",
+    "Alfonso Ribeiro.",
+    "Asepxia.",
+    "Estado islâmico.",
+    "Laerte.",
+    "Aécio Neves.",
+    "Cotoco jogando tênis de mesa.",
+    "Acordar com a macaca.",
+    "Médicos cubanos.",
+    "Evaristo Costa.",
+    "Rodrigo Ferraz, o maior trapézio de Curitiba.",
+    "EASFVI UWIU FW QEHSB DSFVJKDFV - Jabba The Hutt.",
+    "Duque de Caxias.",
+    "Haitianos.",
+    "Prepúcio.",
+    "Flatulencia durante o coito.",
+    "Dedé Santana.",
+    "Pharrell Williams.",
+    "Chamar a ex durante o coito com a(o) atual.",
+    "O mundial do Palmeiras.",
+    "Lésbica.",
+    "Sapatão que só usa jaqueta de couro.",
+    "Pedófilo porto riquenho numa formatura da 5° série.",
+    "Chamar a trans e não chupar o pau dela(dele).",
+    "Seu pau, aquele corno.",
+    "Um pênis enorme.",
+    "Se masturbar até o pau mudar de cor.",
+    "Imaginar a professora de física pedindo pra pagar um boquete.",
+    "Masturbar mendigo.",
+    "Sua mãe, aquela sommèlier de piroca.",
+    "O pau da trans é maior que o meu.",
+    "Abraçar a avó de pau duro.",
+    "Broxar pensando na mamãe toda vez que faz sexo.",
+    "Foder a ninfeta porque achou que a Polícia Federal tava de férias.",
+    "Fuder bem na bucetinha uma freira com elefantiase.",
+    "Cerveja artesanal de sêmen  de crianças que não queriam se masturbar pra fazer a cerveja.",
+    "Ser pego assistindo pornô de anão na missa.",
+    "Seu cu de perna aberta.",
+    "Aumentar o pênis com inflador de bexigas infantis.",
+    "Cheirar o cu do coleguinha.",
+    "Masturbar ouvindo os pais transando.",
+    "Piscar o cu pro bocão.",
+    "Saber que a filha virou uma feminazi.",
+    "Dar um mergulho numa piscina de porra.",
+    "Masturbar-se presenciando necrofilia.",
+    "Sua vó com o dedo no seu cu.",
+    "Mordida no pau durante o gulosão.",
+    "Branca de buceta preta.",
+    "Fuder a Ásia.",
+    "A ruiva do pentelho preto.",
+    "Solimões, sem o Rio Negro.",
+    "Listerine sabor porra.",
+    "Pau no seu cu.",
+    "Seu pai, aquele corno.",
+    "Pênis de Machista.",
+    "Enfiar um talo de aço com tétano no cu.",
+    "Transar com o suvaco da vovó enquanto ela dorme.",
+    "PEW PEW PEW na xota dela.",
+    "Fazer beatbox na buceta do transex.",
+    "Sexo surpresa.",
+    "Vomitar de tanto engolir sêmen.",
+    "Depilar o cu com tesoura de jardim.",
+    "MILF.",
+    "Enfiar um guarda chuva no cu, e abrir ele lá dentro.",
+    "Seu buceta.",
+    "Adolf Hitler.",
+    "Cu.",
+    "Rose, a secretária feminista que chupa o chefe quando ele manda ela entrar na sala dele.",
+    "Medir o pau e, infelizmente, ter a régua enfiada no cu.",
+    "VOCÊ PEGOU A OUTRA CARTA MERDA... HA.",
+    "Abrir AQUELA long neck com o cu.",
+    "Um cacete bem massa.",
+    "As sobrancelhas do Cristiano Ronaldo.",
+    "Filmar o pornozão com a mina com uma GoPro no ânus dela.",
+    "Uma buceta kilométrica.",
+    "Fuder com Vera Verão.",
+    "VOCÊ PEGOU UMA CARTA MERDA.",
+    "Feto Bebê Gigante Zumbi Nazista.",
+    "Cravar um túnel na xota da sua mãe.",
+    "Clareamento anal.",
+    "Filmar o sexo dos pais."
+  ],
+  "pack": {
+    "id": "QDHDC",
+    "name": "Brazilian Deck"
+  },
+  "quantity": {
+    "black": 94,
+    "white": 281,
+    "total": 375
+  },
+  "dateStoredMs": 1589471705869
+}

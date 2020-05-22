@@ -1,0 +1,226 @@
+{
+  "black": [
+    {
+      "content": "Trading my car for _ seems like a good idea, right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Michael laughing? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom gave me $50 for a new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miguel couldn't stop thinking about _ after taking THOSE edibles.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eli got a new job as a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new tinder date wouldn't stop looking at my _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jr gave his gas money away to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eli was craving a hot, steaming bowl of _ after a long night of drinking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why didn't Lina answer the phone? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dino snores louder than a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eli sold a brand new _ for $44.50.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michael couldn't resist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jenni added a new _ to her plushie collection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't stop thinking about _, and their _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I ate too much _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JR spent 50+ hours looking up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Dude, stop being a _!!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lina's nicotine addiction has moved on to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Andrew's excuse for not being able to hang out was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eli spent $4,000 on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jenni cired when _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JR's new song is called _ featuring _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Julio had no regrets after spending his entire stimulus check on _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SPAM.",
+    "Honda Grom.",
+    "Twerking beats.",
+    "Gabriel's bowl-cut.",
+    "Ass butt.",
+    "Falling off your motorcycle.",
+    "Andrew.",
+    "The Convention Center.",
+    "Lina's NJOY.",
+    "Hot Cheetos.",
+    "60 day warrantee.",
+    "Spending your entire Fafsa check on cheez-Its.",
+    "5 MILLION BELLS.",
+    "Buying $400 worth of weed.",
+    "JR.",
+    "La Vista Park.",
+    "Gushers.",
+    "80 packs of ramen.",
+    "AMC Stubs A-list Pass.",
+    "Lina's asshole cat.",
+    "Loteria night.",
+    "Gabriel eating the last peanut butter sandwich.",
+    "Emo Night.",
+    "A foot fetish.",
+    "Roboito.",
+    "Pornhub Subscription.",
+    "South Padre Island.",
+    "Mikes Hard Lemonade.",
+    "Ale & Isaac.",
+    "Taco P.",
+    "Dirty Luigi.",
+    "STONKS.",
+    "Sweaty hands.",
+    "Miguel.",
+    "PC parts.",
+    "Newports.",
+    "Michael.",
+    "My buttcheeks.",
+    "Bucket of sweat.",
+    "DEEZ NUTZ.",
+    "A shitty headset.",
+    "JR's hot sauce collection.",
+    "Miguel's unemployment check.",
+    "A new PC.",
+    "\"How to print you own pocket pussy\".",
+    "\"who  the fuck farted?\".",
+    "Eggs.",
+    "Velvet Town.",
+    "Poop ass.",
+    "Straight porn.",
+    "$50,000 in debt.",
+    "STC.",
+    "Edward & Ale fighting.",
+    "Annie.",
+    "12inch truck lift.",
+    "OnlyFans subscription.",
+    "Eli's big ass.",
+    "Julio's quarantine beard.",
+    "Smoking a stale cigarette.",
+    "Fried chicken.",
+    "Gorillas smashing.",
+    "Miguel's crazy strong edibles.",
+    "Putting your mic in your mouth in a discord call.",
+    "Frut gomi.",
+    "Peñitas.",
+    "Smoking weed & making bank.",
+    "Peeing.",
+    "A Miata.",
+    "Being the whitest black person.",
+    "Eli's dirty ass room.",
+    "Eli.",
+    "Clammy feet.",
+    "Gay porn.",
+    "Julio.",
+    "Fiery poops.",
+    "Lina.",
+    "Boston.",
+    "Julio's nipples.",
+    "A spankin' new gaming chair.",
+    "Bananas.",
+    "Kermit's sexy voice.",
+    "Your mom.",
+    "A broken phone screen.",
+    "Jenni's bowl cut.",
+    "Gabriel.",
+    "Andrew's paperboy hat.",
+    "Deep fried meme's.",
+    "Animal Crossing.",
+    "Depression meal.",
+    "Madison.",
+    "Jenni.",
+    "Taking off their shirt.",
+    "A drone.",
+    "Dino's Bar & Grill.",
+    "3 inches."
+  ],
+  "pack": {
+    "id": "TSBQE",
+    "name": "the D00DS"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 95,
+    "total": 118
+  },
+  "dateStoredMs": 1588553894142
+}

@@ -1,0 +1,109 @@
+{
+  "black": [
+    {
+      "content": "We are going to alert level 4 because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: Supermarkets are out of _ because of panic buying!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need to quarantine those afflicted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Without Rugby, it looks like the Bogans are gonna have to resort to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mighty Ape restocked its supply of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new study done found that COVID-19 influences people into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Corona time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Countdown has put restrictions on how many _ you can buy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Burger King has decided to get its employees to start _ because of the virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite quarantine pass time is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Self isolation means no more of _ with the family at home.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Karen still wants her $20 back, or else you’ll get _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During the outbreak, media are urging people to not use up the internet on watching _ in 4k.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Donald Trump's insistence that the USA is \"under control\" with over 100,000 confirmed cases.",
+    "Coughing on everyone in sight.",
+    "Buying dozens of pans due to a misunderstanding on what \"pandemic\" means.",
+    "Tyler going through energy drink withdrawal.",
+    "Australia's national stockpile of toilet paper.",
+    "The Iranian minister of health getting struck down with COVID-19 on live television.",
+    "Boris Johnson suffering a \"mild\" case of COVID-19.",
+    "Tony's thoroughly beaten meat.",
+    "Wuhan bat soup.",
+    "Quarantined Italians singing The Macarena from their balconies.",
+    "Throwing hands with Karen over a packet of noodles.",
+    "TPing someone’s house for the ultimate flex.",
+    "A world-wide lockdown.",
+    "2 metres social distancing.",
+    "COVID-19.",
+    "The Warehouse trying to be an essential service.",
+    "Thousands of panic shoppers.",
+    "Taylor's baby lotion for \"sunburn\".",
+    "Mike Bush's disappointment at Oriental Parade.",
+    "North Korea reporting no COVID-19 cases but an increase of \"lead poisoning\".",
+    "Iran definitely not digging any mass graves or anything like that.",
+    "40 kg of bog roll.",
+    "The spike in activity for Pornhub and MMORPGs.",
+    "Dan's agonising blue balls.",
+    "4 god damn weeks of this.",
+    "China's illegal poaching of pangolins.",
+    "Free Pornhum Premium.",
+    "Taylor's secret hentai collection."
+  ],
+  "pack": {
+    "id": "99H3A",
+    "name": "Qards against Quarantine"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 28,
+    "total": 41
+  },
+  "dateStoredMs": 1589332818109
+}

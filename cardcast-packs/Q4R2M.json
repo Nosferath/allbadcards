@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "Nothing can slow down the creation of the Islamic State like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for my birthday? You're too kind.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Terrorist life insurance.",
+    "Bashing Al-Assad.",
+    "The arrival of the Ebola virus.",
+    "Barack Obama's foreign policy.",
+    "A small explosive in your underwear.",
+    "The Shi'ite elite.",
+    "Ayatullah Ali Khamenei.",
+    "Collateral civilian casualties.",
+    "Pakistan not doing anything.",
+    "Mysterious oil shipments."
+  ],
+  "pack": {
+    "id": "Q4R2M",
+    "name": "Kurds Against Humanity"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1588716547092
+}

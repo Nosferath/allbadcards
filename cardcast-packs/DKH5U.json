@@ -1,0 +1,49 @@
+{
+  "black": [
+    {
+      "content": "\tWe are the Knights Who Say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tWhat is your quest? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tShe's a witch! She turned me into _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you burn, apart from witches? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tYour mother was a hamster, and your father smelt of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tThe machine that goes \"ping!\".",
+    "A wafer-thin mint.",
+    "\tThe Holy Hand Grenade of Antioch.",
+    "\tThe airspeed velocity of an unladen swallow.",
+    "\tStrange women lying in ponds distributing swords.",
+    "\tSpam, Spam, Spam, Spam, baked beans, Spam, Spam, Spam, and Spam.",
+    "\tHuge... tracts of land.",
+    "\tA grail-shaped beacon."
+  ],
+  "pack": {
+    "id": "DKH5U",
+    "name": "Nerds Against Humanity / Monty Python"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 8,
+    "total": 13
+  },
+  "dateStoredMs": 1589403545142
+}

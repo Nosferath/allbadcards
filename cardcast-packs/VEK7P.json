@@ -1,0 +1,98 @@
+{
+  "black": [
+    {
+      "content": "My stands ability is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "See ya later, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I woke up in a cold sweat again because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I learned a new shout in Skyrim, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My kokuro goes Doki Doki Everytime I _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If _ doesn't _ I'll _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Shenron, I wish for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last time, on Dragonball _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gotta catch em all, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the scouter say about his power level? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is power",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Earth, wind, fire, wind, water and _. Captain planet",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Transmute _ and _ and you will have a happy life",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm still in a dream, _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ora ora ora ora.",
+    "Kono Dio da.",
+    "Frieza's lack of understanding for the concept of time.",
+    "Screaming for 20 minutes to change hair color.",
+    "It's over 9000.",
+    "The world.",
+    "An arrow to the throat, giving you a stand.",
+    "That's my Bulma!.",
+    "Waifu is life-u.",
+    "Tentacles.",
+    "Muda muda muda muda.",
+    "Magical girl transformation sequence."
+  ],
+  "pack": {
+    "id": "VEK7P",
+    "name": "Weeb"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 12,
+    "total": 26
+  },
+  "dateStoredMs": 1589058062420
+}

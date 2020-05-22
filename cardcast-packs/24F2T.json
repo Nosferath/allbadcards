@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hornet Head.",
+    "David's robot face.",
+    "Connor's lengthy arms.",
+    "Grammer Nazi.",
+    "Because he's Welsh.",
+    "Midget Raoul.",
+    "End user issue.",
+    "Don't have kids.",
+    "An unamused Paul."
+  ],
+  "pack": {
+    "id": "24F2T",
+    "name": "Nublue"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 9,
+    "total": 10
+  },
+  "dateStoredMs": 1589224566457
+}

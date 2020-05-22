@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Forse è nato così o forse è solo _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Salvini."
+  ],
+  "pack": {
+    "id": "3HVWP",
+    "name": "Cards Against humanity deck ITA"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589062505091
+}

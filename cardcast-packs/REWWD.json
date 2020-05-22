@@ -1,0 +1,196 @@
+{
+  "black": [
+    {
+      "content": "_ is closed for refurbishment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For your safety, remain seated with your seat belts fastened, keeping _ inside the bobsled.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make Mine _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a half-day attraction at best.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is this haunted room actually _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have 999 happy haunts, but there’s room for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What they need is an attraction based on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumor has it there’s _ inside the Matterhorn.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How typical. _ exits into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They say “guest,” but what they mean is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which would you choose: _ or being stuck for an hour on _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a wish your heart makes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Handsome Prince saved Snow White from death with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite Disneyland attraction is the Hall of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since when is _ a Disney princess?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Three Caballeros: Donald Duck, _ , and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We spent all afternoon at _ ’s lair on _ Island.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Captain EO? More like Captain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you want to build _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo ho, yo ho, _ for me!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bambi’s mom.",
+    "The tiki tiki tiki tiki tiki room.",
+    "Hundreds of “it’s a small world” dolls.",
+    "Spontaneously breaking into song.",
+    "Four fingers.",
+    "Mr. Incredible.",
+    "Standing in line until your feet bleed.",
+    "Another damned hidden Mickey.",
+    "The Primeval World Diorama.",
+    "Splash Mountain.",
+    "A maniac in a motorized wheelchair.",
+    "Slue Foot Sue’s Golden Horseshoe Review.",
+    "Fireworks.",
+    "The Dumbo queue.",
+    "An emergency bathroom break.",
+    "Cruella de Vil’s tailor.",
+    "A child screaming its head off from overstimulation.",
+    "Overpriced crap.",
+    "A drawer full of old ticket books.",
+    "A magical day.",
+    "A Photopass photographer.",
+    "A coonskin cap.",
+    "Fanatical copyright lawyers.",
+    "Buzz Lightyear Astro Blasters.",
+    "Getting lost in a maze of utilidoors.",
+    "Stroller parking.",
+    "Oswald the Lucky Rabbit.",
+    "The Mexico pavilion.",
+    "Indiana Jones’ gigantic ball.",
+    "Corporate sponsorship.",
+    "Main Street, U.S.A.",
+    "Grim grinning ghosts.",
+    "Walt Disney’s apartment.",
+    "Imagineering.",
+    "Disney dollars.",
+    "An unexpected soft opening.",
+    "A commemorative window.",
+    "Overpriced tickets.",
+    "Flash photography.",
+    "An enormous collection of theme park napkins.",
+    "Collectable pins.",
+    "Mickey Mouse.",
+    "Dinner at Club 33.",
+    "The ghost of the old lady that died in the Haunted Mansion.",
+    "Cartoons with racist subject matter.",
+    "Animatronic Abraham Lincoln.",
+    "Singing pirates.",
+    "Pleasure Island.",
+    "Renting a wheelchair you don’t need.",
+    "Gaston’s decorating.",
+    "The frozen head of Walt Disney.",
+    "Tinker Bell.",
+    "The original budget for California Adventure.",
+    "Monorail Blue.",
+    "Fantasyland.",
+    "A thematically related gift shop.",
+    "Soap suds pretending to be snow.",
+    "An expired FASTPASS.",
+    "The back side of water.",
+    "The wildest ride in the wilderness.",
+    "Your hands, arms, feet, and legs.",
+    "Peeing in the Knott's Berry Farm parking lot.",
+    "An abominable snowman named Harold.",
+    "Massive post-fireworks crowds.",
+    "A protein spill.",
+    "Aging Mouseketeers.",
+    "Watching through a window as people make candy.",
+    "An Experimental Prototype Community of Tomorrow.",
+    "The Many Adventures of Winnie the Pooh.",
+    "A Disneyland character with its head off.",
+    "Michael Eisner.",
+    "Whatever happened to Huey, Dewy, and Louie’s parents.",
+    "The Love Bug.",
+    "The Mine Train through Nature’s Wonderland.",
+    "Endlessly singing “Let It Go”.",
+    "A secret basketball court.",
+    "Making movies based on stories that are in the public domain.",
+    "A churro.",
+    "The happiest place on earth.",
+    "A novelty hat that you’re going to wear once and then stuff in a closet."
+  ],
+  "pack": {
+    "id": "Rewwd",
+    "name": "Unofficial Official Cards Against Disney"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 80,
+    "total": 100
+  },
+  "dateStoredMs": 1588451025795
+}

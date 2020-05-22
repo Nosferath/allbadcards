@@ -1,0 +1,111 @@
+{
+  "black": [
+    {
+      "content": "Of course, you’d warm up faster if you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La Push baby. It's. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What if I'm not a hero, what if I'm  _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesn't really help the uncoordinated.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're like my own personal brand of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "About three things I was absolutely positive. First, Edward was _. Second, there was a part of him-and I didn't know how potent that part might be-that _. And third, I was unconditionally and irrevocably _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Fall down again, Bella? No, Emmett, I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd never given how much thought to how I would die. But _ seems like a good way to go.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beautiful? This is the skin of a _, Bella.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does it bother you, me being _ all the time?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Green is what? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What a happy surprise! _! I love happy endings, they are so rare.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As if you could outrun me! As if you could _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Money, sex, money, sex. _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Supermassive Black Hole playing while seven vampires play baseball.",
+    "A red Chevy from the 50s with a tendency to backfire.",
+    "Being overly suspicious and being surprised when people uncover your secret.",
+    "Twilight but everyone is gay.",
+    "Stabbing Edward Cullen with a pencil.",
+    "You better hold on tight spider-monkey.",
+    "Renesmee.",
+    "A barefoot nomad vampire woman with leaves in her hair.",
+    "Declaring a girl that isn't into you as your soulmate.",
+    "Being ready to die just for the chance to bone a vampire.",
+    "Saving your virginity until marriage.",
+    "A steaming hot cup of compost tea.",
+    "Vegetarian vampires.",
+    "Deciding to marry a man over a hundred years old because the only other option is a teenager and that's gross.",
+    "Trying to kill yourself so you can hallucinate the man who left you.",
+    "A family of adopted siblings all dating each other.",
+    "A teenage love story about sparkling vampires.",
+    "Suicide via vampire council.",
+    "Watching someone sleep without their knowledge every night for months.",
+    "Being a monster fucker."
+  ],
+  "pack": {
+    "id": "fcvbd",
+    "name": "Twilight"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 20,
+    "total": 35
+  },
+  "dateStoredMs": 1588477640277
+}

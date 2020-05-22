@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "It's 5am, you're freaking out, you take _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Crack.",
+    "Heroin.",
+    "Xanax.",
+    "Klonopin.",
+    "LSD.",
+    "Speed."
+  ],
+  "pack": {
+    "id": "SKHJD",
+    "name": "Drugs"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1588880764009
+}

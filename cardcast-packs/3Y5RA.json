@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "Deku and Bakugou are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All _ are not created equal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Deku crying? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just because _ happened, and it went horribly wrong doesn't mean you get to doubt yourself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get a hold of yourself! You're _ aren't you?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Daddy issues.",
+    "Finding a new set of limbs to break.",
+    "Bakugou screaming.",
+    "They did surgery on a Mineta.",
+    "Deku's virginity.",
+    "\"come\".",
+    "PIKACHU.",
+    "Getting into a fight, just to prove that you're number one.",
+    "His mom's virginity.",
+    "Todoroki's mother's breakdown."
+  ],
+  "pack": {
+    "id": "3Y5RA",
+    "name": "Heroes Against Humanity"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 10,
+    "total": 15
+  },
+  "dateStoredMs": 1588493518023
+}

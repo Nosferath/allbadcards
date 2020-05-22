@@ -1,0 +1,127 @@
+{
+  "black": [
+    {
+      "content": "Dont kill the _ please!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death Note: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You  _ , _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ visited _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I controlled _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lynch the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was _ by the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kill the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ should win.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let the _ win.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dont let _ win!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Consort.",
+    "Potion Master.",
+    "Pirate.",
+    "Doctor.",
+    "Pestilence.",
+    "Amnesiac.",
+    "Transporter.",
+    "Witch.",
+    "Serial Killer.",
+    "Vampire Hunter.",
+    "Hypnotist.",
+    "Arsonist.",
+    "Veteran.",
+    "Necromancer.",
+    "Blackmailer.",
+    "Vampire.",
+    "Hex Master.",
+    "Retributionist.",
+    "Ambusher.",
+    "Mayor.",
+    "Tracker.",
+    "Guardian Angel.",
+    "Consigliere.",
+    "Investigator.",
+    "Lookout.",
+    "Janitor.",
+    "Bodyguard.",
+    "Plaguebearer.",
+    "Spy.",
+    "Trapper.",
+    "Godfather.",
+    "Juggernaut.",
+    "Coven Leader.",
+    "Crusader.",
+    "Survivor.",
+    "Werewolf.",
+    "Jester.",
+    "Disguiser.",
+    "Framer.",
+    "Vigilante.",
+    "Executioner.",
+    "Mafioso.",
+    "Psychic.",
+    "Poisoner.",
+    "Witch.",
+    "Jailor.",
+    "Sherrif.",
+    "Escort.",
+    "Forger.",
+    "Medium.",
+    "Medusa."
+  ],
+  "pack": {
+    "id": "JXH8T",
+    "name": "TOS roles"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 51,
+    "total": 63
+  },
+  "dateStoredMs": 1589565038973
+}

@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "What is the Popes favourite past time?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Pope Francis' superpower? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When the Pope is bored he likes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What must be destroyed? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pope Francis really likes _ but prefers _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you know that the pope can _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The pope was going to condemn _  but then he remembered _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Calling a Crusade.",
+    "Little Boys.",
+    "Soy Boy.",
+    "Touch little kids.",
+    "Vatican City.",
+    "Soy Bois.",
+    "Pope Francis.",
+    "Jews.",
+    "Islams."
+  ],
+  "pack": {
+    "id": "DA54Z",
+    "name": "Christianity"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 9,
+    "total": 16
+  },
+  "dateStoredMs": 1588356661699
+}

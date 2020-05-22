@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "The biology of a Lamia is comprised of three primary things; _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "THE KINK TRAIN NEVER STOPS! NOT FOR ANY MAN, WOMAN, CHILD, OR _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I have to crack some skulls to get some _ around here, I will.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best kind of vore often involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goddammit, that _ ate my best friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When it comes to prey, most furries prefer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's more fucked up than vore? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest method of being eaten; through the pred's _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Anal vore.",
+    "An incredibly and overtly sexual masturbation session to a Skyrim vore video.",
+    "Getting swallowed alive by a worryingly sexy half-snake stripper."
+  ],
+  "pack": {
+    "id": "MCZ3R",
+    "name": "Vore Deck"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 3,
+    "total": 11
+  },
+  "dateStoredMs": 1589068732053
+}

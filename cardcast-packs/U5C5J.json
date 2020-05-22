@@ -1,0 +1,164 @@
+{
+  "black": [
+    {
+      "content": "The Irish call girls a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looking across the sea at the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everybody's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck your Honda Civic I've a _ outside",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Being too drunk to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah jaysus Larry, why did you _ last night?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ like a true Irishman.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the St. Paddy's Day parade I saw some gobshite _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Paddy take a shit on Caoimhe's _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah jaysus, Andy is fuckin' _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Going to other countries and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah jaysus, would you look at her, she's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I met a Leprechaun and he said _ to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whale oil beef _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah jaysus, I can't believe _ fucking died due to alcohol poisoning, what a fucking _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bertie Ahern, Brian Cowan and Enda Kenny are all _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oisin entered a club called War, which was a gay club. He didn't realize this. Oisin saw someone there who _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's Tuesday, I had better _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enda Kenny has announced that _ is now legal in Ireland.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What a fucking _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ah here now, you're just taking the piss.",
+    "Shagging foreign sluts.",
+    "Jaysus you're an ugly fucker.",
+    "Scanger.",
+    "Me Mammy.",
+    "Face.",
+    "Take a massive shite in my pint.",
+    "Choon.",
+    "A bleedin' wanker.",
+    "Locked.",
+    "To not drink anymore.",
+    "Gobshite.",
+    "Irish.",
+    "Any yokes?.",
+    "Welsh.",
+    "Horse.",
+    "Being a soft cunt.",
+    "Playing the fucking Uillean pipes like a bleedin' eejit.",
+    "Pissin' in me drink!.",
+    "Irish cunt.",
+    "Getting pissed at your nan's funeral.",
+    "Sheep shagging.",
+    "Land of the enemy.",
+    "Shagging foreign birds.",
+    "Fucking gobshite.",
+    "Get drunk.",
+    "Mott.",
+    "English.",
+    "Having a wank and blowing your load in your mates drink while he's not looking, because fuck him.",
+    "Shagging Bertie Ahern.",
+    "Scottish.",
+    "Hooked.",
+    "Started pissing in everyone's drinks.",
+    "Carpet.",
+    "Shagging foreign motts.",
+    "Think he was a hard lad.",
+    "Drinking.",
+    "The Irish Ma.",
+    "What's the craic.",
+    "Ridin' some fat yoke because she bought you a bag of chips.",
+    "A bleedin' mess!.",
+    "Cunts.",
+    "Have a wank to Leprechaun porn."
+  ],
+  "pack": {
+    "id": "U5C5J",
+    "name": "The Irish Card Deck"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 43,
+    "total": 64
+  },
+  "dateStoredMs": 1589561576983
+}

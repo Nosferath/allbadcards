@@ -1,0 +1,489 @@
+{
+  "black": [
+    {
+      "content": "No, I'm not a wood elf. I'm a _ elf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You touch the glowing artifact and find yourself _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the biggest party foul there is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oops, _ just caused a TPK.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My alignment is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You wake up in a dungeon to a room filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried _ at the brothel once and got a huge tip.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worry not, fair peasant, I came prepared with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the heat of battle, I activated my rage through _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do we get experience points for _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the last time, no, you cannot roll for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing about my character is that they are always _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sooner or later _ is bound to happen with a Wisdom score of 6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Mwhahaha! Not even _ can save you now!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So this is how I die: By _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This next Bard Song is entitled, \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You threaten the powerful Definitely Evil wizard with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I pray to the god of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to attempt _ with my _ feat.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I lost my weapon in battle, so I had to improvise by combining _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You must not doubt me, _ is my middle name!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our epic quest was halted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the worst way to fail a death saving throw.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rolling a natural 20 on an Intimidate check made  _ so scared that they _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I stabbed the troll, instead of blood, it bled _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Help us, heroes! We are plagued by _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first rule about _ is that we don't talk about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The town priest walked into the tavern. They left as soon as I started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You unlock the door and find _ and _ caught in a compromising position.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "For my action, I am _, for the good of the party.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last level, I acquired the feat \"Craft _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will our heroes be doing in ten years? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An old gnarled man led me down a corridor to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The intense wrestling match between _ and _ was hilarious.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I learned all my best combat techniques from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The starving party had to settle on eating _ for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need a distraction! Quick, summon  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You gaze into the Mirror of Desires and see yourself _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only appropriate response to being wrongfully arrested is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When our group was split up, half of us were _, while the other half _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hero was _ when they finally realized that they needed _ to succeed.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "During their down time, our intrepid adventurers enjoy _ , _ , and of course, _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I once tried to sell _ to a traveling merchant.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eat, my minions! Eat this _, and feel the power of _ course through your veins!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We got through the campaign only to discover that the Big Bad was really _ the whole time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make a campaign with three cards: _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My last character spent the whole campaign _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Step 1: Accepting the Quest. Step 2: Traveling to the cave. Step 3: _. Step 4: Profit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The minibosses last sliver of health was decimated by _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Come, adventurers! Let me show you _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I cast _ at the darkness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My enemy is invisible and I can't find him, it's time for operation \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After pickpocketing the nearly naked barbarian you found that she had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I rolled a natural 20! Now, after all of these years I can finally start _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things really went to shit when _ came into contact with _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Using alchemist's fire to cure an STD.",
+    "Falling asleep on night watch.",
+    "Being over-encumbered by the skins of your slain foes.",
+    "My inventory.",
+    "Pretentious elves.",
+    "An army of gnomes.",
+    "Accidentally summoning a Demon Prince by speaking his name out loud.",
+    "Using a saxophone as a mount.",
+    "Accomplishing tasks \"the fun way\".",
+    "Breaking the game.",
+    "A shocking plot twist.",
+    "A quarterstaff to the nards.",
+    "Inventing Viagra with alchemy.",
+    "The insatiable urge to punt a gnome.",
+    "Rolling a 1 on an Acrobatics check in front of your crush.",
+    "Terrible role-playing.",
+    "Literally dropping an anvil through the ceiling.",
+    "An overpowered homebrew spell.",
+    "Locking yourself in a wardrobe only to slowly suffocate.",
+    "Abusing the fine print in the Player's Handbook.",
+    "Swimming in entrails.",
+    "A secretly badass NPC.",
+    "The Dust of Dryness.",
+    "Vandalizing important government buildings with the spoils of battle.",
+    "An elaborate ritual that literally creates Opposite Day.",
+    "An overflowing outhouse.",
+    "Trying to seduce a dwarven lass while blackout drunk.",
+    "A magical item that is too good to be true.",
+    "Eating a roper tentacle.",
+    "A bout of food poisoning from undercooked rations.",
+    "Throwing knives.",
+    "Making out with a satyr.",
+    "Sleeping with the enemy.",
+    "A necklace of orc nipples.",
+    "A redemption quest that leads to the ruination of mankind.",
+    "Succeeding on every constitution saving throw while trying to get wasted.",
+    "A pirate ship.",
+    "Arguing over who will take point in the middle of a flaming apocalypse.",
+    "Pickpocketing the underwear off of your target.",
+    "Rolling for stealth to avoid a walk of shame.",
+    "Barbarian constipation.",
+    "Citing a random sourcebook that no one has ever heard of.",
+    "The party warlock.",
+    "The Big Bad.",
+    "Fistfighting an NPC who is twice your level.",
+    "The taste of sweet, sweet revenge.",
+    "The powerful, asphyxiating thighs of a female orc.",
+    "A flirtatious spectral hand.",
+    "Taking 2 points of piercing damage by dropping your last health potion.",
+    "Soaking up tons of damage.",
+    "Dwarf boners.",
+    "Correcting the DM.",
+    "A potion of Farts.",
+    "12 copper pieces and a rusty button.",
+    "Asking every NPC for their name and life story.",
+    "The Illusion of a rave party.",
+    "Bribing the jail warden with all the useless junk in your inventory.",
+    "A party of adventurers who always litter.",
+    "Dreamwalking into an embarrassing wet dream.",
+    "A very pregnant drow.",
+    "A poorly conceived bardic boy band.",
+    "Hiding caltrops in the town's fountain.",
+    "Never rolling above a 4.",
+    "A clingy halfling with syphillis.",
+    "A wave of crippling shame.",
+    "Goblins. 500 of them.",
+    "100 years in the nine hells.",
+    "The party barbarian.",
+    "Utter deviation from the campaign's storyline.",
+    "The Augment Crystal of Explosive Diarrhea.",
+    "Every person who has ever wronged you, ever.",
+    "Literally disarming your enemy.",
+    "A sweet-talking longsword.",
+    "Taking one for the team.",
+    "Being a murderhobo.",
+    "Using Major Image to display orcish mating rituals in the town square.",
+    "Painting the walls with the blood of my enemies.",
+    "An invisible mammoth.",
+    "Fading to black.",
+    "A waterskin (which is filled with booze).",
+    "Burning down a forest to find your friend.",
+    "Sacrificing to the wrong god.",
+    "Entering into a dubious alliance with a genocidal lich.",
+    "A classy brothel.",
+    "Hugh Hefner's Magnificent Playboy Mansion.",
+    "Used undergarments.",
+    "A full barrel of lethally strong liquor.",
+    "Rolling a 1 on your inspiration dice.",
+    "The heart of a child.",
+    "A pack of hungry dire wolves.",
+    "Polymorphing a party member into a horse to use them as a mount.",
+    "Giant beholder eyes.",
+    "The party cleric.",
+    "The other-other-other horn on the tielfling.",
+    "Riding the back of a giant.",
+    "Bathing in the gold we've earned.",
+    "The one depraved party member.",
+    "Breaking your weapon for the third time.",
+    "A Friends spell gone horribly, horribly wrong.",
+    "A village filled with orphans.",
+    "Selling out your party members for some sweet perks.",
+    "Saying \"ow\" every five seconds in increasing volume.",
+    "Three critical hits in a row.",
+    "Sparta kicking an enemy into a lake of lava.",
+    "The voyeuristic goddess of lust.",
+    "Tricking a ranger into eating her animal companion.",
+    "A bottomless pit of despair.",
+    "Heat-seeking bratwurst projectiles.",
+    "The universal solution: Arson.",
+    "A bucket of kobold heads.",
+    "Taking all the credit.",
+    "Causing an unnecessary civil war.",
+    "Getting off to a bad start.",
+    "A broken chastity belt.",
+    "An AC of -4.",
+    "Killing a peasant with a rolling pin.",
+    "Name-dropping your important political allies during an Intimidate check.",
+    "Burning a hole in the enemy's junk with holy light.",
+    "A cliche organ solo.",
+    "Feeding children to see if your rations are poisoned.",
+    "The party wizard.",
+    "Tripping on a rock and knocking myself unconscious.",
+    "A torch in your inventory that is lighting your entire backpack on fire.",
+    "A bard that tells knock-knock jokes.",
+    "243 decaying zombies.",
+    "Taking a shortcut and immediately getting lost.",
+    "A side quest gone so so wrong.",
+    "Taking 2.5 hours to divide the loot.",
+    "Spraying the cheering audience with your opponent's blood.",
+    "A drinking game.",
+    "The lone human of the group.",
+    "A halfling wielding a warhammer.",
+    "Breakdancing spirits of the dead.",
+    "Introducing handguns into the campaign.",
+    "A regretful drunken tryst.",
+    "A lose-lose situation.",
+    "Throwing rocks when you run out of arrows.",
+    "A preposterous amount of phase spiders.",
+    "Awakening every woodland creature you come across.",
+    "Dying in vain.",
+    "A level 1 dwarf paladin with leprosy.",
+    "Wearing only a loin cloth, as god intended.",
+    "Being atrociously overpowered.",
+    "An angsty sellsword.",
+    "Combustible lemons.",
+    "Dancing to catchy battle music.",
+    "The cleric's untimely demise.",
+    "Breaking your alignment.",
+    "Ill-fitting fantasy armor.",
+    "An awkward make-out session between two party members.",
+    "Turning the Big Bad into a pet hamster.",
+    "Scamming poor, unsuspecting townsfolk.",
+    "Stepping on a d4.",
+    "The Plane of Shadow.",
+    "A lute with no strings.",
+    "Making a lopsided deal with a Archfey.",
+    "Dragging a fire-breathing dragon into a barn.",
+    "Walking in on the innkeeper and his wife mid-coitus.",
+    "The entire monster manual.",
+    "The party paladin.",
+    "A suspiciously penis-shaped wax candle.",
+    "Crying like a little bitch when you're out of spells.",
+    "A very metrosexual vampire.",
+    "Another goddamn half-elf.",
+    "Passing meaningless notes to the DM just to fuck with people.",
+    "Shooting an arrow precisely into the enemy's asshole.",
+    "A goddamn herd of gold-eating badgers.",
+    "Multiclassing like a powergaming asshole.",
+    "Shitty cloth armor.",
+    "Fucking the guard captain.",
+    "A MOTHERFUCKING DRAGON!!!!!.",
+    "A haunted homocidal little girl.",
+    "Being so fucking wasted that you can't even.",
+    "Fucking shapeshifters.",
+    "Successfully disguising yourself as the opposite sex.",
+    "Rolling dice off of the damn table like an idiot.",
+    "Another fucking natural 1.",
+    "A clusterfuck of racist humans.",
+    "A weapon with a name that sounds vaguely sexual.",
+    "Having no idea what the fuck is going on.",
+    "Evard's Black Dick.",
+    "5 hours of teeth-grinding, heart-pounding, sweat-inducing, hot sex with landsharks.",
+    "A suicide note scrawled in shitty draconic.",
+    "Getting struck by lightning because the DM is done with your bullshit.",
+    "A goddamn alchemist.",
+    "Saggy succubus boobs.",
+    "Beating the everliving shit out of an NPC out of frustration.",
+    "Asking the DM for a reroll when you know you are fucked.",
+    "Having the coolest fucking dice set in the group.",
+    "A +3 Vorpal Flaming Dildo.",
+    "A warm party orgy on a cold winter's night.",
+    "Getting laid by crawling up a chicken's ass and waiting patiently.",
+    "Causing the death of your parents and then getting pissy about it.",
+    "Ruining the whole damn campaign.",
+    "Bigby's Handjob.",
+    "Pimping out a party member.",
+    "SAVING THE MOTHERFUCKING WORLD.",
+    "Kraken porn."
+  ],
+  "pack": {
+    "id": "G8YCY",
+    "name": "Dungeons and Dragons"
+  },
+  "quantity": {
+    "black": 55,
+    "white": 198,
+    "total": 253
+  },
+  "dateStoredMs": 1588822398022
+}

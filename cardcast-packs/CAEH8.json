@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "The only cure for coronavirus is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Holy Grail.",
+    "Kurt Cobain's shotgun.",
+    "Toilet paper.",
+    "Bill Clinton.",
+    "Abraham Lincoln.",
+    "Viewing web filter block logs.",
+    "Donald Trump.",
+    "Dr. Fauci."
+  ],
+  "pack": {
+    "id": "CAEH8",
+    "name": "Quarantine Sessions"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 8,
+    "total": 9
+  },
+  "dateStoredMs": 1589282216289
+}

@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Na Boże Narodzenie kupiłem mojej rodzinie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na Boże Narodzenie kupiłem mojej rodzinie _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HS58J",
+    "name": "PL Deck"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588607421203
+}

@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "You think your quarantine is bad? Try dealing with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aw, they cancelled my weekly _ until futher notice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First there were WWIII threats, now a pandemic. But, 2020 is just warming up for the main event: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I check the news. I see _. What the fuck?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 2 things I need to survive quarantine are _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Social Distancing is only possible thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone keeps sayinbg it was a bat that started the pandemic, but it was really _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm gonna spend my stimulus check on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn't find _ today at the store today. What the fuck?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_!? In This Economy???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are you doing during quarantine? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm pretty sure I got corona from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Day 7 of Quarantine. I've discovered my love of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Teleworking.",
+    "Flattening the curve.",
+    "Washing your damn hands.",
+    "Not enough PPE.",
+    "Walking through a drive-thru because all the restaurants are still open but you don't own a car.",
+    "Bernie Sanders winning the primary.",
+    "The inevitable 4 years of Trump no is thinking about.",
+    "Improvised Tissue Paper.",
+    "Masturbating to animal crossing.",
+    "Graduating from college on roblox.",
+    "Coughing.",
+    "Respiratory diseases.",
+    "Telehealth.",
+    "Mandatory quarantine.",
+    "Animal Crossing New Horizons.",
+    "E-Learning.",
+    "Fucking boomers.",
+    "Elbow bumps.",
+    "Doom Eternal."
+  ],
+  "pack": {
+    "id": "PAE9P",
+    "name": "COVID 19"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 19,
+    "total": 32
+  },
+  "dateStoredMs": 1589306589825
+}

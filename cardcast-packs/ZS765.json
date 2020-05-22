@@ -1,0 +1,33 @@
+{
+  "black": [],
+  "white": [
+    "Rouge the Bat.",
+    "Rouge the Bat.",
+    "Blaze the Cat.",
+    "Knuckles.",
+    "Omega E-123.",
+    "Tails the Fox.",
+    "Tails the Fox.",
+    "Sonic the Hedgehog.",
+    "Silver the Hedgehog.",
+    "Shadow the Hedgehog.",
+    "Amy Rose.",
+    "Knuckles.",
+    "Shadow the Hedgehog.",
+    "Amy Rose.",
+    "Cream the Rabbit.",
+    "Sonic the Hedgehog.",
+    "Silver the Hedgehog.",
+    "Eggman."
+  ],
+  "pack": {
+    "id": "ZS765",
+    "name": "A bunch of Sonic characters"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 18,
+    "total": 18
+  },
+  "dateStoredMs": 1589579203833
+}

@@ -1,0 +1,716 @@
+{
+  "black": [
+    {
+      "content": "Don't have a _ , man.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remove the stone of shame. Attach the stone of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ tells me to burn things!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ow, my eye! I'm not supposed to get _ in it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish they'd had _ when I was a lad...ah, well.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krusty decided to air a rerun today, but it turned out to be from the day _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who needs _? Not me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mmmmm, _. *drools*",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The finger thing means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Waiting Game sucks. Let's play _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smithers, release _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ plan! Lisa needs _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You don't win friends with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is hidden in the back room of Moe's Tavern? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They won't kill you in an amusement park as long as you have _ left in your pocket.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marge, have you ever actually sat down and read this thing? Technically, we're not even allowed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marge, you're always taking someone else's side -- Flanders, the water department, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Same card for both blanks) Barney's film had heart, but _ had _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Well, the kids have to learn about _ sooner or later!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My eyes! _ do nothing!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's Homer Simpson, sir. One of your _ from Sector 7G.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't blame me, I voted for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "- What happened here? - Oh, nothing, Marge, just a little incident involving _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To _! The cause of, and solution to, all of life's problems.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ralph Wiggum's highest aspiration is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see you've played _ before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Read ONE white card for ALL blanks.) You have thirty minutes to move your _. You have ten minutes. Your _ has been impounded. Your _ has been crushed into a cube. You have thirty minutes to move your cube.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Monorail! Monorail! _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ helps us play!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No TV and no beer make Homer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Write Agnes Skinner's epitaph. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything's coming up _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aw, 20 dollars? I wanted _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's three ways to do things, the right way, the wrong way, and the _ way...which is the wrong way but faster.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The #1 hit this week is the charity single \"We're Sending _ Down The Well\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not _ , but I'll learn.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homer Simpson doesn't say b'oh! He says _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a bootable offense.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who controls the British crown? Who keeps the metric system down? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In front of a tavern, flat on his face, a boozehound named Barney is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Duffman break character? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Krusty merchandising hit a new low with the release of Krusty Brand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just something they made up to scare kids, like the Boogeyman or Michael Jackson.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marge, it's 3 AM...shouldn't you be _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Take my _ , my good man.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How to _ for Forty _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "People! Your taxes are high because of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I assure you that my behind is nothing but flesh, bone and that _ I got in 'Nam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh wow, _. I don't think I could afford this place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's a paddlin'.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret ingredient of a Flaming Moe is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can't we have a meeting that doesn't end with us _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your lifelong dream was _ , and you already did that!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget it, Marge, it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bring you _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Silly customer! You cannot hurt the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's just a little _! It's still good! It's still good!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to say _ because the Kaiser had stolen the word twenty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't need to _ , because I'M HOMER SIMPSON!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marge, I'd like to be alone with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bottlenose bruises, blowhole burns, flipper prints? This could only be the work of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some folk'll never _ , but then again, some folk'll, like Cletus the Slack-Jawed Yokel!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Judge Snyder's had it in for me since I kinda _....",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get me _ from the National 'ealth!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a perfectly cromulent word.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who REALLY shot Mr. Burns? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, I'm Troy McClure. You may remember me from such films as _ and _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Collector's newest addition to his collection is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let us celebrate our new arrangement with the adding of _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll be deep in the cold cold ground before I recognize _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come to a BBBQ. The extra B is for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I grow up, I wanna be a principal or _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Then we'd all watch football, which in those days was called _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "- Seymour, the house is on fire! - No, Mother, it's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will Homer's next one-episode job be? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you want to _ , or do you want to act like a maniac?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So I _ , which was the style at the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, I'm Kent Brockman, and this is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(One card for the first two, another card for the third) Let the _ pay the _ tax. I pay the _ tax!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_?! I thought they closed that place down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Treehouse of Horror will contain _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Lionel Hutz: Cases won in 30 minutes or your _ is free!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In America, first you get the sugar, then you get the _ , then you get the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mayor Quimby accepted a large bribe to allow _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Gil's latest job? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prez Sez: _ is for Losers",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You mean there really is a _?! Good Lord!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will provide adequate sustenance for the Doctor Who marathon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of making sandwiches with bread, use _. Instead of chewing gum, chew _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The pink pills keep you from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I regret _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Homer, couldn't we pawn _ instead?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me fail _? That's unpossible!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ is not a sprinkle, sir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hans Moleman Productions Presents: Man Getting Hit By _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , _ , _. These are the three demons you must slay if you wish to succeed in business.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hens love roosters, geese love ganders, everyone else loves _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bart's teacher is named Krabappel? I've been calling her _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can't sleep, _ will eat me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You people have stood in my way long enough, I'm going to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wash myself with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Milhouse finally score with Lisa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's under Marge's hair? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worst _ ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sleep in _ , do you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh! _ and _ are a dangerous mix....",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "English side ruined, must use French side......_?! What the hell is that?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I no longer fear hell, because I've been to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Same card for both blanks) My boy's a _! Damn you, a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Buy me _ or go to hell!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're here, we're queer, we don't want any more _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The following is a list of words I never want to hear on TV again. #1: _. #2: _. #3: _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Li'l Bastard  _ Kit",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Malk.",
+    "*annoyed grunt*.",
+    "Super Nintendo Chalmers.",
+    "A single plum, floating in perfume, served in a man's hat.",
+    "The escalator to nowhere.",
+    "The Popsicle-stick skyscraper.",
+    "The Wig Sphere.",
+    "Klav Kalash.",
+    "Wade Boggs laying unconscious on the barroom tile.",
+    "Ken Griffey's grotesquely swollen jaw.",
+    "Lousy Smarch weather.",
+    "A Bort license plate.",
+    "The true location of Springfield.",
+    "A thin stew made of fish, vegetables, prawns, coconut milk, and four kinds of rice.",
+    "Chocolate microscopes.",
+    "Gabbo.",
+    "Antifreeze in the wine.",
+    "Some sort of non-giving-up school guy.",
+    "Guy Incognito.",
+    "John Jay Smith.",
+    "Hired goons.",
+    "Big Butt Skinner.",
+    "Purple monkey dishwasher.",
+    "A big bowl of strawberry ice cream.",
+    "LEMON TREE?!?.",
+    "Timmy O'Toole.",
+    "Worker & Parasite.",
+    "An inanimate carbon rod.",
+    "The Shinning.",
+    "A poem I can't remember, a song that may never have existed, and a place I'm not sure I've ever been to.",
+    "Putting squirrels down your pants for the purposes of gambling.",
+    "Marge's disapproving murmur.",
+    "A kid in some kind of a store.",
+    "The suckiest bunch of sucks that ever sucked.",
+    "Artie Ziff getting handsy.",
+    "MacGyver.",
+    "A pigeon rat.",
+    "Simpson & Son's Revitalizing Tonic.",
+    "The Land of Chocolate.",
+    "Patty & Selma naked, riding an elephant.",
+    "Homer strangling the life out of Bart.",
+    "The legend of the dog-faced woman.",
+    "Whacking Day.",
+    "Cracking each other's heads open and feasting on the goo inside.",
+    "An Al Gore doll.",
+    "Team Discovery Channel.",
+    "Poochie.",
+    "A genuine, bona fide, electrified six-car monorail!.",
+    "A Flaming Moe.",
+    "Wearing a tie to impress Laddie.",
+    "Frogurt.",
+    "A gay steel mill.",
+    "A master race of giant space ants.",
+    "Being indicted for fraud in Australia.",
+    "The Gummi Venus de Milo.",
+    "Chazwozzers.",
+    "An old-fashioned hole-diggin'! By gar, it's been a while!.",
+    "The Aurora Borealis, at this time of year, at this time of day, localized entirely within your kitchen.",
+    "Mr. Plow.",
+    "64 slices of American cheese.",
+    "A load of rich creamery butter.",
+    "The Happiest Place on Earth....Tijuana!.",
+    "The robotic Richard Simmons.",
+    "Homer Simpson, smiling politely.",
+    "Pouring cornflakes and milk into a bowl and inexplicably setting it on fire.",
+    "The Rand Corporation, in conjunction with the saucer people, under the supervision of the reverse vampires.",
+    "Boo-urns!.",
+    "Having two spaghetti meals in one day.",
+    "That metal dealie you use to dig food.",
+    "Duff Beer for me, Duff Beer for you.",
+    "Gamblor.",
+    "Pukeahontas.",
+    "Burning your belongings and changing your name to Miguel Sanchez.",
+    "Dimoxinil.",
+    "MAAATLOOOCK!.",
+    "Celebrating the independence of your country by blowing up a small part of it.",
+    "The family jewels.",
+    "Mr. McGreg, with a leg for an arm and an arm for a leg.",
+    "Sitting at home and ogling the ladies in the Victoria's Secret catalog....Sears catalog.",
+    "The Big Book of British Smiles.",
+    "Max Power.",
+    "Erotic cakes.",
+    "Steve Sax and his run-in with the law.",
+    "Steamed hams.",
+    "Sock puppets!.",
+    "Floor pie.",
+    "A Class 3 kill storm.",
+    "Scotchtoberfest.",
+    "The Zombie Flanders.",
+    "The slow realization that basically everyone on the Internet, including you, is Comic Book Guy.",
+    "Disputed Zone.",
+    "Moving for a bad court thingie.",
+    "The Ayn Rand School for Tots.",
+    "ToMacco.",
+    "Mr. Teeny.",
+    "An enchanted jockstrap.",
+    "Canyoneroooo!!!.",
+    "The dogs with bees in their mouths, and when they bark, they shoot bees at you.",
+    "Uncle Moe's Family Feedbag.",
+    "Another cheap cartoon crossover.",
+    "Santos L. Halper.",
+    "Deep-fried cotton candy dipped in caramel, then re-cotton-candied, fried again and then fried again again.",
+    "The \"I didn't do it\" boy.",
+    "The box factory.",
+    "A head bag.",
+    "The National Grammar Rodeo.",
+    "Jebediah Springfield's silver tongue.",
+    "Frank Grimes' corpse.",
+    "Five dollars?! Get outta here.",
+    "The Bart, The.",
+    "Bumblebee Man.",
+    "DENTAL PLAN!.",
+    "BABOOOONNN!.",
+    "Frosty chocolate milkshakes.",
+    "Stampy the Elephant.",
+    "Lionel Hutz, Attorney at Law and Smoothie Emporium.",
+    "Mr. Snrub.",
+    "Mr. Burns getting shot by a baby.",
+    "The entire score of the HMS Pinafore.",
+    "Forbidden Donut.",
+    "The Feast of Maximum Occupancy.",
+    "300 pretzels.",
+    "Billy and the Cloneasaurus.",
+    "900 dollarie-doos.",
+    "The elephant song.",
+    "A sandwich that can take a bite outta YOU!.",
+    "A sleazy male stripper.",
+    "Rod and Todd's sexual naivete.",
+    "Stupid sexy Flanders.",
+    "A \"pencil holder\" that's actually a bong.",
+    "The last lingering thread of Patty's heterosexuality.",
+    "A sex farm for sex hookers.",
+    "A stupid moron with an ugly face and a big butt and my butt smells and...I like to kiss my own butt.",
+    "My damn wiener kids.",
+    "A whole lot of crazy crap on the walls."
+  ],
+  "pack": {
+    "id": "5NQEW",
+    "name": "Cards Against Springfield"
+  },
+  "quantity": {
+    "black": 113,
+    "white": 135,
+    "total": 248
+  },
+  "dateStoredMs": 1588416530196
+}

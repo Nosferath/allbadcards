@@ -1,0 +1,112 @@
+{
+  "black": [
+    {
+      "content": "Okay we've finally found out what it is that makes the floor of Knockin' Boots so sticky, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No you don't understand, I need to be backstage because I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year, Five Star is selling slices in exchange for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just announced! _ is doing a mystery band set at _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the best cure for Fest Flu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are Arms Aloft banned from Fest? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Curtis dressing up as for Halloween this year? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tony _ Weinbender",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man you should have been there at Fest 3, back then they had _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh my god last night I saw Laura Jane Grace and she was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Word on the street is Jason Rockhill will let you in to Bo Diddley Plaza if you give him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is the stage manager at The Wooly this year? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard The Menzingers have _ on their rider.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no _ conflicts with _ on the schedule!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the best way to pass the time in the line for registration? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck? I opened my band packet and all that was in there was _ , _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Oh shit! _ just got added to the Fest lineup!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Skating Polly.",
+    "Too much PBR.",
+    "Paddy from D4, drunk and passed out under a van on top of fire ants.",
+    "Crowd surfing so you don't have to stand up any more.",
+    "Sneaking in to a venue by claiming \"I'm too punk to pay\".",
+    "Toby Jeg.",
+    "A meal pass that just says \"Good for one back rub from Jamie Miller\".",
+    "Tony Weinbender.",
+    "A combination of sweat, PBR, weed, and Chuck Ragan's pubes.",
+    "Garrett Dale's stupid fucking hat.",
+    "The level of piss soaked a venue's bathroom can only reach on a Sunday of Fest."
+  ],
+  "pack": {
+    "id": "M7Q2W",
+    "name": "Fest! Fest! Fest!"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 11,
+    "total": 28
+  },
+  "dateStoredMs": 1589084161083
+}

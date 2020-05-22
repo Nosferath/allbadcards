@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "Padme was _ and _ by _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Greedo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jabba the hut _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabine was _ by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Han _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jabba the hut _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Han Solo _ at the cantina.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kissed a womprat.",
+    "Drunks.",
+    "Han.",
+    "Crashed a landspeeder.",
+    "Threw a lightsaber.",
+    "Bound.",
+    "Darth Vader.",
+    "Sabine.",
+    "Killed.",
+    "Shot first.",
+    "Leia.",
+    "Raped.",
+    "Chewy.",
+    "Luke.",
+    "Fucked Leia.",
+    "Fucked."
+  ],
+  "pack": {
+    "id": "xxhk9",
+    "name": "Starwars"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 16,
+    "total": 23
+  },
+  "dateStoredMs": 1589521950239
+}

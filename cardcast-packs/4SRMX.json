@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "What really caused the Coronavirus? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We finally cured the Coronavirus! Who would've thought the solution was _ all along.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Need a new social distancing technique? Try _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that _ is a useful way of remembering to wash your hands for twenty seconds?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Day one of lockdown: _. Day thirty of lockdown: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Better hurry up and buy as much _ as you can before the shops run out!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of applauding the NHS, I prefer _ to show my support.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doctors will now be replaced with _ to make up for workforce shortages.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the best thing to do at 7:59 PM on a Thursday.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Coughing on people.",
+    "Fighting an elderly woman for a face mask.",
+    "It's Corona time.",
+    "Killing grandma.",
+    "Applauding the NHS.",
+    "Coronavirus.",
+    "Washing your body with hand sanitizer.",
+    "Making a castle out of toilet paper rolls.",
+    "Standing less than 6 feet away from people.",
+    "BoJo."
+  ],
+  "pack": {
+    "id": "4srmx",
+    "name": "Covid"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 10,
+    "total": 19
+  },
+  "dateStoredMs": 1589060637181
+}

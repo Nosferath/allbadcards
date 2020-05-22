@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "What are Donald's nephews names? _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Why did Hercules die? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is the Genie in a lamp? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Meg.",
+    "Put that thing back where is came from or so help me.",
+    "Lilo.",
+    "A chokehold from Tinkerbell.",
+    "Stitch.",
+    "A hug from Baymax."
+  ],
+  "pack": {
+    "id": "XNJPU",
+    "name": "Disney"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 6,
+    "total": 9
+  },
+  "dateStoredMs": 1589579141533
+}

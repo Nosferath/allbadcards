@@ -1,0 +1,45 @@
+{
+  "black": [],
+  "white": [
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card.",
+    "Blank card."
+  ],
+  "pack": {
+    "id": "MBJCA",
+    "name": "Blank Cards"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 30,
+    "total": 30
+  },
+  "dateStoredMs": 1589236863212
+}

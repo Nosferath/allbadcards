@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "Instead of children, Pennywise now hunts _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mike.",
+    "Georgie.",
+    "Georgie's mutilated arm.",
+    "Eddie.",
+    "Pennywise's WELL HELL.",
+    "Eddie's intense germaphobia.",
+    "Richie.",
+    "Stanley.",
+    "Pennywise transforming into a huge badass killer crab.",
+    "Daddy's girl.",
+    "Trying to reset a broken arm only to make it worse.",
+    "Ben.",
+    "Beverly.",
+    "That feeling of shock when 5 gallons of blood shoots out of the bathroom faucet.",
+    "Pennywise.",
+    "Beverly's incesty dad.",
+    "Ben getting carved like a pumpkin.",
+    "Painting lady with mad flute skills."
+  ],
+  "pack": {
+    "id": "T9T8N",
+    "name": "It (2017)"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 18,
+    "total": 19
+  },
+  "dateStoredMs": 1588461709175
+}

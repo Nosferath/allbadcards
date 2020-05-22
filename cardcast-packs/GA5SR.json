@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "I quiz all my dates on _ in excruciating detail to make sure we’re compatible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The office except everyone is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "GA5SR",
+    "name": "Randomness"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589030614129
+}

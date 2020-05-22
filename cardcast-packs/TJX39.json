@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "Ant's favourite thing to do is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ben's favourite thing to do is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sophie particularly enjoys _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ducker particularly enjoys _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nichole can't live without _ ",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lorna's favourite thing to do is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shelby was once _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jonny can't live without _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam was once _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A prozzy ordered online.",
+    "Chub rub.",
+    "Being moister than an oyster when _.",
+    "Breast feeding all the neighbours.",
+    "A turkey baster.",
+    "Running and farting in panic.",
+    "Perhaps a skank.",
+    "Positive vibes from a dildo.",
+    "A skank with a fetish for _.",
+    "Beat unconscious with a dildo.",
+    "Footy dick.",
+    "Wearing heels bigger than his dick.",
+    "Date rape.",
+    "A little boy with dick withdrawal issues.",
+    "A burp that smells like cock."
+  ],
+  "pack": {
+    "id": "TJX39",
+    "name": "Cards versus quarantine"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 15,
+    "total": 24
+  },
+  "dateStoredMs": 1588841941019
+}

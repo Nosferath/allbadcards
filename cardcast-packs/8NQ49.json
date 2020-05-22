@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "Gdzie jest mój _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdzie jest nemo? W _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zawsze rozkręca imprezy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas lotu samolotem zabrania się _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowa aplikacja do _ podbija internet!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "8NQ49",
+    "name": "Meferki"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 0,
+    "total": 5
+  },
+  "dateStoredMs": 1589282216889
+}

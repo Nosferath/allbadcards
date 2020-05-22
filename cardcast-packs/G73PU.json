@@ -1,0 +1,151 @@
+{
+  "black": [
+    {
+      "content": "_ is Layer 8 of the OSI Networking Model.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the last stage of our _ rollout.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is now included for free with every OS update.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Had a user fall prey to a sophisticated _ phishing attack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two factor auth with _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hot new videogame this year is _ Simulator!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a pinch, _ can be used to remotely reboot a server.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new IT Director has a sick tattoo of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last consultant was fired over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That red plunger switch on the wall launches _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is now required every time you restart _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A helpdesk call to fix _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Forgetting _ in the datacenter is a firing offense.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're going to use _ instead of updating to IPv6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got this coffee mug from a conference about _ back in 1997.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just got a new certification in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forgot my badge this morning and had to use _ to get in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing transfers data faster than _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A larger database connection pool.",
+    "Angelina Jolie in Hackers.",
+    "CryptoLocker.",
+    "My rooted phone.",
+    "5000 free AOL CDs.",
+    "A laser pointer.",
+    "\"Have you tried turning it off and on again\".",
+    "My password.",
+    "A fingerprint scanner.",
+    "A faulty crossover cable.",
+    "Rebuilding a RAID array.",
+    "Stuxnet.",
+    "The server is down.",
+    "A flaky VPN connection.",
+    "A scanning electron microscope.",
+    "A KVM with a broken M.",
+    "A helpdesk ticket to \"fix the cpu\".",
+    "Manually fixing 100/1000 auto negotiation.",
+    "A usb stick found in the parking lot.",
+    "A rainbow pack of 3.5\" floppy disks.",
+    "An RJ-45 crimping tool.",
+    "Rm -rf /*.*.",
+    "A serial port mouse.",
+    "A mouse connected serial -> ps/2 -> usb.",
+    "Rotating the Backup Tapes.",
+    "Two Factor Auth.",
+    "A multitool with a bottle opener.",
+    "A salvaged motherboard with a parallel port.",
+    "A razorsharp punchdown tool.",
+    "A shell script written in OCaml.",
+    "Viewing web filter block logs.",
+    "Pinging 127.0.0.1.",
+    "A hard drive degaussing machine.",
+    "A webcam pointed at the coffee maker.",
+    "Edward Snowden.",
+    "A one button mouse.",
+    "An Arduino running NetBSD.",
+    "A PEBCAK.",
+    "Script kiddies.",
+    "A coffee stained mousepad.",
+    "0118 999 881 999 119 725...3.",
+    "Scanning a little too much with nmap.",
+    "Clippy.",
+    "An IP webcam with a default password.",
+    "A bastion host."
+  ],
+  "pack": {
+    "id": "G73PU",
+    "name": "Cards Against IT"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 45,
+    "total": 63
+  },
+  "dateStoredMs": 1589548708299
+}

@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "_ or _. There is no _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Judge me by _ do you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May _ be with you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon. Its _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I haven't heard that in a long time.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Them Cantina aliens with the head that looks like two brain tumours.",
+    "Carrie Fisher.",
+    "A Star Wars themed box.",
+    "The Force.",
+    "The Black 'Saber'.",
+    "Harrison Ford.",
+    "Its a trap!!!.",
+    "The trash compactor.",
+    "Master Windu.",
+    "Mark Hamill.",
+    "Yoda's bony penis."
+  ],
+  "pack": {
+    "id": "ZKFHS",
+    "name": "Star Wars"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 11,
+    "total": 16
+  },
+  "dateStoredMs": 1588616201891
+}

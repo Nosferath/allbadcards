@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "What does Daddy Derek wish he could forget? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, kids: _ loves you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Cool Cat teaches kids about the dangers of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cool Cat loves everything, even _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That mean kid kicked _ in Cool Cat's face!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, kids: When a bully tries to get you down, just say you're _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do you want to be a bully? Bullies never have any _, and it's cool to have _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wow! The mailman must have left one of Daddy Derek's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My pitch for Cool Cat Saves The Kids 2? _ and _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Putting subtle child molestation themes in your kids films.",
+    "Fair Use laws.",
+    "A grown man in a fur suit who claims to be a professional filmmaker.",
+    "Daddy Derek.",
+    "A very enthusiastic Cool Cat."
+  ],
+  "pack": {
+    "id": "N9MPE",
+    "name": "Cool Cat Saves Pretend You're Xyzzy"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 5,
+    "total": 14
+  },
+  "dateStoredMs": 1589547293379
+}

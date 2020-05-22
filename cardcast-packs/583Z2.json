@@ -1,0 +1,133 @@
+{
+  "black": [
+    {
+      "content": "_ : good to the last drop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now i _ to cover a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We had to _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the worst thing to find in your chinese food.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : kid tested, mother approved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someone ate _ soup.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to a PR fiasco, Morrison's no longer sell _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The UK is air-dropping _ to Afghanistan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On holiday this year, i'm going to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dads be like, I'll have a corona hold the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of coal, santa now gives the bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life was difficult before _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The class field trip was completely ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where's all the _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before corona virus, i'd _ to cover a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Might go and lay on _ incase anyone wants a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I _ to forget _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Studies show that lab rats navigate 50% faster after being exposed to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fart.",
+    "Toilet paper.",
+    "Covid-19.",
+    "The NHS.",
+    "Barack Obama.",
+    "Donald Trump.",
+    "Old people.",
+    "Edible socks.",
+    "Dance.",
+    "Fart.",
+    "Hand sanatizer.",
+    "Toilet roll.",
+    "Cough.",
+    "Boris Johnson.",
+    "Plastic babies.",
+    "Virus.",
+    "Snack.",
+    "Death.",
+    "Toenails.",
+    "Fight.",
+    "Bat.",
+    "Small children.",
+    "Drink.",
+    "Cough.",
+    "A bat.",
+    "Tesco's shelves.",
+    "Bleach."
+  ],
+  "pack": {
+    "id": "583Z2",
+    "name": "Corona Cards against humanity"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 27,
+    "total": 45
+  },
+  "dateStoredMs": 1588897174270
+}

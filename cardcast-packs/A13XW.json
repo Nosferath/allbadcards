@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "How are you going to repay your debt to Tom Nook? ( _ )",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe my villager is able to fit ( _ ) in his pocket.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A golden axe."
+  ],
+  "pack": {
+    "id": "A13XW",
+    "name": "Animal Crossing"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588668441794
+}

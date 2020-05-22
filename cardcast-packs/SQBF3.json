@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "Anyádat te kis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szerintem a legobb ajándék _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rádférne egy kis _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Te elmehetnél _ nak/nek.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Te rohadt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nem is tudsz rendesen _ ni.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Szovjetúnió.",
+    "Kommunizmus.",
+    "KGB.",
+    "Boris.",
+    "Gulág.",
+    "Leninszobor.",
+    "Guggolni.",
+    "Sztálin.",
+    "Medve.",
+    "69 Leninszobor.",
+    "Lenin.",
+    "Náci.",
+    "Munka.",
+    "420 Leninszobor.",
+    "Vodka."
+  ],
+  "pack": {
+    "id": "SQBF3",
+    "name": "magyar kommunista pack"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 15,
+    "total": 21
+  },
+  "dateStoredMs": 1589142228121
+}

@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "What's your favorite new TV  show? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fall Out Boy.",
+    "On a Tuesday.",
+    "Cody's Asian Girlfriend.",
+    "Pan!c At The Disco.",
+    "Weeeed.",
+    "Ebola."
+  ],
+  "pack": {
+    "id": "RRT7F",
+    "name": "CatchingSTDs"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1588880763944
+}

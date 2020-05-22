@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Ő lesz Magyarország miniszterelnöke: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ elleni merénylet volt a legsúlyosabb az elmúlt években.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Solos Gyuli."
+  ],
+  "pack": {
+    "id": "CHC5A",
+    "name": "Benecc's Deck (Hungarian)"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1589140766043
+}

@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "When you leave your teamates _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "UYUFA",
+    "name": "League"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588239211705
+}

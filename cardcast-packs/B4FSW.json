@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "My daddy loves me so much he lets me _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "If you had a daddy kink you'd understand -_-.",
+    "Because my daddy told me to."
+  ],
+  "pack": {
+    "id": "B4FSW",
+    "name": "The Kink Cast"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588784785971
+}

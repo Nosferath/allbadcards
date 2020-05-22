@@ -1,0 +1,215 @@
+{
+  "black": [
+    {
+      "content": "_ w wersji +18",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O czym myślę podczas programowania? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jedyną rzeczą ważniejszą od designerów gry jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trudno zaufać grafikowi po tym, jak niezauważalnie wrzucił do plików gry obrazek przedstawiający _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowa nazwa na dziewczyny interesujące się informatyką to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Powód, dla którego informatyk mógłby wyjść na zewnątrz? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie spodziewałem się znaleźć w starej grze _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy informatyk powinien posiadać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wyglądałoby o dużo lepiej w trójwymiarze.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w 2D wygląda jak _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po miesiącu postanowiłem nakarmić kota. Zamiast kota znalazłem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pisanie \"_\", zamiast \"_\", chociaż że tam powinno być \"_\".",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ta gra zawiera Easter Egg, w którym można znaleźć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym programie brakuje _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy dziewczyna to to samo co _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Napisałem program o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żaden informatyk nie przyzna się do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Informatycy nigdy nie zrozumieją żartów o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ta gra jest o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Używanie _ zamiast _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_\" brzmi jak niezła nazwa na grę!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byłem mały mama pozwalała mi oglądać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drugie zainteresowanie większości informatyków to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie wiedziełem co to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grafik to nie informatyk, tak jak _ to nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bugi Przeciwko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.jpg",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gra wstępna według informatyka to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najwięcej bugów w moim programie spowodowanych było przez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do dziś nie wiem jak działa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze bałem się, że poza światem gry w pustce zobaczę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego nie napisałem tego programu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie próbowałem nigdy _, podobno to sprawia dużo bugów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co wyszukuję w grafikach Google jak mi się nudzi? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stringi.",
+    "Ból prawej ręki.",
+    "Większy, czarniejszy bug.",
+    "Ban.",
+    "Mikromiękkie.",
+    "Nudne żarty o informatykach.",
+    "Hexagony.",
+    "Informatyk z dziewczyną.",
+    "Brak czasu.",
+    "Rudy informatyk.",
+    "RAM.",
+    "Antyaliasing.",
+    "Modyfikowanie gier.",
+    "Wersja Alpha.",
+    "Zepsuta karta graficzna.",
+    "Znikające tekstury.",
+    "Zera i jedynki.",
+    "Nintendo.",
+    "Udawanie, że się wie, co się pisze.",
+    "Nieśmiertelność.",
+    "Rekurencja.",
+    "Okna XP.",
+    "Andrzej biegający w majtkach podczas deszczu.",
+    "Gry komputerowe.",
+    "Dwóch informatyków srających na sprzęt komputerowy.",
+    "Pikselowa grafika udająca styl retro.",
+    "Błąd.",
+    "Pętle.",
+    "Flanelowa koszula."
+  ],
+  "pack": {
+    "id": "BRV2Q",
+    "name": "Karty o Informatyce (PL)"
+  },
+  "quantity": {
+    "black": 34,
+    "white": 29,
+    "total": 63
+  },
+  "dateStoredMs": 1588935015041
+}

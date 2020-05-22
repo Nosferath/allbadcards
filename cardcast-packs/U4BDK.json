@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "I have the same _! It's a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = perfect flirting",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Have you tried the new _ dance lately?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? TWINS!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes the best pillows.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Coyote skins.",
+    "Movie.",
+    "Dizzy squirrels.",
+    "Stain on humanity.",
+    "Serenades.",
+    "Breasts.",
+    "Bralette.",
+    "Virus.",
+    "Showing off your collection of cologne.",
+    "Spooky.",
+    "Judging.",
+    "Sitting close.",
+    "Giant dogs.",
+    "Kittens.",
+    "Floppy arms.",
+    "Disease.",
+    "Damaged duck.",
+    "Lot's of smiling.",
+    "Spider.",
+    "Bravest warriors.",
+    "Not showing your face.",
+    "DC.",
+    "Depression.",
+    "Stalking.",
+    "Staring.",
+    "Say you're missing a body part.",
+    "Over-packed backpacks.",
+    "Disaster.",
+    "Foreigner.",
+    "Painting.",
+    "Waste of time.",
+    "Twin.",
+    "Denial.",
+    "Bra.",
+    "Class."
+  ],
+  "pack": {
+    "id": "U4BDK",
+    "name": "Sophadoph's Ultimate"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 35,
+    "total": 40
+  },
+  "dateStoredMs": 1588727777761
+}

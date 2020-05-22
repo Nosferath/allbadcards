@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "It's my _ in a box!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It seems like everyone forgot my birthday. Cheer me up? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dad made me _ on my birthday.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My husband was supposed to buy the _ but he got _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do we have everything for the party? _ check,  _ check,  _ check.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What would make a birthday party more embarrassing? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom made me _ on my birthday.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ #WorstBirthdayEver!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Presents.",
+    "Fetus.",
+    "Cake.",
+    "Birthday Strippers.",
+    "Card.",
+    "Party Hats.",
+    "Gifts.",
+    "Birthday Boy.",
+    "Balloons.",
+    "Birthday Money.",
+    "Birthday Girl."
+  ],
+  "pack": {
+    "id": "R3YYJ",
+    "name": "Birthday Deck"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 11,
+    "total": 19
+  },
+  "dateStoredMs": 1589514314211
+}

@@ -1,0 +1,166 @@
+{
+  "black": [
+    {
+      "content": "In Houdini's latest magic trick, he made _ disappear.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a confession to make... I like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the most likely outcome of drinking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was Perry's most recent Google search.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is something Joash would spend every last cent on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how Liang Hui makes a living.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody come get _ , she's dancing like a streeeperrr.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Elizabeth is lonely, she cuddles with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the least of Kimmy's problems right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ would make good parents. Probably.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I will not be treated like this. I am literally _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ should marry Big Ed from 90 day Fiance.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kenneth's hardly skilled at anything besides _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We wouldn't be surprised to find _ in Ganeshaa's school bag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not an instrument.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Juggling _ , _ , and _ is how I survived JC.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The one thing Miss Rona can never put an end to is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Fifty Shades Of Grey sequel stars _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "$5.99 should be enough to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to unknown motives, Xian Li was found entering the a sex shop purchasing _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "LIANG HUI.",
+    "Using paracetamol to marinade chicken.",
+    "Genital waxing.",
+    "Politely declining when others offer you food even though u really want it\t.",
+    "My non-existent gag reflex.",
+    "Si Yuan.",
+    "Seeing people naked.",
+    "Predictable small talk.",
+    "The burden of expectation.",
+    "Wishing Ganeshaa would just sit on my face and end me.",
+    "Toothpaste\t.",
+    "Gonnorhea.",
+    "Used wax strips\t.",
+    "Handing out condoms during orientation.",
+    "Crying and eating simultaneously\t.",
+    "Red room renovations.",
+    "Selling feet pics.",
+    "Designer eyebags.",
+    "Supraja.",
+    "Aliens.",
+    "Dirty pillow cases.",
+    "Being crushed by a vending machine.",
+    "An unexpected pregnancy.",
+    "Joash's eating habits\t.",
+    "A hearty italian.",
+    "Vaginal steaming.",
+    "Li Chang in full drag.",
+    "Panadol.",
+    "Humping traffic cones.",
+    "Li Chang.",
+    "Skillful threesomes.",
+    "Isis becoming waswas\t.",
+    "National Service.",
+    "Singapore flags.",
+    "Waking up.",
+    "Wigs.",
+    "Erectile dysfunction.",
+    "A drinking problem.",
+    "Osteoporosis.",
+    "A missing eyebrow.",
+    "Unbelievably bad breath\t.",
+    "Depression\t.",
+    "The only gay person within a hundred kilometers.",
+    "CLaSsiFiED cHiCKeN.",
+    "Crippling fatigue\t.",
+    "The urethra.",
+    "Grapes.",
+    "Niancy.",
+    "Cum filled retainers.",
+    "A good ol' vibrator."
+  ],
+  "pack": {
+    "id": "R4C64",
+    "name": "OG2"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 50,
+    "total": 70
+  },
+  "dateStoredMs": 1589288144403
+}

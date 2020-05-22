@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "Personality swapping _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Swapping _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "AU where you play as _ instead of Frisk.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gender changing  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where every character is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where instead of Flowey stealing the souls, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fused with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "An AU where _ is only 3 years old.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where _ is 90 years old.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have a multidimensional travel kit. What do you use it for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where there are multiple _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where the final boss of the Genocide run isn't Sans, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An AU where the only, lonely, character is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 's reaction to seeing _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "PreCore! Gaster.",
+    "Brother! Gaster.",
+    "Core! Frisk.",
+    "Blind! Frisk.",
+    "Temmie! Frisk.",
+    "Genocide run Burgerpants.",
+    "Genocide run Papyrus.",
+    "Core! Chara.",
+    "PTSD! Sans.",
+    "Phone! Frisk.",
+    "Goat! Sans.",
+    "Genocide run Monster Kid.",
+    "Robo! Frisk.",
+    "King! Papyrus.",
+    "Cr1tikal! Sans.",
+    "Rotten! Egg.",
+    "PreCore! Gaster.",
+    "Hard-boiled! Egg.",
+    "Goopy soul AU.",
+    "Underfell.",
+    "Core! Asriel.",
+    "Genocide run Woshua.",
+    "Dad! Gaster.",
+    "Fused Asrisk.",
+    "Swaptale.",
+    "KidzBop! Bring me to Life.",
+    "Napstabot.",
+    "Pta! Sans."
+  ],
+  "pack": {
+    "id": "ED5S2",
+    "name": "Undertale AUs Expansion"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 28,
+    "total": 42
+  },
+  "dateStoredMs": 1589525586115
+}

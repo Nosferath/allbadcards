@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "_ , there is  a whole other world in there.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "#dope.",
+    "I'm in love with the coco.",
+    "I <3 Cocaine.",
+    "More LSD for me!.",
+    "The pot house.",
+    "The joker's crack house.",
+    "Heroine.",
+    "420 blaze it.",
+    "Weed.",
+    "Booze and snooze Barney the dinosaur!.",
+    "Ecstasy with a hint of rainbow."
+  ],
+  "pack": {
+    "id": "7G8X2",
+    "name": "Funky Shit"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 11,
+    "total": 12
+  },
+  "dateStoredMs": 1588622713726
+}

@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Your next line is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Awaken, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eventually, _ stopped thinking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the greatest in the world! It can do anything!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JoJo! This is the last of my _! Take it from me!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Waamu.",
+    "Getting engaged to two men.",
+    "Shoving a pigeon down a woman's throat.",
+    "The Red Stone of Aja.",
+    "Kars.",
+    "Smokey.",
+    "A German cyborg.",
+    "Breaking off a cop's finger using only a bottle of coke.",
+    "Grandma.",
+    "The ultimate lifeform.",
+    "Von Stroheim.",
+    "Old men waking up from a really long nap.",
+    "Getting oiled up to hammer a man.",
+    "Lisa Lisa.",
+    "Suzie Q.",
+    "Esidisi.",
+    "Caesar Zeppeli.",
+    "Joseph Joestar.",
+    "Racist cops.",
+    "Dying a virgin.",
+    "Peeping at your mom in the bath.",
+    "Hamon.",
+    "Running for your life."
+  ],
+  "pack": {
+    "id": "TUJFV",
+    "name": "JoJo Against Humanity: Battle Tendency"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 23,
+    "total": 28
+  },
+  "dateStoredMs": 1588287477015
+}

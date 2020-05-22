@@ -1,0 +1,731 @@
+{
+  "black": [
+    {
+      "content": "Science will never explain _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The FBI just released a list of the biggest national security threats: 1. ISIS 2. Mexican drug cartels. 3. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to an ancient law _ is technically a crime in the UK.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ a day keeps the _ away.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kids these days only want _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Donald Trump's first act as president was to outlaw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there's one thing I can't stand it's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Nobel Peace Prize goes to _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you go to the polls on Tuesday, remember: a vote for _ is a vote for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the worst possible use of free will? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we're learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never truly understood _ until I encountered _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Now at the Natural History Museum: an interactive exhibit on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump has nominated _ for his VP.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a slippery slope that leads to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I have it on good authority that, if you type \" _ \" into Google, you can break the internet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alternative medicine is now embracing the curative powers of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Google recently changed its corporate slogan from \"Don't be Evil\" to \"Don't be _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Channel 4 presents \" _ : the Story of _ \".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My mom freaked out when she looked at my browser history and found _ .com/ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This app is basically Tinder, but for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During high school, I never really fit in until I found _ club.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why we can't have nice things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bringing up _ on a first date is a terrible idea. I know from experience.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a one-time gift of just £10, you can save this child from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We never did find _ , but along the way we sure learned a lot about _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If _ was an Olympic sport, I'd win the gold medal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like being weird! Weird is all I've got! That, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aziraphale has at least twenty books on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science will never explain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The CIA now interrogates enemy agents by repeatedly subjecting them to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my next trick, I will pull _ out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Airport security guidelines now prohibit _ on airplanes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life for American Indians was forever changed when the White Man introduced them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll be treating kids to _ instead of candy this Halloween.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing says \"I love you\" like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are two things I hate. Racism and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a 32 year old IT-man that works in a basement, yes I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. Hate leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, Sir, but I couldn't complete my homework because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When life hands you _ , make _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I went from _ to _ all thanks to _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_. Coming soon to a cinema near you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uh, hey guys, I know this was my idea, but I'm having serious doubts about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A remarkable new study shows that chimps have evolved their own primitive version of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As reparations for slavery, all African Americans will receive _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's Soup of the Day is Cream of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They said we were crazy. They said we couldn't put _ inside of _. They were wrong.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The school trip was completely ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One way of solving over-population is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The US has issued a formal apology to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a pinch, _ can be a suitable substitute for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "According to The Sun, 9 in 10 immigrants are involved in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a pity that kids these days are dabbling in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are my parents hiding from me? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blessed be the Lord our God, who has granted us _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I promise that if I'm elected president, I will build a giant wall to keep _ out of our great country.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next time on Dr. Phil: How to talk to your child about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the stupidest thing humans ever invented apart from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And the award for _ goes to _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "At his inauguration, President Trump confirmed that deporting _ is his #1 priority.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alexa, buy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on The Jeremy Kyle Show: \"Help! My son is _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: _ has come out in favour of _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it too late to change my mind about _, asks _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In his latest bid for Number 10, Jeremy Corbyn has promised every household _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems but _ ain't one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst thing you could bring to a funeral? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Generally, most things can be solved by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here at the Academy for Gifted Children, we allow students to explore _ at their own pace.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the BAFTA for _ goes to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "On the Third day of Christmas my true love sent to me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would be woefully incomplete without _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Best you go back where you came from, now. We don't take too kindly to _ in these parts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Acording to Facebook _ causes _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gives me uncontrollable gas",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, sir, but your insurance plan doesn't cover injuries caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You guys, you can buy _ on the dark web.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My _ teacher is really into _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "TFL apologizes for the delay in train service due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's _, we're all going to die!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Finally! A service that delivers _ right to your door.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If at first you don't succeed try _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit, Gary. You can't just solve every problem with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really killed the dinosaurs? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I am Prime Minister of the United Kingdom, I will create the Ministry of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried _ and to my surprise, I didn't hate it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ have changed their mind about _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Step 1: _. Step 2: _. Step 3: Profit.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instead of coal, Father Christmas now gives the bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every Sunday, a couple of Jehovah's Witnesses bang on my door to ask if I want to talk about _. I say yes every single time. Who wouldn't?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A study published in Nature this week found that _ is good for you in small doses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ a day keeps the doctor away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After my parents abandoned me I was raised by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mormons.",
+    "Crippling social anxiety.",
+    "Becoming the President of the United States.",
+    "Guns.",
+    "Slow motion.",
+    "A time travel paradox.",
+    "Bees.",
+    "China.",
+    "Millennials.",
+    "The Vegans.",
+    "Creationists.",
+    "Voting Labour.",
+    "The flute.",
+    "The EDL.",
+    "Colonies.",
+    "Evolution.",
+    "Maths.",
+    "Vladimir Putin.",
+    "Atheists.",
+    "Going vegetarian.",
+    "Voting Lib Dem.",
+    "The Irish.",
+    "Veganism.",
+    "Egging an MP.",
+    "Jehovah's Witnesses.",
+    "A team of lawyers.",
+    "Kale.",
+    "UKIP.",
+    "Breaking out into song and dance.",
+    "A liberal bias.",
+    "The SNP.",
+    "Lynx Deoderant.",
+    "The Gays.",
+    "Remoaners.",
+    "Russia.",
+    "Natural selection.",
+    "Straight.",
+    "Google.",
+    "Fish and Chips.",
+    "The French.",
+    "The EU.",
+    "Water.",
+    "Universal Basic Income.",
+    "The Brexit Party.",
+    "Flesh-eating bacteria.",
+    "The Pope.",
+    "Rich people.",
+    "Invading Poland.",
+    "The Scout Association.",
+    "The entire Internet.",
+    "Cambridge Analytica.",
+    "Rich.",
+    "Queuing.",
+    "Being rich.",
+    "Silence.",
+    "North Korea.",
+    "A free iPhone.",
+    "Poverty.",
+    "England.",
+    "Infinity.",
+    "Boris Johnson.",
+    "Maths.",
+    "Invading Poland.",
+    "A robot.",
+    "Voting Green Party.",
+    "Bernie Sanders.",
+    "Japan.",
+    "Sport.",
+    "Socialism.",
+    "Yoga.",
+    "The internet.",
+    "Vegetarian options.",
+    "Atheism.",
+    "Meat eaters.",
+    "Avocados.",
+    "David Attenborough.",
+    "Jesus.",
+    "Richard Dawkings.",
+    "A balanced breakfast.",
+    "Jesus.",
+    "A supermassive black hole.",
+    "A millenial.",
+    "Goats.",
+    "An Irishman.",
+    "Magnets.",
+    "Gay.",
+    "Coronavirus.",
+    "Chemistry.",
+    "Science.",
+    "Facebook.",
+    "God.",
+    "Jeremy *unt.",
+    "Ghosts.",
+    "English.",
+    "Photosynthesis.",
+    "The Black Death.",
+    "The economy.",
+    "Stephen Hawking.",
+    "Creationism.",
+    "Oreos.",
+    "Basic human decency.",
+    "Jacob Rees-Mogg.",
+    "Clippy.",
+    "Your mum.",
+    "Global Warming.",
+    "Veganism.",
+    "Voting for Donald Trump to be President of the actual United States.",
+    "Her Majesty, Queen Elizabeth II.",
+    "Going vegan.",
+    "Velcro.",
+    "The American military.",
+    "The Go Compare man.",
+    "Walking into a glass door.",
+    "Blowing up Parliament.",
+    "The Former Soviet Union.",
+    "A hug.",
+    "Greta Thunberg.",
+    "The Y2K bug.",
+    "A saxophone solo.",
+    "Brexit.",
+    "A long business meeting with no obvious purpose.",
+    "Tap Dancing.",
+    "The Russians.",
+    "The dentist.",
+    "Tomasz Schafernaker.",
+    "Drugs.",
+    "Voting Tory.",
+    "World peace.",
+    "A USB stick found in a car park.",
+    "Horsemeat.",
+    "Hipsters.",
+    "Vegans.",
+    "The Tories.",
+    "Gen Z.",
+    "Voting UKIP.",
+    "Santa Claus.",
+    "A complete inability to understand anyone else's perspective.",
+    "A second referendum.",
+    "Hand Sanitizer.",
+    "CBeebies.",
+    "A Toyota Prius.",
+    "Blindly agreeing to the terms and conditions.",
+    "The French.",
+    "South America.",
+    "Mindfulness.",
+    "A spaceship.",
+    "Boomers.",
+    "The US.",
+    "The Big Bang.",
+    "A Super Soaker full of cat pee.",
+    "Pretending to care about the third world.",
+    "Posh people.",
+    "Africa.",
+    "A live studio audience.",
+    "The Strictly Come Dancing season finale.",
+    "Tables.",
+    "Eton College.",
+    "The Force.",
+    "Labour.",
+    "Eating meat.",
+    "Hillary Clinton.",
+    "The UN.",
+    "Nigel Farage.",
+    "Theresa May.",
+    "The North.",
+    "Chips and gravy.",
+    "The Daily Mail.",
+    "Giving money to a homeless person.",
+    "Dinosaurs.",
+    "Crushing the patriarchy.",
+    "The EDL.",
+    "Passive-aggressive Post-it notes.",
+    "The working class.",
+    "Poor people.",
+    "Barack Obama.",
+    "Homework.",
+    "Starting a podcast.",
+    "A zero-risk way to make $2,000 from home.",
+    "The Welsh.",
+    "The Lib Dems.",
+    "Donald Trump.",
+    "God.",
+    "A bag of magic beans.",
+    "Simultaneous diarrhea and vomiting.",
+    "COVID-19.",
+    "The NHS.",
+    "God.",
+    "Spaghetti.",
+    "The government.",
+    "A PowerPoint presentation.",
+    "Meditation.",
+    "The wifi password.",
+    "Vegan Sausage rolls.",
+    "Running up the down escalator, to no avail.",
+    "The communist manifesto.",
+    "Being knowledgeable in a narrow domain that nobody understands or cares about.",
+    "Germany.",
+    "A manhole.",
+    "Hungry seagulls.",
+    "A load of candy.",
+    "Pretending to care about poor people.",
+    "Poor.",
+    "Onions.",
+    "Avocado toast.",
+    "Immigrants.",
+    "Original Sin.",
+    "Damnation.",
+    "Native Americans.",
+    "Ed Balls.",
+    "A fart."
+  ],
+  "pack": {
+    "id": "X82PM",
+    "name": "Actually Family Friendly"
+  },
+  "quantity": {
+    "black": 101,
+    "white": 210,
+    "total": 311
+  },
+  "dateStoredMs": 1589483185464
+}

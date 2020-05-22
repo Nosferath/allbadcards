@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "Mamamoo, a 4 members girl group, who are talented and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solar can _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moonbyul is a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamamoo are Queens of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love Mamamoo because they _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A Bottom.",
+    "Fucking amazing, jaw dropping, legends.",
+    "Are really good and caring to the fandom, and I really look up to them.",
+    "Curing my depression and Talent.",
+    "Step on me."
+  ],
+  "pack": {
+    "id": "MZKCB",
+    "name": "Mamamoo"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 5,
+    "total": 10
+  },
+  "dateStoredMs": 1589509190939
+}

@@ -1,0 +1,136 @@
+{
+  "black": [
+    {
+      "content": "Wait, he does WHAT with _??!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You should be lucky I got _ , I could’ve bought you _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You go up to your room right now, mister! And no _ for a month!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your mother walks through the front door to find you on the couch with _ in your hand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, the tooth fairy will not accept _ as a bribe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Momma knows best when it comes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My son is having a temper tantrum and throwing _ all over the room!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Believe it or not, I did _ when I was your age.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, you can't have/do _ until you're older!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are NOT candy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not a toy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, it’s like a lemonade stand, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daddy's little _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You clean up this mess right now, or I’m taking away your _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my day, we didn’t have _ , we played with _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If your father sees you playing with _ , he's going to kill you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are going to eat your _ and like it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t need a babysitter, I need a _ sitter!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A NERF® gun.",
+    "Candy that changes your tongue green.",
+    "A toy train with one wheel missing.",
+    "Building blocks.",
+    "That one drawing of mommy and daddy “wrestling”.",
+    "Socks with kittens on them.",
+    "The monster under the bed.",
+    "A Radio Flyer® wagon.",
+    "Your brother’s underpants.",
+    "A pop-up book.",
+    "Mud pies.",
+    "An overindulgent allowance.",
+    "Innocence.",
+    "The Boogeyman.",
+    "Stuff on the internet that isn’t safe for children.",
+    "The lint in your bellybutton.",
+    "CD-ROMs you got from a game catalog.",
+    "Candy Land®.",
+    "A lock of your sister’s torn-out hair.",
+    "Grandma’s meatloaf.",
+    "The monster in the closet.",
+    "Diaper gravy.",
+    "A Hot Wheels™ play set.",
+    "A funhouse mirror.",
+    "All the spare change you found under the couch.",
+    "The monster under the stairs.",
+    "An Easy-Bake® Oven.",
+    "Made-up cuss words.",
+    "A nightmare you could swear was real.",
+    "High-fructose corn syrup."
+  ],
+  "pack": {
+    "id": "5abtf",
+    "name": "Soapy Mouth"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 30,
+    "total": 48
+  },
+  "dateStoredMs": 1588527760251
+}

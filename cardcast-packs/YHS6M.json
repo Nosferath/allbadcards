@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "Mit vinne magával Orbán Viktor a lakatlan szigetre? _-t.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Feri.",
+    "Anyád."
+  ],
+  "pack": {
+    "id": "YHS6M",
+    "name": "Magyar politika"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589142228045
+}

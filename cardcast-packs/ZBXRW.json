@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Your favorite anime is _? mine too!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your favorite anime is _?!?!? GET OUT!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope the second season of _ comes faster than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If only the weapon _ from the anime was real.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does _ get beat up in pretty much every episode?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I were in the anime _ , my favorite thing to do would be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I always thought _ was the worst anime ship, but then It got better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite part in the anime _ is when _ got rekt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I loved _ until I saw the anime _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Fairy Tale.",
+    "Kirito.",
+    "Flying.",
+    "Boku No Piku.",
+    "Flew.",
+    "Genos.",
+    "Attack On Titan.",
+    "One Piece.",
+    "One Punch Man.",
+    "Sword Art Online."
+  ],
+  "pack": {
+    "id": "ZBXRW",
+    "name": "Anime Deck"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 10,
+    "total": 19
+  },
+  "dateStoredMs": 1589461332808
+}

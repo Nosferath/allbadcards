@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "I don't wanna _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Young Adolf had always loved _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you know that 1 in 10 people are _ , I am that 1.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was just bitch slapped by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just _ in Wal-Mart.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dude, did you  just _ a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you know _ did porn?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing in the world has to be  _  . LoL",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "10 gallons of  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mommy, why is daddy such a(n) _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need about 10 _ in my hand by the end of the day, alright Tim?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bet I could _ a _ blank better than you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "For fucks sake don't _ in the house.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hope you don't mind, I used your _ as lube.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sexy Holocaust gas chamber porn.",
+    "Being a toaster.",
+    "Two cavemen fucking the shit out of a dead animal corpse.",
+    "Using your superior video game knowledge to survive an apocalypse.",
+    "Losing your virginity to a toaster.",
+    "Aborting your 46 year old, fat, loser son.",
+    "Butterscotch pudding.",
+    "Unshaven pussy.",
+    "Using a dead baby as a suppressor for your sniper.",
+    "Sucking Hitler's dick to make sure he is not faking being dead."
+  ],
+  "pack": {
+    "id": "2v2wp",
+    "name": "Deck 2.0"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 10,
+    "total": 24
+  },
+  "dateStoredMs": 1588881630250
+}

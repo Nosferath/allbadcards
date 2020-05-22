@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Grandma Patty just came out. She's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's gay culture? _ is gay culture!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Excuse me, straight man, but _ isn't for you, STRAIGHT MAN.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hottest thing to get at the Pride Parade is totally _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the worst thing at the Pride Parade.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're here, We're _! Get used to it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can't love yourself, how the hell you gonna love _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being Gay.",
+    "Straight pride.",
+    "Being misgendered.",
+    "They're lesbians, Harold.",
+    "Polyamory.",
+    "Being Straight.",
+    "Being Nonbinary.",
+    "Whatever straight people do for fun.",
+    "Could be gayer.",
+    "Older fitness gays.",
+    "Whatever straight people do for fun.",
+    "A twink in a bounce house.",
+    "Being Trans.",
+    "Being Aromantic.",
+    "Coming out for the millionth time.",
+    "The pride parade.",
+    "Being a lesbian.",
+    "A pride parade of 90 year old women.",
+    "The mall elderly fitness club. Gays only.",
+    "Guys, gals and nonbinary pals.",
+    "Biphobia within the LGBT community.",
+    "Gays.",
+    "Yaaaaaaaaaaaaaaaaaas slay kweeeeen <3 <3 <3 <3 <3 <3 <3.",
+    "Lesbians.",
+    "\"Who's the man?\".",
+    "Being Asexual.",
+    "Heterosexuals.",
+    "Homophobic children.",
+    "Bisexuals.",
+    "Being Bisexual.",
+    "Being Pansexual.",
+    "Demisexuals.",
+    "Omnisexuals.",
+    "Pansexuals.",
+    "Karen, the local homophobe.",
+    "Homosexuals.",
+    "Polysexuals.",
+    "Asexuals.",
+    "Seething homophobia."
+  ],
+  "pack": {
+    "id": "65bxk",
+    "name": "pride pack"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 39,
+    "total": 46
+  },
+  "dateStoredMs": 1588333355050
+}

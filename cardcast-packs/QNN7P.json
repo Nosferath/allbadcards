@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "What Am I really Good At? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do I do for a living? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being Straight.",
+    "Sucking dick."
+  ],
+  "pack": {
+    "id": "QNN7P",
+    "name": "Terrorism"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588716929271
+}

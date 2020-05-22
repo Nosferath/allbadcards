@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "My favorite disney character is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder if Rapunzel's hair is long enough to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you really believe them when they told you about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my daddy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a lot of _ in Disney movies.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing about Disney is _ and the worst is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Under the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe Cinderella ran off with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I strongly believe that Aladin was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ I would hit dat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The little mermaid was almost as unrealistic as _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Someone tall, dark, and handsome.",
+    "A magic carpet with a  lot of attitude.",
+    "Prince Charming.",
+    "A crybaby.",
+    "Snow White.",
+    "Cinderella.",
+    "Mushu.",
+    "A bunch of animals willing to help you dress in the morning.",
+    "Jasmine.",
+    "Live in France but not speak french ever except to say bonjour.",
+    "Jafar.",
+    "Someone falling in love with me.",
+    "Sea.",
+    "Ariel.",
+    "A toad that strongly resembles a prince.",
+    "Mulan.",
+    "The guy with the face, and hair, and stuff like that.",
+    "Reach my unrealistic life goals.",
+    "A bunch of animals willing to help you dress in the morning."
+  ],
+  "pack": {
+    "id": "VF86D",
+    "name": "Disney"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 19,
+    "total": 30
+  },
+  "dateStoredMs": 1589570555485
+}

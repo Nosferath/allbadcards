@@ -1,0 +1,116 @@
+{
+  "black": [
+    {
+      "content": "To było suche jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiedziałem, że _ to najlepszy prezent na urodziny!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy masz jakieś szanse z _ , który współpracuje z _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam zapisane zebranie o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mam nadzieję, że w parlamencie uda mi się zobaczyć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzieci, dzisiaj zrobimy _ na temat _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czyżby to był _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak zawsze! Znowu w _ rozpoczęła się afera o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Jesteś jedynym któremu można zaufać!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzisiaj leci: Teksańska masakra _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Dzisiejszy tryb nowego życia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Codziennie na kanale _ , można zaobserwować _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oblicz pierwiastek z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. To było najlepsze miejsce na świecie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podobno w 2020 ma rozpocząć się turniej _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jacku, podejdź do tablicy. _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pięty Mojżesza.",
+    "Harry Potta.",
+    "KFC kurwa.",
+    "Rodzice.",
+    "Lekcje tańca z batmanem.",
+    "Ogórek.",
+    "Da Vinci.",
+    "Jamnik skaczący na wczorajszym orgaźmie.",
+    "Zdzisiek z klanu.",
+    "Barbie.",
+    "Diamentowy napletek.",
+    "Żryj glizdę.",
+    "Tramwaj pełen małych dzieci.",
+    "Zakrwawiony poślad.",
+    "Koty w piwnicy.",
+    "Tusk jadący na wózku inwalidzkim.",
+    "Putin.",
+    "Konwój jeźdźców.",
+    "Pćiąąąąąg.",
+    "Kutaz kozła."
+  ],
+  "pack": {
+    "id": "9FGZF",
+    "name": "Polish wtf"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 20,
+    "total": 36
+  },
+  "dateStoredMs": 1588607420905
+}

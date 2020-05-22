@@ -1,0 +1,31 @@
+{
+  "black": [
+    {
+      "content": "9/11 happened because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does cancer patients like?  _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "African kids with aids.",
+    "Nigger('s).",
+    "Anal pleasure.",
+    "Monty's left ballsack.",
+    "Hentai."
+  ],
+  "pack": {
+    "id": "HP2BQ",
+    "name": "gore shit"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 5,
+    "total": 7
+  },
+  "dateStoredMs": 1588718960103
+}

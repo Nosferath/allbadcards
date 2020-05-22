@@ -1,0 +1,136 @@
+{
+  "black": [
+    {
+      "content": "In a strange response to the coronaviruses, frenzied shoppers have emptied stores of their _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Among coughing, fever, and pressure in the chest, scientists are now seeing _ may possibly be a symptom of the coronavirus!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This just in: conspiracy theorists claim the coronavirus is actually caused by _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In response to the coronavirus, Uber Eats has begun providing deliveries for other necessary items, like toilet paper, and _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Personally, I think places that sell _ should definitely be considered essential businesses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been so isolated that I'm starting to miss the outside world... Yes, I even miss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Facebook, _ can prevent coronavirus!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During the pandemic, some desperate Americans have resorted to using _ as toilet paper!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New studies show _ are actually at a higher risk of catching the coronavirus than average!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, _ does NOT help prevent against the coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To prevent COVID-19, first they tell us to wash our hands, then they tell us not to cough on other people! What'll we be doing next, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I may be in quarantine, but at least I still have plenty of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stuck in quarantine? Check out my show! It's called cooking with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Preparing for quarantine? Make sure you're stocked up on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world may seem like it's ending, but don't panic! Just sit back and think about _ while your worries melt away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In quarantine, even _ can be a source of entertainment.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, ma'am, eating _ will not protect you from the coronavirus.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "6 feet of distance.",
+    "Secretly wanting to get the Coronavirus.",
+    "Working from home.",
+    "The overwhelming feeling of depressive isolation.",
+    "Proper social distancing.",
+    "A COVID-19 test.",
+    "A cat wearing a face mask.",
+    "Forgetting what other people look and sound like.",
+    "Coronavirus-Chan.",
+    "Social AND emotional distancing.",
+    "Toilet paper.",
+    "Coughing on people to be an asshole.",
+    "One of the kitty face masks.",
+    "A germ-covered airplane toilet seat.",
+    "America's crumbling healthcare system.",
+    "The CDC.",
+    "Washing your hands for at least 20 seconds.",
+    "Being ordered to shelter in place.",
+    "The coronavirus.",
+    "A cure for Coronavirus.",
+    "A thick, scraggly quarantine beard.",
+    "Gatherings of 10 people or less.",
+    "ZOOM+ meetings.",
+    "Fever, cough, and shortness of breath.",
+    "5G conspiracy theories.",
+    "Adequate medical care.",
+    "Good hygiene.",
+    "Trying to not think about the Coronavirus for 5 minutes.",
+    "Bleach wipes.",
+    "Coronavirus memes.",
+    "Them coronaviruses.",
+    "Hand sanitizer.",
+    "Anyone who works in the medical industry.",
+    "Doing absolutely nothing to prevent the spread of the coronavirus.",
+    "Prescribing hydroxychloroquine to a COVID-19 patient."
+  ],
+  "pack": {
+    "id": "TZRDW",
+    "name": "COVID-19"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 35,
+    "total": 52
+  },
+  "dateStoredMs": 1589501075019
+}

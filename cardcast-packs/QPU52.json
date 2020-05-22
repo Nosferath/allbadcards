@@ -1,0 +1,203 @@
+{
+  "black": [
+    {
+      "content": "Little known fact: Albert once tried _ and absolutely hated it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing better than Clojure is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our next hire will be _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In response to Biffy peeing on his bag again, Levi resorted to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sakay.ph, but with fewer jeeps and more _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will definitely swipe right on _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part about going to an exclusive high school for boys is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next mandatory fun day will involve _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prod died because of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wil's next cooking experiment: _ and _ , combined!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Our investors tend to give us plenty of money and _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Something we actually like about the government: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next feature we need to build is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before Sakay.ph, there was/were _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The office can definitely use more of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Philip's next talk will be about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kenneth's favorite toy is actually _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next trending topic for Viber titas will be _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would never, ever, ever, ever swipe right on _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, Phi. We replaced your iMac with _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "22 Castrillo.",
+    "MARK OF THE BEAST CORONA 5G VACCINE WITH RFID CHIP.",
+    "Carla.",
+    "Your coworker's dog's pee.",
+    "Illegal jeepney stops.",
+    "@_phi.",
+    "Sakay employees, but wholesome.",
+    "Oscar, but with longer limbs.",
+    "A coffee press that permanently tastes of illicit substances.",
+    "Five clones of Paopei.",
+    "Interns ordering food every 30 minutes.",
+    "Melvin \"Yikes\" Mendoza.",
+    "Debilitating shoulder pain.",
+    "Ateneo de Manila University.",
+    "F A T B O I.",
+    "Community quarantine.",
+    "Standup announcements.",
+    "Biffy.",
+    "Philpo Michly Chung.",
+    "BUS LIGHTYEAR.",
+    "Boy Butter.",
+    "Alex the Russian.",
+    "MRT-3 Araneta-Cubao Station.",
+    "Philip Michael A. Cheang.",
+    "Oscar's undying devotion to Philip Michael A. Cheang.",
+    "P. DUTS.",
+    "Hammy the hamster.",
+    "Philippine public transport.",
+    "Useless meetings.",
+    "A bunch of 20-30 year old nerds working at a startup.",
+    "MMARRS.",
+    "Don Hulyo Hot Sauce™.",
+    "Dish dryers that can actually handle plastic.",
+    "A Kenneth knife.",
+    "Philip Michael A. Cheang.",
+    "Philip Michael A. Cheang.",
+    "Yet another P90X session with Levi, Enzo, and Melvin.",
+    "Philip Michael A. Cheang.",
+    "Chicken nuggets without bbq sauce.",
+    "Bumble strim.",
+    "Enzo's successful Bumble career.",
+    "Functionality.",
+    "Albus Dumalus.",
+    "Interns.",
+    "Your ex who kicked you then handed you a pastry in the middle of the mall.",
+    "Planting some kamote in the backyard.",
+    "Entitled critters.",
+    "Filif Nichel Shang.",
+    "People who develop lousy apps.",
+    "Xavier High School.",
+    "Failed transportation startups.",
+    "P. Tamo!!!!!!.",
+    "Lakad.ph.",
+    "Rodrick Tan's graduate schooling.",
+    "Jeeps.",
+    "Discovering that you and your co-worker are related.",
+    "Tropical Hut Hamburger.",
+    "Not just any toilet paper, but Darren Toilet Paper.",
+    "Racist millennials.",
+    "The Greatest Design Mind™.",
+    "CORS errors.",
+    "Sakay.ph.",
+    "Android developers.",
+    "Jonathan Jescon's Bizzarre Adventures.",
+    "\"PLEASE CLICK\".",
+    "A Sakay founder (who will remain anonymous for personal reasons).",
+    "Physics Cheang.",
+    "Silvanas.",
+    "Hawaiian pizza with no ham.",
+    "UI designers.",
+    "Error Type: OUTSIDE COVERAGE.",
+    "MARMOL.",
+    "Bad shawarma from the Philippines.",
+    "Growing up with with asian parents.",
+    "Levi's teeth.",
+    "{{ Levi Tan Ong }}.",
+    "Potato Corner.",
+    "Twizzlers.",
+    "Phidback Cheang.",
+    "K-POOP.",
+    "Harassment.",
+    "Badly-documented code.",
+    "Ketchup shrine.",
+    "Yet another pitch deck.",
+    "Food crumbs on our desks.",
+    "The government.",
+    "E-trikes."
+  ],
+  "pack": {
+    "id": "QPU52",
+    "name": "sadkay.ph"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 87,
+    "total": 107
+  },
+  "dateStoredMs": 1589544750874
+}

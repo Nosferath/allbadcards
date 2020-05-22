@@ -1,0 +1,615 @@
+{
+  "black": [
+    {
+      "content": "Dust, when combined with _, can produce _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The first thing Yang saw when she looked up at the screen was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Little did anybody suspect that _ was actually Neo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ozpin whispers to Glynda, \"I need _ and I can only get it from you\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "General Ironwood has just unveiled Atlas' newest, most unconventional weapon to date: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nora decided to kick off her reign as Queen of the Castle with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Grimm need to be a bigger threat. They need to be more like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Faunus tend to be better at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know, Miss Rose, _ is a lot like fighting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The advantage the faunus had over General Legune's forces was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in Velvet's box? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I still don't think that's what a _ sounds like.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Yang & Blake get married, Tai & Ghira each agree to provide a dowry. Tai's is _ and Ghira's is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's under Yang's shirt? Well, clearly it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Yang enters the club, all Junior can think about is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've made more mistakes than any man, woman, and _ on this planet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yang's dad found Zwei out in the back yard digging up a buried _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pyrrha's next scheme to win Jaune's attention involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Roman plans to unleash _ upon the city.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate this game of _ we play!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What else did Yang break when she punched Mercury? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yang hides _ in her cleavage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you get Qrow drunk enough, he'll talk about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Queen of the Castle!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qrow's hip-flask really has _ in it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By far, the craziest thing Emerald has made anyone see is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is more terrifying than a Grimm.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schnee, we'll discuss _ back on my ship.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weiss' summon is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What IS Ozpin's Semblance? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Justice will be swift. Justice will be painful. It will be _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dreadful, simply dreadful! It's precisely this kind of _ that breeds _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What else did Qrow teach Ruby? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not _ if it's a faunus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody would believe her, but it was true. Yang had seen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Calm down, we're not here for your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is all the syrup gone? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a _, sweetheart. Pay attention, you might learn something.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wants Glynda Goodwitch's _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nora's massive amount of energy is fueled by _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prof. Port once used _ to defeat a Beowolf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qrow would rather quit drinking than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My landing strategy is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the next World of Remnant we'll learn about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is too OP, please nerf.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yang Xiao Long, prepare your kingdom for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes Ruby wet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in Oobleck's thermos? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What keeps Weiss up at night? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oobleck really drinks _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If they really wanted the faunus to look more oppressed, they'd show more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nora's new recent obsession is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The prize for winning the Vytal Festival Tournament has been announced! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _'s weapon.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is what actually broke the moon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unknown to all, Shopkeep is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pyrrha's favorite workout consists mainly of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For it is in passing that we achieve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tukson didn't have a book about _ in his store.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just destroyed my favorite _. Prepare to die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Atlas has made it a priority to remove _ from the battlefield.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damn it, Roman! Pressing random buttons in Ironwood's ship caused _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a dick to trees.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Corny puns.",
+    "Cinder the Ship Sinker.",
+    "Putting Jaune in a dress and pegging his butt.",
+    "The Achieve Men.",
+    "MoonSlice.",
+    "A giant Nevermore.",
+    "Penny's incident with the magnet.",
+    "Sending a Welsh corgi in the mail.",
+    "Getting kicked in the face with Mercury's rocket legs.",
+    "Jaune's acoustic guitar.",
+    "Whole-team orgies.",
+    "Nora's collection of femur fragments.",
+    "Prof. Lionheart's majestic mane.",
+    "*sloth noises*.",
+    "\"the Times I Saved Jaune: an Anthology\" by: Pyrrha Nikos.",
+    "Something that isn't the relic.",
+    "Sun struggling to NOT break the 4th wall.",
+    "Jaune swearing in French.",
+    "Motorcycles.",
+    "Human/Faunus relationships.",
+    "Nora's melons.",
+    "Stumpy Yang.",
+    "Weiss freezing the swimming-pool so she can practise ice-skating.",
+    "Pumpkin Pete's Marshmallow Flakes.",
+    "Questionable business practises.",
+    "Beer semblance.",
+    "Ice Queen.",
+    "Jaune Arc's Spanish cousin, Juane Arc.",
+    "Fox's hustle.",
+    "Beacon proving its progressiveness by installing litterboxes for faunus students.",
+    "Teasing Blake with a laser-pointer.",
+    "Combat skirts.",
+    "Ghira Belladonna's carpet of virility.",
+    "Running along walls.",
+    "That time Yang's mom went out for cigarettes and never came back.",
+    "Zwei's butt.",
+    "Slipping on ketchup.",
+    "DMND, a Nigerian knockoff of RWBY.",
+    "The burning wreck of S. S. Arkos.",
+    "OP war bunny.",
+    "Sun's well-toned pecs.",
+    "Snow Angel.",
+    "Ruby finally getting \"the talk\".",
+    "Being part of a cult or something.",
+    "A big, black Grimm.",
+    "Cinder the Spy.",
+    "Blake riding a Roomba.",
+    "The entire Atlesian military.",
+    "Jaune & Pyrrha's \"training\" sessions.",
+    "Winter's sass.",
+    "Neptune's latex allergy.",
+    "Blake in heat.",
+    "Emerald's delicious brown skin.",
+    "Blake's faunus reveal.",
+    "Ruining Junior's life on a weekly basis.",
+    "The secret vibration function on Yang's prosthetic arm.",
+    "This game of emotions we play.",
+    "Zwei cosplaying as a Beowolf.",
+    "Large trains.",
+    "Being Yangry.",
+    "Whoever threw salad at Glynda.",
+    "Being cryptic and enigmatic just to mess with students and staff.",
+    "Neo's super-secret ice-cream stash.",
+    "Co-ed dorm rooms for teenagers.",
+    "Team DERP.",
+    "Yang's bewbies.",
+    "One brick of Vacuan black-dust heroin.",
+    "Giving Blake a ball of yarn to play with.",
+    "200 ounces of Vale's finest tuna.",
+    "The guns built into Mercury's bionic feet.",
+    "Yang's severed arm.",
+    "Velvet in heat.",
+    "Ruby learning about the changes in her body.",
+    "Jaune's footie-pajamas.",
+    "Massive Aura.",
+    "The General's iron wood.",
+    "Explosive sneezes.",
+    "Tipping Adam Taurus over when he's asleep.",
+    "Goodwitch in a succubus costume.",
+    "Penny's scraps.",
+    "All of the hair product used by Team SSSN.",
+    "Destroying Coco's favorite clothing store.",
+    "Using a swordfish as an actual sword.",
+    "The vise-like grip of Glynda's thighs.",
+    "Team EDGE.",
+    "Dr. Oobleck's thermos.",
+    "Blake hissing at Zwei.",
+    "The button in Ozpin's office that only he knows the purpose of.",
+    "Grimm dancing.",
+    "Ridiculously high cupboards.",
+    "A Beowolf cosplaying as Zwei.",
+    "Hunting faunus for sport.",
+    "Faunus relocation camps.",
+    "The brightest banana in the bunch.",
+    "Blake on catnip.",
+    "Boop!.",
+    "The oddly phallic looking chair at Ozpin's desk.",
+    "Nora wearing Ren's boxers.",
+    "Ozpin's swag-tastic spectacles.",
+    "Penny's bodycount.",
+    "One tentacle shy of being a completely in a completely different genre of anime.",
+    "Getting hammered with Nora.",
+    "Competitive Ursa riding.",
+    "Not needing to reload.",
+    "Using hypnotism to relieve Yang of her phantom limb-pain.",
+    "Team Hot 'n Useless.",
+    "Penny's last process before her death.",
+    "Qrow's booze.",
+    "Activating Yang's trap-card.",
+    "Grimm masks.",
+    "Oobleck's friction burns.",
+    "Seven Beowolves in heat, at a minimum.",
+    "Yang having more cleavage than a flawless diamond.",
+    "Neptune's fear of water.",
+    "A chainsaw chaingun with a long sharpened chain of ammo.",
+    "Weiss' casual racism.",
+    "Nora's thunder-thighs.",
+    "Blake purring while Yang scratches just behind her cat-ears.",
+    "Stealing the last life-jacket from Neptune.",
+    "Velvet's legion of offspring.",
+    "Ninjas of Love.",
+    "Blake's smut stash.",
+    "Oobleck on a treadmill.",
+    "Soul-crushing regret?.",
+    "Inquiring about the age-of-consent in Remnant for \"reasons\".",
+    "The omnipresent shopkeeper.",
+    "The countless hours of Faunus labor used to make this deck.",
+    "Velvet's inexplicable accent.",
+    "Ruby cumming rose-petals all over Weiss' face.",
+    "Cinder's roof-run animation.",
+    "Cinder's skintight spy catsuit.",
+    "Zwei barking at Blake.",
+    "Sun Wukong's gunchuks.",
+    "Neo, the ice-cream dwarf.",
+    "Faunus mating rituals.",
+    "Neptune's Electrified Trident.",
+    "Ruby's weapon-fetish.",
+    "Fox waveshining an Ursa.",
+    "Team KPOP.",
+    "Torchwick's torchdick.",
+    "Going Super Sai-yang.",
+    "Prof. Port's axe.",
+    "General Ironwood's compensation.",
+    "Grimm mating rituals.",
+    "Mercury, the new black.",
+    "Weiss' delicious flat chest.",
+    "Swimming-lessons with Neptune.",
+    "Getting punched through two concrete pillars.",
+    "That motorcycle that Yang used, like, twice.",
+    "X-ray and Vav.",
+    "Making Port & Oobleck dress as plumbers for halloween.",
+    "Junior's crushed testicles.",
+    "Getting your monologue interrupted by a hungry grimm.",
+    "An underground UNDERGROUND crime network.",
+    "Penny on a roomba.",
+    "Getting beat up by a little girl.",
+    "Pyrrha Nikos using her polarity to control your pole.",
+    "Anti-upskirt technology.",
+    "Cardin's large, thick, majestic mace.",
+    "Converting Penny into Farthings.",
+    "A very large beowolf just around the corner.",
+    "The Bellabooty.",
+    "Weiss' latex panties.",
+    "Neptune's inability to dance.",
+    "A bigger, blacker Grimm.",
+    "Glynda's riding-crop.",
+    "Zwei riding a Roomba.",
+    "Fulatto mutts.",
+    "Roman Torchwick's fabulous guy-liner.",
+    "Glynda as a kinky dominatrix.",
+    "Glynda disciplining you.",
+    "Explosions. Explosions? Explosions!.",
+    "Summer Rose's grave.",
+    "Using turkeys as boxing gloves.",
+    "A box of rapier wasps.",
+    "Trying to find chess pieces in the middle of a forest.",
+    "That one lamppost Zwei peed on.",
+    "So many gears.",
+    "Rocket propelled lockers.",
+    "Sun's washboard abs.",
+    "Port's wonderbuss.",
+    "A really unnecessary food-fight.",
+    "Blake seeing Ed Elric from behind and mistaking him for Yang.",
+    "Raven Branwen's misanthropy.",
+    "That board-game Team RWBY played in the library.",
+    "Goodwitch & Ironwood's love/hate relationship.",
+    "Roman Torchwick's sweet bowler hat.",
+    "The secret erotica shelves in the back room of Tukson's Book Trade.",
+    "The biggest, blackest Grimm.",
+    "Yang's discount vasectomy service.",
+    "Tea time with Winter.",
+    "Roman Torchwick's VTOL-summoning semblance.",
+    "Qrow's hip-flask.",
+    "Yang & Blake's daughter from the future.",
+    "Getting kicked in the nuts by Coco.",
+    "Something that's almost the relic.",
+    "Popping popcorn with your own fingers.",
+    "Accidentally setting the mood when rose-petals fall out of your cape.",
+    "Yang crushing Junior's wang.",
+    "Stopping trains.",
+    "Atlas' military might.",
+    "Yatsu's rabbit-stuffer.",
+    "A coffee drinking contest between Ozpin and Oobleck.",
+    "Spraying Blake with a water-bottle to house-break her.",
+    "Snorting dust to get high.",
+    "Roman's sarcasm.",
+    "Team CVNT.",
+    "Jaune dressed in drag.",
+    "Jaune dressed in drag.",
+    "Team BOOB.",
+    "Humoring Jaune's torch.",
+    "Sun & Neptune's buddy-cop hijinks.",
+    "*sipping noises*.",
+    "Jaune playing guitar.",
+    "Patented anti-upskirt technology.",
+    "The secret \"vibrate\" function on Glynda's riding crop.",
+    "Ren's pancakes.",
+    "Yanking on Velvet's ears to see if they're real.",
+    "Blake getting gangbanged by Sun's clones.",
+    "A class-action lawsuit against the Schnee Dust Company.",
+    "Qrow's weakness for short skirts.",
+    "The tiny, tired hands of the faunus child who made this card.",
+    "Being top-heavy.",
+    "Getting shoved into a rocket propelled locker.",
+    "Cutting the cameras.",
+    "Neo, the eternal ice-cream goddess.",
+    "Weiss' vibrating panties.",
+    "Using glyphs in the bedroom.",
+    "Blake in heat.",
+    "The toughest bread you'll ever see.",
+    "Blake shopping at Petsmart.",
+    "Baguette swords.",
+    "Oobleck getting whiplash simply by moving.",
+    "Crater Face.",
+    "Gagging Cinder.",
+    "Eating at A Simple Wok.",
+    "Blake's catnip  stash.",
+    "A faunus zoo.",
+    "Being stepped on by Coco.",
+    "Calling a trashcan a trashcan.",
+    "Donating all of Weiss' allowance to a Faunus Lives Matter fundraiser.",
+    "Faunus rights.",
+    "Being a great stowaway.",
+    "Banesaw.",
+    "*dramatic coffee sipping*.",
+    "Mating season in Menagerie.",
+    "Big Schnee Dust Company freighters.",
+    "Nora dual-wielding gravity hammers.",
+    "Vomit Boy.",
+    "A filthy faunus.",
+    "Blake doing cat things.",
+    "Finding out Neo's full name is actually Neosporin.",
+    "Qrow's substance-abuse problem.",
+    "Unstable bunk beds.",
+    "Being \"Together-together\".",
+    "Ren stuck in eternal nudity.",
+    "Being covered in sap.",
+    "Glynda's sexual frustration.",
+    "Weiss' gloryhole.",
+    "Neo disguised as a sexy nurse.",
+    "A motherfucking dragon Grimm.",
+    "Crescent Rose's vibrator function.",
+    "Sun's tight arse.",
+    "Beacon's sex-ed teacher.",
+    "Neptune's porn stash.",
+    "Using Velvet's camera and semblance to copy sex-positions.",
+    "Team ARSE.",
+    "Whatever the hell is in Ozpin's mug.",
+    "Watching Ruby waste away from lung-cancer after inhaling some of Pyrrha's ashes.",
+    "Sweaty Greek tits.",
+    "Barb's blaked penis.",
+    "A Dust-powered vibrator.",
+    "Qrow, Glynda & Ruby getting bitched at by Edna Mode for wearing capes.",
+    "Tai naming his daughter after himself in a rare moment of narcissism.",
+    "Getting bitchslapped by Winter Schnee.",
+    "Little Shitley.",
+    "Throwing a declined credit card like a fucking shuriken.",
+    "Grimm hentai.",
+    "Blake's barbed penis.",
+    "Turkey fisting.",
+    "Pissing on Summer Rose's grave.",
+    "Teaching Penny about the birds and the bees.",
+    "Ironwood's bionic dick.",
+    "Being a motherfucking Maiden."
+  ],
+  "pack": {
+    "id": "HN3JX",
+    "name": "Cards Against Remnant"
+  },
+  "quantity": {
+    "black": 63,
+    "white": 284,
+    "total": 347
+  },
+  "dateStoredMs": 1588897493203
+}

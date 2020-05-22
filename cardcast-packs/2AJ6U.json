@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "The Old Firm is determined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jimmy Savile was an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The SNP Promise in their new policy that _ will now be a punishable felony.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Here comes the bride, all dressed in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I won the sports day events by drinking _ and eating _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Dundee City Council.",
+    "Naw, Naw. Thats nae me.",
+    "A six pack... of tennents.",
+    "Brechin City Ultras.",
+    "Anal fisting.",
+    "Sexy children.",
+    "Andy Murray.",
+    "Pehs.",
+    "Lots and lots and lots of wankstains.",
+    "Brechin High School.",
+    "A six pack... of Irn-Bru.",
+    "Fanny.",
+    "You stink o' shite pal.",
+    "Gary Anderson.",
+    "A respectable irishman and a sweaty englishman.",
+    "Kenny Dalgleish.",
+    "Take that big fat cock you small whore.",
+    "Fat cow.",
+    "Hampden Park.",
+    "Junkie road."
+  ],
+  "pack": {
+    "id": "2AJ6U",
+    "name": "Cards Against Scotland: Second Edition"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 20,
+    "total": 25
+  },
+  "dateStoredMs": 1589079581312
+}

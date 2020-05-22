@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "I hope you get _ by a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Father says I'm too young to train with a sword, so I practice with my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boys, _ , _ , there's nobody I won't fight!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I help my _ in more ways than people realize.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am sworn to carry your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Either you're _ or I'm _. Maybe both.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Another adventurer, here to lick my father's _. Good job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the _ shall fear the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A woman charges into battle with weapon drawn while the guards sit back and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come to Dragonsreach to discuss the _ like the rest of the great warriors?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dragonborn huh? Was it your _ or your _ that was the dragon?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "XUZER",
+    "name": "Skyrim Themed Calls."
+  },
+  "quantity": {
+    "black": 11,
+    "white": 0,
+    "total": 11
+  },
+  "dateStoredMs": 1589570877889
+}

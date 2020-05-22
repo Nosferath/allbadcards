@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "The truth serum caused me to spill embarassing secrets about _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jeanine Matthews.",
+    "Four.",
+    "Truth serum.",
+    "Veronica Roth.",
+    "Candor.",
+    "Abnegation.",
+    "Dauntless.",
+    "The factionless.",
+    "Amity.",
+    "Erudite.",
+    "Tris Prior.",
+    "Evelyn Eaton."
+  ],
+  "pack": {
+    "id": "UWW2J",
+    "name": "Divergents Against Humanity"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 12,
+    "total": 13
+  },
+  "dateStoredMs": 1589230459062
+}

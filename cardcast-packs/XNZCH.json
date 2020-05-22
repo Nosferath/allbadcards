@@ -1,0 +1,192 @@
+{
+  "black": [
+    {
+      "content": "Damnit Jim! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space is disease and danger wrapped in _ and silence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Vulcan Science Council does not believe in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you want to stay safe from _, you definitely need _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are four _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, fascinating.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on: Cooking and More with Neelix! This episode features: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's _ Jim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Captain Kirk promoted to Admiral? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I wanted was a chicken sandwich and some coffee, but the replicator gave me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Trek III: The Search for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "War, what is it good for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Force is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Captain's log, Stardate 49419.2 Today was the worst because my first officer engaged in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space is disease and _ wrapped in darkness and silence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space is disease and danger wrapped in darkness and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The storage compartments on Space Station K-7 are full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Space is _ and danger wrapped in darkness and silence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the sake of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't believe in _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cooking with Neelix.",
+    "Ferengi Beetle Snuff.",
+    "Leaving your tricorder flap open.",
+    "Disease and danger wrapped in darkness and silence.",
+    "Quark's Bar and Fine Gambling Establishment!.",
+    "Illegal genetic experimentation.",
+    "Running.",
+    "Starfleet Command.",
+    "A cat.",
+    "Vegetarianism.",
+    "Montgomery \"Scotty\" Scot.",
+    "Hikuru Sulu.",
+    "Maturation chambers.",
+    "Starfleet Academy.",
+    "Klingon honour!.",
+    "Daleks.",
+    "Murdering redshirts.",
+    "Time travel.",
+    "Romulan Ale.",
+    "Pavel Chekov.",
+    "A Vulcan experiencing emotions.",
+    "Section 31.",
+    "The Enterprise, NCC-1701-J.",
+    "Disease.",
+    "The Enterprise, NCC-1701.",
+    "The Enterprise, NCC-1701-A.",
+    "Section 31.",
+    "The Enterprise, NCC-1701-B.",
+    "Devastating crop famine.",
+    "A hole... in space.",
+    "Spying on the Klingons and accidentally giving away your position because you sneezed.",
+    "Borg nanoprobes.",
+    "A fleet of Klingon Warbirds.",
+    "Ponn far.",
+    "A chicken sandwich and some coffee.",
+    "The Enterprise, NCC-1701-C.",
+    "Storage compartments.",
+    "Tribbles. So many Tribbles.",
+    "If you ask me, absolutely nothing.",
+    "The no-win scenario.",
+    "Sybok's new plan.",
+    "Jim Kirk.",
+    "Danger.",
+    "Nyota Uhura.",
+    "TARDIS-ing.",
+    "Vegetarianism.",
+    "Spock.",
+    "KHAAAAAAANNN!!!.",
+    "A fleet of Romulan Warbirds.",
+    "A ship overrun by Tribbles.",
+    "The Enterprise, NX-01.",
+    "Sex with nanoprobes.",
+    "Paluckoo.",
+    "The prime directive.",
+    "A priority red alpha mission for the Obsidian Order.",
+    "Montgomery \"Scotty\" Scot.",
+    "Spying on the Klingons and accidentally giving away your position because you sneezed.",
+    "Sexy times.",
+    "Spots.",
+    "Being friendly with the natives.",
+    "\"Blingons\".",
+    "Leonard \"Bones\" McCoy.",
+    "Veganism.",
+    "Being out of your Vulcan mind.",
+    "The Enterprise, NCC-1701-E.",
+    "The Borg.",
+    "Darkness.",
+    "Trill gender-bending.",
+    "Not giving a fuck about the Prime Directive.",
+    "The Enterprise, NCC-1701-D.",
+    "Silence."
+  ],
+  "pack": {
+    "id": "XNZCH",
+    "name": "Ultimate Nerd-out"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 71,
+    "total": 92
+  },
+  "dateStoredMs": 1588616201281
+}

@@ -1,0 +1,593 @@
+{
+  "black": [
+    {
+      "content": "Where did _ touch you?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar drowned while trying to escape from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help! I can't see without _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sean Murray lied about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest Vine fad will be someone flipping _ onto _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm _ which is another term for anime freak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you dig under your couch cushions, you might find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHITE PEOPLE BE LIKE _. BLACK PEOPLE BE LIKE _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He blew off all his money on a painting of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When he shined a black light into his parent's room, he discovered stains of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KONO _ DA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only explanation for the murder of _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hello, can I have a _ _ smoothie and a large fry?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you are all out of options, resort to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've heard that if you own _ in North Korea you can be sentenced to death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When we run out of fossil fuels, the world will rely on _ for its new source of energy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GOMU GOMU NO _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the powerhouse of the cell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a rip off of UnderTale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Ed's latest scam, they used _ and _ to get a hold of some jawbreakers.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You can now play as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BLACK _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Brokeback Mountain\", starring _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The year is 20XX. Everyone plays _ at TAS levels of perfection. Because of this, the winner of a match depends solely on _. The _ metagame has evolved to ridiculous levels due to it being the only remaining factor to decide matches.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What do you call a starving African child? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is a dance move I call \"The _\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best character in Minecraft: Story Mode was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lauren Duke deleted her twitter account because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who? What? When? Were? Why? _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar likes to do _ in their free time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ injures _ and leaves him to die.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Top 10 Movies Based Off _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And that is why I gave the Pope _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-flavored Kool-Aid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A bunch of _ enter the room. Make an intiative check.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I frequently visit www._.com",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I main _ in Super Smash Bros.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last _ desperately tries to fend off mob trying to inject him with _ in the year 2020.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ comes from my Dad's side and _ comes from my Mom's side.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Archduke Franz Ferdinand of Austria's true assassin was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jack traded his only sheep for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ship that landed men on Mars was named: \"_ 4\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get nightmares of _ sometimes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At Wal-Mart, you can get _ at a reasonable price.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tomorrow is \"Bring _ To Work Day\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statistics show that more people die from _ more than people do from shark attacks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game Theory: _ is _!?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't you hate it when you get _ stuck between your teeth?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ and this is my _ shop.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ FOREVA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to numerous sources, _ is good for your skin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Huh? It's _ time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My name's Jerry, but I personally prefer \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Only on Cartoon Network.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm only 13 and I listen to music from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Water. Earth. Fire. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bomb that destroyed Hiroshima was called: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "JFK's assassin was supposed to shoot _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is another term for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is an Echo fighter of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "WHEN YOU ARE _ AND YOU REALLY GOTTA POOPOO",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In art class I had to draw a picture of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unknowingly of what the item was, Jimmy had brought _ to Show-and-Tell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jacob Sartorius' newest music video is called \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is a toilet. Flush your bad cards down here. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "ONE PIECE BE LIKE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wants to know your location.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello, I'm _ and this is my son _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Would you like to install _ 10 onto your computer?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "hplay _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ HEADASS BOI _ HEADASS BOI.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "NO MORE_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I once caught my friend before on a website called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last thing I'd want people to see in my search history is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, Vsauce! Michael here. Did you know _ is actually another term for _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Removed _ and his alt for impersonation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar frequently visits www._.com",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite catchphrase is \"_ _ _\".",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Whoever the Card Czar is believes this card as fact. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the trash man. I throw trash all over the ring. And then, I start eating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are moderately wounded. Make a _ check.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The doctor told them  the truth. \"_, you unfortunately have _ cancer.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite superhero is _-Man.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ comes in 5 different colors.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Get that on a t-shirt!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s Stand was revealed to be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "At the near end of World War II, Hitler killed himself by using _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is a urinal. Piss all your shit away. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Oh shit! _ isn't my fetish but I'm getting turned on!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GO AHEAD RIGHT IN SINCE YOUR ASS WANNA ACT _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I come to make an announcement: _ a bitch-ass motherfucker. He put traps on my fucking timeline. That's right. He took his faggot fuckin' fingers out and he pressed like on a FUCKING trap, and he said his days a homo was   o v e r   and I said alright I trust you to keep your word. So I'm making a callout post on my Discord dot com: WADDA 117, you didn't keep your word. You are as dumb as this walnut except way DUMBER . And guess what? Here's what my Bible looks like.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck you Dunkey, I do not watch your videos because you are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar's most frequented genre on PornHub is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "0.5x A presses.",
+    "Your waifu.",
+    "The sweet release of death.",
+    "The Navy Seals copypasta.",
+    "Old Man Sans.",
+    "Shooting up a school.",
+    "The president of the United States.",
+    "Pulling the trigger.",
+    "\"lemonaide\".",
+    "Chinese.",
+    "Pope Francis.",
+    "GrordCord.",
+    "Vinny from Vinesauce.",
+    "Etika.",
+    "Towelcord.",
+    "That one weeaboo at your school.",
+    "GRAND DAD.",
+    "Guantanamo Bay.",
+    "Johnny Joestar.",
+    "Image31.",
+    "BLACK.",
+    "ENTERING MAXIMUM OVERDRIVE.",
+    "2c heading out.",
+    "N-word Pass.",
+    "Flintstones vitamins.",
+    "Chinese food.",
+    "Roofies disguised as Smarties.",
+    "Vsauce.",
+    "An African in colonial times.",
+    "Not being able to get the pill cap off.",
+    "Odieu.",
+    "DIO.",
+    "Yoshikage Kira's hand fetish.",
+    "Gelbooru.",
+    "Thinking solo Minecraft is the best version of Minecraft.",
+    "Michael Stevens.",
+    "Looting a corpse while your party is dying.",
+    "The album cover of Killer Queen.",
+    "Memes.",
+    "Toothpaste.",
+    "Half-Life 3.",
+    "Light Yagami.",
+    "EtikaFRFX.",
+    "Succ.",
+    "Ness from EarthBound.",
+    "Pastor Hand.",
+    "Hiter Luigi.",
+    "Broken Kickstarter promises.",
+    "Dragon Maid.",
+    "Bad Sonic OC's.",
+    "Joel from Vinesauce.",
+    "Sans from UnderTale.",
+    "Meikai.",
+    "JFK Assassination.",
+    "The idea that there are more than 2 genders.",
+    "Deneb.",
+    "Nerdy's funeral.",
+    "Pizza.",
+    "Matthew Patrick.",
+    "Goku.",
+    "Whoever the Card Czar is.",
+    "Flaccid.",
+    "Guy Fieri.",
+    "David Bowie.",
+    "\"milk\".",
+    "Loud Nigra.",
+    "The trash where it belongs.",
+    "Mr. Peewee.",
+    "Slurping a used condom like Go-Gurt.",
+    "Edible art.",
+    "Shart mart.",
+    "The entire OG population.",
+    "EtikaWorldNetwork.",
+    "Goblin Slayer.",
+    "Failing an acrobatics check.",
+    "The teacher you secretly have a crush on.",
+    "People with neckbeards.",
+    "Licking Keemstar's buttery popcorn fingers.",
+    "Solid Snake.",
+    "IGN's credibility.",
+    "The Pretenders.",
+    "Having all 9 Harry Potter books dropped on your foot.",
+    "Joseph Stalin.",
+    "LeafyIsHere.",
+    "Killer Keemstar.",
+    "Family problems.",
+    "A Limp \"Biscuit\".",
+    "Super Mario Bros. 2.",
+    "Monkey D. Luffy.",
+    "Literal jaw breakers.",
+    "Inviting everyone to leaving you alone.",
+    "Rolling initiative.",
+    "Buying a dollar pack of gum with only pennies.",
+    "Theoretically turning a sphere inside-out.",
+    "Freddie Mercury.",
+    "Spider-man's Wedding.",
+    "Screenshot_29.",
+    "Finger-lickin' good.",
+    "Dicks of Death.",
+    "Chinese food and pizza.",
+    "YEEE A EEE A WEEAEEE WEE A WUMBAWE.",
+    "The Nutshack.",
+    "Dedede pissing everywhere.",
+    "Dr. Awesome taking a piss, delaying a game of CAH.",
+    "Big anime tits.",
+    "Inflation porn.",
+    "Shit.",
+    "The world's longest pube.",
+    "Using anything as a dildo.",
+    "NIGGAS.",
+    "Piss.",
+    "NIGGERS."
+  ],
+  "pack": {
+    "id": "YJC73",
+    "name": "Spicy Memes 64"
+  },
+  "quantity": {
+    "black": 93,
+    "white": 112,
+    "total": 205
+  },
+  "dateStoredMs": 1589578706708
+}

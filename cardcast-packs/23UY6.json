@@ -1,0 +1,16 @@
+{
+  "black": [],
+  "white": [
+    "Toilet roll."
+  ],
+  "pack": {
+    "id": "23UY6",
+    "name": "Covid-19"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 1,
+    "total": 1
+  },
+  "dateStoredMs": 1589230362049
+}

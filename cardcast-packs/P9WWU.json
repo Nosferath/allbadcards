@@ -1,0 +1,106 @@
+{
+  "black": [
+    {
+      "content": "Serious people wear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That is, how the kids say, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time out for thee, time out for thee. Focus on _, or focus on me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the only _ I will put in my _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "WE. GET. IT. YOU'RE _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Patton cake? It's just _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A new video featuring _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You know what the secret ingredient is? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's just like, Sherlock, I've got _. I mean, who can relate?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who do I ship, you ask? _/_.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Storytime.",
+    "The Ultimate Storytime cast.",
+    "The dragon witch.",
+    "Mourning the death of Vine.",
+    "Patton.",
+    "Logan trying to learn slang words so he won't be the least favorite character anymore.",
+    "Microsoft nerd.",
+    "A delicious jar of Crofers.",
+    "The possibility of a new side.",
+    "Virgil's sweater paws.",
+    "Virgil's eyeliner.",
+    "Talyn.",
+    "My dark strange son.",
+    "Virgil knowing, in his heart, that he will always be the bad guy.",
+    "3 small cats.",
+    "Dad jokes.",
+    "Could be gayer.",
+    "The Logan defense squad.",
+    "Virgil.",
+    "Five second cookies.",
+    "Adultery, the process of becoming an adult.",
+    "Prinxiety handholding.",
+    "Roman singing every disney song at the top of his lungs at three in the morning.",
+    "Patton's irresistable urge to pet cats even though he's allergic.",
+    "Vetal miking.",
+    "Panic! at the everywhere.",
+    "Polysanders.",
+    "*hiss* feelings.",
+    "A musical spell.",
+    "Roman.",
+    "Logan dabbing.",
+    "FALSEHOOD.",
+    "Thomas.",
+    "An emo who's now our best friend.",
+    "That A+ florida weather.",
+    "Joan.",
+    "Patton's cat hoodie.",
+    "Logan.",
+    "Patton making jokes to cover up how much pain he's in.",
+    "A truckload of bubba gump shrimp."
+  ],
+  "pack": {
+    "id": "P9WWU",
+    "name": "Thomas Sanders"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 40,
+    "total": 50
+  },
+  "dateStoredMs": 1589037813664
+}

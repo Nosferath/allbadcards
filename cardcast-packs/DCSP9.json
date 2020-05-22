@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "_. Ezt kaptam házi feladatnak.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ szerint a paradicsom egy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Orbán Viktor úgy döntött, hogy mától a _ legális.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Taqteaeq3wa3aet."
+  ],
+  "pack": {
+    "id": "DCSP9",
+    "name": "tsatta"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 1,
+    "total": 4
+  },
+  "dateStoredMs": 1589302671424
+}

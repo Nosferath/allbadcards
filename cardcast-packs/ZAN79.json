@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "As you creep through the ruins, _ appears.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Asriel Dreemur's Massive Throbbing Hypercock."
+  ],
+  "pack": {
+    "id": "ZAN79",
+    "name": "Undertale Flop"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589525586383
+}

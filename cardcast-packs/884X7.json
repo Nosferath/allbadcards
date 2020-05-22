@@ -1,0 +1,147 @@
+{
+  "black": [
+    {
+      "content": "Before quarantine, I never realized how much I'd miss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ending the lockdown will require _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Covid crisis will eventually be over, but _ will never be the same as it was before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will it take to find a cure for Covid-19? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bright side of social distancing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In their next experiment, the Brooklyn Science Club should investigate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My quarantini recipe is just _ mixed with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Capitalism runs on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the BSC, when we say \"science,\" what we really mean is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the pharmaceutical companies don't want you to know is, _ is a cure for coronavirus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maybe it was unnecessary, but I'm still glad I've been stockpiling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing about social distancing is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quarantine isn't so bad, as long as you have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret to making great cocktails? Add a dash of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the Covid crisis has a silver lining, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At least one thing that hasn't changed since quarantine started: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When the lockdown ends, I'm looking forward to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I hear people applauding at 7:00 pm each day, I long for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing about quarantine is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The feeling of being untethered from time.",
+    "Chris's hatred of America.",
+    "Dr. Fauci.",
+    "Having to wear pants.",
+    "Sacrificing grandpa on the altar of capitalism.",
+    "Running out of toilet paper.",
+    "Opening up the economy.",
+    "99 Bananas.",
+    "Not knowing what day of the week it is.",
+    "Sprout's whiskey addiction.",
+    "Virtual happy hour.",
+    "Boss Lady.",
+    "Heather's sense of smell.",
+    "Four Loko.",
+    "Elkin's exposed chest.",
+    "Anni's flair for re-purposing roadkill.",
+    "Hazard pay.",
+    "Vomiting in all the colors of the rainbow.",
+    "Executive dashboard.",
+    "Social anxiety.",
+    "A Snaxtime original production.",
+    "Herd immunity.",
+    "Not wearing pants.",
+    "The blood of the proletariat.",
+    "Donald Trump.",
+    "Cavalier alcoholism.",
+    "Working from home.",
+    "Fro's headlong embrace of anarcho-collectivism.",
+    "Stockpiling mezcal.",
+    "Rebecca's wine club.",
+    "Matt's 11th empty bottle of Campari.",
+    "Covid-19.",
+    "Heather's twice-monthly hair washing.",
+    "PPE.",
+    "Guilt-ridden $20 tips to delivery people.",
+    "Watching Julia breast feed."
+  ],
+  "pack": {
+    "id": "884X7",
+    "name": "BSC Expansion Pack"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 36,
+    "total": 55
+  },
+  "dateStoredMs": 1588981709931
+}

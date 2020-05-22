@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Our latest play about _ was a complete success.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To _ , or not to _ ? That is the question.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Coming soon to a cinema near you: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The play was called off due to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Critics are calling ' _ ' _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alas, poor _. I knew him well.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The special effects in ' _ ' were unbelievable!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Scottish play.",
+    "Alan Rickman.",
+    "The Sheriff of Nottingham.",
+    "Dame Helen Mirren.",
+    "Hamlet.",
+    "Dame Judi Dench.",
+    "Platform nine and three quarters.",
+    "5 stars.",
+    "William Shakespeare.",
+    "Christopher Lee.",
+    "Morgan Freeman.",
+    "Count Dracula.",
+    "Benedict Cumberbatch."
+  ],
+  "pack": {
+    "id": "CTG2s",
+    "name": "Film and Drama"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 13,
+    "total": 20
+  },
+  "dateStoredMs": 1588907396578
+}

@@ -1,0 +1,614 @@
+{
+  "black": [
+    {
+      "content": "I can't get any worthwhile quests because of _ , so I wanted revenge!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I die, I'm going to a completely new world that doesn't involve debt, goddesses, BDSM, explosions, and most of all _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Huh? That made _ happy?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Then show me thine resolve to peer into the ultimate _ within me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is the magic item that suppresses my _. If I were to ever take this off, _ would surely befall this world...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't! I can't fall asleep if I'm not holding that _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know you _ at night sometimes, so I'm sure you'd like a private room as soon as possible...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened? Did your stats go up with your level, allowing you to change jobs from \"_\" to \"_\"?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , you're turned on right now, aren't you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From now on, this sword is named _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So _ , will you join the path of _ with me?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kazuma, Kazuma! _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HEY, YOU _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next time _ goes to gamble more money I'm going to kill them with _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I've been keeping it a secret, but _ 's child is growing inside me...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you really think I'm a woman of such rigid adherence to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe that _ died again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You make a _ like myself sleep in a stable every single night!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come, now, and walk the path of _ with me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So, _ , please don't hesitate to use me as _ from now on.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They were swallowed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How many points was that explosion?(  _ / _ )",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ skill has a higher accuracy the higher your _ stat is. Its a perfect fit for me!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's like this every time. Do you have some disease where you'll freak out if you don't _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ really don't use the bathroom, okay?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kazuma-san! You're a _ , Kazuma-san!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would buy out the entire Succubus Girl business for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a guy who does _! You'd do well to remember that!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Please let... Please let me... _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We'll play three times and if I lose I'll _. Well, I've never lost at rock-paper-scissors.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is an unexpectedly _ situation!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are some people who have weird names in the first place, but still end up with disgraceful nicknames like \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Didn't you say that _ don't use the bathroom?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is _ such a pervert...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No! I'm a _ goddess, remember?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I could never use _ as a shield.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even when I was a kid, I never lost at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What in the world are you and _ trying to do to me?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oi, _ , why don't you use that nasty body of yours to earn us some _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yes, that's exactly right. Since old times, _ at the hands of _ has always been the duty and expectation of a female knight.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My mother is _ and my father is _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I guess a _ with _ thoughts has a _ to match.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Wh-wh-where did my _ go?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's getting hard to tell which is the _ and which is the goddess.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, it's just seeing _ gradually becoming more and more pathetic got me wondering just how big a scumbag he'll be in the future...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just imagine a pack of _ making a mess of me...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm a _. There's no way I'd know about every little _ like that.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This girl is _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What exactly are you calling the _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does something called _ even exist...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kazuma:  \"Aqua, what is that...\"                Aqua: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NO, let ME bear the intensity of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um, it's a bit drafty, so please give me back my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is setting of my danger radar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't care if you're one of the _ leaders!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She's _ already!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I yearn for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm telling you, _ is just a drunk old man!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've decided that I'll make my living doing _ from now on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't you explain exactly why _ with me makes you a lolicon?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't dislike being _ , but consider the time and place.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm fine with whatever _ you like! I'll show you I can even endure _ we used those frogs for!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My name is _! I am a user of the finest _ crimson demons possess, and I command _ magic!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I will share holy words that will help you avoid demonic temptation. \" _ pads their chest.\" The next time you feel you are being led astray, chat these words.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's over, it's all over! _'s a convict now!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're friends, aren't we? And I believe friendship means sharing in each other's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goddess of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A clichéd development like _ can't be happening!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd be okay with a _ quest.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Axis Cult Registration form signature: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're feeling stressed out, I wouldn't mind if you _ me instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All of you should _ me, _ me, and _ me rotten!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "How can you try to _ yourself alone? Aren't we _? Wherever we go, bathroom or otherwise, we go together!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_! This is so good! So good! It's a new discovery, begin treated as _ like this!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just so you know, I'm not the type to go for clichés. Say, for instance, you were _ with me, and some other girl was _ on me. If you were to, out of jealousy inflict some unjust violence on me, I would fight back with no hesitation.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It looks kind of fun _ inside that cage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kazuma: \"Isn't that right, my partner... uh... Kikuchimonji? Kogarasumaru?\" Megumin: \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When a man stares into _ , the _ stares back.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You're forcing me to _ when I don't want to, and shoving my face into _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You can _ me even more, if you want.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish to be reborn as _. Ah, how wonderful that would be.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aqua, I can't believe you bought a _ and it turned out to be a _ called _...",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What does it take to buy my trust? _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bring it on, you evil spirits! I'll sic our _ on your later, damn it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It appears every last person here has been left speechless after witnessing my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You _ whore!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cut the crap! _, my ass! If I could trade you in for a _, I would've done it long ago!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "They're so mean! Why did I get _ by my own followers?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Clichés.",
+    "Receptionist Succubus.",
+    "Stoned.",
+    "Moe.",
+    "A carnivorous, rampaging unicorn bunny pack.",
+    "Drain touch.",
+    "Freeze.",
+    "Wiz.",
+    "Megumin.",
+    "Loli-NEET.",
+    "Covered me in slime.",
+    "Hardcore pervert.",
+    "Being arrested for something you didn't do.",
+    "God's Requiem.",
+    "Running.",
+    "Darkness's panties.",
+    "Erotic acts.",
+    "Satou Kazuma.",
+    "A savage act.",
+    "Belzerg Stylish Sword Iris.",
+    "Kazuma desu.",
+    "STEAL.",
+    "Covered in slime.",
+    "*heavy, pheromone filled breathing*.",
+    "Lalatina.",
+    "Peto-NEET.",
+    "Aqua-sama.",
+    "Hyoizaburoo.",
+    "Yunyun.",
+    "Shomefing cwazy.",
+    "Flying cabbage.",
+    "Darkness.",
+    "Hot water.",
+    "*Aqua's smug-smirk*.",
+    "Suffering an erotic fate.",
+    "Newbie Succubus.",
+    "Funifura.",
+    "One-Hit-Kill Bear.",
+    "Goddess.",
+    "Kazuma.",
+    "Arue.",
+    "Rogue.",
+    "Lich.",
+    "Beldia, the Dullahan.",
+    "Little girl.",
+    "Arnes.",
+    "Dragon egg.",
+    "Wisdom (stat).",
+    "Booze.",
+    "Dustiness Ford Lalatina.",
+    "An honest to god double explosion.",
+    "I'm Kazuma.",
+    "Chomusuke.",
+    "Chris.",
+    "Kotatsu.",
+    "Claire.",
+    "EKUSPLOSION.",
+    "Yunyun's panties.",
+    "Crazy Exploding Girl.",
+    "Just a couple eris.",
+    "Eris-sama.",
+    "Soketto.",
+    "Chunchunmaru.",
+    "Tracksuit.",
+    "The strongest armor, Holy Armor Aegis.",
+    "Constitution (stat).",
+    "Bind.",
+    "Hans.",
+    "Yunyun's yunyuns.",
+    "Moans of pleasure.",
+    "Aqua's lack of panties.",
+    "Kyouya.",
+    "300,000 eris.",
+    "Dodonko.",
+    "True gender equality.",
+    "Tranquility Girl.",
+    "Vanir.",
+    "Nature's beauty.",
+    "SHE'S ENJOYING IT!.",
+    "Strength (stat).",
+    "Darkness's libido.",
+    "Swinging around panties.",
+    "Crying.",
+    "Purification.",
+    "Chicken.",
+    "Holy sword Excalibur.",
+    "Meat shield.",
+    "Zereschrute, the \"Penguin\" Demon.",
+    "Killing.",
+    "The Axis Cult.",
+    "Expensive sake that I just so happen to have hidden inside my bed, closet, and liver...",
+    "Wolbach.",
+    "Nerimaki.",
+    "Flying lettuce.",
+    "Emperor Zell.",
+    "A decoy or wall.",
+    "Sylvia's massive \"pecks\".",
+    "Useless.",
+    "The Devil King.",
+    "Sena.",
+    "Kazuma Kazuma.",
+    "Mage.",
+    "Cecily.",
+    "200,000 eris.",
+    "The Eris Order.",
+    "Vanir doll.",
+    "Sylvia.",
+    "Snipe.",
+    "Arch-priest.",
+    "Charisma (stat).",
+    "Megumin's panties.",
+    "Crusader.",
+    "Eris.",
+    "Rock-paper-scissors.",
+    "KONOSUBA!.",
+    "A tasty onion duck.",
+    "Something crazy.",
+    "9,000,000 eris.",
+    "Such a snap decision.",
+    "Yuiyui.",
+    "Giant Toads.",
+    "Crimson Demons.",
+    "Cute.",
+    "Kazuma dayo.",
+    "*flexing fingers in a lewd, enticing way*.",
+    "A total masochist.",
+    "Destroyer.",
+    "J-j-join your party!.",
+    "God Blow.",
+    "Purification! purification!.",
+    "Tell me to shut up and submit to him if I want the curse removed, and demand I perform hardcore acts of perversion for him.",
+    "Shut-in-NEET.",
+    "Seresdina.",
+    "Dumb-cute.",
+    "Winter Shogun.",
+    "Wiz's breasts.",
+    "Luck (stat).",
+    "Aqua's annoying crying.",
+    "Mad-dog goddess.",
+    "Aqua.",
+    "Debt.",
+    "Sylvia's genitals.",
+    "Cursed Sword Gram.",
+    "Luna.",
+    "Praise.",
+    "Verbally abused.",
+    "Shut-in-otaku.",
+    "Intelligence (stat).",
+    "Party tricks.",
+    "Expensive sake.",
+    "KUSO-BITCH.",
+    "Deadscream Bloody Mary.",
+    "Alexei Barnes Alderp, the fat noble from hell."
+  ],
+  "pack": {
+    "id": "ZBB8Z",
+    "name": "Konosuba (Kono Subarashii Sekai ni Shukufuku o! / KonoSuba: God's Blessing on this Wonderful World!)"
+  },
+  "quantity": {
+    "black": 89,
+    "white": 153,
+    "total": 242
+  },
+  "dateStoredMs": 1589145992729
+}

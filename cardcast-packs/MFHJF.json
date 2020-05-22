@@ -1,0 +1,143 @@
+{
+  "black": [
+    {
+      "content": "Why is Midoriya crying? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iida \"_\" Tenya",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Midoriya \"_\" Izuku",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my hero name? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my quirk? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todoroki Shouto: Half-_ Half-_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Plus _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bakugou \"_\" Katsuki",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "the real U.A. traitor was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todoroki \"_\" Shouto",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not his power; it's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No need to fear! For I am _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "stupid _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Bakugou's hero name? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All for _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kamui Woods.",
+    "Endeavor.",
+    "Midoriya Izuku.",
+    "Amajiki Tamaki.",
+    "Uraraka Ochako.",
+    "All Might.",
+    "Ingenium.",
+    "Kaminari Denki.",
+    "Aizawa Shota.",
+    "Shoji Mezo.",
+    "Froppy.",
+    "Eraserhead.",
+    "Mineta Minoru.",
+    "Kirishima Ejirou.",
+    "Recovery Girl.",
+    "Uravity.",
+    "Present Mic's constant screaming.",
+    "Hado Nejire.",
+    "Stain.",
+    "Sato Rikkido.",
+    "Ashido Mina.",
+    "Best Jeanist.",
+    "Iida Tenya.",
+    "Deku.",
+    "Koda Koji.",
+    "Yaoyorozu Momo.",
+    "Sero Hanta.",
+    "Tokoyami Fumikage.",
+    "Texas Smash.",
+    "Shinsou Hitoshi.",
+    "Todoroki Shouto.",
+    "One for All.",
+    "Bone hurting quirk.",
+    "Mt. Lady.",
+    "Yagi Toshinori.",
+    "Aoyama Yuuga.",
+    "Togata Mirio.",
+    "Hagakure Touru.",
+    "Jirou Kyouka.",
+    "Present Mic.",
+    "Bakugou Katsuki.",
+    "Tetsutetsu Tetsutetsu.",
+    "All for One.",
+    "Ojirou Mashirao.",
+    "Tsuyu Asui.",
+    "Hastume Mei.",
+    "All Might's illegitimate love child."
+  ],
+  "pack": {
+    "id": "MFHJF",
+    "name": "My Hero Academia"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 47,
+    "total": 63
+  },
+  "dateStoredMs": 1588493517934
+}

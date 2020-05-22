@@ -1,0 +1,550 @@
+{
+  "black": [
+    {
+      "content": "For no particular reason, which do you prefer? _ or _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Seven _  souls, and King Asgore will become a god!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You’re _ now. That’s my attack!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fills you with Determination.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My super secret code word is… _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Besides gardening and cooking, Asgore also enjoys _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You ditch _ when it looks away!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papyrus tried cooking _, it didn’t go well.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just a hot person’s way of making you their slave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at the time! It's _ time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You equipped _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has gone where no skeleton has gone before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toriel is reading a book about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a day keeps _ away.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ suplexes a boulder just because they can!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Long ago, monsters would wish to the stars. Now they pray to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What shape is Mettatton's hearth? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get ready for _ time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chase _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is _. Feel free to visit any time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You pet _. It raises its head up to meet your hand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m _. Remember my name!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You throw _ at Papyrus. He brings it back to you in his skeleton mouth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You pet _. You are pet back. You are confused.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You throw _ away.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks for stepping on _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom's _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That package is _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are holding too many _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the spiders clap along to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't hold all these _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smells like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papyrus realizes he doesn’t have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who does Alphys have a crush on? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You think your taste is too refined for _, don’t you, deary?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Defuse _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What time is it? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our products are made by _, for _, of _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You pet _ and its excitement knows no bounds.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Too much of what? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alphys revealed her dark secrets, she has been experimenting on _ in her lab.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, it’s the frozen treat that warms your heart.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite everything, it’s still _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You really like _. Don't you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alphys’ latest fanfiction ships _ and _ in a cinema right next to you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Anime is like cartoons, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papyrus's standards were met by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who put _ in my closet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is real, right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kids like you should be burning in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Knowing that one day the mouse will eat _ , fills you with determination !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You pet _. You pet so hard that you died.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t need friends! I’ve got _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A monster appears. What do you ACT? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who needs _ with _ like these?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are robots made out of? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Defuse the extremely agile _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Pftt.. that's for babies, everyone knows junior muble is the greatest.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick, hide behind the conveniently-shaped _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ cocks its head to one side.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sight of _ fills you with Determination!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some spiders crawled down and gave you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't need _! I've got knives!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who put _ in my skeleton.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time for my special attack. It’s literally _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Long ago, two races ruled over Earth. _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is the dialogue box is covered in? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You pet _ and it was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The other monsters celebrate _ day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you smooch _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You are not alergic to _ , are you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are those robots doing? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can’t _, I’m all out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In this world, it’s _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's possible that you may have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a closet in _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smells like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Return of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You meet all my _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After I’m done with _, I like to lie down on the ground and feel like garbage.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hot-dogs.",
+    "Snails.",
+    "A dog.",
+    "Firey Dude.",
+    "Oh it's the wrong number! The wrong number song!.",
+    "A skeleton.",
+    "Those stupid mad dummies.",
+    "A spider bake sale.",
+    "A human.",
+    "Hot Coldman.",
+    "A joke.",
+    "White.",
+    "Extremely agile glass of water.",
+    "Toriel.",
+    "A very sharp dog.",
+    "A Jerry card.",
+    "Snail pie.",
+    "Hots Fireguy.",
+    "A song.",
+    "Donuts.",
+    "Asriel.",
+    "The Skull Parasite unit.",
+    "Sans.",
+    "Arms.",
+    "Fun.",
+    "Flex.",
+    "Alphys.",
+    "Undyne.",
+    "Who needs arms when you've got legs like these.",
+    "Big Boss.",
+    "A poor experience.",
+    "Hot-cats.",
+    "Crosswords.",
+    "A game where you nobody has to get hurt but you killed Toriel anyway.",
+    "Asgore.",
+    "Chara.",
+    "A goat invasion.",
+    "Skeletons are a type of goat.",
+    "Swords.",
+    "A bone.",
+    "Smell like a strange puppy.",
+    "Junior Jumble.",
+    "A laugh.",
+    "A bad time.",
+    "Roast.",
+    "Mankind.",
+    "Flexing out of the room.",
+    "Jerry.",
+    "Skeletons.",
+    "Kill or be killed.",
+    "A hug.",
+    "Cheese.",
+    "The music.",
+    "Pasta.",
+    "The trash can.",
+    "Bleat.",
+    "Purple.",
+    "Booby.",
+    "Look's like you are boned.",
+    "Dance.",
+    "A Man on Fire.",
+    "Determination.",
+    "A skele-ton.",
+    "Kissing.",
+    "Spiders.",
+    "Large skeletons.",
+    "The Royal Guardsmen.",
+    "A donut.",
+    "A Cinnamon Bun.",
+    "A snail.",
+    "A face.",
+    "The monsters.",
+    "Erase or be erased.",
+    "Petting.",
+    "Anime.",
+    "Luke Warm.",
+    "Be pet by a puppy.",
+    "Assgore.",
+    "Hot-skeletons.",
+    "A hearth.",
+    "A skeleton in your closet.",
+    "Blue.",
+    "Dance.",
+    "Cold spaghetti.",
+    "A mice.",
+    "Ketchup.",
+    "Assriel.",
+    "Garbage.",
+    "Comfort.",
+    "Sing.",
+    "Frozen spaghetti.",
+    "Naked Goat.",
+    "Papyrus.",
+    "Mettaton.",
+    "A problem.",
+    "Very Hot Flaming Dude.",
+    "Souls.",
+    "Standards.",
+    "Guns.",
+    "Orange.",
+    "Expectations.",
+    "A spider.",
+    "A killer robot.",
+    "Stick.",
+    "Aaron.",
+    "Cotton.",
+    "Catch-up.",
+    "Pet rocks.",
+    "Spaghetti Attack.",
+    "Knives.",
+    "Butterscotch-cinnamon pie.",
+    "Smokey.",
+    "Assriel.",
+    "Barry the Flarey.",
+    "Light blue.",
+    "A relatively poor experience.",
+    "Jerry cards.",
+    "A knife.",
+    "Red.",
+    "Green.",
+    "Fire Adjective.",
+    "Killing Toriel.",
+    "Geeettttttt dunked on.",
+    "Bandage.",
+    "A water sausage.",
+    "Yellow.",
+    "Dogs.",
+    "Legs.",
+    "Black.",
+    "A shitty dog.",
+    "Hell.",
+    "Do not sexualize the goats.",
+    "Smooching.",
+    "Smooching a dog."
+  ],
+  "pack": {
+    "id": "3NHBQ",
+    "name": "Facepunch Undertale Card Deck"
+  },
+  "quantity": {
+    "black": 80,
+    "white": 134,
+    "total": 214
+  },
+  "dateStoredMs": 1589528918486
+}

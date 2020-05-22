@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "ITS _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "JOHN CENA."
+  ],
+  "pack": {
+    "id": "Z4PJ4",
+    "name": "JOHN CENA"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589081832270
+}

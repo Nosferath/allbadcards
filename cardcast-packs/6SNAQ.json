@@ -1,0 +1,338 @@
+{
+  "black": [
+    {
+      "content": "Lucasfilm revealed the title of the next standalone film today. It’s called _ : A Star Wars Story.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's not how _ works!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , properly exploited, can be a sharp tool.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's always a bigger _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bobba Fett had a collection of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahhh... _ , my favorite pastime!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join the Empire, we have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be careful not to choke on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All remaining systems will bow to _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Someone's gotta save _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TK-421, why aren't you at your post? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help me _ ; you're _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Poe Dameron got demoted for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am one with _, and _ is with me.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You're _; your parent's were _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ . So uncivilized.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandfather...show me a sign...show me_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let _ die. Kill it, if you have to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. A fine addition to my collection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars Episode IX: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the next Star Wars spin off movie,  _ will be faced with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Now you will witness the power of this fully armed and operational _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _.  It's course and rogue and irritating and it gets everywhere.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have altered _.  Pray that I don't alter it any further.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will not be seduced by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only a Sith deals in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you ever heard the tragedy of _ ? It's not a story the Jedi would tell you.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Unusual amounts of fear.",
+    "Pistol whipping.",
+    "Realizing you've kissed your sibling.",
+    "Getting lucky.",
+    "Darth Maul.",
+    "Skinny dipping in the lake.",
+    "A romantic vacation in Cloud City.",
+    "Jawas.",
+    "Supreme Leader Snoke.",
+    "The origin story of Han Solo's props.",
+    "Mass murder.",
+    "General Hugs.",
+    "A Vader themed bondage club.",
+    "The Resistance.",
+    "The cantina band.",
+    "Chunky Thala Siren milk.",
+    "Ewok orgies.",
+    "Chewie's bowcaster.",
+    "Captain Panaka.",
+    "B-1 battle droids.",
+    "Saw Gerrera.",
+    "Kissing your sister.",
+    "Going home and rethinking your life.",
+    "Pod racing.",
+    "Darth Vader.",
+    "Becoming one with the Force.",
+    "C-3PO.",
+    "Kylo Ren's eggplant.",
+    "Another boring senate session.",
+    "Losing a hand.",
+    "Lando Calrissian.",
+    "Blue milk.",
+    "Sarlacc pit.",
+    "Coruscant.",
+    "Force choking.",
+    "BB-8.",
+    "The Millennium Falcon.",
+    "Shooting first.",
+    "Qui-Gon Jinn.",
+    "Snoke's crack.",
+    "Bail Organa.",
+    "Han's special blaster.",
+    "Mace Windu.",
+    "Mynocks!.",
+    "Rogue One.",
+    "Swearing allegience to the Dark Side.",
+    "Wookie slaves.",
+    "Padme Amidala.",
+    "Spice.",
+    "Tossing people into pits.",
+    "Grabbing the wrong end of a lightsaber.",
+    "Yoda.",
+    "Jabba's palace.",
+    "Rey.",
+    "A gay robot.",
+    "Luke Skywalker.",
+    "Luke's severed hand.",
+    "Darth Vader's many removable parts.",
+    "DJ - Wait, who is DJ again?.",
+    "General Veers.",
+    "Midichlorians.",
+    "Trade Federation.",
+    "Yoda's secret chamber.",
+    "Meditation.",
+    "Jedi mind tricks.",
+    "Mon Mothma.",
+    "Chewbacca.",
+    "Assassins.",
+    "The ol' switcheroo.",
+    "Wookie mating calls.",
+    "Anakin's spectacular crash-landings.",
+    "Going to Tosche station to get some power converters.",
+    "Space wizards.",
+    "R2-D2's seductive beeps.",
+    "Inappropriate use of the Force.",
+    "Anakin Skywalker.",
+    "Cleaning my blaster.",
+    "The Rebellion.",
+    "Breaking into Snoke's boudoir.",
+    "Jyn Erso.",
+    "My only hope.",
+    "Aunt Beru.",
+    "Blowing up the Death Star.",
+    "Tatooine.",
+    "Admiral Ackbar.",
+    "The sacred texts!.",
+    "Death sticks.",
+    "Sleeping on a Wookie's lap.",
+    "Making love to a rancor.",
+    "George Lucas.",
+    "Kessel.",
+    "An annoying Padawan.",
+    "Jar Jar Binks.",
+    "Bodhi Rook.",
+    "Grand Moff Tarkin.",
+    "Wookie lint.",
+    "Anakin's pride.",
+    "Force lightning.",
+    "A gnarly pod race crash.",
+    "Emperor Palpatine.",
+    "Poe Dameron.",
+    "The backstroke of the west.",
+    "Admiral Holdo.",
+    "Sith.",
+    "Being a handmaiden to Queen Amidala.",
+    "Young Anakin.",
+    "Jedi.",
+    "The First Order.",
+    "Tentacle monsters.",
+    "Lightsaber.",
+    "Fighting the frizzies, at 11.",
+    "Shmi Skywalker.",
+    "A piece of junk.",
+    "Baze Malbus.",
+    "Doing a barrel roll.",
+    "Killing younglings.",
+    "Ben Solo.",
+    "Lando's cape collection.",
+    "Admiral Piett.",
+    "A blaster bolt to the face.",
+    "Getting frozen in carbonite.",
+    "Breha Organa.",
+    "Slave Leia.",
+    "Sandpeople.",
+    "Shaving a wookie.",
+    "Telekinesis.",
+    "Tauntauns.",
+    "The Star Wars holiday special.",
+    "Admiral Holdo's hair dye.",
+    "Lyra Erso.",
+    "Using Anakin's tears as lube.",
+    "Angry gingers.",
+    "Plugging your connector into strange computer.",
+    "Obi-Wan Kenobi.",
+    "Slathering icing on Leia's buns.",
+    "Count Dooku.",
+    "Destroying planets.",
+    "Stormtrooper aim.",
+    "An epic cape swish.",
+    "Cutting open a tauntaun and stuffing your friend inside it's carcass.",
+    "General Hux.",
+    "Chirrut Inwe.",
+    "Gungans.",
+    "LiEs!? DeCePtIoNs!!???.",
+    "Firing your laser.",
+    "The Knights of Ren annual picnic.",
+    "A blind monk.",
+    "A clone army.",
+    "Telling your companions \"I have a bad feeling about this\".",
+    "Kylo Ren.",
+    "Boss Nass.",
+    "Badass scars.",
+    "Rose Tico.",
+    "Leia Organa.",
+    "Galen Erso.",
+    "Finn.",
+    "Severed limbs.",
+    "Gambling.",
+    "Getting it on in a TIE-fighter.",
+    "Paige Tico.",
+    "Killing millions in the name of freedom.",
+    "Uncle Owen.",
+    "Sand.",
+    "A restraining bolt.",
+    "Telling it to Kanjiklub.",
+    "R2-D2.",
+    "Lando's sweet mustache.",
+    "Being an edge lord.",
+    "Telling a hairy alien to \"laugh it up, fuzzball\".",
+    "Flying x-wings in a penis formation.",
+    "Finding the Death Star plans in Leia's pussy.",
+    "Getting interrogated, in a sexy way.",
+    "Sexual frustration.",
+    "Mind fuckery.",
+    "Squelchy sex with Jabba.",
+    "Masturbating with a lightsaber.",
+    "Dark Vader's robotic dick.",
+    "Holonet porn.",
+    "Tentacle porn.",
+    "Bantha shit.",
+    "Sexy Twi'lek dancers, ready to groove.",
+    "A motherfucker."
+  ],
+  "pack": {
+    "id": "6SNAQ",
+    "name": "Star Wars - Films"
+  },
+  "quantity": {
+    "black": 28,
+    "white": 182,
+    "total": 210
+  },
+  "dateStoredMs": 1588616200975
+}

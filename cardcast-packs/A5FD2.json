@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "Our trip to Gunnison is looking great. I'm thinking about adding _ to our agenda!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Margaritas with two shots of tequila each.",
+    "Embracing my inner suburban white woman.",
+    "Two white guys in a Prius.",
+    "Inadvertently being turned into a walrus.",
+    "Stealing three bottles of wine from a wedding."
+  ],
+  "pack": {
+    "id": "A5FD2",
+    "name": "The Matrimonious Expansion"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588551400027
+}

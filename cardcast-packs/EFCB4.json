@@ -1,0 +1,225 @@
+{
+  "black": [
+    {
+      "content": "Today Valve released a new skin for _ that has _ on it.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wow, the other team is so bad, I don't think anyone knows what _ is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop using _, it's such a gay weapon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check out this sick grenade strat for dust2, you bounce a flash off of _ and blind everybody!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last guy is lit for 70, his location is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know you're having a bad day when your team gets straight ganked by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Are you kidding me? I call hacks!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ takes pure skill.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to some scammer, I lost my valuable _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a part of the game, stop complaining about it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was I VAC banned for on my last account? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Highlight of the round: _ _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Valve started adding skins for _, which ranged in the $500 pricetag on markets.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My skin insanity got so bad, I sold _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm just gonna mute the guy who keeps shouting _. It stopped being funny ten rounds ago.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys I have a new strat, it's called \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I could not believe Ninjas in Pajamas used _ to win.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ OP, valve pls fix",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new exploit found with _ allows _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I traded my high-value _ for a whopping _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "One time, while matchmaking, I encountered a team whose name was just \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so hype for Valve's new map, de-_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "CSGO is nothing like Call of Duty, because it has _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was pretty lame, until Valve added _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's not my fault, we lost because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Valve is releasing a new update titled Operation _, adding a map consisting entirely of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ for good luck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smoke _ every day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was better in 1.6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to be a _ before I got a bullshit VAC ban.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The dog in apartments.",
+    "MLG soundbite micspam.",
+    "Shift-walking.",
+    "Facing explosions to take less damage.",
+    "A T-sided map.",
+    "Catwalks.",
+    "Trading up high-value Mil-Specs for a worthless Restricted.",
+    "De_dust2 again.",
+    "Getting a grenade kill.",
+    "Juan Deag.",
+    "Aimhacks.",
+    "Cyka blyat.",
+    "Team-stacking decoy grenades.",
+    "Knifing the truck.",
+    "A full team of Silver IIs with one Silver III as their \"leader\".",
+    "9 damage in 2 hits.",
+    "Mountain Dew and Doritos.",
+    "Wallhacks.",
+    "Recoil patterns.",
+    "Aah! I need help here!.",
+    "BOT Bob.",
+    "Nova sniping.",
+    "An UMP. Just kidding, it's an MP7.",
+    "Lag spikes.",
+    "Skin insanity.",
+    "AWP.",
+    "Stat-Trak knife.",
+    "SWAG-7.",
+    "Autosnipers.",
+    "Negev: the wallbang apocalypse.",
+    "A CT-sided map.",
+    "Defuse kits.",
+    "Confusing an SSG-08 for an AWP.",
+    "Distinguished Master Guardian.",
+    "Not calling enemy locations.",
+    "M4A1 | Howl.",
+    "Hackers.",
+    "Chickens.",
+    "Gold Nova 3.",
+    "Ace!.",
+    "Guns blazing B rush.",
+    "Getting a taze kill.",
+    "Actually taking responsibility for your own bad play.",
+    "Pro-90 rush.",
+    "BOT Steve.",
+    "The AFK at spawn.",
+    "Mid.",
+    "Running through a smoke.",
+    "Surf maps.",
+    "Using a wheel controller.",
+    "Ninja defusal.",
+    "Getting stuck in the Silver ranks.",
+    "Gaben sitting on the servers again.",
+    "Smurf accounts.",
+    "Zeus x27.",
+    "A/D-tapping because you saw some streamer / pro do it.",
+    "Bunnyhopping.",
+    "AK47.",
+    "Crouching around corners."
+  ],
+  "pack": {
+    "id": "EFCB4",
+    "name": "Globally Offensive Cards Against Counter-Strike"
+  },
+  "quantity": {
+    "black": 30,
+    "white": 59,
+    "total": 89
+  },
+  "dateStoredMs": 1589409143148
+}

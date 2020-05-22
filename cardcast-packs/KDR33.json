@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "_ is the best way to play Undertale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the reason I love Undertale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Napstablook made a song called _, its my favorite!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I named the fallen human _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stay Determined, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll make your last living _ absolutely beautiful.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ / _ is my true otp!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite part of Undertale was when _ and _ did _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Papyrus loves it when _ and _ get along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Orange tiles make the protagonist smell like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Green tiles are alarm tiles that summon _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pacifist.",
+    "Toby Fox's secret lair.",
+    "Alphyne.",
+    "Genocide.",
+    "Flowey's laugh.",
+    "Undertale Smut.",
+    "Neutral.",
+    "Friendliness Pellets.",
+    "Undertale Fluff.",
+    "Mettaton's legs.",
+    "Death by Glamour.",
+    "Spider Dance.",
+    "ONION-SAN."
+  ],
+  "pack": {
+    "id": "KDR33",
+    "name": "Undertale Trash"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 13,
+    "total": 24
+  },
+  "dateStoredMs": 1589525586262
+}

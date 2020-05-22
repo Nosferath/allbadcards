@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "\"_ Prism Power, Make up!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pretty Guardian Sailor _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fighting _ by moonlight, Winning _ by daylight....",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Queen Serenity.",
+    "Diana.",
+    "Sailor Neptune.",
+    "Sailor Saturn.",
+    "Amy.",
+    "Queen Baryl.",
+    "Darien Shields.",
+    "Artemis.",
+    "Sailor Venus.",
+    "Sailor Pluto.",
+    "Negaverse.",
+    "Trista.",
+    "Rae.",
+    "Serena.",
+    "Sailor Jupiter.",
+    "Lita.",
+    "Sailor Mars.",
+    "Sailor Moon.",
+    "Michelle.",
+    "Nina.",
+    "Sailor Mercury.",
+    "Sailor Mini Moon.",
+    "Amara.",
+    "Rini.",
+    "Sailor Uranus.",
+    "Hotaru Tomoe.",
+    "Tuxedo Mask.",
+    "Luna."
+  ],
+  "pack": {
+    "id": "225R4",
+    "name": "Sailor Moon"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 28,
+    "total": 31
+  },
+  "dateStoredMs": 1589568310731
+}

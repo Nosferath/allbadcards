@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "The Gang gets in trouble with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's waiting for Charlie in the basement? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taking a trip to the Jersey Shore, only to be met with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing uglier than Dee is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chardee Macdennis took a drastic turn when Charlie was forced to eat _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , fighter of _ , champion of _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Mac Bangs _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A romantic night with Artemis in the dumpster.",
+    "Getting with The Waitress.",
+    "An intense weekend spent figuring out who pooped the bed.",
+    "Denim chicken.",
+    "Dayman! aaAAAaah!.",
+    "Being a golden god.",
+    "Rickety Cricket's bionic legs.",
+    "Chardee Macdennis.",
+    "Rum ham.",
+    "Egg!.",
+    "The D.E.N.N.I.S method.",
+    "Teabagging Cricket.",
+    "Wermhat's worm hat.",
+    "Fight milk.",
+    "Dr. Toboggan. Mantis Toboggan!."
+  ],
+  "pack": {
+    "id": "DXH69",
+    "name": "It's Always Sunny in CAH"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 15,
+    "total": 22
+  },
+  "dateStoredMs": 1589577114376
+}

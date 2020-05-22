@@ -1,0 +1,79 @@
+{
+  "black": [
+    {
+      "content": "Oh hi _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh hi _! I didn't know it was you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _ Lisa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ looks so good on you, Lisa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my best friend!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got the results of the test back - I definitely have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what they say -  _ is blind",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bought some _ off of him. Things got mixed up. I didn't mean for this to happen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are you doing this to me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are these characters doing here? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Having a crush on your step mom.",
+    "Mark.",
+    "Tearing me apart.",
+    "Lisa's red dress.",
+    "Drinking vodka mixed with whiskey.",
+    "Killing yourself on your birthday.",
+    "Aimlessly throwing a football around.",
+    "Breast cancer.",
+    "Cheating on me with my best friend.",
+    "Johnny.",
+    "Pouring wine for 5 minutes in silence.",
+    "Attempting to throw your psychiatrist friend off a roof.",
+    "Thigh humping."
+  ],
+  "pack": {
+    "id": "2VHRE",
+    "name": "The Room"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 13,
+    "total": 23
+  },
+  "dateStoredMs": 1589297963249
+}

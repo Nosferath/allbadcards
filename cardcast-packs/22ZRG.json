@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "To the pain means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ of Unusual Size? I don't think they exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You fell victim to one of the classic blunders, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are men of _. Lies do not become us.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't mean to pry, but you don't happen to have _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Inconcievable!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I challenge you to a battle of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, I'm not saying I'd like to build a summer home here, but the _ are actually quite lovely.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "True love.",
+    "Magic Max.",
+    "As you wish.",
+    "Inigo Montoya.",
+    "Perfect breasts.",
+    "Prince Humperdink.",
+    "A six-fingered man.",
+    "Stormin' da castle."
+  ],
+  "pack": {
+    "id": "22ZRG",
+    "name": "Cards of Unusual Size"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 8,
+    "total": 16
+  },
+  "dateStoredMs": 1588905815838
+}

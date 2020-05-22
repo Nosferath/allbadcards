@@ -1,0 +1,43 @@
+{
+  "black": [
+    {
+      "content": "Trump's great! Trump's got _. I love that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's 3AM. The red phone rings. It's _. Who do you want answering?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A liberal bias.",
+    "Hating Hillary Clinton.",
+    "Dispelling with this fiction that Barack Obama doesn't know what he's doing.",
+    "The good, hardworking people of Dubuque, Iowa.",
+    "Growing up and becoming a Republican.",
+    "Sound fiscal policy.",
+    "Courageously going ahead with that racist comment.",
+    "Actually voting for Donald Trump to be President of the actual United States.",
+    "Jeb!.",
+    "Conservative talking points.",
+    "Full-on socialism.",
+    "Shouting the loudest."
+  ],
+  "pack": {
+    "id": "UJEXZ",
+    "name": "CAH Vote for Trump Pack"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 12,
+    "total": 15
+  },
+  "dateStoredMs": 1588998822332
+}

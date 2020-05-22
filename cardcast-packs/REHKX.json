@@ -1,0 +1,99 @@
+{
+  "black": [
+    {
+      "content": "The difference between working at home and in the office is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "20 calls and the only good one was the guy who was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AEP can often be described as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got written up, I guess I forgot to mute and the customer heard me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dont worry, for AEP I packed away _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a letter in the mail, saying i could get more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Customer service transferred me _. Still not the worst call of the day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part about AEP is the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Supplement call? I would rather be _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Jamie is at Target he often wonders about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Working at home is like  _ but better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The way you can tell this is work and not prison is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Intradiem called you out, what were you doing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If that doesn't appeal to you, your plan also will include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only thing keeping me sane, after 8 hours of talking to medicaid people.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "My tiny taco smelling hands.",
+    "Assali.",
+    "One of Barry Striets Hawaiian shirts.",
+    "Whatever it is, its totally something a millennial would do.",
+    "The golden children in Roanoke.",
+    "AEP.",
+    "Old entitled people.",
+    "12 PDP enrollments."
+  ],
+  "pack": {
+    "id": "REHKX",
+    "name": "Work, you wont get it"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 8,
+    "total": 23
+  },
+  "dateStoredMs": 1588945030713
+}

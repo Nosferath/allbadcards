@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "_ IS REAL, RIGHT?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stacking 29 _s on your head.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A Bad Time™.",
+    "Geeettttttting dunked on!!.",
+    "Having to decide whether or not to tell Undyne anime is not real.",
+    "Carrying too many dogs."
+  ],
+  "pack": {
+    "id": "7GCNM",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1588648322165
+}

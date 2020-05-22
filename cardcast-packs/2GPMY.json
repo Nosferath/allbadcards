@@ -1,0 +1,115 @@
+{
+  "black": [
+    {
+      "content": "For the best customer service around, call 1-800-_!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. President, _ is here to see you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I caught my husband cheating on me with _! What a pig!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what? I'm done with life. And it's all _ fault!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My wife gave me a _ for our anniversary, she hasn't been heard from in a while.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everybody put your hands up! This is a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ should be considered a felony.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The United States of America, land of the _ and the home of the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My parents said I'm a disappointment because I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On his deathbed, my grandpa's dying wish was to _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Personally, I think that _ is the greatest song ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's _ is it anyway?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happens in _, stays in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The world is made up of _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hi, I'm Guy Fieri and this is _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Donald may have won the election, but Hillary won the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the beginning there was a word, and the word was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terrorism is caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry but we have to deny your loan request for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can be solved by _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "2GPMY",
+    "name": "Cards Against Edge"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 0,
+    "total": 20
+  },
+  "dateStoredMs": 1589168536376
+}

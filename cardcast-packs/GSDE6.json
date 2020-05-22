@@ -1,0 +1,26 @@
+{
+  "black": [],
+  "white": [
+    "Emily Prentiss.",
+    "Penelope Garcia.",
+    "JJ.",
+    "UnSub.",
+    "An IQ of 187.",
+    "Aaron Hotchner.",
+    "David Rossi.",
+    "Tobias Hankel.",
+    "Spencer Reid.",
+    "Derek Morgan.",
+    "Strauss."
+  ],
+  "pack": {
+    "id": "GSDE6",
+    "name": "Criminal Minds"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 11,
+    "total": 11
+  },
+  "dateStoredMs": 1588555168354
+}

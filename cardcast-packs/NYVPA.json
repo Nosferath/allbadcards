@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "Once in a life time opportunity is to_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A once in a life time opportunity is to_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "S.",
+    " .",
+    "K.",
+    "P.",
+    "Y.",
+    "S.",
+    "U.",
+    "C.",
+    "\"Buy a Twinkie\".",
+    "U.",
+    "F.",
+    "\"Have an STD\"."
+  ],
+  "pack": {
+    "id": "Nyvpa",
+    "name": "Rude and funny"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 12,
+    "total": 14
+  },
+  "dateStoredMs": 1589052629046
+}

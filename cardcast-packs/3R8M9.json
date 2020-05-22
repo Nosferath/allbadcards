@@ -1,0 +1,39 @@
+{
+  "black": [
+    {
+      "content": "_ narzędziem zabaw na niemieckich nastolatkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haribo stworzyło nowe żelki o nazwie _, a smakują jak _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Kutas z nieogolonymi włosami.",
+    "Rozdziewiczony pas samochodowy.",
+    "Napalający się na operację Krzysztof Bęgowski.",
+    "Dochodząca Cyganka wybiegająca z sexshopu.",
+    "Transsyberyjska plantacja bananów.",
+    "Czarnobylska kura z przyrodzeniem afroamerykanina.",
+    "Zakonnica na rowerze (bez siodełka).",
+    "Rów! Mokry i głęboki.",
+    "Grzechotnik analny.",
+    "Golfistka posługująca się kijem golfowym jak twój stary prezerwatywą.",
+    "Przeglądanie się w zasranym kiblu.",
+    "Srający gej wsadzający sobie palec w dupe.",
+    "Szczoteczka do zębów z funkcją wibratora."
+  ],
+  "pack": {
+    "id": "3R8M9",
+    "name": "Kirszu's dreams"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 13,
+    "total": 15
+  },
+  "dateStoredMs": 1588616113082
+}

@@ -1,0 +1,60 @@
+{
+  "black": [
+    {
+      "content": "Se Falanga non fosse un politico, sarebbe un_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Avere_al posto di un arto sarebbe fantastico",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_o_ sono ideali per sopravvivere",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ciro è stupido come_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gennaro è bellissimo, ma allo stesso tempo è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se leggessi su un giornale_sarei stupito",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono disposto a tutto, anche a _ pur di vivere",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non c’è meglio di_dopo un bel drink",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le torri gemelle sarebbero intatte se_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "3M5GB",
+    "name": "Non so come chiamarlo"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 0,
+    "total": 9
+  },
+  "dateStoredMs": 1589062505054
+}

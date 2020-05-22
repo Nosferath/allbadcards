@@ -1,0 +1,309 @@
+{
+  "black": [
+    {
+      "content": "What's the secret project in room 314? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got a theory, it could be _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think _ should get their own spin-off with _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm like a _ or something!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My best advice to new Slayers is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the thing that _ have nightmares about.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New plan: we attack the Mayor with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buffy got a part time job working at _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, a gathering is _ ; shindig, _ ; and a hootenanny, well, it's _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "That's a weird place for a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gym was cancelled due to the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm drowning in _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish we'd been turned into our Halloween costumes this year; I went as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Want. Take. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is your gift.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's definitely something unnatural going on, and that doesn't usually lead to _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't warn the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank God we're _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think _ cast a spell to make everyone _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hardest thing in this world is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is everyone here _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler alert: _ is actually _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In every generation, there is a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Buffy thought the Doublemat Palace's secret ingredient was _, but it was actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is the kind of wooly-headed liberal thinking that leads to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm under your _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I touched demon blood and all I got was _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder how vampires _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First rule of slaying: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Big Bad's scheme of the week involves _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing uncool about _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This week on Buffy the Vampire Slayer,  Buffy takes on _ (which is really a metaphor for _)",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Scooby Gang stopped the latest apocalypse with a combination of _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "If I kiss you, it'll _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Fyarl, \"AUGHUUUGGHAWWAAAGGGGHHHH\" actually means _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Buffy, the _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That'll put _ in your pie plate, bingo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _, the Vampire Slayer",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I dressed as  _ the year we got turned into our Halloween costumes. It was horrible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I may be _, but I'm still pretty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dawn's in trouble. Must be _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A very tiny fear demon.",
+    "Everybody's butt-monkey.",
+    "Don't die.",
+    "The emotional maturity of a blueberry scone.",
+    "Tara.",
+    "Dark Willow.",
+    "Copious use of Buffy-speak.",
+    "Letterman jacket that brainwashes people.",
+    "Cordelia.",
+    "The Gentlemen.",
+    "Buffy.",
+    "Bumpy-faced vampires.",
+    "Watch strange foreign musicals.",
+    "Wesley Windham-Pryce.",
+    "Those onion blossom things.",
+    "BUNNIES! BUNNIES, IT MUST BE BUNNIES!.",
+    "The First Evil.",
+    "Telepathically learning that my mom and mentor had sex.",
+    "Fruit punch mouth.",
+    "Orgasm friend.",
+    "Angelus.",
+    "Hello salty goodness.",
+    "Giant snake demon.",
+    "BuffyBot.",
+    "The Doublemeat Palace.",
+    "A superhero or something.",
+    "Marzipan.",
+    "Vampire Willow.",
+    "Faith Lehane.",
+    "Creepy, entitled jocks.",
+    "Being eaten by a pack of possessed teenagers.",
+    "Extreme dead guy in the locker.",
+    "My yummy sushi pajamas.",
+    "Nobody deserves a mime.",
+    "A world without shrimp.",
+    "Anya.",
+    "Oz's ever-changing hair.",
+    "Potential Slayers.",
+    "Mr. Pointy.",
+    "Don't read Latin in front of the books.",
+    "Secret military base underneath a frat house.",
+    "Paralyzing mucus.",
+    "Hide until it goes away.",
+    "Homosexual subtext.",
+    "Drusilla.",
+    "Xander.",
+    "Willow.",
+    "Magic (as a metaphor for gay sex).",
+    "Vampire Slayer.",
+    "Principal Snyder.",
+    "Olaf the troll.",
+    "Hot chicks with superpowers.",
+    "Make the sun go down.",
+    "Fuel a haunted house WITH SEX.",
+    "Take over the Bronze.",
+    "Turning into your Halloween costume.",
+    "A box filled with billions of demon bugs.",
+    "Spike.",
+    "The Trio.",
+    "A world with nothing but shrimp.",
+    "The Master.",
+    "A Frankendemon with mommy issues.",
+    "Glittering, glistening Glorificus.",
+    "The Bronze.",
+    "THEY GOT THE MUSTARD OUT!.",
+    "Chocolate bars that turn adults into teenagers.",
+    "Frog fear.",
+    "Dawn.",
+    "Destiny.",
+    "Magic (as a metaphor for drugs).",
+    "Explode into dust.",
+    "Beer that turns you into a caveman.",
+    "Mayor Wilkins.",
+    "Warren Mears.",
+    "Spontaneously burst into song.",
+    "Cast a spell to make everyone think you starred in The Matrix.",
+    "Running for Homecoming Queen.",
+    "Sing your feelings! Until you spontaneously combust!.",
+    "Warren Mears (the asshole).",
+    "Giles.",
+    "Kitten poker.",
+    "Angel.",
+    "That's not a horn.",
+    "Teenage angst.",
+    "Grr. Arr.",
+    "Very stoned.",
+    "Chosen One.",
+    "Your mom and mentor having sex. On the hood of a police car. Twice."
+  ],
+  "pack": {
+    "id": "GU4EF",
+    "name": "Buffy the Vampire Slayer"
+  },
+  "quantity": {
+    "black": 41,
+    "white": 88,
+    "total": 129
+  },
+  "dateStoredMs": 1588450100602
+}

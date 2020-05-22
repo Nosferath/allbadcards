@@ -1,0 +1,864 @@
+{
+  "black": [
+    {
+      "content": "I was _ when Saddam Hussein was being hung",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ You'll only do it once",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm hungry, I wish I had _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Its fun to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The film 'Human Centipede' is actually about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\" _ \" - Rolf Harris.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That moment when _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help! My Uncle is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who really killed David Bain's Family? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who really killed Reeva Steenkamp? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The jury funnels in from deliberation. The crime? _. The sentence? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the chow mein was good but you miss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meet my new best friend _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fun fact: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Waking up to find _ all over you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You should never invite _ into your house.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "don't pull _ out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When in the shower I think about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haha _ isn't that bad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who lives in a pineapple under the sea? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , it was just a prank bro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I smoke _ to get high.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the best DIY abortion technique.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are my favourite people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are really quite good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The lion the _ and the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A++ seller would buy _ from again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You'll find _ on the dark web.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On a scale from _ to _ , how has your day been?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Insert _  here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ made the boy cry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not being racist, but _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We never found _ but we learned a lot about _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ would be great to go on a camping trip with.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . It keeps me up at night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad things to yell at a small child: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things you shouldn't put in a microwave: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Death by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can never grow out of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When suddenly _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Join the _ , its always a great time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is my Sister my Mum? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite sound is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a great way to spend Thursday night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best way to harvest foetuses? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are people too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Driving lessons with _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help!! I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feminists, what are they? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Slip into something more comfortable, like  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Bear Grylls would eat that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What not to yell at your boss: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Robin Williams's greatest achievement? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What not to say in public: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is going to boy scouts a great idea? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you like _ on that _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A stoners' to do list: 1. _ 2. _ 3. _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I enjoy _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how I would solve world hunger.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just can't take a joke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry I'm late I was doing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ needs to take a shower.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the sound of _ in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry I'm late, I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Being chased by _ is not ideal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No you may not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're happy and you know it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why cant fat chicks and skinny guys do cow girl? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _  are the perks of being a priest.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Michael Jackson actually died from _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is/are fun to use as toilet paper.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite movie is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "0800 _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I so salty? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ never fails to get me off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a great way to pass the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's been a hard week, pass me the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a really good past time",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never ease down on a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I get off by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I vent my anger by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad things to yell at an Asian: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop struggling or I'll _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would be a really good slave.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_and _ would be amazing dinner guests.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No Mr Bond I expect you to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What not to yell at a nugget: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes your teeth go grey.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite food is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll give you a dollar if you: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ only in Gore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help!! I just shot _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're happy and you know it _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Tui, Yea right.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for President",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jet fuel may not be able to melt steel beams but it can: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na, _ is legal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad things to yell at an emo: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The voices told me to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niggers be like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the shittiest super power ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the downside to being a paedophile.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What not to yell at a retard: _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Drink more bleach.",
+    "Stroking the hairy dong of a yeti.",
+    "Genocide.",
+    "Basket case.",
+    "Not letting that extra chromosome get you down.",
+    "Short people.",
+    "Allahu akbar.",
+    "Breaking the hymen and pelvises of 3 week old babies.",
+    "Forget how to breathe.",
+    "Ethnic clensing.",
+    "Aushwitz.",
+    "My left nut.",
+    "Satan.",
+    "JFK's brains pouring onto his wifes lap.",
+    "Selective Amnesia.",
+    "Egg.",
+    "Jizzing inside your sister to get a twoffer.",
+    "Firing babies out of a cannon.",
+    "Burn the Jews.",
+    "Smashing toddlers with a cricket bat.",
+    "Genital warts.",
+    "Ripping a foetus from the womb.",
+    "Hog tie a child and throw in front of a freight train.",
+    "It's not necrophilia if they're in a coma.",
+    "Screaming for Mum because your intestines are being wound around your neck.",
+    "The failed abortion of a son that is an abomination to your family.",
+    "Rotting corpses.",
+    "Don't swim backwards fam.",
+    "Broken Pelvises.",
+    "The extra chromosome.",
+    "The Koran.",
+    "The Stig.",
+    "Leaving the EU because you're all grown up now.",
+    "Joseph Fritzl's family.",
+    "A failed abortion.",
+    "Numeral number of the alphabet.",
+    "Set yourself on fire.",
+    "A broken condom.",
+    "Kenyan orphans.",
+    "Rigged Russian roulette.",
+    "Kamikaze asians.",
+    "The ability to turn into the hulk but only when your asleep.",
+    "Because I can't take a joke.",
+    "Do you have a 3 sided purple?.",
+    "Using the family brain cell.",
+    "Stealing the battery of an autistic waste of space in an electric wheel chair and leaving them on some train tracks.",
+    "Bleach.",
+    "Yellow.",
+    "Tea bagging a bear trap.",
+    "Down the road not across the street.",
+    "Narwhal(s).",
+    "Kill some infidels in the name of Allah.",
+    "The Asian invasion.",
+    "Twister with a nudist family.",
+    "A starved Jew.",
+    "Injecting highlighter fluid into your blood stream.",
+    "9/11.",
+    "A joke being so dark it steals your tv.",
+    "Paul Walker.",
+    "Bum flaps.",
+    "Drop kicking a small child in front of a freight train.",
+    "Flight MH 370.",
+    "Crucifixion.",
+    "Decapitated children.",
+    "Eating people from Sweden because they're Swedes and your girlfriend wants you to eat vegan.",
+    "Jimmy Savile.",
+    "Go die in a hole.",
+    "Michael Jackson's plastic body being turned into Lego so kids can play with him for a change.",
+    "Ill abuse you so badly you'll think I was a friend of the family.",
+    "Cumming so hard my glasses fell off.",
+    "Drinking glow stick fluid to brighten up your day.",
+    "Live in a German 'work camp'.",
+    "Fat ugly trolls.",
+    "Baseball bat with a nail through it.",
+    "Does this smell like chloroform?.",
+    "Gloriavale.",
+    "Some gay kids at a night club.",
+    "Nuclear weapons don't exist.",
+    "Injecting oxygen directly into your blood stream.",
+    "Bill Cosby.",
+    "Snap your spine.",
+    "Eating out a homeless woman because it's a form of charity.",
+    "Gore.",
+    "Masterbating in the school toilets.",
+    "Force feeding a Muslim bacon.",
+    "Gas showers.",
+    "The colour jellyfish.",
+    "Laughing while setting animals on fire.",
+    "Sitting in your bath with a toaster.",
+    "Netflix  and homicide victim.",
+    "Spleen.",
+    "Shooting up your school because you were never loved.",
+    "Death to all infidels.",
+    "Cooking marshmallows over a gingers' head.",
+    "Egg beater.",
+    "Egg \"beating\".",
+    "Making poor quality shoes for 3¥.",
+    "Japanese whalers.",
+    "Straight people.",
+    "Dirty Sanchez.",
+    "Joseph Stalin.",
+    "Vaginal grip like a dead mans' handshake.",
+    "Sadness, leading to depression, and eventual cliff jumping.",
+    "Madeleine McCann.",
+    "Kicking the foetus back into the abortion bucket.",
+    "Setting fire to the intensive care unit to cook the vegetables.",
+    "You should be put down.",
+    "Throwing toddlers out of fast moving vehicles.",
+    "Spunking in the gutter.",
+    "Autistic children.",
+    "BBW bondage.",
+    "Menstral rage.",
+    "The strange people in my attic.",
+    "Trying to lose your virginity through the Make- A- Wish foundation.",
+    "Oscar Pistorius.",
+    "David Bain.",
+    "Don't worry, he was going to die of cancer anyway.",
+    "Cook two minute noodles in 1 min and 59 seconds.",
+    "Seig heil.",
+    "Using a rhino horn as a butt plug.",
+    "Ability to change flavor of popcorn at will.",
+    "The klu klux klan.",
+    "Random Strokes.",
+    "The cat.",
+    "Having a 'stroke' in the childrens' ward.",
+    "World hunger.",
+    "Heiling a cab in Germany.",
+    "He was like that when we got here.",
+    "Stalker(s).",
+    "Ebola.",
+    "A coat hanger and a curling iron.",
+    "Quietly fapping in the corner.",
+    "Donald Trump should have been put down.",
+    "Stepping on a land mine.",
+    "Having no arms because you were at the Boston marathon.",
+    "Tentacles.",
+    "More bleach.",
+    "Malaysian airlines pilots.",
+    "The ability to teleport to Kenya, but only Kenya, and not back.",
+    "Menstral fluid.",
+    "The neighbors dog.",
+    "Bathe in battery acid.",
+    "Mass genocide.",
+    "That weird old guy in my basement.",
+    "Joseph Fritzl.",
+    "Jizzing into a swimming pool for a laugh.",
+    "9/11 victims.",
+    "Cereal killer(s).",
+    "Turning yourself inside out.",
+    "Having a seizure because the rave is lit.",
+    "Cut your teachers brake lines.",
+    "Burning midget.",
+    "Sacrificing seven virgins in your basement to our lord Satan while wearing the head of a wombat.",
+    "Motor neuron disease.",
+    "Abuse the elderly.",
+    "Reeva Steenkamp.",
+    "STI's.",
+    "Whack a mole with real moles.",
+    "Jews have big noses because the air is free.",
+    "Boy scouts.",
+    "Murder aunt gerald.",
+    "Stick your head under a pile driver.",
+    "Throwing acid at strangers.",
+    "The next door neighbours cat on spin cycle.",
+    "In a car with Paul Walker.",
+    "Mortar accidents.",
+    "Getting sodomized.",
+    "Down syndrome(s).",
+    "Walter White's meth lab.",
+    "Noose.",
+    "The souls unborn abortions.",
+    "Shooting fireworks at a hobo.",
+    "Scrub.",
+    "Giving children matches to play with.",
+    "Baby flavoured condoms.",
+    "Scout master Tom.",
+    "Making human sacrifices in your back garden to Acratopotes , god of unmixed wine and incontinence.",
+    "Doin' the JFK:  splattering all over her while she screams and tries to get out of the car.",
+    "Because your family tree is a circle.",
+    "Noisily slurp a freshly killed virgins spinal fluids.",
+    "Listening to the voices in your brain.",
+    "Quack?.",
+    "Erectile dysfunction.",
+    "A cucumber.",
+    "Freedom of speech.",
+    "Playing football with a hogtied dwarf.",
+    "Stealing children's legs.",
+    "Burns victims.",
+    "Running race with a tetraplegic.",
+    "Run over the autistic kid.",
+    "World war 3.",
+    "Using a camels dong as a straw to slurp up the remains of homicide victims that have been fed into a blender.",
+    "Having an infected tesicle and jizzing pus.",
+    "A coma.",
+    "Counting race with a down syndrome.",
+    "Mein kampf.",
+    "Drowning a small child.",
+    "Brussels bombings.",
+    "Salt.",
+    "Plasma from the insides of a dying leprechaun.",
+    "Several pieces of carpet.",
+    "Colon fluid.",
+    "Plastic hand cuffs.",
+    "It's not gay if you don't push back.",
+    "The voices hurt.",
+    "A flight of stairs.",
+    "Hot sauce.",
+    "Boris Johnson.",
+    "Slicing your ball sack on razor wire.",
+    "A combine harvester.",
+    "Dabbing with a panda.",
+    "Being hit in the head by a discus.",
+    "Accidentally molesting small children.",
+    "Braindead oxygen thieves.",
+    "Laughing at homeless people out the window of your Mercedes.",
+    "Army of the dead.",
+    "Chinese water torture.",
+    "Lifes' just not for everyone sometimes.",
+    "Tipping over a retards wheel chair and gutter stomping them.",
+    "South Dunedin.",
+    "Fingerblasting a fat chick.",
+    "Burning the confederate flag.",
+    "Eating freshly harvested human foetuses.",
+    "Fatal car accidents.",
+    "The ghost of Michael Jackson.",
+    "She said she was 18.",
+    "Going to Guantanamo bay for a school field trip.",
+    "Get shat on by life son.",
+    "Family shower fun time.",
+    "Drinking your arsehole bleach.",
+    "The terrifying sex noises that deaf people make.",
+    "Auschwitz smoke.",
+    "Donating your aids filled cancerous blood to neonatal care.",
+    "You'll break your dick.",
+    "Cacti dildo.",
+    "Hide your daughter under your house and produce a family of inbred cunts without your wife knowing.",
+    "Squid porn.",
+    "You jewey kike.",
+    "Retard porn.",
+    "Titty fucking children.",
+    "Slendermans' long pale dick.",
+    "Cumming when the porn switches to the dudes face.",
+    "Using a wood chipper to fit more children in your pedo van.",
+    "Thrusting your cock through a child's eye and feeling the eye ball burst as you cum. The fluids of both mixing causing your orgasm to heighten as the child screams, twitches, then dies as the mixture of cum and eye ball seeps into their brain.",
+    "Posessed dildo.",
+    "Wrapping your dick in barbed wire.",
+    "Could you be any more of a cunt.",
+    "Play find the sausage with a pedophile in a clown suit.",
+    "A glass jar that breaks inside your arse.",
+    "An awkwardly timed suicide joke.",
+    "Hitler.",
+    "You mongoloid fuck.",
+    "Hitting the weed so hard you can see all the sounds.",
+    "Inserting Buzz Lightyear up your arse whilst listening to the song 'You've got a friend in me'.",
+    "Make you piss shit and shit piss.",
+    "Suck my arse.",
+    "Rapist(s).",
+    "A twitching body with its nipples hooked up to a car battery.",
+    "A rape victim.",
+    "Being sexually abused.",
+    "Choo choo motherfucker.",
+    "Clitoris.",
+    "Diarrhea in a gimp suit.",
+    "The European photographer that's fucking my wife.",
+    "Child snatching.",
+    "Fuck your self with a whitehot steel rod until your arsehole blisters and bursts.",
+    "Watching strangers sleep.",
+    "Being fucked by Mr Tumnus in Narnia.",
+    "Being forced to remove your balls with a spoon.",
+    "David pig- fucker Cameron.",
+    "Wog(s).",
+    "Ripping out anal beads like starting a lawnmower.",
+    "Sexual angst.",
+    "Old shriveled jizz sock.",
+    "A sand nigger.",
+    "Drinking boiling horse cum and feeling it sear the back of your throat.",
+    "Anal cavities.",
+    "Force feed your dick to a monkey.",
+    "Fucking the still warm corpse of Anne Franke.",
+    "Snapping your boner.",
+    "Wearing the skin of a nigger while chanting and dancing around a pile of burning corpses.",
+    "Kicking a twitching corpse.",
+    "Jewey kike.",
+    "Fuck me sideways and call me a turnip.",
+    "Rape you till your anus prolapses.",
+    "Sasquatch porn.",
+    "Being a shit stain on the wall of society.",
+    "Retarded mongoloid fuck.",
+    "Clusterfuck.",
+    "A sperm whales sperm.",
+    "The sound of Justin Bieber being shat out of his mother's arsehole.",
+    "Stitching people togeather arse to face in a chain and feeding the first one a hot curry.",
+    "Fuck a duck.",
+    "Skullfuck some toddlers.",
+    "Having an aneurysm while fondling a spastic.",
+    "Wank rag.",
+    "Phlacid penis.",
+    "Fuck nigger shit tourettes goose shit shit tits.",
+    "Suicide pacts.",
+    "Jump already you fucking simpleton.",
+    "Dead children porn.",
+    "Giving rim jobs to underage Vietnamese sex slaves.",
+    "Waking up with a prolapsed anus.",
+    "Wearing your jizz sock as a balaclava.",
+    "Masturbating and yelling mum then finishing before she gets to your room.",
+    "Being the person that got aids from a monkey.",
+    "The souls of 10,000 rape victims.",
+    "Pedophile(s).",
+    "Put your dick in the owl.",
+    "DIY rape dungeon.",
+    "Being skullfucked by a 12 ft walrus.",
+    "Being such a fuck- up even down syndromes laugh at you.",
+    "Cum bucket.",
+    "Sand nigger(s).",
+    "Masturbating slowly to a picture of your dead grandma.",
+    "Rape victims.",
+    "Vegan cunts.",
+    "Stabbing a spastic gook.",
+    "Balls deep in a dead tranny.",
+    "Archimedes's gooch.",
+    "32 inch anal beads.",
+    "Having your eyes removed with an aids blood covered stick.",
+    "When the vibrator runs out of battery so you have to use the eggbeater.",
+    "Shitting literal bricks which tear your arsehole into a square.",
+    "Seig fucking heil.",
+    "It's not rape if they can't struggle.",
+    "The cum shot that should have been swallowed.",
+    "Slowly easing your dick into a meat grider."
+  ],
+  "pack": {
+    "id": "2HYR7",
+    "name": "Deep fry your cat."
+  },
+  "quantity": {
+    "black": 104,
+    "white": 328,
+    "total": 432
+  },
+  "dateStoredMs": 1589385954371
+}

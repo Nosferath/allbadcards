@@ -1,0 +1,407 @@
+{
+  "black": [
+    {
+      "content": "Kedd esténként _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A maguk balatoni nyaralójában is van _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Múlt órán a _-ról volt szó.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A(z) _ tápanyagokban gazdag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A drámaóra _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szerintem _ egy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Múlt órán volt egy _ az asztal alatt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "AZ AGYAM ÚGY ÉRZI _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A jövő héten _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ egy _ volt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Az igazgató _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A kölcsönös tisztelet csak úgy van meg, hogyha _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-nak nagyon szőrös a _-ja.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A mai tanítás a _ miatt elmarad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magyarországon őshonos a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pinviczki órája _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Testnevelés órán csináltam egy _ a _-ból.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Azért nem csináltam házit, mert _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az előző óra _ volt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Csináljanak egy prezentációt a _-ról holnapra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fidler órája _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Radnótiban fontos a(z) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ egy vicc.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gál Viki bejelentette, hogy elvisz egy _-t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Azért nincsenek még kijavítva, mert _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Felháborító, hogy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha _ szuperhős lenne, a szuperereje a _ lenne.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szopol-e _-ért?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nekem nincs bajom a _-val, csak szerintem olyan _-os.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Leányvári órája _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én az zoomos órákon mindíg _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szeretem a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tanár, aki érettségin teherbe esett a diákjától _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ami igazán összetartja a z osztályt az a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somogyi órája _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tegnapi angol óra _ volt, a mai _ és a holnapi pedig _ lesz.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Egyértelműen megállapítható, hogy _ egy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Az egyetlen kötelező olvasmány, amit elolvastam a _ volt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tesi Margóval olyan, mint _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vida órája _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Étkezés közben általában _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kőrösi nem aludna az irodalomórákon, ha _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Én szívesen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ befingott.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Véletlenül ráléptem egy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tavalyi osztálykiránduláson rengeteg volt a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A lányok szeretik a _-t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma már biztos nem lesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Az egyik órán, mikor ültem a padban, egyszer csak kimászott egy _ a szoknyám alól.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ óráján imádok _ csinálni.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Etika óra.",
+    "Online oktatás.",
+    "Periódusos rendszer.",
+    "17 darab órai munka 1-es egy tanév alatt.",
+    "Radnótis farkoméregetés.",
+    "Egy fanatikus kurva.",
+    "Hisztis picsa.",
+    "Somogyi.",
+    "Járvány.",
+    "Oxidáció.",
+    "Szőrös.",
+    "Tej.",
+    "Unalmas órák.",
+    "A pál utcai fiúk.",
+    "Térdzokni.",
+    "Felhúznám.",
+    "Leköpték Eszter lyukát.",
+    "Öngyilkosság.",
+    "ÁFG.",
+    "Egészséges táplálkozás.",
+    "Felsikít.",
+    "Ebéd.",
+    "Lángos.",
+    "Röppentyű.",
+    "Büfés néni.",
+    "AFKolok.",
+    "Erkölcs.",
+    "Szenvedés.",
+    "Fasz.",
+    "Nyelvtan náci.",
+    "Szakma.",
+    "Duplairodalom.",
+    "Kurva.",
+    "Kecsketej.",
+    "Osztálytársak.",
+    "Év végi 5-ös.",
+    "Szegedi Radnóti Miklós Kísérleti Gimnázium.",
+    "A náci németország.",
+    "Szemét osztálytársak.",
+    "Méhecske.",
+    "Egyetem.",
+    "Szaktudás.",
+    "Autizmus.",
+    "Fontos a megfelelő mennyiségű alvás.",
+    "Kávé.",
+    "Pinviczki.",
+    "Bor.",
+    "Egy kis Somogyi.",
+    "Tömeggyilkosság.",
+    "Irritáló ember.",
+    "Fleshlight (műpunci).",
+    "Dráma óra.",
+    "Elfoglalt voltam.",
+    "Zsidó.",
+    "Elnyomott társadalmi réteg.",
+    "Bundáskenyér.",
+    "Rohadt patkány.",
+    "Pók.",
+    "Gondolatok a könyvtárban.",
+    "9 dolgozat.",
+    "Szorgalmi 5-ös.",
+    "Másodrendű hidrogénkötés.",
+    "Vallásos.",
+    "Kis buzi.",
+    "Éderné Pilling Csilla.",
+    "Átengednek év végén.",
+    "Beadandó.",
+    "Szakértelem.",
+    "Dolgozat.",
+    "Picsafüst.",
+    "Amit Hancsák csinált azzal a diáklánnyal.",
+    "Osztálytárs.",
+    "Témazáró.",
+    "Hajnalig tanulok.",
+    "Poloska.",
+    "Rakott krumpli.",
+    "Kötél.",
+    "Nincs kész a házim.",
+    "Tisztelet.",
+    "Shakespeare.",
+    "Korona.",
+    "Hancsák.",
+    "Netflix.",
+    "Az autista gyerek a hátsó padsorból.",
+    "Szeptember végén.",
+    "Egy fasz.",
+    "Pingvin.",
+    "Hódmezővásárhely.",
+    "Mászókötél.",
+    "Pici hajlékony lányok.",
+    "20cm.",
+    "Kevésbé unalmas órák.",
+    "Pici Panka.",
+    "Szar.",
+    "3 témazáró.",
+    "Szopás.",
+    "Geci.",
+    "Szovjet unió.",
+    "A suli előtt cigiző tanárok.",
+    "Videojátékok.",
+    "Pizza.",
+    "Vida Róbert.",
+    "Ribanc.",
+    "Fronebl.",
+    "Halott veréb.",
+    "Fegyelem.",
+    "Második világháború.",
+    "Érettségi.",
+    "Házi feladat 1-es.",
+    "Másodfokú megoldóképlet.",
+    "Eszter.",
+    "Alpaka.",
+    "Vida.",
+    "Katolikus.",
+    "Fotoszintézis.",
+    "Törökné.",
+    "Láb.",
+    "Szülésre emlékeztető hangok.",
+    "1.000.000Ft-os érintőképernyős tv.",
+    "Ne aludjon az órámon.",
+    "Bowlingozás.",
+    "Alvó Kőrösi.",
+    "Tucat tojás.",
+    "Harisnya.",
+    "Barát.",
+    "Barátnő.",
+    "1.5m távolság.",
+    "Kovalens kötés.",
+    "Hóhércsomó.",
+    "Pedofil.",
+    "Hitler."
+  ],
+  "pack": {
+    "id": "Wjqdu",
+    "name": "Radnóti"
+  },
+  "quantity": {
+    "black": 52,
+    "white": 131,
+    "total": 183
+  },
+  "dateStoredMs": 1588777378744
+}

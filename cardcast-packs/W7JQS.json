@@ -1,0 +1,63 @@
+{
+  "black": [
+    {
+      "content": "OMG The Russo brothers just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loki reminds me of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When S.H.E.I.L.D. fell, Tony Stark was worried about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thor's first order of royal duty was to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If someone lays a hand on my boo _ , they finna _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Captain America has a rational fear of _ due to blank _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Accords: You can only do the missions we want you to. Captain America:_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Captian Daddy.",
+    "Lord beer me strength.",
+    "This is so sad. F.R.I.D.A.Y., play Hooked on a Feeling.",
+    "Dormammu, I've come to bargin.",
+    "Sokovia floating in the air to destroy the rest of the world.",
+    "The wizard here to protect us from unseen dangers.",
+    "Buckyeet.",
+    "\"Language!\".",
+    "\"Mission failed. We'll get em' next time\", said Peter Parker.",
+    "Shuri and Peter shouting vine references.",
+    "The act of ripping the gauntlet out of Thanos's grimy hands.",
+    "Thot Organson."
+  ],
+  "pack": {
+    "id": "W7JQS",
+    "name": "Marvel Deck"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 12,
+    "total": 19
+  },
+  "dateStoredMs": 1588722233492
+}

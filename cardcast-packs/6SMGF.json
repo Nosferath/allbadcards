@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "Why do we all hate Edinburgh? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you always find at the four corners? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Yer da.",
+    "Fucking English wankers.",
+    "DIS COS TAN.",
+    "Celtic.",
+    "Just another reason Edinburgh is shite.",
+    "Rangers.",
+    "Raging goths.",
+    "Yer da sells Avon.",
+    "Haggis.",
+    "Yer maw."
+  ],
+  "pack": {
+    "id": "6SMGF",
+    "name": "SCOTLAND"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1589077569053
+}

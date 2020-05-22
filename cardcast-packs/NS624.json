@@ -1,0 +1,128 @@
+{
+  "black": [
+    {
+      "content": "Pat got banned from Discord for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Waystone party went from good to great when the conversation turned from _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Spring fundraiser surprised everyone when it announced it would raise money by selling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this years Worldbuilders lottery, I won _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Pat having technical difficulties? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We were all surprised when instead of music, Pat started the stream with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pat's newest rant is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For this year's million dollar stretch goal, Pat is offering _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pat's Rick and Morty comic will feature _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Worldbuilders auction you can now bid on a critical review from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Oot stream got a bit weird when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I get banned from Pat's Twitch chat? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moki rejected our idea for a new channel about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Auri find in the Underthing? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On this week's Unattended Consequences, Max and Pat discussed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In addition to bees and goats and cows, Heifer now allows you to buy _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Team Yennifer.",
+    "🍆.",
+    "Answering a question with an unrelated story.",
+    "A writing hatchet.",
+    "Nekkid Geralt.",
+    "Crying during Pat's mental health stream.",
+    "Being Travel Channel Pretty.",
+    "A literary critique of the narrative flaws in a video game.",
+    "Boop!.",
+    "Getting banned from the library.",
+    "Asking about Pat's beard.",
+    "Gettin’ that chocolate all up in the peanut butter. Like, deep in. All the way in.",
+    "Yllish knot erotica.",
+    "Resetting the Hamilton counter.",
+    "Asking to see someone's Underthing.",
+    "Getting drunk with your internet friends.",
+    "Peeing a little when Pat says your name on stream.",
+    "🐝.",
+    "Rolling a 1.",
+    "Insisting that guinea pigs are fish.",
+    "Giant Australian Spiders.",
+    "The Nappery.",
+    "Cuddling a baby goat.",
+    "Rolling a nat 20.",
+    "Renting a castle to meet internet strangers.",
+    "A lettuce that thinks it's a lettuce.",
+    "Sounding like a robot in voice chat.",
+    "A pun so bad Pat bans you from the Twitch chat.",
+    "A sympathetic link to a dildo inside a Modegan whore.",
+    "Shitposting in the Waystone channel.",
+    "Wondering where the fuck the bees excitement came from.",
+    "Pat's sexy radio voice."
+  ],
+  "pack": {
+    "id": "ns624",
+    "name": "PatChat 2"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 32,
+    "total": 48
+  },
+  "dateStoredMs": 1588558366727
+}

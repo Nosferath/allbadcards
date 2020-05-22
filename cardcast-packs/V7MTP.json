@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "What's a must have while in quarantine? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I may be in quarantine, but at least I still have plenty of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This just in: conspiracy theorists claim the coronavirus is actually caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I miss the outside world, even _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: COVID-19 may be spread by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a strange response to the coronavirus, frenzied shoppers have emptied stores of their _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Preparing for quarantine? Make sure to stock up on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Facebook _ can prevent coronavirus.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A germ covered airplane toilet seat.",
+    "Fever, cough, and shortness of breath.",
+    "COVID-19.",
+    "Useless facemasks.",
+    "Toilet paper.",
+    "The Chinese government.",
+    "The overwhelming feeling of depressive isolation.",
+    "Gatherings of 10 people or less.",
+    "Hand sanitizer.",
+    "Donald Trump.",
+    "Coronavirus."
+  ],
+  "pack": {
+    "id": "V7mtp",
+    "name": "COVID-19"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 11,
+    "total": 19
+  },
+  "dateStoredMs": 1589401154601
+}

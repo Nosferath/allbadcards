@@ -1,0 +1,550 @@
+{
+  "black": [
+    {
+      "content": "Przez co włosy łonowe są kręcone?, przez  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W jaki sposób udaje mi się utrzymać mój związek? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy do końca nie rozumiałem _ , dopóki nie doświadczyłem _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Życie Indian całkowicie się odmieniło kiedy biały człowiek zapoznał ich z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słyszysz to?, to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nowym filmie Disneya, Hannah Montanna zmaga się po raz pierwszy z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na początku był _ po czym pan powiedział niech stanie się _  .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moją ulubioną rzeczą jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Matka oszalała kiedy znalazła www. _ .com/ _ w histori swojego syna.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przed śmiercią myślałem o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie żyłeś w pełni dopóki nie doświadczyłeś _ i _ w tym samym czasie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co zrobie kiedy upadnie mi mydło? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja mama lubi gdy ją _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to jest: leży pod brzózką i stęka? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją ostatnią rzeczą zanim umrę będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest fajne dopóki nie zrobi sie dziwne? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masz problemy z _? Spróbuj _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ , Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rurku!?, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym wygrzebiesz martwy płód z blendera? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pierwszy krok do _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wiesz dlaczego blondynki jedzą ziemię? bo _ to zdrowie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagrodę za _ , wygrywa _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Podczasz lotu samolotem zabrania się? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest moją super mocą? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znaleźli  _ , w śmietniku za kliniką aborcyjną.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pierwszy krok do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Po wielkiej powodzi w 2010, jako pomoc Polski rząd zorganizował powodzianom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Jakbyś mial syna to jakbyś go nazwał? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czego wstydzi się Batman? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to śliska pochyłośc prowadząca prosto do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co jest śmieszniejsze od martwego płodu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co staje się lepsze z wiekiem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mówi wasz Kapitan. Proszę zapiąć pasy i przygotować się na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaki jest najlepszy środek na łysienie? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co przywiozłem z Thailandi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Testowany na dzieciach, zatwierdzony przez matke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jakby się przyjrzeć to _ , to po prostu _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "TVP przedstawia film dokumentalny pod tytułem _ , nieznana historia\" _ \".",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co żołnierz odczuwa na widok łopoczącego penisa? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nigdy nie rozumiałem _ , dopóki nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Następnym razem u Dr.Oetker`a :  Jak rozmawiać z dzieckiem o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słuchaj synu. jeżeli chcesz zadawać się z _ , nie będę cię powstrzymywał. Bądz tylko pewien że _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdzie jest nemo?, w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na co trzeba uważać w seksie grupowym? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowym superbohaterem będzie _ , a jego mocą specjalną będzie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeżeli wszystko inne zawiedzie, zawsze mogę się mastrubować przy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co robią mężczyźni po stosunku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co zrobiłem wczoraj z twoją matką? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twój stary bawi się w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drogi panie lub pani, przykro nam poinformować że biuro konkursu _ rozpatrzyło odmownie pana/pani wniosek o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dlaczego w Warszawie panuje zima?, poprzez  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czujesz to?, to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego krasnoludki idąc lasem śmieją się?, bo lubią _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagroda akademi za _ trafia do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zanim _ , wszystko co mieliśmy to _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Tępa gęba mojego ojca.",
+    "Rączka.",
+    "Gimby nie znajo.",
+    "Jahwe.",
+    "Cezary Pazura.",
+    "2 na 10.",
+    "OIOM.",
+    "Kurwa moje pole!.",
+    "Jarosław Kaczyński.",
+    "\"niech giną!\".",
+    "Yyyy.... Wybieram koło ratunkowe.",
+    "Tak.",
+    "Jebać policje.",
+    "Czarny fiut.",
+    "Kyle.",
+    "Roman Polanski.",
+    "Gej.",
+    "Grupa idiotów grających w karty zamiast porozumiewać się jak normalni ludzie.",
+    "Harry pojeb.",
+    "Ptak kutafoniks.",
+    "Gaz.",
+    "Bóg.",
+    "Halogen Oven.",
+    "Kebab.",
+    "Upierdolony stół.",
+    "Surowi rodzicie.",
+    "Silver 2.",
+    "Gosk.",
+    "Wybielanie odbytu.",
+    "Mohammet.",
+    "Kitowcy.",
+    "Sebek.",
+    "Michael Jackson.",
+    "Krzysztof Ibisz.",
+    "Lubie placki!.",
+    "Pisiąt.",
+    "Oświęcim.",
+    "Spontaniczne samospalenie.",
+    "Odbytowe ruchanie.",
+    "Daj Kamienia!.",
+    "Afrykańskie dzieci.",
+    "Sędzia Anna Maria Wesołowska.",
+    "Wyjdę i wejdę.",
+    "Murzyn za rogiem.",
+    "Utknięcie kutasa w chińskiej pułapce na palce, z drugim kutasem.",
+    "Gówno.",
+    "Pies srający na dywan.",
+    "Kocia kuweta zawierająca termo-jądrowy kwas.",
+    "Mim w trakcie zawału.",
+    "Nic.",
+    "Przeciwstawne kciuki.",
+    "Oral.",
+    "\"pszyra\".",
+    "Gej party.",
+    "Podpaska mamy.",
+    "Sztachanie się gównem.",
+    "Naczosy.",
+    "Sosnowiec.",
+    "Hulk.",
+    "Naruszanie podstawowych praw człowieka.",
+    "Bezwartościowy syn.",
+    "Luj wpierdolu.",
+    "Raczka.",
+    "Cthulhu.",
+    "*Merica.",
+    "Martwy płód.",
+    "Menstruacja.",
+    "Shemale.",
+    "Illuminati.",
+    "Redtube.",
+    "Silver 3.",
+    "Kurwa.",
+    "Cycki.",
+    "Porodówka.",
+    "Wpierdol!.",
+    "Dziewictwo analne.",
+    "Putin.",
+    "Dwajścia.",
+    "Mein kampf.",
+    "Otyłość.",
+    "EVE online.",
+    "Z dupy.",
+    "Ból dupy.",
+    "Białaczka.",
+    "Kret.",
+    "Czarnobyl.",
+    "Sprzedanie nerki.",
+    "Komuna.",
+    "Kometa seksu z neptuna która pogrążyła ziemie w wiecznej rozpuscie.",
+    "Bunny Kał.",
+    "Materac z TV Mango.",
+    "Izak.",
+    "Grupowa orgia.",
+    "Petting.",
+    "Odwetowe ruchanie.",
+    "Tuskolot.",
+    "Minecraft.",
+    "Dwa karły srające do pudełka.",
+    "Kompleks Edypa.",
+    "Platforma obywatelska.",
+    "DDoS.",
+    "\"serek\" spod jąderek.",
+    "Niechciane dziecko.",
+    "Porost łonowców na klacie.",
+    "Analny wibrator.",
+    "Jaja.",
+    "Wombo combo.",
+    "Fireball z dupy.",
+    "Drążek.",
+    "Jestem Hardkorem!.",
+    "World of Warcraft.",
+    "Brak lewej ręki.",
+    "Korwinowce.",
+    "Żydzi.",
+    "Dzikie rżnięcie jakie mają teraz twoi rodzicie.",
+    "Węgiel.",
+    "Gumowe jebadło.",
+    "Wyciąg z fiuta.",
+    "Ebola.",
+    "Napięcie przed miesiączkowe.",
+    "Dawid Podsiadło.",
+    "Lesio.",
+    "Łonowce.",
+    "Próbowałeś włączyć i wyłączyć?.",
+    "Turban.",
+    "Ukrywanie wzwodu.",
+    "Imie dla psa.",
+    "Black jack.",
+    "Nadawanie milutkiej  nazwy nowotworowi.",
+    "Jeb z dzidy.",
+    "Cud porodu.",
+    "Może.",
+    "C4.",
+    "Kastracja.",
+    "Mag piątego poziomu.",
+    "Skórzana kanapa.",
+    "Dawca Organów.",
+    "Kinder niespodzianka.",
+    "Młyn pełen trupów.",
+    "Nakurwiam.",
+    "Beyonce.",
+    "Haxy.",
+    "\"serek\" spod napletka.",
+    "Pieczenie odbytu.",
+    "High Priest.",
+    "Maryja zawsze dziewica.",
+    "Gwałt na randce.",
+    "Pas szahida.",
+    "A teraz mnie Wypierdol!.",
+    "50 twarzy grey`a.",
+    "Janusz Korwin-Mikke.",
+    "A znasz definicję szaleństwa?.",
+    "Co?.",
+    "Żółtaczka.",
+    "69.",
+    "Nagość.",
+    "Urwałeś mi od internetu.",
+    "Siema eniu.",
+    "Nie.",
+    "Zespół downa.",
+    "Rak.",
+    "Złoty deszcz.",
+    "360NoScope.",
+    "Wojtek.",
+    "Smocze krocze.",
+    "Trybson.",
+    "Umieranie.",
+    "Kazirodztwo na propsie.",
+    "Kokaina jest dobra bo leczy raka.",
+    "Doge.",
+    "Kibel.",
+    "Prochy dziadka.",
+    "Rihanna.",
+    "Afrykańskie dzieci.",
+    "Mario chodzący w lewą stronę.",
+    "Dzieci.",
+    "Twoja stara!.",
+    "Brave Heart.",
+    "Agent 007.",
+    "Tuskawke?.",
+    "Pompa.",
+    "Bycie cholernym pudełkiem.",
+    "Schabowy.",
+    "Leroy Jenkins.",
+    "Ace Ventura.",
+    "Martwi starzy.",
+    "Patryk.",
+    "Oskar.",
+    "Większy czarniejszy fiut.",
+    "Odłączone diabelskie koło, staczające się do morza.",
+    "Opus Dei.",
+    "Maczety w Krakowie.",
+    "Steve Wonder.",
+    "Wyjebanie na trzeci świat.",
+    "Sparta.",
+    "Łysy z brazzers.",
+    "Krzysztof Gonciarz.",
+    "Nekrofilia.",
+    "Kwas.",
+    "Cwel.",
+    "Killer.",
+    "Jądra.",
+    "Allah Akbar!.",
+    "Twój stary!.",
+    "Tęcza.",
+    "Łechtaczka.",
+    "Łukasz.",
+    "Mordka pełna wpierdolu.",
+    "Udar.",
+    "AIM/WH/TriggerBot.",
+    "Opowiedziany w złym momencie kawał o Holocaustie.",
+    "Śląsk.",
+    "Gimper.",
+    "Mięsnie kegla.",
+    "Hemioterapia.",
+    "Kiełki bambusa.",
+    "Ewolucja.",
+    "Firma (jp).",
+    "ADHD.",
+    "Powódź.",
+    "Latający potwór spaghetti.",
+    "Galaktyka Kurwix.",
+    "Zlizywanie księdzu śmietany z kolana.",
+    "Taekwondo.",
+    "Łożysko.",
+    "Watacha dzikich napalonych mężczyzn.",
+    "Amputacja.",
+    "Jurek Owsiak.",
+    "Tampon.",
+    "Etopiryna.",
+    "Odbyt.",
+    "Tupolev.",
+    "Pokonanie własnego ojca.",
+    "Krucjata lesbijek.",
+    "Palikot.",
+    "W11.",
+    "Kotlecik.",
+    "PiS.",
+    "Smoki i gobliny.",
+    "Głodówka.",
+    "Nazisci.",
+    "Fisting.",
+    "Hitler.",
+    "Zielsko/Ganja/Marihuanna.",
+    "Sperma.",
+    "Holocaust.",
+    "AIDS.",
+    "MechaHitler.",
+    "Sperma w oczodołach."
+  ],
+  "pack": {
+    "id": "M4X7N",
+    "name": "Polski Szaiz"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 249,
+    "total": 306
+  },
+  "dateStoredMs": 1588880950866
+}

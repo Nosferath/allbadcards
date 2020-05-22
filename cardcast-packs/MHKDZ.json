@@ -1,0 +1,817 @@
+{
+  "black": [
+    {
+      "content": "We gotta do this the right way, and keep the _ to a minimum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Other than the fact that he's _ , he's a pretty good guy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Choice number one _. Choice number two _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yeah, _ is my mother's mating name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How are we gonna get _ , I can't even afford _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ isn't illegal. But _ is.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Consider this your lucky day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is not a robbery, we are here for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I washed those friggin' shoes 3 times with tomato juice and vinegar and they still smell like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Put that away! I mean, you're on camera with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want to end up _ like you, that's what's wrong.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is no better feeling than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's what smart people do with their money.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We have enough _ to go to jail for 20 years, but we'll never get caught.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I've only got one minute to live, give me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes it so much easier to understand like really hard thinking and stuff.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J-Roc raps about _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Besides my kitties, _ and _ are all that I really have.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He hasn't had  a drink since _ , and he had about 49 drinks that day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop living in vans and sheds and stuff and come stay at _ , a real home.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm scared. I don't know if I can do this. I've never been involved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want my _ replaced, because those were the crème de la crème.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was meant to be _ , it's what I was born to do.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We'll go get your _ , as long as you promise to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Controlled substance? Since when is _ a controlled substance?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not _ , it's more like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I could tell you guys whatever you wanna hear, or I could be honest and tell you about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sunnyvale Trailer Park: Land of _ , home of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A good father doesn't go _ every year.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing wrong with _ , I did it for 9 years.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody wants to admit they ate _ , but I did and I'm ashamed of myself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need some _, and I could rob you, or you could just give it to me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're gonna shoot me over _ , then go ahead, shoot me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Giving up _ was the hardest thing I ever had to do in my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I came here so we could _ like we did when we were kids.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ricky threw a bunch of _ on my roof.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's hard to admit it, but mom, I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's officer _, not Chachi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you think your probation officer would do if I called him and told him you were _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just don't understand. I love _ , but I love _ even more.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It takes all of Ricky's mental abilities for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just wish I could be _ like everybody else for a change.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't know why I always end up with men who turn out to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only way to succeed in life is to stay away from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Sunnyvale Trailer Park, only three things matter. _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Please, don't be _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rule number one, no _ in Sunnyvale Trailer Park.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't scream _ in the bank.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ don't mix.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Free _ with every cut and blow-dry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For this surveillance, I will appear to be intoxicated, but I am in fact _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe you're gonna walk in my grandmother's house and talk about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sure I was high all the time, but he ate just as much _ as I did.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's a good way to make a living in Sunnyvale Trailer Park? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've only met one other guy to get shot two times in one day in unrelated incidents, and he was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We got a call about some fellas out here _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Free alcohol with a mandatory donation of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What kind of father let's his daughter be around _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I get community service in the first place? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last thing I remember is _ attacking me with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Randy locked himself in the bathroom and he's crying. Do you know what happened? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sure hope you have the permits and necessary documenation for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay everybody, we're not here to hurt anyone! We just need one hour of your time to help _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Have you ever tried it?\" I don't know, _ is pretty hardcore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barb, I banged a lot of _ in my life, and a couple of dudes too.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I have to steal _ to save the park, then so be it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you think it's a good idea to be drunk and carrying _ while on probation?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're under arrest for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're the only person in the trailer park that's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lucy's bangin' _ now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been off the liquor for about a month now, and I'm looking forward to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe Randy and Lahey broke up over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need you to go to the pharmacy and get me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "60 bucks? Wow. That's a lot of money for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you think _ made your life miserable, wait til' you get a load of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you have golds, you try to get to those golds, and my gold is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not sure what success is supposed to feel like, but I don't think _ is it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How come you got enough scrilla for _ but you can't pay your grocery tab?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're always getting complaints about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't you put your _ down and fight me like a man?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not going in there, there could be _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I quit _. Two months clean.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr. Lahey, not another night of _ , please!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come on Randy, let's go deal with something more important like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've always wanted  _ , but I've always been too chicken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Promise me you won't do anything stupid, like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A bag of sour cream and _ chips, and a 2 liter bottle of _ juice.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ and _ always fucks things up.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Show up with _ and _ and basically you get whatever the fuck you want for free.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't you miss all the crazy shit we used to do, like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who wants to go to a house to buy dope and be greeted by _? That's pretty fuckin' greasy if you ask me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you turn off the fuckin' camera? I'm trying to _ here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and then _ , that's how you fuckin' make money.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just give me your _ or I'll put _ through your God damn ribcage.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What the fuck is going on with you fuckers, why the fuck are you _!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're _. It's gonna be a good fuckin' day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have needs, so I got really drunk and really horny, and I had sex with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had to fire _ from the Dirty Burger because he was _ , all the fuckin' time!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How'd you let things get so fucked up? You know I can't do it, I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck are you filming him _ for?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is fucked, but _ is not that bad.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fuckin' right. I paid with _ , I saved a ton of fuckin' money.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , that's kind of a shitty name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ pisses Ricky off the most.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a pocket full of _ , you can buy whatever the fuck you need.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We got really drunk and ate a shitload of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only an asshole hits somebody with _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If they legalize _ , I'm fucked.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Self learning yourself.",
+    "Smuggling pounds of dope over international borders in a model train.",
+    "Nuclear fiddlecocks.",
+    "The clearing stick.",
+    "Stealing barbecues.",
+    "Bread  heels and bacon grease.",
+    "Vodka in a water bottle.",
+    "60 bucks.",
+    "Being too busy gettin' drunk and gettin' ya lapdance on.",
+    "Sheryl, the dope eating crow.",
+    "Living in a car and growing dope 101.",
+    "A street person.",
+    "Potato vodka.",
+    "J-Roc's greasy trailer park girls gone wild.",
+    "Smokes.",
+    "Extra frisky.",
+    "Two turntables and a microphone.",
+    "Bangin' Cyrus.",
+    "Living in a shed with a toilet, a bed, and a TV.",
+    "Supply & command.",
+    "A search warranty.",
+    "Friends with the Benedicts.",
+    "38 free range kitties.",
+    "Getting stoned.",
+    "Officer Hicock.",
+    "The hubble bubble telescope and his little fruit car.",
+    "Letting the liquor do the thinking.",
+    "15 half-eaten cheeseburgers, to go.",
+    "Pretending you're in a wheelchair.",
+    "Driving around drunk all the time and smashing into poles and stuff.",
+    "Playing hash hockey.",
+    "A crazy liquor and cheeseburger party.",
+    "An ultimarium.",
+    "Julian's Sports Bar & Gym.",
+    "22 bottles of medicated crab shampoo.",
+    "Sebastian Bach from Skid Row.",
+    "Pills that help your fenus get bigger.",
+    "Really luxury parking.",
+    "Parapalegics.",
+    "Doing greasy stuff.",
+    "Lucy.",
+    "Someone who just failed grade 10.",
+    "Paddling a boat up the dumb-dumb river.",
+    "One of those brain learnin' things that pops in your head that wasn't there a second ago.",
+    "The magical fairy grandmother of dope.",
+    "An eternity test.",
+    "Julian's DeLorean.",
+    "Dope eatin' insects.",
+    "Randy's greasy gut.",
+    "Randy Bobandy.",
+    "A Greasy hot dog eatin' neanderthal mah'facka.",
+    "Bobby Boxhead.",
+    "Sargeant Hash and Captain Liquor.",
+    "Being stuck in a catch-23 situation.",
+    "Synthensizers, a mixner, and this thing that does all kinds of bendy stuff.",
+    "A long glorious suck on my T-bone cockstick.",
+    "Bootleggin' in the park.",
+    "Talko, the dope eating parrot.",
+    "Frozen mixed vegetable cocks.",
+    "Paralalysis.",
+    "A bag of guns.",
+    "Getting elementary school students to steal barbecues for you because they can't go to jail for it.",
+    "Gettin' drunk off swish and eatin' pizza crust off the ground.",
+    "Chicken pizza and wrestling games.",
+    "Witch hoes.",
+    "Doing hot knives.",
+    "Hash.",
+    "Patrick Swayzie.",
+    "Ladies of the evening.",
+    "Getting drunk all the time.",
+    "Getting drunk and eating chicken fingers.",
+    "Two packs of smokes.",
+    "Yankin' your goalie.",
+    "A wild blue-jay burger.",
+    "Kidnapping Alex Lifeson and forcing him to perform live in the trailer park.",
+    "A pre-emptive liquor strike.",
+    "An actual ton of maple flavored honey oil.",
+    "9 cans of Ravioli.",
+    "Viagra burgers.",
+    "Officer Jim Lahey.",
+    "Ripping the plumbing out of your walls for liquor money.",
+    "A hash oil refinery.",
+    "Hot hamburger sandwiches, boys!.",
+    "Getting drunk and beating eachother up with baseball bats.",
+    "Hyposuction.",
+    "A toilet and a bed underneath a deck.",
+    "Blowdrying your hair with the car muffler.",
+    "Sneaking into a Backstreet Boys concert through the sewer.",
+    "Ol' dirty swish.",
+    "Indianapolis Jones.",
+    "Ricky's honey oil.",
+    "Gluing a rag to your nose and a model semi to your hand.",
+    "The Swayzie Express.",
+    "Liquorcicles.",
+    "A tropical earthquake.",
+    "Word papers.",
+    "Liquor and whores.",
+    "Begging to get back into jail so you can play in the hockey tournament.",
+    "Ray's© Liquor Sauce.",
+    "Jacob the twiggy alien man.",
+    "Eizenstein.",
+    "Working on shopping carts.",
+    "Prostituting yourself out for cheeseburgers.",
+    "Cory & Trevor's Convenients Store.",
+    "Lifting weights and drinking potato vodka.",
+    "Rocket appliances.",
+    "10, 1, 2, and 5 gram hash coins.",
+    "A hash driveway.",
+    "Book learnin'.",
+    "Steve Rogers from Channel 10 News.",
+    "Getting high and drunk and playing space in the middle of the street.",
+    "15 one-gram joints.",
+    "10 bucks or 6 Dairy Queen© coupons.",
+    "Bumming smokes off middle school kids.",
+    "A samsquamch.",
+    "Small semi-legit businesses.",
+    "12 bucks a month, plus heat and lights.",
+    "A limonsine.",
+    "A $400,000 barrel of honey oil.",
+    "Ricky.",
+    "Brain compartments and departments.",
+    "Dragging stolen bikes from the lake.",
+    "Chicken fingers, the good kind.",
+    "Happy dust.",
+    "Offering cookies to the burglars that are robbing your house.",
+    "Frig off!.",
+    "Smoking three cigarettes at the same time.",
+    "Bangin' behind the muffler shop.",
+    "A liquorlanch.",
+    "100 kilos of hash.",
+    "A 35 year mortgage on a trailer.",
+    "Learning through denial and error.",
+    "Gankin' groceries.",
+    "My grade 10.",
+    "Spending all of the liquor money on video lottery terminals.",
+    "Growing dope and stealing power.",
+    "Philadelphia Collins.",
+    "Bangin' Lucy.",
+    "Putting your birds together.",
+    "Rub-n-tug.",
+    "The bottle throwing kids.",
+    "Rooster nuts.",
+    "Accidentally filling out the birth certificate wrong, and naming your baby The Motel.",
+    "The Dirty Burger.",
+    "Free-range kitties.",
+    "$35 in liquor bottles, at least.",
+    "The planet Juniper.",
+    "Shady horsecockery.",
+    "Salamander head.",
+    "Bologna sandwiches.",
+    "Jim Lahey.",
+    "A recidivist.",
+    "Arseholes.",
+    "Living in a car.",
+    "Speakners and drum thingies.",
+    "1974 by Gordon Orwell.",
+    "Hash oil.",
+    "Inflatable Elvis.",
+    "The Dirty Dancer.",
+    "Being stupid all the time.",
+    "Drinking Sahake.",
+    "Julian.",
+    "Whippin' your junk out in public.",
+    "Child reports.",
+    "9mm, safety always off.",
+    "Throwing all of your maxed out credit cards in the lake so they can't be traced back to you.",
+    "Sweet and powered chicken things.",
+    "Playing a big song on the magnalin.",
+    "Mushrooms.",
+    "Getting drunk as fuck.",
+    "Shitstorm troopers.",
+    "A raging shitfire storm.",
+    "Stealing a bunch of fuckin' sheds when you have perfectly good money to buy the fuckin' things.",
+    "A drunk trailer park supervisor with fuckin' guns and dynamyte, drunk with a fuckin' dress on.",
+    "A basketball eatin' walrus ass mah'fucka.",
+    "An intermediate surface-to-air nuclear shit-missile.",
+    "Taking rips from a bong that has a goldfish in it.",
+    "Crying shit wolf.",
+    "A big fuckin' barrel of swish.",
+    "A $5,000 box of cock stiffeners.",
+    "A boner made with love.",
+    "A little drinky-poo.",
+    "Fuckin' over the government.",
+    "None of your fucking business, actually.",
+    "Some kind of a shitty bird that swoops down and puts poop onto ya'.",
+    "A pharmaceutical boner.",
+    "Piss jugs.",
+    "The ticking shitclock.",
+    "Cyrus's red Corvette with a penis spray painted on the hood and an arrow pointing to the driver's seat.",
+    "Fucking a bunch of filthy whores that have crabs.",
+    "Taking an hour off work so you can woo a beautiful woman with a song you wrote and fuck the shit out of her.",
+    "Bangin' George Green, the dumbest fuckin' cop on the force!.",
+    "Sex kittens.",
+    "A cave-dwelling man whore.",
+    "Shaking the shitfruit out of a shit tree.",
+    "Fuck off, I got work to do.",
+    "Turtle Cock.",
+    "FUCK OFF!.",
+    "A half a cock of pepperoni.",
+    "Fucky the drunk clown.",
+    "Captain shit-tacular.",
+    "Heavy metal dick.",
+    "Tempest fuck it.",
+    "Being fire retarded.",
+    "Pandora's shitbox.",
+    "Shitrock and the Purrmonster.",
+    "A great big dirty piss boner.",
+    "A shitrope.",
+    "A shit blizzard.",
+    "Tarman. The lord that lives in a forest, not a cave you stupid fucking dummy.",
+    "A hair-trigger, double-barrel shitmachine gun.",
+    "One fuckin' nice kitty.",
+    "Moose cock.",
+    "Cinnamon roll fuckin' head.",
+    "Playing sexy hardball.",
+    "Shit apples.",
+    "Barb's shitty scalloped potatoes.",
+    "A shit tornado to OZ.",
+    "A lot of hamburger shit, chicken shit.",
+    "Two shiny shit badges.",
+    "Fuckass dickmachines.",
+    "The Shitmobile.",
+    "A shit leopard that can't change it's spots.",
+    "A shit hawk.",
+    "Pilsbandy Doughboy and Team Sexy.",
+    "Freezer tokes.",
+    "A certified fuckin' genus.",
+    "Pissing in Randy's new shoes.",
+    "Being belligerently sexy.",
+    "Kissing Jim Lahey's bare ass cheeks.",
+    "Doguments and permentation to suck on my shaved balls.",
+    "A limited edition Monte Carlo SS that's in mint condition.",
+    "God damn dirty erections.",
+    "Sebastian Bach playing with fuckin' sweet ass model trains.",
+    "A shitquake.",
+    "A bag of sour cream and go fuck yourself chips, and a 2 liter bottle of you guys are as dumb as fuck juice.",
+    "Shit puppets.",
+    "Space weed.",
+    "A piece of shit car that's missing a door.",
+    "A weapons grade dickhead.",
+    "A fuckin' leaves comber.",
+    "Astronaut cock.",
+    "The winds of shit.",
+    "Birds of a shitfeather.",
+    "Getting drunk as fuck and passing out in the middle of the street.",
+    "Getting shot in the ass by your 8 year old daughter.",
+    "A shitnami tidal wave.",
+    "Shitty fuckin' mall dope.",
+    "A shit storm.",
+    "A fucking kickass barbecue.",
+    "Military-grade piss.",
+    "Lucy's fake tits.",
+    "Ricky's used shit.",
+    "Insurance and registration to suck my dick!.",
+    "A pandemic of shittepillars.",
+    "Bumblecock shitbitches.",
+    "Loch ness monster balls.",
+    "A shit typhoon.",
+    "Simple and Garfuckle.",
+    "Snoopy the fuck dog.",
+    "The shit-abyss."
+  ],
+  "pack": {
+    "id": "MHKDZ",
+    "name": "Trailer Park Boys Pack!"
+  },
+  "quantity": {
+    "black": 108,
+    "white": 261,
+    "total": 369
+  },
+  "dateStoredMs": 1588997095671
+}

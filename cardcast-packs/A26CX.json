@@ -1,0 +1,23 @@
+{
+  "black": [],
+  "white": [
+    "Wickes Westcott - creator of FAS.",
+    "Mandatory customer service training.",
+    "Slack - making communication across distances easy. Also, bots and emoji.",
+    "Banner implementation.",
+    "Cherwell - when you want to answer a ticket in the most convoluted way possible.",
+    "Lindsey's corn bread - because you just have to have it or it isn't a party at work.",
+    "Tiger Rag - Where the Blue Ridge Mountains yawn.",
+    "SharePoint - because we need another way to track tasks."
+  ],
+  "pack": {
+    "id": "A26CX",
+    "name": "CCIT Custom"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 8,
+    "total": 8
+  },
+  "dateStoredMs": 1588867494039
+}

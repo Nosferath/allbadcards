@@ -1,0 +1,128 @@
+{
+  "black": [
+    {
+      "content": "We are the Crystal Gems, and we'll always _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing else could fit so perfectly inside _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steven just accidentally fused with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today, Garnet used her future vision to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in Lion's mane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _ and you can't keep me trapped here anymore!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your caretakers, you know? The _ one, the _ one, the _ one!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Make your own Gem Fusion! _  and _ fuse to form _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Today, Sour Cream raved to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greg Universe's next single was inspired by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the inspiration for Greg Universe's newest album cover.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is Garnet, back together, and I'm never gonna _ because I'm so much better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Gemsona is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Polymorphic sentient rocks.",
+    "Sneople.",
+    "Pearl.",
+    "Garnet.",
+    "Amethyst.",
+    "The Great Diamond Authority.",
+    "Bringing the Frybo suit to life.",
+    "The Kindergarten.",
+    "Yellow Diamond.",
+    "Onion.",
+    "Malachite.",
+    "Dr. Maheswaran.",
+    "Peedee Fryman.",
+    "Peridot.",
+    "The Gem Warship, flipping off the entirety of Beach City.",
+    "Opal.",
+    "Jasper.",
+    "Sugilite.",
+    "Greg Universe.",
+    "Buck Dewey.",
+    "Li'l Butler.",
+    "Whiney green space dorito.",
+    "Garnet's third eye.",
+    "White Diamond.",
+    "Together breakfast.",
+    "Pearl's nose.",
+    "Staying on this miserable planet, TOGETHER.",
+    "Mr. Maheswaran.",
+    "Big buff cheeto puff.",
+    "Sour Cream.",
+    "Yellowtail.",
+    "Blue Diamond.",
+    "Mayor Dewey.",
+    "Connie.",
+    "Steven Universe.",
+    "Ronaldo's blog, Keep Beach City Weird.",
+    "Garnet's shades.",
+    "Amethyst wearing Pizza Steve's sunglasses and giving a thumbs-up to the viewer.",
+    "Meat Beat Mania.",
+    "Stevonnie.",
+    "Lion.",
+    "Sapphire.",
+    "A cracked Gem.",
+    "Rose Quartz.",
+    "Lapis Lazuli.",
+    "Sugilite repeatedly hitting you with her flail.",
+    "Ruby."
+  ],
+  "pack": {
+    "id": "kpwnp",
+    "name": "Cards Against Homeworld"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 47,
+    "total": 60
+  },
+  "dateStoredMs": 1588652512247
+}

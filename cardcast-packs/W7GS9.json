@@ -1,0 +1,659 @@
+{
+  "black": [
+    {
+      "content": "What can be found in the Elephant Graveyard? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me, Tarzan. You, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one is as _ as Gaston!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Disney needs is an attraction based on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would trade _ for a Disney World annual pass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They say “guest,” but what they mean is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the real reason why all the rum is gone.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Three Caballeros: Donald Duck, _, and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In order to boost ticket sales, Disney is making a land dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My childhood was forever ruined when I saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do you need 101 Dalmatians? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the new Dole Whip flavor: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ya we in luck here, down in the _ here, under the sea!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can show you the world, shining, shimmering, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to Disney, I have unrealistic expectations about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How typical. _ exits into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Handsome Prince saved Snow White from death with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try the _, it's delicious!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most wonderful thing about Tiggers is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would trade _ for a Disney World annual pass.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let it go. Let it go. _ never bothered me anyway.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Every Disney villain's plan includes _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You want _, I've got twenty! But who cares? No big deal. I want more.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One day in the Hundred Acre woods, Winnie the Pooh was awaken by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is afraid of the big bad _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at this _. Isn't it neat? Wouldn't you think my collection's complete?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sadly Fantasyland does not refer to my fantasy of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does the Beast cope with his curse? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ does come true in New Orleans.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everything the light touches belongs to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Marvel and Star Wars, Disney just needs to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Big Hero _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Disney's Hall of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Genie, for my final wish, I wish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tell me, princess, now when did you last let your _ decide!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Magical World of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hakuna Matata, what a wonderful phrase. It means no _ for the rest of your days.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For a time, Ariel thought _ was for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "So Prince Ali turns out to be merely _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Alice find on her second visit to Wonderland? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Upon choosing the smoothest course, Pocahontas came across a group of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo ho, yo ho, _ for me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What keeps Belle from being bored in the dungeon at Beast's castle? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be our guest/Be our guest/Put our _ to the test.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Giselle find disturbing yet charming upon arrival in New York City? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are friends, not food.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is this haunted room actually _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Disney Channel Original Movie is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What were the first words uttered by Tarzan after he learned English? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I'm human again, and I'm gonna be, I'm gonna _ like I did before.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mister, I'll make a _ out of you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, if you say it loud enough, you always sound precocious.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've got  _ in me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ at Disney World will probably get you kicked out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Ariel stay alive after she became human underwater? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ohana means family and family means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the missing ingredient in Tiana's gumbo? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is how Walt Disney liked to unwind.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And if you look to your right, you can see _ next to the hippos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you wanna _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No chance. No way. I won't say I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Roger Rabbit sequel contains live-action footage, groundbreaking animation and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ while you work.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a wish your heart makes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For your safety, remain seated with your seat belts fastened, keeping _ inside the bobsled.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toy Story 5: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what they say about elephants with big ears? They have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are friends, not food.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Prince swore he'd marry the girl who fit the slipper, but he didn't expect her to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most terrifying Disney creation of all time is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on the list of Disney's unnecessary sequels: _ 2.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before adapting \"Snow White,\" what did Walt Disney consider adapting? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mirror, mirror on the wall, who is the fairest one of them all? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is that _ I see staring straight back at me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The guardian of _ was brought down to protect Mulan from the dangers of war.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just can't wait to be _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck was up with Ursula's crazy sister? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I mean, it's crazy how we finish each other's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since when is _ a Disney princess?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can you feel the _ tonight?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the real reason the West Wing is off limits.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Peter Pan's happy thought? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some day my _ will come.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A sprinkle of pixie dust .",
+    "Princess and the Froggy-style .",
+    "Mr. Incredible earning his name in more ways than one .",
+    "Forgetting how racist Peter Pan's Red Man song is .",
+    "Kaa's very long tongue .",
+    "The Papyrus font all over Avatar land .",
+    "The creepy fact that Kaa's voice is also the voice of Winnie the Pooh.",
+    "Waking up to “It’s A Small World” puppets at the foot of your bed .",
+    "The one company Disney doesn't own .",
+    "The tiki tiki tiki tiki tiki room .",
+    "Singing pirates .",
+    "Smiling because all of China knows you're here.",
+    "Judy Hopp's vibrating carrot .",
+    "Eeyore on Prozac .",
+    "Minnie Mouse's used panties .",
+    "Making use of Olaf's detachable limbs .",
+    "An abominable snowman named Harold .",
+    "Gaston’s swallowing and spitting skills .",
+    "Savages! Savages! Barely even human!.",
+    "The ghost of Mufasa judging you from the heavens above .",
+    "Oswald the Lucky Rabbit .",
+    "Make-A-Wish kids spending their little remaining time in lines .",
+    "Hannah Montana and Alexis Texas: Best of Both Worlds .",
+    "The racist Indian (sorry, \"Native American\") scene from \"Peter Pan\".",
+    "Mommy's toys named Buzz and Woody .",
+    "Things you shouldn't shove in the Brave Little Toaster .",
+    "Pinocchio’s nose.",
+    "Rat poison and the shocking Chip and Dales series finale .",
+    "The Country Bear Jamboree .",
+    "Indiana Jones’s gigantic ball .",
+    "Vaginal burns from Lumiere .",
+    "Kama Sutra: Elastigirl Edition .",
+    "The seaweed that is always greener in somebody else's lake.",
+    "Maui's 1000 year dry spell, Moana and a long boat ride with time to kill .",
+    "Cinderella's dumbass face when she finds out about the Prince's ball.",
+    "Four fingers .",
+    "Stroller parking .",
+    "The happiest place on earth .",
+    "Shipping Elsa and Frozone to make vanilla/chocolate ice cream.",
+    "The vibrating toy in Andy's Mom's nightstand.",
+    "Vaginal burns from Lumiere.",
+    "Standing in line until your feet bleed .",
+    "SQUIRREL!.",
+    "The inevitable gritty reboot of Song of the South .",
+    "Getting gangbanged by the Lost Boys.",
+    "Launchpad McQuack, still better than flying United .",
+    "Animatronic Abraham Lincoln .",
+    "Crop dusting the tightly packed Space Mountain line .",
+    "An Experimental Prototype Community of Tomorrow .",
+    "Getting wet on a long log ride .",
+    "A $5 churro and a $6 Coke .",
+    "Ariel filling out her sea-cups .",
+    "Shoving a nut covered phallic shaped frozen banana in their mouth .",
+    "Lindsey Lohan's innocent twin from \"The Parent Trap\".",
+    "Spaceship Earth (aka that thing that looks like a golf ball at Epcot).",
+    "Ariel's dumbass daughter, Melody.",
+    "Mr. Potato Head's detachable genitals .",
+    "The North Korea pavilion at Epcot .",
+    "Quasimodo's private time with his bells .",
+    "The racist crows from Dumbo .",
+    "The dumbass princess, Snow White.",
+    "Roo's mommy issues.",
+    "Having inappropriate thoughts about animated animals .",
+    "Brave's message of encouragement for all girls to be butchy lesbians .",
+    "A novelty hat that you’re going to wear once and then stuff in a closet .",
+    "Queen Elsa's icy cavern .",
+    "Using the power of love and gullibility against the princess to rule their kingdom.",
+    "Grey stuff?.",
+    "Anakin murdering younglings .",
+    "Getting freaky on a Friday.",
+    "P. Sherman, 42 Wallaby Way, Sydney .",
+    "Sitting on Pinocchio's face and having him lie .",
+    "The poison. The poison for Kuzco. The poison chosen especially to kill Kuzco. Kuzco's poison.",
+    "Sweaty, the eighth dwarf .",
+    "Jafar's phenomenal cosmic power compensating for his own impotence.",
+    "Shooting Old Yeller .",
+    "Seven dwarves, a virgin and one bed .",
+    "Disney Plus and thrust .",
+    "Cartoons with racist subject matter .",
+    "The bare necessities.",
+    "The corpse of Bambi's mom in the meadow .",
+    "Tiana: three-fifths of a Disney princess .",
+    "Dad jokes from the Jungle Cruise crews .",
+    "Spontaneously breaking into song .",
+    "Pirates of the Caribbean 9: Jack Sparrow Enters Rehab .",
+    "Quasimodo's private time with his bells.",
+    "Unreasonably laying claim over everything the light touches .",
+    "Bert subtlety picking up on Mary Poppins.",
+    "The acid trip that is Fantasia .",
+    "Pocahontas and the interactive Wounded Knee exhibit .",
+    "Disney's obsession with killing off parents in kids’ movies .",
+    "Making movies based on stories that are in the public domain .",
+    "Making out with your sibling to celebrate Star Wars weekend at Disney .",
+    "Fondling Sleeping Beauty .",
+    "Using a Dinglehopper for you hair.",
+    "Beauty and the Beast 2: Singing Guillotines .",
+    "Stitch's tongue  .",
+    "A maniac in a motorized wheelchair .",
+    "Buzz Lightyear Astro Blasters .",
+    "Getting stuck at the top of Splash Mountain.",
+    "The ghost of Mufasa judging you from the heavens above.",
+    "Traumatizing your kids with Return to Oz .",
+    "Disney jail.",
+    "Flash photography .",
+    "Spending $200 so your toddler can scream all day in line .",
+    "Rapunzel using her prehensile hair to tickle her own fancy .",
+    "The ghost of the old lady that died in the Haunted Mansion .",
+    "Getting fingered by Captain Hook.",
+    "Captain Hook stabbing a mermaid with his hook.",
+    "James Earl Jones as Mufasa saying \"I am your father\" .",
+    "Getting oral from Davy Jones .",
+    "Another damned hidden Mickey .",
+    "Poor unfortunate souls .",
+    "Gaston being roughly the size of a barge .",
+    "Drinking around the world at Epcot.",
+    "Pleasure Island .",
+    "Supercalifragilisticexpialidocious.",
+    "Aladdin 4: Bombing Agrabah .",
+    "A parading group of singing newspaper boys .",
+    "A furry convention at Disneyland .",
+    "The future fate people we will soon become in \"WALL-E\".",
+    "The girl squirrel from \"The Sword in the Stone\".",
+    "Disney Cruise Lines and the requisite second mortgage .",
+    "Grim grinning ghosts .",
+    "Lindsay Lohan: Fully Loaded .",
+    "Communal cast underwear .",
+    "Being a virgin in \"Hocus Pocus\".",
+    "Prince Charming kissing comatose women laying around the woods .",
+    "Selling one of your kids so you can go to Star Wars land when it opens .",
+    "A magical day .",
+    "The first nine minutes of Up .",
+    "Mike and Sulley, the first gay Disney couple to raise a child.",
+    "Not getting invited to a party and putting a curse upon the king's daughter .",
+    "Toddler-eating alligators at Disney World .",
+    "Gaston.",
+    "Tigger's bounce.",
+    "Mufasa's rotting carcass.",
+    "A Disneyland character with its head off .",
+    "Dory, the lesbian fish .",
+    "Erotic fan-fic about Hercules going the distance .",
+    "Buzz sodomizing Woody to \"You've Got A Friend In Me\".",
+    "Being fisted like a Muppet .",
+    "An emergency bathroom break .",
+    "A parking lot the size of New Jersey .",
+    "Mr. Toad's Wild Ride .",
+    "Imagineering .",
+    "Prince Eric frying up filet of Flounder .",
+    "Bambi's dead mother.",
+    "The frozen head of Walt Disney .",
+    "A naked hairy beast.",
+    "Your hands, arms, feet, and legs.",
+    "A real boy.",
+    "Staying for the fireworks .",
+    "A snake in my boot .",
+    "The Three Caballeros, three ~gay~ Caballeros.",
+    "Whatever happened to Huey, Dewey, and Louie’s parents .",
+    "Flubber .",
+    "Being one jump ahead of the lawman, that's all and that's no joke.",
+    "Waiting for my prince to come .",
+    "John, the enchanted, talking chamber pot .",
+    "Tinker Bell's very short dress .",
+    "Singing \"Let It Go\" while still in the closet.",
+    "Renting a wheelchair you don’t need .",
+    "An unexpected soft opening .",
+    "Endlessly singing “Let It Go” .",
+    "Feeling the true power of the Force on Star Tours: The Adventure Continues.",
+    "Aladdin reminding you that Robin Williams is still dead .",
+    "Cars 7: McQueen Succumbs to Rust.",
+    "My Tumblr dedicated to erotic Scrooge McDuck art .",
+    "Mulan discovering she likes cross-dressing .",
+    "A Bug's Life 2: Enter the Orkin Man.",
+    "A child screaming its head off from overstimulation .",
+    "Captain Hook's obsession with young boys .",
+    "Ariel tricking Ursula because she was a soulless ginger .",
+    "Jumping off the stairs saying \"To Infinity and Beyond\".",
+    "Bibbidi-Bobbidi back the fuck up off of me.",
+    "Tarzan and Jane's wild jungle sex adventures .",
+    "Disney's lawyers making you their bitch .",
+    "Gimp suits designed by Edna Mode .",
+    "A fisting from Wreck-It Ralph .",
+    "Getting tiki bird shit in your hair .",
+    "The Queen of Hearts's heart-shaped pubes.",
+    "The bloody deleted scene where Simba and Nala tear a zebra apart .",
+    "Buying overpriced tickets just to get in and buy overpriced crap .",
+    "Tinker Bell's cunty-ass attitude .",
+    "The overbearing fishy smell of Ariel's vagina.",
+    "Openly masturbating on It's A Small World .",
+    "Maui's shapeshifting dick.",
+    "Jane and Tarzan's wild jungle sex adventures.",
+    "Sneaking onto the set of 101 Dalmatians with peanut butter on your balls.",
+    "Goofy's glorious penis.",
+    "Pumba and Timon watching Simba and Nala get it on .",
+    "Licking Dole Whip off each other's assholes .",
+    "Two midgets shitting into a glass slipper.",
+    "Remembering Bing Bong because Riley can't .",
+    "Beast's fuzzy balls .",
+    "All the masturbating Rapunzel probably did when Mother Gothel was away .",
+    "101 piles of dog shit every day .",
+    "Taking shrooms while watching \"The Rites of Spring\" segment in \"Fantasia\".",
+    "A ride that's over faster than your sex life .",
+    "The little bit of cum on Anna's face.",
+    "That one part of the Disneyland Railroad that goes from friendly animals at the Grand Canyon to motherfucking dinosaurs for no reason what-so-ever.",
+    "Hakuna matata, motherfucker.",
+    "Donald Dick .",
+    "Aladdin's fucking deadbeat thief of a father.",
+    "Bestiality and bondage themes in Beauty and the Beast .",
+    "That one cartoon where Donald Duck is a Nazi and says \"Hiel Hitler\".",
+    "Wreck-It Ralph's almost rape-like tendencies.",
+    "Sex noises so loud you can hear them in the castle next door.",
+    "16 years of Maleficent's rage and the vibrator that could have prevented it .",
+    "Goofy's son implying Goofy had sex .",
+    "Using Elastigirl as a sex swing .",
+    "Escape to Bitch Mountain .",
+    "Mickey finding Minnie in the mouse trap and having sex one last time .",
+    "Eating too much honey at a friend's house and getting your fat ass stuck in the doorway .",
+    "Remy's shit all over Gusteau's kitchen .",
+    "The sad realization that Lady and the Tramp is not amateur hobo porn .",
+    "Finding Nemo 3: Marlin's Still a Dick.",
+    "Elsa's shady ass.",
+    "Ariel's new found vagina .",
+    "Shitting yourself on Space Mountain.",
+    "Switching places with your identical twin to try and fix a broken marriage .",
+    "Snorting Coke off of Pluto’s Dick.",
+    "Ursula's tentacle porn video.",
+    "Making up for years of shitty parenting with an expensive vacation .",
+    "Sex Toy Story .",
+    "Being a motherfucking all-powerful sorcerer and genie .",
+    "Ursula's secret past career in hentai ."
+  ],
+  "pack": {
+    "id": "W7GS9",
+    "name": "Cards Against Disney"
+  },
+  "quantity": {
+    "black": 83,
+    "white": 228,
+    "total": 311
+  },
+  "dateStoredMs": 1588531707918
+}

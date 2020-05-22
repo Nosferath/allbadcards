@@ -1,0 +1,31 @@
+{
+  "black": [
+    {
+      "content": "Grabbing an infinity stone makes _ into _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Webbing someone you hate to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The dariest  of devils.",
+    "A heavily aged Aunt May.",
+    "Tony Stark's drunk rage.",
+    "Spider-man making his own sound effects while swinging through New York.",
+    "Finding a girl and wanting to parker, but her dad says to put your peter elsewhere."
+  ],
+  "pack": {
+    "id": "DS52T",
+    "name": "Marvel's Marvels"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 5,
+    "total": 7
+  },
+  "dateStoredMs": 1588722233451
+}

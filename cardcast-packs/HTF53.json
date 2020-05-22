@@ -1,0 +1,114 @@
+{
+  "black": [
+    {
+      "content": "(_) saldrá en la próxima edición de supervivientes",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) debería independizarse de España",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Los chinos han acabado con (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Los franceses han acabado con (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(_) no tiene pulgares",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ay, si (_) levantara cabeza...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Los rojos han acabado con (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si gobernara (_) España estaría mejor",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He comprado (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No entiendo por qué hay gente que no le echa cebolla a (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Está claro, (_) es lo mejor que tiene España",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo siempre le echo (_) a la paella.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Santiago Abascal.",
+    "Los franceses.",
+    "Hombres.",
+    "Madrid.",
+    "Ciudadanos.",
+    "David.",
+    "Podemos.",
+    "Manuel.",
+    "PP.",
+    "Opel corsa.",
+    "Pablo Iglesias.",
+    "Acho.",
+    "El rey.",
+    "Huelva.",
+    "Mujeres.",
+    "Los murcianos.",
+    "La paella.",
+    "Alicante.",
+    "Limones.",
+    "Franco.",
+    "Albacete.",
+    "La horchata.",
+    "España.",
+    "La unión del país.",
+    "PCPE.",
+    "Las lentejas.",
+    "Valencia.",
+    "Murcia.",
+    "Cataluña.",
+    "Belén Esteban.",
+    "Alcachofas.",
+    "Charizard.",
+    "PSOE.",
+    "Cebolla.",
+    "La tortilla.",
+    "Mi madre.",
+    "Vox.",
+    "Salario mínimo."
+  ],
+  "pack": {
+    "id": "HTF53",
+    "name": "Españita"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 38,
+    "total": 50
+  },
+  "dateStoredMs": 1588273963304
+}

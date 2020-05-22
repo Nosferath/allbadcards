@@ -1,0 +1,143 @@
+{
+  "black": [
+    {
+      "content": "Why does Thanos come to Midgard? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the all new Avengers movie watch as the _ take on Thanos who is trying to get his hands on the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ Isn't something one considers when balancing the universe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Thanos do in his free time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do the Avengers stop Thanos? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Tony find Doctor Strange? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ this puts a smile on my face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you make a Marvel Movie successful? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does Thanos only sit in his chair? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the most powerful weapon the Avengers have? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Loki escape with the Tesseract? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do the Avengers die? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is the worst  Avenger? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Thanos sleep at night? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Assemble.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How does Thanos win in Infinity Wars? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who killed Loki? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Thor.",
+    "The Tesseract.",
+    "Spider-man.",
+    "The Collector.",
+    "Infinity Gauntlet.",
+    "Hela.",
+    "Vision.",
+    "Captain America.",
+    "Thanos.",
+    "Loki's death.",
+    "Black Widow.",
+    "The Time Stone.",
+    "Nebula.",
+    "Gamora.",
+    "Doctor Strange.",
+    "The Mind Stone.",
+    "The Black Order.",
+    "On your left.",
+    "Hawkeye.",
+    "_.",
+    "Earth.",
+    "Drax.",
+    "Mantis.",
+    "The Grandmaster.",
+    "Revengers.",
+    "Iron Man.",
+    "Rocket.",
+    "Ant Man.",
+    "Black Panther.",
+    "Groot.",
+    "Valkyrie.",
+    "Bucky.",
+    "The Reality Stone.",
+    "Tony Stark.",
+    "Star Lord.",
+    "Loki.",
+    "Falcon.",
+    "The Orb.",
+    "The Soul Stone.",
+    "Wanda.",
+    "Hulk.",
+    "Death."
+  ],
+  "pack": {
+    "id": "77RSC",
+    "name": "Avengers infinity wars"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 42,
+    "total": 59
+  },
+  "dateStoredMs": 1589350121608
+}

@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "How come you come back from takin a shit, you come talkin bout 'you was (_)'",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How would you like a nice (_) treat?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time flies when you're having (_)! See you next time in the playhouse, be there!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ay yo Pee Pee I'm tired of you duckin me man, I want my fuckin (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You better shut this bitch uuup, or I will; with mah (_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thats why your momma has a (_) AND a penis",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MAY a brother get a (_) ?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "SAYONARA NIGGAAAA.",
+    "Imma fuck one of these flowers.",
+    "Oh, fuck you.",
+    "Oh, lucky day.",
+    "Don't be a b-b-b-bitch!.",
+    "Diiiiiiick."
+  ],
+  "pack": {
+    "id": "vx9rr",
+    "name": "PEE PEE'S GAYHOUSE"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 6,
+    "total": 13
+  },
+  "dateStoredMs": 1589179679000
+}

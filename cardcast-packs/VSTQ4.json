@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "Thanks, but the last time I was in New York I kind of broke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My people want nothing but _ from your planet!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sir _ is not ready for deployment.  Then skip the spinning rims! We're on the clock!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd like to know why SHIELD is using _ to build _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Phase 2 isn't ready, our enemy is. We need a response team. We need _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Glorious, not lengthy. If your _ is as formidable as you claim.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well, let me know if \"real power\" wants _ or something.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Phil Coulson died, still believing in that idea. In _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You WILL kneel before _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ooh. It burns you to have come so close. To have _ , to have power, unlimited power. And for what? A warm _ for all mankind to share. And then to be reminded what real power is.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sir, _ was in Phil Coulson's locker, not his pocket.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Thor son of Odin.",
+    "Needing the push.",
+    "The guy with the arrows.",
+    "Falling out of the sky buck naked.",
+    "Tony Freak'n Stark.",
+    "Nick Fury."
+  ],
+  "pack": {
+    "id": "VSTQ4",
+    "name": "The Mighty Avengers!"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 6,
+    "total": 17
+  },
+  "dateStoredMs": 1588373480600
+}

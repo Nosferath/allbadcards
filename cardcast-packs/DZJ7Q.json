@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Wie viele _ passen in einen Mini cooper?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Angela merkel _ während einer Besprechung.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lutscht schwarze schwänze.",
+    "15 Chuck norris."
+  ],
+  "pack": {
+    "id": "DZJ7Q",
+    "name": "Hode"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589325877729
+}

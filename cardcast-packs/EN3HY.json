@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "Pinoy ako kasi _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mahirap pa rin ako.",
+    "Mahilig ako ng sinigang.",
+    "Nag sasabi ako ng \"agik, nue ginagawa mue\"."
+  ],
+  "pack": {
+    "id": "EN3HY",
+    "name": "Filipino Card"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1589205494380
+}

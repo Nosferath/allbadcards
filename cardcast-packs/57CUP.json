@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "Remember _ will be with you, always.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\"No reward is worth ________\".",
+    "\"Remember, _____ will be with you.  Always.\"."
+  ],
+  "pack": {
+    "id": "57CUP",
+    "name": "Cards Against the Empire"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588280572519
+}

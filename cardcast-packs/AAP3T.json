@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "If only town read my will, they'd understand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "VFR means _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Visit me night 1. _ is happening at my house.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo ho ho! Th' sluggard's _ be nah enough to stop yer shot. Ye won!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mediums participate in _ with deads at night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What killed Giles Corey? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is like shooting the mayor as vigilante. Necessity.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cotton Mather.",
+    "Thomas Danforth.",
+    "Alerting night 1.",
+    "The spy listening to your conversation at night.",
+    "Getting roleblocked by the consort.",
+    "John Willard.",
+    "The consort and the escort attempting to roleblock each other.",
+    "Getting roleblocked by the escort.",
+    "Abigail Hobbs.",
+    "Deodat Lawson."
+  ],
+  "pack": {
+    "id": "AAP3T",
+    "name": "ToS cards"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 10,
+    "total": 17
+  },
+  "dateStoredMs": 1589560333364
+}

@@ -1,0 +1,466 @@
+{
+  "black": [
+    {
+      "content": "What was Tucker doing in the bathroom? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which card would Lucas pick? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Dhruv have to go to the doctor? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like _ , but I'm not sure if I like _ more.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Unsurprisingly, Anders told us all that he was secretly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Tucker finally get Jillian to go out with him? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Marcus DeHaan say to the principal? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on Fox News: Is your child _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, I don't get involved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In an attempt to be liked again, Lucas was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Ben whisper in my ear? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear about _? I heard he got caught _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Bee Movie Trailer, but every \"bee\" is replaced with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who you gonna call? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get this great deal now! Two for one on all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I discovered a new Roblox server where everyone is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Tucker swims behind Jillian during practice all he can think about is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dude, were you just _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tired of riding the bench, Ravi decided that to start, he had to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I put as my special ability on my CV? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _. Name a more iconic duo. I'll wait.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Next time, we learn that _ is actually _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ : The only way to start your day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Nico's laptop break? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that sound? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that smell? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Stuart stop playing football? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can you buy on the black market? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I not allowed to shop at Wal-Mart anymore? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I must admit, I never thought that I would be _ at this stage in my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Anders' new stamp have on it? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Nico lose the election? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I see on the side of the highway? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I NEED  _ IN QUADRANT C, AND I NEED _ IN QUADRANT E!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Shrek is love, Shrek is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Ben win the Student of the Year Award? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does Anders have a bruise? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys, remember when Nico was _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hottest new Netflix drama is called \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The final straw for Ravi was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Nico happy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the _ man, get up on outta here with my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did Anders bring in for show and tell? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Tucker moving? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the award for best imitation of _ goes to _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dhruv's family decided not to move when they heard about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the police arrest Ravi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello there! You have been invited to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think that _ and _ would make a cute couple.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just throw out your most savage card. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was Ben placed on the no-fly list? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While everyone else was out partying, Heather Gunn was _. Guess who had more fun?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The exam only got difficult once I reached the part about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "www.pornhub.com/_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The U17 team finally won a game after the other team had to forfeit due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made the orgy awkward? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I decide to masturbate to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I find up my ass? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The porno that Ravi's mom found under his bed was called \"_\".",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Showing up for your weekly prostate exam 6 days early by accident.",
+    "Putting \"Grand Elector of the Thot Patrol\" on your CV.",
+    "Forgetting to close your browser windows from the night before and accidentally showing your  uncle's \"special video\" to the whole class.",
+    "Shouting \"IT'S JUST A PRANK\" when you run through airport security before they can actually inspect you.",
+    "Painting your skin to try and blend in with the negroes.",
+    "Tucker and Jillian sitting in a tree. F-U-C-K-I-N-G.",
+    "Cocks, cocks, and more cocks.",
+    "Getting arrested on assault charges because you said hi to a white person.",
+    "Banging Sofia because Nico wouldn't help you with your code.",
+    "Peeing on the teacher's desk to assert your dominance.",
+    "Joining a fraternity so that you can bang all the guys at night without them knowing.",
+    "Building a giant gas chamber around Israel for the good of humanity.",
+    "Being escorted out of the store because the store clerk wouldn't scan and bag the black family for you.",
+    "Being asked, \"Is it in yet?\" when you're almost finished.",
+    "Fidget Spinners.",
+    "Instantly cumming at the sight of the first graders.",
+    "Stealing your grandmother's pension because she's basically dead already.",
+    "Adopting the fattest dog at the pound because they burn the best.",
+    "The Thot Patrol™.",
+    "Only finding 3 children in your net at the end of the day.",
+    "Beating your meat so hard that you can no longer feel your left leg.",
+    "Hammering nails into people's eyes so they don't see you crash the planes into the towers.",
+    "Telling your mom when those mean kids make fun of you for banging your sister.",
+    "Not getting accepted to any universities because you have a 4.0 GPA.",
+    "Knico Knows Knumbers being only the second KKK rally you've attended.",
+    "Lady Boy Lick Fest 2017.",
+    "Deporting Dhruv because he was about to tell everyone your secrets.",
+    "Poking holes in your condoms because you really want to bang a pregnant chick.",
+    "Volunteering for the school play just to help the children into their costumes.",
+    "Leaving Morgane in the woods on the D of E hike because carrying the extra 30 kg is easier than carrying the team.",
+    "NOW THIS IS PODRACING!.",
+    "Getting banned from the aquarium for trying to see how many kids a shark could eat in 3 minutes.",
+    "Being arrested because there were no minorities to frame around you.",
+    "Kicking homeless dogs into the middle of the highway.",
+    "The 473 pencils that you lent Anders that are \"missing\".",
+    "Jerking off from a chair because Jillian won't let you join in with her and Hayley.",
+    "Needing a few minutes to calm down because you didn't want to shoot your load all over the dead body.",
+    "The quiet unzipping sound that comes from behind you.",
+    "Sweet, delicious eyeholes.",
+    "Brown Supremacy.",
+    "Anally plowing the teacher to show her who's really in charge.",
+    "Ransacking the village because that one kid stole your last Jolly Rancher.",
+    "Trading your children to Chinese restaurant owners for Pokémon cards.",
+    "Sucking so well that your dad only gives you two beatings.",
+    "Writing false on a multiple choice test.",
+    "Deciding that it was a good idea to show your mom your CAH deck, only to be grounded for 18 months.",
+    "Snapping the necks of the weak and sucking the dicks of the strong.",
+    "Having to get tiny shackles to stop the kids from escaping your basement.",
+    "*insert Tucker banging Jillian joke here*.",
+    "Finding out that Walt Disney was an anti-semite so you fall in love with Disney all over again.",
+    "Shooting up your house because your AK47 doesn't fit in your school bag.",
+    "Accidentally walking into a gang bang, but staying because you noticed an empty hole.",
+    "Jillian's disappointing look when she discovers that Tucker had already lost his virginity to Hayley.",
+    "Practicing your marksmanship on the Lower School playground.",
+    "Receiving a hardy congratulations for fingering a seventh grader.",
+    "Failing your students because none of their essays used your gnome analogies.",
+    "The game of tag that you make the children play to see which one is the worst at getting away.",
+    "Pushing Alex down a ramp.",
+    "Getting arrested by the police for respecting women too much.",
+    "The party that was thrown once Nico killed himself.",
+    "Driving around a preschool all day at a safe because of the restraining order the judge gave you.",
+    "Handing in the CAH deck because Mrs. Menzies told you to hand in what you were working on.",
+    "Ben's sisters all in a hot pillow fight with Dale.",
+    "Anders low-key wanting Shruthi but he can't date one of her kind.",
+    "Capturing Ravi for your basement because you didn't want to look racist.",
+    "The Delhi Daredevils anally penetrating the Gujarat Lions.",
+    "Whipping it out with extreme force.",
+    "Playing \"Secret Snake\" with your uncle, but never getting to hide your snake in his caverns.",
+    "Coming out to your parents only to be handed a noose.",
+    "Leaving hidden presents scattered around the airport.",
+    "Realizing that half of the white kids in our grade try to be black.",
+    "Vedant's firm nipples.",
+    "Having a bleach chugging contest with your little brother.",
+    "Realizing that Dhruv is basically just a worse version of Vedant.",
+    "Crippling your friends so that you're not the only one on crutches.",
+    "Pounding Jillian as a warm up for Hayley.",
+    "Renting orphans.",
+    "Reverse Russian Roulette, where the survivor is the loser.",
+    "The Flat Earth Society.",
+    "The dankest of memes.",
+    "Licking your test paper seductively in hopes that the teacher will pass you.",
+    "Fascism.",
+    "The Coveted Student Of The Year Award.",
+    "Celebrating when the quiet kid finally pulls out his rifle.",
+    "Yelling \"Yeet\" as you dropkick a kindergartener.",
+    "Purposely failing the test because you didn't want to be called a nerd.",
+    "Being suspended because you decided that school was the best place to deal, buy and keep your drugs.",
+    "Giving orphans nooses for Christmas.",
+    "Forming a super team only to get thrashed to a team of scrubs led by Kanan.",
+    "Buying a gun to protect yourself because you saw two black people in one day.",
+    "Having your code only print out, \"If I bang you will you give me an A?\".",
+    "Calling people pussies when they won't come down to your basement to see your dungeon.",
+    "Killing off your family to get the most inheritance money.",
+    "Naming your wife's kitchen appliances so she can hang out with them in the kitchen all day.",
+    "Calling the most destructive weapon in the world \"Little Boy\".",
+    "The knife game, but with 2-year-olds instead of fingers.",
+    "Feeling a bump underneath your van as you drive through the playground.",
+    "Roses are red, violets are blue, Hitler gassed 6 million Jews.",
+    "Making the mistake of following the four strange men into your mom's room.",
+    "The plump ass of Emma Solimeno.",
+    "Leaving your dog out in the rain all day because she didn't lick the peanut butter off your dick.",
+    "Spreading your anus so that the dog can put its whole head inside.",
+    "Picking \"Backdoor Sluts 9\" for family movie night.",
+    "Creating an army of Neo-Nazis because of their incredible efficiency.",
+    "Stealing fidget spinners from children because they're probably so retarded that they have two.",
+    "Being disappointed because the \"Rape Me\" sign you stuck on your back didn't work.",
+    "Anus Rocks: The Rocks that Go in Your Anus.",
+    "Turning yourself into a woman so that you can finally be the biggest slut.",
+    "Wearing a strap-on on the wrong way so you can fuck your mom and your dad at the same time.",
+    "Walking into the staff room only to see a gigantic teacher bondage orgy.",
+    "\"Accidentally\" trying to turn on the gas chamber while on a field trip with the local Jewish School to Auschwitz.",
+    "Moistening your dildo so you can get it further up your butt.",
+    "Laughing so hard that you shit yourself.",
+    "Missing me with that gay shit.",
+    "Not being able to perform the school shooting because of the boner you got from the terrified looks of the students.",
+    "Letting your sister \"practice\" on your dick.",
+    "Attending a furry convention and feeling a hairy finger in your ass.",
+    "Nagasaki hentai.",
+    "Bitching about the lack of cards in the deck yet refusing to add any because there are already too many cards in the deck.",
+    "Discovering that Wales is a wonderful country with its own interesting history, culture, language and a wealth of wonderful people and gaining respect for welsh people because of it. Just kidding, they only fuck sheep.",
+    "Shoving crayons down your dick hole.",
+    "Starting shit because you want school to be more like 13 Reasons Why.",
+    "Hiroshima hentai.",
+    "Jillian telling Tucker to call her \"daddy\" during sex.",
+    "Watching Tucker jerk off to Jillian from his closet while fingering Hayley.",
+    "Circle-jerking over the decision to fuck all your students over by moving the exams to after winter break.",
+    "A sexier clone of Uncle Nilesh.",
+    "The backwater shit-hole known as Houston, Texas.",
+    "Syntax Error - method \"justFuckingWorkYouPieceOfShit\" not found.",
+    "Oreo: The porn video starring Dhruv, Vedant and Valeria.",
+    "Finding out that Anders' contact name for Noelle is \"Good Pussy\".",
+    "Snitching out your dealer but being surprised when he stabs you next time you try to buy something.",
+    "Www.pornhub.com/Shamu-Fucks-Unsuspecting-Jillian.",
+    "Revenge fucking Meghan because Ravi was getting tired of jokes about people fucking Meghan.",
+    "Sticking Ravi's dick in your ass to show how gay he is.",
+    "Punching a hole through your computer because you don't understand what the fuck a HashMap is.",
+    "Apple getting pissed when Siri got bombed.",
+    "Cheering while rewatching the 9/11 footage.",
+    "Speaking like full on retard by pressing caps lock on all your blank cards and misspelling basic words like \"and\".",
+    "Chiclet, the product of a rat, possum and rabid dog orgy.",
+    "The veiniest, biggest, most throbbing, dick.",
+    "Claiming it's not your fault for crashing the planes into the towers because the pilot was such a weak bitch that he couldn't even take 23 bullets and stop you.",
+    "Keeping a muslim tied up and using her as a \"paki pussy\".",
+    "Doing the intercourse.",
+    "Giving a visual demonstration of paedophilia to the 3rd grade class.",
+    "Having to slap your mom on the ass while she rides your brother and your dad watches from a chair dressed as Superman.",
+    "Finding out that a dog's anus is just as good as your nephew's.",
+    "Dropping in through the window of your parents' room to try to see them having sex.",
+    "Roasting your classmates on CAH because you're too much of a bitch to say any of it to their faces.",
+    "Tucker's sperm swimming faster in Jillian's pussy than Tucker can swim in a pool."
+  ],
+  "pack": {
+    "id": "2NRW8",
+    "name": "JavaClass2: Electric Boogaloo"
+  },
+  "quantity": {
+    "black": 60,
+    "white": 150,
+    "total": 210
+  },
+  "dateStoredMs": 1589069520224
+}

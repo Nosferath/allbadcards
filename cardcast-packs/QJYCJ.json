@@ -1,0 +1,479 @@
+{
+  "black": [
+    {
+      "content": "\"Anyways, _ is great/ it's so delicious and moist\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Nobody murdered me, or put me in _, or fed me to _. I had a PRETTY GOOD LIFE.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"That thing you burnt up wasn't important to me. It's the fluid catalytic cracking unit. It makes _ for _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ deleted.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That lovely voice you heard is my assistant, _. She's  _ of  _.\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The lab boys just informed me that I should not have mentioned _. That gave me an idea, make more _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "New VR experience! Attempt to fix _ while GLaDOS throws scintillating insults at you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Warning: subject is _. Do not test.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Things that are in the deadly pit: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Mr. Johnson, I don't want _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What's your favorite thing about _? Mine's _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ dissapeared overnight, along with most of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Oh, hi. So, how are you holding up? Because I'm _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By means of quick resourcefulness, Chell at the last second shoots a portal through a broken wall panel, linking the portal on the floor to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"So! Who is ready to do _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"These Enrichment Spheres are made out of _, by the way. Keeps out the rats.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a surprising twist, the secret onboard the Borealis was actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GLaDOS likes to sing about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GLaDOS retrieves _ and raises them as her own.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Congratulations! Robots gave us a six extra seconds of _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bored and eager to test as he was, it was only a matter of time before Wheatley tried to combine _ and _ into some weird abomination.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "By the end of Portal 2, Wheatley is banished to an eternity in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Honestly, I think you're overqualified for _. I've got a much better assignment for you.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Well, you have been replaced/ I don't need _ now\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chell's surname is listed as <REDACTED> in the database. This is clearly a cover to show that it's, in fact, really _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Portal 2 Perpetual Testing Initiative has _ sending the player through a series of _ to rescue Aperture Science from _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hot New Meme of 2007: _ is/are a lie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I don't want _! What am I supposed to do with these?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bean counters told me that I could literally not afford $7 worth of _, much less $70,000,000 of it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The theory that _ contains the remains of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Fact! As our data clearly shows, _ cannot be trusted.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of the contenders for top worst idea Wheatley ever had was giving the _ to the _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You're not _. You're not _. You're not even _. Where did your life go so wrong?\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Portal 3: Chell teams up with _ to break into Aperture and retrieve _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Upon finding GLaDOS, Chell impales her on _ and sets off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You don't know _. You don't know _. You don't know anything. You will be perfect.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Potato GLaDOS gets kidnapped by _. Chaos ensues.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Role swap! Chell is now _, GLaDOS is now _, and Wheatley is now _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"And _ gets done/ and you make _\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A duet is performed by _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "OTP: _ x _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cave Johnson is here to kick  _ and  chew _. He's all out of the first one.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Press any key to vent reactor emissions into the atmosphere and avoid _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ and _ have been known to agitate the High Energy Pellet, as seen to the left of the chamber.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cool new AU: all the robots are now _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Aperture Science Handheld _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Good news. I just figured out what that thing you incinerated did. It was _ they installed after I flooded the Enrichment Center with _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ gets plugged into the chassis and goes batshit insane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After GLaDOS is detected to have _, Chell and Wheatley are given the option to put in motion a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sadly, Cave Johnson met his  end after lethal exposure to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a rude awakening, Chell's relaxation vault is flung through the storage area by _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Greek mythology symbolism in Portal 2.",
+    "Fact Core.",
+    "The flashlight core in the corrupted core bin.",
+    "The cut \"Dorfeldt\" plot arc.",
+    "Deadly neurotoxin.",
+    "The three crow children.",
+    "The 1939 Nuremburg Olympics.",
+    "Birblr GLaDOS.",
+    "That time a family got really angry at the adoption jokes in Portal 2.",
+    "Chell.",
+    "The control group.",
+    "The noise the hard light bridge makes when you jump on it.",
+    "Caroline.",
+    "The Borealis.",
+    "The fact that 50-foot omnipotent power-mad AIs are scared of birds.",
+    "The invention of pants by sailors in the 16th century to avoid Poseidon's wrath.",
+    "The Party Escort associate.",
+    "Turretsonas.",
+    "Chell finally speaking and having a horrible Australian accent.",
+    "GLaDOS and Batman's complicated relationship.",
+    "The humans.",
+    "Virgil from Portal Stories: Mel.",
+    "The infinite portal fall.",
+    "Trace amounts of time travel.",
+    "Wheatley's euphoric reaction to testing while in the chassis.",
+    "Wheatley's turretsona.",
+    "GLaDOS, absolutely covered in screaming birds.",
+    "The autotune effect used to make GLaDOS's voice.",
+    "The part where he kills you.",
+    "THE ANGER SPHERE.",
+    "Wheatley.",
+    "The Aperture Science Weighted Storage Cube.",
+    "Dark Cave.",
+    "The co-op bots.",
+    "The Aperture Science High-Energy Pellet.",
+    "Fanart of peoples' weird fursonas jumping between portals.",
+    "Wheatley with an arm.",
+    "Black Mesa.",
+    "Mantis men.",
+    "People misspelling Wheatley's name as Wheatly.",
+    "Wheatley x the Transistor.",
+    "A plot twist that reveals Chell is actually the Gman reincarnated.",
+    "GLaDOS's harp leitmotif.",
+    "Angsty breakup songs feat. GLaDOS.",
+    "Rocket turrets.",
+    "Portal momentum flings.",
+    "Wheatley's god tier.",
+    "A frankenturret.",
+    "The first person to discover that cow's milk is drinkable.",
+    "Defective turrets.",
+    "Harry Callaghan's musical parodies.",
+    "Chell finally speaking and having a thick southern accent.",
+    "The Potatofoolsday ARG.",
+    "The Lego Dimensions Portal level pack.",
+    "The discourse about tall, blonde, skinny Wheatley humanizations.",
+    "Cave Johnson's attempts at tax evasion.",
+    "GLaDOS's descent into a crazy bird lady.",
+    "Aristotle vs MASHY SPIKE PLATE!.",
+    "Coresonas.",
+    "Wheatley's trollsona.",
+    "Portal/Half-Life crossovers.",
+    "Wheatley's bad American accent changing depending on region.",
+    "Some manner of sentient cloud.",
+    "Doug Rattmann.",
+    "The theory that Caroline is Chell's mother.",
+    "A cool Portal AU where the robots retain the quality of not being human.",
+    "A fashion degree from France.",
+    "Caveline.",
+    "The rumored JJ Abrams Portal movie.",
+    "Wheatley's decision-making skills.",
+    "That HISHE video where Chell and Gordon Freeman communicate in blatantly fake sign language.",
+    "Wheatley's gemsona.",
+    "Personality cores with legs.",
+    "Justin Roiland making 5 minutes of soup impressions.",
+    "Too many bendies.",
+    "A loss.jpg created by rearranging panels from Lab Rat.",
+    "Rick pulling somebody's underwear up their butt.",
+    "The Aperture Science Vital Apparatus Vent.",
+    "The theory that Chell is a vortigaunt.",
+    "The 87.61% probability of Chell dying violently in the next five minutes.",
+    "The Aperture Science Handheld Portal Device.",
+    "Wheatley vibrating intensely in place while listening to pop music.",
+    "Caroline x Hoopy (Coopy).",
+    "The weird noises you can hear in the track \"Ghost of Rattmann\".",
+    "Core corruption.",
+    "The noise P-Body sometimes makes that sound like \"tootsie roll\".",
+    "Chelley.",
+    "Any or all of Fact Core's slightly but not completely incorrect statements.",
+    "Cave Johnson.",
+    "Space Core playing Katamari Damacy.",
+    "The one in six children statistically proven to be abducted by the Dutch.",
+    "Blatant misinformation spewed by the Fact Core.",
+    "The password.",
+    "Doug Rattmann's leg wound.",
+    "Curiosity Core.",
+    "People loudly voicing the theory that Caroline is Chell's mother on ChellDOS ship art.",
+    "Chapter 9: The Part Where He Kills You.",
+    "Cave Johnson's gemsona.",
+    "ChellDOS.",
+    "Untagged Portal 2 spoilers.",
+    "The Combine.",
+    "Mashy spike plates.",
+    "The voice acting in Portal: Prelude.",
+    "Wheatley being put in the Pear Wiggler to atone for his sins.",
+    "A dangerous mute lunatic.",
+    "The entire Portal fandom.",
+    "Every single sentry turret in the facility.",
+    "Holmes vs Moriarty.",
+    "Wheatley's accent.",
+    "Portal: No Escape, a live-action fan film by Dan Tratchenburg.",
+    "This roleplay from 2012 I was in called Portal Wars.",
+    "The Aperture Science Weighted Companion Cube.",
+    "The 234 words in the Eskimo language for fudge.",
+    "A Steven Universe AU where ATLAS and P-Body are a permafusion like Garnet.",
+    "Bad cake jokes.",
+    "Frankenturrets.",
+    "Weird interspecies human on robot shipping.",
+    "Adorable Wheatley/BB-8 friendship times.",
+    "Lady Gaga with yellow eyes.",
+    "Lawsuits over missing astronauts.",
+    "A deer.",
+    "A sentry turret.",
+    "Morality Core.",
+    "Henry.",
+    "The theory that companion cubes contain dead bodies.",
+    "GLaDOS's love of breathing oxygen.",
+    "The fanfiction, Blue Sky.",
+    "Space Core.",
+    "Potatoes.",
+    "Wheatley being given any reign over critical or delicate equipment whatsoever.",
+    "The fact that Chell could plausibly be a master builder in the Lego Movie universe.",
+    "Space Core's dreams of going to space.",
+    "Wheatley's youtube channel.",
+    "Portal 2: The Unauthorized Musical.",
+    "Portal: the anime.",
+    "Blaring sirens in the background of most of Wheatley's theme music.",
+    "Chell decking Gordon Freeman in the face.",
+    "The announcer.",
+    "Valve's newest installment, The Lab.",
+    "Space Core's dad, who is space.",
+    "RattDOS.",
+    "Fanart where Chell's missing her undershirt for some reason.",
+    "Lesbian subtext between Chell and GLaDOS.",
+    "Science Time with Susan Tiemann.",
+    "GLaDOS.",
+    "VRAaEC.",
+    "Wheatley's \"manual overrides\".",
+    "Tesla-cize.",
+    "That video of GLaDOS screaming in assorted languages.",
+    "The Aperture Science Heavy-Duty Super-Colliding Super Button.",
+    "The turret at the desk.",
+    "Hidden SSTV messages in the updated ending of the first Portal.",
+    "The Amorality Core.",
+    "WheatDOS.",
+    "The gigantic prototype portal gun from the 50s.",
+    "Logic Core.",
+    "Cave Johnson's trollsona.",
+    "Wheatley's tumblr blog.",
+    "The Animal King turret.",
+    "Really a lot of bendies.",
+    "GLaDOS / HAL 9000 interactions.",
+    "Hoopy the Hoop.",
+    "GLaDOS, but with Mettaton's legs.",
+    "Aperture Science.",
+    "Just one bendy. by itself.",
+    "My inability to find a co-op partner.",
+    "Narbacular Drop.",
+    "A Wheatley redemption arc.",
+    "Wheatley, but with Bayonetta's legs.",
+    "The retconned original Portal timeline.",
+    "Minecraft let's plays, feat. Wheatley.",
+    "A hostile Animal King takeover.",
+    "Test Shaft 9.",
+    "Wheatley aggressively flexing his handlebars.",
+    "The couple thousand humans in cryogenic storage.",
+    "That deadly pit.",
+    "The Aperture Science Car-Downloading Initiative.",
+    "The dual portal fling.",
+    "Fact Core's counting pneumonic.",
+    "All of the switches in the main breaker room.",
+    "Rick the Adventure Sphere.",
+    "Greg's weird daughter.",
+    "Sans and Papyrus's uncanny resemblance to ATLAS and P-Body.",
+    "The HTC Vive Virtual Reality Tutorial.",
+    "(screaming bird noises).",
+    "The astounding lack of coresonas in the Portal fandom.",
+    "An AU where Doug paints entirely in anime style.",
+    "Asbestos.",
+    "Greg.",
+    "Hepatitis given by cellular phones that do not cause cancer.",
+    "10,000 sentry turrets.",
+    "GLaDOS x Soprano Turret.",
+    "Buying $70,000,000 worth of moon rocks even though the bean counters told you not to.",
+    "Raseph, a Semitic god with an gazelle growing out of his forehead.",
+    "Somebody's idea to get GLaDOS a stress toy.",
+    "An AU where the robots are humanized, but they're all Gollum.",
+    "The robot dog from The Lab.",
+    "Cave Johnson setting himself on fire.",
+    "GLaDOS decking Breengrub in the face to establish dominance.",
+    "The lovely Blark Barg.",
+    "(soundbyte of a sarcastic clap).",
+    "The need to ingest 200 pounds of helium prior to the Wright Brother's invention of flight.",
+    "Chell high-fiving Frisk from Undertale.",
+    "ATLAS and P-Body after learning several lewd hand gestures.",
+    "Wheatley's shitty Sonic the Hedgehog OC.",
+    "Joint Portal/Gravity Falls/Rick and Morty crossovers.",
+    "A shit ton of bendies.",
+    "That CTRL+ALT+DEL comic where the Steam controllers are portals to Gaben's nipples."
+  ],
+  "pack": {
+    "id": "QJYCJ",
+    "name": "Aperture Science Humanity-Defying Card Game Initiative"
+  },
+  "quantity": {
+    "black": 51,
+    "white": 208,
+    "total": 259
+  },
+  "dateStoredMs": 1589492940117
+}

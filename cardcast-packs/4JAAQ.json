@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "Punk's not dead, it's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What a  shame the poor groom's bride is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! GOTTA CATCH EM ALL!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GET OUT OF MY _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ LIVES MATTER.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When u gotta _ at 4 but have to _ at 5.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "u kno he _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daaamn _ , back at it again with those _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There are only two _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"sir you've been in a _ for years\" \"oh boy, i can't wait to see my favorite _!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Here come dat _. Oh shit, whaddup!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Shrek 3D.",
+    "White boys.",
+    "Donald Trump supporter.",
+    "BOI.",
+    "OwO what's this?."
+  ],
+  "pack": {
+    "id": "4JAAQ",
+    "name": "Dank Memes Melt Steel Beams"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 5,
+    "total": 16
+  },
+  "dateStoredMs": 1588200114859
+}

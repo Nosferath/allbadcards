@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "if you double _, i'm gonna have to _ you",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "my new kin is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vriska.",
+    "Vriska.",
+    "Monoma.",
+    "Vriska.",
+    "Jason dean.",
+    "Vriska.",
+    "Vriska.",
+    "The onceler.",
+    "Vriska.",
+    "Komaeda.",
+    "Sangwoo.",
+    "Vriska.",
+    "Monika.",
+    "Vriska.",
+    "Karamatsu.",
+    "Vriska.",
+    "Gamzee.",
+    "Vriska.",
+    "Vriska.",
+    "Vriska.",
+    "Homestuck.",
+    "Vriska.",
+    "Vriska.",
+    "Kylo ren.",
+    "Vriska.",
+    "Vriska.",
+    "Rick sanchez.",
+    "Vriska.",
+    "Vriska.",
+    "Vriska.",
+    "Stan marsh.",
+    "Vriska.",
+    "Sans.",
+    "Dio.",
+    "Vriska.",
+    "Vriska.",
+    "Vriska.",
+    "Vriska."
+  ],
+  "pack": {
+    "id": "BST6C",
+    "name": "kinnies"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 38,
+    "total": 40
+  },
+  "dateStoredMs": 1589425111597
+}

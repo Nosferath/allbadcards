@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "A barátnőmet  _  a szülinapján.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Robloxon a nevem \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A dagadtak nem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Orbán viktor szerint a _ jó.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Magyarország _ teljesít.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tegnap kifolyt a _ a pohárból.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A haverom szereti a nagy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A mezőn van egy kasza a parasztnak nagy a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Megbasztam \t.",
+    "Megpakoltam \t.",
+    "Narancslé \t.",
+    "Véraláfutásosak \t.",
+    "Rxhu \t.",
+    "Nyalóka88.",
+    "Almás pite \t.",
+    "Malacka.",
+    "Dinkelspitz \t.",
+    "Haja \t.",
+    "Faszt.",
+    "Vékonyak \t.",
+    "Kóla.",
+    "Vér \t.",
+    "Faszlé \t.",
+    "Anyád \t.",
+    "Semmik \t.",
+    "Jobban \t.",
+    "Szarul \t.",
+    "Hosszú és érdekes dolgokat \t."
+  ],
+  "pack": {
+    "id": "TM642",
+    "name": "NevemJozsika Magyar Pack #1"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 20,
+    "total": 28
+  },
+  "dateStoredMs": 1589196614052
+}

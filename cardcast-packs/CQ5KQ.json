@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "My favourite toy as a kid was kung fu _, with awesome _ action.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Donald Trump, and Joe Biden can only agree on one thing _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A clown with a strap on."
+  ],
+  "pack": {
+    "id": "Cq5kq",
+    "name": "Cvo3000"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588562989220
+}

@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "I'm going to Azkaban because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My patronus is a _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Deepthroating a golden snitch.",
+    "Avada kadabra."
+  ],
+  "pack": {
+    "id": "XSJW8",
+    "name": "Witches and Muggles"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588205954001
+}

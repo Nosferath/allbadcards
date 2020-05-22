@@ -1,0 +1,81 @@
+{
+  "black": [
+    {
+      "content": "Hey remember when _ ? That's why you don't go to Scarborough.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "GO _ GO!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Sorry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bro did you hear that new drake song called _? Shit got me feeling nice .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I miss _. Ah the good ol' days",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo fam stop _ before I get cheesed! Still.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Relax dude, your sister and I only _ twice! No biggie",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can I get a medium double double and _ please.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The three greatest things in life: Hockey, No traffic on the 401 and _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So I was walking around yorkdale when _ ! Yeah I know that's crazy right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once you stop riding the TTC then you'll realize _ :)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whoa I can't believe cp24 just aired _ !",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "My little pistachios.",
+    "The God himself, Austin Mathews.",
+    "That one crackhead down on Bloor st.",
+    "Toronto Maple Leafs erotica.",
+    "Traffic on the 401."
+  ],
+  "pack": {
+    "id": "QW68J",
+    "name": "Ugly sides of the 6ix"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 5,
+    "total": 17
+  },
+  "dateStoredMs": 1589004220749
+}

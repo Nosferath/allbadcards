@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "So I'm sitting there, _ on my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hi, welcome to _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "ZC4KU",
+    "name": "Vines that keep me from shoving my head in a toilet bowl"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589566836101
+}

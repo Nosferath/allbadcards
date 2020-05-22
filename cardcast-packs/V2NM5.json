@@ -1,0 +1,515 @@
+{
+  "black": [
+    {
+      "content": "I'm thinking about _. What's your opinion?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Well, that just doesn't sound safe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can never be too old for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, _, and _ finally collide in a battle of epic proportions! See it now in a theater near you!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Introducing Xtreme baseball. It's like baseball, but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear?! _ escaped from the zoo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I was your personal trainer, our first step would be _. And then I would _ you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing relieves stress better than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found the Card Czar's stash of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. It's not funny. It's an actual addiction.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How many times do I have to tell you? _ is not an instrument.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Would bang. 10/10.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? No, that's the last thing we need here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a great idea for a game based on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do the aliens avoid us? Is it because of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't think anything is more depressing than _ on a bad day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On this week's episode of Man Vs. Food, Adam eats _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ than sit through a Kanye West concert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientists have discovered that _ is the cure for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. And that's how your grandfather caused World War 3, Timmy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I seriously doubt that anything could be worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reports say the next hit YouTube channel features videos of only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my plan to get her to go all the way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was all I ever learned from love.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new book is called _ and _ -- Maybe it's Your Fault You're Divorced.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We just got an order to deliver 500 _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's fun for the whole family? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's it. You. Me. _. Now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Bible's overall message is just to love _ and not to hate _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I had a million dollars, I'd buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A word of advice: never put _ in your food. Ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ *gasps* WHO DID THIS?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of all the horrible song names I've seen, \"_\" takes the cake for the worst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What ruined your childhood? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This is why I drink.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need to delete my browser history so my partner doesn't discover my obsession with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My family hates me just because I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite pastimes involve _ and _. And you thought you had problems.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Do you know why I pulled you over? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that a _ in your pocket, or are you just happy to see me?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Christmas, I bought _ for my mom and _ for my dad. Needless to say, I WILL be their new favorite kid.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "...And so the tribes of the North, South, East, and West had finally united against a common enemy: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And this year's Darwin Award goes to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need to talk to you, Card Czar. We're getting really concerned about your obsession with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Son, can you explain why I found _ in your room?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, no, no. You don't understand. I can give up _ anytime I want.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never Google _ and _ at the same time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ -- the product of the century!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the meaning of life? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. So beautiful. So majestic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And then she said _ and I was like...maybe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, _, and _. Separate they are nothing, but together they are unstoppable.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I went to jail for _. Worth it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you think about it, _ really isn't that bad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kanye West loves nothing more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Card Czar needs to be sent to an intervention because of their unhealthy obsession with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One does not simply _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The aliens were able to understand and assimilate to all aspects of human life, except for the concept of _. That was totally lost on them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite all the horrors I've seen, nothing scares me more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "**Grocery store intercom** Would the owner of the _ please come to the front desk?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only thing keeping me from accomplishing my dreams.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the cutest thing I've ever seen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As the host of a radio show about _, I get a lot of interesting callers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bored? You should try _. It's the best way to pass the time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At my father's funeral, can I put _ in the casket with him?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents gave me a small loan of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walmart employees, congratulations! We've gone 0 days without _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You wanna know my secret? I really enjoy _. It gives my life meaning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Victoria's secret? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What have you been doing since high school? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: it's like Netflix for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is not good. In fact, it's rather bad. Horrible even.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing says \"I love you\" like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What broke the pool table? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been subjected to _ for so long that it doesn't even faze me anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know _ isn't a real crime but I'm arresting you anyways.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A+ seller! Would buy _ from again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The biggest hit on Broadway is _ -- The Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spend most of my time _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like, comment, and subscribe for more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Strange, I didn't see _ there when I first took the picture.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.tumblr.com.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no! _! My only weakness!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No way would I let Donald Trump _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ / _ fanfiction. Hot.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: Sure to permanently put an end to anyone's problems!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This should be a fun weekend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I'm gettin' down and dirty in the bedroom, I like to use \"_\" as an euphemism for having sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the Czar's secret sexy fantasy? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just killed my boner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My boss caught me watching porn at work. My response? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So if you bring _ and I focus on _ I think this will be a fucking awesome surprise party!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This is why I don't mess with _ anymore. Shit gets real.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A lot of people don't know that Adolf Hitler was secretly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck are you doing in my backyard? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just because I like _ that's supposed to make me an asshole?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instructions unclear, dick stuck in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a long day, the Card Czar always looks forward to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandma wrote me off her will after she discovered that I didn't share her unrelenting love for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some people think I'm weird because I like _. Some people can go fuck themselves.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "V2NM5",
+    "name": "Black Cards Only (Pack 1)"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 0,
+    "total": 100
+  },
+  "dateStoredMs": 1589405691707
+}

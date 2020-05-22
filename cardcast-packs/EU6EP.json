@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "Cards Against _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's a new way to make Cards Against Humanity more interesting? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Defending your white card and exposing yourself to the rest of the players.",
+    "A blank card.",
+    "Re-reading the black card for every answer.",
+    "That feeling of betrayal when someone else wins a round you had the perfect card for.",
+    "Playing Cards Against Humanity for free on pretendyoure.xyz instead of buying the real game.",
+    "A Cards Against Humanity game with 50 players.",
+    "Adding 20 CardCast decks.",
+    "The Card Tsar.",
+    "A box of cards going to war with the entire human population.",
+    "Saving a great card for the entire game, only to never use it ever.",
+    "The best card ever.",
+    "Drawing the perfect card one turn too late.",
+    "Draw 2 Pick 3s.",
+    "Humanity Against Cards.",
+    "Having the perfect card when you're the Card Czar.",
+    "That feeling when you win a throwaway round.",
+    "Playing Cards Against Humanity.",
+    "Trademark signs.",
+    "Not getting a single point in Cards Against Humanity.",
+    "The company that made Cards Against Humanity.",
+    "Strip Cards Against Humanity.",
+    "Your mom walking in on a dirty Cards Against Humanity game.",
+    "Adding 1000 CardCast decks.",
+    "Throwaway rounds.",
+    "Every Cards Against Humanity expansion in existence.",
+    "Cards that were topical 5 years ago."
+  ],
+  "pack": {
+    "id": "Eu6ep",
+    "name": "Meta CAH"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 26,
+    "total": 28
+  },
+  "dateStoredMs": 1588250495464
+}

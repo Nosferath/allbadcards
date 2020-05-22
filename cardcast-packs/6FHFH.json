@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Ostatnio na Brąksie podbił do mnie ziomek i zaproponował _. Wybór był oczywisty.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Księga Brąksu.",
+    "Andrzej Czapski.",
+    "Dariusz Stefaniuk.",
+    "Michał Litwiniuk.",
+    "Brąks.",
+    "Komenda Miejska Policji w Białej Podlaskiej."
+  ],
+  "pack": {
+    "id": "6FHFH",
+    "name": "Biała Podlaska Pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1589494194749
+}

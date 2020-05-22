@@ -1,0 +1,116 @@
+{
+  "black": [
+    {
+      "content": "Im Notfall kannst du einen Server remote mit _ neustarten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist die lette Stufe unseres _ Rollouts.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich habe diese Kaffeetasse 1997 in einer Konferenz über _ bekommen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anstatt auf iPv6 umzusteigen werden wir _ benutzen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ im Serverraum zu vergessen ist ein Kündigungsgrund.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der letzte Berater wurde wegen _ gefeuert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist Layer 8 des OSI-Netzwerkmodells.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der rote Knopf an der Wand startet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe heute morgen meinen Chip vergessen und musste _ benutzen um ins Büro zu kommen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zwei-Faktor-Authentifizierung mit _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ein Helpdeskanruf um _ mit _ zu beheben.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ wird ab jetzt in jedem OS-Update inklusive sein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue heiße Spiel des Sommers ist der _-Simulator.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue Abteilungsleiter der IT hat ein colles Tattoo von _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Haben sie verucht es aus- und wieder anzuschalten?.",
+    "Stuxnet.",
+    "Ein aus dem Schrott ausgegrabenes Mainboard mit einem seriellen Port.",
+    "Edward Snowden.",
+    "Ein kaputtes Crossover-Kabel.",
+    "5000 gratis AOL CDs.",
+    "Eine Maus verbunden über: seriell -> ps/2 -> usb.",
+    "Eine Regenbogenpackung 3.5\" Disketten.",
+    "Eine Festplattenentmagnetisierungsmaschine.",
+    "Mein Passwort.",
+    "Ein Fingerabdruckscanner.",
+    "Ein Helpdeskticket zum \"fixen der CPU\".",
+    "Ein auf dem Parkplatz gefundener USB-Stick.",
+    "Mein gerootetes Handy.",
+    "Einen RAID-Array wiederaufbauen.",
+    "Eine über den seriellen Port angeschlossene Maus.",
+    "Script kiddies.",
+    "Eine IP-Webcam mit dem Standard-Passwort.",
+    "Der server ist down.",
+    "Ein Laserpointer.",
+    "0118 999 881 999 119 725...3.",
+    "127.0.0.1 anpingen.",
+    "Ein KVM mit einer kaputten M.",
+    "CryptoLocker.",
+    "8.8.8.8 anpingen.",
+    "Ein Mauspad mit einem Kaffeefleck.",
+    "Eine Maus mit nur einer Taste.",
+    "Eine auf die Kaffeemaschine ausgerichtete Webcam.",
+    "Zwei-Faktor-Authentifizierung.",
+    "Rm -rf /*.*."
+  ],
+  "pack": {
+    "id": "DYKWN",
+    "name": "Mett gegen die Menscheit - IT"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 30,
+    "total": 44
+  },
+  "dateStoredMs": 1588281522780
+}

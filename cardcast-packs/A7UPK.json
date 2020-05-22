@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Nach dem Mallorca-Urlaub bin ich _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "A7UPK",
+    "name": "Germans against Humanity [German]"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589325877805
+}

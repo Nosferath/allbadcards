@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "Kto _ ten _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy byłem, kiedy byłem _ , hej!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Panie, a idź pan w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żydzi uwielbiają _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nam _ nie kazano, wstąpiłem na _...",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mój stary jest fanatykiem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dwóch karłów sra do wiadra. Twoja reakcja? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to nowa nazwa masturbacji.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zw trwające w nieskończoność.",
+    "Hey Jude!.",
+    "Obrzezanie dłutem rzeźbiarskim.",
+    "Michał.",
+    "Nam strzelać nie kazano. — Wstąpiłem na działo  I spojrzałem na pole dwieście armat grzmiało.  Artyleryji ruskiej ciągną się szeregi,  Prosto, długo, daleko, jako morza brzegi. I widziałem ich wodza; — przybiegł, mieczem skinął,  I jak ptak jedno skrzydło wojska swego zwinął.  Wylewa się z pod skrzydła ściśniona piechota  Długą, czarną kolumną, jako lawa błota,  Nasypana iskrami bagnetów. Jak sępy,  Czarne chorągwie na śmierć prowadzą zastępy.",
+    "Kamil.",
+    "Twoja stara.",
+    "Chuj, dupa, kurwa, cipa!.",
+    "Sen tak głęboki, że budzi Cię marsz pogrzebowy.",
+    "PRZEGRAŁEM!.",
+    "Damian.",
+    "Twój stary.",
+    "Holocaust.",
+    "Najstarsi górale."
+  ],
+  "pack": {
+    "id": "23UVG",
+    "name": "Oficjalna talia parafii pod wezwaniem proroka Mahometa"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 14,
+    "total": 22
+  },
+  "dateStoredMs": 1588616112631
+}

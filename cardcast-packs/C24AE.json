@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "\"Of course Ink didn't make _, I did!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "C24AE",
+    "name": "Underverse"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588648322466
+}

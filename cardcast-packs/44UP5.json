@@ -1,0 +1,134 @@
+{
+  "black": [
+    {
+      "content": "_. Wait....what?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If it wasn't for _ I would be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite part of _ is putting _ on _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Your aid is needed in Stormwind! The King requires _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Erebos is at it again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nostos raids are never complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bedivere is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This new flavor of Spooky O's tastes like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of COURSE you didn't get that loot, you were _. Way to be a dick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got us killed AGAIN. It's almost like they're _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is best in slot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make sure you download your addons, _ is at 5:30 server.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can tell by the way I use my _ I'm _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "/emote is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odd groups got _ , even groups got _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My WoW gf says she really likes it when we're _ together.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Spookytoes.",
+    "Sick dance moves.",
+    "Getting Whiteclaw wasted with Schmidt.",
+    "Pure Moods Volume 5: Bedtime with Bedivere.",
+    "Parsing 99.",
+    "Dpsing like Michael J. Foxes.",
+    "Tanking the floor.",
+    "Brb bio.",
+    "Saving your DKP for minutes on end.",
+    "Choosing you, Yocachu.",
+    "Bedivere.",
+    "Finding Kipper on OnlyFans.",
+    "Making it to raid with all of my buffs.",
+    "Daddy chilling.",
+    "Singing Happy Birthday but really, really badly.",
+    "Big brain.",
+    "Masturbating while you bubble hearth.",
+    "Ruffyy's golf course.",
+    "Buying DKP from Bedivere using sexual favors.",
+    "Ask.",
+    "Draye.",
+    "Saying \"roofie\" instead of \"Ruffyy\".",
+    "Taking a shit on the Deeprun Tram to make Ironforge and Stormwind play turd pong.",
+    "Saying \"oh knee\" because you suffered brain damage.",
+    "Benusaur.",
+    "Erebos.",
+    "THIS FUCKING ROGUE.",
+    "Uncontrollably spamming Blessing of Salv.",
+    "Lakyn's poor treatment of coochie.",
+    "Feet pics.",
+    "Wishing they would purge your soul along with your buffs.",
+    "Cool, refreshing heal spooge.",
+    "Fizzix.",
+    "Vitara.",
+    "The Mamas and the Papafrankus.",
+    "Getting Schmidty.",
+    "Worthless Kipper.",
+    "Losing my buffs."
+  ],
+  "pack": {
+    "id": "44UP5",
+    "name": "Nostos Against Humanity"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 38,
+    "total": 54
+  },
+  "dateStoredMs": 1589225237461
+}

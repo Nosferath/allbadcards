@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "WOII wouldn't have been the same without _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best thing ever to happen to humanity? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feminism is an illness. This isn't even a question lol. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world would be better with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the Soviet Union could't handle _, what can?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fall of the Soviet Union is due to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the most succesful thing ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Two niggas are talking, what they both thinking about? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If niggas aren't criminal enoug, _ is/are.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tsernobyl.",
+    "Choking and butting your nipples in the asshole of a jew.",
+    "My destiny, an oven.",
+    "Hitler.",
+    "Gas chambres.",
+    "The next terrorist attack.",
+    "Stalingrad.",
+    "The SS.",
+    "The KKK.",
+    "All the jews that have been gassed.",
+    "Flying two airplanes into the WTC.",
+    "Jozef Stalin.",
+    "Auschwitz.",
+    "A succesful deportation."
+  ],
+  "pack": {
+    "id": "FC8UK",
+    "name": "Nazi / Soviet / racism pack"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 14,
+    "total": 23
+  },
+  "dateStoredMs": 1589179679150
+}

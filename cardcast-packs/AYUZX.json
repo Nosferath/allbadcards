@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "_ To ulubione Zuzi",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zuzia kocha _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Igusia.",
+    "Nudesy zuzi."
+  ],
+  "pack": {
+    "id": "AYUZX",
+    "name": "kc igusia"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588203447241
+}

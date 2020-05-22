@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "Is this the Krusty krab? No, this is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No Patrick, _ is not an instrument.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best time to wear _ is all the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "HOW TOUGH AM I? I HAD A BOWL OF _ FOR BREAKFAST ... without any milk.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want you to empty your mind of everything that doesn't have to deal with _ and breathing.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "NEHOY MENOY!!!!.",
+    "Goo Lagoon.",
+    "Pinhead Larry.",
+    "Your bubble buddy.",
+    "THE HASH SLINGING SLASHER.",
+    "Cumbob Squirtpants.",
+    "The Secret Krabby Patty Formula.",
+    "Sheldon J. Plankton.",
+    "Spitward Testicles.",
+    "Super Weenie Hut Jr.'s.",
+    "Wumbo.",
+    "Kelp.",
+    "Being a man.",
+    "Gangbanging all of Spongebob's holes at once.",
+    "Squidward Tentacles.",
+    "Krabby Patties.",
+    "The Salty Spitoon.",
+    "*Imaaaginaaaation*.",
+    "Sandy Cheeks.",
+    "CHOCLOATE."
+  ],
+  "pack": {
+    "id": "RVXS3",
+    "name": "Spongebob"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 20,
+    "total": 25
+  },
+  "dateStoredMs": 1589573462843
+}

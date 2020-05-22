@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "When I watch the TV, I usually _ beforehand.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sacrifice myself to the Good Lord Satan."
+  ],
+  "pack": {
+    "id": "4PD4N",
+    "name": "Dark CAH"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588685552543
+}

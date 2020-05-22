@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "How did Don Lewis dissapear? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Don Lewis.",
+    "Sardine oil.",
+    "Carole Baskin.",
+    "JoeExoticTV.com.",
+    "Here kitty kitty.",
+    "Travis' Ruger.",
+    "Hey all you cool cats and kittens!.",
+    "Jeff Lowe.",
+    "Joe Exotic.",
+    "I am never gonna financially recover from this!.",
+    "Big Cat Rescue.",
+    "The meat grinder.",
+    "Bhagavan.",
+    "Murder for hire."
+  ],
+  "pack": {
+    "id": "DPW64",
+    "name": "Tiger King"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 14,
+    "total": 15
+  },
+  "dateStoredMs": 1589492132474
+}

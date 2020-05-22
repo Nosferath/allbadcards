@@ -1,0 +1,82 @@
+{
+  "black": [
+    {
+      "content": "Bernie Sanders promised _ to the young people of America.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . _ . _ . Ah, America.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"I think Hillary has the right idea about _ . \"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I did not have sexual relations with _ !\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Syrian Rebels were thankful that Obama had given them _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the event of Nuclear war, Donald Trump will be sent to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ are stealing our jobs!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the Iowa caucus, Trump proceeded to throw _ into the crowd.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Hillary Clinton's saucy fetish? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ . Make America great again.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The KKK.",
+    "Donald Trump's secret plans for soviet takeover.",
+    "Live-action shots of Donald Trump's hair flowing in the wind.",
+    "A midget klansman riding on Donald Trump's back.",
+    "Abraham Lincoln soaring through the sky on a bald eagle gunning down the Republican candidates.",
+    "Ted Cruz's secret identity.",
+    "Benghazi.",
+    "The Zodiac Killer.",
+    "A really big wall.",
+    "An intensely violent threesome with Senator Cruz, Donald Trump, and Hillary Clinton.",
+    "The walking corpse that is Bernie Sanders.",
+    "Donald Trump's micropenis.",
+    "The promise to kick ISIS' ass.",
+    "Barack Obama's dimly lit sex dungeon.",
+    "Chris Christie's bitch tits.",
+    "The misshapen, old, saggy dick of Bernie Sanders."
+  ],
+  "pack": {
+    "id": "jjwrg",
+    "name": "The Wide World of Politics"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 16,
+    "total": 26
+  },
+  "dateStoredMs": 1589127542706
+}

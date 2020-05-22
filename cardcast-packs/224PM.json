@@ -1,0 +1,29 @@
+{
+  "black": [
+    {
+      "content": "Hey kid want some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "why did Tommy get suspended from school?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Eastern Europe.",
+    "That one fuckboi faggot boy in your grade nobody like.",
+    "The anal bead, cock ring, butt plug combo."
+  ],
+  "pack": {
+    "id": "224PM",
+    "name": "Offense"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 3,
+    "total": 5
+  },
+  "dateStoredMs": 1588453699998
+}

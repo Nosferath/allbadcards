@@ -1,0 +1,22 @@
+{
+  "black": [],
+  "white": [
+    "Utó.",
+    "Panzerkampfwagen.",
+    "Ank.",
+    "Gábor.",
+    "Kamion.",
+    "Kamion.",
+    "Remény."
+  ],
+  "pack": {
+    "id": "J6F9H",
+    "name": "Punifing"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 7,
+    "total": 7
+  },
+  "dateStoredMs": 1589196967892
+}

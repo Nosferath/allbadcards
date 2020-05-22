@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "What kind of weapons do jews use ? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sling of david."
+  ],
+  "pack": {
+    "id": "KB3N7",
+    "name": "RACISM"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589277059844
+}

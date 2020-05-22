@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "Yeah, I got a 5. How, you ask? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hoping this is all worth it.",
+    "Taking AP Psych to boost your GPA.",
+    "AP Chemistry.",
+    "Maximillien Robespierre.",
+    "1984.",
+    "5 hours of homework.",
+    "Worrying about the curve because the exam seemed too easy.",
+    "Invading Russia in the winter.",
+    "Sparknotes.",
+    "Waiting until July to check your scores online.",
+    "Chicago being B, a city.",
+    "The MCQ.",
+    "Analyzing continuities and changes over time.",
+    "Document based questions.",
+    "Sacrificing someone during the test so everyone else gets a 5.",
+    "Cultural diffusion.",
+    "Mitochondria, the powerhouse of the cell.",
+    "Not doing the annotations.",
+    "Self loathing.",
+    "Finishing the research paper an hour before the due date.",
+    "The FRQ.",
+    "Having 5 tests on the same day.",
+    "Forgetting your student pack.",
+    "The eventual promise of college credit.",
+    "Pre-gridding.",
+    "Writing 3 essays in 2 hours.",
+    "Existential dread."
+  ],
+  "pack": {
+    "id": "P3YWH",
+    "name": "Cards Against Advanced Placement"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 27,
+    "total": 28
+  },
+  "dateStoredMs": 1589232107414
+}

@@ -1,0 +1,97 @@
+{
+  "black": [
+    {
+      "content": "Luke looks like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beel’s actual favorite food is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only thing that can get Levi out of his room.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing Asmo loves more than himself is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lucifer brought you to _ to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mammon spent too much on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diavolo orders Lucifer to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason why Lilith isn’t in the story is because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barbatos is jealous of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Solomon _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is what makes Satan mad the most.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason Belphie was locked up in the attic is because _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Asmo.",
+    "Lilith.",
+    "Asmodeus.",
+    "Mammon.",
+    "Solomon.",
+    "Simeon.",
+    "Belphie.",
+    "Levi.",
+    "Grimm.",
+    "Beelzebub.",
+    "Beel.",
+    "Lucifer.",
+    "Diavolo.",
+    "Luke.",
+    "Barbatos.",
+    "Luci.",
+    "Leviathan.",
+    "TSL.",
+    "Satan.",
+    "Devil points.",
+    "Belphegor."
+  ],
+  "pack": {
+    "id": "UR2UC",
+    "name": "Obey Me"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 21,
+    "total": 33
+  },
+  "dateStoredMs": 1588882167138
+}

@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "When was the last time you got laid? - _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rick and _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lick Lick Lick my _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'mma need you to put them way up your _ , Morty",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just kidding! My new catch phrase is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OH JEEZ, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What is my purpose?\" _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Mr. _ , look at me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Give me the _ , Morty!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't have any more ideas for calls, so I'll just put _ here.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wubba Lubba dub dub.",
+    "Mister jelly bean.",
+    "You pass butter.",
+    "Ass, lots of ass.",
+    "Balls.",
+    "Oh my god.",
+    "Motherfucker.",
+    "Pickle Rick.",
+    "Hammer morty being raped by mister jelly bean.",
+    "I want to die.",
+    "Lick my balls."
+  ],
+  "pack": {
+    "id": "4N8CQ",
+    "name": "rick and morty"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 11,
+    "total": 21
+  },
+  "dateStoredMs": 1588882388246
+}

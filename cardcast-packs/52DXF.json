@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Les cuento una wea que me paso _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A tu mama la llaman la _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se vende _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saquen esa wea de cancion y pongan sus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El Jordán es una papa por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ayer me estaba corriendo la paja y no pude evitar pensar en _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Maruchan , por que esta lista en 5 minutos.",
+    "Entero aweonao.",
+    "Tu mama es mi nana.",
+    "Pantufla , por que se la ponen todos los dias.",
+    "Le gusta el pico.",
+    "Rolones epicos.",
+    "Chupalo.",
+    "Eskiusmi.",
+    "1 x 300 / 2 x 500.",
+    "Ser saco wea.",
+    "La mama del nico."
+  ],
+  "pack": {
+    "id": "52DXF",
+    "name": "los weones chilenos"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 11,
+    "total": 17
+  },
+  "dateStoredMs": 1588993629768
+}

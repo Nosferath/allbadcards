@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Jesus's favorite toy is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "Z9RGQ",
+    "name": "Sexy"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589059246574
+}

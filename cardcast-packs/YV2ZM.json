@@ -1,0 +1,220 @@
+{
+  "black": [
+    {
+      "content": "_ is problematic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Trickstar song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's new fandom discourse is about how _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When will _ get a new 5*?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new AKATSUKI song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesn't start idol wars, _ does.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new knights song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Eden song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new fine song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Valkyrie song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new MaM song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tsumugi's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My gacha ritual consists of _ then _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The special talent that got me into idol school was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New login bonus: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new 2wink song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Ryuseitai song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm _P.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Switch song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Ra*bits song is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I could be _ right now, but instead I'm ranking for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new UNDEAD song is about _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Sakura Festival.",
+    "Hey everyone! My name is Kaoru Hakaze. I was born November 3rd! And I’m a student of Yumenosaki gakuen high school. I’m a senior student right there! And my blood type is B. And my class is 3-A That’s pretty much it heh.",
+    "The Sakumas.",
+    "Sunflower Live.",
+    "Fushimi Yuzuru.",
+    "Mall Live.",
+    "Fine.",
+    "Limited 4*s.",
+    "Mademoiselle.",
+    "MaM.",
+    "The Track & Field Club.",
+    "The Five Eccentrics.",
+    "The Archery Club.",
+    "The Marine Life Club.",
+    "The Theater Club.",
+    "Narukami Arashi.",
+    "Shino Hajime.",
+    "Valkyrie.",
+    "Fine Airlines.",
+    "Sengoku Shinobu.",
+    "Nito Nazuna.",
+    "Aoi Hinata.",
+    "Tsukinaga Leo.",
+    "Ra*bits.",
+    "Isara Mao.",
+    "Recollection ＊ Ryusei Bonfire.",
+    "Sena Izumi.",
+    "AKATSUKI.",
+    "Rebellion.",
+    "Knights.",
+    "Sakuma Rei.",
+    "Suou Tsukasa.",
+    "The Handicraft Club.",
+    "Harukawa Sora.",
+    "Sakuma Ritsu.",
+    "Tenshouin Eichi.",
+    "Akehoshi Subaru.",
+    "The Game Research Club.",
+    "Announcement night.",
+    "Requiem＊Sword of Vow and White Day.",
+    "Ran Nagisa.",
+    "Mashiro Tomoya.",
+    "Sazanami Jun.",
+    "Hibiki Wataru.",
+    "Sakasaki Natsume.",
+    "Itsuki Shu.",
+    "Luck Down.",
+    "Himemiya Tori.",
+    "The Tea Club.",
+    "Kanzaki Souma.",
+    "Starlight Festival.",
+    "Aoi Yuuta.",
+    "The Tennis Club.",
+    "Reminiscence * Monochrome Checkmate.",
+    "Saegusa Ibara.",
+    "Sagami Jin.",
+    "Tenma Mitsuru.",
+    "Gacha.",
+    "Soloing.",
+    "Shinkai Kanata.",
+    "2wink.",
+    "Aoba Tsumugi.",
+    "Chocolate Festival.",
+    "The Three Eccentrics.",
+    "UNDEAD.",
+    "The Ninja Association.",
+    "Having 3 dia.",
+    "Baton Pass.",
+    "Reminiscence＊Each Other's Cross Road.",
+    "Hakaze Kaoru.",
+    "The Basketball Club.",
+    "Takamine Midori.",
+    "Kiryuu Kuro.",
+    "Oogami Koga.",
+    "Otogari Adonis.",
+    "Morisawa Chiaki.",
+    "Band Ensemble.",
+    "Trickstar.",
+    "Nagumo Tetora.",
+    "Yuuki Makoto.",
+    "Switch.",
+    "Ryuseitai.",
+    "Magicians Assemble.",
+    "Eden.",
+    "Hasumi Keito.",
+    "Undead Cafe.",
+    "The Karate Club.",
+    "Hidaka Hokuto.",
+    "The Light Music Club.",
+    "Tomoe Hiyori.",
+    "Anzu.",
+    "Kunugi Akiomi.",
+    "Mikejima Madara.",
+    "Kagehira Mika."
+  ],
+  "pack": {
+    "id": "YV2ZM",
+    "name": "Ensemble Stars Funnies"
+  },
+  "quantity": {
+    "black": 22,
+    "white": 94,
+    "total": 116
+  },
+  "dateStoredMs": 1588146333579
+}

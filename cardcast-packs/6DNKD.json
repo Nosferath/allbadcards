@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "BRUH _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Il papà del lobe.",
+    "BRUH."
+  ],
+  "pack": {
+    "id": "6DNKD",
+    "name": "bruh"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588624551237
+}

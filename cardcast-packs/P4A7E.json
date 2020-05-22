@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "Narrated _ : _ was caught _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When you _ , do not wipe your _ till you have licked it, or had it licked by somebody else.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the name of _. _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "If a _ falls in _ , he should _ for one of its wings has a disease and the other has the cure for the disease.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "All praise is due to _ , _ of _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ , mighty and sublime be He, said: _ , O son of _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When the Jews greet you, they usually say,  _ , so you should say (in reply to them),  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you don't wake up for Fajr, _ pees in your _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Peace be upon _ and his _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Sahih Bukhari.",
+    "Sahih Muslim.",
+    "Gabriel.",
+    "Shaytan.",
+    "Wa 'alaikum salaam.",
+    "Qur'an-e-Sharif.",
+    "As-salaamu 'alaykum.",
+    "Muhammad.",
+    "Allah.",
+    "As-samu 'alaykum.",
+    "Wa 'alaikum.",
+    "Al-Mi'raj.",
+    "Hallucinating on 'shrooms while in the cave of Mount Hera.",
+    "Buraq, the flying horse with a human face.",
+    "Fasting during Ramadan."
+  ],
+  "pack": {
+    "id": "P4A7E",
+    "name": "Cards Against Islam"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 15,
+    "total": 24
+  },
+  "dateStoredMs": 1588711745520
+}

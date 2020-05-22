@@ -1,0 +1,62 @@
+{
+  "black": [
+    {
+      "content": "The \"flat-pack\" is oddly shaped like a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The mattresses at IKEA make me feel like I was laying on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've always wondered what the bathrooms in IKEA looked like, then I realized _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a _ addiction thanks to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I built my IKEA desk, it took my hands, my screwdriver, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I sat in my new IKEA Desk Chair, _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Place in your most useless card, the most useless card wins) _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These IKEA instructions look like Lego instructions, but with a _ in them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you really just _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "It was all a dream."
+  ],
+  "pack": {
+    "id": "Dzxut",
+    "name": "Cards against IKEA"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 1,
+    "total": 10
+  },
+  "dateStoredMs": 1588475936719
+}

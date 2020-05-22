@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Durante la crocefissione, Gesù pensò a _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "La madonna bastonata."
+  ],
+  "pack": {
+    "id": "XWVCS",
+    "name": "Porco dio"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589230525072
+}

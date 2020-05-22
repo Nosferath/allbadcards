@@ -1,0 +1,51 @@
+{
+  "black": [
+    {
+      "content": "Where were you during 9/11?_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Osama Bin Laden Himself.",
+    "The screams heard from Americans when the Towers collapsed.",
+    "Allahu Akbar.",
+    "Virginia Tech Massacre.",
+    "Afghanistan.",
+    "Benghazi.",
+    "Sandy Hook Elementary.",
+    "American Airlines Flight 11.",
+    "United Airlines Flight 175.",
+    "Syrian Chemical Warfare.",
+    "United Airlines Flight 93.",
+    "Seal Team 6.",
+    "The Boston Bombing.",
+    "Bomber jackets.",
+    "The ISIS recruitment challenge.",
+    "The planning for 9/11.",
+    "Hearing the screaming and crying of American Citizens.",
+    "Aviophobia (The fear of planes).",
+    "The Orlando Shooting.",
+    "American Airlines Flight 77.",
+    "Iraq.",
+    "Al Qaeda.",
+    "Iran.",
+    "Shooting up a school.",
+    "Middle Eastern slave trade.",
+    "C4.",
+    "A man with a smelly dick.",
+    "Jihad with America and the Middle East.",
+    "Putting my dick in a toaster.",
+    "Reasons why Hitler did a bad job."
+  ],
+  "pack": {
+    "id": "PY2CK",
+    "name": "9/11"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 30,
+    "total": 31
+  },
+  "dateStoredMs": 1588716926756
+}

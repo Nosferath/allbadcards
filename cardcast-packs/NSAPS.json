@@ -1,0 +1,17 @@
+{
+  "black": [],
+  "white": [
+    "Democrats.",
+    "Republicans."
+  ],
+  "pack": {
+    "id": "NSAPS",
+    "name": "Politics"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 2,
+    "total": 2
+  },
+  "dateStoredMs": 1588553563541
+}

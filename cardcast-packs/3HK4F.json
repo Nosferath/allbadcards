@@ -1,0 +1,109 @@
+{
+  "black": [
+    {
+      "content": "Trzej królowie przynieśli ze sobą : mirre , kadzidło i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to kawał _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy w naglym przypadku braknie ci pod ręką papieru toaletowego , uzyjesz _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój zwierz to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ulubiona rozrywka Putina to ? Strzelanie do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na disco zawsze zabieram ze sobą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy sąsiedzi hałasują , masz ochote powiedzieć im _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chyba wdepnąłem w _ , a nie to tylko _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kichanie podczas sikania , moze urwać ci _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A dostałeś kiedyś _ w ryj ? A _ dostał.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A co to kurwa jest ? _ czy _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najlepszy na kaszel suchy jest _ , a na kaszel mokry _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy myśle o Świętach , mam smak na _ z kruszonką i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Biegunka jest jak _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kutasina.",
+    "Chrapanie.",
+    "Bąki ?.",
+    "Kuna wąsata.",
+    "Wibrator.",
+    "Puste ?.",
+    "Jam łasica.",
+    "Papier toaletowy.",
+    "Bronek.",
+    "Prącie jelenia.",
+    "Miętoszenie pisklaka.",
+    "Cegła.",
+    "Puste.",
+    "Małżeństwo.",
+    "Umywalka.",
+    "Wymiona.",
+    "Muszla klozetowa.",
+    "Makłowicz.",
+    "Rozmowy w toku.",
+    "Smród.",
+    "Jądra w mrowisku.",
+    "Pipsztok.",
+    "Sraczka."
+  ],
+  "pack": {
+    "id": "3HK4F",
+    "name": "Polish Words - immature"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 23,
+    "total": 37
+  },
+  "dateStoredMs": 1588616112996
+}

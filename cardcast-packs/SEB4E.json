@@ -1,0 +1,184 @@
+{
+  "black": [
+    {
+      "content": "They call me _ , Daedric Prince of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A woman charges into battle with weapon drawn while the guards sit back and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is horrible and depressing, but the _ will survive.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Father says I'm too young to train with a sword, so I practice with my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PUT SOME _ ON YOU FOOL!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You dare torment me? Valen Dreth? Let me out of this cell, you fetid piece of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another adventurer, here to lick my father's _. Good job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me guess. Someone stole your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ does not keep those he has no use for.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Be quiet, I'm doing the _! It's a very delicate state of mind.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ knows _ others do not.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Ends. NOW!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even Gods dislike the _ , for it stinks of something larger than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I hope you get _ by a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am sworn to carry your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Either you're _ or I'm _. Maybe both.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "By _ , what have you done? What madness has claimed you? You have betrayed me, you have betrayed the _ ! Why?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "YOU NEVER SHOULD'VE _ HERE!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll _ you if I have to!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't _ from me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I Used To Be An Adventurer Like You, Then I Took An _ In The Knee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop!! You've violated the _! Pay the court a fine or serve your sentence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, there's my new pal! So what can I do for you? Need some items? Or maybe you ready to unload _? Whatever you need!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello there, I here you've been looking for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I… I saw his face. I saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You sleep rather soundly for a _ . That's good. You'll need a clear conscience for what I'm about to propose.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ in the name of Sithis.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweet mother, sweet mother, send your _ unto me, for the sins of the unworthy must be baptized in _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "WHY... WHONT... YOU... _!!!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Morrowind.",
+    "Mead.",
+    "Sweet Roll.",
+    "Cyrodiil.",
+    "DIE.",
+    "Solitude.",
+    "Skyrim.",
+    "Valenwood.",
+    "High Rock.",
+    "Arrow.",
+    "Nord.",
+    "Black Marsh.",
+    "Hammerfell.",
+    "Murderer.",
+    "FUS RO DAH.",
+    "Elf.",
+    "The Empire.",
+    "Elsweyr."
+  ],
+  "pack": {
+    "id": "SEB4E",
+    "name": "The Elder's Scrolls"
+  },
+  "quantity": {
+    "black": 30,
+    "white": 18,
+    "total": 48
+  },
+  "dateStoredMs": 1589074573942
+}

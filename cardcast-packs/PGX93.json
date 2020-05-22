@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "At_i like to think about_",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "PGX93",
+    "name": "Weirdo"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589053901835
+}

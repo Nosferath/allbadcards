@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "_ always turns me on",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My wife told me she wanted to try _ tonight",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "HQ4J4",
+    "name": "Dark and Racist"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589480826235
+}

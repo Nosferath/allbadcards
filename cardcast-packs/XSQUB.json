@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "Guess what!! I have_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That feels_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey i just bought_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is that a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We found_. Wanna_?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You want _ im fine with _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Did you just_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandma wants_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you have_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey dont touch that_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "XSQUB",
+    "name": "Cards against family"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 0,
+    "total": 10
+  },
+  "dateStoredMs": 1589490080561
+}

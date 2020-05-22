@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "mr tumble taught josh to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MR tumble taught jamie to _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "M4 assault rifle.",
+    "Tec-9.",
+    "Ak-47.",
+    "Mr tumble.",
+    "Tec-9.",
+    "Molotovs.",
+    "Shooting up a school with a banana.",
+    "Grenades.",
+    "Jamie fryer shooting up the school.",
+    "Mr tumble.",
+    "Tanks.",
+    "Mr tumble.",
+    "Angry clown with a tec-9.",
+    "Tec-9.",
+    "Mp5."
+  ],
+  "pack": {
+    "id": "AX4Q6",
+    "name": "MR tumble's school shooting range"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 15,
+    "total": 17
+  },
+  "dateStoredMs": 1588864003046
+}

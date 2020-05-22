@@ -1,0 +1,47 @@
+{
+  "black": [
+    {
+      "content": "What is love? _ don't hurt bee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Angelia joile had a penis and every night she would _ with it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barry B. Benson had no penis. To make a child, he _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the sequel to the Bee Movie, Barry B. Benson will be dating a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hilarious new movie from the creators of the Bee Movie called _ is out!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bee sex.",
+    "Un-bee-lievable.",
+    "Jerry Seinfield.",
+    "Bee lawyers.",
+    "Bee-stiality.",
+    "Barry B. Benson."
+  ],
+  "pack": {
+    "id": "W6SPC",
+    "name": "Cards against HumaniBEE (bee movie)"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 6,
+    "total": 11
+  },
+  "dateStoredMs": 1589068734064
+}

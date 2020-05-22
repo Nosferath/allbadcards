@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "Nessuno capisce che _ è il _ Youtuber di questo mondo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Il peggior cancro è causato da _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Peggiore.",
+    "I Mates.",
+    "Cancer.",
+    "Parliamo di Videogiochi.",
+    "I Me contro Te.",
+    "Il Cringe.",
+    "Zombix34.",
+    "Cringe.",
+    "Migliore.",
+    "Cancro.",
+    "Favij.",
+    "Tremotino109."
+  ],
+  "pack": {
+    "id": "TFVRZ",
+    "name": "Youtube italia"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 12,
+    "total": 14
+  },
+  "dateStoredMs": 1588711140692
+}

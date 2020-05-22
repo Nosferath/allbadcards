@@ -1,0 +1,553 @@
+{
+  "black": [
+    {
+      "content": "I have to eat _ to avoid _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ow oof my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm surprised Old Spice hasn't made a commercial about _ yet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do for a Klondike bar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niggers don't deserve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard the next Call of Duty game is going to feature _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hillary lost the election because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Children in China are dying due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm so hungry I could eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Let me get uhhhhhhh... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Communism is for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Real gentlemen practice _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ once told me the world is gonna roll me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is how it feels to chew Five Gum. _. Stimulate your senses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I put _ on my balls so my dog will lick them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I won't pass high school because I'm always _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Sniper Elite game, you are tasked with locating and assassinating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miss me with that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only way to impress me is by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I go to Wal-Mart to buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would rather have _ than a fidget spinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bet John Holmes loves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So long, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I plan to end racism against blacks by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've been put on the no-fly list because on my last flight, I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was too busy _ to notice that _ was _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is cancerous and should die off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to nuke Japan because they were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I start every day with a balanced breakfast and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you seen the new Guardians of the Galaxy movie?  It has tons of _ in it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My last marriage ending in me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your memes are almost as stupid as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I haven't visited Africa because they are too busy with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First I bang the drum, then I bang _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happy _ Day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How bout I don't wear timbs, I wear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For Christmas this year, I'm giving my mom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now look at this _ , that I just found.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm glad we got rid of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "50,000 people used to live here, now it's a _ town.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I absolutely hate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _ because it doesn't respect women.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ did 9/11.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aliens don't visit us because we are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love a good glass of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Rick Harrison, and this is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I unfolded my mom's towel and found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First I fuck my sister, then I fuck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes at night, I secretly shove a gigantic _ up my rectum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found the cure to cancer! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The pizza is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They may have _ in the North, but here in the South, we have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hitler killed the wrong people.  He should've killed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To become rich, I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that black cock tastes like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had to go back in time and kill _ to prevent _ from happening.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ for Harambe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raindrop, droptop, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I help young children out of poverty by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I won't eat no pizza if it got _ on it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Butch Cook would imprison anybody that started _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just the _ Dick, sit down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that _ can help you skip through lines quicker.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skate fast, eat _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I take the blue pill, I will start _ , but if I take the red pill, I will start _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I like to spice up my tacos by putting _ in them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I keep a ton of _ in my basement.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a secret fetish for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's free _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saturdays are for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only watch anime for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Germany lost World War II because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I lost my virginity to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skip class, _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Free real estate.",
+    "Justin Lance.",
+    "Running over autistic children.",
+    "Peanut butter.",
+    "Peeing on the side of the toilet in order to make less noise.",
+    "Country music.",
+    "A cold one with the boys.",
+    "Vladimir Putin.",
+    "Spiking my girlfriend's drink.",
+    "Weeaboos.",
+    "Commercials about bears wiping their asses.",
+    "Tad Cummins.",
+    "Marriediguanas.",
+    "Buzzing the office in Mr. Burchfield's room.",
+    "Russman.",
+    "Laughing at my friend's memes when they aren't actually funny.",
+    "Playing Pumped Up Kicks over the intercom while shooting up the school.",
+    "Putting the feminism book in the fiction section of the library.",
+    "Betty white.",
+    "The card czar's beautiful face.",
+    "Roblox.",
+    "Rat Loader.",
+    "Nuking Japan.",
+    "Taking it from the back.",
+    "Joining the KKK.",
+    "Theleam Gaming's Minecraft Survival series.",
+    "Squeakers in online games.",
+    "Overcoats.",
+    "Sound of burning jews.",
+    "Eating a foot long but my mom asks what I'm doing with dad.",
+    "Warm nut.",
+    "Choccy milk.",
+    "Terminal cancer.",
+    "Bone hurting juice.",
+    "Destroying the means of production.",
+    "Slavery.",
+    "Bottom text.",
+    "Obamacare.",
+    "Two-year olds.",
+    "Ariana Grande concert victims.",
+    "Creating the 4th Reich.",
+    "Index fingers.",
+    "Snuff films.",
+    "Killing myself.",
+    "Ron Jeremy.",
+    "Grandma.",
+    "Crystal bepis.",
+    "Magnum dong.",
+    "Abducting children and forcing them to work in factories.",
+    "Quickscoping in mw2.",
+    "Anne Frank.",
+    "Cucks.",
+    "Daniel's anime collection.",
+    "Miguel's mom.",
+    "Furries.",
+    "Drinking bleach then digesting the bottle.",
+    "Content Cop.",
+    "Electrocuting the gays.",
+    "Shamus.",
+    "Slaughtering the infidels.",
+    "Bob Saget.",
+    "Taking lessons from my teacher while eating her out.",
+    "Jar squating.",
+    "Long schlongs.",
+    "The slow tortuous march of imminent death.",
+    "My mom.",
+    "Old memes.",
+    "Szechaun sauce.",
+    "Ms. Paula.",
+    "Delicious juice.",
+    "Uncle Phil.",
+    "Shooting up a gay club.",
+    "Pineapple grenades.",
+    "Murdering a small family of 6.",
+    "Understanding that black people aren't black and they aren't human.",
+    "Playing Roblox ironically.",
+    "Step 1: Secure the keys.",
+    "Poisoning the Amish's well.",
+    "A massacre on the black population.",
+    "The warm embrace of death.",
+    "Booty pirates.",
+    "Jerry Seinfeld.",
+    "My social security number.",
+    "Welfare.",
+    "Otakus.",
+    "🅱epis.",
+    "Spelling icup.",
+    "Meme.",
+    "Jacking off in class.",
+    "🅱oneless pizza.",
+    "Banging young boys with a crowbar then sucking their cocks.",
+    "Autism.",
+    "My dog.",
+    "Yelling allahu akbar.",
+    "The baff.",
+    "Looking at dank memes.",
+    "Vaporwave.",
+    "Shaq.",
+    "Michael Bay.",
+    "Enslaving young asians.",
+    "China.",
+    "Boneless pizza.",
+    "Butch Cook.",
+    "Driving around a white van that has \"free fidget spinners\" on the side.",
+    "Gay people.",
+    "Paul Ryan dabbing.",
+    "BBBC.",
+    "Pickle Rick.",
+    "Starving african children.",
+    "Mr. Burchfield.",
+    "John Holmes.",
+    "Sebastian's basement.",
+    "Sebastian.",
+    "Accidentally cracking open the boys instead of a cold one.",
+    "Gay pride.",
+    "Getting hacked by Sebastian.",
+    "Mega huge COCK.",
+    "Shooting a rifle in the air while doing anal with a hog.",
+    "Dicking down the retarded girl in class.",
+    "Taking a shit on the constitution.",
+    "Niggers.",
+    "Having hot sex with my girlfriend, then killing her.",
+    "Taking the ass to town but the teacher asks what I'm doing to the special ed kid.",
+    "What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words.",
+    "Fucking my cousin with a mouth full of dip.",
+    "Shoving a screwdriver up my ass.",
+    "Putting my dick in the exhaust pipe of a car.",
+    "Drinking a glass of tiger piss.",
+    "Getting a hamster and naming it Awesome so I can say I'm fucking awesome.",
+    "Ass cancer.",
+    "Shitting on the carpet.",
+    "Watching anime.",
+    "Having sex with the hot teacher but then realizing I'm homeschooled.",
+    "A penis-shaped breadstick.",
+    "Buying a diamond-encrusted fidget spinner.",
+    "Fingering my own dick.",
+    "Calling people niggers in online games.",
+    "Lynching niggers.",
+    "Accidentally putting my dick into the disk tray.",
+    "Going balls-deep in a pencil sharpener.",
+    "Saying nigger.",
+    "Finding my brother's porn stash but it's all pictures of me.",
+    "Having sex with the neighbor's labrador.",
+    "Child sex slaves.",
+    "Convincing my girlfriend to do anal but she brings a strap-on.",
+    "Gay niggers from outer space.",
+    "Fresh pussy.",
+    "Hot anime bitches.",
+    "Child porn.",
+    "An expiremental version of Viagra that increases penis size by 42 feet.",
+    "Mike \"if they like the cock, give em the shock\" Pence.",
+    "The card czar is a faggot.  Don't pick my card.",
+    "Watching a holocaust documentary but the teacher asks why I'm masturbating.",
+    "Dabbing on niggers.",
+    "Pissing out the window.",
+    "Incest.",
+    "Megafaggot and Robobitch.",
+    "2 niggas kissin.",
+    "Sucking my own dick.",
+    "Pissing in the sink.",
+    "Shitting on the carpet.",
+    "Horse cock."
+  ],
+  "pack": {
+    "id": "ANWEB",
+    "name": "Actual Cancer"
+  },
+  "quantity": {
+    "black": 75,
+    "white": 162,
+    "total": 237
+  },
+  "dateStoredMs": 1589385955636
+}

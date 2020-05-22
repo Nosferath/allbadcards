@@ -1,0 +1,140 @@
+{
+  "black": [
+    {
+      "content": "Jack Neo's latest movie is about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The YP beng kena suspended, what did he do? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Xiaxue's latest controversy involves _ with _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is taboo during the CB period? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kumar's newest stand-up comedy is about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One people, one nation, one _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sheng Siong supermarket's latest promotion: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are the Lee siblings fighting again? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the biggest taboo during the Hungry Ghost Month? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "'How can dis be allow?' _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Why are you taking me hostage? Is it because I am _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did you get banned by 'SG Covidiots'? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mediacorp's new drama on Channel 8 is about_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Phua Chu Kang has returned, he will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The SAF has recently announced compulsory _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ah boy ah, why you _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Changi Airport's newest addition is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yishun has recently reported an increase in _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Phua Chu Kang's mole.",
+    "Lining up for LiHo bubble tea.",
+    "KNN CCB.",
+    "Lining up overnight for Hello Kitty toys.",
+    "Resurrecting Ah Meng the Orangutan and Inuka the Polar Bear.",
+    "Protesting at Pink Dot.",
+    "Chinese.",
+    "Mee siam mai hum.",
+    "Chicken rice auntie.",
+    "Wake up your idea.",
+    "A luxury night's stay in Haw Par Villa.",
+    "Ah Boys to Men: Electric Boogaloo.",
+    "Hording face masks.",
+    "Close one eye.",
+    "A romantic date by the staircase.",
+    "A transgender Merlion.",
+    "Zoe Tay's immortality pills.",
+    "Malay.",
+    "Riding an e-scooter on the pavement.",
+    "Assaulting a Grab food driver.",
+    "Going outside to settle.",
+    "An SPG with an ugly ang moh boyfriend.",
+    "Singing techno music at a getai performance.",
+    "Lining up for two days for Shake Shack.",
+    "Stupid recruit.",
+    "Kumar's tetek.",
+    "Spending the night in Hotel 81.",
+    "Pink Dolphin vitamin drink.",
+    "Zut zut the XMM.",
+    "A pack of tissue paper.",
+    "Eurasian.",
+    "VR Man.",
+    "Apu neh neh.",
+    "Flirting with the nasi lemak makcik."
+  ],
+  "pack": {
+    "id": "WPGNH",
+    "name": "Subtle Singaporean Traits"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 34,
+    "total": 52
+  },
+  "dateStoredMs": 1589372097876
+}

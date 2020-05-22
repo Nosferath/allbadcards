@@ -1,0 +1,795 @@
+{
+  "black": [
+    {
+      "content": "Au tailgate de Rouge et Or, j'ai vus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'appelle affectueusement ma belle-mère : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cette année, Stephen Harper a décidé de couper dans _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deux pelletées de _ dans les Kellogg's Raisin Bran.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , on est toute ben tannés.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , moi je l'aurais mangé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je me suis penché et tout le monde a vus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "T'es pas game de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le Centre des Sciences présente une nouvelle exposition sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans le fond, le père Fouras c'est _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce soir, à Occupation Double : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ c'est bien, mais deux c'est mieux.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "À chaque jour, le maire Labeaume prend dix minutes pour _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "À la une du journal de Montréal : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le Stade Olympique devrait servir à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce soir, à Tout le monde en parle, on reçoit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Montréal et Québec s'obstinent encore sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loco Locass milite pour _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miam miam! _ cru(e).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jean dit : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai vus _ aux foufounes électriques.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ça guérit même une vaginite.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui a amené autant de français sur le plateau? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'te parie 20$ que _ rentre dans ma bouche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , c'est bien meilleur le matin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui est meilleur qu'une poutine à 4h du matin? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : ça vous enlève les mots de la bouche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le nouveau thé de DavidsTea s'appelle : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'le jure sur la tête de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Des petites mains d'enfants, c'est parfait pour _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Steak, blé d'inde, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Attention, attention! _ cause un ralentissement sur la ligne : orange.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bien dans ma peau, grâce à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon ami m'a appris à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Si la tendance se maintient, _ sera élu(e) à la tête du prochain gourvernement.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Notre soirée a été totalement scrappée par _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mon vote pour le président du monde va à _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Céline Dion a annulé sa tournée à cause de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui est pire que de croquer dans le fruit interdit? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cré moé, cré moé pas, queq'part en Alaska, ya _ qui s'ennuie(nt) en maudit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ est clairement mon jouet sexuel préféré.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a pissé dans piscine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : la perfection au masculin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Ah pis d'la marde.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'ai toujours rêvé de frencher _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nouvelle poutine de la Banquise s'appelle _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "J'étais tellement préoccupé par _ que je suis tombé entre deux wagons de métro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce soir, Claire Lamarche retrouve _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est _ en sale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Les médias sociaux n'oublieront jamais _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La meilleure émission de TQS a toujours été _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pour l'Halloween je me déguise en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans son enfance, Robert Lepage a écrit une pièce de théâtre sur _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quoi ne pas faire en fin de semaine? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je me sens mieux quand je donne _ à un squigee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aujourd'hui à Ricardo : _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bébé, viens t'en chez nous, j'vais te montrer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dans la charte des valeurs _ est un signe ostentatoire.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui a gâché mon enfance? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je, je, je, je, je préfère le goût de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "À mon initiation, j'ai dû _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Au Banquier, _ tient une valise.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : qui s'y frotte s'y pique.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "C'est plaisant de jouir dans la bouche de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Travailler c'est trop dûr, mais _ c'est pas beau.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Normand l'Amour a composé une nouvelle chanson qui s'intitule: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qu'on peut acheter pour deux piasses sur Kijiji? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Être féministe, c'est _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , ça change pas le monde, sauf que.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La seule chose que Grégory Charles ne sait pas faire c'est _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ton chien, ta mère et _ dans un bain.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce qui a déclanché une manif à Montréal? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Qu'est-ce que je rapporte de Cuba?  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Epic fail.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ est fine fine fine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Kécé ça?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Je rêve de me mettre _ dans face.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le prochain film de Denis Arcand s'appelera : _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Le Stade Olympique.",
+    "Gambader tel un chevreuil sur l'Île d'Anticosti.",
+    "Mon âme.",
+    "10 grosses torches acadiennes.",
+    "Ma voisine d'enfance.",
+    "Une truite.",
+    "Se péter la yeule en go-kart.",
+    "RBO.",
+    "Un AK-47.",
+    "Un Post-It.",
+    "Voir son patron au 281.",
+    "Fumer de la canelle en bâton.",
+    "Ta mère.",
+    "Vomir dans une poubelle à la Saint-Jean.",
+    "Un beau grand verre d'eau évaporée.",
+    "Une envolée d'outardes attardées.",
+    "Les Conservateurs.",
+    "Un dildo en forme de frite.",
+    "Des prépuces de bambins.",
+    "Une 50 tablette.",
+    "Un toucan entk.",
+    "La loi 101.",
+    "Un roteux all-dress.",
+    "Des Ewoks.",
+    "Karla Homolka.",
+    "Les vedettes d'Allo Police.",
+    "Les Nordiques de Québec.",
+    "Les comédiens de Watatatow.",
+    "Des bouttes ben durs.",
+    "Une danse à 10.",
+    "Two Five Four Six O One One.",
+    "Violer des cadavres.",
+    "Avoir les couilles bénites.",
+    "Josélito Michaud.",
+    "Du jus de nez.",
+    "Jacques Cartier.",
+    "Un croque-mort mort.",
+    "La bitt à Tibi.",
+    "Une trail de Ski-Doo.",
+    "Un k-way.",
+    "Une patente à gosse.",
+    "Des meurtres d'enfants bruyants.",
+    "Le Noël des campeurs.",
+    "Mal chié.",
+    "Foncer dans l'tas.",
+    "Les chutes du Niagara.",
+    "Monsieur Net.",
+    "Une opération réussis à 38%.",
+    "Des p'tits vieux qui se promènent les fesses à l'air.",
+    "Une ruelle idéale pour un viol.",
+    "Kuujjuuaq.",
+    "Déménager à Montréal-Nord.",
+    "Tombouctou.",
+    "Se pogner le cul solide.",
+    "Une mine anti-personnelle.",
+    "Faire un jambette à Barette.",
+    "Du vieux fromage en crotte qui fait pu squick squick.",
+    "Boire des shakes.",
+    "La Cabane à sucre Au Pied de Cochon.",
+    "Une grosse quille de Wildcat.",
+    "Un pap test.",
+    "Les tours jumelles du World Trade Center.",
+    "Un onguent chinois 100% naturel.",
+    "Le paradis.",
+    "Gargamel en jartelles.",
+    "Le corps du Christ. Amen.",
+    "Une pieuvre.",
+    "Jean Charest.",
+    "La Baie-des-Chaleurs.",
+    "Faire un blowjob à un cheval.",
+    "Bob Gratton.",
+    "Se faire chier su'a tête.",
+    "Une débarbouillette de matante.",
+    "Boire ma coupe menstruelle.",
+    "Une pitoune qui flotte.",
+    "Chez Schwartz's.",
+    "La bataille des plaines d'Abraham.",
+    "Des licheux de cul.",
+    "Toute.",
+    "Aller au Guzzo.",
+    "Les Classels.",
+    "Un semi-croquant.",
+    "Bibi et Geneviève.",
+    "Grosse corvette, p'tite quéquette.",
+    "Just-to-Buy-my-love.",
+    "Être enceinte d'un million d'araignées.",
+    "Des mononcles cochons dans un concours de wet t-shirts.",
+    "Faire un p'tit pipi.",
+    "Se rouler dans des seringues usagées.",
+    "Radio X.",
+    "Le Red Bull Crashed Ice.",
+    "Du sexe sirupeux avec un érable.",
+    "Des Jos Louis.",
+    "Annie Brocoli.",
+    "Une danseuse pas de dents de Coaticook.",
+    "Les tweets de Richard Martineau.",
+    "Des tortues ninja qui se battent pour une pizza.",
+    "Une scène de cul dans Lance et compte.",
+    "Vivre son homosexualité.",
+    "Jamais trop jeune, juste trop étroite.",
+    "Gino Chouinard.",
+    "Rémi Girard.",
+    "Attoucher sa cousine.",
+    "Une pile de bébés morts.",
+    "Les vidanges de Pôpa.",
+    "Un hymen encore intact.",
+    "Le dernier match des Expos.",
+    "Manger un bébé phoque.",
+    "Adibou.",
+    "Une bitch.",
+    "Une couronne d'épines empoisonnées.",
+    "Jean Leloup Leclair The Wolf.",
+    "Un ver solitaire.",
+    "Le quartier chinois.",
+    "Pikachu qui pète une coche.",
+    "Lancer comme une fille.",
+    "Un sac magique.",
+    "Une plotte juteuse.",
+    "Un gars qui s'essaie.",
+    "Le pont Champlain en mille miettes dans l'fleuve.",
+    "La danse des canards.",
+    "Un botch.",
+    "Fuck all.",
+    "Des Crocs.",
+    "Un gun à eau rempli de bile.",
+    "Gangnam style.",
+    "Un Weed Eater.",
+    "Jacques Parizeau.",
+    "Un fou d'une poche.",
+    "Des beaux pétards.",
+    "Une valise pleine de cocaïne.",
+    "Un écureuil vraiment gossant.",
+    "Couché crossé.",
+    "Faire des stepettes.",
+    "Les orphelins de Duplessis.",
+    "Fourre par en avant, t'auras de beaux enfants.",
+    "Assez d'héroïne pour tuer un éléphant.",
+    "Sniffer de l'essence tout seul dans l'bois.",
+    "Câller l'orignal.",
+    "Du pied d'athlète dans craque de fesse.",
+    "Se crosser devant la Petite Sirène.",
+    "Conduire un camion de pompier.",
+    "Un sexe de lépreux qui fond dans la bouche.",
+    "Boire comme un trou.",
+    "Chez Paré.",
+    "Parce que t'es conne.",
+    "Être dans marde jusqu'au cou.",
+    "Être fourré.",
+    "Bleu Nuit.",
+    "Fumer un gros bat.",
+    "Un rassemblement de zombies.",
+    "L'enfant de Youppi.",
+    "Le gars de l'Alcan.",
+    "Péter ses boutons quand c'est pas le temps.",
+    "Môman.",
+    "Anne-Marie Losique.",
+    "Un achigan à p'tite bouche.",
+    "Un cercueil décomposé.",
+    "Naviguer jusqu'au bout du monde.",
+    "Le Père-Noël en bobette qui danse chez Mado.",
+    "Un bourgeois bohème.",
+    "Un homme tronc.",
+    "Voter NON au référendum de 1995.",
+    "Les VHS érotiques de mes parents.",
+    "L'accueil Bonneau.",
+    "L'hiver, tabarnak.",
+    "Un Calinours.",
+    "Na na na na na na na na Batman!.",
+    "Une relation sexuelle non protégée.",
+    "Mâcher de la laine minérale.",
+    "Se gargariser avec du Tabasco.",
+    "Pisser sur la statue de Duplessis.",
+    "Un clown pédophile.",
+    "S'embarquer dans d'quoi.",
+    "Des têtes carrées.",
+    "Le trou de la fée.",
+    "Les toilettes de mon école primaire.",
+    "Un enfant de chienne.",
+    "Y'a d'la place en masse dans mon jacuzzi.",
+    "Sortir sa graine avec enthousiasme.",
+    "Une diarrhée bien liquide.",
+    "Un lama qui rentre dans ton char au Parc Safari.",
+    "Dans la graisse de bine.",
+    "Une orgie de papes.",
+    "Des oireux.",
+    "Zoum-badouwow pif pif.",
+    "Se prendre un abonnement à Sentier Chasse et Pêche.",
+    "12000 touristes à Tramblant.",
+    "Un cimetière de chats noirs.",
+    "Des foufounes belles à croquer.",
+    "Des couches pleines de marde.",
+    "Se faufiler dans un duel de cowboy.",
+    "Doc Mailloux.",
+    "Une boutche de Thunder Bay.",
+    "Le clan Panneton.",
+    "La gibelotte de Sorel-Tracy.",
+    "Un américain obèse qui se masturbe en mangeant des crottes de fromage.",
+    "Posséder tous les trésors des 7 royaumes.",
+    "Éric Salvail.",
+    "Travailler chez Bombardier.",
+    "Glisser en crazycarpet.",
+    "Un caca qui brûle.",
+    "Une face à fesser d'dans.",
+    "Un jackstrap sale.",
+    "Un gars qui se lèche les lèvres en te regardant.",
+    "Un speculum rugueux.",
+    "Yes no toaster.",
+    "Patrick Roy.",
+    "Kicker un animal en voie de disparition.",
+    "Du coup, les français à Montréal.",
+    "Péter des yeules en sang.",
+    "Guy A . Lepage.",
+    "Un très gros titan.",
+    "Un masochiste fébrile.",
+    "Une enfant mouillée.",
+    "Un human centipede.",
+    "Marcher sur un Lego.",
+    "Rock \"Moïse\" Thériault.",
+    "Mes chnolles.",
+    "Du Nutella deux couleurs.",
+    "Rire en cochon.",
+    "Des moufettes radioactives.",
+    "Le gros tonka à Asbestos.",
+    "Matricule 728.",
+    "Séduire un docteur.",
+    "Guillaume Lemay-Thivierge.",
+    "Se frotter subtilement sur quelqu'un.",
+    "La poignée de porte.",
+    "Une course de morpions.",
+    "Le FLQ.",
+    "Se faire rétrécir le pénis.",
+    "Un cul-de-jatte qui fait une crise d'épilepsie.",
+    "Un aveugle qui braille.",
+    "Sale.",
+    "Un ring de boxe.",
+    "Les Résidences Soleil.",
+    "Passe-Carreau.",
+    "Le reste du Canada.",
+    "Une gang de tarlas.",
+    "De la mousse de nombril.",
+    "Stephen Harper.",
+    "Faire de l'équitation sur une autruche.",
+    "Cet endroit chaud et invitant entre l'anus et la poche.",
+    "Karine Vanasse.",
+    "Les Zigotos.",
+    "Le Dix30.",
+    "Une agace-pissette.",
+    "Jouer de la ruine-banine en fourrant une grosse truie dans la boîte d'un pickup.",
+    "Les Bleu Poudre.",
+    "Candiac.",
+    "Opérer un patient à froid.",
+    "Un V-neck.",
+    "Sol et gobelet.",
+    "Un set carré endiablé.",
+    "Des préliminaires botchés.",
+    "Sniffer d'la coke su'l'cul d'une pute.",
+    "Mon père yé riche en tabarnak!.",
+    "Claude Poirier.",
+    "Les mystérieuses cités d'or.",
+    "Un éjaculation précoce.",
+    "Une charrue.",
+    "Normand l'Amour.",
+    "Un Atari.",
+    "D'la sauce en criss.",
+    "Un p'tit canneton polisson.",
+    "Assasin's Creed.",
+    "Bêcher dans garnotte.",
+    "Mononc' Serge.",
+    "Un plotte d'aréna.",
+    "La pelote basque en Amérique.",
+    "Woodstock en Beauce.",
+    "Danser tout croche.",
+    "Xavier Dolan.",
+    "Lâcher un gros pet pis trouver ça drôle.",
+    "Des castors volants.",
+    "Le dépanneur du coin.",
+    "Être bandé dans un pyjama de Spiderman.",
+    "Un gros.",
+    "Une grenouille dans un micro-ondes.",
+    "Baby Spice.",
+    "Apprendre la chorégraphie de Las Ketchup.",
+    "Un viol de groupe.",
+    "Des p'tits chiens passés au blender.",
+    "Les chic-chocs.",
+    "Suivre la parade.",
+    "Le ciné-parc.",
+    "Une fille indienne qui pue.",
+    "Un glaçon à saveur d'hépatite C.",
+    "S'enlever l'appendice avec un tournevis étoile à gros boute.",
+    "Faire la baboune.",
+    "Le triangle des bermudes.",
+    "Un suppositoire saucé dans moutarde de Dijon.",
+    "L'UQUÀM.",
+    "Un 30 sous.",
+    "Une panthère, un tigre, un lion, un léopard, un puma pis un chacal.",
+    "Une jaquette pastel.",
+    "Battre un clown triste.",
+    "Jouer un solo de death metal au gazou.",
+    "Une coupe Longueuil.",
+    "Une belle grosse graine.",
+    "Une chaudière remplie de têtes de bébés chats.",
+    "Un sleeping bag humide.",
+    "Les petits chanteurs du Mont-Royal.",
+    "L'ancienne maison hantée de la Ronde.",
+    "Une bonne claque su'a yeule.",
+    "Avaler un litre de Winchire Wacheur.",
+    "Une fille à papa.",
+    "Une perruche fatiquante.",
+    "Du sable dans le vagin.",
+    "Le plan Nord.",
+    "Le Festival Western de St-Tite.",
+    "Une flotte de galions espagnols.",
+    "Une taloche.",
+    "Gagner un concours de roteux.",
+    "Rouler mes tampons avec de la bourrure à sofa.",
+    "Des fantasmes de bûcherons.",
+    "Vidanger sa roulotte.",
+    "Donner un ticket à un sans-abri.",
+    "Jojo Savard.",
+    "Du sirop de poteau.",
+    "Chier dans ses culottes.",
+    "La Compagnie Créole.",
+    "Flèche à gauche, flèche à droite, A, B, B, A.",
+    "Une moppe qui tempe depuis quelques semaines.",
+    "Nager din algues bleues.",
+    "J'en ai fourré des Gaspédiennes.",
+    "Un vieux bazou.",
+    "La tête dans l'cul.",
+    "Fourrer une chèvre.",
+    "De sable bitumineux.",
+    "Un pilote de chasse badlucké.",
+    "Manger des cannibales.",
+    "Buzz Lightyear.",
+    "Moncalm, mort au combat.",
+    "Un troupeau de moutons à vendre.",
+    "Un ShamWow.",
+    "Les ostis de carrée rouges.",
+    "Des douchebags de Laval.",
+    "Les candidats de Star Académie.",
+    "Une ablation du clitoris.",
+    "Se taper une p'tite vite dans les toilettes du zoo de Granby.",
+    "Nathalie Simard.",
+    "Aurore l'enfant martyre.",
+    "Caler du sperme sans retenue.",
+    "Des SPM.",
+    "Un hold-up dans une banque de sperme.",
+    "Maurice Mom Boucher.",
+    "Une Zamboni.",
+    "Ma croûte de MTS.",
+    "Slammer dans un show des Cowboys Fringuants.",
+    "Se ruiner din machines à sous.",
+    "Les boulettes de viande du Ikea.",
+    "Écoeurer des enfants du tiers monde.",
+    "Un silence inconfortable.",
+    "L'escalope du chef dans sa sauce.",
+    "Des cônes oranges.",
+    "Un rein qui traîne sul comptoir.",
+    "Le Madrid.",
+    "Manger ses crottes de nez.",
+    "Un party d'ovnis à St-Hilaire.",
+    "Un sauna gai.",
+    "Une pelletée de sloche.",
+    "La voix de Charles Tisseyre.",
+    "Maurice Richard.",
+    "Un pet de noune.",
+    "Mes cheveux.",
+    "Un prolapsus génital.",
+    "Nuclear launch detected.",
+    "Le Super MotoCross.",
+    "Des yogourts en tube.",
+    "Bob l'éponge.",
+    "Crémeuse ou traditionnelle?.",
+    "Une bibliothécaire crinquée.",
+    "Les FrancoFolies.",
+    "Simple Plan.",
+    "Un champ de mines.",
+    "Me marier à Vegas.",
+    "Écrire \"J'aime Nancy\" en dessous d'un viaduc en béton.",
+    "Du crastillon.",
+    "Basket-vomi.",
+    "Jean \"Là-Là\" Tremblay.",
+    "Un plan de neg.",
+    "Le Rigolfeur.",
+    "Une maudite tête de cochon.",
+    "Virginie.",
+    "Le tartare du chef dans sa mayonnaise.",
+    "Un cubain.",
+    "Une ostie d'grosse poutine.",
+    "Deux chums qui se crossent dans un bas."
+  ],
+  "pack": {
+    "id": "7F3R2",
+    "name": "[FR/QC] L'osti d'jeu (Jeu de Base)"
+  },
+  "quantity": {
+    "black": 78,
+    "white": 389,
+    "total": 467
+  },
+  "dateStoredMs": 1589332578713
+}

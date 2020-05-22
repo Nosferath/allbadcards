@@ -4,6 +4,7 @@ import {PackManager} from "./PackManager";
 import {FilterQuery} from "mongodb";
 import {ICustomCardPack} from "../Game/GameContract";
 import apicache from "apicache";
+import {CardCastConnector} from "./CardCastConnector";
 
 const cache = apicache.middleware;
 
@@ -51,6 +52,21 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 			const result = await PackManager.getMyFavoritePacks(req);
 			sendWithBuildVersion({
 				result
+			}, res);
+		}
+		catch (error)
+		{
+			onExpressError(res, error, req.url, req.query, req.body);
+		}
+	});
+
+	app.get("/api/cardcast-pack-export", cache("10 minutes"), async (req, res) =>
+	{
+		try
+		{
+			const pack = await CardCastConnector.getCachedDeck(req.query.input);
+			sendWithBuildVersion({
+				pack
 			}, res);
 		}
 		catch (error)

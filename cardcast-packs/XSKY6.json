@@ -1,0 +1,61 @@
+{
+  "black": [
+    {
+      "content": "I want to discover the lost planet of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imagine _, but in space!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The robots have become sentient and are demanding equal access to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science has discovered that beyond the edge of our universe there is infinite _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Digital drugs.",
+    "Cybernetically enhanced kittens designed to steal your secrets.",
+    "Mining cryptocurrency.",
+    "A planet made of meat.",
+    "A sweet spaceship.",
+    "Evolving technology.",
+    "Nuclear powered blenders.",
+    "Eugenics for fun and profit.",
+    "Traveling to the past to expressly punch yourself in the crotch.",
+    "Cryogenically  frozen testicles.",
+    "A spaceship fueled by the power of friendship.",
+    "Giant space whales.",
+    "Blasting off.",
+    "Self replicating nano-bots.",
+    "Genetically modified genitals.",
+    "Laser swords.",
+    "Science.",
+    "Counting down to blast off.",
+    "Getting abducted by horny aliens.",
+    "Fuckable aliens.",
+    "Robo-sexuals.",
+    "Being a slut for science.",
+    "Cloning yourself and then fucking the clone.",
+    "Telepathic sext messeges.",
+    "A slightly shittier parallel universe."
+  ],
+  "pack": {
+    "id": "XSKY6",
+    "name": "Generic Genre Deck: Science Fantasy Expansion"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 25,
+    "total": 29
+  },
+  "dateStoredMs": 1588955665287
+}

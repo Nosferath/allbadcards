@@ -1,0 +1,128 @@
+{
+  "black": [
+    {
+      "content": "_ causes me to intensely dab.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest meme is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new dog only eats _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cartoon Network is producing a new show about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kids these days only care about _. Back in my day we only had _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I get angry I punch my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My number one trigger is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Starbucks is selling a unique coffee that is _ flavored.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "War! What is it good for? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "School has made me hate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think I broke my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Somebody once called  me a _. I married that person.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The number one thing you never want to eat is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you here about the new religion called _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst part about Obama is his  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Pokemon games are called Pokemon _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's banned on my Minecraft server?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best thing about this state is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new minecraft update adds _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing I love more than Jesus is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My insurance wouldn't cover my _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Supporting our government.",
+    "The butt.",
+    "Praising Jesus.",
+    "H*ck.",
+    "Attempt to be politically correct.",
+    "A pile of memes you printed for a joke.",
+    "Watermelon."
+  ],
+  "pack": {
+    "id": "HGSW3",
+    "name": "Child Friendly"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 7,
+    "total": 28
+  },
+  "dateStoredMs": 1589491343148
+}

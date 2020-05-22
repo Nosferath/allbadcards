@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "This year, I'm going to cosplay as _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Yandere.",
+    "A Disney anime.",
+    "Yaoi.",
+    "Beautiful bishounen boys.",
+    "S-senpai."
+  ],
+  "pack": {
+    "id": "JWV2Y",
+    "name": "Anime Against Humanity"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588833913937
+}

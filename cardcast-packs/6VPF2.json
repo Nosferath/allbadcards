@@ -1,0 +1,2944 @@
+{
+  "black": [
+    {
+      "content": "Gaworzenie dziecka sprawia, że chcę mu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Naukowcy odkryli nową planetę! Nazwali ją _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciory są dla mnie _ przy okazji _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na festynach zawsze kupuje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kobietki są jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podczas rozbierania matki zobaczyłem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy widzę przeceny w biedronce biegnę po _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W szkole podstawowej dzieciaki w szatni marzą o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Małgorzata Kidawa Błońska może mi co najwyżej _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By zajrzeć w odbyt Fistusia trzeba _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli _ poprosi mnie o _ nie odmówię.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "By uszczęśliwić Filipa trzeba mu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego masz _ na biurku?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jemu nawet _ uchodzi na sucho. Nie zadzieraj z nim, to jest prawdziwy _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy tańczę na parkiecie _ mnie gniecie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moje hobby to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szanuje rywalizację, jestem najlepszy w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żałosne próby _ doprowadzenia do _ spełzły na niczym.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tede skończył się po _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dla Szymka liczy się tylko _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy policjant lubi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek i Filip są _  a Michał i Szymon to _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jak byłem mały to spadałem z rowerka na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy byłem mały tata czule mnie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Robiłem _ jak dorosły.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Maciek się uśmiecha czuje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Byłem _ i _ wolę być _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Wałek w dupie? Nieee, wolę pakować _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to fajna zabawa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smog składa się z _ , _ i _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Robert Lewandowski złapany na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za każda chwile z Tobą oddałbym _ maleńka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy tańczę, tak na prawdę chcę  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Powolna utrata funkcji życiowych jest jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabawmy się przy dźwiękach _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sukienki na mężczyźnie są jak _ dla kobiety.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Usuń wszystkie _ !!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzieci?? To dobre dla _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "U rodziny dostrzegam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Smak porannego obudzenia się w _  jest jak _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ powoduje trądzik. To pewne w 99%.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kobieta próbuje mnie pocałować, reaguje na to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W mojej zupie jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muzyka klasyczna powoduje że muszę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ewa Tylman obchodzi mnie tyle co _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ochroniarz nakrył mnie na kradzieży, wiec oferuje mu _ za wolność.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kuszące nogi są dla niczym _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy lubi lizać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy włożyłby _ między młotek a kowadło.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Amerykańscy naukowcy stworzyli _ w warunkach laboratoryjnych.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy odczuwam nadciągający orgazm zamykam oczy i pragnę zobaczyć _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał zrobi wszystko za _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kończąc obiad dodaje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Myśle, że wyglądam jak _ . Inni mówią ze jak _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jeśli mam być szczęśliwi, inni muszą zaakceptować, że _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy ma wiele wad, ale _ i jego _ to zbyt wiele!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Podwaliny prehistorycznego handlu uwarunkowane były _ aż do wynalezienia _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to smak raju.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Między Maćkiem a Michałem jest jedna zasadniczej różnica. Maciek to _  a Michał to _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W majtkach zawszę noszę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziewictwo straciłbym z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hej mała, chcesz ze mną pójść na _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy widzę dziurkę chce _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dostałem awans i podwyżkę! Teraz w końcu będzie mnie stać na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziewczyny lubią _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kornel chce żebym go przeleciał, mówię mu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W łazience lubię _ z psem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czarujący chłopak może mi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Filip namiętnie traktuje wyłącznie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał odnalazłby się dobrze w roli _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopóki nie zobaczę wystarczających dowodów będę uważał, że _ powoduje _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nocne harce z _ w gatkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Książki działają na mnie jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kocham pieprzoty z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polska żyje dzięki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W _ zostawiam wydzielinę po masturbacji.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kochany Święty Mikołaju w tym roku proszę Cię tylko o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rap to nie muzyka, rap to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierdol się, jestem _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie otwieraj! Tam chowam _ na czarną godzinę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy kogoś wyprzedzam chcę powiedzieć _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może to jej urok, może to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W podstawówce pomagałem przy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dla Filipa _ nie jest najmniejszym problemem, lubi to.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy smaruje srake masłem chce by zlizał to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mała macanka w _ zawsze mnie rozluźnia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skolioza jest groźna, ale lepsza od _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Potęga telewizji polega na _ , pod warunkiem, że _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdyby _ przyszedł z propozycją seksu zgodziłbym się z rozkosznictwem.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po maturze chodziliśmy na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy debil dobrze wie ze mu _ zrobić chce.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podobno wyglądam jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy widzę polityków którzy _ chce im _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam pytanie do Boga brzmi ono _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By zdobyć Sławę zrobię _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wojna o _ miała miejsce zaraz po _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Myślałem, że bycie _ było najlepszą rzeczą, jaka mnie spotkała, dopóki nie zostałem _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy wrócę z  pracy najbardziej lubię _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to moja najskrytsza fantazja.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy siadam na kiblu czuje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Goebels powiedział _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każde dziecko wygląda jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przypominam moją matkę, ona zawsze _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niepełnosprawność utrudnia _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W Polsce szanuje się _ bardziej niż kobiety i dzieci.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czuję, że mogę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym zdradził żonę, zrobiłbym to tylko z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baw się dobrze, nie bądź _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Filip, Maciek i Michał to trójka _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ból lewego kciuka nogi jest gorszy, niż _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy płacze wyglądam jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W korku chcę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W pracy widuję się z sekretarką, która _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niepełnosprawni marzą o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kocham ludzi za _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma nic lepszego, niż _ na ryju.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nasi ludzie pięknie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bolesna śmierć karła jest jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Palenie powoduje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mieliśmy imprezę na temat _ , ale okazało się, że nie była zbyt zabawna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W szkole przyjaźniłem się z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podpita _ to łatwy cel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdemu raperowi bym _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To było jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy dzieciak chce _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy upiłem się, wytrzeźwieć pomógł mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miałem kiedyś przygodę z _  aż nakryła mnie _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kasztaniaki to _ nie chłopaki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By zdobyć drugą połówkę muszę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zajrzałem do łazienki babci zobaczyłem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wychodzi na to, że Bóg stworzył świat używając tylko _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hokus pokus czary mary twoja _ to Twój _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przeprasza, ale Pana syn jest chory na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał może jest _ , ale zawsze _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie obchodzi mnie _ po prostu lubię _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Podczas porodu będę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie jestem _ ale czuje ze w pewnym momencie zrobię _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Poranne śniadanie jest dla mnie niczym _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Filip lubi dużo _ , ale mimo to lubi też _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy łowiliśmy ryby piliśmy _ i jedliśmy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ponętne _ działa na mnie jak płachta na byka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Policjant zatrzymuje mnie do kontroli mówi poproszę dokumenty. Bez zastanowienia odpowiadam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do najważniejszych odkryć cywilizacji egipskiej zalicza się nawadnianie pól, _ i _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zamiast do nieba chciałbym trafić do _ chyba że _ tam będzie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ tyle jestem wart!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego masz _ na biurku?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najchętniej rozmawiam przez Skype'a z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Weź _ to będzie trwało dłużej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taniec miałby sens gdyby oznaczał _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do maszki mannej lubię dodać _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sprawia, że czuję się niekomfortowo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie bądź pizdą, bądź jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam marzyć o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zarost Szymcia wyglada jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy spotykamy się ze znajomymi najbardziej lubimy oglądać film pt. \"_\" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W klubie widzę _ podchodzę i mówię _ bo chce _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Do kaszki mannej lubię dodać _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Szymek za kilka monet otwiera _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jebać _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po alkoholu Ciągnie mnie do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzięki z góry. Za pomoc w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzięki _ zdałem do następnego.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy się rucham zawsze krzyczę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pedał czy gej, chłopak czy cwel oni wszyscy robią _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym miał określić swoją płeć wybrałbym _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby zmieszać twarz Filipa, Maćka i Michała powstałaby _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W walce wieczoru Fame MMA 7 zobaczymy walkę _ vs _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy widzę ładną dziewczynę to myślę o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bliskość innego człowieka oznacza dla mnie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po tym jak ujrzałem _ potrzebowałem _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przed pracą zawsze _ , jeśli _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Staruszki mają ochotę na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leonardo DiCaprio wkłada mi rękę w gacie i czuje się jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Włosy na klacie smakują jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nikt nie zrozumie kim jest Maciek jeśli nie dowie się, że on przeszedł przez _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W pępku trzymam _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na insta wrzucam fotki _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedyś nazwano mnie _ ! To było _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Każde zwierzę lubi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy moja siostra jest _ myśle o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Każdy dziad chce _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy policjant lubi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Widmo klaudii krąży po _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zaraz wracam mama woła mnie na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sytuacja _ to taka kiedy _ musi zrobić _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Każdy kibic lubi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wakacyjne pierdolenie _ na basenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boje się _ ,oby _ mnie obronił.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Potężne dziewice poznasz po _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przydałoby się trochę kasy. W maju pojadę do Holandii na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bezdomna kobieta szuka pomocy przy dziecku oferuje jej _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na mojej tapecie mam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy chodzę do klubu słyszę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli miałbym _ zrobiłbym _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ten _ odwalił _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przypadkowe numerki mnie nie interesują bo kocham tylko _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Problemy Maćka znaczą dla mnie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzikusy lubią _ a ludziska _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Chciałbym pracować w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komputer służy mi do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dziadek zabierał mnie na wyjazd każdego lata, tam bawiliśmy się w _ ,ale babcia nic nie wiedziała.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy dzień zaczynam od _ , by wreszcie spokojnie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przespać się z _ , to moje marzenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym miał uratować _ lub _ . To wybrałbym _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Żydzi uratowali wielu Polaków, w zamian dali im _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam być _ o poranku.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ na prezydenta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby _ nie skakała to by _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdy mój tata wali konia chcę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ojcowie nadają się do _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię mówić _ , a robić _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Samochód służy mi do _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to zawód stworzony dla mnie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Łzy Żydów smakują jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pocałowałem się w _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiedziałeś, że styczeń to miesiąc _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to mój najgorszy zwyczaj.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michal to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jęki z sypialni rodziców oznaczają _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niech żyje _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie rozumiem. Co jest złego w _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przecież to debil, on myśli, że _ to to samo, co _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dom Studenta UW: Miejsce w którym dzieje się _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zanim zrobiłem prawo jazdy jeździłem z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek lubieżnie patrzy na _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Każdy polski prezydent wyróżniał się _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z mojej rodziny kilka kuzynek mi się podoba, zrobię im _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja mama lubi _ , ale robi mi _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jestem jak _ tylko mniej znany.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pomarańczowe drzewa mogą _ , ale tylko kiedy _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Najśmiejszniejsze w staruszkach jest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W zoo najchętniej patrzę na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W łóżku lubię _ , ale nigdy z _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Maciek, Michał, Szymon i Filip to czwórka _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma nic gorszego, niż _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podstawowa _ polega na _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ludzie są pojebani dlaczego mój sąsiad zrobił _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W pokoiczku na stoliczku stało _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest beznadziejnym tematem na randce.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Monika Szydlak lubi lizać _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na wsi każdy _ , jeśli zrobi _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ostatnio kiedy byłem na meczu chłopaki zrobili mi _ , _ i _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Swięta na śląsku wyglądają inaczej. Tutaj _ zastępuje dawanie prezentów.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Duży przyrząd między nogami mojego taty nazywa się _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muszę wezwać fachowca. W moim mieszkaniu jest pełno _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najbardziej chciałbym wydupczyć _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Życie mnie nie oszczędziło, najgorsze było _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koronawirus zabija _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jaro bardzo lubił jeść _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najlepsza atrakcja Polski to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli ssać to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy jeździmy razem samochodem to słuchamy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja _ rozgrzewa mnie do czerwoności.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W środy zajadam się _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zamiast pensji mógłbym dostawać _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sieroty najbardziej potrzebują _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Byłem _ i _ , ale wybieram bycie _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Teść jest dla mnie jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mówię czule do mojej dziewczyny \"_\" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Po całym dniu w _ uwielbiam _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szczęśliwe pary codziennie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój dziadek zasłynął ze podczas _ dokonał _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Spuszczam się zawsze, gdy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ znalazł duży kamień, który okazał się _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kiedy Michał był w _ zawsze lubił _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "W 2025 będzie więcej _ niż _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pośladki grubaski smakują jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przyjąłbym _ na _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hot dogi na stacji przypominają _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja matka to po prostu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By dostać erekcji muszę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Śpiąc obok mamy myślę o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy szef każde mi zostać w pracy chcę tylko _ i _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jestem pewnien, że nie wyślesz _ pocztą.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W samochodzie najczęściej robię _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam podglądać tatę przy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym miał/a wskazać najlepszą cechę partnerki wybrałbym _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To zabawne zamienić w myślach słowo _ na _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Piję bo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W kościele zachowuje się jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja nowa ulubiona gra to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SENSACJA!!! Robert Lewandowski złapany na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Życie jest bardzo trudne, zamiast ciężko pracować wolałbym _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nakryłem ojca z drugim ojcem na _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ból moszny jest lepszy niż _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komentarz z allegro: zamiast _ paczka zawierała _. Nie polecam użytkownika!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "By się rozwinąć trzeba _ niestety wiąże się to z _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ powoduje koronawirusa. To w 99% pewne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pocałunek z menelem prowadzi do _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rodzice kochają dzieci za _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ile Ci wchodzi? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zamiast dżemem smaruje chleb _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Życie ma dla mnie smak _ tak je odczuwam.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jeśli czegoś nie mam to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy byłem mały zastanawiałem się nad _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sok z pizdy smakuje jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zakwasik popijam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na pogrzebach szukam _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wymówka nr 1 leniwych ekip remontowych to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zagaduje do dziewczyny chcę od niej _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W nocy mógłbym pomylić Monike Szydlak z _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ a więc jednak do tego doszło.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze będziemy mieć _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jestem ekspertem od _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wczoraj za domem widziałem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze walę konia, gdy mogę ujrzeć _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żeby życie miało smaczek raz _ raz _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moje ulubione danie to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Najmilsze, co usłyszałem od rodziców to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przy konfesjonale zawsze robię _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak tam studia? Egzamin z _ zaliczony ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to dla mnie śmiecie i pedały.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy jadę nocą i myślę o _ najbardziej żałuję _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ jest stosowany tylko do _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Moja matka to po prostu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak byłem mały ojciec wkładał mi w dupę _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to jedyna rzecz, która ma znaczenie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tiktok to zabawa dla _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przyjemność mojego życia to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Każdy mężczyzna lubi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zabawiałem się z _ w _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "FC _ byłoby dobrą nazwą dla drużyny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By zyskać szacunek wśród czarnych musiałem dla nich _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? Nie takie rzeczy żeśmy z chłopakami robili.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zdradziłbym żonę, jeśli _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wziąłem pieska ze schroniska, bo zamierzam z nim _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maciek byłby fajnym _ , gdyby nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie otwieraj! Tam chowam _ na czarną godzinę.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał ma ryj pełen _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michał chodził z Filipem na mecze bo liczył na _ ,bo jest jebanym _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ - to byłaby dobra nazwa dla zespołu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój sąsiad podgląda _ , więc ja wtedy _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Żadne z miejsc w których bywałem nie miało _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy kogoś poznaję chce widzieć czy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ksiądz to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na pierwszej randce zawsze mówię o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma równości płci ponieważ mezczyna nigdy nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By awansować gotów jestem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mogę usunąć _ , ale nie mogę tego zapomnieć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tam było dużo _ robiących _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na górze róże na dole fiołki Filip i Michał to dwa _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak jem _ to lubię udawać, że jestem _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mój syn leżał w pokoju pod kołdrą i robił _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie interesują mnie kobiety które _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ uwielbia lodziki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pensje nauczycieli są _ , a pensje prostytutek są _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy lubię w dupę? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest prawdziwy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tam było dużo _ robiących _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Życie ma smak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto potrzebuje bidetu, jak ma _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdybym miał uratować _ oczekiwałbym _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mleczarze mieli ciężki rok, by odrobić stratę muszą _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Martwi mnie _ należy się tym zająć.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja mama ma więcej _ niż mój tata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Musimy porozmawiać o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trener Jarosław, jako główny powód porażki UKS Ołtarzew podał _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W internecie bawi mnie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazwę swoje dziecko _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak jestem _ i się tego nie wstydzę!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Porządny sprzęt w gaciach cechuje _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To zabawne zamienić w myślach słowo _ na _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Szympansica w tyłku Szymka krzyczy _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w moich majtkach.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy podrywa mnie chłopak mówię \" _ \" .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój _ jest za duży!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy życie daje Ci popalić, zrób _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Żaden szanujący się pedał nie wie, co to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja dusza przypomina _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie zrobię kariery w branży porno bo jestem zbyt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sperma smakuje jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie Wyobrażam sobie życia z _ to zbyt _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zanim odkryłem masturbację radziłem sobie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to moja pasja! Nie wyobrażam sobie życia bez tego.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Duży penis świadczy o _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Za każdym razem gdy spotykam tę osobę marzę by mi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moją ulubioną kategorią porno jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chciałbym żeby penis miał kształt _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma nic lepszego niż piwko, telewizor i _ w sobotnie popołudnie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adolf Hitler zwykł mawiać do Ewy Braun _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": " _ to lepsze niż seks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seks z zabezpieczeniem jest jak _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komunizm ma w sobie coś _ dlatego jestem za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hitlera rozbawiło _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lubię robić sobie filmiki z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Małe oczy jeża mają w sobie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tyłek lubię wsadzać sobie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w żeliwnych piecach Auschwitz.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W Auschwitz kwitł _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chciałbym poczuć w sobie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazistowksie dziecko charakteryzują się _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Piece auschwitz pachną _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jajko bez żółtka.",
+    "Lesbijka.",
+    "Srająca dupa.",
+    "Knykieć.",
+    "Grzywa konia.",
+    "Spierdolona pedalska świnia.",
+    "Nicoretta.",
+    "Nieszczęsny wypadek z udziałem mięsa.",
+    "Zabicie niepełnosprawnego skarpetą.",
+    "Sok z pieroga.",
+    "Stary chuj na basenie.",
+    "Kupa.",
+    "Żydzi.",
+    "Niewyparzona gęba.",
+    "Strój na wuef.",
+    "Luksusowe życie kreta.",
+    "Gówniany obiad.",
+    "Filip.",
+    "Masturbacja na czas.",
+    " Prefekt.",
+    "Wartek.",
+    "Wyjebany przez psy.",
+    "Skurwysyn marcinek.",
+    "Bunga bunga.",
+    "Poronienie.",
+    "Prawdziwi Polacy.",
+    "Zespół touretta.",
+    "Jajony Hołowni.",
+    " Mistrz jest tylko jeden.",
+    "Wierny niczym żydowski niewolnik.",
+    "Machanie gołym drągiem.",
+    "Ojciec mnie gwałcił.",
+    "Turlać dropsa.",
+    "Zimna brudna nic nieznacząca suka.",
+    "Życie jest czadowe.",
+    "Ukrainka z brudną piętą.",
+    "Delikatne uszy.",
+    "Szczęśliwa rodzinka.",
+    "Dundający falus.",
+    "Czy Twoja stara to Twój stary?.",
+    "Znałem ją, była dziwką.",
+    "Miliony.",
+    "Czy lubisz w dupę?.",
+    "Ser.",
+    "Kurwa.",
+    "Niepełnosprawni.",
+    "Śpiew Kacpra Urbaniaka.",
+    "Iras miras.",
+    "Natalia miaskiewicz na pogrzebie daniela.",
+    "Moje genitalia.",
+    "Tańczące trupy dziadków.",
+    "Kompromitujące zdjęcia.",
+    "Żultus.",
+    "Aspiracje sięgające wyżej.",
+    "Gejoza.",
+    "Smutna robótka ręczna.",
+    "Nadzieja.",
+    "Zamrożenie.",
+    "Jebany w mordę Królikowski.",
+    "Wojtek który został pedałem.",
+    "Pierdoli ją do woli.",
+    "Piękne krosty w odbycie.",
+    " Fartuszek z dziurką na pałe.",
+    "Wirusolog.",
+    "Kamil Kornacki.",
+    "Ucięty chuj babci.",
+    "Sztuczne piersi.",
+    " Jebnięta sekretarka.",
+    "Lebiega.",
+    "Musztarda w butach.",
+    "Macanie.",
+    "Zabłąkany włos łonowy.",
+    "Kał opuszczający kanaliki łzowe.",
+    "Bukaka rodziców.",
+    "Krzyki umierającego syna.",
+    "Wykidajło.",
+    "Myślenie o potędze trzeciej rzeszy.",
+    "Ręka Kubicy.",
+    "Dupa.",
+    "Prostytucja.",
+    "Wadliwa kurwa.",
+    "Ból.",
+    "Kał.",
+    "Makarony burgery.",
+    "Liczę na spermę w dupie.",
+    "Igraszki.",
+    "Zoofilia.",
+    "Ostatnie podrygi.",
+    "Pęknięte serduszko pieska.",
+    "Miłe obuwie.",
+    "Podrapać się po dupie.",
+    "Łzy małych bezbronnych dzieci.",
+    "Półmartwy cwel.",
+    " Chada.",
+    "Rozczulony pedał.",
+    "Krasnoludki.",
+    "Matka brzydka w chuj mordo.",
+    "Nigdy nie ma pewności.",
+    "Dusigrosz jebany.",
+    "Kornelove.",
+    "Wzdęcia i rozcięcia.",
+    "Ręczny w kształcie prącia.",
+    "Trema przed randką.",
+    "E-wędlina.",
+    "Ser spod napletka.",
+    "Małostkowy ryk pieczarki.",
+    "Lepiąca się od ciepła cipka.",
+    "Księzyc jak dupa, tylko Cię wyrucha.",
+    " Palce pasierbicy.",
+    "Filip w zakrystii.",
+    "Kasia Warnke.",
+    "Przeczytaj Kornelu.",
+    "Ogromne zwisy.",
+    "Dostał kociej mordy.",
+    "Damy wyze.",
+    "Zalecam użyć szproty.",
+    "Kornel mszczący się na katach.",
+    "Peja - 997.",
+    "Czysta wódka.",
+    "Stary pierdziel.",
+    "Jarosław Kaczyński.",
+    "Słomiany zapał.",
+    "Hetero.",
+    "Niewyobrażalne piękno.",
+    "Szklana dupka pęka szybko byku.",
+    "Tortury.",
+    "Spermiarz.",
+    "Bycie przeświadczonym o roli, której nie jestem godzien.",
+    "Obrzydliwie głupi glut.",
+    "Ryj agnieszki dygant.",
+    "Żałosna gra wstępna.",
+    "Mokasyny co mają cztery rogi.",
+    "Zajebiście ładny pedał.",
+    "Cwel.",
+    "Pierdolony batman.",
+    "Udo Maćka.",
+    "Dbanie o higiene.",
+    "Zboczony sąsiad Michała.",
+    "Wypięty Michał.",
+    "Pałka w dupie.",
+    "Gadanie głupot.",
+    "Darmowe próbki.",
+    "Pozytywne jebnięcie.",
+    " Krowi język dryblujący dupe mą.",
+    "Mistrzowskie picie spermy.",
+    "Moje wewnętrzne demony.",
+    "Gromadka cweli.",
+    "Drożdżaki.",
+    "Miłosne wyznanie księdza.",
+    "Mielonka popita Grolschem.",
+    "Genialny odbyt.",
+    "Pizda jak marzenie.",
+    "Zakłady bukmacherskie.",
+    "Ewa Farna.",
+    "Żałosny płacz racicy.",
+    "Ser z piczki Magdy Gessler.",
+    "Ogromna duma.",
+    "Ogólne spierdolenie.",
+    "Kontenerowe cipeczki.",
+    "Ulga.",
+    "Dinozaurze ruchy Filipa.",
+    "Ostra spalenizna.",
+    " Podroby z Jarosza.",
+    "Ładujące się w odbyt geje.",
+    "Cycata barbie.",
+    "Nedzniutki pisk dojrzałego pedałka.",
+    " Deweloperzy frajerzy.",
+    "Zbiorny stosunek seksualny pod pałacem kultury.",
+    "Jeżu kotlat.",
+    "Zamrażarka pełna genitaliów.",
+    "Gej.",
+    "Kość udowa rozcinająca policzek.",
+    "Nerka.",
+    "Tak oczywiście.",
+    "Policja.",
+    "Komora gazowa.",
+    "Burdel.",
+    "Przymilna kurwa.",
+    "Kanapeczki babci Maćka.",
+    "Nieprzenikniona brzydota.",
+    "Jakbym był na siema z prezydentem.",
+    "Matka burka.",
+    "W dupe jebany brat.",
+    "Skurwione opuszczone ryło.",
+    "Szkarłacica.",
+    "Malowanie palcami.",
+    " Zakąsić ogórkiem.",
+    "Robienie loda bezdomnym.",
+    "Kutas na wierzchu.",
+    "Bycie chujem w stosunku do dzieci.",
+    "Dyrektor zwyrol.",
+    "Kutasowe przyjęcie.",
+    "Nastoletnie ciąże.",
+    "Opryszczka.",
+    "Szydli w słoiku.",
+    "Ojciec rydzyk.",
+    "Zdjęcia na komendzie.",
+    "Połykanie spermy.",
+    "Chuj Szymiego.",
+    "Złe decyzje życiowe.",
+    "Ordynator.",
+    "Zjazd na A2.",
+    "Topinambur.",
+    "Piercing genitaliów.",
+    "Wilczy kieł Eryka.",
+    "Gnijące zwłoki.",
+    "Czystki etniczne.",
+    " Wyluzuj suko.",
+    "Pękaty bębenek.",
+    "Państwo teoretyczne.",
+    "Maczo.",
+    "Mała śmierdząca piczka.",
+    "Wyjmowanie baterii.",
+    " Skok na główkę pod pociąg.",
+    "Bycie snobem.",
+    "Proktolog.",
+    "Choroba dzikich krów.",
+    "Ręka konkubenta w odbycie.",
+    "Bezpruderyjny Maciek.",
+    "Podduszanie babci na patelni.",
+    "Trepanacja czaszki.",
+    "Dziecięcy wzwód.",
+    "Gej party.",
+    "Kloaczny pies.",
+    "Serce dziecka.",
+    "Kurwysyn.",
+    "Pacyno na fiucie.",
+    "Podwodne igraszki z rybą.",
+    "Zezowaty brzuch.",
+    "Biedronka.",
+    "Wypnij dupsko.",
+    "Cierpliwa mina Szymiego.",
+    "Poronienie matki.",
+    "Kotlecik.",
+    "Ścierwo bociana.",
+    "Zabicie Ukrainki za Krzywe spojrzenie.",
+    "Ciperki.",
+    "Problemy z erekcją.",
+    "Odpowiadam, że nie wiem.",
+    "Aspiryna.",
+    "Strzelanie do swoich.",
+    "Pedał w furce.",
+    "Gwałtowna powódź.",
+    "Usiąść na karnym jeżyku.",
+    "Filip Chajzer.",
+    "Maryla Rodowicz kręcąca loda dupą.",
+    "Lewy kciuk kamienia.",
+    "Chichot losu.",
+    "Cipka znana na mieście.",
+    "Palenie.",
+    "Cycuchy Zosi Zwierzchowskiej.",
+    "Syfon.",
+    "Zagadkowe miny ochroniarza.",
+    "Nagły zwrot akcji.",
+    "Jebanie w alpen golda.",
+    "Pojebanie małe.",
+    "Ciasne zawory.",
+    "Wilgotne i soczyste.",
+    "Niesforne myśłi.",
+    "Srom dziewicy.",
+    "Okrutny los połkniętej spermy.",
+    "Zabawna sraka.",
+    "Lambadziara.",
+    "Ogromy stary drąg.",
+    "Wara obciągara.",
+    "Zębatek.",
+    "Słodycz całego świata.",
+    "Jajecznica.",
+    "Nocny złodziej dźwięczy.",
+    "Walka o drób.",
+    "Jeży Kotlet.",
+    "Podejrzenie.",
+    "Grzybica Hubcia Urbańskiego.",
+    "Chowanie Ani w szafie.",
+    "Mini Majk.",
+    "Suche wymioty.",
+    "Dwa lub dziewięć.",
+    "Czy warto było szaleć tak?.",
+    "Fotografia pupci.",
+    "Japa słonia.",
+    "Brudne dzieci chore na koronawirus.",
+    "Suchoty.",
+    "Wydziw.",
+    "Sztuka współczesna.",
+    "Trącać drągiem.",
+    "Zespół downa.",
+    "Dopchnięty chujem bachor.",
+    "Zdjęcia cycków.",
+    "Heroina.",
+    "Piła spalinowa Stihl.",
+    " Przetrzep kapucyna.",
+    "Kult wodza.",
+    "Wyjebać mu w kły.",
+    " Miałem 10 lat gdy na chuja wziął mnie brat.",
+    "Skumulowane żądze.",
+    "Odpowiednia waga piersi.",
+    "Nekrofilia.",
+    "Wąskie mieszadło.",
+    "Menel gwałcący prezydenta.",
+    "Rachunek za gaz.",
+    "Sutki Maćka.",
+    "Lampasy.",
+    "Wibromax z Mango.",
+    "Dziewczyny lubią brąz.",
+    "Propaganda.",
+    "Wyjadanie grzybków z pępka Magdy Gessler.",
+    "Jaja na miękko.",
+    "Pierdzenie i uciekanie.",
+    "Smutna żaba.",
+    "Marianna skurwiała panna.",
+    "Ryj okraszony gównem psa.",
+    " Podżylak.",
+    "Kulturalny jesiotr.",
+    "Dwóch pedałow.",
+    "Męskie piersi.",
+    "Przedwczesny wytrysk.",
+    "Masturbacja mieczem.",
+    "Misie patysie.",
+    "Niesymetryczne piersi.",
+    "Falenica.",
+    "Orędzie głowy państwa.",
+    "W dupe jebani emeryci.",
+    "Zawodowy mastrubator.",
+    "Empiryczny świniak.",
+    "Przyczepa kardialika.",
+    "Impreza przed kamerami.",
+    " Żabson.",
+    "Masło.",
+    "Kartka nacierająca szybko.",
+    "Skisłe jądro.",
+    "Borowanie śrubokrętem.",
+    "Potężna inwazja Europy Zachodniej.",
+    "Wilgotne staruszki.",
+    "Podnieta.",
+    "Widok bogatej suki.",
+    "Grzybica pochwy.",
+    "Ogromna spuścizna Michała.",
+    "Ucieczka do świata dziwnej fantazji.",
+    "Kobieta brzydsza niż szydlak.",
+    "Szalone obciaganie.",
+    "Nic się nie stało panie profesorze.",
+    "Maciek robiący loda Kołtoniowi.",
+    " Bober mówiący „cześć kolezko”.",
+    "Emerycie zwłoki.",
+    "Stary dziad trącający młodą sucz.",
+    "Badanie odbytu palcem.",
+    "Ścierwo ryżego kundla.",
+    "Kwaśne wymiociny.",
+    "Terapia hormonalna.",
+    "Magdalena Gessler.",
+    " Borsuczy taniec szyją.",
+    "Łożysko.",
+    "Ssanie pały.",
+    "Ubrudzenie się.",
+    "To wina matki i ojca.",
+    "Viagra.",
+    "Kuba Lach.",
+    "Czeko czeko lada.",
+    "Małpa.",
+    "Lekko zgniły płód.",
+    "Seksualny niewolnik.",
+    "Rzygi pijanego ojca.",
+    "Małe słodkie kotki.",
+    "Ziemski ojciec Jezusa.",
+    "Karmienie uchem.",
+    "Zamaskowany przestępca seksualny.",
+    "Opierdalanie kolby.",
+    "Oczy downy.",
+    "Dzieci w beczce po kapuście.",
+    "Bawić do rana.",
+    " Sprzątnęli psa.",
+    "72 dziewice.",
+    "Mieć ojca.",
+    "Tiki.",
+    "Cezary Pazura.",
+    "Stwardnienie rozsiane.",
+    "Argument za wyższością rasy białej.",
+    "Nogi do nieba.",
+    " Podlizuje się szmata.",
+    "Ssij fiuta.",
+    "Masowanie słodziutkiego odbytu.",
+    "Wędkarze.",
+    "Mezo - Zemsta.",
+    "Głód.",
+    "Radosne podśmiechujki.",
+    "Piana tatusia.",
+    "Możliwie długie śniegi.",
+    "Masaż prostaty.",
+    "Romans ojca jebika.",
+    "Maturzyści.",
+    "Wybielony odbyt.",
+    "Dziwne wygibasy.",
+    "Roześmiana ławka.",
+    " Likoj.",
+    "Ssanie żołędzia w konfesjonale.",
+    "Pokręcone zęby sąsiada.",
+    "Spódnica Michała.",
+    "Licznik w dupie bije szybko.",
+    "Kolano Jana Pawła II.",
+    "Boguś Linda.",
+    "Dupeczki Szymiego.",
+    "Wybory korespondencyjne.",
+    "Wyjebałbym go.",
+    "Magnat spermiczny.",
+    "Wyżej dupy nie podskoczysz.",
+    "Nos piasku.",
+    "Robaczek maćka.",
+    "Nie ocenia i nie chce być oceniany/a.",
+    "Co dwa pedały to nie jeden.",
+    "Bogate popierdole.",
+    "Covidoki.",
+    "Michał.",
+    "Obrzydliwy bratanek.",
+    "Olbrzymie lizaki.",
+    "Biczowanie tyłka.",
+    "Mały, ale wariat.",
+    "Przeraźliwie głodny żubr.",
+    "Walenie konia na placu zabaw.",
+    "Śmierdzący włóczęga.",
+    "Macki Maćki.",
+    "Kikucie nawyki.",
+    "Pokój na świecie.",
+    "Całun filipiński.",
+    "Bagnet na skroni.",
+    "Moja pochwa.",
+    "Aniołki.",
+    "Rafał Grzęda.",
+    "Flaki.",
+    "Spadek wartości pieniądza.",
+    "Wymiana uprzejmości.",
+    "Sranie na klatę.",
+    "Roman Polański.",
+    "Oral w gumie.",
+    "Wąsy stalina.",
+    "Pedalska fryzurka.",
+    "Żyrafa.",
+    "Wypełnił nim poduszki.",
+    "Ice fhrappe.",
+    "Ból istnienia.",
+    "Czyściutkie piętaszki.",
+    "Odbytnica.",
+    "Podszczypywanie pracownic.",
+    "Jadalna bielizna.",
+    "Martwi rodzice.",
+    "Pies na uszach.",
+    "Jeniffer Lopez.",
+    " Gaszony na dupie papieros.",
+    "Krajan.",
+    "Chlamydia.",
+    "Trędowaty.",
+    "Wytrysk olbrzyma.",
+    "Napalony dziadyga.",
+    "Rozjechane ciało matki.",
+    "Tłusty rower.",
+    "Filip pal gumę.",
+    "Patryk vega.",
+    "Deszcz na łbie.",
+    "Kakaowe oczko.",
+    "Agresywna rura.",
+    " Molarka.",
+    "Pies.",
+    "Kaszmir.",
+    "Zaskoczyła mnie jego miłość.",
+    "Niezasłonięta część cycka.",
+    "Robienie kupy w basenie.",
+    "Zjarany Szymek.",
+    "Nowotwór pięciolatka.",
+    "Domek w górach.",
+    "Rodzenie trumny.",
+    "Zarobek na biednych.",
+    "Wielki siurek trenera Jarosława.",
+    "Prześliczna marchew.",
+    "Potężne nadpiździe.",
+    "Soczysta minetka.",
+    " Podnieca mnie to.",
+    "Bycie chłopakiem lichnerowicz.",
+    "Peus.",
+    "Ambrozja.",
+    "Miłość w czasach pokoju.",
+    "Pospolity żbik.",
+    "Ananasik na kutasik.",
+    "Bycie bajecznie bogatym.",
+    "Brak gustu i smaku.",
+    "Sutek liliputa.",
+    "Tutti frutti.",
+    "Spuścizna.",
+    "Sucha staruszka.",
+    " Słodki smak zwycięstwa.",
+    "Walka o żywność.",
+    "Żyd to żyd.",
+    "Bzykanie Kornela.",
+    "Lewy skręt odbytnicy.",
+    " Kaszlnij a gowno wyleci.",
+    "Nadjabłczan.",
+    "Krzysztof Koprzak.",
+    "Andrzej Duda.",
+    "Ciota.",
+    "Lody.",
+    "Enigmatyczny hultaj.",
+    "Skrócony wyrok za rozjebanie się na pałach.",
+    "Problemy alkoholika.",
+    "Maciej Jarosz.",
+    "Dziecko rozjebane o chodnik.",
+    "Pierdolenie o szopenie.",
+    "Nieprzenikniona głupota.",
+    "Ogromne zło i chamstwo.",
+    "Jaja na twardo.",
+    "Podliczyłem kurwę.",
+    "Musztardowe zębiska.",
+    "Młode studentki.",
+    "Mokry bąk.",
+    "Majtaski.",
+    "Wózek widłowy.",
+    "Rak prostaty.",
+    " Koperek z sosikiem.",
+    "Mały stolec Michała.",
+    "Feli cweli.",
+    "Wybuch tupoleva.",
+    "Brak szacunku dla rywala.",
+    "Afganistan.",
+    "Nauczycielka masturbująca podopiecznego.",
+    "Oko mopsa.",
+    "Pierogi z czarnuszką lub żółtkiem.",
+    "Podniecająca starcza obwiesina.",
+    "Smak soczystej cipki.",
+    "Szyman.",
+    "Pęknięta dupa.",
+    "Zapowietrzona ciupicha.",
+    "Kompleks Edypa.",
+    "Szczękościsk.",
+    "Mordowanie, palenie, gwałcenie.",
+    "Krystian Pasterz Sikorski.",
+    "Robert Biedroń.",
+    "Żyrafa w kształcie żyda.",
+    "Dupka o zapachu spiżu.",
+    "Ssanie wątroby.",
+    "Obalanie patriarchatu.",
+    "Bycie kryptogejem.",
+    "Parcie.",
+    "Zazdroszczenie kurwom luzu.",
+    "Wieczna zmarzlina.",
+    "Tęsknota za głęboką penetracją.",
+    "Pedały.",
+    "Śliski kocyk małej madzi.",
+    "Znieczulica dla ofiar wojny.",
+    "Czarna kurwa.",
+    "Obrzydliwa tłusta świnia.",
+    "Frytki i cola.",
+    "Zacietrzewiały.",
+    "Palcówka.",
+    "Lizanie szparki.",
+    "Rolnictwo.",
+    "Obsrane gacie.",
+    "Ada zajada.",
+    "Miłość.",
+    " Matka gorsza niż kurwa leśna.",
+    "Romskie zwyczaje.",
+    " Daniel miaskiewicz roztrzaskany pod kołami ciężarówki.",
+    "Maciek.",
+    "Podejrzane spermidło.",
+    "Samotne wyznanie kurwy.",
+    "Kurczak w sosie grzybowym.",
+    "Gwałt cypiska.",
+    "Morda kreta.",
+    "Nagość.",
+    "Sztuczna pochwa.",
+    "Ponętna sznurówka.",
+    "Bezdomni.",
+    "Jądro.",
+    "Wielki majątek Maćka.",
+    "Petryfikacja.",
+    "Pieczenie odbytu.",
+    "Tygrys.",
+    " Rarytasik.",
+    "Mateusz Białek.",
+    "Matematyka robienia loda.",
+    "Moskiewskie dziwki.",
+    "Agitator szmul.",
+    "Pośladek Andrzeja Grabowskiego.",
+    "Siadanie na twarzy.",
+    "Obślizgłe macki Kornela.",
+    "Niunia co się zowie drynal.",
+    "Szybkie sraki.",
+    "Nie bardziej, niż ja.",
+    "Uczucie spełnienia.",
+    "Orgazm Moniki Szydlak.",
+    "Ostra przygoda.",
+    "Marihuana.",
+    "Śliczny chłopiec.",
+    "Misie lubisie.",
+    "Maciek razem z karlicą.",
+    " Sto litych łuków.",
+    "Spocone gacie sumoki.",
+    "Małe żółwie oczka.",
+    "Zdradzająca szmata.",
+    "Zabawa otyłym chujem.",
+    "Sinopalczasty.",
+    "Jebickie uszy Michała.",
+    "Dobry węch.",
+    "Mały siurek Kaczyńskiego.",
+    "Rutynowa kontrola.",
+    "Wielki rozczarowanie.",
+    "Bolesne stawianie kloca.",
+    "Fotel bujany.",
+    " Łysa z Procederu.",
+    "Rozjebany chuj na tylnym siedzeniu.",
+    "Swobodne zęby.",
+    "Miłe zjadanie Ewy.",
+    "Fistuś.",
+    "Mały pies to piesek, duży to psisko.",
+    "Patologia.",
+    "Jasne.",
+    "Stosunek z piękną modelką.",
+    "Jądra Kornela.",
+    "Kredyty i zadłużenie.",
+    "Kamień nerkowy.",
+    "Farfocle z pępka.",
+    "Pochwa mojej głowy.",
+    "Dać żonie z liścia.",
+    "Fundacja TVN.",
+    "Chuj lewego.",
+    "Lokomotywa Tomek.",
+    "Syn starszy od ojca.",
+    "Mocarne pierdolnięcie matki.",
+    "Radrian.",
+    "Miastów.",
+    "Sonda doodbytnicza.",
+    "Oszustwo.",
+    "Kuleczki nesquick.",
+    "Potężny wąż Maćka.",
+    "W dupe jebani księża.",
+    "Radość i uwielbienie.",
+    "Tańczenie nago.",
+    "Kres możliwości.",
+    "Przykre wydarzenie na letnim obozie.",
+    "Fetor rozkładającego się synka.",
+    "Źrenica bez oka.",
+    "Bigos.",
+    "Zmazy nocne.",
+    "Dziurawa prezerwatywa.",
+    "Tranzystor.",
+    "Tocholski w mojej matce.",
+    "Śmierdzący gnój.",
+    "Srający Maciek.",
+    "Upadek na głupi ryj.",
+    "Sewastopol.",
+    "PiS.",
+    "Liczne rany kłóte.",
+    "Dąb Bartek.",
+    "Pigułka moczopędna.",
+    "Sandał ojca Gaudentego.",
+    "Poteżny odbyt Ewy Farny.",
+    "W dupe.",
+    "Szanuje, ale zwalczam.",
+    "Parszywa czwórka.",
+    "Sum wąsaty matematyk.",
+    "Monica Belucci.",
+    "Sami się kurwa prosili.",
+    "Ręka nauczyciela od wfu.",
+    "Jebać go potężnie.",
+    "Suszony wacek mojej prababci.",
+    "Pan Kleks.",
+    "Podjapie Michałka.",
+    "Kokoszka.",
+    "Pedalski śpiew michasia.",
+    "Memory, find.",
+    "Radykalna zmiana zdania.",
+    "Okrężnica Maćka po zjedzeniu kebaba.",
+    "Hamburgery.",
+    "Dupa suma.",
+    "Ogromny przemysłowy region Niemiec.",
+    "Biegunka i wymioty.",
+    "Śpioszki zerwane z dziecka by je dojechać.",
+    "Łykać i połykać.",
+    "Raczej więcej, niż mniej.",
+    "Lizanie okiem.",
+    "Głośne jęki.",
+    "Maciek król podwórka.",
+    "Nienawiść do biednych.",
+    "Bidon na gacie.",
+    "Przyłożenie chuja do skarpety.",
+    "Zajady od Ady.",
+    "Kałdun Filipa.",
+    "Jacek Sumka.",
+    "Umizgi do ściany.",
+    "Kokaina.",
+    "Huba drzewna.",
+    "Franciszek smuda jedzący dupą.",
+    "Wiertło.",
+    "Pokój na świecie.",
+    "Potężne dupsko Maćka.",
+    "Ewidentny gnój.",
+    "Odbyt klauna.",
+    "Wesołe haluksy.",
+    "Miś uszatek.",
+    "Podżydzie.",
+    "Na kolana i do lachy.",
+    "Kormorany.",
+    "Klaps w dupkę.",
+    "Koordynator.",
+    "Spocone jajca menela.",
+    "Sok z dupy spidermana.",
+    "Big mama.",
+    "Amatorskie aborcje.",
+    "Ryży kundel.",
+    "Uszat.",
+    "Utrata dziewictwa.",
+    "Roześmiany do nieprzytomności Szymi.",
+    "Zdecydowany oponent.",
+    "Klimatyzowany odbyt Maćka.",
+    "Murzyn jest silny.",
+    "Prąd w jajnikach.",
+    "Spalona ziema.",
+    "Trzeci brat kaczyńskiego.",
+    "Morze problemów.",
+    "Szymowar.",
+    "Codzienność samotnej matki.",
+    "Publiczne ośmieszenie.",
+    "Malutkie.",
+    "Zgon przed północą.",
+    "Pyzdra.",
+    "Taniec godowy.",
+    "Warzywo.",
+    "Polska polityka.",
+    "Najświętsza panienka z Guadalupe.",
+    "Śmierdząca ciotka ze wsi.",
+    "Czarna sprzątaczka z otworem na odbyt.",
+    "Ubity świniak.",
+    "Pisklak doodbytniczy.",
+    "Duduś pryncypał.",
+    "Wargi sromowe.",
+    "Zauroczony męską pała.",
+    "Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas.",
+    "Z psem nie pogadasz.",
+    "Wielki wybuch.",
+    "Cukierkowa szmaciura.",
+    "Nekrofilia.",
+    "Śmieszek.",
+    "Spermojad.",
+    "Picie w samotności.",
+    "Zawszały Żyd.",
+    "Grzęda chuj i menda.",
+    "Olbrzymi ból w cewce moczowej.",
+    "Jarosz.",
+    " Poncyliusz.",
+    "Ostry koniec kija.",
+    "Zabijanie paralizatorem.",
+    "Przepierdolił majątek ojca.",
+    "Dzikie palce Szymka.",
+    "Zwykłe dzieci.",
+    "Chujów sto.",
+    "Leżajsk.",
+    "Ekstrawagancki zjebek.",
+    "Podgryzanie precli ze szkła.",
+    "Delikatne pieszczoty wewnętrznej części uda.",
+    "Liliput.",
+    "Bajka.",
+    "Sanhedryn.",
+    "Umieranie.",
+    "Rozjebana dupka.",
+    "Masturbacja analna pilotem do telewizora.",
+    "Sranie na klate.",
+    " Żydowskie łajno.",
+    "Srogo pobita kobieta.",
+    "Włos kacpra urbaniaka.",
+    "Czy Maciek to gej?.",
+    "Zimorodek.",
+    "Ślizganie się po obsraniu.",
+    "Jak czegoś nie mam to zdobędę.",
+    "Surogaci.",
+    "Baraszkowanie.",
+    "Tomasz Karolak.",
+    "Artur Balik.",
+    "Klamka zapadła.",
+    "Słodziusia wydzielina odbytnicza.",
+    "Filip i jego życie.",
+    "Miazga, gdy pod chujem drzazga.",
+    "Zupa z kadłubka.",
+    "Ordynarny skurwysyn.",
+    "Kleks na dupie.",
+    "Globalne ocieplenie.",
+    "Sączące się białko.",
+    "Ślina zmieszana chujkiem.",
+    "Ksiądz jest zbok i chujec.",
+    "Obciągające lafiryndy.",
+    "Masturbacja.",
+    " Zszokowana.",
+    "Idealny wytrysk ścienny.",
+    "Delektowanie się własnym spierdoleniem.",
+    "Sprośne smsy.",
+    "Egzystencja.",
+    "Stringi szydli bydli.",
+    "Pierdzący ksiądz.",
+    "Rodzenie kamienia nerkowego.",
+    "Prezerwatywa Durex.",
+    "Dziura w główce niemowlaka.",
+    "Nie odmawiam.",
+    "Pierdolony czarodziej.",
+    "Bomba termobaryczna.",
+    "Laska w miejscu publicznym.",
+    "Masturbacja kolanem.",
+    "Ropiejący konar.",
+    "Włochate cielsko bydlaka.",
+    "Kasjer.",
+    "Sranie w banie.",
+    "Wątłe ręce kurwy.",
+    "Beznadziejnie skromne.",
+    "Maczuga wibracyjna.",
+    "Jaja ministra zdrowia.",
+    "Kazirodztwo.",
+    "Zgwałcona Kasia tusk.",
+    "To trzeba zakwasić.",
+    "Spierzchnięte wargi lodziary.",
+    "Potężna cygańska torba.",
+    "Wolnego smieciu.",
+    "Czas dla siebie.",
+    "Ryj jak bawół.",
+    "Czy Michał to gej?.",
+    "Hermafrodyta.",
+    "Mariusz Pudzianowski.",
+    "Lizodup.",
+    "Psia pięta.",
+    "Przytulić misia antystresowego.",
+    "Lizodup.",
+    "Viagra na starczą pałę.",
+    "Drapać się po dupie.",
+    "Selekcja naturalna.",
+    "Skręt jądra.",
+    "Masło w dupie.",
+    "Klaus Heberlain.",
+    "Udawane współczucie.",
+    "Michał podskakujący na wietrze.",
+    "Szymbark.",
+    "Zakusy.",
+    "Pewnie.",
+    "Drące japę przedszkolaki.",
+    "Potencjalne spierdolenie.",
+    "Paznokcie u stóp kornela.",
+    "Tłuste nadpiździe.",
+    " Gangsta.",
+    "Ciepłolubny.",
+    "Krecik puka w taborecik.",
+    "Cytrusy cycusy.",
+    "Parcele.",
+    "Karle zwyczaje.",
+    "Zapach spod pachy konia.",
+    "Ściąganie koszulki.",
+    " Pizdolet.",
+    "Ślizgam się całe życie, dzień po dniu.",
+    "Wszyscy pedryle ziemscy.",
+    " Dojrzewająca Szynka.",
+    "Amerykański sen.",
+    "Lewe kolano.",
+    "Owłosione kolana.",
+    "Rodzina mieszkająca w wiadrze.",
+    "Miałem kiedyś sens.",
+    "Potężny kolec.",
+    "Ciumkanie gówna.",
+    "Ojciec góra dostał w chuja.",
+    "Kompletny kretyn.",
+    "Opowiadanie sucharów.",
+    "Insurekcja kościuszkowska.",
+    "Przepiękny sprzęcik.",
+    "Moje życie seksualne.",
+    "Lizanie chuja brata.",
+    "Świstak.",
+    "Słodki odbyt Natalki.",
+    "Książkowa ciota.",
+    "Mysza.",
+    "Dziecko jedzące kał.",
+    "Nigdy więcej.",
+    "Santi mina.",
+    "Sine ślady po chuju.",
+    "Cios podbródkowy.",
+    "Dziewiąty bieg prądu.",
+    " Radrian.",
+    "Głosowanie na PO.",
+    " Pancerny debyl.",
+    "W cyrku się spiszesz brzydalu.",
+    "Półdupek Kasi Tusk.",
+    "Każdy kurewski dzień.",
+    "Pytka będąca prąciem.",
+    "Obżeranie się i wymiotowanie.",
+    "Molestowanie przez listonosza.",
+    "Doodbytniczy blietzkrieg.",
+    "Szczerek Żyd.",
+    "Jebany książę śmietnika.",
+    "Masakrowanie lewaków.",
+    "Brudna Darianna.",
+    "Tłuszczątko.",
+    "Zęby jako otwieracz do butelek.",
+    "Kopalnia tranzystorów.",
+    "Najebany zboczeniec.",
+    "Burdel.",
+    "Rozjebana morda Beaty Kozidrak.",
+    "Tabletki na potencje.",
+    "Tatuaż na dupie „Maciek tu był”.",
+    "Kręcicwel.",
+    " Warkot tłustej japy.",
+    "Petting.",
+    "Umizgi.",
+    "Sraka robaka.",
+    "Rolnictwo się nie opłaca.",
+    "Podkrążone oczy drzew.",
+    "Cygan z 1 maja.",
+    "Moje dziecko poczuje bolca.",
+    "Wielki mecz.",
+    "Xanax.",
+    " Żałowanie dni minionych.",
+    "Świat.",
+    "Nowosybirsk.",
+    "Przesyłanie dziwnych rzeczy pocztą.",
+    "Zdjęcie siurka.",
+    "Hektary Filipa.",
+    "Terrotyści.",
+    "Mierny pomysł.",
+    "Zatłoczone kino pornograficzne.",
+    "Dodajmy sobie sił.",
+    "Pozytywny wynik AIDS.",
+    "Taniec penisem Michaela Jacksona.",
+    "Homoseksualizm.",
+    "Penis w dupe.",
+    "Homoseksualna orgia.",
+    "Bycie neonazistą.",
+    "To co Pan Jezus powiedzał.",
+    "Wielki penis Kaczyńskiego.",
+    "Rekordowo długi seks.",
+    "Przepiękny penis.",
+    "HIV.",
+    "Seks z burdel mamą to Dirty dancing.",
+    "Tatuś przytulający mnie penisem.",
+    "Pulsujący penis.",
+    "Śmierdzący penis.",
+    "Fisting.",
+    "Dildo.",
+    "Sperma.",
+    "Pedofilskie zapędy.",
+    "Nigga.",
+    "Kot o imieniu Tomasz.",
+    "Chochoł.",
+    "Sperma dzika.",
+    "Elektryzujący seks z psem.",
+    "Zjadanie sobie obiadu z pępka.",
+    "Mamo ten pedofil Peus wyszedł z więzienia.",
+    "3 osoby, które przeżyły smoleńsk.",
+    "Menelski seks w autobusie.",
+    "Pedofilskie konto na gadu-gadu.",
+    "Kiciuś kastrat.",
+    "Gejowski seks kleryków.",
+    "Wujek płacący za seks.",
+    "Adolf Hitler.",
+    "Ucieczka z Auschwitz.",
+    "Syfilis papieża.",
+    "Mikropenis.",
+    "Seks nie jest jest przyjemny w tym miejscu.",
+    "Seks analny.",
+    "Seks przy użyciu tarki.",
+    "Sperma Kaczyńskiego."
+  ],
+  "pack": {
+    "id": "6VPF2",
+    "name": "Ożarów"
+  },
+  "quantity": {
+    "black": 394,
+    "white": 958,
+    "total": 1352
+  },
+  "dateStoredMs": 1588449003864
+}

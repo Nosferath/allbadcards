@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Thanks for nothing, you useless _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Microbot."
+  ],
+  "pack": {
+    "id": "ZEYPY",
+    "name": "disney trash"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589483212207
+}

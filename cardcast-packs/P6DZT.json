@@ -1,0 +1,67 @@
+{
+  "black": [
+    {
+      "content": "Mateusz bawił się ostatnio _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Matue chce spławić kolegów to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma to jak grać w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój przyjaciel to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Mateusz budzi sie rano mówi: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy Kapturski chce wyrwać laskę to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wieża.",
+    "Mówi że uczy się na wewnętrzny.",
+    "Rozwiązywanie testów wewnętrznych online.",
+    "Ela zrób mi loda.",
+    "Gaciami od Piotrka.",
+    "Dobrowolska.",
+    "Kacperek.",
+    "Mówi że ma posiedzenie sejmu.",
+    "Monisia.",
+    "Dawid Kurowski.",
+    "Zabiera na przejażdżkę punciakiem.",
+    "Odrzuca połączenia.",
+    "Kupuje lizaki.",
+    "World Of Tanks.",
+    "Pośpiechowa.",
+    "Hejka.",
+    "Wychodzi z fejsa po wyświetleniu wiadomości.",
+    "Wysyła zaczepkę.",
+    "Gdzie jest Monisia.",
+    "Rodowód Pośpiechowych.",
+    "Odrzucanie połączeń na skejpaju."
+  ],
+  "pack": {
+    "id": "P6DZT",
+    "name": "Playboy Matue"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 21,
+    "total": 27
+  },
+  "dateStoredMs": 1589277060201
+}

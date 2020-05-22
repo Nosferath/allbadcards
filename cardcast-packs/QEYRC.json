@@ -1,0 +1,75 @@
+{
+  "black": [
+    {
+      "content": "The Smith family was watching a television show about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rick and Morty went to an alternate universe where everyone is a _ -person.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where are my _, Summer?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rick invented a gadget that made Morty _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is my purpose? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's something about having a wiener that would make me better at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, thats my catchphrase.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Burping every other word.",
+    "Ball Fondlers.",
+    "A world where furniture is people that eats telephones and sits on humans.",
+    "Testicles.",
+    "Tearing a leprachaun open and eating his entrails.",
+    "Morty Insurance.",
+    "Birdperson.",
+    "Anatomy Park.",
+    "Rick.",
+    "Wubba lubba dub-dub.",
+    "Rapey Pancreas Pirates.",
+    "A very swole Rick and Summer.",
+    "Gazorpazorp.",
+    "My man!.",
+    "The Council of Ricks.",
+    "Ants-in-my-eyes Johnson.",
+    "Abradolf Lincler.",
+    "Rick and Morty Forever.",
+    "Gazorpazorpfield.",
+    "Morty.",
+    "Real fake doors.",
+    "Old-school Jews on a Saturday.",
+    "Puffy Vagina.",
+    "A Sex Robot."
+  ],
+  "pack": {
+    "id": "QEYRC",
+    "name": "Rick and Morty"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 24,
+    "total": 31
+  },
+  "dateStoredMs": 1588881793984
+}

@@ -1,0 +1,196 @@
+{
+  "black": [
+    {
+      "content": "I will never play any Smash Bros game again because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The difference between Young Link and Toon Link is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The anticipated Smash Bros tournament was surprisingly won by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ for next Smash Bros.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fans were shocked when Sakurai announced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sakurai decided that _ will actually be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The fighting was over when _ came out of a pokeball.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is nothing more annoying in Smash Bros than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest Smash Bros item is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Smash Bros players know to fear _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will the new Super Smash Bros stage be based on? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some say it's impossible to win using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just KO'ed _ with a _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I hope that _ will be an Assist Trophy in the next game.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hear that _ is now banned from tournaments.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I lost in the first round of the tournament to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirby sucked up _ and became _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was just spiked by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nintendo really needs to bring back _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ claims to have exclusive Smash Bros leaks.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Roy.",
+    "Snake.",
+    "Donkey Kong.",
+    "The Pokemon Trainer sitting uselessly in the background.",
+    "Squirtle.",
+    "Yoshi.",
+    "Spamming Sonic's one annoying taunt.",
+    "Palutena.",
+    "Jigglypuff.",
+    "Yoshi's tongue.",
+    "Wii Fit Trainer.",
+    "Link.",
+    "Kirby.",
+    "Luigi.",
+    "Diddy Kong.",
+    "Meta Knight.",
+    "Mii Fighters.",
+    "Ganondorf.",
+    "Pac-Man.",
+    "Wolf.",
+    "Sonic.",
+    "Toon Link.",
+    "Robin.",
+    "Pressing random buttons because you don't know how to play the game.",
+    "Mega Man.",
+    "Yoshi's eggs.",
+    "Sheik.",
+    "Fox.",
+    "Throwing your loyal minions at the opponent in a desperate attempt to slow them down.",
+    "King Dedede.",
+    "Mario.",
+    "Taunting after you KO an opponent.",
+    "Only using your smash attacks.",
+    "Villager.",
+    "Spamming your B attack.",
+    "Idiots who call Samus \"the Halo guy\".",
+    "Luigi's dancing.",
+    "Fighting over the Smash Ball.",
+    "A pink Captain Falcon.",
+    "Mewtwo.",
+    "Greninja.",
+    "Rosalina.",
+    "Another Marth clone.",
+    "Lucario.",
+    "Pit.",
+    "FALCON PUNCH!!!.",
+    "Slipping repeatedly on Diddy Kong's banana peals.",
+    "Zelda.",
+    "Captain Falcon.",
+    "Wario.",
+    "Marth.",
+    "Super Smash Bros Melee.",
+    "Pulling a mushroom-man out of your dress.",
+    "Overenthusiastic Mega Man fans.",
+    "Another Fox clone.",
+    "Lucina.",
+    "Annoying gun items.",
+    "Charizard.",
+    "Sakurai.",
+    "Samus.",
+    "Mr. Game&Watch.",
+    "The smell of Wario's farts.",
+    "Falco.",
+    "Charizard.",
+    "Super Smash Bros Brawl.",
+    "Spamming Luigi's slapping attack.",
+    "Dr. Mario.",
+    "Peach.",
+    "Ivysaur.",
+    "Ike.",
+    "Little Mac.",
+    "Olimar.",
+    "Destroying Hyrule Temple with a black hole glitch.",
+    "Raging so hard you break the controller.",
+    "R.O.B.",
+    "No items, Fox only, three stock, Final Destination.",
+    "Wario.",
+    "Exploding item containers.",
+    "Pichu.",
+    "Pikachu."
+  ],
+  "pack": {
+    "id": "C09KF",
+    "name": "Smash Bros Against Humanity"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 80,
+    "total": 100
+  },
+  "dateStoredMs": 1589068735289
+}

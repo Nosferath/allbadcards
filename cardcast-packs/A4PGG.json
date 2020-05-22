@@ -1,0 +1,117 @@
+{
+  "black": [
+    {
+      "content": "_ you will be the one to save Hyrule!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's dangerous to go alone, take _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 's song put us to sleep.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eat a mushroom and this will happen. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry _ but the _ is in another castle.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ used thundershock and electrocuted everyone when they _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I threw a _ at _ and I'm so happy I captured them!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Before you can enter _ you need the _ and Hyrulean Shield.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ caught a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ defeated Ganon and then _ with _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ saw Ash and immediately jumped for joy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Misty was happy to join Ash and _ on their journey.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Saria.",
+    "Yoshi.",
+    "Princess Zelda.",
+    "Jolteon.",
+    "Pokéball.",
+    "Ivysaur.",
+    "Toad.",
+    "Charmeleon.",
+    "Eevee.",
+    "Flareon.",
+    "Mario.",
+    "Misty.",
+    "Sheik.",
+    "Princess Peach.",
+    "Brock.",
+    "Wheezing.",
+    "Ganondorf.",
+    "Pikachu.",
+    "Psyduck.",
+    "Bulbasaur.",
+    "Arbok.",
+    "Grow Big.",
+    "Koffing.",
+    "Charizard.",
+    "Venusaur.",
+    "Bowser.",
+    "Lickitung.",
+    "Jigglypuff.",
+    "The Master Sword.",
+    "Blastoise.",
+    "Ash.",
+    "Squirtle.",
+    "James.",
+    "Wartortle.",
+    "Meowth.",
+    "Charmander.",
+    "Vaporeon.",
+    "Jessie.",
+    "Onix.",
+    "Link.",
+    "Ekans."
+  ],
+  "pack": {
+    "id": "A4PGG",
+    "name": "Pokémon and The Legend of Zelda"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 41,
+    "total": 53
+  },
+  "dateStoredMs": 1588432943627
+}

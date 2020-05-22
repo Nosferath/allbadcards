@@ -1,0 +1,172 @@
+{
+  "black": [
+    {
+      "content": "In 2068, we elected _ as president.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paul Revere said \"one if by land, two if by sea.\" But what they don't tell you about is when he said three if by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is America's favorite pass-time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there is an Uncle Sam, then there is an Aunt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rutherford B. Hayes hid _ under his long and luxurious beard.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the next civil war will be _ fighting against _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The 15th point in Wilson's 14 points speech would have been _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The four freedoms are freedom from fear, freedom of worship, freedom from want and freedom from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would Donald Trump's Civil War Horse name be? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's only 10 minutes left to finish the DBQ and all I've written is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The APUSH test was worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Flappers in 2020 would probably just be called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Ms. Pilla do in her spare time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real cause of WWI was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What could get you an F in APUSH? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where did Millie's sanity go? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret Vice President under James Buchanan was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The witness in the watergate trial is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the F in JFK stand for?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I study for APUSH by crying and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "President Ulyssess S. Grant enjoyed _ during his time in the Whitehouse.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the key to getting a 5 on the APUSH exam?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What crop boosted Mayland and Virginia's economy? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lady Liberty using her torch as a means of pleasure in her loneliest of times.",
+    "Fight or flight responses activated.",
+    "The Capitalist Agenda.",
+    "John Hancock's hand cocks.",
+    "John Thornton's strong British love.",
+    "The only thing saving my GPA.",
+    "F for respects.",
+    "All 13 colonies at the same time.",
+    "Purposefully getting off topic in class.",
+    "Ms. Pilla's equinophilia.",
+    "Fighting everyone who looks at America the wrong way.",
+    "A thesis that does not fully answer the prompt.",
+    "Jesus but in cursive.",
+    "Baberaham Lincoln.",
+    "Archduke Franz Ferdinand's blood spilled onto the grounds of a Great War.",
+    "5 minutes left on the DBQ.",
+    "Fontbonne, the Early College of Boston.",
+    "The Fontbonne Ghost.",
+    "35 horses ready to rumble.",
+    "Colonizing Africa so hard it cries.",
+    "The Greatest Depression.",
+    "Frankie Cleveland being an awesome first lady that is absolutely slept on.",
+    "A YUGE wall isolating America into 13 district not unlike the Hunger Games.",
+    "A molerat in disguise as a founding father.",
+    "Getting drunk during prohibition.",
+    "Freedom?.",
+    "Cold Blooded Communists.",
+    "Old Bob.",
+    "Daddy Bush.",
+    "George Washingfart.",
+    "Not understanding any of the documents for the DBQ so just making it up as you go.",
+    "The assassination of ArchDUCK Franz Ferdinun.",
+    "The Deep South.",
+    "The gentle caress of a huge fricking horse.",
+    "The British. Again.",
+    "Knowing the answer but not wanting to talk out loud in class.",
+    "Another goddamn DBQ.",
+    "Just so many bees. so goddamn many bees.",
+    "Uncle Sam's America sized cock.",
+    "Pushing back the deadline until after we have graduated.",
+    "Watching the Impeachment during class time because history is in the making."
+  ],
+  "pack": {
+    "id": "Ep2je",
+    "name": "APUSH Gang"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 41,
+    "total": 64
+  },
+  "dateStoredMs": 1589571197200
+}

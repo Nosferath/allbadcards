@@ -1,0 +1,45 @@
+{
+  "black": [
+    {
+      "content": "Drozgyik betoppant __ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Roli szerint kicsi  __  van.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nem nyugszom amíg nem kerültök __ ba.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Vaty te ___ engem?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Who the __ is Cicero?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tököli börtön __ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "MNMGD",
+    "name": "opusz"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 0,
+    "total": 6
+  },
+  "dateStoredMs": 1589201907002
+}

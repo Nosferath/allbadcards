@@ -1,0 +1,169 @@
+{
+  "black": [
+    {
+      "content": "Jestem _ , Jestem w Play , mam stan _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stary idziesz po piwko, no dobra, ale ty przez cały tydzień _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przepraszam za spoźnienie szefie,ale mój syn_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O to ten nowy Barszcz o smaku _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cyganie którzy _ ,  są uważanych za głupich",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W dziesiejszych czasach,niegrzeczne dzieci zamiast rózgi, Mikołaj daje_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TV Mango, prezentuje _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co to za plama na mojej kanapie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Siemanko ja jestem Taksi, a dziś gramy w _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mam na Czole, co mam na Czole,_ mam!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na co wydałeś kolejne 3000 zł z konta? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A dziesiejszego live'a na twitchu nagrywa duet : _ i _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co to za hałasy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dlaczego nie chciałbyś z nami _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przez co wszystko mnie boli _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chciałbym mieć dziewczynę,ale nie mogę ponieważ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Gdy będe przydentem, wprowadzę _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kurwa nie wierze , dlaczego wszyscy teraz _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Juzef Piłsudzki.",
+    "Nie posiadanie facebooka.",
+    "Zdjęcia piersi.",
+    "Cezary Pazura.",
+    "Bomba z ptasich odchodów.",
+    "Kanibalizm.",
+    "Klikanie alt+f4 przed seksem.",
+    "Idioci grający w jakieś gówniane karty, nie robiąc nic innego.",
+    "Odpierdol sie.",
+    "Rozebranie się do naga i oglądanie Cartoon Network.",
+    "Znajomi wyjadający cała zagrychę.",
+    "Ostre ruchańsko.",
+    "Pasha nie ma mięśni.",
+    "Boostowany kolega w CS:GO.",
+    "Nakurwiam węgorza.",
+    "Usuwanie historii przeglądarki.",
+    "Bomb has been planted.",
+    "Lajf is brutal ent full of zasadzkas.",
+    "Strzelanie do żydów bez koszulki.",
+    "Rzut karłem.",
+    "Rasizm.",
+    "Mam małego.",
+    "Wyrok w sądzie.",
+    "3-letnia gorączka.",
+    "Allah akbar.",
+    "Zimno.",
+    "Skręt jądra.",
+    "Za hajs matki baluj.",
+    "Sranie do beczki.",
+    "Obsesyjne granie w Paint'a.",
+    "Wypad z baru,brak towaru.",
+    "Konwulsyjnie wymiotujący Kuba Wojewódzki z robakami przyklejonymi do odbytu.",
+    "Za gorąca zupa.",
+    "Piercing genitaliów.",
+    "Nowy sms od chłopaka/dziewczyny.",
+    "Geje.",
+    "Proszę wybierz tą kartę Card Czar pliiiiis.",
+    "Przypierdalanie się o byle gówno.",
+    "Wybuchy.",
+    "Daj suba.",
+    "Ten pas na brzuch z TV Mango.",
+    "Chujowa umiejętność grania w kosza.",
+    "Murzyni.",
+    "Granie w Agar.io 52 godziny.",
+    "Guz mózgu.",
+    "Kawały o drwalach.",
+    "Zbyt ciasne spodnie.",
+    "Potężne uda.",
+    "Bycie chujem w stosunku do dzieci.",
+    "Przeciwstawne kciuki.",
+    "Rude włosy.",
+    "To uczucie gdy wydaje Ci się,że to beknięcie, a tak naprawdę to rzyg.",
+    "Opierdol mi kolbe.",
+    "Polak nie znający się na piłce nożnej.",
+    "Boląca głowa.",
+    "Nagła utrata penisa.",
+    "Dławienie się penisem czarnucha.",
+    "MechaHitler."
+  ],
+  "pack": {
+    "id": "2GH3G",
+    "name": "Polish Language"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 58,
+    "total": 77
+  },
+  "dateStoredMs": 1588616112666
+}

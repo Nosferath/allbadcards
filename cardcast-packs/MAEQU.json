@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "_ is a new constant in mathematics.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Using 1=2, I proved I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Math broke again, someone proved 1 equals _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to redefine distance to prove _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Math is like _, beautiful and misunderstood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On a recent math test it said someone bought 64 _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dividing by zero.",
+    "Using tau instead of pi.",
+    "The sum of the square roots of any two sides of an isosceles triangle.",
+    "A prime number.",
+    "Confusing x and times.",
+    "√-1."
+  ],
+  "pack": {
+    "id": "MAEQU",
+    "name": "Mathematics"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 6,
+    "total": 12
+  },
+  "dateStoredMs": 1588899532339
+}

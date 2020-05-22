@@ -1,0 +1,32 @@
+{
+  "black": [
+    {
+      "content": "_ has the dankest of all memes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mirror Mirror on the wall, who is the dankest of theme all. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ did 9/11.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Pepe."
+  ],
+  "pack": {
+    "id": "TPGQ7",
+    "name": "Crimsons Dank memes"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 1,
+    "total": 4
+  },
+  "dateStoredMs": 1588711745615
+}

@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "I wish your mother _ me!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "V2g9f",
+    "name": "VERY RUDE"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589052629007
+}

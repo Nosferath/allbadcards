@@ -1,0 +1,774 @@
+{
+  "black": [
+    {
+      "content": "Der neue Marvel-Superheld ist der/die/das unglaubliche _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bei Aldi gibt´s derzeit _ im Sonderangebot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In der neuen S-Klasse von Mercedes ist _ integriert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wird zur Ausrottung der Menschheit führen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn man _ und _ kreuzt, erhält man _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ ist dieses Jahr das beliebteste Kostüm an der Basler Fasnacht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist als Negativbeispiel das neue Gesicht der Kampagne \"Gib Drogen keine Chance\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wird zur Flüchtlingsunterkunft umfunktioniert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Das neue Shampoo von L´Oréal beinhaltet _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meinen Kärcher benutze ich immer, um _ zu reinigen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wird den 3. Weltkrieg auslösen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit _ ist alles besser.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In 100 Jahren wird das Internet durch _ abgelöst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich esse Spätzle besonders gerne mit _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Um das Haushaltsdefizit auszugleichen, wird eine Steuer auf _ erhoben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Zug  von Basel nach Zürich hat eine Stunde Verspätung wegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Liebe Zauberkugel, bringt meine Zukunft mehr _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skandal im Kindergarten: Susi hat an _ geleckt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sonderangebot: Kaufe _ und erhalte _ umsonst dazu!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Letzte Nacht habe ich von _ geträumt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Junggesellenabschied geriet ausser Kontrolle: Wir haben _ konsumiert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Schwarzfahren wird in Basel jetzt mit _ geahndet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alle Geschichtsbücher müssen korrigiert werden: _ war in Wahrheit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ ist für den Klimawandel verantwortlich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hat den Status \"UNESCO Weltkulturerbe\" erhalten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Helene Fischers neuster Hit: \"Atemlos durch _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Container der Abtreibungsklinik wurde _ gefunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf dem Campingplatz darf _ nicht fehlen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Basler Zoo hat das neue _-Gehege eröffnet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit meinem Psychiater spreche ich meistens über _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich verlange, dass _ die Weltherrschaft übernimmt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist für den Fall der Mauer verantwortlich.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen _ haben wir beide Weltkriege verloren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rammsteins neuster Song: \"Ich will kein _ sein\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durch _ verlor ich meine Jungfräulichkeit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die Schweizer Armee ist berühmt für _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vergiss Kröten. Ich bin süchtig danach, _ zu lecken.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf dem Flohmarkt kaufe ich am liebsten gebrauchte _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Bildschirmhintergrund zeigt _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute in der Sendung mit der Maus: Wie funktioniert eigentlich _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute auf Spiegel Online: Die 7 lustigsten Bilder von _ mit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Roche produziert neuerdings Medikamente gegen _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statt Hartz IV erhalten Arbeitslose neuerdings _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ihh, schon wieder _ in meinem Müsli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Berliner Flughafen soll durch den Verkauf von _ finanziert werden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Letzte Woche wurde _ von einem Trabi überrollt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die AfD will mit _ das Flüchtlingsproblem in den Griff kriegen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um das Wachstum zu fördern steckt _ in jedem Gläschen Hipp Babybrei.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist ein Wunder der deutschen Ingenieurskunst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Führerbunker in Berlin wurde _ gefunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am liebsten foltere ich _ mit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In der Sauna geniesse ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kinder Schokolade wurde verboten. Es wurden Spuren von _ gefunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein nächstes Haustier wird ein _ sein.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe eine _-Phobie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In der Bibel steht: Liebe _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das beliebteste Spielzeug im Happy Meal ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ verleiht Sauerkraut erst die richtige Würze.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In meiner Handtasche darf _ nicht fehlen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute ist wegen _ ein Kampfjet der Schweizer Armee abgestürzt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein Tinder-Profilbild zeigt mich zusammen mit _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Statistische Bundesamt gibt bekannt, dass der Konsum von _ rapide gestiegen ist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_-Werfen ist eine neue olympische Disziplin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich gehe nicht gerne an den Baggersee wegen all den _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieber Dr. Sommer, bitte erklär mir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue Leitsatz der AfD lautet: \"Raus mit _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scooters neuer Hit: \"How much is the _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bei der Party am Samstag darf auf keinen Fall _ fehlen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Glühwein am Weihnachtsmarkt wurde mit _ gestreckt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "RTL Explosiv berichtet heute über den Zusammenhang von _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Meinen Keller benutze ich zur Aufbewahrung von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Neu werden Dildos in Form von _ produziert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der meistgesuchte Begriff auf Pornhub lautet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Sexualkundeunterricht wird jetzt auch _ thematisiert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim Masturbieren denke ich meistens an _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In meinen Anus stecke ich mir gerne _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Beste an meinem Sexleben ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen _ musste Frankreich vor den Nazis kapitulieren.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bild berichtet über die Sex-Affäre zwischen _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich stehe auf Pornos mit _ und _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nach einer stundenlangen Orgie gönne ich mir _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Fingerfarben.",
+    "Häusliche Gewalt.",
+    "Der Mauerfall.",
+    "Teenager-Schwangerschaften.",
+    "Chemtrails.",
+    "Waisenkinder.",
+    "Osama Bin Laden.",
+    "Komposthaufen.",
+    "K.O.-Tropfen.",
+    "99 Luftballons.",
+    "Aldi.",
+    "Terroristen.",
+    "Kautabak.",
+    "Hartz IV.",
+    "Feeding.",
+    "Hämorrhoiden.",
+    "Föten.",
+    "Rassentrennung.",
+    "Nerds.",
+    "Aluhut.",
+    "Nacktmulle.",
+    "Flauschige Häschen.",
+    "Ein mit Äther getränktes Tüchlein.",
+    "Ausgemusterte Versuchstiere.",
+    "Auf dem Klo ficken.",
+    "72 Jungfrauen.",
+    "Der menschliche Tausendfüssler.",
+    "Kadaver-Sammelstelle.",
+    "Emotionen.",
+    "Riesige, fleischfressende Pflanzen.",
+    "Prinzessin Lillifee.",
+    "Oma und Opa.",
+    "Vollgeschissene WIndeln.",
+    "Krematorium.",
+    "Vorhaut.",
+    "Blitzkrieg.",
+    "Rattengift.",
+    "Fischmarkt-Verkäufer.",
+    "Opas Asche.",
+    "Angela Merkel.",
+    "Frauenknast.",
+    "Wurstfinger.",
+    "Der Geruch in einem Altersheim.",
+    "Hawaiihemden.",
+    "Ein vorgetäuschter Orgasmus.",
+    "Waterboarding.",
+    "Ein mit Schamhaaren verstopftes Flusensieb.",
+    "Ein rasierter Biber.",
+    "Schlampen.",
+    "Brennende Fürze.",
+    "60 Kilo Hackfleisch.",
+    "Feuchte Träume.",
+    "Göbbels.",
+    "Keuschheitsgürtel.",
+    "Roberto Blanco.",
+    "Gehirntumor.",
+    "Ein See voller Kindertränen.",
+    "Suizidale Lemminge.",
+    "Swingerclub.",
+    "Exorzisten.",
+    "Otto.",
+    "Allah.",
+    "20 gebrauchte Spritzen in einem Plastikbecher.",
+    "Nackt das Sandmännchen schauen.",
+    "Seniorenausflug an den FKK-Strand.",
+    "Selbststrangulation.",
+    "Flutschfinger.",
+    "Mein Arschlochkind.",
+    "Chuck Norris.",
+    "Genmanipulation.",
+    "Veganer.",
+    "Burkinis.",
+    "Kollateralschaden.",
+    "Genozid.",
+    "Vaseline.",
+    "Bekiffte Schwäne.",
+    "Magersucht.",
+    "Räuber Hotzenplotz.",
+    "Judengold.",
+    "Analplug.",
+    "Benjamin Blümchen.",
+    "Masseneinwanderung.",
+    "Abtreibungen.",
+    "Lepra.",
+    "Helene Fischer.",
+    "Gleitmittel.",
+    "Fake News.",
+    "Meine Seele.",
+    "Harakiri.",
+    "10 kleine Negerlein.",
+    "Nach altem Schweiss stinkende Menschen.",
+    "Gollum.",
+    "Ein behinderter Zentaur mit menschlichen Beinen und Kopf.",
+    "Griechen.",
+    "Chinesische Touristen.",
+    "Die dunkle Seite des Mondes.",
+    "Magersüchtige Models.",
+    "Schneeflittchen.",
+    "Lesben.",
+    "Pokémon.",
+    "Testesteron.",
+    "Genitalverstümmelung.",
+    "Atomare Explosionen.",
+    "Sackläuse.",
+    "Menstruationsblut.",
+    "Napalm.",
+    "Ein Haufen geschändeter Kinderleichen.",
+    "Heidi Klum.",
+    "Horroclowns.",
+    "Ein Handschuhfach voller gebrauchter Kondome.",
+    "Afrikanische Kinder.",
+    "Ein schwarzes Loch.",
+    "Hooligans.",
+    "Müllverbrennungsanlage.",
+    "Stasi-Offiziere.",
+    "Zombies.",
+    "Zombie-Enten.",
+    "Fleshlight.",
+    "Walddorf-Schüler.",
+    "Aufblasbare Gummipuppe.",
+    "Reichstag.",
+    "Reeperbahn.",
+    "Selfie-Stick.",
+    "Tourette-Syndrom.",
+    "Staatsbankrott.",
+    "Rosettenflattern.",
+    "Drogenrausch.",
+    "Sonntagsfahrer.",
+    "VRRRRRRRRRR.",
+    "Ein Loft voller notgeiler Einhörner.",
+    "Tote Eltern.",
+    "Ein langes, gekräuseltes Sackhaar.",
+    "Nackte Omas.",
+    "Plazenta.",
+    "Nordseekrabben.",
+    "Japanische Schulmädchen.",
+    "Unkontrollierbare Flatulenzen.",
+    "Darth Vader.",
+    "Carmen und Robert Geiss.",
+    "Nippel, so gross wie Untertassen.",
+    "Moorleichen.",
+    "T-Rex.",
+    "Erdogan.",
+    "Panzertape.",
+    "Vodka-Brause.",
+    "R2-D2.",
+    "Adiletten.",
+    "Yoda.",
+    "Teletubbies.",
+    "Lebertran.",
+    "Crystal Meth.",
+    "Landminen.",
+    "Erektionsstörungen.",
+    "Ein vollgeschissenes Dixi-Klo.",
+    "Blutbad.",
+    "Resteficken.",
+    "Genmanipulierte Kampfhummeln.",
+    "Scientology.",
+    "Eine Gefriertruhe voller Organe.",
+    "Juden.",
+    "Frauentausch.",
+    "Goblins.",
+    "Natürliche Selektion.",
+    "Junge Mädchen in Blumenkleidchen.",
+    "Fickende Frösche.",
+    "Todesstern.",
+    "Thomas Gottschalk.",
+    "Isengard.",
+    "Ein benutzterTampon.",
+    "Samenstau.",
+    "Schwangere Frauen.",
+    "Kellerkinder.",
+    "Polizeigewalt.",
+    "Syphilis.",
+    "Explodierende Kätzchen.",
+    "Die falsche Schwester ficken.",
+    "Ein blutverschmiertes Taschenmesser.",
+    "Nutten.",
+    "Eine Milliarde Franken.",
+    "Walgesang.",
+    "Islamisierung.",
+    "Menschenopfer.",
+    "Maulkorb.",
+    "Der Reichsadler.",
+    "Schwule Eltern.",
+    "Analphabeten.",
+    "Fliegendes Spaghetti-Monster.",
+    "Pac-Man.",
+    "Deutschtürken.",
+    "Grabschändung.",
+    "Super Mario.",
+    "Vladimir Putin.",
+    "Berliner Busfahrer auf Ketamin.",
+    "Meister Propper.",
+    "Babyspeck.",
+    "Kruzifix.",
+    "Die heilige Handgranate.",
+    "Franzosen.",
+    "Lobotomie.",
+    "Selbstmordkabinen.",
+    "Eine Hamburger Hafenkneipe.",
+    "Viagra.",
+    "Til Schweiger.",
+    "Schwule.",
+    "Selbstjustiz.",
+    "Die Pforte zur Hölle.",
+    "Rassismus.",
+    "Grössenwahnsinnige Diktatoren.",
+    "Hodenkrebs.",
+    "Wladimir und Vitali Klitschko.",
+    "Muttermilch.",
+    "Sozialhilfeschmarotzer.",
+    "Ritalin.",
+    "Käpt´n Blaubär.",
+    "Pest.",
+    "Robbenkloppen.",
+    "Warmes Bier.",
+    "Menschenfressende, fliegende Riesenhamster.",
+    "Kinder mit Krebs.",
+    "Weltfrieden.",
+    "Nekrophile.",
+    "Blutegel.",
+    "Chorknabenschänder.",
+    "Beckenrand-Schwimmer.",
+    "Betrunkene Affen.",
+    "Förderschule.",
+    "Der Papst.",
+    "Dirty Sánchez.",
+    "Glühwürmchen.",
+    "Krümel auf dem Teppich.",
+    "Menschenfleisch.",
+    "Jabba der Hutte.",
+    "Donald Trump.",
+    "Schrödingers Katze.",
+    "Steuersünder.",
+    "Orgien.",
+    "Drogenkinder.",
+    "Deine Mutter.",
+    "Eine süsse Entenfamilie.",
+    "Süsse kleine Kätzchen.",
+    "Brustamputationen.",
+    "Riesige Hängebrüste.",
+    "Minderjährige Fans von Justin Bieber.",
+    "Einzelkinder.",
+    "Katzenklo.",
+    "Kamikaze-Delfine.",
+    "Orangenhaut.",
+    "Mettigel.",
+    "Ein Trabi.",
+    "Bernd das Brot.",
+    "Fleischfressende Bakterien.",
+    "Rammeln wie die Karnickel.",
+    "Zecken.",
+    "Unermessliche Dummheit.",
+    "Politessen.",
+    "Sterbehilfe.",
+    "Maul- und Klauenseuche.",
+    "Antimaterie.",
+    "Zyankali.",
+    "Maurerdekolleté.",
+    "Obdachlose.",
+    "Hausgemachte Ingwer-Limonade.",
+    "Deep Throat.",
+    "Sekundenkleber.",
+    "Kannibalismus.",
+    "42.",
+    "Feenstaub.",
+    "Eine überfahrene Katze.",
+    "Gott.",
+    "Welpen.",
+    "Bremsspuren in den Unterhosen.",
+    "Ein Rudel stinkende Orks.",
+    "Autistische Kinder.",
+    "Jägermeister.",
+    "Brustvergrösserungen.",
+    "Das Herz eines Kleinkinds.",
+    "Ein vollgekotzter Masskrug.",
+    "Massengrab.",
+    "Die dunkle Seite der Macht.",
+    "Fette Weiber in Hot Pants.",
+    "Kreuzigungen.",
+    "Roche.",
+    "Gammelfleisch.",
+    "Zeugen Jehovas.",
+    "Maggi.",
+    "Kindersoldaten.",
+    "Folterkeller.",
+    "Schwanzvergleich.",
+    "Flüchtlinge.",
+    "Asylanten.",
+    "Erdbeerkäse.",
+    "Die Zehennägel eines 90-jährigen Mannes.",
+    "Inzest.",
+    "Vegane Vampire.",
+    "Aufblasbares Sex-Schaf.",
+    "Fotos von Titten.",
+    "Penisprothesen.",
+    "Eine Eimer voll mit Scheisse.",
+    "GOD DAMN IT MERASMUS!.",
+    "Pädophile Bären.",
+    "Smegma.",
+    "Meine Sexspielzeug-Sammlung.",
+    "Aids.",
+    "Ein Konzentrationslager aus Lego-Steinen.",
+    "Ein Planschbecken voll mit Pisse.",
+    "Mikropenis.",
+    "Eine abgetakelte Hafenhure.",
+    "Sexualstraftäter.",
+    "Ein nach alter Pisse stinkender Penner.",
+    "Eine MILF.",
+    "Auschwitz.",
+    "Sexsklaven.",
+    "Ein eitriger Pickel am Arsch.",
+    "Dünnschiss.",
+    "Bukkake.",
+    "Meine Genitalien.",
+    "Sodomie.",
+    "Hitlers Schnurrbart.",
+    "Feminazis.",
+    "Eine ausgeleierte Möse.",
+    "Sexparty auf Firmenkosten.",
+    "Penisneid.",
+    "Eine als Sexspielzeug missbrauchte Gurke.",
+    "Den Schwanz im Reissverschluss einklemmen.",
+    "Schnitzel und Blowjob.",
+    "Zwangshaftes Masturbieren.",
+    "Fisting.",
+    "Degenerierte Nazis.",
+    "Eine dampfbetriebene Steampunk-Sexmaschine.",
+    "Die Hoden eines Kampfterriers.",
+    "Panda-Sex.",
+    "Mein Sexleben.",
+    "Ein grosser, schwarzer Penis.",
+    "Genitalherpes.",
+    "Hitler, der auf einem Dinosaurier reitet.",
+    "Youporn.",
+    "Dieter Bohlens Sexschaukel.",
+    "Amateurpornos.",
+    "Cameltoe.",
+    "Ein Hamster im Arsch.",
+    "Blümchensex.",
+    "Ein blinkender Umschnalldildo.",
+    "Überraschungssex.",
+    "Meine Titten.",
+    "Die Pornosammlung meines Vaters.",
+    "Pädophile.",
+    "Gaskammer.",
+    "Walpenis."
+  ],
+  "pack": {
+    "id": "9C6MD",
+    "name": "Kampf gegen das Spiessertum"
+  },
+  "quantity": {
+    "black": 82,
+    "white": 348,
+    "total": 430
+  },
+  "dateStoredMs": 1589571248794
+}

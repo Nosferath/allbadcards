@@ -1,0 +1,90 @@
+{
+  "black": [
+    {
+      "content": "Quando meu avô tinha minha idade, ele cobrava 10 cruzados para _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Papai, porquê mamãe está chorando? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante sua crise de meia-idade, meu pai se envolveu com _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sinto muito, senhora, mas não podíamos fazer nada. Ás 4:15, seu filho morreu de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minha vó brigou comigo porque eu esqueci o nome dela e chamei ela de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A ceia de Natal da nossa família foi arruinada quando nosso avô colocou _ em cima da mesa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uma família nem sempre tem que ser pai, mãe e filhos. Pode ser _ , _ e _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "A maioria dos pais morre de medo de encontrar _ nos quartos de seus filhos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para o Dia das Mães, dei _ à minha mãe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todo Natal, minha tia fica bêbada e conta a história de _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Uma festa de aniversário decepcionante.",
+    "Encoxar a mãe no tanque.",
+    "Cagar na casa do vizinho e não dar a descarga.",
+    "Sua mãe.",
+    "Obrigações de mulher casada.",
+    "Ter crise de riso no velório da sogra.",
+    "Os problemas financeiros do meu pai.",
+    "O amor de mãe.",
+    "Os dentes da minha vó.",
+    "Fazer uma tatuagem na testa do seu filho recém nascido.",
+    "Ver sua avó pelada.",
+    "Tatuar uma suástica na testa do seu avô enquanto ele dorme.",
+    "Engravidar do próprio pai.",
+    "Bater na namorada/esposa.",
+    "Minha sogra.",
+    "Pensar na minha sogra.",
+    "Aquele pivete de oito anos que sempre estraga tudo.",
+    "Piriguetes.",
+    "Aquele tio racista.",
+    "Divórcio.",
+    "Dar implantes de silicone para sua filha como presente de aniversário de 15 anos.",
+    "O casamento.",
+    "Ser uma mãe horrível.",
+    "O risco de se trocar o i pelo u quando se está escrevendo sobre seu pai."
+  ],
+  "pack": {
+    "id": "vm8n8",
+    "name": "A Família Tradicional Brasileira"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 24,
+    "total": 34
+  },
+  "dateStoredMs": 1588106055506
+}

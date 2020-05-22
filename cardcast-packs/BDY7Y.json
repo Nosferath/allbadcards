@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "Rummaging through _'s garbage, you found _... Yikes.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sebastian's real father is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesnt produce milk.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're lucky, you might see _ in this weather.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierre is now selling _ at a very low price.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Caroline's past, she _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You found a stardrop! Your mind is filled with thoughts of_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're giving _ to me? I'm speechless!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Harvey charged me 1000g for the hospital visit. It also appears that I've lost _ from my bag.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help wanted: I will <3 you forever if you bring me _ -Haley.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit, Shane is drunker than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pelican Town: the best place to: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abortion is out, turning your kids into _ is in!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The new farmer in town.",
+    "The fear Pierre feels as you stand outside staring at him through the door for hours waiting for 9 am.",
+    "An octopus.",
+    "The local vampire.",
+    "Getting married just to have someone else water your crops for you.",
+    "The fact that Marnie is dressed like an elf and nobody  has mentioned it.",
+    "Pierre's secret stash.",
+    "Mix match cliques.",
+    "The thrill of spicy eel.",
+    "Romancing siblings but only one gets a bouquet.",
+    "Pass out on the beach at 2 am.",
+    "Resisting capitalism.",
+    "Stupid piece of shit slimes.",
+    "Flirting with the town's milfs.",
+    "Fucking on the pool table in the saloon."
+  ],
+  "pack": {
+    "id": "BDY7Y",
+    "name": "Stardew Valley"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 15,
+    "total": 28
+  },
+  "dateStoredMs": 1588207300800
+}

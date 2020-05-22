@@ -1,0 +1,191 @@
+{
+  "black": [
+    {
+      "content": "I'm worried about the negative influence of _ in my child's life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hillary was wrong. It takes _ to raise a child.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, my child is allergic to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Now I can pay for college!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baby's asleep! Now I can finally work on _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope my kid grows up to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My belief in _ resulted in my kid suffering through _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No no! You don't put _ in your mouth!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What exactly did that diaper smell like? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can tell you're a parent by the _ on your shirt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baby's first word: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Now on sale at Target!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think we can all agree that _ is the imminent threat to our nation's youth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As long as you live under this roof, you will respect _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As a modern parent, I will not spank my child. Instead, I will use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the doggie say? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My doctor understands the healing power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toys R Us recently pulled _ off their shelves.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My life is forever changed, now that my kid has brought _ into my life.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And this stain is from when my kid got into _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Toddlers with bike helmets on while walking.",
+    "Not being the favorite parent.",
+    "So much projectile vomit.",
+    "Finding your penis for the first time.",
+    "Gestational Diabetes.",
+    "Daddy's other family.",
+    "Toxoplasmosis.",
+    "Seeing your kid walking away with a stranger.",
+    "Not giving a shit after your third child.",
+    "Listerine alcohol poisoning.",
+    "Three in the fucking morning.",
+    "Discovering fart jokes.",
+    "Juvenile indecent exposure.",
+    "Pooping anywhere except the toilet.",
+    "A scary Mall Santa.",
+    "Punching the nurse during childbirth.",
+    "Fun with scissors!.",
+    "The belt.",
+    "Relatives who give your kid noisy toys.",
+    "Pretending you don't notice the diaper's smell.",
+    "Smoking your kid's stash.",
+    "Your kid learning how the handbrake and gearbox work.",
+    "Soiling your fingers during a diaper change, then licking it off.",
+    "Anti-Semitic indoctrination.",
+    "Accidentally using breast milk in your coffee.",
+    "Coca-Cola® in a baby bottle.",
+    "The secret hiding spot.",
+    "Realizing you literally just saved your kid's life.",
+    "Knowing your playmate is gay.",
+    "Stretch marks.",
+    "Putting your kid on a leash.",
+    "Pump-and-Dump.",
+    "DEM TITTIES!.",
+    "Not getting your security deposit back.",
+    "Seriously considering how much alcohol you could give your kid just to make them go the fuck to sleep.",
+    "Pumping.",
+    "Working the pole.",
+    "The creepy brony uncle.",
+    "Being a basic bitch at age four.",
+    "Smoking during pregnancy.",
+    "Ugly-ass babies.",
+    "Burning your copy of \"Fatherhood\" by Bill Cosby.",
+    "Public breastfeeding.",
+    "Discovering how messed up classic fairy tails really are.",
+    "Not knowing the difference between Roseola and Measles.",
+    "Learning you're adopted during a genetics lesson in school.",
+    "Circumcision.",
+    "A potty training oopsie.",
+    "Trying to get your kid to sleep and accidentally giving them a second wind.",
+    "Holding your baby up to see if they've pooped themselves or just farted.",
+    "Boob swelling.",
+    "Telling the CPS agent to get a warrant or fuck off.",
+    "Getting the results of prenatal screening and having \"that\" conversation.",
+    "Thinking that vaccines cause autism.",
+    "Vaccine-induced autism.",
+    "Learning that Santa Claus isn't real.",
+    "Putting three childproof cases on your phone.",
+    "Making your parents drink.",
+    "Using the Force for the first time.",
+    "Baby erections.",
+    "Dramatic overreaction to minor symptoms or injuries.",
+    "Stepping on a LEGO®.",
+    "Stupid dad jokes.",
+    "Learning you're adopted during a genetics lesson in school.",
+    "A baby cursing in front of their grandparents.",
+    "Drinking excessively during your child's birthday party.",
+    "Babies having babies.",
+    "Having to choose between a baby and a pet.",
+    "That same stupid song on repeat for a week.",
+    "Microchipping your child.",
+    "Finally having sex with your spouse again.",
+    "ALL THE BLEACH!.",
+    "Giving birth to a black baby.",
+    "Baby's first racial slur.",
+    "A two month old baby bottle."
+  ],
+  "pack": {
+    "id": "GRH45",
+    "name": "Children Against Humanity"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 75,
+    "total": 95
+  },
+  "dateStoredMs": 1589072880270
+}

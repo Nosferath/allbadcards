@@ -1,0 +1,108 @@
+{
+  "black": [
+    {
+      "content": "Why did Scully lie in her police report? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mulder is scared of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scully is scared of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a typical case of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mulder's personal X-Files include: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I've seen the future and it looks like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I believe in the existence of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scully's autopsy was interrupted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Agent Mulder believes in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mulder, _ just fell from the sky.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scully, are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope they have _ in space.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst X-File? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, Scully.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "MULDER!.",
+    "Lizard men.",
+    "Spooky Mulder.",
+    "A ufo.",
+    "Something weird.",
+    "Killer cockroaches.",
+    "SCULLY!.",
+    "A ufo party.",
+    "Scully's hair.",
+    "Mulder's pencil collection.",
+    "Alien abductions.",
+    "Fiji Mermaids.",
+    "Demon fetal harvest.",
+    "Aliens.",
+    "Classic vampirism.",
+    "Scully's autopsy tapes.",
+    "Big foot.",
+    "Moth man.",
+    "Alien civilizations.",
+    "Someone or something.",
+    "The X-Files.",
+    "Mulder's ufo poster."
+  ],
+  "pack": {
+    "id": "R94DV",
+    "name": "X Files"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 22,
+    "total": 36
+  },
+  "dateStoredMs": 1588761804450
+}

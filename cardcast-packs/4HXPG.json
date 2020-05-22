@@ -1,0 +1,878 @@
+{
+  "black": [
+    {
+      "content": "Somebody stole my sister's _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only use the organic version of_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Calling on the spirits of Darkness to conjure _ is a GREAT idea!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you have to choose between the bacon or_, stick with what you know.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I told all my friends I got herpes from a toilet seat, but I really got it from_.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , the new reality show on the History Channel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ doesn't require FDA approval.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ beats a straight flush in Vietnamese poker.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Edward_ hands was a totally spooky movie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black chicks like_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't get _ insurance from Geico if you drive with _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The latest effort by scientists to surpass the speed of light is understanding the physics of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't wait to see the_ episode of The Walking Dead.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My boyfriend's new Instagram is all about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm on a tight budget. Which is cheaper -_ or_?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Always consult a professional before you try_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is being home tested for mass distribution.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pounding shots with your grandma leads to_, so be sure to to lock up the_ first.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is essential for healthy_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Waking up to_ was a nice surprise.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Learning Krav Maga takes a lot of patience and a lot of practice with_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Weather Channel is now giving hourly updates on _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": " If the groundhog sees_, that means 6 more weeks of_.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Naked mole rats prefer to mate near_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can't cook, you at least better be able to withstand _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Congress is threatening to cut _ funding if churches don't stop with all the _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I called _ about _ , but they said the warranty doesn't cover _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My therapist said_ is perfectly normal and prescribed_ for me to get over it.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the best evidence of being a go-getter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not all TeleTubbies are / have _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump was impeached for_ today. Details at 11.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last time they rewrote the Bible, they took out all the good parts about _ and _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yesterday I got some junk mail inviting me to a_ clinic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My last scout badge was for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The appetizer combo at TGIFridays is_ with_, and a medium order of_ for free.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I bought 6 pairs of_ - print boxer shorts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is being marketed in third world countries as a_ remedy.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In my junior year of_, I changed my major to_ studies and got a bachelor's degree in_.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When your husband says you can talk to him about anything, he doesn't mean_.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ruined my wedding.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to the recent shortage of _ , _ is being canceled until _ levels are back to normal.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Never mind about _ . Did you bring _ ?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I almost have enough punches on my card to get _ for free.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ !?! Giggity...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've looked everywhere and Grindr is still the best place to find _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honey mustard goes great with_. Especially when you have_ as a chaser.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You can never have too much_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a whole team of lawyers to deal with_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why pay for _ when you can borrow _ from your mom whenever you want?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ has gotten so commercialized I don't even put up a tree any more.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "California just legalized_. Woohoo!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing worse than_ is_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Never have I ever swallowed _ in the presence of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You wouldn't think you'd get a head injury from_, but I totally did.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your first mistake was going shopping for _ without me. Your second mistake was coming home with (a) _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": " I like rom-coms about _ .\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any idea when the _ will get here? I'm starving.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If the election were held all over again today, I'd vote for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got a t-shirt with \"Ask me about_\" on it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I grow up I will invent a pill that guarantees_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've gained so much weight since _ became fashionable again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The cheapest form of birth control is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You just don't find_ at thrift stores any more.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're into _ , you'll LOVE _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The office is throwing a_ themed party to celebrate our third quarter_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you don't take care of that / those _ , _ will be the LEAST of your problems.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm pretty sure I aced the _ part of _ class finals.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How to bring peace to the Middle East:_!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What died in here? It smells like _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate to travel for _ . I prefer to handle _ in the comfort of my own home.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you can smell _ just walking around, you need to wipe better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ causes_.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Orientation was just a video about _. I'm gonna love this job!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jessica got _ for her sweet 16. I'm totes jelly!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is less awkward than_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best way to get your mom to stay out of _ chat rooms is to distract her with Youtube videos about _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gamers be like \"I need_ to boost my crit chance for_.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": " Nabisco just came out with _ that I'm dying to try.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At the pearly gates, St Peter gives you your choice of either _ or _ for all eternity. Choose wisely.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why isn't / aren't _ more popular? You'd think everybody would want a piece of _ action.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wished for_ before I blew out the candles.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kanye West was once arrested for filming_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ peep show was \"exact change only\", so I went home and spanked it to _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": " You wouldn't think you'd get a head injury from_, but I totally did.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ? There's an app for that.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "David Bowie left_ to charity in his will.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sick and fucking tired of _ . Let's switch to _ for a while.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'd rather eat spoiled tuna fish out of my own ass with_ than have_ in my_ caught in a car door.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I don't give a shit what WebMD says, _ WILL make you go blind.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I'm having an important conversation about _ , I expect you to shut the fuck up and count (the) (your) _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I wish my girlfriend would be open to using _ during hot monkey sex.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shit. The judge is making me pay restitution on the _ charge.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have to clean up after _ , or else it looks like somebody RPG'd _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What have you been doing in here? Your room smells like _ crawled up a/some _ ' ass and died.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's hard to get any goddamn work done when all you can think about is_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I could get paid for _ , I'd be a motherfuckin' millionaire.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, fuck yeah!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I looked for my goddamn _ for a half hour only to discover they were on my head the whole time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After a 37 year search, Whoopi Goldberg's eyebrows were finally located behind a/an _ exhibit at the Smithsonian earlier today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Collecting_ for fun and profit. It's a great way to relax after dealing with_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Beware of door to door_ salesmen. They'll substitute your order with_ after cashing your check.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The trailer for Tyler Perry's _ looks dope as fuck.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If he was my child, I'd whip his ass every time I caught him /with/ _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "African booty snatchers.",
+    "Accidentally fingering your sister.",
+    "Naked freeze tag.",
+    "Drinking out of a kiddie pool.",
+    "A temper tantrum in the optical department at Walmart.",
+    "A lap dance for Stephen Hawking.",
+    "Leaving an upper decker at your pastor's house.",
+    "Mickey Mouse ears.",
+    "Black chicks with nails so long they have to knuckle dial their phones.",
+    "White out on a bank statement.",
+    "Peanut allergy.",
+    "Black detective Sherlock Homie.",
+    "Shingles.",
+    "Transgender tachyons.",
+    "Wake and bake.",
+    "A deer tick with an ax to grind.",
+    "Getting stabbed in the dickhole.",
+    "Twinks.",
+    "Gay Republicans.",
+    "Narwhal antlers.",
+    "Anchovy paste.",
+    "Scabies.",
+    "Contaminated mouthwash.",
+    "Discontinued meat.",
+    "Adam West.",
+    "Wasting time deciding between jazz hands and spirit fingers.",
+    "The stench in an old folks home.",
+    "A minivan full of Armenian disco daddies.",
+    "Mullets.",
+    "Motivated stoners.",
+    "Asian juggalos.",
+    "Biracial KKK members.",
+    "Gravel in my vagoo.",
+    "Polite Canadian satire.",
+    "Crop dusting Walmart on black Friday.",
+    "MechaAids.",
+    "Lorena Bobbitt's temperament.",
+    "Wearing a t-shirt under a bikini.",
+    "Cheerleaders and a bucket of chicken grease.",
+    "Tinnitus that only plays Christmas music.",
+    "Card tricks I can't figure out.",
+    "Making Downs Syndrome contagious.",
+    "Double jeopardy.",
+    "Barbed suppositories.",
+    "Sunburned babies.",
+    "A Broadway musical like Rent, but gayer.",
+    "Dumb Xmas gifts like slipper socks or hepatitis.",
+    "Sniffing glue with 7 year olds.",
+    "Tainted mescaline.",
+    "Daisy Dukes.",
+    "Using Purell as lube to avoid STDs.",
+    "Questionable virginity.",
+    "Fat chicks with A-cups.",
+    "Assless chaps.",
+    "Crack babies.",
+    "Sharknado cameos.",
+    "Peeing on stuff so other people know it's mine.",
+    "FUPA ointment.",
+    "Gingers.",
+    "Sweepstakes grand prize of euthanasia.",
+    "A kid so ugly it has to sneak up on food.",
+    "An infant dose of fentanyl.",
+    "Bum fights.",
+    "Pediatric hemorrhoids.",
+    "Getting caught smoking a tampon like a cigar.",
+    "Michael Bolton concert tickets.",
+    "Teenager foot stank.",
+    "Moose stuff.",
+    "Corporate retreats.",
+    "Pope-based fan fiction.",
+    "Arbitrary halitosis.",
+    "Toilet snorkeling.",
+    "A 3 hour emotionally tense black and white foreign movie about flatulent penguins.",
+    "Narcoleptic diarrhea.",
+    "Laying eggs in your boyfriend's mouth.",
+    "A boomerang-wielding  hermaphrodite.",
+    "The Jewish pentagram.",
+    "Illegal maggot cheese.",
+    "Sweater steaks, medium rare.",
+    "A toaster in the bathtub.",
+    "Douchebaggery.",
+    "Mallrats bathed in Axe body spray.",
+    "Gerrymandering.",
+    "The meth lab next door.",
+    "Thinking 107 is a good score on your SATs.",
+    "The Pink Ranger.",
+    "A burlap thong.",
+    "LARPers.",
+    "Involuntary breastfeeding.",
+    "Doing poppers.",
+    "Cheap gas.",
+    "Way more dicks than (I'm/you're) used to.",
+    "Wet nursing your cat.",
+    "Neck fat.",
+    "Area 51.",
+    "Cruising chicks in the psych ward.",
+    "Scalp tattoos.",
+    "The taste a rectal thermometer leaves in your mouth.",
+    "Eye boogers.",
+    "Attracting flies by going commando.",
+    "Racism.",
+    "Duct tape and a pack of menthols.",
+    "PAP smear results.",
+    "White people that drink Colt 45.",
+    "An atomic wedgie.",
+    "Edible underwear.",
+    "Unapproved overtime.",
+    "Embalming fluid.",
+    "Leather daddies.",
+    "The fuzz.",
+    "Blind thumbless monkeys.",
+    "Constantly complaining about how hard it is to be black.",
+    "Mexicans with popped collars.",
+    "Sharting in a rented tuxedo.",
+    "Pee Wee Herman's gallbladder.",
+    "Lesbianism.",
+    "Numchucks.",
+    "The 50 Shades of Grey ebook.",
+    "A date that takes out his teeth before giving me gums-only head.",
+    "Farm fresh chicken dicks.",
+    "Dumpster gravy.",
+    "Wishful thinking.",
+    "A bucket of glass eyes.",
+    "GODZILLA.",
+    "Soup served in an ashtray.",
+    "DIY rectal surgery.",
+    "Nasty crits.",
+    "A drunk toddler.",
+    "My dressy colostomy bag.",
+    "Wearing hip waders and a tube top.",
+    "The emoji for \"I wish I'd married your sister\".",
+    "Turnip headed babies.",
+    "Family Guy reruns.",
+    "Being so poor you have to get your boob job one at a time.",
+    "An autistic human centipede.",
+    "A Jew-fro.",
+    "A double jointed OB/GYN.",
+    "Like, a LOT of hepatitis.",
+    "Trying to get beef wings by breeding a bull with a chicken and just ending up with a chicken that even duct tape won't fix.",
+    "My best stool sample.",
+    "SuperBoners.",
+    "Trying to grow crystal meth by planting some of it.",
+    "Barebacking.",
+    "Water-headed babies.",
+    "Turds in a short bus.",
+    "A loincloth made of poison oak.",
+    "Cheating at the Special Olympics.",
+    "Uppity midgets.",
+    "Failing a polygraph because of low blood sugar.",
+    "Fish fur.",
+    "Dry humping the furniture at the neighbor's cookout.",
+    "A Bluetooth butt plug.",
+    "Butt cleavage.",
+    "Plain tofu.",
+    "Prairie dogging.",
+    "Fat Puerto Ricans in lycra.",
+    "Cumstains on the pillow.",
+    "Kama Sutra.",
+    "A sacrificial ham.",
+    "A priapism.",
+    "Drag queens on hoverboards.",
+    "Water balloons filled with mayonnaise.",
+    "Weasel droppings.",
+    "Rabies.",
+    "Recreational slander.",
+    "Mormons that won't leave your house.",
+    "My boyfriend's sweaty codpiece.",
+    "The Matrix.",
+    "A ransom note written in white crayon.",
+    "Westboro Baptist Church.",
+    "Continental breakfast.",
+    "Unsolicited booty calls.",
+    "A military grade Segway.",
+    "Pot brownies.",
+    "Running low on mood stabilizers.",
+    "A brain surgeon with Parkinsons disease.",
+    "Hysterical male pregnancy.",
+    "A loose toupee.",
+    "Scientology.",
+    "Furburgers.",
+    "Mutes.",
+    "My bunions.",
+    "A stream of toilet paper stuck to my shoe.",
+    "Bill Cosby's roofie collection.",
+    "60 Mexicans outside Home Depot.",
+    "Alienation of the disenfranchised.",
+    "Bigamy.",
+    "Vegan slam poetry.",
+    "People who think \"you might be a redneck\" jokes are funny.",
+    "Assimilation by the Borg.",
+    "A third nipple.",
+    "Patchouli hippies.",
+    "Possum jerky.",
+    "Hobbit fossils.",
+    "Blood diamonds.",
+    "Adderall.",
+    "Photoshopped Grindr pics.",
+    "Megalomania.",
+    "Antimicrobial camel toes.",
+    "Trying your best but ending up Chinese anyway.",
+    "Anorexic wombats.",
+    "Jars of farts.",
+    "Free banana hammocks.",
+    "Amateur spearchucking.",
+    "Butt piracy for beginners.",
+    "Playing pocket pool at ChuckECheese.",
+    "Facials.",
+    "Clubbing baby seals.",
+    "Shawarma.",
+    "Autoerotic asphyxiation.",
+    "Snake handlers.",
+    "Asthmatic dwarves.",
+    "Off schedule Cthulhu attacks.",
+    "Cole slaw wrestlers.",
+    "A black girl so skinny her false eyelashes are making her top heavy.",
+    "Mentos and Pepsi.",
+    "Transspecies adultery.",
+    "Shaving my cat because I can't afford a real sphinx.",
+    "Morbid obesity.",
+    "Viagra crushed up and sprinkled in your hospital jello.",
+    "Epilepsy.",
+    "A potato that looks like the Virgin Mary.",
+    "A pickled virgin.",
+    "Borat.",
+    "A steel toed kick in the taint.",
+    "Roid rage.",
+    "Feeling confident you'll be slightly less bipolar tomorrow.",
+    "Your grandpa in a bikini.",
+    "Impregnation by turkey baster.",
+    "A 40th trimester abortion.",
+    "Cam Newton in a mini dress.",
+    "A shot of penicillin.",
+    "Donated merkins.",
+    "Socks and sandals.",
+    "Double penetration.",
+    "An immigration lawyer with a lisp.",
+    "Rectal migraines.",
+    "Asking \"does this smell like chloroform\" on a first date.",
+    "Taylor Swift in a gas mask.",
+    "Full-body neckbeards.",
+    "A drunk backhoe operator.",
+    "A scratch and dent sale.",
+    "Cat litter stuck between your teeth.",
+    "Retrograde amnesia.",
+    "Fat hookers that charge by the pound.",
+    "Mom jeans.",
+    "The Oxford comma.",
+    "Estrogen poisoning.",
+    "Guys who aren't nurses but wear Crocs anyway.",
+    "A coffee cup full of toenail clippings.",
+    "Getting ringworm for your birthday.",
+    "Liver spots.",
+    "Giving Jesus a blow job.",
+    "Pygmy gym rats.",
+    "The one good episode of SNL.",
+    "A velour straightjacket.",
+    "Rusty tattoo needles.",
+    "A phone book beatdown.",
+    "Period panties.",
+    "Wearing a cummerbund with Spanx.",
+    "My bedbug slumber party.",
+    "Stereo instructions.",
+    "Breakfast tequila.",
+    "Buttholes, buttholes, buttholes.",
+    "Jimmy Fallon.",
+    "Sphincter babies.",
+    "Horny nuns.",
+    "Asshole telemarketer(s).",
+    "Catching the clap when you didn't even go to Coachella.",
+    "Durian scented douche.",
+    "The moment you realize Craigslist is your only hope for getting fucked.",
+    "Gummi Bears stuck in your pubes.",
+    "Chinese sonofabitches.",
+    "Gloryhole sex at a Waffle House.",
+    "Black people talking too goddamn loud at the movies.",
+    "Forgetting to yell HADOUKEN when you cum.",
+    "Giving a BJ with a mouth full of Pop Rocks.",
+    "A mongoloid on a leash at the flea market.",
+    "A VHS porn collection.",
+    "Thinking \"tardy\" means \"like a tard\".",
+    "Fake tits that conceal hand grenades.",
+    "Busted pussy.",
+    "Titty sprinkles.",
+    "National Geographic tits.",
+    "Getting dick-slapped by 30 of your closest friends.",
+    "The kind of asshole that will put salt in your coffee.",
+    "Goddamn Jehovah's Witnesses.",
+    "Long titties.",
+    "The googly eyes on my dick.",
+    "Shitting your pants coughing because you hit the bong too hard.",
+    "Watching my mother-in-law shower.",
+    "The whiskey shits.",
+    "None of your fuckin business.",
+    "Organic vegan dildoes.",
+    "Choke sex.",
+    "Cold pussy.",
+    "Kids you can tell are gonna turn out fuckin stupid.",
+    "Being a complete bastard just for fun.",
+    "Watching \"Ernest goes to...\" movies on purpose.",
+    "Mesopotamian turd art.",
+    "Free weed.",
+    "Letting that bitch princess from Super Mario burn.",
+    "A hooker that takes Groupon.",
+    "Jell-O shots laced with Valtrex at a swinger party.",
+    "Claiming clean drug test piss as a business expense on my taxes.",
+    "A chick that looks like a goddamn bat without makeup.",
+    "Gallons upon gallons of semen. Just goddamn everywhere.",
+    "Hereditary dumbfuckery.",
+    "Pussy that's past the 'use or freeze by' date.",
+    "Getting multiple erections watching Saw III.",
+    "Grilled pork anus.",
+    "Chronic masturbation.",
+    "Falsetto phone sex.",
+    "Fucking lightweights.",
+    "Hands-free orgasm(s).",
+    "Fuckin goddamn pirates.",
+    "An 8 year old that already has saggy tits.",
+    "Getting shitfaced with your mildly retarded cousin.",
+    "Cunts.",
+    "Lip gloss on my asshole.",
+    "Dick fleas.",
+    "Clown sex under a strobe light.",
+    "Fucking your mom.",
+    "An illegible suicide note.",
+    "Half caf grande, double sweet, double jizz.",
+    "The bone in a dolphin's penis.",
+    "People who say \"per se\" all the goddamn time.",
+    "Refusing to drink water because fish fuck in it.",
+    "Using \"ass\" as a verb.",
+    "Paisley gimp masks.",
+    "Scaly pussy.",
+    "Fucking your teacher for better grades.",
+    "Budgeting for anal penetration.",
+    "Sitting on your balls.",
+    "Dick pics from William Shatner.",
+    "Being retard strong.",
+    "Dog shit in your hat.",
+    "A first edition of the Anal Sex Manual on eBay for 30 bucks.",
+    "French fries up my/your/his/her/its ass.",
+    "Not being able to understand a goddamn word the guy from tech support says.",
+    "Conjoined twin porn.",
+    "Daddy's new vagina.",
+    "That dude that always goes \"Guys! Hey guys! Listen to this!\" and then says something fuckin stupid.",
+    "Taking a shit so big I/you/he/she have/has to climb down to flush.",
+    "A spectacular mindfuck.",
+    "Your mom's good titty.",
+    "Church sanctioned incest."
+  ],
+  "pack": {
+    "id": "4HXPG",
+    "name": "Disaster Porn"
+  },
+  "quantity": {
+    "black": 103,
+    "white": 347,
+    "total": 450
+  },
+  "dateStoredMs": 1589068730289
+}

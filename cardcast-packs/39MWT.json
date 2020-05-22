@@ -1,0 +1,59 @@
+{
+  "black": [
+    {
+      "content": "Timmy Timmy Timmy Turner, he be wishing for  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What a time...to be alive...you and yours vs _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"I Feel Like _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you heard this song? \"_\" by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Have you seen the new ASAP member, _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"21 Savage a.k.a _, huh?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Picture me in the club, _ all around.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Saying the N word because you are Black.",
+    "Kanye West beating a white photographer.",
+    "Kanye West.",
+    "The Black Half of Drake.",
+    "Future's fourth child, Future.",
+    "Putting your thumb up her butt.",
+    "Desiigner screaming \"GIT GIT GIT GRRRRRRAAAAHHH\".",
+    "Black Skinhead."
+  ],
+  "pack": {
+    "id": "39MWT",
+    "name": "Music"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 8,
+    "total": 15
+  },
+  "dateStoredMs": 1589473864302
+}

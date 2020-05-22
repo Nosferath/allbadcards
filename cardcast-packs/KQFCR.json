@@ -1,0 +1,94 @@
+{
+  "black": [
+    {
+      "content": "Giovanni is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nami is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paulo is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ana is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adrian is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jonathan is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lucky is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mike is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Renan is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ferraz is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bolsonaro is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vini is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Haucho is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lucky.",
+    "Mike.",
+    "Nami.",
+    "Renan.",
+    "Adrian.",
+    "Giovanni.",
+    "Jonathan.",
+    "Bolsonaro.",
+    "Haucho.",
+    "Ferraz.",
+    "Paulo.",
+    "Ana.",
+    "Vini."
+  ],
+  "pack": {
+    "id": "kqfcr",
+    "name": "Pack dos Nome"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 13,
+    "total": 26
+  },
+  "dateStoredMs": 1588998668745
+}

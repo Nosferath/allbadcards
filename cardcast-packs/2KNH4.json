@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "But you say she's just a _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to escape the Allies, Adolf Hitler fled to _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Chef Macks.",
+    "The Jews.",
+    "/k/.",
+    "Guy Fieri eating a taco.",
+    "Biz Markie.",
+    "6 Million.",
+    "Steve Buscemi wearing an SS uniform.",
+    "Naked Hitler.",
+    "Literally just a meme.",
+    "Hitler.",
+    "Argentina.",
+    "F R I E N D S."
+  ],
+  "pack": {
+    "id": "2KNH4",
+    "name": "Literally the Holocaust"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 12,
+    "total": 14
+  },
+  "dateStoredMs": 1589228672665
+}

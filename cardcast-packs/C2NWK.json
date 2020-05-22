@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Call 2? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call 1? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call 0? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Response 9.",
+    "Response 2.",
+    "Response 0.",
+    "Response 5.",
+    "Response 4.",
+    "Response 6.",
+    "Response 8.",
+    "Response 7.",
+    "Response 1.",
+    "Response 3."
+  ],
+  "pack": {
+    "id": "C2NWK",
+    "name": "Test"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1588713787184
+}

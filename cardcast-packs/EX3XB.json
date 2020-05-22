@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "I never thought when the end times came people would be hoarding _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Filling up the baby's bottle with_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you hitting it raw and she shouts___________ _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you enjoy_________________._, it's because you are weak, your bloodline is weak, and you will not survive the winter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stay Alert, protect the NHS & ______________._",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need a pack of menthol filters, a bottle of hand sanitizer &_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo Boris just legalized_____________._",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitches love _____&_____._",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "123."
+  ],
+  "pack": {
+    "id": "EX3XB",
+    "name": "Mac Against Humanity"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 1,
+    "total": 9
+  },
+  "dateStoredMs": 1589490042666
+}

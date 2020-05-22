@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "By alchemizing _ + _ you have created _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "SQZ3Z",
+    "name": "100% Homestuck Trash"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588816572687
+}

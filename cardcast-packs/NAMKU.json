@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "Ben werd omwille van _  bijna van kot gestuur",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Joëlle.",
+    "Eliat-Eliat.",
+    "Bram.",
+    "Noa.",
+    "Ben.",
+    "Gerda.",
+    "Grégory.",
+    "Baan.",
+    "Dirk de directeur.",
+    "Kamiar.",
+    "Alex.",
+    "Charlotte.",
+    "Sofie W.",
+    "Margot.",
+    "Sofie Vde.",
+    "Béné.",
+    "Het pissen en spauwen in de gang."
+  ],
+  "pack": {
+    "id": "NAMKU",
+    "name": "LV"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 17,
+    "total": 18
+  },
+  "dateStoredMs": 1588606339895
+}

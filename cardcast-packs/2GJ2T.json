@@ -1,0 +1,118 @@
+{
+  "black": [
+    {
+      "content": "I am once again asking for your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumor has it that the White House will serve _ for its next foreign ambassador.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a shocking reveal, Beyond Burgers were discovered to contain _ as the main ingredient.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fox News Latest: Liberals now accusing Trump of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What scientists and big pharma won't tell you is that their \"vaccines\" contain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Announcing the 2020 Democratic candidate and running mate: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mike Bloomberg spent thousands of dollars to feature _ in his latest campaign commercial.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In today's tweet, Trump accused the DNC of sabotaging him with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "President Trump has stated that he will reinforce the borders with _ if re-elected.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Confederate flag is history! It's heritage! It's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest Gen Z fad involves _ and _ at the same time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This year's Super Bowl half time was disgusting. Whatever happened to wholesome, family friendly entertainment like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If elected president, I plan to create jobs in the _ industry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After winning the Super Bowl, the Chiefs celebrated with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what all these Socialist Libs really want? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On this season of Keeping Up with the Kardashians, Kim and Kourtney throw down over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OMG, I saw the funniest TikTok! It involved _ and _ with _ at the end.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Getting too tan and being deported by I.C.E.",
+    "Believing Corona(TM) Extra can cause Coronavirus.",
+    "Ben Shapiro.",
+    "Saying ok to a Boomer and meaning it.",
+    "Fearing your Asian American coworker who has never been to China has Coronavirus.",
+    "Combating Coronavirus with essential oils.",
+    "Bernie Sanders flail.",
+    "Whatever George W. Bush is up to right now.",
+    "Buttigieg doing a lil' booty jig.",
+    "Unironically enjoying the Sonic the Hedgehog movie.",
+    "Mitt Romney's redemption arc.",
+    "Binging Netflix in order to shut out the depressing state of our reality.",
+    "Bernie Sanders losing his Shalom.",
+    "Elizabeth Warren's Native American half.",
+    "Still feeling enraged about the final season of Game of Thrones.",
+    "Melania toting an automatic and wearing nothing but a strategically placed US flag.",
+    "A coke-fueled hate sex orgy between the anchors of Fox News and CNN."
+  ],
+  "pack": {
+    "id": "2GJ2T",
+    "name": "America and Friends 2020"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 17,
+    "total": 34
+  },
+  "dateStoredMs": 1588716547025
+}

@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "Write a _ star review from the perspective of _ related to _",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Three stars.",
+    "One star.",
+    "Privacy.",
+    "Five stars.",
+    "Birds."
+  ],
+  "pack": {
+    "id": "46RGB",
+    "name": "JC test"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588876449034
+}

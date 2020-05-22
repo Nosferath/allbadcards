@@ -1,0 +1,20 @@
+{
+  "black": [],
+  "white": [
+    "Big lion.",
+    "The first example response.",
+    "Noun-like phrasing.",
+    "Minimal punctuation.",
+    "The proper noun Jerry."
+  ],
+  "pack": {
+    "id": "QP82T",
+    "name": "The boys"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 5,
+    "total": 5
+  },
+  "dateStoredMs": 1589317425377
+}

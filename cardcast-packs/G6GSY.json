@@ -1,0 +1,148 @@
+{
+  "black": [
+    {
+      "content": "My gender is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has just come out of the closet, shocking nobody.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Should _ be allowed in the LGBT community?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + bottoming don't mix.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I come out of the closet? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Straight people just don't understand _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I kissed _ and I liked it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Gay Agenda for today is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is he... y'know... _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The winner of Rupaul's Drag Race is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you're not born gay, why did I like _ when I was a kid?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want to see or be seen by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Category is: _ realness.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The headline act for Pride this year is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Macklemore and Ryan Lewis have teamed up once again to write a new song for the gay community called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new foreign film is taking the world by storm: \"_ Is The Warmest _\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bisexuals aren't greedy, they're just _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Scissoring.",
+    "The entire cast of The L Word.",
+    "Grindr.",
+    "Bears.",
+    "Being cisgender.",
+    "Topping.",
+    "Power bottoms.",
+    "RuPaul.",
+    "Reclaiming slurs.",
+    "Coming out of the closet.",
+    "White cis gay men.",
+    "Butch.",
+    "Ellen Degeneres.",
+    "Charisma, Uniqueness, Nerve, and Talent.",
+    "Macklemore.",
+    "Hairy man-hating lesbians.",
+    "Lipstick lesbians.",
+    "Sashaying away.",
+    "Being gay but not fabulous.",
+    "A strap-on.",
+    "Saying \"yaas\" all the time.",
+    "They/them pronouns.",
+    "Lipsyncing for your life.",
+    "Tegan and Sara.",
+    "Straight allies.",
+    "Straight people.",
+    "Femme.",
+    "A drag queen.",
+    "Being transgender.",
+    "The Stonewall riots.",
+    "The Westbro Baptist Church.",
+    "A dental dam.",
+    "Poppers.",
+    "Twinks.",
+    "The gender binary.",
+    "Same-sex marriage.",
+    "Internalised homophobia.",
+    "My favourite mythological creatures, bisexuals.",
+    "Bisexual erasure.",
+    "Moving in together a week after you start dating.",
+    "The wholehearted belief that Donald Trump isn't homophobic, because he touched a pride flag one time.",
+    "A kiki.",
+    "Ripping out anal beads like you're trying to start a lawn mower.",
+    "Bisexuals.",
+    "Going down on someone and getting pubes stuck in your teeth.",
+    "A double sided dildo.",
+    "Asexuals."
+  ],
+  "pack": {
+    "id": "G6GSY",
+    "name": "lgbt"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 47,
+    "total": 64
+  },
+  "dateStoredMs": 1589509191197
+}

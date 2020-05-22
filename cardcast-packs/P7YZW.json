@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Well, when _ gives you _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Where is my _ suit?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "PATRICIA."
+  ],
+  "pack": {
+    "id": "P7YZW",
+    "name": "Cards Against Vine"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 1,
+    "total": 3
+  },
+  "dateStoredMs": 1588456531964
+}

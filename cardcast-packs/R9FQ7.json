@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "Izuku and All Might together make _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can become _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When accepting new teens, U.A. looks for _ in their students.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Bakugou gets home from school everyday, he _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bakugou's stupid hair."
+  ],
+  "pack": {
+    "id": "R9FQ7",
+    "name": "My Hero Academia"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 1,
+    "total": 5
+  },
+  "dateStoredMs": 1589328897694
+}

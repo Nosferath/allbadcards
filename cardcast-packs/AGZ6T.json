@@ -1,0 +1,93 @@
+{
+  "black": [
+    {
+      "content": "Ubojnia ! _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jan Paweł II _ Młode _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Za górami, za lasami, żyli ludzie z _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pokazesz mi _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co rośnie w Sosnowcu? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co mówi baba w klozecie? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy _ razem z _ tworzą najlepszą pare",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prosze księdza mam problem z _ ale pomaga mi _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To ptak? Nie, to samolot? Nie, to przecież _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdzie leży polska? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Martwe kotki.",
+    "Jak Tomasz Karolak.",
+    "Jaja w klozecie.",
+    "Zespół raka.",
+    "Kurwy jebane ciężkim walcem.",
+    "Katastrofa analna.",
+    "Sie robie sie ma.",
+    "Ból prawej łydki od strony lewego płuca kolana czoła.",
+    "Mały niepełnosprawny kujawiak.",
+    "Robienie kupy na stojąco.",
+    "Bardzo ogromny KALAFIOR.",
+    "Cycki w majonezie.",
+    "Niby tak, ale kurwa nie dokońca.",
+    "Sutki obdarte wiatrakiem.",
+    "Olej silnikowy przepuszczony przez łożysko.",
+    "Rengar kampiący w krzakach.",
+    "Sosnowiec.",
+    "Małe rozjebane dziecko.",
+    "Szet rzułf na fshut.",
+    "Głowa Pani kościelnej.",
+    "Wiecej sosnowca.",
+    "Piercing genitaliów.",
+    "WYPIERDALAC Z SOSNOWCEM.",
+    "Jesteś jebanym przegrywem.",
+    "Lubie krokiety.",
+    "Chuj z tym i tak nie znajde dziewczyny.",
+    "Jebany ryż."
+  ],
+  "pack": {
+    "id": "AGZ6T",
+    "name": "KIEMON-POLSKA"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 27,
+    "total": 37
+  },
+  "dateStoredMs": 1588613271179
+}

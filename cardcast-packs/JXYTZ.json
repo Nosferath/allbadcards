@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Kiedy skończyłem budować dom _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy stawiałem klocka _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Twoja stara zesrała mi się przed wejściem.",
+    "Twoja stara chciała mi dać dupy."
+  ],
+  "pack": {
+    "id": "JXYTZ",
+    "name": "polska polskie karty 1"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1589282216705
+}

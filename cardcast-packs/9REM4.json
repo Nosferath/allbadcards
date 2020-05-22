@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "I stuck my __ into a _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "9REM4",
+    "name": "Cards Against Sex"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589282215738
+}

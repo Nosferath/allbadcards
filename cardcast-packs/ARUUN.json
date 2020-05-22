@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "I can has _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _. I love every kind of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Okay, but imagine _ with cats!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everytime you masturbate, god kills  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ceiling cat is watching you _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Grumpy cat.",
+    "Lolcats.",
+    "Keyboard cat.",
+    "Ceiling cat.",
+    "Longcat.",
+    "Caturday.",
+    "Kitten.",
+    "Cheezburger.",
+    "Nyan cat."
+  ],
+  "pack": {
+    "id": "ARUUN",
+    "name": "Cats"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 9,
+    "total": 14
+  },
+  "dateStoredMs": 1588465095357
+}

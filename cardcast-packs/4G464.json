@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Dammit Jim, I'm a _ not a _ !",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "4G464",
+    "name": "star trek"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1588808020641
+}

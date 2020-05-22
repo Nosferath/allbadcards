@@ -1,0 +1,40 @@
+{
+  "black": [
+    {
+      "content": "_, _ & _. A normal wednesday at The Bell.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Doing a Joe Wicks's workout until you pass out and die.",
+    "Eating a giant pizza off of Kim Jun Un's back.",
+    "Something something something Boris Johnson.",
+    "Liv.",
+    "James.",
+    "Opium Bar.",
+    "Will.",
+    "Frankie.",
+    "Sam's bowel movements.",
+    "Upper Bristol Road.",
+    "Harriet.",
+    "Brewed Boy Matt.",
+    "Harriet's gammy leg.",
+    "Sam.",
+    "Bath.",
+    "Liv's house.",
+    "The Bell.",
+    "Check shirts.",
+    "One swole bastard."
+  ],
+  "pack": {
+    "id": "4SST4",
+    "name": "Corona"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 19,
+    "total": 20
+  },
+  "dateStoredMs": 1588451626220
+}

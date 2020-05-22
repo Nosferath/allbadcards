@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "In the new episode of Boku no Pico, Pico, Chico and Coco are _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is the uke? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "#Rapeiscute.",
+    "Seke.",
+    "Killing stalking.",
+    "Fujoshi.",
+    "RAAAPE.",
+    "Jesper is an uke.",
+    "Yaoi.",
+    "Seme.",
+    "Fudanshi.",
+    "Uke."
+  ],
+  "pack": {
+    "id": "D5SJP",
+    "name": "Yaoi"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1589074573882
+}

@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "I sear by _, I will end you.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tMy pretty floral bonnet.",
+    "\tGorram Reavers.",
+    "\tJoss Whedon one-liners.",
+    "\tBrowncoats.",
+    "\tChrinstina Hendricks' epic prow.",
+    "A leaf on the wind.",
+    "\tWhen Fox cancels your favorite show.",
+    "\tThe Chain of Command.",
+    "\tA second season of Firefly.",
+    "\tLearning how to swear in Mandarin Chinese.",
+    "\tA very cunning hat.",
+    "\tMudder's Milk.",
+    "\tYour sudden but inevitable betrayal.",
+    "\tNathan Fillion's Twitter Feed.",
+    "\tI can kill you with my brain.",
+    "\tThe evacuation of Earth-That-Was."
+  ],
+  "pack": {
+    "id": "GNJUR",
+    "name": "Nerds Against Humanity / FireFly"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 16,
+    "total": 17
+  },
+  "dateStoredMs": 1588808020947
+}

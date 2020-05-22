@@ -1,0 +1,716 @@
+{
+  "black": [
+    {
+      "content": "Peter piper picked _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Dan with one of the cards in your hand. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doctors hate him, find out this one Stockton geyser's trick to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made dinner awkward at  the family table? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know you're a redneck when you're _ in a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I got the nickname _ , when I was caught _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "go red ranger, blue ranger and the newest member _ ranger!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "there's  _ in my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why do they all sound like they've got a potato stuck in their throat? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How'd I lose my walllet? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a professor in the art of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Mahdi discovered women don't wear hijabs in England, he _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the 6th day God created _ and it was good.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did i find in the endeavor suite ? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe George with one of your cards _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are there so many _ in  _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My uncle just mentioned _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In order to make your own fleshlight, first take a _ , then take _ and stick it to a _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When I was two, I first experienced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't expect to find _ in the toilet stall!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mother left my dad because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love nothing more than a good _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dora the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing hurts more than hearing your dad say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's a good substitute for a girlfriend? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "what's the worst that could happen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Monty with one of your cards _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Greg fell to the ground in pain, yelling _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "what do you get when you cross a _ with a _. A _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ ruined my childhood",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I rearranged all the letters on the school keyboards to say _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr White actually lost his finger because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The long awaited sequel to finding Nemo, Finding _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week, you  get your very own lootcrate exclusive _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tesco's every _ helps!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're too young for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The day was ruined because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I met Anakin when I found him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My first words as a child were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I jumped in the man's van, I didn't expect to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night Mohammed made _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My school year was going great until I walked into the toilets to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear that, that's the sound of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wht u chatin fam? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "my _ senses are tingling.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I rearranged all the letters on the school keyboards to say _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Sam with one of your cards. _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "honey, why's our baby _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mummy, what's a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tell me the story again George! We're gonna have a little farm and i'm gonna tend the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a university degree in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus fed the 5000, simply with _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You know what really grinds my gears? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can I taste in my mouth? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know she's basic when she likes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never knew Anakin was  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just wrote _ on the toilet wall!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's in my basement? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No one can hear you _ in space.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I realized it was time to stop the party when I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last words my dad said to me were _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If only you were as good at English as you are at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you've experienced _ in the workplace, you might be entitled to ppi compensation.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You too can _ like me, KACHOW!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "have you seen my new compact _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what they say, if you can't beat them _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh mr Broccoli, my mother says I  should eat you. Well Timmy, you shouldn't listen to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in the good old days they used to have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing says I love you like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "you know what's funny, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I met George when I found him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus survived thirty days and thirty nights of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Some kid wrote _ on my van.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "buzz look a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I made a new cocktail, I call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Anakin with one of your cards_ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Mini leave Mickey mouse for? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Adrian's voice so low? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I met Monty when I found him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't understand why people like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm 50% _ and 49%  _ with a little bit of _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "why do I hurt all over? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate being   _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "North korea has just launched _ striking the west coast of the U.SA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's only one thing worse than a rapist, and that's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Student arrested after wearing gorilla mask, handing out _ at black lives matter protest.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ always gets the pussy's wet.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Soviet anthem.",
+    "Bend over.",
+    "Garry Parry.",
+    "Self harm.",
+    "A line of crushed Ibuprofen.",
+    "Towel heads.",
+    "The gulags.",
+    "Performing colonoscopy's.",
+    "6 million wasn't enough.",
+    "Rehearsing the entire monsters inc script.",
+    "A barrel of starving Ethiopians.",
+    "I miss not being in a wheel chair.",
+    "A failed prison break in roblox.",
+    "The gays.",
+    "*Roblox death sound*.",
+    "Reading the entire communist manifesto to a group of orphans.",
+    "A team of indian tec-support.",
+    "Beating my children till they learn to suck.",
+    "A failed Kamikaze mission.",
+    "The haunting stare of mahdi seeing women without the hijab.",
+    "The haunting stare of an iraqi child.",
+    "The fine leather Gregory's jacket is constructed of.",
+    "Muslims don't have rights.",
+    "School toilets.",
+    "My left big toe.",
+    "Those kids with polio who don't know how to walk.",
+    "Tiny replica of the star destroyer.",
+    "Giving illegals a quick suck behind border control.",
+    "White privilege.",
+    "An orange with a hole in it.",
+    "Gas them.",
+    "30 year old men.",
+    "The fabulous hudson hornet.",
+    "Erect.",
+    "Mummy's gag.",
+    "Rule the third reich.",
+    "My uncle just mentioned vajazzle.",
+    "Perform abortions.",
+    "Where's my blu-ray version of shark tale?.",
+    "Some peppers.",
+    "Henry hoover giving me the suck.",
+    "*911 occurs*.",
+    "*george raised the gun*.",
+    "#GAINZ.",
+    "India's uncle.",
+    "Christian stoning.",
+    "Ironic card talking about dyslexica.",
+    "In the sewers.",
+    "Drop kicking children out the window.",
+    "The grease off Mr Gregory's jacket.",
+    "Replaced the background of every computer with pictures of Isis beheadings.",
+    "Bringing back the African slave trade.",
+    "African lives have value.",
+    "Jewish nose.",
+    "The zika virus.",
+    "Really crusty climax.",
+    "Constipated liberal.",
+    "The gas chambers.",
+    "Beat all the women in school to bestow allah's grace upon them.",
+    "The bruises on Georges arms from when his cousin took him around the alley way.",
+    "Disabled.",
+    "In the closet.",
+    "The entire population of Africa.",
+    "Lynch the blacks.",
+    "Why wasn't i aborted?.",
+    "Fighting the Vietnamese.",
+    "The feeling when Jamal tries to escape the dungeon, come back you silly rascal.",
+    "Mongoloids.",
+    "Slit of a wrist.",
+    "With a group of 5 year olds with polio.",
+    "Minecraft lets player.",
+    "A mosquito sucked blood from the urethra.",
+    "Anakin's Jimmy Carr laugh.",
+    "Mahdi's pc building shack.",
+    "Beating women.",
+    "Abortion clinics for Christians.",
+    "Dan's inability to read.",
+    "Money hungry jew.",
+    "Little Lebanese slave.",
+    "Call - 020 7825 2505 for a quick blow.",
+    "The fact Dan can't read as well as Monty who has an excuse.",
+    "*Minecraft death sound*.",
+    "The feeling when you pull out just before you nut inside your pet boar.",
+    "Muslim beards.",
+    "Begin the final solution.",
+    "The hair of a child going through chemo therapy.",
+    "Running a child exploitation ring.",
+    "Mr Gregory.",
+    "*Invasion of Afghanistan occurs*.",
+    "Avid child rapists.",
+    "Mahdi.",
+    "Penny.",
+    "Little ginge.",
+    "The jews.",
+    "Illegal goat herder.",
+    "My Muslim neighbors.",
+    "An overdose of paracetamol.",
+    "A horrific seppuku failure.",
+    "African american amigo.",
+    "The prequels.",
+    "Garry Parry.",
+    "Rice farmers.",
+    "Performing my own abortion.",
+    "Snort pure black tar heroin.",
+    "True communism.",
+    "Tiny urethra.",
+    "My dad at the cigarette store still.",
+    "Blacks that we stole.",
+    "Cuphead rule 34 fanfic.",
+    "Crusty sock.",
+    "Gregers on a scooter.",
+    "Jeremy Corbyn's soviet utopia.",
+    "Assault your wrists.",
+    "Abortions.",
+    "Mahdi's pencil mustache.",
+    "The Muslim regime.",
+    "*migration crisis occurs*.",
+    "The time we had to execute order 66.",
+    "Public toilets.",
+    "Those negros who pick the cotton for me.",
+    "A horrific creeper accident.",
+    "Enslave the entire population of china.",
+    "A-lad-din.",
+    "The gay agenda.",
+    "The childhood trauma when I realized Nemo's lucky fin was really caused by a horrific incident in which marlin whipped him.",
+    "A fruity mix.",
+    "Anakin's plait which doubles as a gag for when he's being raped in the bin.",
+    "My crusty sock.",
+    "Dead babies.",
+    "Minecraft parody's.",
+    "Shoot up the school.",
+    "Teachers giving me the cane like daddy.",
+    "Ya mam ayy fam hit me up blad.",
+    "Little chemo kids.",
+    "The columbine shooting wasn't that bad.",
+    "Lynch crooks from mice and men.",
+    "Stalin.",
+    "People with mild autism.",
+    "Just kick the bucket.",
+    "A seagull's gullet.",
+    "Cars 2.",
+    "Arabian warlords.",
+    "My uncle Tim.",
+    "The left over jewish corpses.",
+    "Child abductor.",
+    "Riding Mufassa's dead corpse.",
+    "Hiding in Mahdi's Iranian computer dungeon.",
+    "*assassination of JFK occurs*.",
+    "Mahdi the tech support guru.",
+    "The lord jesus christ, amen.",
+    "A cheeky bit of pork and beans.",
+    "My dad and sister doing it doggy style.",
+    "Black.",
+    "TYRONE BACK IN THE SHED.",
+    "Jews, just masses upon masses of Jews.",
+    "People with crippling disabilities deserve to be put down.",
+    "As brown as a chocolate bar.",
+    "Dicks like elephant trunks.",
+    "With 8 kids in my van.",
+    "A racial slur.",
+    "Malaria.",
+    "Halal curry serving.",
+    "Eliminating an entire ethnicity.",
+    "Dan's midget family.",
+    "Two immobile underage children.",
+    "No racial slurs in my christian household.",
+    "Oedipus.",
+    "Ethiopian gambling ring.",
+    "Tiny Mongolian children reenacting the great charge of Genghis khan.",
+    "Monty's crippling autism.",
+    "A three hour long erection.",
+    "Prison convicts.",
+    "Jews aren't human.",
+    "Child molester.",
+    "A nickel dropping.",
+    "A dead abortion fetus.",
+    "Daddy's belt.",
+    "A whole egg.",
+    "A family friendly response.",
+    "Negro.",
+    "Hitler did nothing wrong.",
+    "Walk in sex dungeon.",
+    "My wife is such a whore.",
+    "The scene where Mufassa  gets fucking hard scoped, ripparoo.",
+    "A collection of tiny Hitler body pillows.",
+    "Sticking my dick in the mayonnaise.",
+    "Wanking to domestic abuse, George you sick fuck.",
+    "Cunt.",
+    "Fucking a skull so hard I broke it.",
+    "Reenacting Hitlers speeches.",
+    "A tiny yellow man's penis.",
+    "Fuck them raw.",
+    "Child rapist.",
+    "The feeling of my dick in my goat.",
+    "Fresh horse bollocks.",
+    "A sample of rare bull semen.",
+    "Wank stain.",
+    "Those fucking muslims who live on my road.",
+    "Dan's small penis which looks massive in his hands.",
+    "Wnt sum fuk.",
+    "Seeing the local muslim fuck his goat.",
+    "Sam's collection of hentai body pillows.",
+    "Chicken wings with niggers.",
+    "Suck cock.",
+    "Deporting those fucking muslims.",
+    "Hitler didn't discipline them enough.",
+    "David Cameron with his dick in a pig.",
+    "Wanking to an image of pepe the frog.",
+    "An anal pounding so raw that it causes a flashback whenever he sees his reflection in a mirror.",
+    "Wanking to my little pony, Sam you sick fuck.",
+    "Suck my 5.3 inch dick.",
+    "Prison rape.",
+    "With my dick in my sister.",
+    "A buzz lightyear sex doll.",
+    "Furiously rape your right hand.",
+    "The neighborhood rapist.",
+    "My collection of Nazi propaganda.",
+    "An experience in Vietnam eating their shitty rice.",
+    "Little German children, oompa llumpa lookin ass.",
+    "The word ''Nigger''.",
+    "Raging neo nazi.",
+    "Hitler's left testicle.",
+    "Adrian's fucked voice.",
+    "Bestiality.",
+    "Underage sex offenders.",
+    "Sexual tension over Mahdi in his tight Iranian pants.",
+    "Fucking degenerate.",
+    "Cockroach penis.",
+    "Touching Bailey brown for revenge.",
+    "Fucking my mother.",
+    "The niggers.",
+    "Asians with tiny penises.",
+    "My dead uncle's buried foreskin.",
+    "A good fuck in the bin.",
+    "Hitler's left testicle.",
+    "Drenched pussy.",
+    "Pure Mexican cum.",
+    "Done with your shit.",
+    "A pair of underage balls.",
+    "Cross bread between a Muslim suicide bomber and an everyday British chav.",
+    "Dead niggers.",
+    "Deport those fucking muslims.",
+    "Hitler.",
+    "Mr gregory on pornhub.",
+    "Eve Murray  beating the ever living shit out of George.",
+    "Furious anal poundings.",
+    "Eye fucking.",
+    "Cuntcicle's.",
+    "Niggers don't have rights.",
+    "Chicken with nigger wings.",
+    "The jewish fish in finding nemo's arch rival, that pink fucking special star fish, what a cock sucker.",
+    "The secret whore in my basement.",
+    "That fucking Jew of a fish in finding Nemo who guards that chest, cheeky cunt.",
+    "Fuck the negros.",
+    "You're fucked."
+  ],
+  "pack": {
+    "id": "2DC8F",
+    "name": "Anakin's Amateur Anal Antiques!"
+  },
+  "quantity": {
+    "black": 89,
+    "white": 255,
+    "total": 344
+  },
+  "dateStoredMs": 1589510716682
+}

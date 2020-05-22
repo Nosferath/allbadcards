@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "What if _ Was _?",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "The next Papyrus.",
+    "Asriel."
+  ],
+  "pack": {
+    "id": "6Y6N4",
+    "name": "Undertale"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1588648322100
+}

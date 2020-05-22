@@ -1,0 +1,231 @@
+{
+  "black": [
+    {
+      "content": "Broom, broom. I'm in _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does this slide look like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Hello? Oh my fucking god she fucking dead",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite screamo band is probably _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Toss me my keys!\" \"I thought you said _!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Let me see what you have!\" \"A _!\" \"NO\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, welcome to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Can I get a wakeup call?” “Yes ma’am. _ did _.”",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? That is so early 2014 you STUPID FUCKING DINOSAUR",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there are any spirits here tonight, please tell me-does this sound like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lookit! Lookit! It's fricken _. I love _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dude, why is that guy so good at _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh, girl, come look at this, they got a _ exhibit, you know that's your favorite.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Judy here on third street, with a _.... at _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This _ will exist for possibly hundreds of years after I die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"911, is it an emergency?\" \"No...\" \"Then what is it?\" \"_!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Wanna play _?\" \"No, you always try to sing over it.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm washing my and my _, bitch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm a lesbian.\" \"...I thought you were _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's a _! Thanks...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "“Can you pass the popcorn?” “Um, this is a _.” “Oh. This movie sucks ass!”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "...And they were _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at all those _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He just swallowed a _, mothafucka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chris! Is that a _? I'm calling the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Anyone ever tell you you look like _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah, fuck, I can't believe you've _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey, guys, sorry I have to whisper, I'm at a funeral. Today I'm going to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey. I want to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone is so obsessed with their phones and internet, nobody even takes the time to notice how many _ I have.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've wanted to live in _ my whole life. Wow, it is amazing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got two free _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blaze it. Just kidding! It's from my _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is _ my dudes.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Racoon.",
+    "Funeral.",
+    "Hurricane tortilla.",
+    "Christmas Tree.",
+    "Ramen noodle.",
+    "Reviewing Razzles.",
+    "Bowling.",
+    "Printer.",
+    "Police.",
+    "Mario Kart.",
+    "Beyonce.",
+    "Avacado.",
+    "Miss Keisha.",
+    "A maniac vacuum cleaner.",
+    "Video of me wearing my face as a wig.",
+    "Shakira.",
+    "Tacos.",
+    "Butthole.",
+    "Duck army.",
+    "Photobombing.",
+    "Lafee savyiers.",
+    "Wednesday.",
+    "Halloween.",
+    "Rat in walmart.",
+    "Big Time Rush.",
+    "Macaroni and che-heese.",
+    "American.",
+    "Chickens.",
+    "Weed.",
+    "Windows Vista.",
+    "Lebron James.",
+    "Me mum's car.",
+    "YEET.",
+    "Roommates.",
+    "Famous.",
+    "Metal chairs.",
+    "An owl that sells drugs.",
+    "Clothes.",
+    "Bush.",
+    "Copy machine.",
+    "Bats.",
+    "Roach.",
+    "Shalissa.",
+    "Chili's.",
+    "Fre sha vacado."
+  ],
+  "pack": {
+    "id": "CDEYA",
+    "name": "Vines"
+  },
+  "quantity": {
+    "black": 34,
+    "white": 45,
+    "total": 79
+  },
+  "dateStoredMs": 1588433812756
+}

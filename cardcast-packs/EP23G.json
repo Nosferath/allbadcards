@@ -1,0 +1,47 @@
+{
+  "black": [
+    {
+      "content": "_ is the modern-day Myspace.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ain’t nobody got time for _,",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing I regret is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ keeps me up at night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If only we’d known about _ sooner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don’t feed gizmo after midnight or you may end up with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "None."
+  ],
+  "pack": {
+    "id": "EP23G",
+    "name": "RetroGame_BadCards"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 1,
+    "total": 7
+  },
+  "dateStoredMs": 1588968511729
+}

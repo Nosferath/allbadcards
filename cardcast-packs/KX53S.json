@@ -1,0 +1,72 @@
+{
+  "black": [
+    {
+      "content": "_ is the devil !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the greatest nation of all !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The communism symbol is actually _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For _ !!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, your _ coupons aren't valid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean _ is better ? _ is the best !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The _ by _ was the greatest book of all time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No, sorry I have _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Vladimir's tamed bears.",
+    "Communist Manifesto.",
+    "Potatoe field work.",
+    "Josef Stalin.",
+    "Workers.",
+    "Capitalism.",
+    "Gulag.",
+    "Alexander Kerensky.",
+    "Leon Trotsky.",
+    "Soviet.",
+    "Mother Russia.",
+    "Vodka.",
+    "USSR.",
+    "Vladimir Lenin.",
+    "Karl Marx.",
+    "Communism."
+  ],
+  "pack": {
+    "id": "KX53S",
+    "name": "Communism"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 16,
+    "total": 24
+  },
+  "dateStoredMs": 1588928174671
+}

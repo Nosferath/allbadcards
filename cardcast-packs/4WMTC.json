@@ -1,0 +1,109 @@
+{
+  "black": [
+    {
+      "content": "_. That's gabe's aesthetic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Calvin's aesthetic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My aesthetic is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Erin's aesthetic: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s aesthetic? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Olive's aesthetic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam's aesthetic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blake's aesthetic: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My blog is _ posts only.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not a phase mom! it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Katie's aesthetic is definitely _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ally's aesthetic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sati's aesthetic is 100% _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My aesthetic is _ _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "My aesthetic.",
+    "Glitter memecore.",
+    "Gore.",
+    "Glow.",
+    "Punk.",
+    "Assimilationist hippie.",
+    "Goth dad.",
+    "Fashion dad.",
+    "90s mom.",
+    "Pale.",
+    "Sloth wave.",
+    "Memecore.",
+    "Neopets.",
+    "Pale punk.",
+    "Pastel.",
+    "Meme god.",
+    "Grunge.",
+    "Brony.",
+    "Scene.",
+    "Kawaii.",
+    "Consumerism grunge.",
+    "Meadow goth.",
+    "Snail mom."
+  ],
+  "pack": {
+    "id": "4WMTC",
+    "name": "BLEHK aesthetic expansion"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 23,
+    "total": 37
+  },
+  "dateStoredMs": 1588411319812
+}

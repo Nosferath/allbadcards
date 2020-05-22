@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "Mother , do you think they'll drop the _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wots... uh the deal?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And that one looks _ , and that one's a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Careful with that _ , Eugene.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who let all of this _ into the room?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Roger Waters wont stop crying about_ in Pink Floyd: The wall.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Seamus the dog.",
+    "Roger Waters.",
+    "Nick Mason.",
+    "His dead daddy.",
+    "Pink.",
+    "Syd Barrett.",
+    "David Gilmour.",
+    "Richard Wright."
+  ],
+  "pack": {
+    "id": "R7SY3",
+    "name": "Pink Floyd"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 8,
+    "total": 14
+  },
+  "dateStoredMs": 1589499133560
+}

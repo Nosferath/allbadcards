@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Oh god, Darkness just found out about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kazuma... You're really _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's only one thing scarier than being Isekai'd, and that is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I'm not thinking of explosions, I'm thinking of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I yearn for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe I get to use _ twice in a day!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only one thing is better than walking the path of explosions, and that is_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You've come to understand the path of _, Kazuma. How about it?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Darkness, Megumin and Aqua, fighting over Kazuma.",
+    "Aqua.",
+    "Eris padding her chest.",
+    "Megumin and Kazuma's love affair.",
+    "Getting a useless goddess as an afterlife gift.",
+    "Kazuma.",
+    "The Axis Order.",
+    "Megumin singing the ED.",
+    "Darkness.",
+    "Darkness' secret love of being called Lalatina.",
+    "Megumin.",
+    "Chomusuke.",
+    "A shut-in otaku who only ever plays video games.",
+    "EXXUUUSSPLOOSIONNS.",
+    "A BDSM-loving monster hunter."
+  ],
+  "pack": {
+    "id": "7TQPR",
+    "name": "KonoSuba Pack [Spoilers]"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 15,
+    "total": 23
+  },
+  "dateStoredMs": 1589165410127
+}

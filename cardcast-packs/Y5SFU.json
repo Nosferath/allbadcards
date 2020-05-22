@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "Eric Idle and Michael Palin spend their days _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being as nice as Michael Palin.",
+    "Graham Chapman.",
+    "Being as forgotten as Neil Innes.",
+    "Meric.",
+    "Michael Palin's niceness.",
+    "Michael Palin.",
+    "Eric Idle's beautiful legs.",
+    "Terry Gilliam on crack.",
+    "Neil Innes.",
+    "Terry Jones.",
+    "Carol Cleveland.",
+    "Terry Gilliam.",
+    "Terry Jones' photo faces.",
+    "Eric idle."
+  ],
+  "pack": {
+    "id": "Y5SFU",
+    "name": "Monty Python"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 14,
+    "total": 15
+  },
+  "dateStoredMs": 1588786064977
+}

@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "_ made the visit to Cloud City awkward",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Uninvited guests."
+  ],
+  "pack": {
+    "id": "CZ7E6",
+    "name": "Star Wars"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589060639705
+}

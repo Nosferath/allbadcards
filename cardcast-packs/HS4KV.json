@@ -1,0 +1,62 @@
+{
+  "black": [
+    {
+      "content": "Worst thing you've ever seen? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Victor would be arrested for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is George's special skill",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casper spent all week _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick can't _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why was the shower so hot? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did you take away from private school? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Forgetting everything that happened on NYE.",
+    "Madeleine Mccan.",
+    "What happened at Colet Court.",
+    "Stuck on the v plates.",
+    "Blowing away in the wind.",
+    "A left wing oxford college.",
+    "Ethnic cleansing.",
+    "School shootings.",
+    "Do IB.",
+    "Jokes about Nazis.",
+    "Those shit red blazers."
+  ],
+  "pack": {
+    "id": "HS4KV",
+    "name": "lddld"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 11,
+    "total": 18
+  },
+  "dateStoredMs": 1589055261185
+}

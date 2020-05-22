@@ -1,0 +1,66 @@
+{
+  "black": [
+    {
+      "content": "Ten thousand _ and all you need is a spoon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I keep stealing tomorrows spoons there will be none left for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got ninety nine _ and exactly zero spoons to deal with them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ needs more spoons than an ice cream shop, and is likely just as sticky.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd spend my last spoon on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have you tried treating fibromyalgia with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"If I have to hear about _ one more time, I'm going to take my last spoon and shove it up your _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A spoon is to a spork as you are to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Getting all the trigger points mashed.",
+    "Spork.",
+    "A fork with all the tines removed.",
+    "Silver spoon.",
+    "Period globs.",
+    "Not having enough spoons to be out of spoons.",
+    "Ladle.",
+    "A rusty spoon.",
+    "My last spoon.",
+    "A crusty spoon."
+  ],
+  "pack": {
+    "id": "DKAUC",
+    "name": "Fibro Fun"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 10,
+    "total": 18
+  },
+  "dateStoredMs": 1588984333892
+}

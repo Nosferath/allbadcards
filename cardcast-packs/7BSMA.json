@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Amikor az utcán _ , láttam egy _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Magyarországon minden harmadik ember _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "7BSMA",
+    "name": "Öfisöl Kihasznáció"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589296702062
+}

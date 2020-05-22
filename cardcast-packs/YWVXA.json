@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "Cersei should pick _ for a lover.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "YWVXA",
+    "name": "Game of Thrones against humanity."
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589483212171
+}

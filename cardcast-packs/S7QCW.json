@@ -1,0 +1,83 @@
+{
+  "black": [
+    {
+      "content": "The last party I went to had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Frats really are_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At _ we do _ to pledges.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who do you know here? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah bro. She _ at our philanthropy event.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They put _ in their jungle juice. NFAF.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I fucked a sorority girl once. She _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Jew frats.",
+    "Getting banned from mixers.",
+    "The feminist agenda.",
+    "The Young Republicans Club.",
+    "Theta chi.",
+    "F.",
+    "Godamn GEEDS.",
+    "Squids.",
+    "Phi delts.",
+    "Stalking Greekrank because you have no life.",
+    "Lambdas.",
+    "Everclear.",
+    "Blow or blow.",
+    "Pledges.",
+    "FaF.",
+    "Drunk sorority girls.",
+    "GPhis.",
+    "Frat basements.",
+    "#Legacy.",
+    "Simp.",
+    "Sig kaps.",
+    "Sorority recruitment.",
+    "Sammy.",
+    "Naming a brother’s hometown as Africa just because he’s black.",
+    "Covering a man in sardine oil and feeding him to tigers.",
+    "Delta Chi.",
+    "Fucking an ugly guy just to get invited to his formal.",
+    "Fuck nationals.",
+    "Puking on your formal date’s dick.",
+    "Fuck nationals.",
+    "Fuck GDIs.",
+    "Fuck nationals."
+  ],
+  "pack": {
+    "id": "s7QCW",
+    "name": "FAF and SAF"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 32,
+    "total": 39
+  },
+  "dateStoredMs": 1588105302945
+}

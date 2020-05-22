@@ -1,0 +1,93 @@
+{
+  "black": [
+    {
+      "content": "Christine Coles favourite past time is? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Christine Cole likes _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Julian _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paul Walker _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Christine Cole _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sean _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casey _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adrian _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sala _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boris _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "9/11.",
+    "Donald Trump.",
+    "Justin Bieber.",
+    "Bombing innocent children.",
+    "Hijacked MH 370.",
+    "Beheading children.",
+    "Iggy Azalea.",
+    "Saying that her and casey are in a 'relationship'.",
+    "Osama bin laden.",
+    "Shooting up a school.",
+    "Bomb threat.",
+    "MK 97 Tomahawk cruise missile.",
+    "George Bush.",
+    "Sadaam Hussein.",
+    "Beheading reporters.",
+    "Slit bozas throat.",
+    "Bombing the embassy.",
+    "Bombing innocent children.",
+    "MK 97 Tomahawk cruise missile.",
+    "James Holmes.",
+    "Beheading ashton.",
+    "MK 97 Tomahawk cruise missile.",
+    "Barrack obama.",
+    "MK 97 Tomahawk cruise missile.",
+    "Blew up in a car bomb.",
+    "Shoot up a school.",
+    "9/11."
+  ],
+  "pack": {
+    "id": "PAYWU",
+    "name": "Terrorism"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 27,
+    "total": 37
+  },
+  "dateStoredMs": 1588716673360
+}

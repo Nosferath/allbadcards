@@ -1,0 +1,125 @@
+{
+  "black": [
+    {
+      "content": "Don't _ my raptors.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I hate _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What happened to the sibling? She _ him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What kind of diet doesn't allow _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's like a _, only 65 million years ago.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's the alpha? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you want to consult here or in my _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She's not hunting for food. She's hunting for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watch your six. Raptors got a new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "She looks at what she wants to look at. Usually what she wants to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you call a blind dinosaur? A _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That isn't scary. That looks like a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hold onto your _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raptors got a new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are four. Charlie, Delta, Echo, and that's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's a dinosaur in our _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Flightless birds.",
+    "Spilling your intestines.",
+    "Being swallowed whole.",
+    "Alpha.",
+    "Chaos theory.",
+    "Chilean sea bass.",
+    "Clever girl.",
+    "T-rex pee.",
+    "Traveling like a flock of birds.",
+    "Shoot.",
+    "Velociraptors.",
+    "Getting eaten by a dinosaur.",
+    "Mosasaurus.",
+    "Delta.",
+    "Echo.",
+    "Camping out in a tree.",
+    "Falling into the mosasaurus tank.",
+    "6 foot turkey.",
+    "Ginormosaurus rex.",
+    "Digging into a pile of dino doo.",
+    "Pack hunters.",
+    "Zara.",
+    "Climbing out of a tree with a car falling at you.",
+    "Dino droppings.",
+    "Tequila.",
+    "Blue.",
+    "Charlie.",
+    "Owen Grady.",
+    "Dr. Alan Grant."
+  ],
+  "pack": {
+    "id": "53359",
+    "name": "Jurassic Park"
+  },
+  "quantity": {
+    "black": 16,
+    "white": 29,
+    "total": 45
+  },
+  "dateStoredMs": 1589570877743
+}

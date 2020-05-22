@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "_ and _ . Name a better pair, I'll wait.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who uses bows? A real Archer uses _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rejoice, _ will finally come true.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Better dead than _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People _ when they are _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "UMU.",
+    "The Bone of my Sword.",
+    "Blue Nero.",
+    "Heaven's Feel.",
+    "Red Arturia.",
+    "Sakura.",
+    "Crestworms."
+  ],
+  "pack": {
+    "id": "UPGKV",
+    "name": "Fate/Type Moon"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 7,
+    "total": 12
+  },
+  "dateStoredMs": 1589062624740
+}

@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "It's hard to believe, but _ does exist on the internet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the true reason as to why the infection started.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is the newest character, in the Gods and Glory DLC? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Pale king, before he disappeared, had decided _ was the only option to get rid of the infection.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To many fans, _ is the best waifu in the game.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To some players, the saddest moment in Hollow Knight is when _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While wandering Greenpath, there's a boss named _ that you are required to battle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On steam, the newest DLC coming out for Hollow Knight is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the infection come to Hollownest in the first place? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zote, the mighty.",
+    "The Hollow Knight.",
+    "Gods and Glory.",
+    "Making a new vessel.",
+    "The Pale King.",
+    "The void.",
+    "Taking a shot how many times you die at a boss/enemy.",
+    "Gitting gud at the Hornet fight.",
+    "Your dead shadow siblings.",
+    "The Broken Vessel.",
+    "The Radiance.",
+    "Myla's death.",
+    "The knight.",
+    "Being dared to look at the #HollowKnight tag on Deviantart.",
+    "Original the Character, donut steel.",
+    "Human! Hollow Knight AU.",
+    "Quirrel.",
+    "Hornet.",
+    "The multiple NSFW images of Hollow Knight."
+  ],
+  "pack": {
+    "id": "QU4ND",
+    "name": "Hollow Knight shitposting"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 19,
+    "total": 28
+  },
+  "dateStoredMs": 1588470906796
+}

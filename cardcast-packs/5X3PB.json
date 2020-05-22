@@ -1,0 +1,33 @@
+{
+  "black": [
+    {
+      "content": "Cała sala krzyczy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie możesz oglądać _ to może doprowadzić do problemów z główką.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Wyjście od babci nie najedzonym.",
+    "Jeść kisiele garściami.",
+    "KUTAS KOZŁA.",
+    "Duży z wołowiną bez mięsa.",
+    "Psikanie wodą z kolana.",
+    "Rozum i godność człowieka.",
+    "Jeść frytki w wannie."
+  ],
+  "pack": {
+    "id": "5X3PB",
+    "name": "Polskie karty od Magdy"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 7,
+    "total": 9
+  },
+  "dateStoredMs": 1589282217003
+}

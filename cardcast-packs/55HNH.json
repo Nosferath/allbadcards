@@ -1,0 +1,1592 @@
+{
+  "black": [
+    {
+      "content": "Ni z gruszki, ni z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto _ kopie, ten sam w nie wpada.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ rośnie w miarę jedzenia!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uczcijmy minutą ciszy odejście _. Nasz brat i przyjaciel.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wpadłem jak śliwka w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "2/_=_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Staaaary, mam jutro klasówkę z _. Nic nie umiem!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak? Tak? Taki mądrala z Ciebie? To powiedz mi, jak często miałeś _ w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przyszła koza do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Milcz jak mówisz do _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lambert, Lambert ty _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co, kurwa?! O co zakład?! O _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Piękny obraz, ale dlaczego namalowałeś akurat _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój ulubiony raper to MC _. Mam wszystkie jego płyty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy byłem na wojnie, zamiast ostrej amunicji używaliśmy _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masz problemy z _? Wypróbuj _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lubię czasami włożyć _ w _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sraty taty dupa w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biega, krzyczy Pan Hilary: \"Gdzie są moje _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Głaskanie psa pod _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co Bogusław Linda jadł na obiad? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trafić z _ pod _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie uwierzysz!Wysłałam go po szynkę, a kupił _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hola, hola! Co tam chowasz w tym plecaku?! Marcinku!!! Czy to _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiem! Zrobimy grę o _! To będzie arcydzieło!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kwiecień - plenień, co przeplata, trochę _, trochę _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czymże jest miłość bez _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wyszło _ z worka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Go, go Power _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pana _ wskazuje na ból w okolicach _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jedna _ wiosny nie czyni.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co ma piernik do _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Słucham różnych zespołów... Metallica, Slayer, Testament, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! Piątka stary!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puk, puk. Kto tam? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie jest dobrze, moi bracia. Nastała era _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam 2 minuty na _?! Okeeeeej, bez problemu!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ użyj _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nie martw się! Czasami _ rdzewieją!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jako moją następną sztuczkę wyciągnę _ z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zapłaciłbym wiele, żeby zobaczyć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ umiera, _ zostaje.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Na początku był _. Potem Bóg rzekł: \"Niech stanie się _!\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Grosz do grosza, a będzie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chcesz może kupić trochę _? Towar najlepszy w mieście.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, no, no, maleńka! Jesteś gotowa na prawdziwe _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój Boże! Jak ja kocham _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co jest zabawne dopóki nie stanie się dziwne? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przygoda, romans, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ zniszczyło dzieciństwo wielu ludzi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dodałem do zupy _, a co? Nie smakuje?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to najlepszy prezent na dzień dziecka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leje jak z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Albo rybki, albo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W przyszłości będę zajmować się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Małe dzieci - mały kłopot, duże dzieci - _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hahahha! No co Ty?! Przecież każdy wie, że Marcin lubi _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie uwierzysz, co ostatnio przyniósł mi mój pies! _!!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zawsze mówiłem, że _ jest dobrym pomysłem na_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ przeminie, ale _ przetrwa wiecznie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dzieci przepadają za _ i słodyczami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja matka zawsze powtarzała: \"Zjedz mięso, zostaw _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Borys, Ty łachudro! Hahaha! Dałeś mi _ zamiast _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co z oczu to z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co za dużo to nie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talon na _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Przewaga dzięki _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miałem dziś wykłady z _. Straszna nuda.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Moja ulubiona pozycja nazywa się _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lew, czarownica i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ wybieram Cię!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoje wiertło potrafi przebić nawet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W pokoiku na stoliku stało _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Strach ma wielkie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wywołuj _ z lasu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pasuje jak _ do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Od _ głowa nie boli.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mosiądz - stop miedzi i _, zawierający 10–45% cynku.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Możesz mi possać _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ogień, woda, ziemia, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ to pułapka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Opowiem Wam o _ na następnej lekcji. Obiecuję!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Znów makaron?! Przecież mówiłem, że mam ochotę na _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Więcej niż jedno zwierze to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ jest najlepszą obroną.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tak, słyszałem. Widziałem ich ostatnio razem i gadali o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy zobaczyłem _, to krew odpłynęła mi z _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cierpię na rzadką chorobę o nazwie _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polacy nie _ i swój _ mają.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Niech to _ strzeli!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kto _ wojuje, ten od _ ginie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Janusz \"_\" Pogorzelski to najlepszy gracz Virtus.pro!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W podstawówce mówili na mnie \"_\". Do dziś nie wiem dlaczego.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tato, dlaczego mama płacze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tylko dwie rzeczy w życiu są pewne: śmierć i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nauczyłem Lunę nowej sztuczki! Nazwałem ją _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kaktus z _ zamiast igieł.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bóg, honor, _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nawet nie wiesz, jak bardzo brakuje mi _.  Tak bardzo tęsknię.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Darowanemu koniowi w _ się nie zagląda.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bez pracy nie ma _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Koniec! Dość! Nie rozmawiamy więcej o _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zgoda buduje, _ rujnuje.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bóg mnie kocha za _,",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ty. Ja. _. Teraz!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wpierdol tę _ do dupy kurczaka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zjedz _, zostaw ziemniaki.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mówisz Adamie, żeś narodu wieszczem, a tak naprawdę jesteś _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pedały już tam są i kradną _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co dwie _, to nie jedna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Piotrek, ratuj! Znów obraziła się o _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Radowid to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - to droga do serca mężczyzny.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "sin(_)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wybacz, mamo, ale wyglądasz dziś jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie żyję dla krotochwil. Żyję dla _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twój _ jest twardy jak _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ile razy mam Ci mówić, że _ to nie zabawka.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ równie dobrze mógłby oznaczać _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Laski zawsze lecą na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przed lekcją napisaliśmy na tablicy \"_\". Nauczycielka była wściekła!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wszystko _, co się świeci.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prawdziwi _! Nie jacyś podrabiańcy!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mowa jest _, a milczenie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Normalnie nie zwracam uwagi na _, ale teraz to kurwa nie dałem rady.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co trzymasz w chlebaku? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przyszła kryska na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowy Stadion Narodowy ma jeden problem... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hej. Pamiętasz może jak mówiło się na aborcję turbanem? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie ma murzyna i nie ma_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cholerni bandyci! Ukradli moją ukochaną _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kuj _ póki gorące.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Może to jej urok, a może to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zaplanuj trzydniowy posiłek: _, _, _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Połamania _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trafiła kosa na _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biednemu zawsze _ w oczy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No żeż kurwa! Od kiedy _ wygląda dla Ciebie jak _?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jak rzep do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czym jest _ wobec świata?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio włożył w _. A nie chciałam!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwielbiam ją, bo ma _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Puk, puk! Kto tam? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnio przeczytałem książkę pt.: \"_\". Była świetna!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A co jeśli akurat nie będę miał ochoty na _? Co wtedy?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Co wyrzuciło morze? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bracia! Nadeszła era _! Porzućcie _ i szukajcie pocieszenia w _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Marsz do _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Achilles miał dwa słabe punkty: piętę i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chcesz mi powiedzieć, że _ to mój brat?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald _, Twój rząd obalą _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Panie Piotrze... miał Pan zaprojektować _, a nie _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Żeby kózka nie _, to by nóżki nie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_.pl",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A ja mam to w _, kurwa!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnie słowa Papieża to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kochana! Nie uwierzysz! Ostatnio kupiłam taką piękną _ w Arkadii!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Prędzej trafisz na _, niż Ci kosa wypadnie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skazuję Pana na _! Na taką karę Pan zasłużył!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie dotykaj tego psa! On ma _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Czy to ten prastary _?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hehe, Wiktorku! Interesują Cię już dziewczynki? Czy nadal tylko _ CI w głowie?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Podniosłem sok, a na odwrocie kartonu było napisane _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zamiast wazeliny wziąłbym _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uwierz mi, jestem _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pokonał go za pomocą _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, wiesz. Każdy po coś żyje. Ja na przykład żyję, bo chciałbym zrozumieć _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stoi na stacji lokomotywa. Ciężka, ogromna i _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wybiera się jak _ za _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ to pierwszy krok do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jean - Claude Van _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesteś pracowity jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ chodzą parami.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Komu w drogę, temu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy byłem mały _, tata powiedział mi_.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Twoja stara jest jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Elfy wykuwały piękne _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Arnold _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Niech mnie _ świśnie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pierwszą rzeczą, którą chciałbyś zobaczyć po urodzeniu jest _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raz zapłaciłem za _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzisiaj narysują Państwo _. Powodzenia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie kupię miłości za pieniądze, ale mogę za nie kupić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kochanie. Co powiesz na mały _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Z dupy do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Konfucjusz mówi: \"Jeżeli _ jest Twoim problemem zawsze możesz użyć _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Starzy ludzie pachną jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Czuć się jak ryba w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W marcu jak w _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jezusie! Ile pracy! Już nie wiem w co włożyć _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wiedziałem, że masz _, ale żeby _?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jakie jest hasło do WiFi? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mój ukochany klub to FC _. Mam nadzieję, że wygrają wszystko w tym sezonie!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jajko mądrzejsze od _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ z Na Wspólnej.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dupa boli, co?! Mówiłem, żebyś użył _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdy _ nie ma, _ harcują.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lepszy _ w garści niż _ na dachu.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co z Ciebie za dziewucha?! Dziewuchy mają _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Definicją dobrego związku zawsze było _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na dzisiejszych zajęciach będziemy omawiać pewną mityczną postać. Będzie to _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A co ma _ do _?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Matka weszła bez pukania do mojego pokoju i zobaczyła _ na ścianie... Mam przejebane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ w necie, _ w świecie.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gdzie kucharek sześć, tam nie ma _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Masakra... matka ostatnio znalazła _ w moim pokoju. Mam przejebane.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Na górze wacki, na dole wacki. Kto kocha wacki? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Głupi ma zawsze _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Albo rybki, albo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kanapka z _ i  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mam wiele imion, ale możesz do mnie mówić _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoje danie smakuje jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ślimak, ślimak, wystaw rogi, dam Ci _ na pierogi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jezus _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obróć się trochę w prawo. Teraz w lewo... Twój penis wygląda jak _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nawet Hitler miał swój własny _! Ty też musisz go mieć!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cygańskie nagrobki.",
+    "Nowy biust.",
+    "Deklinacja.",
+    "Pędzle w dłoniach.",
+    "Przekładnia zębata.",
+    "Anakonda.",
+    "Sympatyczny ziemniaczek.",
+    "Wiele, wiele aborcji.",
+    "Kozojebca.",
+    "Krzywka mimośrodowa z popychaczem talerzykowym.",
+    "Burdel na rogu.",
+    "Szmato!.",
+    "Skurwikłak.",
+    "Ropiejąca łechtaczka.",
+    "Wysoki skrzypek.",
+    "Klej.",
+    "Fikasz, znikasz!.",
+    "Siusiek Wąchacz.",
+    "Emilka i jej demontaż.",
+    "Dno dupy.",
+    "Żupan popłochu.",
+    "Definicja rozkoszy.",
+    "Kopanie dołów.",
+    "Aaaaaa.",
+    "Przerwa na arbuza.",
+    "Żeby zdechł.",
+    "Potop.",
+    "Krew z odbytu.",
+    "Delta < 0.",
+    "Margines dla polonistki.",
+    "Żelazna Ręka Franków.",
+    "Brak jąder.",
+    "Konstantynopol.",
+    "Karczmienna bójka.",
+    "Nie tak szybko!.",
+    "Smoczy kutas.",
+    "Odmiana przed przypadki.",
+    "Elektrony walencyjne.",
+    "Przemytnik gówna.",
+    "Mieszanka wedlowska.",
+    "Gówniany delfin.",
+    "Segment miejski.",
+    "Całka Wereszczagina.",
+    "Atak!.",
+    "Plażowanie.",
+    "Faraon.",
+    "Moc wskrzeszania zmarłych.",
+    "Odcinek lędźwiowy.",
+    "Mały kolega.",
+    "Plaża nudystów.",
+    "Myszka Razera.",
+    "Klej gej.",
+    "Jamajscy faszyści.",
+    "Karmienie gołębi.",
+    "Pan Tadeusz.",
+    "Wiele odniesień.",
+    "Szatan.",
+    "Radioaktywny żuk.",
+    "Napletek w cieście.",
+    "Odbytnica.",
+    "Prędkość obrotowa.",
+    "Marszałek Józef Piłsudski.",
+    "Ptasi móżdżek.",
+    "Karakan.",
+    "Dom jednorodzinny.",
+    "Topola.",
+    "Matko jedyna!.",
+    "Sierociniec dla psów.",
+    "Tak.",
+    "Naukowy bełkot.",
+    "Szkicowanie cycków.",
+    "Przyrodzenie twarde jak księżycowa skała.",
+    "Atak na Francję.",
+    "Dzień, w którym ptaki zaatakowały.",
+    "Murzyni na smyczy.",
+    "Piesza wycieczka w góry.",
+    "Klaun na wrotkach.",
+    "Ołówek koh-i-noor.",
+    "Zakałapućkać się.",
+    "Konrad.",
+    "Chrzest ognia.",
+    "Magiczny pocisk.",
+    "Dwie lewe rączki.",
+    "Metaforyczny Byk.",
+    "Mostek tensometryczny.",
+    "Akcja na dzielni.",
+    "Gagatek.",
+    "Komnata tajemnic.",
+    "Bliskość z nieznajomą.",
+    "Mantikora.",
+    "Malowanie płotu.",
+    "Nicnierobienie.",
+    "Kasa na dziwki.",
+    "A dajże spokój.",
+    "Babiarz Artur.",
+    "Czarny Piątek.",
+    "Bimber z mlecza.",
+    "Kompletny zawodnik.",
+    "Ukrzyżowanie Chrystusa.",
+    "Optimus Prime.",
+    "Mistyczne ukulele.",
+    "Bank PKO.",
+    "Royal Baby.",
+    "Wolny elektron.",
+    "Sranie igłami.",
+    "Serek topiony.",
+    "Po prostu banan.",
+    "Kategoryczynie nie!.",
+    "Strata czasu.",
+    "Mimośród e.",
+    "Żale Karoliny.",
+    "Klej w tubce.",
+    "Ksiądz Robak.",
+    "Deceptikony.",
+    "Ser spod napleta.",
+    "Szczękoczułki.",
+    "Przemyt.",
+    "Korespondencja z Marcinem.",
+    "Czopki z głów!.",
+    "Kolimator.",
+    "Flet w dupie.",
+    "Przyspieszenie obrotowe.",
+    "Wielki problem.",
+    "Grupy barbituranów.",
+    "Papież Polak.",
+    "Rozkrok.",
+    "Prawe kolano.",
+    "Przeszczep.",
+    "Brudna ścierka.",
+    "Krzywka styczna.",
+    "Remont klasztoru.",
+    "Psy w niewoli.",
+    "Falujące sadło.",
+    "Przepływ turbulentny.",
+    "Śledzik na raz.",
+    "Dariusz Michalczewski.",
+    "Obciąganie.",
+    "Taka świnia kurwa.",
+    "Chuj.",
+    "Kasa za ruchanie.",
+    "Kiełbaska.",
+    "Całka nieoznaczona.",
+    "Wargi sromowe pod pachą.",
+    "Egzorcyzmy w środę.",
+    "Magnetyczna liczba kwantowa.",
+    "Wiedźmin Piotr.",
+    "Łożysko.",
+    "Kamil.",
+    "Lizanie dupy psa.",
+    "Ruskie pierogi.",
+    "Nicpoń Przemek.",
+    "Moja matka.",
+    "Filharmonia Narodowa.",
+    "Kupa na ścianie.",
+    "Kurwa.",
+    "Kaczka Dziwaczka.",
+    "Ramzes II.",
+    "Małe jajca.",
+    "Kleopatra na wkurwie.",
+    "Arkusz A4.",
+    "Tg(30).",
+    "Wymiotowanie płodami.",
+    "Autoboty.",
+    "Gej czarodziej.",
+    "Bicki ze stali.",
+    "Wpadka przed 18.",
+    "Grodzisk Mazowiecki.",
+    "Kastracja.",
+    "Diablo 2.",
+    "Woda w kiblu.",
+    "Odradzam się i od razu umieram.",
+    "Klacz w stajni.",
+    "Nietolerancyjny wombat.",
+    "Bezbożnik.",
+    "Nie, to jest słabe.",
+    "Nawyki siostry ciotecznej.",
+    "Baraszkowanie.",
+    "Dawne czasy.",
+    "Bolek.",
+    "Obraz o dupie.",
+    "Malinowy sok.",
+    "Orkiestra dęta.",
+    "Modernizacja szopy.",
+    "Grecja w opałach.",
+    "Lewe kolano.",
+    "Mechanizm zapadkowy.",
+    "Liczydło.",
+    "Rozpierdalacz polny.",
+    "Jebane psy.",
+    "Aktywny zawodowo Przemek.",
+    "Tere fere.",
+    "Adam Mickiewicz.",
+    "Prorok Mohamed.",
+    "Natężenie bobra.",
+    "Pierdolony bobas.",
+    "Bezwodnik kwasowy.",
+    "Drewniany zagajnik.",
+    "Dwie łyse dziwki.",
+    "Guziec kurwa z Afryki. Czaisz kurwa guźca? Taka świnia kurwa. Jaki guziec?!.",
+    "Kangur Losu.",
+    "Gotowanie zupy.",
+    "Banialuki.",
+    "Kanapka z mielonką.",
+    "Kawał chłopa.",
+    "Heretyk.",
+    "Rzeczywista prędkość części czynnej pasa.",
+    "Chyba ryba.",
+    "Hehe! Jebać czarnych!.",
+    "Pismo zwierzoludzi.",
+    "Kontratak znad Wieprza.",
+    "Śliniaczek.",
+    "Łopatka.",
+    "Bezimienny.",
+    "Matko Bosko i 100 milicjantów!~.",
+    "Klapsy.",
+    "Katakan.",
+    "Sin(54).",
+    "Piotrze!.",
+    "Prima Aprilis.",
+    "Mała pała.",
+    "Dmuchanie balonów.",
+    "Dupa z przodu.",
+    "Karmazynowy Bartek.",
+    "Wpierdol.",
+    "Karuzela strachu.",
+    "Źdźbło trawy.",
+    "Kandydat na prezydenta.",
+    "Andrzej Dupa.",
+    "Śledź.",
+    "Balony z helem.",
+    "Jakiś tam Azjata.",
+    "Malowanie chujem.",
+    "Dupa na kółkach.",
+    "Jebane pedały.",
+    "Bardzo dobra zupa.",
+    "Zapinać kogoś w cewe.",
+    "Nicpoń Andrzej.",
+    "Napierdalanie w perkusję.",
+    "Cycuszki.",
+    "Sałata z dupy.",
+    "Rzep.",
+    "Barack Obama.",
+    "Rafał i jego bulwersy.",
+    "Dorodna pyra.",
+    "Rude dziecko.",
+    "Belka statycznie niewyznaczalna.",
+    "Bąbel.",
+    "Makabryczne odkrycie.",
+    "6 głów.",
+    "Chemia organiczna.",
+    "Malinowy sok.",
+    "Adam.",
+    "Rozbójnicy!.",
+    "Wiedźmińskie zlecenie.",
+    "Święto Trzech Króli.",
+    "Klemens.",
+    "Zakupy w biedronce.",
+    "Dupa na twarzy.",
+    "Warczenie na nieznajomych.",
+    "Zły wybór.",
+    "Kuracja odbytu.",
+    "Knur.",
+    "Pryszcz na japie.",
+    "Soki z foki.",
+    "Bąk.",
+    "Pas tatusia.",
+    "Motywacyjny wpierdol.",
+    "Grubas na bramie.",
+    "Pedalskie mokasyny.",
+    "Trey gej.",
+    "Spocony Hagrid.",
+    "Wędkarz Łukasz.",
+    "Gradient.",
+    "Dionizos.",
+    "Orka w delikatesach.",
+    "Ten tyłeczek.",
+    "Barachło.",
+    "Wikingowie.",
+    "Tani obiad.",
+    "Koalicja PO - PSL.",
+    "Barszcz z uszkami.",
+    "Kurczak z rożna.",
+    "ALLAHU AKBAR!.",
+    "Kupa złomu.",
+    "Pstrąg.",
+    "Partyzantka.",
+    "Piwo prawdziwego myśliwego.",
+    "Arcsin(12).",
+    "Ehhh... droz.",
+    "Liczba Poissona.",
+    "Lekcja życia.",
+    "Nepotyzm w spółkach państwowych.",
+    "Nieśmieszny kawał.",
+    "Seba chuj.",
+    "Goleń.",
+    "Panienka z okienka.",
+    "Antoni Macierewicz.",
+    "Wychudzona szkapa.",
+    "Opalony Kamil.",
+    "Juliusz Słowacki.",
+    "Prącie Elektryczności.",
+    "Bunkier rozpaczy.",
+    "Żydzi w piwnicy.",
+    "Przepływ laminarny.",
+    "Małomówna niewiasta.",
+    "Borsuk na uwięzi.",
+    "Sąd Ostateczny.",
+    "Ambaras.",
+    "Dupa.",
+    "Nie pójdę w żadnym.",
+    "Wyprawa Krzyżowa.",
+    "Pożoga zagłady.",
+    "Lew z ciałem gołębia i głową gołębia.",
+    "Ostatni posiłek.",
+    "Złocisty deszcz.",
+    "Stare sterowniki.",
+    "Podglądanie rodziców.",
+    "Dziki w lesie.",
+    "Delikatesy.",
+    "Sprzedam Opla.",
+    "Mój dom.",
+    "Przekładnia falowa.",
+    "Pan Bóg.",
+    "Anoda.",
+    "Zwykła wiertarka.",
+    "Bolec w uszach.",
+    "Johny Anderson.",
+    "Pantomima.",
+    "Głupi cham.",
+    "Pumpcia.",
+    "Statek matka.",
+    "Naćpana łania.",
+    "Hipoteza Hubera – Misesa- Hencky’ego.",
+    "Pocenie się krwią.",
+    "Zew godowy warchlak.",
+    "Detektyw z lupą na czole.",
+    "Papież Benedykt XVI.",
+    "Długi u matki.",
+    "Damian.",
+    "Łono.",
+    "Reakcja na wpierdol.",
+    "Krwawa orgia.",
+    "Rezolutny Michał.",
+    "Przestać już pierdolić!.",
+    "Kazamaty Nienawiści.",
+    "Dwie ślepe dziwki.",
+    "Kamień.",
+    "Babajaga w naturalnym środowisku.",
+    "Rudy murzyn.",
+    "Matematyczna zagwozdka.",
+    "4 lata.",
+    "Kradnący kwiaty z cmentarzy cyganie.",
+    "GOOOLLLL!!!.",
+    "Piotr łotr.",
+    "Frank Gehry.",
+    "Rachowanie.",
+    "Linia Curzona.",
+    "Wszystkie kurwa choroby świata.",
+    "Zatarg z sąsiadem.",
+    "Na ziemię!.",
+    "Bekanie pod nadzorem.",
+    "Idealny tyłeczek.",
+    "Bałagan w pokoju.",
+    "Szparka Arka.",
+    "Kochanie się.",
+    "Nakładanie gładzi.",
+    "Moduł Younga.",
+    "Karmnik dla ptaków.",
+    "Niemowlaczek.",
+    "W chuj wielkie kule.",
+    "Kapcie po tacie.",
+    "Gęsty las liściasty.",
+    "Kolaboracja.",
+    "Problem z Chinami.",
+    "Lech Wałęsa.",
+    "Oj, Anno.",
+    "Kolekcja zębów pokonanych wrogów.",
+    "No po prostu delicje!.",
+    "Weź spierdalaj...",
+    "Perpetuum mobile.",
+    "Kwadratowa Anna.",
+    "Fenomenologia Husserla.",
+    "Guziec kurwa z Afryki.",
+    "Zawał kolana.",
+    "Narastające napięcie.",
+    "Utalentowana kaczka.",
+    "3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510 58209 74944 59230 78164 06286 20899 86280 34825 34211 70679 82148 08651 32823 06647 09384 46095 50582 23172 53594 08128 48111 74502 84102 70193 85211 05559 64462 29489 54930.",
+    "Małe kanie.",
+    "Babranie się w gównie.",
+    "Monstrualne gówno.",
+    "Murzyn Marcin.",
+    "Marek Łowca Szparek.",
+    "Padanie na ryj.",
+    "Perfidne pedalstwo.",
+    "Ale akcja!.",
+    "Ciećwierz.",
+    "Niemyty chuj.",
+    "Flaczki u rodziny.",
+    "Pingwin w dżungli.",
+    "Rycerz Kamil.",
+    "Matecznik.",
+    "Okradanie grobów.",
+    "Czarna dupa.",
+    "Włosy na piętach.",
+    "Ślinienie się.",
+    "Jacek Soplica.",
+    "Prosty banan.",
+    "Nie.",
+    "Chodzić gęsiego.",
+    "Jarosław Kaczyński.",
+    "Supersiła.",
+    "Złodziej na targu.",
+    "Strata matki.",
+    "Grzech ciężki.",
+    "Nawet o tym nie myśl.",
+    "Biała dupa.",
+    "Papa Smerf.",
+    "Dioda.",
+    "Branie do buzi.",
+    "Katoda.",
+    "Pierwsza godzina gratis.",
+    "Możesz?.",
+    "6 aborcji.",
+    "Kaszlenie krwią.",
+    "Riki tiki.",
+    "Komandor Alojzy.",
+    "Słodziutki kocyk.",
+    "Panda.",
+    "Rachunek prawdopodobieństwa.",
+    "Glizda ludzka.",
+    "Jodłowanie.",
+    "Mam 3 garnitury.",
+    "Kanały pod Wiedniem.",
+    "Nieustępowanie miejsca starszym.",
+    "Tłumik samochodowy.",
+    "Andrzej.",
+    "Żbik na wakacjach.",
+    "Zbawiciel.",
+    "Ty wieprzu!.",
+    "Gwint drobnozwojny.",
+    "Pomidorowa mamy.",
+    "Atencyjna dziwka.",
+    "Ławica śledzi.",
+    "Różdżka z kamienia.",
+    "Iloczyn rozpuszczalności.",
+    "Matematyczny pierdolnik.",
+    "Podpalanie.",
+    "Goła baba.",
+    "Pogrzeb dziecka.",
+    "Siusiaczek.",
+    "Słaba kondycja.",
+    "Cerber.",
+    "Dupsko.",
+    "Całka oznaczona.",
+    "Maria Magdalena.",
+    "Serio, mamo?.",
+    "Karmienie gołębi.",
+    "Kapibara w zamku.",
+    "Siała baba mak.",
+    "Krzywka mimośrodowa z popychaczem rolkowym.",
+    "Szybkość czasu.",
+    "Stosunek z kozą.",
+    "Dawanie na lewo i prawo.",
+    "Cichy zakątek.",
+    "Płód.",
+    "Halo! Halooooo!.",
+    "Nibylandia.",
+    "Szynka.",
+    "Dawaj na longa!.",
+    "Jebane poduszki.",
+    "Pole śledziowe.",
+    "Santiago Calatrava.",
+    "Naprawdę fajny kapelusz.",
+    "Opalanie się na balkonie.",
+    "Mały Książę.",
+    "Magiczny Maciej.",
+    "Wysyp cziterów.",
+    "Mój kurczak.",
+    "Liczba stechiometryczna reakcji.",
+    "Potężny mag ognia.",
+    "Deszcz dreszcz.",
+    "Opel Astra.",
+    "Antyczny kredens.",
+    "Kot w pudełku.",
+    "Porno dla rudych.",
+    "Ryba, który umarł na zawał penisa.",
+    "Zrobienie sobie kuku.",
+    "Jezus Chrystus.",
+    "Penisylina.",
+    "Mycie się w sobotę.",
+    "Kamper jebany!."
+  ],
+  "pack": {
+    "id": "55HNH",
+    "name": "POLISH DUPA 1"
+  },
+  "quantity": {
+    "black": 217,
+    "white": 491,
+    "total": 708
+  },
+  "dateStoredMs": 1589126299651
+}

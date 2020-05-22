@@ -1,0 +1,17 @@
+{
+  "black": [],
+  "white": [
+    "_.",
+    "_______."
+  ],
+  "pack": {
+    "id": "VWZ4A",
+    "name": "custom"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 2,
+    "total": 2
+  },
+  "dateStoredMs": 1589527918008
+}

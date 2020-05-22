@@ -1,0 +1,197 @@
+{
+  "black": [
+    {
+      "content": "Vader finds your lack of _ disturbing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One night, Anakin had a horrible nightmare about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Palpatine's master plan to rule the galaxy involved _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Obi-Wan's apprenticeship to Qui-Gon was full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : the Skywalker family legacy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is Obi-Wan's favorite thing to do on his day off.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After Order 66 came Order 67, which involved _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What was the highlight of Anakin and Padme's wedding night?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obi-Wan always warned Anakin that _ was a slippery slope to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ played a significant role in the life of Obi-Wan Kenobi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon; that's  _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anakin and Padme's marriage was doomed by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Padme Amidala had always privately fantasized about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the focus of the latest HoloNet exposé about the Negotiator and the Hero with no Fear?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the latest trend in the Jedi Temple? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Luke Skywalker found his father's journal, he was surprised to read about _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Barriss Offee's life story: a tale of _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Anakin's apprenticeship to Obi-Wan was full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At nine years old, Anakin didn't realize that becoming a Jedi would involve  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obi-Wan Kenobi opened his eyes to find himself staring at what he strongly suspected was  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite his marriage to Padme, it was _ that ultimately got Anakin kicked out of the Order.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of the unnatural abilities Anakin learned after falling to the dark side was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These are not the _ you're looking for.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anakin was upset by the new update to the Jedi Code, which forbade _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before meeting Padme, Anakin had no experience with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Obi-Wan had a bad feeling about _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Being seduced to the dark side.",
+    "A Jedi cloak dropped dramatically to the ground.",
+    "Thinking of Yoda naked in order to suppress an erection.",
+    "A shape-shifting assassin.",
+    "Murdering children.",
+    "An inappropriate Master-Padawan relationship.",
+    "Sheev Palpatine.",
+    "Lightsaber-related double entendres.",
+    "Flirting with the enemy.",
+    "Unfortunate lightsaber accidents.",
+    "Treason.",
+    "Seducing someone to the dark side.",
+    "Killing not just the men, but the women and the children, too.",
+    "Showing warning signs of a mental breakdown and  falling to the dark side.",
+    "Cad Bane's hat.",
+    "An interspecies relationship.",
+    "Chopping off limbs.",
+    "The Zone of Self-Containment.",
+    "Not receiving enough hugs as a child.",
+    "The Imperial March playing in the background.",
+    "Bar-hopping for justice.",
+    "The Jedi Order.",
+    "Losing a limb.",
+    "Screaming \"NOOOOOOO\" melodramatically.",
+    "Ironic foreshadowing.",
+    "Lectures on pacifism from Duchess Satine.",
+    "Ahsoka's boob window.",
+    "A high midichlorian count.",
+    "Repressed emotions.",
+    "Dysfunctional relationships.",
+    "Asajj Ventress's bald head.",
+    "Trauma from a childhood in slavery.",
+    "Blowing stuff up.",
+    "Using the Force in the bedroom.",
+    "Naboobies.",
+    "Autoerotic Force-choking.",
+    "The Zillo Beast.",
+    "Post-traumatic stress disorder.",
+    "Abandonment issues.",
+    "Force-choking.",
+    "Anakin Skywalker: Human Disaster.",
+    "Child grooming.",
+    "Order 66.",
+    "A not-so-secret marriage.",
+    "A self-fulfilling prophecy.",
+    "Unexpected betrayal.",
+    "Having sex in the Council chamber.",
+    "R2-D2's porn stash.",
+    "Using a lightsaber duel to resolve sexual tension.",
+    "Accidental incest.",
+    "Masturbating with a lightsaber."
+  ],
+  "pack": {
+    "id": "4AWGM",
+    "name": "Vader Against Humanity"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 51,
+    "total": 77
+  },
+  "dateStoredMs": 1588732566937
+}

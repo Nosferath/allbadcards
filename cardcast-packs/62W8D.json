@@ -1,0 +1,210 @@
+{
+  "black": [
+    {
+      "content": "I found _ In_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dam! Someone shoved_ up my butt again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I iris messaged _ I saw _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I adopted _ As my pet",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I really need a Dam_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I try very hard to be _. Don't insult my ability to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pshh.. Mortals don't understand _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hercules was like the _ of Ancient Greece. Wherever you turned, there he was.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used_ To kill the minotaur",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used_ to win capture the flag",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Nico Di Angelo's guilty pleasure? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kissed _ at the fireworks",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh great, the god _ is trying to kill me with _ again.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Seven half bloods must_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With great power, comes great need to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Should be a Mythomagic card",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will hit_ with a brick",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Write a Haiku worthy of Apollo. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ Should rot in Tartarus",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't feel bad, I'm usually _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forcefeeding _ Nectar and Ambrosia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The thing I hated about the PJO movies was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _=BEST SHIP EVER",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_Slaughtered my panda pillow pet",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A child of the eldest gods_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Those Dam Demigods.",
+    "Hades' Underworld Palace.",
+    "Kronos.",
+    "Percabeth.",
+    "Brick.",
+    "Percy Jackson.",
+    "Backbiter.",
+    "Dionysus.",
+    "The PJO movies.",
+    "Riptide.",
+    "Reyna.",
+    "Stapler.",
+    "Camp Half Blood.",
+    "Medusa.",
+    "Frank Zhang.",
+    "Shadow Travel.",
+    "Festus.",
+    "Jason Grace.",
+    "Leo Valdez.",
+    "Blue Plastic Hairbrush.",
+    "Hera.",
+    "Smelly Gabe.",
+    "Luke Castellan.",
+    "Poseidon's Trident.",
+    "Blue food.",
+    "Bob.",
+    "Athena.",
+    "Octavian.",
+    "Mrs. O' Leary.",
+    "Will Solace.",
+    "Zeus.",
+    "Hades' Helm Of Darkness.",
+    "Hades.",
+    "Empire State Building.",
+    "Grover Underwood.",
+    "Great Great Grandma Gaea.",
+    "Demeter.",
+    "Happy Meals for Underworld ghosts.",
+    "Calypso.",
+    "Artemis.",
+    "Eat a pomegranate.",
+    "Apollo.",
+    "Cerberus' chew toy.",
+    "Piper McLean.",
+    "Aphrodite.",
+    "Bianca Di Angelo.",
+    "TRIALS OF APOLLO.",
+    "Nico Di Angelo.",
+    "The deep dark depths of Tartarus.",
+    "Small Bob.",
+    "Zeus' Master Bolt.",
+    "Poseidon.",
+    "Olympus.",
+    "Camp Jupiter.",
+    "Apollo's Sun Chariot.",
+    "Iris Messaging.",
+    "Hunters Of Artemis.",
+    "The Argo II.",
+    "Zeus offer of godhood.",
+    "Hazel Levesque.",
+    "Blackjack.",
+    "Go to Alaska.",
+    "Dam snack bar.",
+    "Reyna.",
+    "Do Re Me Fa Solangelo!.",
+    "Annabeth Chase.",
+    "The Athena Parthenos.",
+    "Leo Valdez.",
+    "TEAM LEO 5ever."
+  ],
+  "pack": {
+    "id": "62W8D",
+    "name": "Percy Jackson"
+  },
+  "quantity": {
+    "black": 25,
+    "white": 69,
+    "total": 94
+  },
+  "dateStoredMs": 1588373995586
+}

@@ -1,0 +1,166 @@
+{
+  "black": [
+    {
+      "content": "What is the best way to Survive a Russian Winter? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the difference between Russia and Canada? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does the Russian army do when anyone invades? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you call a man who cannot hold his liquor in Russia? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While Walking through Kiev, Ukraine, I found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ sums up the Battle of Berlin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you kill a bear? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best thing about the Soviet Union? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Mayor of Moscow has officially decided to change the city's name to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When your friend is passed out drunk you should _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today is a glorious day, The USSR has launched the first _ into space successfully.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The day Stalin died, the country _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While storming through Germany, I lost my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to _ , all Russians are now required to put _  in their cars.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ukrainians, Russians, Belorussians, they're all the same, just a bunch of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The gulags aren't that bad, they let me do _ while I was imprisoned there for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ Makes the Czar's wife happy, by helping cure her son of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do you do when you get in an accident in Moscow? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best way to cure Capitalism is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got thrown into the gulags for Showing _ my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In Ukraine,  fights in _ must be broken up with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A Russian's Greatest fear is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really fucks you over after being captured? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The October Revolution.",
+    "An AK-47 Assault Rifle.",
+    "Being arrested by the KGB.",
+    "Filthy Capitalists.",
+    "Wait for winter. Back up and burn the wheat-fields.",
+    "Cyka Blyat.",
+    "Molotov Cocktails.",
+    "Breaking the Congress up with smoke bombs.",
+    "VODKA.",
+    "Being Thrown in the Gulags.",
+    "Total Nuclear War.",
+    "Vladimir Putin.",
+    "Mail-Order Brides.",
+    "A German spy.",
+    "The assassination of the Romanov family.",
+    "The KGB.",
+    "Boris Yeltsin.",
+    "Getting so drunk you think someone stole your vodka, then take a drink out of it.",
+    "Singing Red Army Choir songs at the top of your lungs.",
+    "An Ushanka, A lighter, and a Kodiak Bear.",
+    "Shouting random gibberish and waving a vodka bottle in the air.",
+    "Invading the Crimea.",
+    "Playing Russian Roulette, with six bullets in the gun.",
+    "Empress Alexandra Nikolaevna Romanov.",
+    "Sputnik.",
+    "Getting Beaten, Shot, Stabbed, Burned, and Drowned, all in one day.",
+    "Vladimir Lenin.",
+    "Communism.",
+    "Josef Stalin.",
+    "Leon Trotsky's Stupid Face.",
+    "Czar Nicholas II.",
+    "4 million rubles worth of vodka and caviar.",
+    "Scream \"DIE FASCIST PIG\" as loud as you can.",
+    "Rasputin's big, mystical penis.",
+    "Kicking the Shit out of Germany in the 1940s."
+  ],
+  "pack": {
+    "id": "MJZGX",
+    "name": "The Russian Deck"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 35,
+    "total": 58
+  },
+  "dateStoredMs": 1588454236800
+}

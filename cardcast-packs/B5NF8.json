@@ -1,0 +1,55 @@
+{
+  "black": [
+    {
+      "content": "The rise of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behold! The power of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My name is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alex is a stupid _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The two autistic kids _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our new movie will be called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our new club will be _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Rise of the Retards.",
+    "Bill Clinton.",
+    "The autistic kid.",
+    "Bill Cosby."
+  ],
+  "pack": {
+    "id": "b5nf8",
+    "name": "boi boi deck"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 4,
+    "total": 11
+  },
+  "dateStoredMs": 1589179678974
+}

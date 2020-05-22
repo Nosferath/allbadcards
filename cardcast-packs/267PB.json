@@ -1,0 +1,115 @@
+{
+  "black": [
+    {
+      "content": "When _ entered the room he did _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Everybody knows that an asylum's purpose is _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ killed _ with _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What do you think when you watched Sick Nurses? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did The Watcher wrote in his last letter? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The nurse doesn't heal but _ you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the man _? because he wanted _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why did Jack The Ripper murder Mary Ann Nichols? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What frightens you? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pedro Alonso López is famous because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hid in/under _ to avoid _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ happened when seven young girls and guys entered the cabin in the woods.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "My dad.",
+    "Closet.",
+    "Massacre.",
+    "Drown.",
+    "A car.",
+    "A haunted house.",
+    "Bed sheets.",
+    "You will die in seven days.",
+    "Killing the retards from society.",
+    "Waiting until its night before going to sleep.",
+    "The end of suffering.",
+    "Love.",
+    "Scarecrows.",
+    "My mom.",
+    "Paparazzi.",
+    "Gore.",
+    "A knife.",
+    "Your room.",
+    "Fame.",
+    "Nothing.",
+    "Slaughter.",
+    "A good christian man.",
+    "Strangle him until the blood came through his eyes.",
+    "Sanity.",
+    "Revange.",
+    "A bath full of blood.",
+    "A rope.",
+    "Bed.",
+    "Have they found out what’s in the walls yet.",
+    "Hang.",
+    "Having dinner with your wife to poison her, Freedom.",
+    "Jekyll and hide.",
+    "Poison.",
+    "Blood stains.",
+    "Fear.",
+    "Sex.",
+    "Raping women before murdering them.",
+    "Children first, women after and men can watch.",
+    "Sexy nurse."
+  ],
+  "pack": {
+    "id": "267PB",
+    "name": "Horror Deck"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 39,
+    "total": 51
+  },
+  "dateStoredMs": 1588361732890
+}

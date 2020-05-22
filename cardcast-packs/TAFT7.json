@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "The ROVE office smells like _  just walked in.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Use ROVE for your IT needs - we have _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would have ROVE sales calls much better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is ROVE largest value-add!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "TAFT7",
+    "name": "ROVE 2020"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588770633598
+}

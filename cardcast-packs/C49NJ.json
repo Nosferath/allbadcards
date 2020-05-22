@@ -1,0 +1,207 @@
+{
+  "black": [
+    {
+      "content": "Este verano viene _ al Festival de Viña.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Le gusta _ en exeso.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El pasatiempos favorito de _ es _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Marcha por _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oye, apañai a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi nuevo apodo es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hace de _ en la nueva nocturna de TVN.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "#_para_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Salud, dinero, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ se comio a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Este viernes hubo un cacerolazo en el barrio alto por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La Facultad de Ciencias Sociales de la Universidad de Chile esta en paro hasta conseguir _. Llevan 3 meses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La real identidad de @elquenoaporta es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me lo paro _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No me gusta el tema original pero me encanta el remix de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solo salgo a carretear cuando hay/esta _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Anoche en Kamaleon, Stefan Kramer se puso a imitar a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dale a tu cuerpo _ Macarena.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quiero _ AHORA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El DJ en el carrete del colegio era _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "El conductor de la micro me echo la putia cuando me vio con  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ le robo el sobrero al profesor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ se relaja con _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Aqui se viene Azul Azul con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nueva moda entre los alumnos para que les vaya bien en la PSU: entrar con _ a la sala.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La ultima portada de LUN cuenta del escandalo con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gorda no lo vas a creer! Me encontre con _ en Cachagua el fin de semana largo!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "La KMZ un viernes por la noche.",
+    "El bar abierto.",
+    "Holasoygerman.",
+    "El Costanera inundado.",
+    "Tomanji.",
+    "Messi, llorando tras haber perdido la Copa America por segunda vez contra Chile.",
+    "Un perreo intenso.",
+    "Pedir permiso.",
+    "Los brazos de Piñera.",
+    "La cancion que dice \"esas son Reebok o son Nike?\".",
+    "El vendedor de palta.",
+    "Darle mas gasolina.",
+    "Su piscola.",
+    "Daddy Yankee.",
+    "Mi general.",
+    "Irse de etilico.",
+    "Memes de Gary Medel.",
+    "Juan direkchon.",
+    "Tomas Gonzalez.",
+    "El pelo de Farkas.",
+    "Pisco peruano.",
+    "Las respuestas de la PSU.",
+    "Un tuit de @elquenoaporta.",
+    "La 405.",
+    "\"La Bomba\" de Azul Azul.",
+    "La delincuencia en el barrio alto.",
+    "Un 8.8.",
+    "Educacion gratuita y de calidad.",
+    "El ojo de Bielsa.",
+    "Karadima.",
+    "El mar de Bolivia.",
+    "Piñericosas.",
+    "Camila Vallejos.",
+    "La safrada.",
+    "Una foto pokemona.",
+    "Un Mapocho navegable.",
+    "Rosa Espinoza.",
+    "Irse de paro por 3 meses.",
+    "Tomarse demasiadas piscolas.",
+    "El elenco entero de Yingo.",
+    "31 Minutos.",
+    "El WhatsApp de familia.",
+    "Stefan Kramer imitando a Piñera.",
+    "Mi tia Opus Dei que vive en La Dehesa.",
+    "The Voice Chile.",
+    "Un marepoto.",
+    "El marketing de WOM.",
+    "La Roja.",
+    "Quesillo.",
+    "La Bachelet comiendose a la Matthei.",
+    "Mandarle el WhatsApp al grupo de familia en vez de al polol@.",
+    "Tu vieja en cuatro.",
+    "Debatir sobre la dictadura con familiares que le dicen \"gobieno militar\" a la hora de almuerzo.",
+    "Alto del Carmen, Vuela Alto(TM).",
+    "El estado animico del pais tras la muerte de Camiroaga.",
+    "Un zorron de la UAI."
+  ],
+  "pack": {
+    "id": "C49NJ",
+    "name": "Cards Against Chilensis"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 56,
+    "total": 83
+  },
+  "dateStoredMs": 1589253622831
+}

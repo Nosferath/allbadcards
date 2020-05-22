@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "The newly-released LOTRO raid awards some sweet loot: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lord of the Rings Online would be a much better game if only it had _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having tired of poetry and music, the elves of Lothlorien now fill their days with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Hobbits... but in space!.",
+    "Falling into a random hole and ending up in Moria.",
+    "Sauron's biggest, blackest Numenorean.",
+    "The Lord of the Rings Online.",
+    "Tossing a dwarf, but in space.",
+    "Riders of Rohan, but with rockets instead of horses.",
+    "Riders of Rohan (the people).",
+    "Repurposing the LOTRO servers and using them to launch rockets.",
+    "Simply walking into Mordor.",
+    "Jumping from the top of Minas Tirith, just for fun.",
+    "Spending an entire evening in an MMO doing nothing but dancing.",
+    "Mordor's biggest, blackest Orc.",
+    "Roasting your friends in the fire of the D.R.A.G.O.N.",
+    "Striding bravely into battle with the wrong toolbar, and viciously dancing at the nearest Orc.",
+    "Epic Rap Battles of History, but in Middle-earth.",
+    "An ancient, powerful Elf randomly afflicted by wanton bursts of ballet.",
+    "An adorable Hobbit lass with glowy hands.",
+    "Simply walking into Mordor… as a chicken.",
+    "A pub crawl from one end of the Shire to the other.",
+    "Pillow fights, but in Middle-earth.",
+    "Riding a hobby horse at breakneck speed through Bree-town, slapping your own butt all the way."
+  ],
+  "pack": {
+    "id": "AV3V9",
+    "name": "The Wayward Deck: LOTRO"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 21,
+    "total": 24
+  },
+  "dateStoredMs": 1588522818953
+}

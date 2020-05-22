@@ -1,0 +1,936 @@
+{
+  "black": [
+    {
+      "content": "Tyler loves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ted Cruz, Bernie Sanders, Hillary Clinton, Donald Trump, all must _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ On The Rocks.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who does Mr.Knight hate the most?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look out for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumor is Tiger Woods and Bush are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thats right, there you go, just get _ right.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello world!!! Goodbye _!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jesus Christ is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats wrong with the world today? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I grabbed the pencil sharpener and I _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So baby you wanna see some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deez _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My father in his down time likes to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Xx _ xX.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "David my ginger friend is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump said all Mexicans are _ in his inaugural speech.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The crowd looked at the distance and saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There once was a man from _ who dreamed he was eating _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dwayne the _ Johnson.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whites are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "ISIS released a video of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just kill me now I cant believe _ exists.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah man, rumor is that Mr. Adams _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ bazinga.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spanish class is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you _ then you are _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is your one wish? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Halo 5 _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mtn. Dew _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Would you like some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All heil _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My great-grandfather used _ to lure slaves on boats.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ with just the right amout of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Paul _ : Mall _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jimmy was an innocent kid, until one day he _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just suck my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing I hate more than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All i want for _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's pronounced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Time to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did the marines see when they liberated a concentration camp? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Kings Fall raid, you must _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bro its double XP, time to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blacks are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "( ͡° ͜ʖ ͡° )つ──☆・ﾟClickity Clack, Clickity Clack, with this chant I summon _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What makes the card czar salty? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats wrong with America? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr.Knight is trying to guilt trip us by talking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Batman v _ Dawn of Justice",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Totino's Pizza _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll give you _ if you kill yourself.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Build that _ #make America great again 2016",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What gets you off ?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is your fantasy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey man nice _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats your favorite school activity? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black people are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Take your children to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ really grinds my groin.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are David's nutz so itchy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do all Africans have? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To prevent flooding use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Austin can suck _ anytime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ the Hut.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bad boys bad boys _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Queers these days like to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These toes are so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the best sitcom name? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo fam dat _ is lit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gave me cancer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ directed by Michael Bay.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the most offensive thing you've seen? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spongebob  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Jews are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make me a poem. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Captain _ : _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Whats wrong with my Xbox One? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God dammit I can't take _ anymore!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ that's the joke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats your opinion on Destiny? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vanilla Ice goes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do I suck at Call of Duty? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Man I am so _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call of Duty Black _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Halo is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats funny these days? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandpa died by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump denied the existence of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who killed Iron Man's parents? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best _ are made in Trump Tower. I love _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Suck my _ you _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Describe me, the Card Czar. _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ayy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spiderman Spiderman Does _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used _ to join the KKK.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was a bad idea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are all my friends fucking gay? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WTF is wrong with Trent? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Once there was _ then _ happened then other fucked up stuff like _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Fuck Trent He is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How would you fuck me? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Hitler kill himself?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitches be like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whats inside my asshole? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Holy fucking shit, I swear I am gonna _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where the fuck is Call of Duty going next? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shit, I could really go for some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Those fucking Japanese are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where the fuck is Xur? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does el pene mean in English? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tired of plain boring sex?  Spice up your sex life with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hitler was  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boom goes the fucking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "FUCK YOU _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My penis feels like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck is wrong with retarded people? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baby I already fucking told you? No more fucking _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fuck _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All right everybody shut the fuck up!!!!!  We are here to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Solja Boy.",
+    "HAHAHAHAHA JEWS DIED.",
+    "If shes old enough to pee, shes old enough for me.",
+    "Jewish Halloween.",
+    "Finger dogs.",
+    "Guatemalan jews.",
+    "DPS Oryx.",
+    "Watauga High.",
+    "Domestic abuse cases.",
+    "Tommy Wiseau.",
+    "Gay Superman.",
+    "Fondles Sandy's checks.",
+    "KYS.",
+    "The all female Ghostbusters.",
+    "N-word Jim.",
+    "Suck you off until you came in my mouth :).",
+    "Drink the pee.",
+    "ADVENTURE TIME!.",
+    "They have incredible strength that they cannot control.",
+    "Leafyisqueer.",
+    "Binladen's hole-filled head.",
+    "Dat boi.",
+    "Heath Ledger was a good joker :).",
+    "Schween.",
+    "My life.",
+    "[RESPONSE DELETED].",
+    "The Twin Towers.",
+    "Nutz.",
+    "Goddddddddddddddddddddddddddd.",
+    "George Bush's bush.",
+    "Good ole American Pie.",
+    "A COOL PERSON.",
+    "Dinklebot.",
+    "Ghost party.",
+    "School shootings.",
+    "REALLY?.",
+    "Receiving succ.",
+    "Pink fuzzy hand cuffs.",
+    "Mr.Assperson.",
+    "Pig nipples (bacon bits).",
+    "Money whores.",
+    "Razor blades.",
+    "Ned Flanders' hot bod.",
+    "Everything.",
+    "El cancér.",
+    "Riding down a water-slide naked.",
+    "Lunch ladies being stingy with the ketchup.",
+    "Keemstar the gnome.",
+    "Moldy potato seeds.",
+    "Worthless.",
+    "Memes from 2006.",
+    "Really, really, really, really, hardddddddddddddddddd.",
+    "Black.",
+    "My tongue, deep, deep down.",
+    "China.",
+    "Playing \"pumped up kicks\" while shooting  up the school.",
+    "Six Flags!!!!.",
+    "Dicks!!!!!.",
+    "A guy with peanut allergies trying to kill himself by eating peanuts.",
+    "Mom cankles.",
+    "Peen.",
+    "Cumquats.",
+    "Two bombs weren't enough.",
+    "Leader of the NEW WORLD ORDER.",
+    "Shoot up the school.",
+    "Nathaniel Warren.",
+    "DPS Sisters.",
+    "Caliber Watauga's first (and last) rapper.",
+    "AWESOME!!!!!!!.",
+    "Give u the pink sock.",
+    "The new COD is gonna suck.",
+    "DPS Warpriest.",
+    "Batman on Father's Day.",
+    "Batman on Mother's Day.",
+    "Larry Warren.",
+    "Taking your pants off and ferociously jerking off.",
+    "Ghost poop.",
+    "DPS Golgoroth.",
+    "Please take off your cloths?.",
+    "Heaven.",
+    "Dirty hispanics.",
+    "Mexican rapists.",
+    "Spanish the language of gays.",
+    "NOWHERE.",
+    "Inbred rednecks.",
+    "( ͡° ͜ʖ ͡°).",
+    "Cancerous.",
+    "Touch yourself.",
+    "Burning crosses.",
+    "911 jokes.",
+    "Ur mum XD.",
+    "Alfred the butt buddy butler.",
+    "Call Of Duty: Infinite Revenue.",
+    "One for the stink two for the pink.",
+    "Disabled babies.",
+    "Big man Tyrone.",
+    "Lips with hair.",
+    "#blacklivesmatter.",
+    "Daddy likes.",
+    "JOHN CENA!! du du du duuuuu.",
+    "A bunch of naked dead bodies.",
+    "Danny Devito.",
+    "Cum......alllllllllllll overrrrrrrrrrr herrrrrrrr face.",
+    "Masturbation.",
+    "Fuckbois who use fam unironicly.",
+    "Cum-swapping hobos.",
+    "Snorting coke in the dirty ass bathroom.",
+    "My ass.",
+    "Trump and his fucking wall spawning powers, we are all fucked.",
+    "Fucking repetitive piece of shit.",
+    "Fucking stupid, like WTF???.",
+    "Fucking asshole sex.",
+    "Fucking Mexicans.",
+    "Next to Lord Shaxx and his large cock.",
+    "What ever the fuck spiders can do.",
+    "No homo.",
+    "Mr. Knight gives so much damn fucking work.",
+    "Fuck each other in the assholes.",
+    "Tyler has aids.",
+    "Jews having a fucking orgy with money.",
+    "To many fucking chromosomes (science bitch).",
+    "A fucking finger covered in shit.",
+    "Rolls that will burn your fucking mouth with third degree burns.",
+    "My fucking dick.",
+    "Close to the black nigger lady.",
+    "Those fine....... big ass titties.",
+    "The penis of my penis is the penis of another penis with lots of penises.",
+    "Fuck Trump.",
+    "Fucking people dying in the Middle East.",
+    "To fucking die.",
+    "Get a PS4 faggot.",
+    "Fuck retarded kids.",
+    "Its not gay unless the balls touch.",
+    "Cock cheese.",
+    "The new sexy Aunt May.",
+    "Penis.",
+    "Fucking stupid.",
+    "Nazis ruleeeeeeeeeeeeeeeeeeeeeee.",
+    "The fucking basement.",
+    "Fucking annoying Tyler Swanson.",
+    "Fingers covered in dog cum.",
+    "Blowing Hillary Clinton's vagina.",
+    "Boner pants.",
+    "Shrek cuming in a kids asshole.",
+    "To much of a fucking grind.",
+    "Fucking starving Africans.",
+    "Fuck my asshole please.",
+    "Its a overpriced piece of fucking shit.",
+    "Bullets, to shoot those fucking kids in school.",
+    "Having sex with Morgan Freeman.",
+    "Fucking rape all of you.",
+    "Fucking Spock.",
+    "Americas funniest home terrorist beheadings.",
+    "Fucking grind it bitchhhhhhhhhhhhhh.",
+    "This fucking stupid  é.",
+    "Is a fucking faggot who fucks Patrick Star.",
+    "A fucking communist.",
+    "Masturbating while Coldplay plays in the background.",
+    "Trainsexual.",
+    "Shot a damn nigger.",
+    "Monkey sex.",
+    "A fucking big ass dildo.",
+    "So fucking hot God damn.",
+    "Your penis is big in my small shitty hand.",
+    "Crystal Weed.",
+    "Horse cock.",
+    "Consent is the worst sex.",
+    "Fuck console peasants, PC master race all heil Gabe.",
+    "I can't think of a response so here's a penis 8==D.",
+    "Likes to beat my mom, like fuck its fucking brutal.",
+    "My moms vagina.",
+    "A fucking nigger faggot.",
+    "Smonking weed.",
+    "Fuck the Mexican language.",
+    "Rule the fucking niggers (no offense Tyler).",
+    "Fucking space, Jesus those fucking retards.",
+    "Commits bestiality.",
+    "Rape every fucking girl at my college.",
+    "Dank ass memes.",
+    "Freudian penis I mean slip.",
+    "Sigmund Freud's small dick.",
+    "Mr.Adams and his boring ass stories.",
+    "Chris McCandless the paralyzed retard.",
+    "WE MUST FINISH HITLER'S WORK.",
+    "Niigers will be niggers.",
+    "The fucking Chinese.",
+    "Because David is a fucking dirty ginger.",
+    "My big ass fucking cock.",
+    "Niggers.",
+    "A piece of fucking sausage.",
+    "God I wanna fucking kill myself.",
+    "Full of fat and fucking useless pieces of shit.",
+    "Fucking fuck piece of shit.",
+    "A waste of fucking space.",
+    "Play fucking Gay of Shitty Fucking Lagging Duty.",
+    "Penis hotdogs.",
+    "Fuck this shitty Spanish class.",
+    "Plain old boring Hell.",
+    "Fucking shot all of his classmates.",
+    "Near the mute, death, and stupid fucking Speaker.",
+    "A fucking faggot.",
+    "Kanye's shit stained finger.",
+    "Piece of fucking shit, like literally a piece of fucking shit.",
+    "Very, very sexy.",
+    "My nigga Tyler.",
+    "Likes to suck fucking cock.",
+    "Nick Valentine's robot dick.",
+    "My moms damn fucking hairy ass legs.",
+    "Hitler giving a fucking blowjob for the first time.",
+    "Civil Penis.",
+    "Sticking rulers up my ass.",
+    "Blow my brains out, all over the fucking wall.",
+    "Your mom's fucked up vagina.",
+    "Bald Hitler.",
+    "Cock clock.",
+    "Kill all the Nigers and Faggots.",
+    "WTF is Destiny?.",
+    "Trent is a fucking faggot.",
+    "Lick pussy.",
+    "Fucking really good at b-ball broooooo.",
+    "Sexy Nazi cosplay.",
+    "The holocaust is fucking fake.",
+    "You're a douche.",
+    "Is a Neo Nazi.",
+    "Don't be fucking retarded!!!!.",
+    "Fucking 12 year olds and their cancerous voices.",
+    "Bloody condom.",
+    "Take off your damn cloths.",
+    "Going to fucking hell (like DOOM shit).",
+    "Fucking touch his small dick.",
+    "FUCKING EVERYTHING.",
+    "Really fucking coco black.",
+    "Trent gets off on fags.",
+    "Its a fucking Xbox one AKA piece of shit.",
+    "Sex.",
+    "Fucking shit and cum.",
+    "Fucking Arkham Asylum.",
+    "Fuck aliens and shit.",
+    "We are all fucked.",
+    "I would fuck you with these damn fingers.",
+    "Fuck the world God dammit.",
+    "A fucking Tampon.",
+    "Some retarded midget.",
+    "Fucking gay.",
+    "A finger up your fucking asshole.",
+    "Useless pieces of shit.",
+    "A fucking midget.",
+    "Some dirty nigger.",
+    "Killed his old bitch hag of a wife.",
+    "Fucking wall.",
+    "Stick my damn dick in your fucking mouth.",
+    "Fucking pussy.",
+    "Cum filled fur suit.",
+    "Fucking every girl at once.",
+    "Dirty \"God Hates Fags\" sign.",
+    "Everybody who lives there is fucking retarded.",
+    "Grimace the original nugget nigger.",
+    "Drink fucking bleach you damn fucking communist.",
+    "Getting fucking fat and useless.",
+    "HITLER!!!!!!!!.",
+    "Likes to fuck cats.",
+    "Money fucking savages.",
+    "A pedo, loves those fucking little boys.",
+    "Nice genital piercings that have  Nazi swastikas.",
+    "They are really, really, really fucking stupid.",
+    "Almost about to achieve orgasm until mum walks in.",
+    "Right in the damn fucking asshole.",
+    "Shrimp dick.",
+    "I shoved my fucking dick inside like yolo assholes.",
+    "Ultra AIDS.",
+    "Goddamn fucking Trump.",
+    "Having fucking hardcore sex, like fucked up shit.",
+    "Fuck random loot God dammit.",
+    "Is the original fucking G bro.",
+    "Not fucking suck Jesus Christ.",
+    "The fucking niggers.",
+    "The fucking gays.",
+    "Realizing suicide is the best option.",
+    "Ass ass ass ass ass ass.",
+    "Fuck face.",
+    "Fuck Costa Rica.",
+    "Because...... you're a fucking faggot.",
+    "Inside, deep, deep within my asshole.",
+    "Raped a fucking little boy.",
+    "Fuck me Jerry!!!.",
+    "Suicide!!!!!!.",
+    "Fuck gingers (David).",
+    "Using big cock as an insult.",
+    "Holocaust: The Musical.",
+    "Taking a can of dip and shoving it deep down inside the rednecks fucking throat.",
+    "A good fucking guy ok?.",
+    "Horny as fuck, like shit this fucking hard dick.",
+    "A big fucking naked black man.",
+    "Hitlers big fucking cock (heil).",
+    "Fucking shitty school."
+  ],
+  "pack": {
+    "id": "2FYZ9",
+    "name": "Austins Deck of Dumb Shit"
+  },
+  "quantity": {
+    "black": 125,
+    "white": 295,
+    "total": 420
+  },
+  "dateStoredMs": 1588981883843
+}

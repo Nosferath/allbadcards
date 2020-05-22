@@ -1,0 +1,666 @@
+{
+  "black": [
+    {
+      "content": "When we can finally go back to the office, the first thing I'll do is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't need to focus on _ anymore. Our new top priority is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There are lies, damned lies, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Zuck has taken a personal interest in my work on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I trained an ML pipeline on our Work Chat and it predicted _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next offsite will be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Like Portal, but _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My strategy for increased impact? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My main accomplishment this half was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since we're all getting Exceeds, I'm spending my half on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't trust the data but this may be because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you know the Q&A started? Watch for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The main agenda for this week's meeting is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SEA has no income tax, but it's _ that keeps me in CA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite thing about working at Facebook is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It added a lot of technical debt, but we finally have an awesome demo of  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ all-hands will feature a keynote presentation on _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There are now five teams at Facebook working on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After years of talking about it, we've finally made progress on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't we have _ in the microkitchens?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reliability, privacy, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We expect a 10% binary size increase due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't care about Zuck's geep. I want to see _ in the next Q&A.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By H2 2020 we should support _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I reject interview candidates who talk about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My team values me for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "(Working remotely, e.g., _.)",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We should create a new team that can focus entirely on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're testing our feature for _ with people who are interested in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I wasn't _, I'd _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm aiming for promo this PSC, thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week's top voted Q&A question is about our plan for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sure I'd be a Director now if not for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone volunteered for _ instead of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We only have _ to blame for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll join you for lunch as soon as I'm done with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If we've learned anything, it's that _ inevitably leads to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The funny thing about shelter-in-place is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Progress was made. _ was _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My reputation preceeds me: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The meeting you have joined is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Expectations for the next level include mastery of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our stock dropped 20%, most likely due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bot we really need is one that handles _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While waiting for _, I finally have time for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The only remaining launch blocker is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We had to roll back the latest release because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Free food, good healthcare, and _ are why I put up with my job.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's stand-up is cancelled due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't bugnub because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I became a TPM because of my burning passion for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Move fast and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm just one drink away from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're seeing a massive spike in crashes, most likely due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The original name for Portal was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only think I hate more than _ is Quip.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Working at Facebook is great, except for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's been a week of _, and I still don't understand _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I applied for our oversight board but got rejected because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hardest question on my interview loop was about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since they do basically the same thing, we should unify _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I spend at least 40% of my time on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Google is becoming Microsoft. Facebook is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is going to cause our next $5 billion fine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm standing in line for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wild error has appeared! This may be because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing at Facebook is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Interns are _ because _. ",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "HR scheduled 1:1s with all of us. I think they want to discuss _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do if you weren't _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would I do if I wasn't afraid? Dedicate my life to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Planning, prioritization, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm creating a wiki about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and break things.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We'll get the next billion users by focusing on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't understand why _ causes _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This meeting shouldn't have been a chat, it should have been _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're seeing a huge spike in engagement thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't the Hack vending machines have _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm on the BJN call. Are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What I really miss are the microkitchens and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This year's best Take Your Kids to Work day activity was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To help us debug your issue, please supply _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People supporting people supporting _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't come to work sick unless there's an emergency about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only use Tasks for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd buy an Oculus, but I'm afraid it would lead to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The DevInfra Quick Hits incorrectly claimed we now have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's better to ask forgiveness than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not a sad WFH meal, it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is better than breakfast at Hawker's.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only reason I want an Oculus VR.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meets all, meets most, meets _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Happy hour? More like _ hour.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If we _ we can get 2% on that workload.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The quarantine has resulted in a huge demand for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The top trending post today is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wonder if I can expense _ on the travel budget.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ on the shuttle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We will help bring the world closer together through the power of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Trying to remember what day of the week it is.",
+    "Staring at the microkitchen fridge with the door hanging open.",
+    "Using Thanksbot sarcastically.",
+    "A heated debate about an inconsequential design decision.",
+    "Reading too much into this game.",
+    "Prosecco on tap.",
+    "Joining on mute.",
+    "A design meeting with no agenda.",
+    "Unsolicited PSC feedback.",
+    "Microsoft.",
+    "Tweeting complaints about coworkers.",
+    "Calling on Work Chat when the other person joined a two-person VC.",
+    "FB eats.",
+    "Entering a bug for a www crash that you know will be reaped in three months.",
+    "Going outside without a hazmat suit.",
+    "Memorizing the best meme tags.",
+    "Thinking COVID-18 must have been easier.",
+    "Playing Codenames.",
+    "Cute codenames.",
+    "Joining Netflix.",
+    "Spending too much time on Hacker News.",
+    "9 am meetings on Mondays.",
+    "Moving fast and breaking things.",
+    "Leading bootcampers astray.",
+    "Being afraid you won't be able to fit into pants anymore.",
+    "Constantly talking over people on VC.",
+    "Annoying your RelEng.",
+    "Uninstalling Zoom.",
+    "Self-medicating by drinking bleach and aquarium cleaner.",
+    "Trying to find a free 10 person conference room in MPK14.",
+    "Measuring impact by counting Likes.",
+    "The panic when hear my name while I'm zoned out on a VC call.",
+    "Pets filling in for children.",
+    "Asking \"insightful\" questions in a meeting to impress people.",
+    "S#itposting @ FB.",
+    "Reading PowerPoint slides on Portal.",
+    "Stealing food from unguarded events.",
+    "Giving people the power to build community and bringing the world closer together.",
+    "Aligning across the organization.",
+    "Overthrowing the government in a bloodless revolution.",
+    "Tom Nook.",
+    "My plot to spread COVID-19 through 5G.",
+    "Three levels of management.",
+    "A literal plague.",
+    "Extending my vacation by \"working from home\".",
+    "Spending my $1000 on the world's loudest clacky keyboard.",
+    "A followup meeting to a design meeting with no agenda.",
+    "Forgetting you're not muted.",
+    "Insufficient signal.",
+    "Severely outdated documentation.",
+    "Google.",
+    "The Seattle team.",
+    "Missing the shuttle.",
+    "Q&A.",
+    "Dialing into a meeting to avoid walking up the stairs.",
+    "A Work Chat tab using 6GB of memory.",
+    "Facebook foxes.",
+    "Finding the perfect GIF.",
+    "Trippy VC glitches.",
+    "Using the Starbucks as an Uber pickup spot.",
+    "Clicking Like on my own posts.",
+    "Complaining about stock grant prices.",
+    "Wondering if that fruit is too old.",
+    "Scrolling without glitches.",
+    "Management roll-up posts.",
+    "Pretending to be interested in a product launch to get into their happy hour.",
+    "Eggs for breakfast lunch and dinner.",
+    "Switching to unrelated topics to end a meeting early.",
+    "A solution that's simple, elegant, and wrong.",
+    "An unsuspecting intern.",
+    "Nonsensical meeting room names.",
+    "Livestreaming the Q&A to TechCrunch.",
+    "Bringing pets to work.",
+    "OMG the children.",
+    "A drawing of a spider.",
+    "Three incompatible sources of truth.",
+    "Electric car valets.",
+    "Dogfooding the yellow app.",
+    "Doing nothing.",
+    "Trying and failing to find something on internal search.",
+    "Free swag.",
+    "Apple.",
+    "Thoughts and prayers.",
+    "Facebook.",
+    "Scheduling London people for meetings at night.",
+    "A fractional company multiplier.",
+    "Reinventing the wheel.",
+    "An hour-long meeting that should have been a group post.",
+    "Writing my manifesto.",
+    "A large backlog of ads credits.",
+    "Secretly enjoying quarantine life.",
+    "Angery reaccs.",
+    "Quote unquote \"Better Engineering\".",
+    "Catching the shuttle.",
+    "Getting my own office by claiming a bathroom stall.",
+    "Priscilla Chan and her husband.",
+    "A meeting that involves three times as many people as needed.",
+    "Rage quitting.",
+    "Breakfast beer.",
+    "H2 planning.",
+    "Dreading my team meeting.",
+    "Lunch drinks.",
+    "Literal dogfood.",
+    "Drinking the Kool-Aid.",
+    "People who bring their lunch into the bathroom.",
+    "Submitting unsolicited negative PSC feedback.",
+    "Making sure to complain about compensation on Pulse, no matter what.",
+    "Charging an admissions fee to let people tour Classic.",
+    "So much unused PTO.",
+    "Putting people I've never met in the Referrals tool.",
+    "Resting and vesting my RSUs.",
+    "Adding a question mark to my long, angry rant and adding it to the Q&A poll.",
+    "Stealing office supplies and scalping them outside of OfficeMax.",
+    "Wednesday meetings.",
+    "Stretching the definition of \"essential business\".",
+    "Sourdough bread.",
+    "A plane full of Facebookers.",
+    "A not-so-friendly ping.",
+    "Topo Chico.",
+    "Procrastinating like no one's ever procrastinated before.",
+    "Getting Zuck elected president.",
+    "Claiming items on Free @ FB then selling them on eBay.",
+    "Thinking the \"hands\" tool was something else entirely.",
+    "Taking some PTO and waiting for it all to blow over.",
+    "An awkward conversation with my HRBP.",
+    "Attacking people with a broken beer bottle.",
+    "Waiting in line at Harvest.",
+    "Arguing about GIF vs. JIF.",
+    "Ignoring tasks until the reaper kills them.",
+    "Trolling Blind.",
+    "Wilde.",
+    "Fake News.",
+    "Facebook culture.",
+    "The spinning beachball of death.",
+    "Extrapolating based on two SCUBA datapoints.",
+    "Forgetting that the camera is on in Workrooms.",
+    "Causing a SEV1.",
+    "What day is it again?.",
+    "Rampant Imposter Syndrome.",
+    "PTO.",
+    "Complaining about free food.",
+    "Signing up for interviews solely for some human interaction.",
+    "Being inspiration for a mandatory HR training class.",
+    "Reducing app size so they can just waste it on features.",
+    "The Next Billion.",
+    "ChuckR.",
+    "A 300% increase in crashes.",
+    "Posting more memes than anyone else in your chat.",
+    "Copying features from other social media platforms.",
+    "Dumping stock on the first day of the trading window."
+  ],
+  "pack": {
+    "id": "E874H",
+    "name": "TPM"
+  },
+  "quantity": {
+    "black": 100,
+    "white": 150,
+    "total": 250
+  },
+  "dateStoredMs": 1589411645437
+}

@@ -1,0 +1,121 @@
+{
+  "black": [
+    {
+      "content": "If it wasn't for _ i could have _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the greatest crime a writer can commit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My biggest problem with the book is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Is that a new book title?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ don't exactly go well together.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_  is the greatest crime a reader can commit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Nothing else to say.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never saw _ coming. What a great twist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the prequel to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite new font is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Book club? Don't you mean _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite book genre is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The answer to everything is so clear. Its _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isn't _ and _ the same thing?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best book plots follow a rigid structure. First _ , then _ , followed by _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Reading the entire dictionary.",
+    "Folding the edge of a book to save the page.",
+    "The feeling when a book uses emoji's as words.",
+    "Relating to the antagonist a little too much.",
+    "When your favorite character dies.",
+    "Realizing you just wrote down the song lyrics to your writing music.",
+    "Working on the 213th draft for the 8th time.",
+    "Not knowing a words meaning and having to search for it before you continue.",
+    "Bolding words for emphasis.",
+    "Solving the mystery before the main character does.",
+    "The improper use of quotation marks.",
+    "Waterproof books.",
+    "William Shakespear.",
+    "Movies based on books.",
+    "Fan fiction.",
+    "Writing in 2nd person perspective.",
+    "Glow in the dark ink.",
+    "The pain of dropping a book in the bath tub.",
+    "Words.",
+    "Learning a new vocabulary word.",
+    "A \"classic\" story.",
+    "A horror story set in a sunny happy fantasy world.",
+    "Spoiling the best parts of a book.",
+    "Sans serif.",
+    "WRITING IN CAPS LOCK.",
+    "A slow story that picks up on the last 3 pages.",
+    "Finding two books of the same name and forgetting the authors.",
+    "Chapter 112:  Describing the Main Character's Room.",
+    "Realizing you accidently wrote an erotica.",
+    "Literal fan fiction, following the love story of two fans."
+  ],
+  "pack": {
+    "id": "EFYNA",
+    "name": "Writers and Readers pack"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 30,
+    "total": 45
+  },
+  "dateStoredMs": 1589035222379
+}

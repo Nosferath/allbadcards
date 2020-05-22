@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you call Scooby Doo with a blunt in his mouth? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear about the guy who invented Lifesavers? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me: Dad, make me a sandwich _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What time did the man go to the dentist? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do chicken coops only have two doors? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A ham sandwich walks into a bar and orders a beer. Bartender says, _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the Clydesdale give the pony a glass of water? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "They say he made a mint.",
+    "No, just leave it in the carton.",
+    "Because he was a little horse.",
+    "Sorry we don't serve food here.",
+    "Tooth hurt-y.",
+    "Scooby Dooby.",
+    "Dad: Poof, You’re a sandwich.",
+    "Because if they had four, they would be chicken sedans."
+  ],
+  "pack": {
+    "id": "Jt99s",
+    "name": "Dad Jokes"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 8,
+    "total": 16
+  },
+  "dateStoredMs": 1589344307548
+}

@@ -1,0 +1,70 @@
+{
+  "black": [
+    {
+      "content": "I have no butt, it's all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't be sorry, just stab _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Was it always this ugly? It's _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Noel's suitors.",
+    "A bowl of razor blades.",
+    "Ed's long neck.",
+    "Noel's war cry.",
+    "Panda's laugh.",
+    "Wabbles.",
+    "Noel studying.",
+    "Buggy.",
+    "Buggy's Dota addiction.",
+    "Auntie Svenge.",
+    "Sato.",
+    "A salt powered robot.",
+    "Hoi's hoard of Steam games.",
+    "Lake.",
+    "Chocolate milk with Thai food.",
+    "Astro.",
+    "Ed.",
+    "Horchata.",
+    "Your face.",
+    "Svenge.",
+    "Lubricated waffles.",
+    "Cross.",
+    "Bunny stew.",
+    "The sandwich debate.",
+    "Hoi.",
+    "Noel.",
+    "Sato's milk obsession.",
+    "Noel's GP.",
+    "Eni.",
+    "Panda.",
+    "Protecting the car.",
+    "Hoi's dossiers.",
+    "Ed's hate crimes.",
+    "ClassicNoel™.",
+    "Hoiming Industries.",
+    "A pretty pretty princess.",
+    "Alpha.",
+    "A cranberry fucknut.",
+    "A wanker."
+  ],
+  "pack": {
+    "id": "W6GZJ",
+    "name": "Usual Suspects/OverNite Anon"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 39,
+    "total": 42
+  },
+  "dateStoredMs": 1588994432465
+}

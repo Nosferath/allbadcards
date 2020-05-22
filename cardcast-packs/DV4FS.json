@@ -1,0 +1,171 @@
+{
+  "black": [
+    {
+      "content": "What got me fired from my last job? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Balmer's Peak hit me last night and I invented _ using _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who stole my cookies? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From our analysis we can conclude that _ is comprised of magical unicorns.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your next project: create a _ that uses _ to _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Every night before I go to bed, I pray to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I fail my last interview? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Discovery Channel just started a new reality TV show featuring _ and _ living in the wild with only _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Yesterday I hooked up with _ at NIPS.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got 99 problems, but _ ain't one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this paper, we introduce _ using the state of the art _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm sorry professor, I couldn't submit my paper to the conference because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What ended my last relationship? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why can't I sleep at night? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The state of the art systems are currently utilizing _ that _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's a pity that kids are getting involved with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Which feature caused my model to overfit? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did I get kicked out of a conference? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a tattoo of _ on my back.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my sugar daddy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After 9000 epochs of training, my model finally produced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ hired me to build the next _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Yann LeCun.",
+    "Geoffrey Hinton.",
+    "Forgetting to save my models.",
+    "Microsoft.",
+    "Generative adversarial networks.",
+    "Watson.",
+    "Logistic regression.",
+    "Naive bayes.",
+    "Predicts when you're gonna die.",
+    "Performing cross validation.",
+    "Google.",
+    "Ian Goodfellow.",
+    "Linear regression.",
+    "Self driving cars.",
+    "Clippy.",
+    "Convolutional neural networks.",
+    "Preprocessing the data.",
+    "Long short-term memory networks.",
+    "A frequentist.",
+    "Neural networks.",
+    "Deep learning.",
+    "OpenAI.",
+    "Skynet.",
+    "Cortana.",
+    "Overfitting your dataset.",
+    "IBM.",
+    "Support vector machines.",
+    "Dropping your database tables.",
+    "Andrew Ng.",
+    "Kaggle competition.",
+    "Not giving a shit about my precision.",
+    "Elon Musk.",
+    "Reporting a false error.",
+    "Recurrent neural networks.",
+    "A bayesian.",
+    "Twitter.",
+    "Siri.",
+    "Facebook.",
+    "Robots.",
+    "The database."
+  ],
+  "pack": {
+    "id": "DV4FS",
+    "name": "Cards Against Data Scientists"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 40,
+    "total": 63
+  },
+  "dateStoredMs": 1589492132605
+}

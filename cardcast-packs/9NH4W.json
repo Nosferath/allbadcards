@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "Donald Trump was sad untill he came out as _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Discord.",
+    "The LGBT community.",
+    "The person who made this card.",
+    "Transgender.",
+    "Ajit Pai."
+  ],
+  "pack": {
+    "id": "9NH4W",
+    "name": "LGBTQ+"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1588669577348
+}

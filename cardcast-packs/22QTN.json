@@ -1,0 +1,86 @@
+{
+  "black": [
+    {
+      "content": "People With _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vaccines don't cause autism, _ causes autism!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Comorbid disorders? Yeah, I have ADHD, OCD, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I realized I was autistic because I was constantly _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new special interest is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spent six hours organizing my _ collection this weekend, and boy was it time well spent!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What set off my meltdown? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to auditory processing issues, I misheard _ as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I eat only one food, and it's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always start my morning routing the same way:  _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Stimming so hard you hit someone in the face.",
+    "Autism $peaks.",
+    "Getting bullied by teachers.",
+    "Putting things in your mouth that aren't supposed to go in your mouth.",
+    "Autistic adults.",
+    "A loud sudden noise right by my ear.",
+    "Wearing red every day of april.",
+    "Learning to take the bus on your own at age 16.",
+    "Stimming.",
+    "Rain Man.",
+    "A little white boy who doesn't speak and likes trains.",
+    "Tying your child's hands down :) for their own good :).",
+    "Allistics freaking out when you swear.",
+    "Weird social norms everyone else seems to understand.",
+    "Echolalia.",
+    "Executive dysfunction.",
+    "Going nonverbal.",
+    "Listening to the same song 6000 times in a row.",
+    "People thinking you said \"erectile dysfuction\" not \"executive dysfunction\".",
+    "Allism Shuts The Hell Up."
+  ],
+  "pack": {
+    "id": "22QTN",
+    "name": "Autism Deck"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 20,
+    "total": 30
+  },
+  "dateStoredMs": 1588279477560
+}

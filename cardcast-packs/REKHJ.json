@@ -1,0 +1,35 @@
+{
+  "black": [
+    {
+      "content": "Come get y'all _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, welcome to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So you just gonna bring me a birthday gift on my birthday to my birthday party on my birthday with a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whaddup, I'm Jared, I'm 19, and I never  _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "rekhj",
+    "name": "Memes"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 0,
+    "total": 4
+  },
+  "dateStoredMs": 1588477640088
+}

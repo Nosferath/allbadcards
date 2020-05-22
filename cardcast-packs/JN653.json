@@ -1,0 +1,20 @@
+{
+  "black": [],
+  "white": [
+    "German sausage is the Wurst.",
+    "Pocket dialing.",
+    "That stain on your Dirndl.",
+    "Drunk dialing.",
+    "Zoom calls with your nemesis."
+  ],
+  "pack": {
+    "id": "JN653",
+    "name": "Rebecca Oktoberfiesta"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 5,
+    "total": 5
+  },
+  "dateStoredMs": 1589486983255
+}

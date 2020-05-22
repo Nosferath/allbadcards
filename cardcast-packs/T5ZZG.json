@@ -1,0 +1,80 @@
+{
+  "black": [
+    {
+      "content": "De mama is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Liever _ dan _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Uw moeke heeft _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Uw zus heeft graag _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ga terug naar _ jij vuile _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mijn _ is groter dan _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Soms denk ik aan _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik doe niets liever dan _ behalve _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Aan wat denkt Gilles het meest: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ik zeg altijd: _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Opgegeten.",
+    "Marokkaan die ne fiets pikt.",
+    "Bananenland.",
+    "2 negers in mekaar rammen met nen tros bananen.",
+    "Den Eiffeltoren.",
+    "Koning Filip.",
+    "Homo's oplossen in een vat zuur.",
+    "Ne genderneutrale transgender.",
+    "Ne pot beffen.",
+    "Hoeren neuken nooit meer werken.",
+    "A moeke heeft viskes gebakken.",
+    "Verdrinken.",
+    "Gilles zijne 5cm.",
+    "Rijstfretter."
+  ],
+  "pack": {
+    "id": "T5ZZG",
+    "name": "Random"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 14,
+    "total": 24
+  },
+  "dateStoredMs": 1589321490417
+}

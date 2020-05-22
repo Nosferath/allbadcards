@@ -1,0 +1,4518 @@
+{
+  "black": [
+    {
+      "content": "You show me your _ and I'll show you mine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do we say to the God of Death? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leaked White House security footage reveals Biden and Obama alone in the study with _ while _\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Besides cars, Honda also manufactures generators, solar cells and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It wasn't me, I swear! I was framed for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, a new movie starring Charlie Day as a mentally challenged man who teaches us all one important life lesson: _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Honey, where did our daughter get this _ recipe for her Easy Bake Oven?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll take _ for $200, Alex.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My house sigil is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because of my mistake, six men didn't return from _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandma's losing it. She got me _ for my birthday.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming soon to a theater near you... Star Wars Episode X: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ spread. So good, you won't believe it's not _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rejoice! Within the treasure chest, you find a +2 Longsword of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to Wikipedia, _ is the state of _ when _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm sorry I'm late! There was _ on the freeway!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't always win in Cards Against Humanity but, when I do, I play the _ card.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ on Ice\", the worst thing to happen since the Ice Capades.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are you talking about? Putting _ in _ is totally legal!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The union's calling for a strike again. Their demands include better benefits, higher wages, and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Okay, I'm going to snap the picture! Everyone say _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hear me out. I want you to rub _ all over my naked body and then lick it off.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh god, that's not beef in the killer's stew. It's _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't call me _, that was my slave name. As of today, I am _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hairy creature in the 1967 Patterson-Gimlin footage? Oh, that's not Bigfoot at all! It's just _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The curtains and the drapes match my _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Christopher Nolan epic titled _, Leonardo DiCaprio must venture back in time to save _ from _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "This week on The Magic School Bus, Ms. Frizzle takes the children to see _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I reached the end of the rainbow. Turns out the only thing there is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behold, an erection so stiff that it is capable of breaking _ in two!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deep fried _? Wow, you can get anything deep fried in the South.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to childhood trauma, I have a deep fear of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Netflix and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Have a problem with _? Try the all new Mastercraft _, available only at Canadian Tire.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "People Magazine's person of the year is _ due to their work with _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bill O'Reilly's latest freak out occurred when _ appeared on his show to talk about _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My _ cosplay was a huge hit at the _ convention!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm never getting mixed chocolates again! This one was filled with _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I write _ fanfiction. So, yeah, that's out in the open now.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, but I can't date someone whose pet peeves are _ and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a game where players hit _ with sticks.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm being executed tomorrow. My final meal? _ with a side of _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Here's the plan. We get the warhead, and we hold the world ransom for... _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Young punks.... get off my _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guys, I'm pretty sure that dressing our subreddit's Snoo up as _ is breaking the TOS in some way.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Game of _, season eight. Only on HBO. _ is here.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How many licks to get to the center of _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Simulator 2017? Okay, these simulator games need to end already.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Announcing the newest Canadian NHL team, the Quebec City _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I finally went to confession to tell someone about my struggle with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald Trump's gone mental. He's declared that _ is a threat to humankind and has vowed to defeat it with _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: The rags to riches story starring _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How many licks does it take to get to the center of _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All hail! Glorious leader _! Provider of _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it really necessary to examine my _, doctor? I'm only here for _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "DON'T MOVE! The T-Rex's vision is based on _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A fishing trip is incomplete without beer and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First _ dies, then my wife is diagnosed with _, and now I lost my _. Worst week ever.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "We have family game night every Friday! This week, we're playing _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Armageddon tells the tale of _ going into space to destroy a giant meteor with _, thus saving the Earth from annihilation.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The all new \"Category 6\" hurricane rating, where winds are strong enough to throw _ through _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I live vicariously through my children by heavily involving them in _ and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why am I speaking to _? Because it's alive, it speaks to me. It tells me that I should be _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Health Journal Report: Scientists believe that we may be eating too much _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There was a riot at the _ TED Talk (for obvious reasons).\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Reincarnating as _ is not what this Buddhist had in mind.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Tooth Fairy never left me money growing up. Instead, I always found _ under my pillow.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You call my life dark and depressing. I call it _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing screams \"this is a great murder!\" more than _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deep fried _? Yeah, they'll eat anything in the Deep South.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't even the strangest thing I've ever eaten off of _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Best chocolate bar, hands down, is _. Chocolate, caramel, nouget, toffee, and _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Look, in the sky! It's a bird! No, it's a plane! No, it's _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not _, it's Delissio!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a weird transformation fetish. I get off to the idea of being turned into _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ultimate cure of the hiccups? Being exposed to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his new action-thriller movie, Liam Neeson must save the President's _ from _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't swim in the open ocean. Sharks can smell _ from miles away.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Newfies are really into _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One blast for rangers returning, two blasts for wildlings, three blasts for White Walkers... and four blasts for _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While writing an essay, I was forced to turn Clippy off for good when he asked if I needed help with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Private property. Beware of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There is nothing I hate more than _ on the internet.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On tonight's episode of Survivor, _ gets voted off the island for _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I come from the net. Through systems, peoples and _ to this place: _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No, _ is NOT an acceptable birthday gift for our four year old.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And all the girlies say I'm pretty fly for a _ guy.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You idiots! I said I wanted surgery done to make my nose smaller, not make me look like _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nine out of ten doctors recommend _ for _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dr. Pepper is said to have 23 flavours. I think one of them might be _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "According to my professor, the Egyptian hieroglyph that looks like _ actually means _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nothing turns me on faster than genderbent _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his newest movie, Adam Sandler plays _ working as _ with hilarious results.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He gave himself to save me, so that I could live on _. Was it really worth it?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casey's mom was outraged when he flunked his _ class for the third straight semester.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So we named our son _! What's wrong with that!?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hottest new self-help book: \"101 Ways to Please Your _\".\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looks like I picked the wrong week to quit _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stay off my property, I've got a trained attack _ ready to strike!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call 1-800-_ now for your free _! And just to say thank you, we'll throw in an additional _!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Why am I never allowed to visit grandma again? _, that's why.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the longest amount of time that went by unnoticed while you were _?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't go near the beach! The sharks are targeting _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The all new Apple i_, making _ easier for everyone of all ages.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "MY EYES! THE _ DO NOTHING!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't want to go to sleep, daddy. That's when _ comes to get me.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you want to roll with our crew, just remember that _ = undercover cop. Every. Single. Time.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When a girl asks if you want to come in for _, she REALLY means _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When hunting, I often spray myself with _ to mask my scent or attract _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cheers, love! The _'s here!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With great _ comes great _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "For lunch, I'd like a _ salad with a side of _. Hold the _, please.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm never subbing for that class ever again! The kids were calling me _ and throwing _ at me!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Your breath smells like _ passing through _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, the new film starring Matt Damon, has been praised due to its take on _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's this storm called? Hurricane _? I have a bad feeling about this one...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite mixed drink is the _. Equal parts vodka, _ and _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "We are Anonymous. We do not _. We do not _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Freeform round. Make a funny story using three cards. _ _ _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The best swordsman alive was killed by _!?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Any amount of _ before a date is too much.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_......... THAT'S EXACTLY WHAT JOHN CENA SAID TO _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My parenting skills were called into question when my baby's first words were: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friends and I recently had to hire an arbitrator to help us solve an argument over _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Saddest movie of all time? Easy, that's _ starring Tom Hanks and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The new Fifth Horseman of the Apocalypse is.... _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sacrificed _ to Satan and all I got was this lousy _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In order to torture my victims, I gradually deprive them of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yesterday he was a decent man living a decent life. Now he is a brutal savage who must slaughter to stay alive. Danny Trejo is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The _ maker.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "On his death bed, my grandfather asked for _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never had a reason to go to _ before, but now I do thanks to Pokemon Go!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Raiders of the Lost _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm in the body of _ and _ is in my body! The gypsy curse worked!?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You should come to my _ party. We're going to watch _ in 4K!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ lives matter.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am a robot in disguise. I hide in plain sight by turning into _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the witch's brew to work, we will need a frog, eye of newt, and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The sea monster has only one weakness! It must be struck with _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. Hate leads to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First there was the Ghost Pepper, then there was the Carolina Reaper. Now, the new hottest pepper in the world is the _ Pepper!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dayman: Master of _, and _ for everyone.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you type \"_\" into Google, it could break the internet.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bob Ross returns to television with his new show about _, and is called \"The Joy of _.\"\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Offering _ out of a white van with tinted windows is a surefire way to attract _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ classes for $25? What a steal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Michael Moore's new documentary, _, is pretty much just ninety minutes of _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Canada's national treasure.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My format: Guardian, to _ and defend. To defend my new found friends, their hopes and dreams. To defend them from _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you've resorted to arguing about _ on the internet, you know you've hit a new low.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "William Shatner narrates a new documentary about _ that is titled _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Grandma always says that _ isn't as good as it was back in her day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shot through the _, and you're to blame. You give _ a bad name.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was woken up at 2:00 AM by Billy Mays' screaming ghost trying to sell me _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his newest movie, hilarity ensues as Mr. Bean must save _ from _ while working as _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Excuse me! Waiter! There's _ in my soup!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just a legitimate front for my illegal activities.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sweetheart, no. You know how I feel about _ in bed.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The only way to get rid of a _ is to yield to it.\" - Oscar Wilde\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're _. You cannot be my lover.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have an idea for something that's like a renaissance fair, but instead we reenact _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To help increase sales, the dealership is now giving away a free _ with every test drive.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Watch me swallow _ whole, like a pelican!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ must do battle against _ in the hot new summer blockbuster _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Requesting backup! _ down, and _ has me pinned down!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What would I do for a Klondike bar? Simple. _\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new Star Trek show was never going to survive, not when it was about the USS _ and its commanding officer, Captain _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nintendo has unveiled their newest game, Mario _, where the plumber must use _ to save Princess Peach from _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm all _ from the waist down, baby!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look! Up in the sky! It's a bird! It's a plane! It's _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Halt, evil _! I shall defeat you with the power of _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My father would make outrageous claims, like he invented _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a bad habit of putting _ in people's mouths when they're asleep.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm kind of a big deal. I defeated _ with only _ and my wits.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You know who they should add to Mount Rushmore? _, that's who.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of course I like kids! I even coach the _ team down at the local YMCA!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That is Victoria's secret.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Brad Pitt leave Jennifer Aniston for Angelina Jolie? Because Jennifer couldn't give Brad _ like Angelina can.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nickelback's new song, _, has generated controversy among _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ugh, my father's out of control. He got drunk at the _ party and picked a fight with _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Freaky _\" is a movie about _ and _ swapping bodies.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Yeah, turns out that microwaving _ was a bad idea...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the barbecue cook-off. Today, our three competitors will be competing to barbecue the best _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear? There's this controversial new cereal called _ that has marshmallows shaped like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Exposed! _'s secret struggle with _ addiction!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The best way to pick up black chicks: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The eating contest took a disturbing turn for the worse when they brought out plates containing _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Parker! I want pictures of _ on my desk by 5:00 or you're fired!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's your foolproof plan to escape from this cell?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Police intervention convinced me that handing out _ for Halloween was not a good idea.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A revolutionary new drug has been invented! _, the cure for _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Nintendo Power _: Now you're playing with _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Genetically engineered _ super soldiers. That's when I knew that science had gone too far.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Simon says _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom's home! Quick, hide _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumour has it that the next villain in the new Batman movie is _ played by Nicolas Cage.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NO! My therapist said that I have to suppress the urge for _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Investigators were mortified upon discovering _ in the killer's deep freezer.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember _? Pepperidge Farm remembers.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Yes, this is 911. Did you just say that your emergency is... _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm gonna be a hit at the Halloween party with my super realistic _ costume!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_!\" That shall be my army's war cry.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Black people really seem to get into _ more than white people.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The name's Bond, James Bond. I'll have a _. Shaken, not stirred.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When a Tyrell farts, it smells like _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Social media erupted when the Montreal Canadiens traded P.K. Subban for _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That guy CAN'T be homeless. No way a homeless guy would have _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've got it! The murderer was _ in the ballroom with _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If Donald Trump gets elected, the first thing he's going to get rid of is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I was bad growing up, my father would beat me with _ and force me to say \"I'm _!\"\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Elephants fear mice, but did you also know that _ sends them into a flying rage?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Maggots infesting _. I do not have enough bleach to forever wash this from my memory.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I poured my Rice Krispies, I distinctively heard... Snap! Crackle! _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you win at Scrabble? Spell _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As president of the _ fan club, I will NOT tolerate _ within our ranks!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fun tip! When your boss stares at you suspiciously, respond with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bring chicks back to my place for a little _ and _. Next thing I know, _. Works every single time.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ trading cards? Who is even going to bother collecting those?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you see someone _, it is considered polite to say _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey, Lassie! What's that, girl? _? Come on girl, we gotta go tell _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "BREAKING NEWS: _ declares _ on _!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "White people smell like wet _ on rainy days.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That is how I will destroy my enemies.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ exhibit at the children's museum proved to be a big hit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I asked my phone what _ was. It came back with _ and _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Waitor, I believe there's been a mistake. I didn't ask for _ on my pizza.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stompin' Tom Connors was a Canadian folk icon who loved to sing about hockey, ketchup, and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't always cast Prestidigitation, but when I do, I use it on _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to cell phones, everyone's always taking pictures now. Pets, deserts, _, and _... and that's just what I get from my mother!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Son, I want you to meet daddy's nemesis, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the newest Star Wars game, EA is selling _ as DLC for $5.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I thought that my car sounded funny, so I pulled over and looked under the hood to find _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Help, doctor! My child claims to be the reincarnated _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Honey, how long has this been in the fridge? Not sure if mold or _...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is mightier than the _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ for Dummies\" is the only self-help book I need!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what I'd name my singles bar? Cafe _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Will Smith and Jeff Goldblum battle _ in the exciting sci-fi flick, _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The greatest treasure of all is what rests between a woman's _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is pretty much the strangest thing I've ever seen while using Google Maps' street view.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now Showing: The Phantom of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is pretty much the last person I expected to have greeting me at the Pearly Gates.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A were_, aka the lamest lycanthrope of them all.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Demon Lord _ arises! 1000 years of _ begins now!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Because of my interest in _, I want to pursue a career as _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Guitar Hero: _? Okay, they've run out of ideas.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't pity me! I don't need _ from you!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My nosy neighbor always stops me outside to talk about _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mixtape is weird just because it has _ and _ on it? This is coming from the guy with _ on his tape!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Today on Epic Meal Time, we're making _... wrapped in bacon!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the _ club! We have only one rule here.... NO _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Your dad used to whip you with a belt? That's nothing, my dad used to beat me with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're crazy if you think Child Services will get involved if my kid's birthday party is _ themed.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ask your doctor if _ is right for you. SIde effects include diarrhea, mood swings, nausea, and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I am Prime Minister of Canada, I will create the Department of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Out of the goodness of my heart, I gave _ to a homeless man.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My special Nanaimo bars are made with graham cracker crumbs, coconut, walnuts, vanilla custard and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was given a prescription for _, but it's totally overblown. I promise that you have nothing to worry about.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't comprehend _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An openly gay _? Huh, that's unusual.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I must've been so drunk last night! I woke up this morning in between _ and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "One of the best rock song ever? \"Born to _\" by Bruce Springsteen.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love to pickle preservatives! Nothing beats pickled _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is a little known fact that Jesus was really into _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And so ends the reign of _. The people are now free from _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lies on my dating profile? Occupation: _. Likes: _. Looking for _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I visited Finland last summer. Turns out everyone there nails _ to their door to keep _ away at night.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The kids got excited when I said that we're going to Disneyland. We're really going to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pizza Hut has introduced a new pizza, its crust is filled with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Talk about embarrassing. Airport security pulled _ out of my bag and questioned me about it front of EVERYONE.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harrison Ford gets dirty again in the recently announced Indiana Jones and the Cursed _ of _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. That's how the latest character died a gruesome death on Game of Thrones.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Basic Parenting Tip #21: If your baby cries in the night, it likely wants _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Keith Richards has been getting creative lately by injecting _ and snorting _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "It's the zombie apocalypse and all I have to defend myself is _. This is gonna get rough...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest episode of Mantracker pits the prey on the run in the harshest environment yet: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What? No! That's not _. It's my grandmother!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bill Nye the _ Guy!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get the camcorder! Dad's drunk off rubbing alcohol and is trying to pick a fight with _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I could shoot anything from my fingertips, it would be _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm like Obama. All I want is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pocket dialing _ while _. Oops!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is completely impossible to look cool while doing.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think that, every day, children should have three hours of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casey's at it again! This time, he's been busted three times at the border for smuggling _ into the country.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before you stands _. Roll for initiative.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Always leave _ at your table to let your server know that you were happy with their service.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know that my records states that I was involved in _ when I was fifteen, but that was years ago! People change!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ and Me (This Sort of Thing Is My Bag, Baby)\", by Austin Powers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have incriminating photos of the Card Czar doing something unmentionable with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rejected Transformer: _ Prime, who turns into _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I knew that my vet was a quack when he diagnosed my cat with _ and told me to give him _ twice a day.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ killed the Aztecs.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You rarely see a bumper sticker that says, \"Save _\".\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um, Mom, that's not a stray cat that you've adopted. That's _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A Godzilla attack on Tokyo was deterred by _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's two scoops of _ in every bowl of Kellogg's _ Bran!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oprah's outdone herself this time! On her latest show, everyone in the audience received a free _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What gives!? Nobody would buy my _ carvings at the Sunday market!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My testimony was so traumatic! I had to talk about how _ had me bent over a table and was whispering \"_\" in my ear the whole time.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "MacGyver can solve anything with an elastic band, matchstick, roll of scotch tape, and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By your powers combined... I am Captain _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hot new simulation game from EA, Sim_.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Give me chastity and continence, but not _.\" - Saint Augustine\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm really happy for you, I'ma let you finish, but _ had one of the best _ of all time!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The votes are in! The newest flavour of Doritos is Zesty _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your lifelines for this question are... phone a friend, ask the audience, 50/50, or _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I had a million dollars, I would buy you _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget razors in candies. This Halloween, parents need to be on the lookout for _ in candies.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Winter brings the White Walkers, but the White Walkers bring _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This _ will change the way we look at modern medicine... FOREVER!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The gypsy curse worked! On every full moon, I turn into _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's raining, it's pouring, the old man is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the brand new _ Whopper from Burger King!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest form of capital punishment: death by _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jimi Hendrix: Deceased, drugs. Janis Joplin: Deceased, alcohol. Mama Cass: Deceased, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the all new \"Friendly _\", the perfect talking robot companion for the elderly.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his newest movie, Sean Bean's character dies from _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing I enjoy more than the cool, refreshing taste of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"1000 Ways To Use _ As A Weapon\" by _. The serial killer's handbook.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I love the smell of _ in the morning.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You should have seen how passionate he got when I showed him _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why does my hair look so great? Well, my shampoo is infused with _ and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Sautéed _\" on the menu is a pretty good indication that you're at a _ restaurant.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Down her throat? What a horrific way to kill the poor girl...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm gonna win the chili cook-off this year for sure when I include _ as my secret ingredient!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casey's been arrested for a third time for soliciting _ on a street corner.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The Art of _\", by Sun _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ian McKellan is a versatile actor who takes on such roles as Gandalf, King Lear, Magneto and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ exhibit down at the local zoo turned out to be a huge hit!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's the way, uh huh uh huh, I like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I asked for a raise from my boss. Instead of increasing my pay, he gave me _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kanye West ruined the party when he brought _ and _ for everyone.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the new CBC original movie, Eugene Levy struggles with _... for the last time.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm out of breath from _! Talk about being out of shape!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I know all about _? Well, I read about it in a book.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Basic Parenting Tip #38: Never subject your infant to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ triggers me.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite classic metal bands? Easily Iron _ and Black _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Find _'s match for you at ChristianMingle.com.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "World's Worst _? Wow, this series has gone downhill. They should've stopped at World's Worst _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "KFC's new Double Down _, where they serve _ in between two pieces of greasy chicken.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can't go into _ at night because of my fear of _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ponderosa, Ponderosa! Doing _ better, a great deal better!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do not plug an open wound with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the new film starring Penelope Cruz, has been panned because of its heavy _ themes.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The US government is running a massive deficit caused by overspending on _ and _ for their military.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "How to catch a _: put _ in the middle of a bear trap.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Amazing _-Man versus _? Yeah, I think Marvel's run out of ideas too.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dude, I swear... if you say that my sister would like _ one more time...\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "First there was Code Red, then there was Baja Blast. Now, Mountain Dew is proud to reveal... Mountain Dew: _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "David Attenborough's gone mental. His latest wildlife documentary is all about _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's my fetish.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mike Tyson explains _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm kind of like Midas. Everything I touch turns into _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, Jeremy, _ is not an acceptable gift for your mother on Mother's Day.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ in the office vending machine? That's going to be a hot seller.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "RAISE YOUR SIGNS, BROTHERS! WE'RE NOT GONNA TAKE _ FROM _ ANYMORE!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In every single Marvel movie, there's a brief cameo by _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "O Canada, we stand on guard for _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Number one sign that the apocalypse has arrived? It's raining _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TLC was once a channel for learning. Then it became reality TV. Now, it has become non-stop _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the American Dream.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, a BBC motoring show, stars Jeremy Clarkson, Richard Hammond, and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Draw me like one of your French _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why are we here? Because the planet needed _, and it needed us to create it.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hurry, call the vet! The dog ate _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love my country, and nothing is more patriotic to me than _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Forget caves and ruins. In the newest Tomb Raider, Lara Croft must contend with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my weird hobby.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his last episode, Bob Ross painted _. He explained that it symbolized _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Girls are made of _ and _, and everything nice.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ dipped in chocolate is pretty much the best thing ever.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A new extreme sport crosses badminton with _ and _. It is called _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Prepare for my ultimate attack... THE _ FIST!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Move into our unit one month early and receive a free complimentary _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In her travels, Dorothy met the Scarecrow, Tin-Man, and Cowardly _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got so drunk last night! When I woke up this morning, I was _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How can I explain all of my weird issues as an adult? Well, for starters, my nickname was _ growing up.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Dothraki have no word for \"_\".\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When was the last time you showered? Your genitals smell like _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "China has been attempting to slow its population growth by utilizing _ and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I can disprove all religions by saying a single thing. _. Mind blown, right?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: the future that liberals want.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a shocking move, Donald Trump has just made _ free for ALL Americans.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My biker gang, _, will strike fear into the hearts of other gangs when they see _ emblazoned upon our leather jackets!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Egads, sergeant! We've been foiled again by the infamous _ Killer!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ is where _ go to die.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tom Petty said it best when he sang \"_ is the hardest part.\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's what I want to have written on my tombstone when I die.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On tonight's Kitchen Nightmares, Gordon Ramsay visits the restaurant _, where the kitchen is infested with _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In M. Night Shyamalan's newest movie, two kids must escape from _, who have replaced their _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Through _, all things are possible.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grandma's shopping list... 1. Milk, 2. Bread, 3. _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: A fisherman's best friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Christopher Columbus is a famous explorer partially credited for discovering _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "KFC's latest product, the _ Bowl, is a bowl filled with chicken, corn, _ and _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "The whitest thing ever: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ for Dummies\" is the only self-help book I'll ever need.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The water wasn't draining from our sink. Turns it out was clogged with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our kids show is hosted by _ that talks about _? Yeah, guys, we're going to get complaints.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Billy Madison is the story of a grown man who has to repeat _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_. It's a good thing.\" - Martha Stewart\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing ever hurt as much as when Gordon Ramsay said that my _ tasted like _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In Stephen King's newest horror novel, _ terrorizes a small fishing village and only _ can save the day.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I knew something was amiss when a young boy came into the store and tried to buy _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need a lawyer with experience in _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the next episode of Dr. Phil, fathers who have subjected their daughters to _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the witch's brew to work, we will need a frog, eye of newt, and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Starbucks has gone too far with the unveiling of their new Cinnamon _ Latte.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The dragon has only one weakness! It must be hit with _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Barney Ross, John Rambo, Rocky Balboa and _. Sylvester Stallone portrays many tough men on the big screen.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dodongo dislikes _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Walmart attracted controversy when they stopped slashing prices and started slashing _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whenever my wife is having her period, she develops these wild _ cravings.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Gone Wild? Wow, that's for a pretty niche audience.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Enter the _ sweepstakes now for your chance to win a free _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Every Thanksgiving, my aunt gets drunk and tells the story about _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Finger lickin' good!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The night is dark and full of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Funniest movie of all time? Hands down, it is There's Something About _ starring Ben Stiller and _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Pat, I'd like to solve the puzzle! _ _ _!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I'm not racist, I swear! I love _ of all colours equally!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We asked the ouija board \"_?\" and it slowly spelled out \"_\" in response.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I knew something was amiss with my house when I found _ written in blood on every wall.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. The other, other, other white meat.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My nosy neighbor always stops me outside to talk about _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You haven't heard? Studying _ in university will get you nowhere in life.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spring is the season of _ and is when _ starts to bloom.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Contrary to popular belief, a silver bullet is not the best way to kill a werewolf. It is, in fact, _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The best part of waking up is _ in your cup!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's how I want you to die.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? That's your foolproof plan to win _'s heart?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I dream of being _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it considered racist if I like _ but hate _?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When did 911 get involved? Probably when I drizzled hot _ all over her naked body.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, starring Shaquille O'Neal as _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The races will never be truly equal until everyone has access to free _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ flavoured ice cream? Baskin Robbins is starting to lose it.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Can't poop? No problem! _, nature's all-natural cure for constipation.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The raid group went nuts when they defeated _ and the legendary item, [_], dropped.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Did you see that ludicrous _ last night?\" \"What was _ thinking sending _ on that early?\"\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Bobby was baffled when Jessica handed him a note in class that simply said: \"You, me, _.\"\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't mean to brag, but they call me the Michael Jordan of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I like taxidermy as much as the next guy, but a stuffed _ riding _? That's going too far.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Many of the characters Sean Bean plays end up tragically _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot _, cool _. We treat you right.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My _ diorama is totally going to take first place at the amateur art exhibit!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's how I met your mother.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight, I wanna be a little kinkier than usual. You know how we have _ in the fridge? I want it in my butt.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Michael Bay's newest movie, a robotic _ must defeat an evil _ that is trying to devour the world's supply of _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "My couch is always wet because _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ triggers my gag reflex.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ in the $2 bargain bin? What a steal!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The handyman's secret weapon: _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tonight I dine on _ soup.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why won't I eat lobster? Well, probably because lobsters eat _ and _ off the sea floor. Gross.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is never a misunderstanding.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I were a superhero, the emblem on my costume would be _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is pretty much the worst thing I've ever done to make a quick buck.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was going through my sister's room when she was out, and then I found _ under her mattress. Never doing that again!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am the mother of _, breaker of _, and rightful queen of _!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hilary Duff reprises her role of Lizzie McGuire, now an adult, as she contends with _ in \"Lizzie McGuire: _\"\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If I had a genie that could grant me three wishes, I'd ask for _, _ and _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I found a shady black man in an alley trying to sell _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The all new Binford _, perfect for _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Getting home early to find _ cheating on me with _. Worst day ever.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Is it weird that I let my dog lick _ off of my naked body?\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "/r/_ and /r/_!? Wow, there are subreddits for everything!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Spell description: Target must make a WIS saving throw with a DC of 15 or be afflicted with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I challenge you to a duel! _ at sundown!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My dream fight? _ versus _. Location, _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Timothy 4:5 \"Because _ is sanctified by the word of God and _.\"\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Only two things can hurt Superman, kryptonite and _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I CLAIM THIS _ IN THE NAME OF _!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A brown bear, a drunk Russian, and _. You figure it out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The votes are in. The newest Olympic sport is _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lions and tigers and _, oh my!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's how I got out of jury duty.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NBC Sports is proud to present The World Championship of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to express my _ side, but I need an outlet. Maybe I should try _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ rule 34. The internet has finally gone too far.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After I explained my interest in _ and _ to my therapist, I was diagnosed as being a sociopath.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In 2017, many celebrities were accused of sexual misconduct. In 2018, they'll be accused of _ instead.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I knew that something was amiss with my relationship when my girlfriend screamed out \"_!\" during sex.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People Magazine's Sexiest _ of the Year 2020: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Rebecca Black has come out with yet another shitty song. This one's called _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The whale watching trip was completely ruined because of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone looks at me weird when I tell them that I'm sexually attracted to _. Is it really that weird?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've invented a new sex position called the _ that is pretty heavy on _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The \"_ Nazi\" was one of the most memorable yet controversial Seinfeld characters of all time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The name of MY sex tape? _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My New Years party proved to be a colossal failure after I offered _ as snack food and _ as entertainment.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You can take your family to _ for the day, watching the _ and _ play!\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is something that I thought would be really sexy in bed, but it wasn't.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck! I just found _ in your beard! When was the last time you cleaned it?!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Being bitten by a radioactive _ and gaining the power of _? You know that this is just a shittier version of Spider-Man, right?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I could never truly understand what a sexual predator was until I encountered _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My boyfriend is such an asshole! He only shows an interest in me when I talk about _!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Bunny and _ Duck. Will Warner Bros. come after us if we use these names?\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After the tsunami, Sean Penn brought _ to the people of Japan.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you get when you cross _ with _? ... MY ASS. Nyaha! Nyahaha!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The source of my insecurities stem from a sexual encounter with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The whale watching trip was doomed from the start when passengers noticed that the boat was called the S.S. _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In his suicide note, Billy profusely apologized for _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fools! _ only strengthens my boner!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "McDonalds attracted unending controversy after revealing their new Mc_ burger.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the earthquake, Val Kilmer took _ away from the people of Haiti.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Archaeologists are excited to unveil the missing link between humans and apes - the recently discovered homo_!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The game of hide and seek had lasted hours after _ hid in _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The hottest new video game, _, is rated M for gore, sexual themes, _ and _.\t",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ with _. Way more sexual than you'd expect.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm watching my friend's dog. Every thirty minutes, he needs his _ medication. I need to rub it on its _. FML.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ception, the most fucked up form of inception ever.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you turn a black light on over a porno set, you're going to see LOTS of _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you do a little research, you can learn that _ was what set Hitler down the path he ended up on in life.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ sex tape was the most traumatizing thing I have ever seen.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, looks like whoring out _ was a bad idea after all.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Casey's girlfriend broke up with him for the third time after she caught him in bed with _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A male stripper dressed as _, that's how you make women go wild.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking news! _ fired from _ after accusations of sexual misconduct!\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My friends and I are bringing doo-wop back with our new song titled _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After his career washed up, the people of the world brought _ to Sean Penn.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's insensitive to discuss _ near rape victims.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm totally straight, no homo, but I'd go gay for _ in an instant.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ with Satan isn't really how I expected my time in Hell would go.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ on the lawn. That's how I scare the kids shitless on Halloween.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mrs. Anderson knew that the shit hit the fan when she taught her third grade class all about _.\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ate so much _ that I threw up for HOURS after. Never again!\t",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I had to break up with _ after he got really jealous over me being around _.\t",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ for my birthday? FUCK. YOU.\t",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Trying children as adults for the pettiest of crimes.",
+    "Ser Maryn fucking Trant!?.",
+    "Jedi Master Yoda.",
+    "Vagina envy.",
+    "Being rescued by Liam Neeson.",
+    "Taking sexually suggestive photographs of pets for a living.",
+    "Semen everywhere.",
+    "Pictures of dead relatives.",
+    "Spending real money to buy virtual hats.",
+    "Fat chicks.",
+    "Cowabunga!.",
+    "Huffing paint.",
+    "TRASH PANDAS!.",
+    "Cocaine.",
+    "Hanging with Mr. Cooper.",
+    "A man trapped in a woman's body.",
+    "My ex-wife.",
+    "Shirtless third graders.",
+    "Advice from my six year old niece.",
+    "Torture porn.",
+    "Cumming in my sister's food.",
+    "Encouraging old people to go towards the light.",
+    "Parsing HTML with regex.",
+    "Putting counterfeit money in the collection plate at church.\t.",
+    "The Dame Edna sex tape.",
+    "A storybook for children full of incestuous tales.",
+    "A kid who keeps fucking everything up.",
+    "Eye of newt.\t.",
+    "A vasectomy.",
+    "Poison sumac.\t.",
+    "Strangling my father on his death bed.",
+    "A sensitive guy who can't handle a joke.",
+    "Having a third nipple.",
+    "Looking kind of dumb with your finger and your thumb in the shape of an L on your forehead.",
+    "Being possessed by Satan.\t.",
+    "Counting down until the day I kill grandma for the inheritance money.",
+    "A grumpy old fuck who refuses to retire.",
+    "A gargoyle's erect stone penis.\t.",
+    "MATT DAMON!.",
+    "Tobacco chewin', gut chompin', cannibal kinfolk from Hell.",
+    "The Gentleman's Guide to Fucking.",
+    "A purple nurple.",
+    "72 male virgins.",
+    "A Godzilla attack.",
+    "A bag of gopher testicles.",
+    "Drowning a cow in its own milk.",
+    "My dickhead of a boyfriend.",
+    "Two dinosaurs going down on each other.",
+    "A glitch in the Matrix.",
+    "Still seeing poo even after twenty wipes.",
+    "Writhing maggots.",
+    "Dropping the soap.",
+    "Watching Fort McMurray burn to the ground.",
+    "High definition photographs of poop.",
+    "The Calgary Stampede.",
+    "Building a shed on someone else's property.",
+    "High noon.",
+    "Conning the elderly out of their retirement money.",
+    "Hugh Hefner's mummified boner.",
+    "BANG, ZOOM! Straight to the moon!.",
+    "Rice-A-Roni.",
+    "My wife, the tramp.",
+    "LOUD NOISES.",
+    "Pushing up daisies.",
+    "An autistic little girl.",
+    "Crying and masturbating at the same time.",
+    "Cat meat.",
+    "A guy who is legitimately into me.",
+    "Sexual predators.",
+    "Suffocating to death in my own excrement.",
+    "Grandpa's rashes.",
+    "That one time at band camp.",
+    "Damn fine thighs.",
+    "A deeply rooted hatred towards towards everything related to Peru.",
+    "Bill fucking Murray!.",
+    "Legitimately cool cats.",
+    "A robot hand.",
+    "Fish dicks.",
+    "The frail and withered body of a vegan.",
+    "Fighting gay marriage.",
+    "Phallic objects.",
+    "My caffeine addiction.",
+    "Mongolia.",
+    "Girls who post selfies on DeviantArt.",
+    "Trying to befriend the friendly looking bear behind your house and consequently dying.",
+    "Casually watching kids at the playground.",
+    "My dad's boyfriend.",
+    "Whoring out the elderly.",
+    "MATT DAAAEEEMUN.",
+    "Raping and pillaging along the coastline.",
+    "Shaggy.",
+    "The insane asylum.",
+    "Mighty Morphin' Power Rangers.",
+    "Anal fluids that seemingly have no end.",
+    "A mahogany desk.",
+    "Killing and eating the neighbors.",
+    "Finding out that sex on the beach isn't as awesome as it is in the movies.",
+    "Vigo the Carpathian.",
+    "Shirtless firefighters.",
+    "Kellogg's Rice Krispies®.",
+    "A girl who had a dozen guys. One of them found out about it, beat her up so bad she ended up at a hospital on Guerrero Street.",
+    "Banging little Asian boys.",
+    "A bunch of bananas and shit.",
+    "Rainbow-coloured unicorn poop.",
+    "Tit dirt.",
+    "A thirst for fresh blood.\t.",
+    "Fucking a crusty old waitress who reeks of cigarettes and gin.",
+    "A euthanization.",
+    "Chocolate... or poop?.",
+    "Attempting to crossbreed cats and dogs.",
+    "Juicy nuts.",
+    "A tomcat with a really shitty attitude.",
+    "A bed of nails.",
+    "Rubbing whipped cream all over Christopher Walken's naked body.",
+    "Being replaced by a robot.",
+    "Chronic diarrhea.",
+    "Taiwanese lady-boys.",
+    "A country song about a divorced man's pick-up truck.",
+    "Not understanding how to use a semi-colon.",
+    "A furry convention.",
+    "Commercial lubricants.",
+    "A dirty whore with a sense of self respect.",
+    "The lazy Mexican.",
+    "My rubber ducky.",
+    "DEVELOPERS, DEVELOPERS, DEVELOPERS!.",
+    "Corn chips.",
+    "Staring at the expiration date a day after it expired.",
+    "The War of 1812.",
+    "An entire bottle of bleach.",
+    "Licking the toilet bowl on a dare.",
+    "Inbred hillbillies.",
+    "Slurping spaghetti.",
+    "Bahamut, King of the Dragons.",
+    "Sleeping with strangers.",
+    "A daughter in public school who hasn't been knocked up yet.\t.",
+    "Gollum's shrivelled ballsack.",
+    "Nicolas Cage wearing my face.",
+    "A rooster with a penchant for human flesh.",
+    "Holding people at gunpoint and forcing them to masturbate to erotic Goof Troop fanart.",
+    "One of those shitty Box Expansion cards that make no sense.",
+    "A token black guy.",
+    "Rapists who force their victims to play Yahtzee beforehand.\t.",
+    "The wrath of Khan.",
+    "A whiff of fresh ass.",
+    "Only being able to speak in rhymes.",
+    "A rectal thermometre.",
+    "Stepping in dog shit.",
+    "The Power of Grayskull.",
+    "Microwaving a cat.",
+    "Gradually turning into a cat.",
+    "Abu Bakr al-Baghdadi.",
+    "Fidget spinners.",
+    "A fresh whiff of ass.",
+    "Living in a van down by the river.",
+    "My adorably racist grandmother.",
+    "A severed goat's head.",
+    "Masturbating with a dill pickle and not being able to get rid of the smell.",
+    "The God Particle.",
+    "Swedish meatballs.",
+    "Butterscotch pudding.",
+    "Tony the Tiger.",
+    "The Last of the Mohicans.",
+    "Tourette Syndrome.",
+    "My tongue in your ass.",
+    "A hot bus full of old dry people.",
+    "Straight pride parade.",
+    "Mistaking diarrhea for a fart.",
+    "Glenn Beck trying to put together an IKEA shelf, which backfires and crushes him to death.",
+    "My life being narrated by an angry Samuel L. Jackson.",
+    "Fields of cotton.",
+    "DORITOS® Nacho Cheese Flavored Tortilla Chips.",
+    "Evading zombies while hunting for Twinkies.\t.",
+    "Tasteful uses of blackface.",
+    "Challenging Ganesha to a fist fight.",
+    "M. Night Shyamalan.",
+    "My cat.",
+    "Boko Haram.",
+    "Justin Bieber.",
+    "Being as methodological as a serial killer.",
+    "Lying on my dating profile.",
+    "Setting my own house on fire.",
+    "Mistaking a heart attack for needing to poop and dying on the toilet.",
+    "Christina Aguilera at 17.",
+    "Telling your sibling that they look really sexy today. Follow it up by saying \"I mean it\" in a deadpan tone.",
+    "Bloody, explosive hemorrhoids.",
+    "Being on the spectrum.",
+    "Katy Perry.",
+    "Being beaten to death with your own amputated arm.",
+    "The Veteran Feminists of America.",
+    "Angrily venting to animals.",
+    "Drax's famously huge turds.",
+    "Some sort of large dog-like creature.",
+    "Some retard kid in a wheelchair.",
+    "Raping unsuspecting women.",
+    "Just a real piece of shit person in general.",
+    "All the bacon.",
+    "American Idol.",
+    "Incestuous urges.",
+    "Cat videos.",
+    "Gay penguins.",
+    "A full-on rapist.",
+    "Being popular on the internet.",
+    "My toenail collection.",
+    "Sexualizing children.",
+    "Pre-cum.",
+    "An obese man falling down the escalator.",
+    "My identical twin brothers.",
+    "Falling into a turbine.",
+    "Chinese slave labour.",
+    "Getting a high-five from a cat.",
+    "The Spanish Inquisition.",
+    "Whatever The Rock is cooking.",
+    "My kill room.",
+    "John Madden.",
+    "Dad going out on \"business trips\" late at night.",
+    "Inserting a mayonnaise jar into my anus.",
+    "The Sword of a Thousand Truths.",
+    "Casey fucking everything up for a third time.",
+    "Dad jokes.",
+    "A dark and forboding forest.",
+    "Sucking the slime off of fish.",
+    "Autoerotic asphyxiation.",
+    "Hilarious racism.",
+    "Bea Arthur.",
+    "Lee Harvey Oswald.",
+    "Being killed by falling Taco Bell signage.",
+    "NAMBLA.",
+    "A vibrator that plays Oh Come All Ye Faithful.\t.",
+    "Spittle.",
+    "Smuggling onions.",
+    "Potent laxatives.",
+    "Teenagers with attitude.",
+    "Trypophobia.",
+    "Mentos, the fresh maker.",
+    "Being held down by my uncle.",
+    "A never-ending erection.",
+    "Organized religion and organized crime working together to help build a better America.\t.",
+    "Masquerading as a cop and getting away with it for several months.",
+    "Hitler's gas bill.",
+    "A majestic beard.",
+    "Tempered in raw shit.\t.",
+    "Fucking immigrants.",
+    "Purposely setting my kids up to fail at everything in life.",
+    "A lucid dream involving heavy incestual themes.",
+    "Alone time with a priest.",
+    "Swallowing a Carolina Reaper pepper whole.",
+    "Shitting so fast and hard that there is a loud \"BANG!\" noise when the turd fires out from your ass.",
+    "A good shot to the cooch.",
+    "Reddit karma.",
+    "A Tickle Me Elmo possessed by Adolf Hitler.",
+    "Being drooled on by an invalid.",
+    "Being turned into a ventriloquist dummy by Jeff Dunham.",
+    "Juicing the fuck out of an entire produce section.",
+    "Farting loudly during a moment of silence.",
+    "Enough whipped cream to kill a diabetic.",
+    "Rick Astley.",
+    "A dark and foreboding hallway.",
+    "Danny DeVito, but naked.",
+    "Bathing in the blood of my fallen enemies.",
+    "Morning wood.",
+    "The all new 2015 Toyota Corolla.",
+    "Stealing meds from the elderly.",
+    "Mass hysteria.",
+    "Clippy the paperclip.",
+    "Hot singles in my area.",
+    "Using blueberry jam in place of lube.",
+    "The body in my trunk.",
+    "A dad body.",
+    "Diarrhea puddles.",
+    "Sociopaths.",
+    "My real parents.",
+    "The Barenaked Ladies.",
+    "Millions of dead motherfuckers.\t.",
+    "Jacking off to a photo of yourself jacking off.",
+    "Being raised by penguins in the sewer.",
+    "A rubber surgeon. Like a plastic surgeon, but a lot worse.",
+    "A laser that turns anybody it touches into delicious and warm cinnamon buns.",
+    "Polo!.",
+    "Crackheads on welfare.",
+    "My enthusiasm for dead Lannisters.",
+    "Scooping out the eyes and sticking my tongue in the empty sockets.",
+    "Punching a horse to the ground.",
+    "Pap smears.",
+    "The sexual exploits of Jack Nicholson.",
+    "Being abducted, probed and raped every single night by aliens.",
+    "A tough nut to crack.",
+    "Being chased by a horde of self-aware Roombas with murderous intent.",
+    "A black white supremacist.",
+    "Way too many dead animals.",
+    "Kangaroo burgers.",
+    "Hardcore gay sex.",
+    "Banging a bunch of dirty whores.",
+    "Australian dungeon porn. Crikey, mate!.",
+    "Sending my empty condolences to the families of a tragedy I don't give a shit about.",
+    "An endless stream of diarrhea.",
+    "An earthworm going up my butt.",
+    "The size of my erection.",
+    "Owen Wilson's wig.",
+    "Negro folk.",
+    "Bruce Jenner.",
+    "Sending a dead hooker as food aid to Africa.",
+    "Swimming in raw sewage.\t.",
+    "Anthrax.",
+    "Ample opportunities to progress intellectually.",
+    "Parkinson's disease.",
+    "Playing Twister with paraplegics.",
+    "Show me da way.",
+    "Shrinkage.",
+    "Andre the Giant.",
+    "The hottest new Canadian-Russian delicacy, the Vladimir Poutine.",
+    "A veterinarian who is a little too eager in suggesting euthanasia.",
+    "Coming in like a wrecking ball.",
+    "Helping Wayne Brady choke a bitch.",
+    "Homeless men having gay sex under the boardwalk.",
+    "A shot of jager.",
+    "Potent sedatives.",
+    "Low blood sugar.",
+    "That one teacher from elementary school who seemed like a pedophile.",
+    "Forcefully raising my kid to be gay.",
+    "Fucking styrofoam that won't stop sticking to your fucking hands.",
+    "Hellhounds.",
+    "Explosive hemorrhoids.",
+    "A man with a very particular set of skills.",
+    "Getting a handjob from my niece.",
+    "The cannibalistic Korowai Tribe of Papa New Guinea.",
+    "Elderly Latino lovers.",
+    "Pixelated dick pics.",
+    "Alcoholics Anonymous.",
+    "An evil alien killing me and wearing my skin to get close to his next victim.",
+    "Incestuous mountain people.",
+    "Adam Sandler's acting career.",
+    "A BAT IN MY HAIR! GET IT OUT!!!.",
+    "A hockey riot.",
+    "Killing police officers.",
+    "Wesley Snipes.",
+    "Tricking people into pressing Alt+F4.",
+    "Ice cream!.",
+    "Jalapeño poppers.",
+    "Drawing pentagrams with period blood.",
+    "Dying in the first episode.",
+    "Surprise, muthafucka!.",
+    "Those weird dots on the foreheads of Indian women.",
+    "Being confused by the vagina.",
+    "Two small birds fighting to the death.",
+    "An emotionally abusive father.",
+    "My decrepit great-grandmother who I wish would just die already.",
+    "That one friend you keep around only to make yourself look better in comparison.",
+    "One thousand Twinkies.",
+    "The Prophet Muhammad.",
+    "A prison full of polar bears.",
+    "Stephen Hawking doing the ice bucket challenge.",
+    "A stray cat wearing my mother's face.",
+    "A leprechaun stuck to a glue trap.",
+    "A gay guy hiding in an actual closet.",
+    "Wearing an octopus as a hat.",
+    "Nipple clamps.",
+    "So pale and blonde that they look like Hitler's wet dream.",
+    "Drinking blood.",
+    "Sneezing on a penis.",
+    "Being elbow-deep in Asian teens.",
+    "Magnum dong.",
+    "Anal sex between unconsenting adults.",
+    "Becoming an architect.",
+    "KAKAROT!.",
+    "A psychiatrist who gives shitty advice because they legitimately hate their patients.",
+    "The decaying corpses of young Chinese girls.",
+    "Matt Mercer DMing my life.",
+    "Not passing go, not collecting $200, and going directly to jail.",
+    "Getting way too competitive and serious with Jenga.",
+    "Going ham with a fucking bazooka!.",
+    "Kevin Spacey diddling kids.",
+    "Body Break with Hal Johnson and Joanne MacLeod.",
+    "Some stupid bullshit that happened somewhere today.",
+    "Racist fiction.",
+    "Sticky fingers.",
+    "Finger puppets.",
+    "Hanging dong.",
+    "A hermaphrodite.",
+    "Wet shits.",
+    "Corpse dust.",
+    "A tablespoon of marmite.",
+    "Selling my neighbor's car on Craigslist.",
+    "Garbanzo beans.",
+    "Billy Dean® Pancake & Sausage On a Stick.",
+    "Being cryogenically frozen against your will.",
+    "Fresh meat.",
+    "Pistol whipping a sausage.",
+    "My body covered in goat piss.",
+    "Being humped by an entire pack of stray dogs all at once.",
+    "Batshit crazy Saudi Arabians.",
+    "A hot female vampire using a blowjob as an excuse to get some fresh dick blood.",
+    "Shoving pop rocks in your dickhole.",
+    "Blood pudding.",
+    "Toilet water.",
+    "A roadside orgy.",
+    "A dog who legitimately eats homework.",
+    "Debating the validity of \"black lives matter\".",
+    "Them negro folk livin' on the other side of the train tracks.",
+    "Being chased by an angry Russian woman wielding a telephone pole.",
+    "A loud black girl. You know the type.",
+    "United Airlines beating the shit out of you.",
+    "Hitting on my daughter's friends.",
+    "All these decorative ninja swords.",
+    "Quantum mechanics.",
+    "An inoperable tumour at the base of the spine.",
+    "A school shooting.",
+    "Monstrously large testicles.",
+    "How much wood a woodchuck would chuck if a woodchuck could chuck wood.",
+    "Trying extra hard to not look gay while eating a banana.",
+    "Fondling a camel's hump.",
+    "Some arrogant fucking asshole named Derek who thinks he's better than everyone else.",
+    "Whatever the fuck the fox says.",
+    "Movies about gladiators.",
+    "Men in power tool commercials.",
+    "Every Disney movie ever, but with a heavy dose of bestiality.",
+    "My secret sauce.",
+    "Grape Kool-Aid! Aw yeah!.",
+    "THE MAIN EVENT THAT IS HAPPENING THIS SUNDAY! SUNDAY! SUNDAAAY!!!!!.",
+    "A poop alert.",
+    "Drowning a cat in the bathtub.",
+    "A boat full of guidos.",
+    "Lions and tigers and bears, oh my!.",
+    "Getting into a scrappy knife fight with a drunken Australian.",
+    "The Salem witch trials.",
+    "Doing Blackface for Halloween.\t.",
+    "Being accused of hitting Lisa. I did not hit her, it's bullshit. I did not hit her, I did not! Oh, hi Mark.",
+    "Nine out of ten dentists.",
+    "ERPing as ducks online. Quack, quack!.",
+    "Captain Planet and the Planeteers.",
+    "Desecrating the final resting place of my ancestors.",
+    "Advice from Morgan Freeman.",
+    "A sweet swastika tattoo.",
+    "An unusual amount of dandruff.",
+    "Crossbreeding a goth with a hipster.",
+    "Being loud and proud, but no homo.",
+    "Wrastlin' an angry gator!.",
+    "Anal sex between two unconsenting animals.",
+    "How I met your mother.",
+    "Schizophrenia.",
+    "A bromance that escalates into something more.",
+    "Wet farts.",
+    "A bunch of angry, sweaty gamers review bombing a video game on Metacritic.",
+    "A sonic boom caused by a fart you grossly underestimated the power of.",
+    "A stupid bitch.",
+    "Losing at Monopoly and responding by literally killing the other players with your dick.",
+    "Force lightning.",
+    "One hell of a satisfying salad!.",
+    "Two sloths dueling to the death.",
+    "The downfall of white people.",
+    "An unknown person.\t.",
+    "Handicapped people making handicapped faces.",
+    "Fuck the children.\t.",
+    "A closet full of dying animals.",
+    "A sassy white man.",
+    "Nicolas Cage's secret cocaine stash.",
+    "Boobs.",
+    "Carpent munching.",
+    "The Elephant Man.",
+    "Ron Swanson.",
+    "Attempting to justify Hitler's actions through song and dance.",
+    "An Asian guy named Dong.",
+    "A camel in sunglasses telling children to smoke.\t.",
+    "A woman with chest hair.",
+    "Using pepperoni as drum sticks.",
+    "WD-40®.",
+    "Starvation.",
+    "Forcing children to negotiate with terrorists.",
+    "Fried chicken and watermelon.",
+    "An old mountaineer who barely kept his family fed.",
+    "The town of Dildo, Newfoundland.",
+    "Supreme Leader Snoke.",
+    "Masturbating with a Lego dildo.",
+    "Snoop Dogg.",
+    "The bravest knight in all the land!.",
+    "Baby Yoda.",
+    "Helping people commit suicide.",
+    "Tasty \"treats\".",
+    "Being out of milk.",
+    "Einstein's theory of relativity.",
+    "Trying to fight a massive forest fire by peeing on it.",
+    "The short bus.",
+    "A two-party system.",
+    "The terror that faps in the night.",
+    "Shitting in the sauna.",
+    "Death upon the infidels!.",
+    "An angry mob.",
+    "Bad dudes.",
+    "A recurring nightmare in which everyone looks like Nicolas Cage.",
+    "Sugar Ray.",
+    "Error communicating with server. Will try again in 0.5 seconds.",
+    "Getting way too attached to online friends.",
+    "Ripping the shit out of a guitar.",
+    "The majestic display of slow motion tortoise sex.",
+    "Danny DeVito's armpits.",
+    "Bob Barker forming a vigilante task force devoted to neutering every single living animal.",
+    "Walt Disney busting one out to graphic images of Minnie Mouse.",
+    "Rusty Shackleford.",
+    "Severe autism.",
+    "A surprise birthday party with surprise bestiality.",
+    "A for real cougar in the fucking bedroom!.",
+    "The cleanest and whitest cat anus that you'll ever see.",
+    "The priest objecting to my own wedding.",
+    "The Boogie Man.\t.",
+    "The war-torn streets of Syria.",
+    "White people losing their shit over YMCA.",
+    "Sexually suggestive childrens' toys.",
+    "Finding love in the back of a police cruiser.",
+    "Winning the lottery.",
+    "Cockblocking my kids.",
+    "The Fresh Prince of Bel-Air.",
+    "Drowning geese.",
+    "The will of a templar.",
+    "Guys named Todd.\t.",
+    "Being robbed by black people, resulting in the entire town's black population being sought for questioning.",
+    "An inability to feel basic human emotions.",
+    "A tsunami.",
+    "Aggressive beatboxing.",
+    "Giving everyone I meet an offensive nickname.",
+    "Murdering your significant other and turning them into a piñata for your child's birthday party.",
+    "Watching animals fuck for a living.",
+    "The inability to believe that it's not butter.",
+    "The vulva.",
+    "A cantankerous old man.",
+    "Women who fake orgasms.\t.",
+    "Han Solo's death scene.",
+    "Brain freeze.",
+    "Boneless pizza.",
+    "An electric toothbrush.",
+    "My dog.",
+    "Glenn Beck's sex dungeon.",
+    "One unforgettable night of rape.",
+    "The mentally retarded.",
+    "Dressing up as Batman to fight crime and then getting shot and killed the instant you step out your front door.",
+    "Michelina's® Zap'ems.",
+    "The day the snails attacked.",
+    "David Blaine.",
+    "Being accused of being crazy. I'm not crazy, you're crazy! SHUT UP, MOTHER!.",
+    "An urgent need of mannequins.",
+    "Sexually explicit messages in a bowl of Alphagetti.",
+    "Frog legs.",
+    "That one fat black lady who gets really into choir songs.",
+    "Grilled cheese sandwiches as far as the eye can see.",
+    "Hanging some serious dong.",
+    "Zooey Deschanel.",
+    "Some nut going fucking apeshit.\t.",
+    "Chevy Chase riding in on a disease-ridden leper horse.",
+    "Brandishing a boner.",
+    "Dirty white boys.",
+    "Bathtub moonshine.",
+    "Simon & Garfunkel.",
+    "A hairy asshole.",
+    "A black cat.\t.",
+    "Stepping in cat puke.",
+    "The biggest, blackest Richard.",
+    "A cobra stuck in a bottle of mayonnaise.",
+    "The full force of the Jamaican military.",
+    "Koreans who aren't good at opening dry cleaners.",
+    "Explosive diarrhea.",
+    "A combine harvester.",
+    "An overflowing toilet.",
+    "A pyramid of severed genitalia.",
+    "Grape drink.",
+    "Men who fake bowel movements.\t.",
+    "Lumpy milk.",
+    "Being screamed at by Gordon Ramsay.",
+    "Pewdiepie.",
+    "Billowing smoke.",
+    "An ugly duck.",
+    "Fleeing from a volcanic eruption.",
+    "An openly gay Nazi.",
+    "Encountering poop during anal.",
+    "A lonely swamp monster who just wants to make a friend.",
+    "A pack of angry feminist lesbians.",
+    "Killing my wife and stuffing her so that she'll never leave me.",
+    "Taking a hockey puck to the mouth.",
+    "Christian Bale flipping the fuck out.",
+    "Daddy's flaccid penis.",
+    "Missing children.",
+    "Bill O'Reilly.",
+    "Michelina's® Noodle Stroganoff.",
+    "Macho motherfuckers.\t.",
+    "A poop fetish.",
+    "Bad pussy.",
+    "An adorable little scamp.",
+    "Breast augmentation.",
+    "A depressing handjob from Hank Hill.",
+    "Divorce papers.",
+    "Moonwalking around the clock.",
+    "Waxing Patrick Stewart's head.",
+    "Old-people taste.",
+    "Catastrophic vaginal sex.",
+    "Jackie Chan's evil mustachioed twin brother.",
+    "Getting high on bath salts.",
+    "A sword swallowing act that goes terribly wrong.",
+    "Warm goo.",
+    "My fat bitch of an ex.",
+    "Campbell's Chunky Soup®.",
+    "Inappropriately timed Bill Cosby jokes.",
+    "Home videos of bad fucking.\t.",
+    "Sheer willpower.",
+    "An evil Nazi clone of my grandmother.",
+    "A dispassionate Russian lover.",
+    "Hooking a man's nuts up to a car battery.",
+    "Kentucky Fried Chicken.",
+    "A major, psychotic fucking hatred.\t.",
+    "A valid opinion that I disagree with.",
+    "The end of the universe as we know it.",
+    "A town full of negro folk.",
+    "Counting with Count Dooku.",
+    "A bear attack on the open ocean.",
+    "Magical dwarf cock.",
+    "Cheating on my brother with my cousin.",
+    "Toe jam.",
+    "Putting Halloween candy inside of razorblade packages.",
+    "Penguin meat.",
+    "Makin' out with other dudes.",
+    "Night terrors.",
+    "Sylvester Stallone.",
+    "Black people buying all the watermelon when it goes on sale.",
+    "Incestuous Full House fanfiction.",
+    "Definitely having breast cancer.",
+    "Being force-fed an entire bottle of Marmite.",
+    "Yet another \"essential\" Windows update.",
+    "An exploding septic tank.",
+    "Pre-chewed gum.",
+    "Lying about my gender.",
+    "A murderer who only kills bad people.",
+    "Winnie the Pooh and Tigger Too.",
+    "A suicide bomber failing and killing only himself.",
+    "Whippets.",
+    "Nipples so hard they can cut glass.",
+    "Fat bottomed girls.",
+    "A half-developed fetus.",
+    "My nigga!.",
+    "Snotsicles.",
+    "A bunch of dickless dudes dressing up as ladies.",
+    "Plotting a point in the coordinate plane.",
+    "Being slowly cut in half by a chainsaw, starting at the genitals.",
+    "A period so bad that it makes Saw look like Sesame Street.",
+    "Danny DeVito's monstrous penis.",
+    "Cum-guzzling drag queens.",
+    "Terry Crews.",
+    "Stepping on a d4.",
+    "Attacking children.\t.",
+    "Rocky Mountain oysters.",
+    "White people doing the Macarena.",
+    "Don Cherry's wardrobe.",
+    "Sodomy.",
+    "Creeping on Facebook profiles of hot people.",
+    "Ryan Reynolds.",
+    "A defanged salt water crocodile.",
+    "Photographic evidence that my family is dead.",
+    "A reason to live.",
+    "Children chained to my radiator.",
+    "United Airlines Flight 175.",
+    "Trial by combat.",
+    "Resting bitch face.",
+    "Letting blacks vote.",
+    "The best thing since sliced bread.",
+    "Fisting.",
+    "A gentle sucking of the testes.",
+    "Dick skin lampshades.",
+    "King Kong.",
+    "An angry ex-girlfriend.",
+    "A white man who is openly black.",
+    "A white power rally.",
+    "A super-massive earthquake.",
+    "Hippopotomonstrosesquipedaliophobia (the fear of long words).",
+    "A clinically depressed hippopotamus.",
+    "Drawing naked pictures of my favourite uncle.",
+    "Raisin bread.",
+    "The Sleep n' Fuck motel.\t.",
+    "A world full of dancing penis monsters.",
+    "A harmless prank on mom resulting in numerous deaths and military intervention.",
+    "Man buns.",
+    "Craaaaab people! Craaaaab people!.",
+    "A cat in a hat that cannot get out, suffocates, and dies.",
+    "Dreams in which I kill a lot of animals.",
+    "Dildo practice.",
+    "Stockholm Syndrome.",
+    "A bitch in heat.",
+    "Doom and gloom.",
+    "The Girl Scouts of America.",
+    "Literal panic at the disco.",
+    "Cool cats.",
+    "Skinning animals and telling children that you killed their beloved cartoon idols.",
+    "Moose meat.",
+    "Curing gays of their sinful homosexuality.",
+    "Blanche Devereaux.",
+    "A naked Austrian bodybuilder asking me to give him my clothes.",
+    "Photographing children.",
+    "The asshole who put the empty bottle of ketchup back in the fridge.",
+    "John Cena.",
+    "Licking a cat's asshole a little bit.",
+    "The benefits of anal sex.",
+    "The cow level.",
+    "Hate-fucking my sofa.",
+    "Swallowing a live bluebird whole.",
+    "Ellen Page, Canada's littlest lesbian.",
+    "Fire raining down from the heavens.",
+    "Special musical guest, Aerosmith.",
+    "Seeing my own face on a milk carton.",
+    "Jake the Snake Roberts.",
+    "Masturbating to the kill scenes on Dexter.",
+    "Injecting hydrochloric acid into the breasts of Miley Cyrus.",
+    "A super realistic mask of Kim Jong-un.",
+    "Awkward family reunions.",
+    "The KKK's Grand Wizard.",
+    "Rapidly expanding breasts.",
+    "Richard Simmons.",
+    "A curious vulture tugging at the penis of a dead hitchhiker.",
+    "Helping mom shave her legs.",
+    "Committing sinful acts against all of humanity.",
+    "My mom.",
+    "Anna Kendrick's adorable little face.",
+    "Oppa Gangnam Style!.",
+    "White guys catching a break.",
+    "A mallard duck.",
+    "Neo-Nazism.",
+    "Motherfuckers.",
+    "The whole damn thing, all at once.",
+    "Being molested by my old gym teacher.",
+    "THE KING IN THE NORTH!.",
+    "Being sucked into the cold vacuum of space and promptly freezing to death.",
+    "An unintentionally offensive ghost costume.\t.",
+    "A big, brown dick.\t.",
+    "Studying the Science of Batman at the University of Victoria.",
+    "Taking a blast of cat spray to the face.",
+    "A jackhammer.",
+    "Donuts, the cheapest sex toy of them all.",
+    "Getting lost in IKEA.",
+    "My mangy hound.",
+    "Being crushed by a house falling out of the sky.",
+    "Walking the dog on the beach in an attempt to attract some hot ass.",
+    "Gradually turning into Carol Channing.",
+    "Lotion and tissues.",
+    "Every inch of you.",
+    "Heaps of manure.",
+    "Paris Hilton's bad eye.",
+    "Shit.",
+    "Rolling Rick Astley down a hill.",
+    "A slight penis taste inside of the mouth.",
+    "Catching the Bubonic Plague to get out of soccer practice.",
+    "Tofu.",
+    "Sucking dick for nickels at the back of the bus.",
+    "Big, powerful hands.",
+    "Punching Nicolas Cage in the face.",
+    "A loud and obnoxious asshole who spits whenever he talks.",
+    "Nicolas Cage: Uncaged.",
+    "Shooting a guy out of a high speed catapult... right into a brick wall.\t.",
+    "Bob Barker's leathery scrotum.",
+    "My skanky mom.",
+    "Running into an all black sports team in a dark alley.",
+    "An atomic wedgie.",
+    "Humiliating a Mall Santa in front of the kids.",
+    "A paramedic who has seen some serious shit.",
+    "Joe Pesci.",
+    "Flakes of dry skin.",
+    "Vanilla Ice.",
+    "Urine.",
+    "Hydrochloric acid.",
+    "A deal with the Devil.",
+    "A greasy hooker in a raincoat.",
+    "All of my dead relatives rising from the grave.",
+    "Raw sewage.",
+    "A man so rich that he uses white kittens as toilet paper.",
+    "Marco!.",
+    "Hunting the homeless for sport.",
+    "Using my dog's corpse as fertilizer for my marijuana crop.",
+    "Mayor McCheese.",
+    "Ugly people from Baltimore.",
+    "Checking my stools for blood.",
+    "Filing for bankruptcy.",
+    "Mongolian raiders.",
+    "Warm apple pie.",
+    "Dr. Phil.",
+    "An uncomfortably attractive teenager.",
+    "Taking a job as a babysitter just to get a few easy kills in.",
+    "A rusty harmonica covered in saliva.",
+    "A really clever joke about a racial minority.",
+    "Canned whole chicken.",
+    "Scrotum piercings.",
+    "The entire cast of The Expendables.",
+    "Famous Jewish sports legends.",
+    "A town full of negro folk.",
+    "Fucking crocodiles! Everywhere!.",
+    "A training bra, but for fat guys.",
+    "An entity of indeterminable gender.",
+    "Oops!.",
+    "Twisting a woman's breast.",
+    "Sucking on Popsicle Pete's popsicle.",
+    "Powerful biceps.",
+    "Studying the Science of Batman at the University of Victoria.",
+    "Pikachu's warm and inviting anus.",
+    "Procrustean endeavors.",
+    "The biggest, fattest bitch in the whole wide world.",
+    "A third level fireball.",
+    "Teabagging.",
+    "Blue balls.",
+    "A gift-wrapped box full of angry hornets.",
+    "Public executions.",
+    "A guy with a great set of tits.",
+    "Furbies.",
+    "Lesbian porn.",
+    "Canada.",
+    "Telling newly thin people that they looked better when they were fat.",
+    "The guy who shows up to the game, but doesn't get to play minutes.",
+    "Stepkids who say mean shit to me.",
+    "The Knights who say Ni.",
+    "Committing acts of terrorism on terrorists.",
+    "A set of man boobs that makes me question my sexuality.",
+    "The scent of a woman.",
+    "Heroically holding in an orgasm.",
+    "How hard I am.",
+    "An army of dickless warriors.",
+    "Racist old white ladies.",
+    "A turducken.",
+    "A hydrogen bomb.",
+    "An old fuck who, against all odds, refuses to die.",
+    "Liposuction.",
+    "Collecting animal skins.",
+    "World War II flashbacks.",
+    "Trying to crucify Arnold Schwarzenegger.",
+    "The Dutch.",
+    "Anorexia.",
+    "God's will.",
+    "A shaman from an obscure African tribal society.",
+    "The cat!.",
+    "Pale and pasty children who die by exposure to sunlight.",
+    "Performing a dissection on a living person.",
+    "Killing every single motherfucker in here.",
+    "Turning dead people into sex dolls.",
+    "Brain cancer.",
+    "Seinfeld erotica.",
+    "A living, breathing dinosaur! Wow!.",
+    "My lesbian grandmother.",
+    "Exploiting a tragic event for personal gain.",
+    "Cat scratch fever.",
+    "The Guinness world record for largest blood stain on a tampon.",
+    "A man with sizable breast implants.",
+    "Assholes who spoil the entire plot of the movie.",
+    "Cat poop.",
+    "Civil rights.",
+    "Steve Harvey's face.",
+    "A cool dad.",
+    "A lonely old man who feeds the ducks in the park every single day of his pathetic life.",
+    "Bacon grease splashing all over my naked body.",
+    "A lone tear running down a Native American's cheek as he watches the white man destroy his land.",
+    "Desperately trying to disprove religious claims.",
+    "I'm pooping right now.",
+    "Faking my own death.",
+    "Grapeskin condoms.",
+    "Watching children at the playground.",
+    "Small, girlish hands.",
+    "Masturbating with sand paper.",
+    "A double dipper.",
+    "Busting some rhymes with Vanilla Ice.",
+    "Some schmuck with a $2 prayer book fucking up God's plan.\t.",
+    "Making an enemy.",
+    "Waking up half-naked in line at McDonald's.",
+    "A white guy named Jesus.",
+    "A blue-footed booby.",
+    "Timon and Pumbaa.",
+    "Accidentally hanging and killing yourself while trying to put Christmas lights up.",
+    "Cuddling with strangers on the bus.",
+    "Advice from a convicted criminal.",
+    "Ethnic shit.",
+    "Union representatives representing customer representatives.",
+    "The Denver Broncos.",
+    "Go fuck yourself.",
+    "Being forced into a headlock by a Frenchman with sweaty pits.",
+    "Boromir's death scene.",
+    "A giant penis.",
+    "Drowning puppies.",
+    "The Asians.",
+    "Getting really worried about Ebola for a second.",
+    "Scantily-clad twerking teenagers.",
+    "Fighting evil by moonlight, winning love by daylight, and never running from a real fight.",
+    "Projectile vomiting whenever I get stressed out.",
+    "Racist yodeling.",
+    "Being voiced by Nolan North.",
+    "Harley Morenstein as Harley Quinn.",
+    "A level 87 bronze dragon with +15 perception.",
+    "That awkward moment when an animal fondles you.",
+    "Having sex in a vat of gravy.",
+    "A sex doll of my best friend.",
+    "Old people posting about Jesus on Facebook.",
+    "Complimenting women in a very pandering manner.",
+    "Getting drive-by congratulated.",
+    "Punching Oprah Winfrey in the vagina.",
+    "Being filmed as the target of a wildlife documentary.",
+    "Onyxia, Broodmother of the Black Dragonflight.",
+    "An inability to accept defeat.",
+    "Barq's, the one with bite.",
+    "Ducks.",
+    "Psychological torture.",
+    "The golden gun.",
+    "Fuckin' nerds.",
+    "Eating dead people.",
+    "A colonoscopy.",
+    "Internet edgelords.",
+    "Accidentally getting intimate with a goose.",
+    "Unsightly genital rashes.",
+    "A truckload of watermelon.",
+    "An ever-expanding belly.",
+    "What a woman wants.",
+    "Having to leave because my planet needs me.",
+    "Pancakes and waffles.",
+    "Copyright infringement.",
+    "A self-dissection.",
+    "Regurgitation.",
+    "The Eye of Cthulhu.",
+    "Sexually active farm animals.",
+    "Joe Pesci straightening cocksuckers out with a baseball bat.\t.",
+    "Aggressively twisting a woman's breast.",
+    "Bleeding from every orifice.",
+    "Grandma's will.",
+    "Aerodynamical breasts.",
+    "PEANUT BUTTER JELLY TIME!.",
+    "The biggest, blackest rooster.",
+    "Being friendzoned by the woman you love.",
+    "A bright red firetruck!.",
+    "My true form.",
+    "Being too cool for school.",
+    "Setting someone on fire.",
+    "Being way too into skinning dead things.",
+    "Burt Reynolds.",
+    "Gangrene.",
+    "Going postal.",
+    "Getting high with Willie Nelson in the back of a pick-up truck.",
+    "A boy trapped in a refrigerator eating his own foot.",
+    "Pumpkin spice condoms.",
+    "A forest of well groomed ass hair.",
+    "Getting a hand job in a Burger King dumpster.",
+    "Immigrants taking all of the jobs.",
+    "Game of Thrones, but with cats.",
+    "Anal leakage.",
+    "Eating green eggs and ham in a house with a mouse.",
+    "A passive aggressive parrot.",
+    "Chronic masturbation.",
+    "Being watched by a bunch of cats while having sex.",
+    "A hot young nun that I desperately want to bang.",
+    "Sticking my tongue in every crevice I find.",
+    "A cum-stained body pillow of my favourite anime waifu.",
+    "Licking a fat man's sweaty rolls.",
+    "A racist scrotum dipped in Cheeto dust.",
+    "Forniphilia (receiving sexual pleasure from being used as furniture).",
+    "Burning down the White House.",
+    "The biggest, blackest duck.",
+    "A guy with an AK-47 strolling onto the school grounds.\t.",
+    "Being chased to the ends of the Earth by Jehovah's Witnesses.",
+    "Chaining a zombie up to use as a sex slave.\t.",
+    "El Diablo!.",
+    "Casu marzu.",
+    "Being drop-kicked by a kangaroo in sunglasses.",
+    "A sexually active preteen.",
+    "Cream pies.",
+    "Buying sex dolls to keep me company because I'm lonely and have no friends.",
+    "Spitting on her face.",
+    "Electing Donald Trump.",
+    "Getting fucked in the ear.",
+    "A gynecologist with a vendetta.",
+    "Doin' it in the ear.",
+    "Attempting to evade the police on a unicycle.",
+    "Watching flies fuck.",
+    "One hell of a tempting GILF.",
+    "Turtles.",
+    "Hot coals.",
+    "Math for non-Asians.",
+    "The police going to the wrong address and opening fire on a children's birthday party.",
+    "Will Smith (not the black one).",
+    "Waving one's testicles at oncoming traffic.",
+    "Leaving a bone-chilling voicemail.",
+    "Retard strength.",
+    "Tuberculosis.",
+    "Swapping bodies with Zooey Deschanel for a day.",
+    "Christian athletes who thank Jesus whenever they win.\t.",
+    "Machine gun farts.",
+    "Obnoxiously photogenic friends.",
+    "Pooping, looking in the toilet, and not being able to see it anywhere.",
+    "An object in my ass that is larger than a fist but less loving than a dildo.\t.",
+    "Projectile vomiting.",
+    "A general feeling of unhappiness.",
+    "Sneezing seductively.",
+    "This stupid fucking game.",
+    "High school cheerleaders.",
+    "Adam Sandler's voice.",
+    "A grizzly bear driving a Volkswagen Beetle.",
+    "Throwing rocks at a man stuck in a tree.",
+    "Rape fantasies.",
+    "Melania Trump trying her best to give a shit.",
+    "Throwing a volcano into a virgin.",
+    "The whole thing, all at once.",
+    "Karl Tanner, the fookin' legend of Gin Alley.",
+    "A legitimate business that accepts Monopoly money.",
+    "Shitting the bed.",
+    "Sudden breast amputations.",
+    "Burning ants to death with a magnifying glass.",
+    "Working out with Richard Simmons.",
+    "Bringing back death camps.",
+    "Developing romantic feelings for a robot.",
+    "Elderly Brazilian drag queens.",
+    "The black guy who always dies first.",
+    "The musty ball sack of a decrepit old man.",
+    "Jacking off the dog in the basement.",
+    "A fat guy taking a ginormous dump.",
+    "Clubbing baby seals out on the ice floes.",
+    "ALL HAIL! KING OF THE LOSERS!.",
+    "PewDiePie.",
+    "Keeping Christ out of Christmas.",
+    "Sitting at home playing with my tits all day.",
+    "Chip & Dale: Rescue Rangers.",
+    "Putting coworkers' office supplies inside of Jello.",
+    "Michael J. Fox.",
+    "The sheer euphoria that occurs as a result of rubbing a cat's belly.",
+    "Not knowing where to stick my penis during sex.",
+    "Stalking women after midnight.",
+    "Gordon Ramsay asking if it's fresh or frozen.",
+    "Shoving a fire hose up my own ass and turning it on.",
+    "Traffic accidents.\t.",
+    "A librarian who treats the library like it's her own dictatorship.",
+    "Treating my kids to the sex tape showing their conception.",
+    "The failed clip-on penis sex toy for women.",
+    "Flint, Michigan.",
+    "An old, racist hillbilly catching frogs in the swamp.",
+    "Breaking out of prison.",
+    "An overly sarcastic gay man with sass turned up to maximum.",
+    "That one white guy on the baseketball team who is trying his best.",
+    "Susan Boyle being eaten alive by her cats.",
+    "A man with big, powerful hands.\t.",
+    "The Michelin Man.",
+    "Confetti!.",
+    "Finding Nemo's R-rated alternate ending.",
+    "Jewish food.",
+    "Damn, dirty apes.",
+    "Cleverly disguising myself as a little girl in order to catch pedophiles.",
+    "Training an army of penguins to commit acts of felony.",
+    "Watching Fort McMurray burn to the ground.",
+    "Really graphic and incestuous Mario and Luigi hentai.",
+    "Screaming for ice cream.",
+    "The army of the dead.",
+    "Never being sober.",
+    "Being trapped in a tank full of sexually excited dolphins.",
+    "Knowing only two facts about ducks, both of which are wrong.",
+    "Breastfeeding a ninety year old.",
+    "The sagging, barnacled breasts of a sea hag.",
+    "Unleashing the hounds.",
+    "Trying to seem cool around black people, but instead coming across as being extremely racist.",
+    "Spelling my name in the snow with my pee.",
+    "Being gay for God.",
+    "Hawaiian pizza.",
+    "My really hot cousin.",
+    "Bleeding from my nipples.",
+    "My collection of old fashioned steam-powered sex toys.",
+    "Discovering that I'm on To Catch a Predator.",
+    "Pearl Harbor.",
+    "Michael Jackson's doctor.",
+    "Finding a dead guy.",
+    "Being assaulted with cookware.",
+    "A GREAT BIG PHONY.",
+    "Old people fighting over crab legs at the buffet.",
+    "A horrifyingly orgasmic blowjob from a xenomorph.",
+    "A vast assortment of Lean Cuisines.",
+    "Betty White's dusty vagina.",
+    "The projects.",
+    "Listening to the screams as an orphanage burns to the ground.",
+    "Online stalkers.",
+    "Smash Mouth.",
+    "My mother sucking cocks in Hell.",
+    "Natural 20!.",
+    "A grown man, naked.",
+    "The smallest, whitest duck.",
+    "Performing sexual acts on dying animals.",
+    "Making out with wax figures of famous female celebrities.",
+    "Cannibalism.",
+    "Terry Crews.",
+    "Every STD known to man.",
+    "Being replaced by an evil twin.",
+    "Hungry Hungry Hippos.",
+    "French dungeon porn. Sacré bleu!.",
+    "The unexplainable urge to stick my dick in everything that even vaguely resembles a hole.",
+    "Tanning grandpa's leathery hide.",
+    "Obscure references to unsolved murders.",
+    "A fucking cat that won't shut the fuck up for even five fucking minutes.",
+    "Trump Tower.",
+    "The growth on my penis.",
+    "A casual racist.",
+    "Not dating outside of my race.",
+    "Japanese tourists.",
+    "Some really good weed.",
+    "My home on Whore Island.",
+    "Garlic, a stake, and a cross.\t.",
+    "Not being racist by killing people of all races equally.",
+    "A decomposing corpse.",
+    "My employment status.",
+    "Alec Baldwin's boobs running in slow motion.",
+    "A child fetish.\t.",
+    "Being retarded.",
+    "Painting with my dick.",
+    "Getting away with murder.",
+    "A Magic 8-Ball.",
+    "A penis transplant.",
+    "Great vaginas throughout history.",
+    "The skull of Jeor fuckin' Mormont.",
+    "Going full retard.",
+    "Vin Diesel.",
+    "Inciting a violent Star Trek vs. Star Wars riot at a convention.",
+    "Liquid mercury.",
+    "Jar Jar Binks.",
+    "Beating seals to death out on the ice floes.",
+    "Date rape drugs.",
+    "That sweet, sweet ass.",
+    "Dating a retarded person.",
+    "Painting with period blood.",
+    "Slam dunking midgets through basketball hoops.",
+    "Returning a dead bird to the pet shop.",
+    "Jaden Smith's fucked up Twitter posts.",
+    "Gay rights activists.",
+    "Teaching the retarded how to love.",
+    "The entire world's supply of snack foods.",
+    "Muslims.",
+    "A slumber party at Bill Cosby's house.",
+    "Being hopelessly overpowered by a second grader.",
+    "Getting a cocktail in a gay bar.\t.",
+    "Michael J. Fox in an earthquake.",
+    "Pussy farts.\t.",
+    "My Nazi grandfather.",
+    "Geese with assault rifles.",
+    "Gilbert Gottfried's voice.",
+    "Fox News.",
+    "Darryl Strawberry.",
+    "Every Call of Duty player who has ever had sex with my mother.",
+    "Passing notes in class.",
+    "Dingleberries.",
+    "Vikings in the kitchen.",
+    "Kellogg's® All-Bran.",
+    "Gradually turning into a black person.",
+    "An evil petting zoo.",
+    "Money for crack.",
+    "Feeling really nervous around Germans.",
+    "My pogs collection.",
+    "Literally raining cats and dogs.",
+    "Eating in bed.",
+    "A whore who will never get paid.",
+    "The \"saw a person in half\" magic trick going horribly, HORRIBLY wrong.",
+    "A flash mob armed with flashbangs.",
+    "The entire transgendered community.",
+    "Eating every fucking chicken.",
+    "Centipedes? In my vagina?.",
+    "Hunting the homeless.",
+    "A gallon of cow's blood.",
+    "An unstoppable wave of firefighters.",
+    "Jamming a bunch of stuff into my butt.",
+    "Licking Vladimir Putin's shiny head.",
+    "Chris Pratt.",
+    "Developing romantic feelings for a video game character.",
+    "A poop-filled sock.",
+    "Watching crime documentaries to learn how to get away with murder.",
+    "Ducks in the sauna.",
+    "A sensual finger rubbing.",
+    "An infinite supply of lunch meats.",
+    "Adorable otters doing adorable otter things.",
+    "Bacon.",
+    "Beating a panda to death with its favourite bamboo pole.",
+    "Liquid nitrogen.",
+    "Waxing a bald guy's head.",
+    "Meat sweats.",
+    "The sagging tits of the elderly.",
+    "A masked maniac with a chainsaw and an enormous erection.",
+    "A bowl of mashed potatoes.",
+    "McDonald's fries.",
+    "Practicing on small animals that can't get away.",
+    "Raping an invalid.",
+    "Walkin' with Christopher Walken.",
+    "German efficiency.",
+    "Robot Richard Nixon.",
+    "Raw eggs.",
+    "Torpedo boogers.",
+    "Taking \"too many\" pictures of children.",
+    "Used tampons.",
+    "Syphilis.",
+    "Tight dick skin.",
+    "Berating animals at the zoo.",
+    "Accidentally pocket dialing grandma just before getting ready to have sex.",
+    "Being raised by wolves.",
+    "A vagina that only a father could love.",
+    "Taking back my virginity.",
+    "Richard Gere's Gere Stick.",
+    "A bloodthirsty rabbit.",
+    "Voting for a third party.",
+    "\"Friday\" by Rebecca Black.",
+    "Showing my dick to a government clerk.\t.",
+    "Donair sauce everywhere!.",
+    "The hottest new reality show, Cooking with Adolf.",
+    "Harambe.",
+    "A turd on the floor.",
+    "Soft, fruity kids.\t.",
+    "Abandoning my children on a dirt road in the middle of nowhere.",
+    "Not having any real friends.",
+    "Dr. Phil's bulbous penis.",
+    "Bill Cosby drowning in a vat of Jello pudding.",
+    "The Stay Puft Marshmallow Man.",
+    "A stranger's penis.",
+    "Sex?.",
+    "A plunger caked with crusty fecal matter.",
+    "All of us, altogether.",
+    "YOU REQUIRE MORE VESPENE GAS.",
+    "Lunch meats.",
+    "Hillary Clinton.",
+    "Fuck you, fuck him, fuck her, fuck everything!.",
+    "Bad breath that smells like they were nibbling pieces of shit.",
+    "Sweetened with sucralose.",
+    "Choking the chicken.",
+    "A cool dip in radioactive waste.",
+    "Taxidermying human corpses.",
+    "Being drowned.",
+    "Peeing my pants.",
+    "Getting a pet anaconda for the kids.",
+    "A morbidly obese crackhead.",
+    "Toilet brushes for hands.",
+    "Wrestling a pissed off crocodile.",
+    "The worst thing since unsliced bread.",
+    "A saltwater crocodile in my bathtub.",
+    "Pretending to be a girl on the internet.",
+    "A reason to commit suicide.",
+    "Doodles of Justin Trudeau. Naked.",
+    "Warm apple pie.",
+    "Bodily fluids.",
+    "A hermaphrodite witch who squirts jizz all over the place.",
+    "Chewing on his dick like it's bubblegum.",
+    "The Hitler Youth Movement.",
+    "Taking a big dump in the woods.\t.",
+    "Smelly assholes who don't wear deodorant.",
+    "Pooping the bed.",
+    "The Hilarious Misadventures of Donald Trump & Friends.",
+    "Surprised Pikachu.",
+    "Peeing on grandpa's grave.",
+    "Optimus Prime.",
+    "Two regular sized people shitting on a midget in a box.",
+    "The most handsome young man I've ever laid my eyes on.",
+    "A crowd of black people.",
+    "A concentration camp for campers.",
+    "Moose toe, the unpleasant Canadian cousin of camel toe.",
+    "Tommy Wiseau.",
+    "A fat black man who talks too fast.",
+    "Aunt Jemima.",
+    "Stepping in dog poop.",
+    "Bambi's mom.",
+    "Hookers and blow.",
+    "Flesh-coloured clothes on fat people.",
+    "Ejaculating all over the faces of the recently deceased.",
+    "Morbidly obese children.",
+    "Fat people on motorized scooters.",
+    "A piece of that ass.",
+    "Making idle threats to my family that I'm going to kill myself.",
+    "Dad's new boyfriend.",
+    "Sock puppets.",
+    "Lathering my entire body in hand sanitizer to become pure.",
+    "Eucharist.",
+    "Wearing a bra made of live jellyfish.",
+    "Having sex with your best friend's cat.",
+    "Raping the queen.",
+    "Being edgy on the internet.",
+    "Being forced to sit at the back of the bus.",
+    "Bats! Bats! They're in my hair!\t.",
+    "Cannibals.",
+    "Smug, greedy, well-fed white people.\t.",
+    "Molten magma.",
+    "A ritualistic orgy.",
+    "Becoming a pirate and dying from malnourishment.",
+    "Menstrual blood.",
+    "This week's mass shooting.",
+    "A Korean who sucks at Starcraft.",
+    "Lindsay Lohan.",
+    "Encouraging suicidal people to just end it already just to see if they take the bait.",
+    "Justice raining from above.",
+    "Taking Old Yeller out back and blowing his fucking brains out.",
+    "Making white people feel uncomfortable.",
+    "Creepy naked people wearing animal masks.",
+    "My wildest vore fantasies,.",
+    "Sunshine and rainbows.",
+    "Accidentally sucking cock.",
+    "Freddy Krueger.",
+    "Smokin' a doobie.",
+    "Killing a dog with neglect.",
+    "Spongmonkeys.",
+    "The moist, demanding chasm of his anus.",
+    "Motorboating.",
+    "Geocaching.",
+    "Looking like a recently released sex offender.",
+    "Frosting my bush.\t.",
+    "A belligerent, drunk duck.",
+    "This boy's hole.",
+    "An error communicating with the Pretend You're Xyzzy server.",
+    "Tears of blood.",
+    "Working as a butcher to gain practice for more sinister ambitions.",
+    "Sex advice from my old man.",
+    "This mole on my back. Could it be cancer?.",
+    "Waldo's hiding spot.",
+    "Court-ordered house arrest.",
+    "Flayed corpses.",
+    "Vacationing in Tuscany.",
+    "A grumpy old knight.",
+    "Two cowboys going down on each other.",
+    "Black guys disguised as and pretending to be white girls.",
+    "Stealing Scarlett Johansson's identity.",
+    "An intraspecies handshake.",
+    "Big Bird's big bird.",
+    "Lava slowly being dripped onto a vagina.",
+    "Being an underachiever.",
+    "Dick cheese.",
+    "My \"World's #1 Dad\" coffee mug.",
+    "Chode.",
+    "Offering free enemas to kids at the mall.",
+    "Child labour.",
+    "The police! Run!.",
+    "A full body massage with sacred oils from India.\t.",
+    "Spying on my mother with hidden cameras.",
+    "Walking into a tornado on a dare.",
+    "Mike Pence.",
+    "An oral inspection of a rabid cat's gums.",
+    "Too many cooks!.",
+    "Being ejected from the hockey game for slashing an opposing player with my skates.",
+    "A contract killer.",
+    "Chemical grenades.",
+    "Dave Thomas, founder of Wendy's.",
+    "Christian Slater slated to appear in Slate Magazine.",
+    "A German cannibal.",
+    "Historically black prisons.",
+    "Adorable animals being put down for the sake of entertainment.",
+    "The frightening wrath of the world's butchest lesbian.",
+    "Being hunted by Mantracker.",
+    "The skins of my victims.",
+    "My partially worthless daughter.",
+    "A dirty, lying Jew.",
+    "Assisted suicide.",
+    "Phlegm.",
+    "A shallow grave in the woods.",
+    "Mr. Rogers resurrected and trained to be a Soviet assassin.",
+    "A rather dull and boring fisting.",
+    "Being born in the darkness and molded by it.",
+    "Gonorrhea.",
+    "Causing the toilet to overflow at a friend's house.",
+    "Medical advice from a plumber.",
+    "A coked up Mickey Mouse happily jacking off a beaten and bloodied Pluto.",
+    "Doing a barrell roll.",
+    "Lynchin' all them negro folk.",
+    "Incest.",
+    "A really rude horse.",
+    "RuPaul's Drag Race.",
+    "Really cool and inventive ways to torture people.",
+    "Genital dandruff.",
+    "Topical subjects to discuss in the workplace.",
+    "Crossing the street to avoid a black guy.",
+    "Spying on your own father in the shower by always standing directly behind him.",
+    "Domestic abuse.",
+    "Covfefe.",
+    "Tickling Hulk Hogan's ball sack.",
+    "The tiniest shred of evidence that the Flying Spaghetti Monster is real.",
+    "King Kong's extraordinary penis.",
+    "Flooding a stranger's home with horse cum when they're asleep.",
+    "Noth'zun, Immortal Devourer of Vaginas.",
+    "Wretched hags.",
+    "The voice of Peter Mansbridge.",
+    "Reese's Peanut Butter Cups.",
+    "AC/DC rocking the fuck out.",
+    "A doorway to an alternate dimension.",
+    "A reason to commit adultery.",
+    "The Disney princesses all going down on each other.",
+    "Noodle Stroganoff, elite Russian assassin.",
+    "Shrek.",
+    "Bathing in pig's blood.",
+    "Muscular dystrophy.",
+    "Edward James Olmos' scaly face.",
+    "Some serious shit.",
+    "Having no points in this fucking game after an hour of playing.",
+    "Sloppy seconds.",
+    "Suckin' that titty.",
+    "A stillborn baby.",
+    "Talking in Klingon.",
+    "A giant fucking moth!.",
+    "Hangin' with Mr. Cooper.",
+    "Laughing at the disabled.",
+    "My stupid, shitty sister.",
+    "Spending a weekend at Ted Bundy's house.",
+    "Selling my children into slavery.",
+    "Thinking that absolutely nobody is out to get you when everyone really is.",
+    "Drinking my own urine.",
+    "Child pornography.",
+    "Cat fisting.",
+    "A girl who is legitimately into me.",
+    "Dog farts.",
+    "Banging my best friend's mom.",
+    "Rick Astley giving up on me, letting me down, and deserting me.",
+    "The girl from The Ring.",
+    "Keira Knightley.",
+    "Bob Saget.",
+    "A throne made of cocks.",
+    "A stool sample.",
+    "Bowsette.",
+    "My gay grandfather.",
+    "The day that the Fire Nation attacked.",
+    "My crippling alcoholism.",
+    "Inhumanly high cholesterol.",
+    "A sagely old man in a rocking chair.",
+    "A proctologist with poor depth perception.\t.",
+    "Captain Planet.",
+    "Really graphic Seinfeld hentai.",
+    "Smuggling maple syrup out of Canada.",
+    "My stupid fucking kids.",
+    "Ninjas on the lawn.",
+    "Setting people on fire to see what kind of sounds they make.",
+    "A mannequin that looks like me.",
+    "The handyman's secret weapon, duct tape.",
+    "I am Groot.",
+    "Literally fucking someone to death.",
+    "Pushing old people down the stairs.",
+    "Russian tampering.",
+    "Poop in the bathtub.",
+    "Killing a hooker and eating her face.",
+    "Giving zero fucks.",
+    "Malic acid.",
+    "A recurring wet dream.",
+    "Piledriving old people in the streets.",
+    "Because of the fags.",
+    "Rivers of blood.",
+    "Profound mental retardation.",
+    "The former neighborhood of Mr Rogers.",
+    "A lot of stupid bastards walking around.\t.",
+    "Anal fluids.",
+    "Being nursed back to health by stray cats.",
+    "A worrying number of tumors.",
+    "A suspiciously rude Canadian.",
+    "One hundred million dollars!.",
+    "The sexual tension between Bert and Ernie.",
+    "Getting run over by a monster truck.",
+    "Being unable to feel emotions.",
+    "Cooties.",
+    "Standing on the beach and waiting for the hurricane to come.",
+    "Count Dracula.",
+    "A classy restaurant that has a \"black people options\" section on its menu.",
+    "Lazily masturbating to My Little Pony.",
+    "A timid white guy being stuck in a room full of boisterous black dudes.",
+    "A giant fucking spider!.",
+    "A sweaty jockstrap.",
+    "Forcing wheelchair-bound people to race each other for entertainment.",
+    "Feeding firecrackers to squirrels.",
+    "How she died.",
+    "A screaming toddler covered in his own vomit and fecal matter.",
+    "Ballistic missiles.",
+    "Castle Grayskull.",
+    "Casual forms of terrorism.",
+    "A black dude who is lost in the woods.",
+    "Fetal abuse.",
+    "LOOOOUD NOOOOISES!.",
+    "Terry Fox's pathetic leg.",
+    "Replacing my car's headlights with strobe lights.",
+    "A chainsaw to the anus.",
+    "A new pair of socks!.",
+    "Poppy.",
+    "Not being able to ever say no to a dare.",
+    "Farm animals suffering from chronic depression.",
+    "Invisible walls.",
+    "Shitting into a bag of McDonalds because they ordered a number 2.",
+    "Spastic slam dancing.",
+    "Duct taping a cat to a platypus.",
+    "Dramatically removing my glasses and saying, \"My god!\".",
+    "Cat calling little girls.",
+    "CHEETOS® Crunchy Cheddar Jalapeño Cheese Flavored Snacks.",
+    "The Big City Slider Station.",
+    "New car smell.",
+    "Cats, cats, cats, and even more cats!.",
+    "Black power.",
+    "The acting ability of Tommy Wiseau.",
+    "A strapping young lad.",
+    "Being too fat for my fat pants.",
+    "White people dancing.",
+    "KRAFT® Easy Cheese.",
+    "Dogs who bark at nothing.",
+    "Prepubescent boys.",
+    "Beating your husbands.",
+    "THE GHOST OF BILLY MAYS.",
+    "Riding a grizzly bear into battle.",
+    "The other guy.",
+    "An overly sensitive Jew who brings up Egypt at every opportunity.",
+    "Spanish children.",
+    "Bratwurst.",
+    "Being hunted for ten weeks by a polar bear that just won't fucking give up.",
+    "Picking a fist fight with a great white shark.",
+    "Cum stains all over the place.",
+    "Syrian children.",
+    "A demonically possessed vagina with gnashing teeth.",
+    "The Mahatma Gandhi diet plan.",
+    "Crash Bandicoot.",
+    "Injustice in the Mongolian region.",
+    "Defeating Sheng Long to stand a chance.",
+    "A naked man standing at the side of a lake.",
+    "A facehugger clamping onto my head.",
+    "Nice guys finishing last.",
+    "A do-it-yourself cremation kit.",
+    "Cunnilingus.",
+    "Faking a heart attack.",
+    "An entire family of incestuous hillbillies.",
+    "Being reincarnated as a wafer and then being eaten by your believers.",
+    "Biker Mice From Mars.",
+    "Leading blind people into perilously dangerous situations.",
+    "My son (who wants to kill me).",
+    "Cats wearing hats.",
+    "A closet homosexual.",
+    "Accidentally mistaking a lesbian for a man.",
+    "Manscaping.",
+    "Harvey Weinstein.",
+    "Licking her asshole a little bit.",
+    "Taking back my virginity.",
+    "A chicken strapping some guy to a chair and hooking up his nuts to a car battery.\t.",
+    "Beating a guy to death with the Sunday New York Times.\t.",
+    "The shark that killed my mother.",
+    "Magic Johnson being a for real magician with actual powers.",
+    "The tragedy of Darth Plagueis the Wise.",
+    "Too much mayo.",
+    "Arguing with a goat.",
+    "A fabulous heterosexual.",
+    "Researching how to fake my own death.",
+    "Taking a Blodia fist to the face.",
+    "Peeing whenever I get a little excited.",
+    "Jared from Subway.",
+    "Raping unsuspecting men.",
+    "Analiens (aliens that look like giant anuses).",
+    "Having sex with a ginger (ew, gross).",
+    "Stone Cold Steve Austin.",
+    "Exhaust fumes.",
+    "Watching the life drain from my victim as I strangle them.",
+    "Extremely smelly feet.",
+    "Too black.",
+    "Pizza pockets.",
+    "Chardonnay aged to perfection.",
+    "Being found naked in a hotel bathroom with a gerbil stuck up your anus.",
+    "Those fucking immigrants.",
+    "Way too much ass hair.",
+    "Darknet.",
+    "Neil deGrasse Tyson.",
+    "Where in the world Carmen Sandiego is.",
+    "Masquerading as grandma.",
+    "Very convincing transvestites.",
+    "The long rubber glove.",
+    "Taking a Klingon bat'leth to the face.",
+    "People who take up the entire fucking aisle.",
+    "Crazy ass white people doing crazy ass white people things.",
+    "Hilarious forms of discrimination.",
+    "Survival of the fittest.\t.",
+    "Dancing squid rice bowl.",
+    "The zombie apocalypse.",
+    "Several intertwining rape stories featuring Kevin Spacey.",
+    "A metric tonne of bologna.",
+    "Playing bingo at the old folks' home in an attempt to get laid.",
+    "Greasing up some muscular beefcakes.",
+    "Wearing Harambe's skin as a costume and attacking small children in the mall.",
+    "Six policeman shoving a floor lamp up some black guy's ass and ripping out his intestines.\t.",
+    "Protecting the Earth from the scum of the universe.",
+    "A lost white tourist in an African nation.",
+    "A drooping sausage.",
+    "Getting baked... by crawling into an actual oven.",
+    "Taking a giant dump in the litter box.",
+    "A scab covered penis.",
+    "Solar flares.",
+    "Strip poker.",
+    "A robot gorilla that fights crime and speaks with a Jamaican accent.",
+    "A loud orangutan with a hammer.",
+    "Shark Week on Discovery.",
+    "Strutting, preening, posturing, hairy, sweaty alpha male jack-offs.\t.",
+    "Beer farts.",
+    "Sand. It's coarse and rough and irritating and it gets everywhere.",
+    "Acne scars all over.",
+    "A midget humping a giant laser.",
+    "A flat-chested woman.",
+    "A greased-up Susan Boyle.",
+    "The tears of poor children.",
+    "A hired hitman trying his damnedest to take my life.",
+    "A puddle of pee.",
+    "Forgetting to wipe.",
+    "Somali pirates stealing your internet bandwidth.",
+    "A diesel powered vibrator.",
+    "Scud missiles.",
+    "A crazy cat lady.",
+    "Gay dads.",
+    "MY BROKEN SHIFT KEY.",
+    "Seriously bad dudes.",
+    "Wallace beating Gromit to death.",
+    "0% financing and over $10,000 in discounts.",
+    "Converting homos to make them not queer.",
+    "Terminally ill children in the cancer ward.",
+    "Teenage angst.",
+    "Cold, wet meat.",
+    "Rape face.",
+    "Getting angry on the internet.",
+    "Jane the ignorant slut.",
+    "Installing a CCTV camera in my toilet bowl.",
+    "A vajazzled penis.",
+    "Dulse.",
+    "A bunch of fanatical fucks chopping their own dicks off.",
+    "Looking for love at a family reunion.",
+    "The red M&Ms.",
+    "Leprechauns.",
+    "Spanking a fat kid.",
+    "A Swedish-made penis enlarger.",
+    "My friend Bob Sacamano.",
+    "Beating an old woman to death with her own umbrella.",
+    "A cocksucker from Guatemala.",
+    "Motorboating a cow's udder.",
+    "Getting explosive diarrhea while sedated in the ER.",
+    "Mean little shit kids who won't let a cartoon rabbit enjoy his cereal.",
+    "Bloody poop.",
+    "Eating a bowl of mealworms.",
+    "The Chinese gradually taking over the entire world.",
+    "The Bat-Signal.",
+    "Mutated and ill-tempered sea bass.",
+    "Watching strangers sleep.",
+    "Sexy Shrek doodles.",
+    "Dark clouds and feelings of hopeless despair.",
+    "The remains of Varys' penis.",
+    "Public beheadings.",
+    "Bad boys.",
+    "An unnecessarily slow-moving dipping mechanism.",
+    "Grandparents on leashes.",
+    "Haggis.",
+    "Being pinned down by a silverback gorilla with a massive erection.",
+    "A deep freezer full of corpses.",
+    "Some obnoxious cunt from Toronto.",
+    "Chloroform.",
+    "Petrified \"wood\".",
+    "Fellatio.",
+    "Having sex with cardboard cutouts of the cast of \"Cheers.\".",
+    "Styling my pubic hair with a salon-quality perm.",
+    "The Trix Rabbit.",
+    "Having the superpower of flight while being deathly afraid of heights.",
+    "Blind people playing pictionary.",
+    "Nerds. Candy, not people.",
+    "Skynet.",
+    "Repeating it all over again.",
+    "A small Latino cleaning lady.",
+    "Heroes who never die.",
+    "Preying on the physically disabled.",
+    "Sean Penn bringing everything he's got.",
+    "Getting in her pants, impolitely. In other words, rape.",
+    "Blubber.",
+    "Mormons.",
+    "Putting my fingers in her twat.",
+    "Earwax.",
+    "Entering a for real Mortal Kombat tournament.",
+    "My stupid, slutty girlfriend.",
+    "An unstoppable wave of Jewish accountants.",
+    "Hiring Casey Anthony as a babysitter.",
+    "Getting naked and watching Corner Gas.",
+    "Kim Kardashian.",
+    "A baseball bat to the head.",
+    "Impeaching the President of the United States.",
+    "Robots who just want to assemble cars in a factory.",
+    "A beefy, oiled up Icelandic bodybuilder striking a homoerotic pose.",
+    "\"Milking\" a bull by mistake.",
+    "Ryū ga waga teki wo kurau!.",
+    "Mr. Clean's glistening scrotum.",
+    "George W. Bush adorably stumbling his way through a speech.",
+    "A horde of shitty ex-wrestlers who are now even shittier actors.",
+    "A Jill Sandwich.",
+    "Hunting children for sport.",
+    "Penile dentures.",
+    "A Zoroastrian named Vilma ritualistically shaving my testicles.",
+    "A wolverine that's high on angel dust.\t.",
+    "A man in a hospital gown directing traffic.\t.",
+    "Getting raped by an octopus while scuba diving.",
+    "John Goodman.",
+    "Falling into the Amazon River and getting eaten alive by piranhas.",
+    "When protons and neutrons attract.",
+    "Hobbit feet.",
+    "The male orgasm.",
+    "LEECHES!\t.",
+    "A friend who happens to be black.\t.",
+    "The sub-par woodworkings of Jesus Christ.",
+    "My sister's body.",
+    "Riding a moose into battle.",
+    "A woman with a turtle in her vagina.",
+    "Committing acts of felony in the ghetto.",
+    "Supple, pouting breasts and firm thighs.",
+    "A Nigerian prince who urgently needs financial assistance.",
+    "A mystery bag.",
+    "Cold, wet noodles.",
+    "Fucking kids who won't get off my fucking lawn.",
+    "Crashing a stranger's wedding.",
+    "The Chinese taking over.",
+    "Mrs. Brown's Boys.",
+    "Stretching your penis really far and tying it in a knot.",
+    "Burning my daughter alive.",
+    "The unbeatable efficiency of Amish contractors.",
+    "Bleeding from the asshole.\t.",
+    "Holding the door.",
+    "Sneezing in people's faces.",
+    "Embalming fluids.",
+    "An ugly dick.",
+    "Exactly what the gypsy woman told me.",
+    "Gay Garfield. He hates Mondays, but loves big and sweaty balls.",
+    "Mail order brides.",
+    "Darth Vader's death scene.",
+    "Ugandan Knuckles.",
+    "Those fucking Asian drivers.",
+    "The mounting pressure you feel in your anus before a cataclysmic shit.",
+    "Pooping with my dad.",
+    "Mean comments on my YouTube videos.",
+    "Escaping from Guantanamo Bay.",
+    "Adult diapers.",
+    "Symphorophilia (the act of receiving sexual pleasure from staging disasters).",
+    "Driving a combine harvester onto a football field and trying to mow down as many players as possible.",
+    "The day the machines rose up in rebellion.",
+    "Failing three death saving throws.",
+    "Women.",
+    "The latest issue of Oprah magazine.",
+    "Fetish shit.",
+    "Using maple syrup as lube.",
+    "Nyan Cat.",
+    "Wrestling with Jeff and preparing for death.",
+    "A sober non-drinker with a really boring and shitty personality.",
+    "Regularly jacking off the farm animals to relax them in order to result in juicier, more tender meat.",
+    "Megadeth.",
+    "Burnt toast.",
+    "Being in a Turkish prison.",
+    "Jews who aren't good at doing taxes.",
+    "A known pedophile working as a gym teacher.",
+    "Viking death metal.",
+    "White guys disguised as and pretending to be black girls.",
+    "The airspeed velocity of an unladen swallow.",
+    "Roleplaying as the opposite gender.",
+    "Riding a llama into battle.",
+    "Wirt's leg.",
+    "A cunt.",
+    "Owen Wilson's voice.",
+    "Hodor.",
+    "Mr. Poopybutthole.",
+    "A song that never ends.",
+    "Jarring and pickling everything in the fridge.",
+    "A rabid squirrel.",
+    "Big American titties.",
+    "Betty White.",
+    "Braiding my nose hairs.",
+    "Where the Wild Things are.",
+    "The first graders.",
+    "A bazooka that fires kittens.",
+    "A shrubbery.",
+    "Smoke coming out of her jubblies.",
+    "A bologna sandwich.",
+    "Cat breath.",
+    "Glenn Beck caught masturbating on live television after he forgets they're on the air and that he isn't alone.",
+    "Helping black people get into Phish.",
+    "Grandpa's sticky porno collection.",
+    "A burrito made entirely of candy.",
+    "Fighting sea gulls for food scraps.",
+    "Whores.",
+    "My OKCupid profile.",
+    "Being covered in leeches.",
+    "A vile temptress!.",
+    "Lederhosen.",
+    "Chicks with dicks.",
+    "Killing my spirit animal with spirit neglect.",
+    "Hating being fat, but being too lazy to do anything about it.",
+    "A kick in the nuts.",
+    "Not knowing the difference between Digimon and Pokemon.",
+    "A diabetic coma.",
+    "Gronk.",
+    "Ripping a woman's spine out through her anus.",
+    "Feeding John Goodman.",
+    "What remains of my vagina.",
+    "A sexually frustrated house cat.",
+    "Thinking that trying to ride a cougar would be a fun idea and then consequently dying from said cougar.",
+    "Whoring myself out as a prostitute in virtual reality.",
+    "Idiots! Idiots everywhere!.",
+    "An amber alert.",
+    "My cancerous lumps.",
+    "Killing my own father on the toilet.",
+    "Drawing erotic sexual acts during a game of Pictionary.",
+    "Smelly children.",
+    "Border police thwarting an actual alien invasion.",
+    "Stealing from the Salvation Army.",
+    "The Thanos snap.",
+    "Going to the gym just to watch other people work out.",
+    "The thick, flavourful semen of an Indian man.",
+    "To float around the North Atlantic for several days clinging to a pillow full of beer farts.\t.",
+    "Old man taint.",
+    "Drinking a gallon of mustard.",
+    "Beard trimmings.",
+    "Catfishing.",
+    "Sloth dick.",
+    "The Halifax Explosion.",
+    "Keeping a stranger chained up in the basement as a sex slave.",
+    "A cross-eyed nun with a bullwhip and a bottle of gin.\t.",
+    "A eruption of semen so large that the Coast Guard got involved.",
+    "Really hairy breasts. No, seriously, REALLY hairy.",
+    "Firing lightning bolts from my penis.",
+    "The crusty anus of an angry bobcat.",
+    "Getting naked and watching Golden Girls reruns.",
+    "Preparation H.",
+    "Getting banged by a man who gets out of breath eating soup.",
+    "My emotionally abusive father.",
+    "A diseased scrotum.",
+    "Shakira.",
+    "Regurgitating my stomach contents to feed my starving children.",
+    "Steve Irwin wrestling animals in Heaven.",
+    "Martin Shkreli.",
+    "Cthulhu.\t.",
+    "White pride parade.",
+    "A piece of poop that just won't flush.",
+    "Dirty deeds done dirt cheap.",
+    "Getting off to tortured screams.",
+    "Taking a Shea Weber slap shot to the throat.",
+    "Being blasted up the ass by a Nor'easter.",
+    "A searing hot handjob from a Lava Golem.",
+    "Westboro Baptist Church.",
+    "Performing sexual favours for money.",
+    "Watching paint dry.",
+    "The embarrassed parents of a cross-eyed little nit-wit.\t.",
+    "Grave moss.\t.",
+    "Having sex in the graveyard.\t.",
+    "Margaret Thatcher naked on a cold day.",
+    "A bucket of fried chicken.",
+    "I ate something that is making my insides cramp up.",
+    "A narcoleptic brain surgeon.",
+    "I'm just burnin' cards here, yo.",
+    "Spreading my love all over the place.",
+    "Richard Gere.",
+    "Bleeding from the anus.",
+    "Fat fucks.",
+    "Ass play.",
+    "Greatly misinterpreting Black History Month by making blacks history.",
+    "That one white guy in a black gang.",
+    "Sneezing into an oscillating fan.",
+    "Bombing brown people.",
+    "Extraordinarily long ass hairs.",
+    "Autism.",
+    "Giant robots from outer space.",
+    "An arrow to the knee.",
+    "White power.",
+    "Being drunk all the time.",
+    "Pogonophobia (the fear of beards).",
+    "A dirty whore with no pride or sense of shame.",
+    "Opening my own sperm bank.",
+    "The scary alien monster that lives in the vents.",
+    "Ice cream made from breast milk.",
+    "Your mom.",
+    "\"Fried Chicken n' Watermelon\" Kool-Aid®.",
+    "The zombies that ate my neighbors."
+  ],
+  "pack": {
+    "id": "63EX5",
+    "name": "The Big Deck of Bullshit"
+  },
+  "quantity": {
+    "black": 531,
+    "white": 1847,
+    "total": 2378
+  },
+  "dateStoredMs": 1588981883379
+}

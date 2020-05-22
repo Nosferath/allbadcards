@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Snape appeared in the corridor, wearing only _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Listen to me!\" Harry shouted. \"The Daily Prophet is printing lies! Voldemort is actually _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hermione walked up to Malfoy and gave him  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gryffindor would have won the match if it weren't for _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_?!\" Spluttered Malfoy. \"My father is going to hear about this!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "THAT'S your Patronus? But it's just _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New flavor of Bertie Bott's Every Flavor Beans: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lupin sighed. \"I was afraid the boggart would turn into _ .\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Romantic Wizard Chess by candlelight.",
+    "An unregistered sea sponge animagus.",
+    "Earmuffs.",
+    "One of uncle Vermont's particularly nasty old socks.",
+    "A gnarled old witch.",
+    "Three First Years.",
+    "A good hard slap to the face.",
+    "Troll snot.",
+    "Sneaking around the corridors at night.",
+    "Some extremely skimpy dress robes.",
+    "A few Knuts.",
+    "A lock of McGonagall's hair.",
+    "Figgy pudding.",
+    "Bad French poetry.",
+    "12 snakes in a trenchcoat."
+  ],
+  "pack": {
+    "id": "MQBHT",
+    "name": "Cards Against Harry Potter"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 15,
+    "total": 23
+  },
+  "dateStoredMs": 1588938679025
+}

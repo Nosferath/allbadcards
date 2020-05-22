@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "WHITE CARD = QUESTIONS/FITB (delete this when done) _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "BLACK CARD = ANSWERS (delete this when done) _____.",
+    "Daddy Sportacus™."
+  ],
+  "pack": {
+    "id": "JC28K",
+    "name": "LazyTown Cards Against Humanity (NSFW)"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589543424207
+}

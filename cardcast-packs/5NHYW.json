@@ -1,0 +1,19 @@
+{
+  "black": [],
+  "white": [
+    "Not enough tentacles.",
+    "Too many tentacles.",
+    "A demon with erectile dysfuntion.",
+    "Slime that gets stuck in the cracks."
+  ],
+  "pack": {
+    "id": "5NHYW",
+    "name": "scarywigglythings"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 4,
+    "total": 4
+  },
+  "dateStoredMs": 1589082201606
+}

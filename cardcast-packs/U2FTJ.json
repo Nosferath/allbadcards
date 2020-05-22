@@ -1,0 +1,118 @@
+{
+  "black": [
+    {
+      "content": "\"Who's chopper is this?\"  \"It's Zed's\" \"Who's Zed?\" _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"That's how you know you found someone special. When you can just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"But you know what's on my mind? It ain't the coffee in my kitchen. It's the _ in my garage.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"The _ is sleeping.\" \"Well wake him up.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's not a motorcycle baby, its a _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If Butch goes to Indochina, I want _ hiding in a bowl of rice ready to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's in the briefcase? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"What is your name?\" \"Butch\" What does it mean.\" \"_.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Did you see the sign out in the front of my house that said _ storage?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do you know what they call a Quarter Pounder in Paris? It's a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ AINT NO COUNTRY I EVER HEARD OF? DO THEY SPEAK ENGLISH?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got a personality, personality goes a long way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the same as eating a girl out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You ain't got no problems, Jules. I'm on the motherfucker. Go back in there, chill them niggers and wait for _ who should be coming directly.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I want you to go in the bag, and find my wallet.\" \"Which one is it?\" \"The one that say's _.\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Royale with cheese.",
+    "Getting ass raped by some hillbilly in a basement.",
+    "Mia Wallace.",
+    "Dead nigger.",
+    "SAY WHAT AGAIN MOTHERFUCKA.",
+    "\"Oh, I'm sorry. Did I break your concentration?\".",
+    "Giving a girl a foot massage.",
+    "God coming down and stopping bullets like Neo in the Matrix.",
+    "Marsellus Wallace.",
+    "Vincent Vega.",
+    "Jack Rabbit Slim's.",
+    "Dead niggers in my garage.",
+    "What.",
+    "The amount of \"mother fucker\" that comes from Samuel L. Jacksons.",
+    "Snorting heroin because you thought it was cocaine.",
+    "The Wolf.",
+    "Chopper.",
+    "Jules Winnfield.",
+    "Samuel L. Jackson.",
+    "Gimp.",
+    "A couple of hard, pipe hitting niggers.",
+    "Some asshole keying your Malibu.",
+    "Butch Coolidge.",
+    "John Travolta.",
+    "Zed's dead.",
+    "Hiding a watch up your ass for 2 years in a P.O.W. camp.",
+    "Popping a cap in his ass."
+  ],
+  "pack": {
+    "id": "U2FTJ",
+    "name": "Pulp Fiction Expansion Pack"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 27,
+    "total": 42
+  },
+  "dateStoredMs": 1588374391470
+}

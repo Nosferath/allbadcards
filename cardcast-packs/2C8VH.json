@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "This self isolation really makes me want to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't/aren't a joke it's not funny guys.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tom BC's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am going to hunt down _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How many/much _ do you have in right now?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am going to catapult _ across my neighborhood.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wuhan is great for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bless we beseech thee this our _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Ugrin Vucavic.",
+    "Anyone over 100 kg.",
+    "Illegal immigrants.",
+    "Industrial strength snus.",
+    "Obamacare.",
+    "A jailbroken iphone 4s.",
+    "Mein Kampf chapter 1.",
+    "Vietnamese farmers.",
+    "Rotai Chanai with bat.",
+    "Colon cancer.",
+    "A Wuhanese citizen.",
+    "1989 Tiananmen Square protests.",
+    "The local Gaza strip hospital.",
+    "School.",
+    "Etan Los.",
+    "Fuck.",
+    "Cunt cunt cunt cunt.",
+    "Satay Kingdom might have to close after lock down cause it's a small business.",
+    "Self isolation wanks.",
+    "A nutsack caught in the vacuum."
+  ],
+  "pack": {
+    "id": "2C8VH",
+    "name": "dickcock"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 20,
+    "total": 28
+  },
+  "dateStoredMs": 1588281390272
+}

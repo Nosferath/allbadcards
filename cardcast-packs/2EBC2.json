@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Narendra Modi's favourite thing is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gau Mutra."
+  ],
+  "pack": {
+    "id": "2EBC2",
+    "name": "Cards against Manavjaati"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588786997656
+}

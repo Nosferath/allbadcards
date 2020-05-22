@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "Szkolna wycieczka zostala porwana przez _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terrorysci powstrzymali atak przez _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kiedy bylem maly to mama mowila mi ze _ to tak naprawde _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Co to za pokemon ? To _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lady Gaga.",
+    "Trzech muszkieterow.",
+    "Palcowka.",
+    "Padaczka.",
+    "Jaroslaw Kaczynski.",
+    "Stara babcia przechadzajaca sie pomiedzy krzaczkami.",
+    "Donald Tusk.",
+    "Masturbacja z predkoscia dzika.",
+    "Armia Putina.",
+    "Twoja stara.",
+    "Pyza.",
+    "Over 9000!!!!.",
+    "Nieudana aborcja.",
+    "Kolejka.",
+    "Siedem krasnolodkow.",
+    "Gang bang.",
+    "Ty.",
+    "Ostre ruchansko."
+  ],
+  "pack": {
+    "id": "3DKGQ",
+    "name": "Polish Onions"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 18,
+    "total": 22
+  },
+  "dateStoredMs": 1589282217168
+}

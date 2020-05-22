@@ -1,0 +1,947 @@
+{
+  "black": [
+    {
+      "content": "If I have to quit something it's going to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Step 1: _.  Step 2 _.  Step 3: World Domination!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A kid's best friend is their _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Try _ to liven up a party!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How am I keeping my cool?  By _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For show and tell I brought my favorite _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When you get right down to it, _ is just _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In the newest action adventure movie it's _ against _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And the Academy Award for _ goes to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When all else fails, you can always rely on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From now on, there's a new holiday devoted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turns out that _-Man was not the hero we needed or wanted.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our family dinner wouldn't be complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the new Disney Channel Original Movie, a princess struggles with _ for the first time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe it!  _ ruined my _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dr. Who discovered that _ has really been _ all along.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My uncle loves eating _ stuffed with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In 1000 years, nobody will pay with money.  They'll just use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For my next trick I will pull a _ out of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's so weird about_?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the distant future, historians will agree that _ marked the end of civilization.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before I take over the world, Perry the Platypus, I must show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having problems with _? Try _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In a world full of _ , I try to find happiness in _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ gets better with age.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The local gym teacher got fired for adding _ to the obstacle course.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you die and go to Hell you have to endure _ for all eternity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's right, I killed _.  How you ask? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Art Museum has a new exhibit:  Paintings of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While the Ash and Pikachu trained, team rocket was secretly working on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To make a good first impression, start with a firm handshake and end with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ should be a basic human right.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone knows I'm a powerful wizard because of my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I learned the hard way that you can't cheer up a grieving friend with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Batman's guilty pleasure is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I am a billionaire, I shall erect a 50 foot statute of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Smithsonian Museum of Natural History has just opened an interactive exhibit on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : Hours of fun, easy to use, and perfect for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Studies show that lab rats go 50% faster through a maze after being exposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , the gift that keeps on giving.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "New rule for my room: no_, only_!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't worry about that sound.  It's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the newest fad diet you eat only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And I would have gotten away with it too, if it wasn't for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nana finds _ disturbing, yet oddly charming.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The potion I drank made _ turn into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Maybe mutant powers really come from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason the new kid is crying is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Listen, kids, if you want to play with _ , just remember to watch out for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The club meeting was a disaster until we realized we all like _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , that's how I want to die.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents have been hiding _ for years!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is making things difficult at the Pagan Festival.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry teacher, I couldn't complete my homework because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After work, Dad likes to unwind with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a dangerous way to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the crowd was unimpressed the street performer added some _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't help it, _ gives me uncontrollable farts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.  It's a trap!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the hurricane, people needed help so we donated a truckload of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , good to the last drop.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : kid tested, mother approved!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If there's another world war, it will be fought with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that when you die and go to heaven, there's a ton of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made me hurt all over? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My secret power is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After months of practice with _ , I think I'm ready for _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When I pooped, _ came out my butt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yup, this is the way the world will end.  Not with a bang but with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of coal, Santa now gives bad children _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lifetime presents  _ , the story of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Loving you is easy because you are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to a theater near you!  _ : the Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next superhero & sidekick duo is _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I have 99 problems, but _ isn't one of them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I heard that the school principal has a secret room just for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just want to sleep and forget about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At homeschool, parents inspire kids to learn by using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is annoying, but I love it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Old people smell like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Athletes are now banned using _ , because it gives them an unfair advantage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mom, Help!  I'm having trouble with this _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never fit in at school until I found _ club.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When I am President of the United States, I will create the Department of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This morning I found _ in my cheerios.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next Happy Meal Toy is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dufenshmertz likes to have _ for dinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't wait for the next book.  Harry Potter and the Chamber of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thinking about _ keeps me awake all night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey guys, come over to my house and I'll show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Native population was forever changed when the explorers introduced them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Science will never explain _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The class field trip was completely ruined by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Here is the church, here is the steeple, open the doors and see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Money can't buy love, but it can buy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That smell?  It's just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why am I sticky? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My life is ruled by a vicious cycle of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No one should have to go without _ each day.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The newest adult fad: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a pinch, _ can be a substitute for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Justin Bieber demands _ backstage before his concerts.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Airports are so strict now, they don't let _ on airplanes.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In a court of law, _ was found guilty of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Dear Sir or Madam, we regret to inform you that the Office of _ has denied your request for _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No matter how hard I try, _ always gets me in trouble.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did I bring back from vacation? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My plan for world domination begins with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you mess up in public school, they punish you with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Athletes are now banned using _ , because it gives them an unfair advantage.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Make a Haiku. _ , _ , _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_, High five, pal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next season on Man vs Wild, our team must survive a month in the Amazon with only _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new medical miracle treatment; _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I you want  _ , it will cost you a years allowance!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm not like the rest of you, I'm far to special for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My aunt's loves to watch the _ competition.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With enough time and pressure, _ will turn into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. Awesome in theory, messy in practice.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Bet you can't have just one.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "War! What is it good for? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finally, a service that delivers _ right to your door.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never truly understood _ until I saw _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Take backsies.",
+    "Nana.",
+    "An entire gymnastics team.",
+    "Gahndi.",
+    "Powerful eyebrows.",
+    "Velcro.",
+    "Some &%^$# peace and quiet.",
+    "Bullies.",
+    "Stormtroopers.",
+    "Mutants.",
+    "Gangnam Style.",
+    "The entire internet.",
+    "The inevitable collapse of civilization.",
+    "People who are always on their cell.",
+    "Fish fingers and custard.",
+    "A sea of troubles.",
+    "Being rich.",
+    "Mouth watering hunger.",
+    "A mating dance.",
+    "Chainsaws for hands.",
+    "The heart of a child.",
+    "Playing red light, green light with weeping angles.",
+    "World peace.",
+    "Batman.",
+    "Friction.",
+    "Apologizing.",
+    "The Care Bear Stare.",
+    "Mutually assured destruction.",
+    "Walking barefoot on legos.",
+    "One trillion dollars.",
+    "Leaving an awkward voicemail.",
+    "Putting a peanut butter sandwich into a VCR.",
+    "A saxophone solo.",
+    "Sudden poop explosion disease.",
+    "A cop who is a dog.",
+    "Clenched butt cheeks.",
+    "The little engine that could.",
+    "A Once Upon a Time plot twist.",
+    "Forcing an enemy to dance in a monkey suit.",
+    "Nana's constant cleaning.",
+    "The super hero code.",
+    "A really cool hat.",
+    "Words, words, words.",
+    "A boo boo.",
+    "The hiccups.",
+    "An unstoppable wave of fire ants.",
+    "Some kind of bird man.",
+    "The true meaning ofYuletide.",
+    "Shiny things.",
+    "Domino's Oreo Desert Pizza.",
+    "A mopey zoo lion.",
+    "A huge pyramid of rotting zombies.",
+    "My butler, Claude.",
+    "Certain doom.",
+    "Empirical evidence.",
+    "Being creepy.",
+    "Actually taking candy from a baby.",
+    "Being fabulous.",
+    "Ratty underwear.",
+    "A thermonuclear detonation.",
+    "Demonic possession.",
+    "A super soaker full of cat pee.",
+    "Shambling zombies.",
+    "A monkey smoking a cigar.",
+    "Sneezing so hard you pee a little.",
+    "An ancient old person on roller skates.",
+    "Doing the right thing.",
+    "Poopy diapers.",
+    "Saying the wrong thing at the wrong time.",
+    "Funky fresh rhymes.",
+    "Raptor attacks.",
+    "One thousand cheeze sticks.",
+    "A farting antelope.",
+    "A tribe of warrior women.",
+    "Natural selection.",
+    "Making little kids cry.",
+    "An evil plot for world domination, or at least the tri-city area.",
+    "Gladitorial combat.",
+    "Dufensmertz.",
+    "Vikings.",
+    "Jumping out and scaring people.",
+    "Jinxing over and over.",
+    "The Force.",
+    "Jafar.",
+    "A live studio audience.",
+    "Land mines.",
+    "The Macarena.",
+    "Finger painting.",
+    "Iron Man.",
+    "Pooping back and forth forever.",
+    "Being chased by a creepy clown.",
+    "Ripping into a man's chest and pulling out his still-beating heart.",
+    "Cat leashes.",
+    "Taco tuesday.",
+    "Clams.",
+    "Attitude.",
+    "The dance of the Sugar Plum Fairy.",
+    "Not wearing pants.",
+    "Nothing.",
+    "The World of Warcraft.",
+    "Silence.",
+    "A punch in the nose.",
+    "The Land of Chocolate.",
+    "The harsh light of day.",
+    "Having a shotgun for a leg.",
+    "Getting kidnapped by Peter Pan.",
+    "Public shame.",
+    "A boring lecture from Mom.",
+    "Wearing underwear inside out instead of washing it.",
+    "Grave robbing.",
+    "Chasing costumed characters at the amusement park.",
+    "Farting then quietly walking away.",
+    "Doritos breath.",
+    "Boogie Fever.",
+    "Justin Beiber.",
+    "Tasting something gross.",
+    "Making a pouty face.",
+    "Oompa-loompas.",
+    "A cooler full of body parts.",
+    "Enderman.",
+    "Establishing dominance.",
+    "Hurricane Katrina.",
+    "Ninjas.",
+    "Lunchables.",
+    "Elevator music.",
+    "Tangled slinkys.",
+    "Utter permanance.",
+    "Being a busy adult with many important things to do.",
+    "The terrorists.",
+    "Overexplaining.",
+    "A soft fluffy bed.",
+    "Having more power that the eregizer bunny.",
+    "Exactly what you'd expect.",
+    "My inner demons.",
+    "The light of  a billion suns.",
+    "Cuddling.",
+    "Screaming like a maniac.",
+    "Leveling up.",
+    "An ice-pick lobotomy.",
+    "A self-pity party.",
+    "Lady Gaga.",
+    "Spending lots of money.",
+    "24 hour media coverage.",
+    "Kamikaze pilots.",
+    "My soul.",
+    "Mufasa's death scene.",
+    "Gandalf.",
+    "Bees?.",
+    "A sloppy bedroom.",
+    "Swag.",
+    "Opposable thumbs.",
+    "Horrifying facelifts.",
+    "A pile of squirming worms.",
+    "Mom.",
+    "Poor people.",
+    "Breaking out into song and dance.",
+    "Expecting a burp and throwing up instead.",
+    "Poor choices.",
+    "Racism.",
+    "A disgusting abundance of perfume.",
+    "A pie to the face.",
+    "A lifetime of whining.",
+    "A teeny tiny pig wearing a raincoat and booties.",
+    "Flightless birds.",
+    "Hope.",
+    "Frolicking.",
+    "Pokemon.",
+    "RoboCop.",
+    "Dying of boredom.",
+    "A mad scientist.",
+    "The ooze.",
+    "A crappy hand of Uno cards.",
+    "Hot Pockets.",
+    "A snapping turtle biting you.",
+    "Wearing the right pants to look cool.",
+    "Genetically engineered super soldiers.",
+    "Soup that is too hot.",
+    "Mutilated monkey meat.",
+    "Fiery poops.",
+    "Hangovers.",
+    "The Hamburglar.",
+    "Puberty.",
+    "The mail man.",
+    "Ominous music.",
+    "Mad hacky-sack skills.",
+    "Riding off into the sunset.",
+    "Science.",
+    "Prancing.",
+    "Agriculture.",
+    "King Richard's Faire.",
+    "An excessive amount of hair.",
+    "Geese.",
+    "A death ray.",
+    "Dissapointing everyone.",
+    "Darth Vader.",
+    "Dirty socks.",
+    "A brain tumor.",
+    "A Bop It.",
+    "Cute little puppies.",
+    "Vigorous jazz hands.",
+    "Winking at old people.",
+    "The Kool Aid Man.",
+    "Making it all up.",
+    "Leaving nasty notes.",
+    "Catapults.",
+    "Being a T-Rex.",
+    "The all seeing eye of Odin.",
+    "Filling everything with butterscotch pudding.",
+    "Centaurs.",
+    "Every single skylander.",
+    "Pretending to be cars.",
+    "A tiny horse.",
+    "Five dollar Footlongs.",
+    "Booty shaking.",
+    "Dolphins and whales.",
+    "Getting married, having some kids, buying some stuff, retiring and moving to Florida, then dying.",
+    "A balanced breakfast.",
+    "Uncontrollable yodeling.",
+    "Being a wizard.",
+    "Complete craziness.",
+    "Exposions.",
+    "Goblins.",
+    "Huge bulging muscles.",
+    "A graveyard in the moonlight.",
+    "Jello fighting.",
+    "Incredible stupidity.",
+    "Flesh eating bacteria.",
+    "Spontaneous human combustion.",
+    "Being decrepit.",
+    "The Dalek invasion.",
+    "Actually getting shot, for real.",
+    "Nacho supreme.",
+    "Me time.",
+    "Shapeshifters.",
+    "Sweet, sweet vengence.",
+    "Team Rocket.",
+    "Giving 110%.",
+    "All you can eat for $4.99.",
+    "Sunshine and rainbows.",
+    "Licking things to claim them as your own.",
+    "A time travel paradox.",
+    "Ghosts.",
+    "Little angles.",
+    "Shutting up.",
+    "Wonder Woman.",
+    "That old-people smell.",
+    "Authentic Mexican food.",
+    "Being on fire.",
+    "Being utterly, completely lazy.",
+    "Spam and peanutbutter cups.",
+    "Dancing in public without music.",
+    "Endless energy.",
+    "Fear itself.",
+    "Dropping a chandelier on your enemies and riding the rope up.",
+    "Roland the Farter, Flatulist to the King.",
+    "A two handed longsword boffer.",
+    "Wiping your butt.",
+    "A bag of magic beans.",
+    "An ugly face.",
+    "The Hulk.",
+    "The Girl Scouts.",
+    "Katie Perry flying on a tiger made of lightning.",
+    "An oversized lollipop.",
+    "Becoming a blueberry.",
+    "Quivering with fear.",
+    "Boogers.",
+    "The miracle of birth.",
+    "The four arms of Vishnu.",
+    "A spontaneous conga line.",
+    "Chugging an entire soda.",
+    "My machete.",
+    "The big bang.",
+    "A hot mess.",
+    "Her majesty the Queen.",
+    "Destroying the evidence.",
+    "Tweens.",
+    "The invisible man.",
+    "Arm wrestling your karate teacher.",
+    "Punch buggy.",
+    "Flying robots that kill people.",
+    "Pink fluffy unicorns dancing on rainbows.",
+    "Cheating in the special olymics.",
+    "A rival dojo.",
+    "A falcon with a jester hat.",
+    "Cat food.",
+    "Cybernetic enhancements.",
+    "A web of lies.",
+    "Bill Nye the Science Guy.",
+    "A bucket of fish guts.",
+    "Being far too stupid.",
+    "Hot cheese.",
+    "The Make a Wish Foundation.",
+    "Very tight underwear.",
+    "Getting so angry that your head explodes.",
+    "Figgy pudding.",
+    "Eating all of the cookies before the bake sale.",
+    "Yet another vampire movie.",
+    "A hero without a clue.",
+    "The American Dream.",
+    "Santa Claus.",
+    "GoGurt.",
+    "What the cat dragged in.",
+    "The agony of defeat.",
+    "Smegma.",
+    "When you fart and it squeeks.",
+    "Going around punching people.",
+    "Ass-burgers.",
+    "A can of whoop-ass.",
+    "Teaching a robot to love.",
+    "Fart smelling.",
+    "Helplessly giggling a the word fanny."
+  ],
+  "pack": {
+    "id": "Q96PF",
+    "name": "Tweens Against Humanity"
+  },
+  "quantity": {
+    "black": 124,
+    "white": 311,
+    "total": 435
+  },
+  "dateStoredMs": 1589489588116
+}

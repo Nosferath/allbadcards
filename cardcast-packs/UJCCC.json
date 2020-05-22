@@ -1,0 +1,146 @@
+{
+  "black": [
+    {
+      "content": "You like _ , don't you, Squidward?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I thought of something funnier than _. _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Patrick, that's a _ . You need a jar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm ready, I'm ready, I'm _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello sir, could we interest you in some _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why don't we take _ and push it somewhere else?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look, he's been hiding _ under his tongue the whole time...!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember, _ is illegal on other planets.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is this the Krusty Krab? No, this is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What I learned in boating school is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is _ an instrument?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Name three steps you need to take in order to avoid a sea bear attack. _ , _  and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Hey Patrick, what am I?  Uhh, stupid?  No, I'm _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Christmas feels like _ to me!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Squidward, we don't need television. Not as long as we have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret formula is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The inner machinations of my mind are _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Tartar sauce.",
+    "Mermaid Man and Barnacle Boy.",
+    "1% Evil, 99% Hot Gas.",
+    "Painted meat.",
+    "Old man Jenkins.",
+    "Playing hooky at the carnival.",
+    "Chocolate? Chocolate?! CHOCOLATE! CHOCOLAAAAAAAAATE!.",
+    "Dirty Dan.",
+    "Squeaky boots.",
+    "Blowing bubbles.",
+    "Kah-rah-tae.",
+    "The ugly barnacle.",
+    "Pineapple.",
+    "Failing your driving test 57, err, 58 times.",
+    "Wormy.",
+    "SOILED IT! SOILED IT! SOILED IT!.",
+    "Victory screech.",
+    "Big, meaty claws.",
+    "Firmly grasp it.",
+    "I NEEEEEEEEEEEEEED IT.",
+    "Like a genie.",
+    "Ravioli, ravioli, give me the formuloli.",
+    "Jellyfishing.",
+    "Hall monitor.",
+    "Forgetting how to tie your own shoes.",
+    "Best day ever.",
+    "Imagination.",
+    "Finding the hay in the needle stack.",
+    "Bubble Buddy.",
+    "Texas.",
+    "The Krusty Krab Pizza.",
+    "Nematodes.",
+    "Pies. That are made in a factory. A bomb factory. They're bombs.",
+    "Your last day on earth.",
+    "A giraffe.",
+    "Being bald and having a big nose.",
+    "Inflatable pants.",
+    "Rock bottom.",
+    "Have you finished those errands?.",
+    "That smelly smell that smells...smelly.",
+    "Employee of the month.",
+    "Wumbo.",
+    "Defeating the giant monkey men to save the ninth dimension.",
+    "My leg.",
+    "A big yellow cube with holes."
+  ],
+  "pack": {
+    "id": "UJCCC",
+    "name": "Is Mayonnaise an Expansion Pack?"
+  },
+  "quantity": {
+    "black": 17,
+    "white": 45,
+    "total": 62
+  },
+  "dateStoredMs": 1589507010265
+}

@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "content": "H..hewwo?  M...Mistew Obama?  Pwease hewp, I'm _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mistew Obama.",
+    "Huggie wuggies.",
+    "Noticing your bulge.",
+    "PEWISH!!!!.",
+    "I'M DWONING!!!! PWEASE HEWP!."
+  ],
+  "pack": {
+    "id": "SJMAY",
+    "name": "garbage furry memes"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 5,
+    "total": 6
+  },
+  "dateStoredMs": 1589074574077
+}

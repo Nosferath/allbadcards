@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "Philippines is best known as _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We'd pick _ over rice anytime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're as crappy as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worst thing about the Philippines?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, best thing in the world.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manny Paquaiao, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Hail _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Infertile because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is where heaven is.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Favorite Pornstar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I blame the Government for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dicks as tiny as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next generation is shit because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Carrotman.",
+    "Monggol Pencils.",
+    "Tubigman.",
+    "SOGO.",
+    "Butthurt.",
+    "Marlou.",
+    "Basketball.",
+    "Crappy Urinals.",
+    "Vice Ganda.",
+    "Transgenders.",
+    "Rice.",
+    "Karaoke.",
+    "Manila Bay.",
+    "Little Monkeys.",
+    "EDSA.",
+    "Duterte.",
+    "Jesus.",
+    "Miriam Santiago.",
+    "Janet Napoles."
+  ],
+  "pack": {
+    "id": "PW4MQ",
+    "name": "Philippines"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 19,
+    "total": 32
+  },
+  "dateStoredMs": 1589203517002
+}

@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "_ fills you with determination.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumour has it, Sans keeps _ in his room.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Napstablook's new song: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret ingredient in Toriel's butterscotch pie is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I named the fallen human _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It is I! The Great _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "hOi! i'm _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Mettaton's legs.",
+    "ALPHABETTI SPAGHETTI.",
+    "Alphyne.",
+    "Striped sweater.",
+    "Spaghetti.",
+    "Burgerpants.",
+    "Papyrus's standards.",
+    "Mew Mew Kissy Cutie.",
+    "Dog residue.",
+    "TEMMIE FLAKES.",
+    "Undyne the Undying.",
+    "Gay royal guards.",
+    "NYEH HEH HEH HEH."
+  ],
+  "pack": {
+    "id": "6PWP5",
+    "name": "Undertrash"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 13,
+    "total": 20
+  },
+  "dateStoredMs": 1588648321981
+}

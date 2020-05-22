@@ -1,0 +1,39 @@
+{
+  "black": [],
+  "white": [
+    "Saarland.",
+    "Nordrhein-Westfalen.",
+    "Mecklenburg-Vorpommern.",
+    "Bremen.",
+    "Düsseldorf.",
+    "Rheinland-Pfalz.",
+    "Köln.",
+    "Brandenburg.",
+    "Hannover.",
+    "Frankfurt.",
+    "Bayern.",
+    "Kiel.",
+    "Bonn.",
+    "Berlin.",
+    "Stuttgart.",
+    "Thüringen.",
+    "Hamburg.",
+    "Hessen.",
+    "Schleswig-Holstein.",
+    "Bremen.",
+    "Sachsen.",
+    "Baden-Württemberg.",
+    "Niedersachsen.",
+    "München."
+  ],
+  "pack": {
+    "id": "NSGKW",
+    "name": "Deutsche Bundesländer & Städte"
+  },
+  "quantity": {
+    "black": 0,
+    "white": 24,
+    "total": 24
+  },
+  "dateStoredMs": 1588281522696
+}

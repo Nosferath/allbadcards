@@ -1,0 +1,83 @@
+{
+  "black": [
+    {
+      "content": "\"What did you put in this recipe?\" \"I didnt have _ so I put _\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is worse than 3 Tommie classes in a row? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Person is 60 years old and has 80 years of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why didn't you bring your Suehara book? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My year didn't have a gym, we had _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ju met PA in the elevator and he said \"Why don't you like me? I'm_\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And the Polvinho awards for most embarassing moment goes to _ for _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Bruna.",
+    "Bibi.",
+    "Bruna.",
+    "Sit there, Nicolai (senta lá, Nicolai).",
+    "Ju.",
+    "Bibi.",
+    "Ingrid.",
+    "Ingrid.",
+    "Bibi.",
+    "Ly.",
+    "The world doesn't end in a cliff  (O mundo não acaba em barranco).",
+    "Baleingrid.",
+    "Ly.",
+    "Person.",
+    "Gui.",
+    "GarOUA.",
+    "Ingrid.",
+    "Ly.",
+    "Ju.",
+    "Ju.",
+    "It was a brownie! (era um brownie).",
+    "Terceiro Reinado.",
+    "Bella.",
+    "Bella.",
+    "Mirella.",
+    "Gui.",
+    "SoltOUA.",
+    "Go for the obvious (vai no óbvio).",
+    "Gui.",
+    "Bruna.",
+    "Sit on the pudding (senta no pudim).",
+    "Bella."
+  ],
+  "pack": {
+    "id": "FX3JJ",
+    "name": "Polvinho"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 32,
+    "total": 39
+  },
+  "dateStoredMs": 1588465082792
+}

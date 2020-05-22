@@ -1,0 +1,401 @@
+{
+  "black": [
+    {
+      "content": "A medianoche me transformo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bebo para olvidar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando cumplas 18, te daré el regalo que tanto esperabas: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Paso 1: _ Paso 2:_ Paso 3:¡¡¡¡Dineros!!!!.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Noticia de ultima hora: Astrónomos acaban de descubrir _ en Marte. Increíble.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No volveré a tocar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ir a la cama pensando en _, siempre me da un buen sueño.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Que es lo mas crujiente? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y el Oscar de la Academia por _ es para _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Una de las cartas que no quiero para nada es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué están usando en Estados Unidos para inspirar a los alumnos a mejorar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Que hay dentro de este maletín? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi amigo Christian cree firmemente en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Qué es lo que nunca falla para animar una fiesta? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Que detuvo la orgia? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ no es ilegal, ¿no?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esta carta hizo cuestionarme mi vida. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Profe, No acabe la tarea por que _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Para mi siguiente truco sacaré _ de _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "¿Te acuerdas de la noche que hicimos _? Eso si fue una locura.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Necesito tu _. AHORA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Entré a una pagina web y me traumé por que estaba llena de imágenes de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Me encanta tu aroma a _. ¿Es un nuevo perfume?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Más restaurantes necesitan _ en su menú.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, _ y _. la santa trinidad.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Encontré a _ bajo mi cama.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi frase favorita para gilear es _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En Japón existen maquinas expendedoras de _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En un mundo devastado por _ , nuestro único consuelo es _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mamá creo que soy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi misión en el mundo es _. Nada más.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¡Rapido! ¡Llamen al doctor _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Un gran poder conlleva un/a gran _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tenemos que poner todo nuestro empeño y dinero en descubrir _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¡911 es una emergencia!¡Mi perro acaba de comer _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cuando sea multimillonario, levantaré una estatua de 15 metros para conmemorar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No hay vivido realmente hasta que no has experimentado _ y _ a la vez.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "En mi tiempo libre, hago ejercicio intensivo de _. 3 dias a la semana.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Me cole en la casa blanca y vi a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Cuantas veces hay que _ al día? Yo lo hago 4 veces.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahora se prohíbe _ en los aviones.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En vez de carbón, Santa les da _ a los niños malos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿Harías _ por dinero?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yo me pregunto ¿Para que sirven las guerras? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Muerte por _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿A qué huele? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esto no es un chupetón, es solo _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "¿¡Por qué _ es siquiera una carta!?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Supe que habia navegado mucho en internet cuando descubri _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ es el mejor lubricante.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No se junten con Pepe, Tiene un _ extra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Un estudio reciente de laboratorio muestra que los estudiantes tienen 50% menos sexo después de estar expuestos a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante el sexo, me gusta pensar en _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mejor metete  tu _ por el culo y dejas de joder.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Siempre quise coger con _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Solía ver porno hasta que _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Una corrida en la boca sin avisar.",
+    "Abuso infantil.",
+    "La Roca.",
+    "Mi poto.",
+    "Apagar tu cigarrillo en el brazo de tu amigo.",
+    "Pelado de Brazzers.",
+    "Un mono fumando un puro.",
+    "Las Manos de Mamani.",
+    "El gay que aparece en todas las series modernas.",
+    "\"Claro pe mascota\".",
+    "Daddy Yankee.",
+    "Un ritual de apareamiento.",
+    "Vaginas rebozadas.",
+    "Un Teletubie gay.",
+    "Una Pichulaza.",
+    "Prender gordos para que quemen calorias.",
+    "Una linda mariposa.",
+    "Un pelo púbico abandonado.",
+    "Olor a gente vieja.",
+    "Triz en el ano.",
+    "Bond, James Bond.",
+    "Ser violado por Groot.",
+    "Una graduación norteamericana sin tiroteos.",
+    "La marcha atras.",
+    "Masturbador para hombres... Casero.",
+    "FEMINISMO.",
+    "Greenpeace.",
+    "2 girls 1 cup.",
+    "Convertirse en un arándano.",
+    "¡¡¡BATMAN!!!.",
+    "Un ciego intentado gilear.",
+    "La sangre de tus enemigos.",
+    "Poringa.",
+    "Gonorrea.",
+    "Un Veneco.",
+    "Flexiones Pelvicas.",
+    "Arepas y Bombas.",
+    "Vagabundos.",
+    "Masturbarse.",
+    "Penetración doble.",
+    "El 11 de Setiembre.",
+    "BEBECITAAAA.",
+    "Un prostibulo gay.",
+    "La ira de Vladimir Putin.",
+    "Comérselo todo y vomitar.",
+    "Un niño violando a un cura.",
+    "Despacito.",
+    "SIDA.",
+    "Viagra.",
+    "Terrorismo de los 90's.",
+    "¡¡¡¡ARRIBA ALAN!!!.",
+    "Un micropene.",
+    "Jeffarblogs.",
+    "Meterme un  jarro de vidrio en el ano.",
+    "El clítoris mágico.",
+    "Twenty One Pilots.",
+    "Bad Bunny.",
+    "Y de repente, comenzaron a llover consoladores.",
+    "Shrek cogiendose a bad bunny.",
+    "Tirarle pierdas a un ciego, solo porque no lo vera venir.",
+    "Holocausto: el musical.",
+    "Nicolas Cage.",
+    "Desgarro perianal de tercer grado.",
+    "Solo la punta.",
+    "Pods Anales.",
+    "Maltrato infantil.",
+    "Una pistola de agua llena de pis de gato.",
+    "Marcar a una prostituta como tuya.",
+    "Una buena esnifada.",
+    "Tonear en cerros.",
+    "Una triste paja.",
+    "Brownies con Marihuana.",
+    "Zorra.",
+    "Una tortuga mordiendote la punta del pene.",
+    "Atún en lata con extra de delfín.",
+    "Cagar y bautizar a tu creación.",
+    "Gente negra.",
+    "Dildos para gays.",
+    "300 gramos de dulce heroína negra Mexicana.",
+    "Pedos vaginales.",
+    "Chatas sin culo.",
+    "Pene.",
+    "Pedofilia.",
+    "Porno con tentaculos.",
+    "John wick teniendo un orgasmo con zoofilia.",
+    "Pezones que se escapan del vestido.",
+    "Zac Efron semidesnudo, bailando reggaeton sobre una mesa.",
+    "Masturbarse con las fotos de tu ex,.",
+    "Darse por culo debajo de las sabanas.",
+    "Envidia de pene.",
+    "La verga de arceus.",
+    "Porno alemán sadomazoquista.",
+    "Meter una llave en el culo de tu novia y gritar \"¡ABRETE SESAMO!\".",
+    "Judios con el pelo afro.",
+    "Pene.",
+    "Un rico trio con mia khalifa y optimus prime.",
+    "Tensión sexual.",
+    "Niños con cancer de culo.",
+    "Curar la homosexualidad con la oración.",
+    "Lagartijas con el pene."
+  ],
+  "pack": {
+    "id": "V996H",
+    "name": "[Perú Versión] (Starter Pack)"
+  },
+  "quantity": {
+    "black": 57,
+    "white": 100,
+    "total": 157
+  },
+  "dateStoredMs": 1589416721097
+}

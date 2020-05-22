@@ -1,0 +1,156 @@
+{
+  "black": [
+    {
+      "content": "What is Doc Hudson hiding in his storehouse? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No,no,no,no! No tires, just _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to Radiator Springs, gateway to  Ornament Valley. Legendary for it's _ and  _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What caused the big wreck in '54? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Next on RSN: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Cars 2 considered so bad? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will Mattel's next cars toy feature? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This ain't a one-man deal, kid. You need to wise-up and get your self a good _ and a good _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who did sheriff arrest this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing soothes a rusty bumper like _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He did what in his cup? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What Cars fans really want is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The plot of Cars 3 revolves around _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With a little Rust-eze...And an insane amount of _ , you too can look like me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is best waifu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OK... Here we go. Focus. _. I am _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I create _ in others that they themselves don't understand.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Red, can you move over? I want to get look at that sexy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ always comes after Lightning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ fucked my mom.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The car Pope.",
+    "Customers.",
+    "Zundapp's monocle.",
+    "Mater's rusty tow hook.",
+    "Open wheels.",
+    "Ramone's raising axles.",
+    "Rusty Cars.",
+    "Wentworth bolts.",
+    "My lucky sticker.",
+    "Lizzie.",
+    "Francesco's mother.",
+    "The Leaning Tower of Tires.",
+    "Chick Hicks.",
+    "The Delinquent Road Hazards.",
+    "Dinoco.",
+    "Darrel Cartrip.",
+    "Sticking out your tongue to make it a 3-way tie.",
+    "Mack.",
+    "Lightning McQueen's death.",
+    "Car puns.",
+    "Larry the Cable Guy.",
+    "Ka-Chow!.",
+    "KA-CHIGGA!.",
+    "A sentient car.",
+    "Finn's Mustache.",
+    "Flo's V8 Cafe.",
+    "Strip \"The King\" Weathers.",
+    "The Cozy Cone.",
+    "Chuck.",
+    "My massive spoiler.",
+    "Owen Wilson.",
+    "Mater's Tall Tales.",
+    "That weird antenna thing.",
+    "Chick's mustache.",
+    "Strip \"The King\" Weathers.",
+    "Bob Cutlass.",
+    "Lightning McQueen's Tires.",
+    "Car sex.",
+    "Filmore smoking weed.",
+    "Cars porn."
+  ],
+  "pack": {
+    "id": "4TQMF",
+    "name": "Pixar Cars against Humanity"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 40,
+    "total": 60
+  },
+  "dateStoredMs": 1588938678726
+}

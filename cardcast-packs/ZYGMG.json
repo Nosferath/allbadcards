@@ -1,0 +1,28 @@
+{
+  "black": [
+    {
+      "content": "Why Did Craig want us to use our initiative? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Ben go on Olivias profile? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "To bust a nut.",
+    "Because he's secretly banging Anant."
+  ],
+  "pack": {
+    "id": "ZYGMG",
+    "name": "College"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 2,
+    "total": 4
+  },
+  "dateStoredMs": 1588685830626
+}

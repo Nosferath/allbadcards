@@ -1,0 +1,177 @@
+{
+  "black": [
+    {
+      "content": "Jak śledczy ustalili, powodem wypadku samochody prezydenta było _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wedle nowego rozporządzenia Ministerstwa Edukacji każdy ma obowiązek zdać maturę z _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Odkąd rząd kontroluje Twittera najpopularniejszym tagiem jest #_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ostatnie odkrycie polskich naukowców - _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dzisiaj na lekcji polskiego uczyliśmy się o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Adam Mickiewicz - \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? It's just a prank bro!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Synek, pobrałbyś mi z torrentów _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nazywam się Kajetan, ale znajomi mówią mi _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dramat TVP! Zamast dokumentu o głowie państwa został puszczony materiał o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagroda za pierwsze miejsce za _ wędruje do _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Możesz wytłumaczyć mi co w naszej lodówce robi _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W roku 2097 kultura góralska została wyparta przez kulturę _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Marvel Studios przentuje najnowszy film - Avengers: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ,czyli nowy serial na HBO opowiadający o _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wedle nowej ustawy, święto _ jest dniem wolnym od pracy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gdyby nie _ to Islam by już nie istniał.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Siemnako, jestem Lemur69 i w dzisiejszym vlogu opowiem wam o _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jak podaje nasz korespondent, powodem ostatnich ataków terrorystycznych było _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Grupa ITI z przyjemnością prezentuje nowy kanał telewizyjny: TVN _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Już niedługo pod Radomiem powstanie fabryka _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dwa karły srające do wiaderka.",
+    "Doktor magister inżynier rehabilitowany.",
+    "9/11.",
+    "Erotyczny Śmigus-Dyngus.",
+    "Team RWBY.",
+    "Meksykanie.",
+    "Gówno.",
+    "Lech Poznań.",
+    "Ausrtalijski pocałunek.",
+    "Amerykańska nastolatka myśląca, że JFK stoi od \"John Fucking Kennedy\".",
+    "5,9 promila majonezu w wydychanym powietrzu.",
+    "Antoni Macierewicz zakładający żywe gąsienice na czołg.",
+    "Matrix na Windowsie 95.",
+    "ISIS.",
+    "SexPeke.",
+    "Tesla Model S przerobiona na gaz.",
+    "Polska cebula.",
+    "Wzór na objętość twojej starej.",
+    "Piramida finansowa.",
+    "Bóg.",
+    "Porno na Netflixie.",
+    "Andrzej Dupa.",
+    "Agent 07, czyli Aleksander Kwaśniewski.",
+    "Letni obóz koncentracyjny.",
+    "Seks w wirtualnej rzeczywistości.",
+    "Kosmetyki od turków.",
+    "Topienie Simów w basenie bez drabinki.",
+    "Legia Warszawa.",
+    "Adolf Hitler.",
+    "Góra Rushmore z podobiznami polityków PiS.",
+    "Międzywymiarowy seks grupowy.",
+    "Mordercza Opona.",
+    "Hexadecahedronowe kulki analne.",
+    "Zerg Rush w pasjansie.",
+    "Światowe Dni Młodzieży na Woodstocku.",
+    "Gorące singielki w twojej okolicy.",
+    "Mur Chiński.",
+    "Montowanie w samochodzie progów podatkowych.",
+    "Pogoń Szczecin.",
+    "(Czytane w głosie Bobo) Kurwa Spock!.",
+    "Użycie EMP na oddziale kardiologii.",
+    "Donald J. Trump.",
+    "Chujokopter.",
+    "Iron Man srający w zbroję.",
+    "Dług Kanye'go Westa.",
+    "Pierdolenie o krajach trzeciego świata.",
+    "Teledysk do Bogurodzicy.",
+    "Reklama IKEI dla bezdomnych.",
+    "Vladimir Putin.",
+    "Ciasto drożdżowe z kruszonką z betonu.",
+    "Tajlandzkie dziwki.",
+    "John Cena.",
+    "Wibratory na kartki.",
+    "Andrzej Duda.",
+    "Podmienienie wody święconej na kwas solny.",
+    "Palenie jointa z prochami abortowanych dzieci."
+  ],
+  "pack": {
+    "id": "3PA2Q",
+    "name": "Karty Dżentelmenów - Nieficjalny Dodatek Wszelkiego Gówna"
+  },
+  "quantity": {
+    "black": 21,
+    "white": 56,
+    "total": 77
+  },
+  "dateStoredMs": 1589151347273
+}

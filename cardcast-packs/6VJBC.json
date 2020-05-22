@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "_, _, YET _.",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "DANKER.",
+    "DANK."
+  ],
+  "pack": {
+    "id": "6VJBC",
+    "name": "Undertale Against Humanity"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589525586482
+}

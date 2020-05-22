@@ -1,0 +1,36 @@
+{
+  "black": [
+    {
+      "content": "_ arrapa natali tantissimo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quando _ decide di _, _ si incazza",
+      "draw": 2,
+      "pick": 3
+    }
+  ],
+  "white": [
+    "Ebrei pasticcieri.",
+    "09 su forno.",
+    "Mangiare velocemente per vomitare e rimengiare.",
+    "David xhelili.",
+    "Weebs.",
+    "“AAAAAHHH XD LOL”.",
+    "Quelli che shippano Cate e Elo.",
+    "Unchi e Unchina che scopano.",
+    "Lampo che mangia il suo sbocco.",
+    "Dark Carmela."
+  ],
+  "pack": {
+    "id": "T7YXC",
+    "name": "Disle"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 10,
+    "total": 12
+  },
+  "dateStoredMs": 1589020418951
+}

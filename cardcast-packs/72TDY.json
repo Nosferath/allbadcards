@@ -1,0 +1,169 @@
+{
+  "black": [
+    {
+      "content": "And in the end, the dragon was not evil; he just wanted_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the answer to life, the universe, and everything? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Astronomers have discovered that the universe consists of 5% ordinary matter, 25% dark matter, and 70% _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "America is hungry. America needs _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Excuse me, waiter. Could you take this back? This soup tastes like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we’re learning about _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m just gonna stay in tonight. You know, Netflix and _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I need you like _ needs _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "A study published in Nature this week found that _ is good for you in small doses.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Having tired of poetry and music, the immortal elves now fill their days with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You guys, you can buy _ on the dark web.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You have violated the Prime Directive! You exposed an alien culture to _ before they were ready",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Madam President, the asteroid is headed directly for Earth and there’s only one thing that can stop it: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Legend tells of a princess who has been asleep for a thousand years and can only be awoken by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This won’t be like negotiating with the Vogons. Humans only respond to one thing: _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You’re not going to believe this, but I’m you from the future! You’ve got to stop _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing says “I love you” like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In line with our predictions, we find a robust correlation between _ and _ (p<.05).",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I’m a bitch, I’m a lover, I’m a child, I’m _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s not delivery. It’s _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What really killed the dinosaurs? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don’t miss Rachel Ray’s hit new show, Cooking with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today on Mythbusters, we find out how long _ can withstand _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fear leads to anger. Anger leads to hate. Hate leads to _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Reconciling quantum theory with general relativity.",
+    "Not knowing what to believe anymore about butter.",
+    "The inaudible screams of carrots.",
+    "A gay sorcerer who turns everyone gay.",
+    "A complete inability to understand anyone else’s perspective.",
+    "Being the absolute worst.",
+    "Smash Mouth.",
+    "The token lesbian.",
+    "A stack of bunnies in a trenchcoat.",
+    "Sunny D! Alright!.",
+    "The dystopia we’re living in right now.",
+    "Photosynthesis.",
+    "How hot Orlando Bloom was in Lord Of The Rings.",
+    "Slowly evaporating.",
+    "Being emotionally and physically dominated by Gordon Ramsay.",
+    "That girl from the Hungry Games.",
+    "Goats screaming like people.",
+    "YouTube comments.",
+    "Pizza in the morning, pizza in the evening, pizza at supper time.",
+    "At least three ducks.",
+    "The quiet majesty of the sea turtle.",
+    "Liking big butts and not being able to lie about it.",
+    "A supermassive black hole.",
+    "A bus that will explode if it goes under 50 miles per hour.",
+    "Fun and interesting facts about rocks.",
+    "Getting really worried about global warming for a few seconds.",
+    "Shooting a wizard with a gun.",
+    "Angels interfering in an otherwise fair baseball game.",
+    "A protagonist with no qualities.",
+    "A respectful discussion of race and gender on the Internet.",
+    "3.7 billion years of evolution.",
+    "Stabbing the shit out of a Capri Sun.",
+    "Dinosaurs who wear armor and you ride them and they kick ass."
+  ],
+  "pack": {
+    "id": "72TDY",
+    "name": "Good Clean CAH Fun #4"
+  },
+  "quantity": {
+    "black": 24,
+    "white": 33,
+    "total": 57
+  },
+  "dateStoredMs": 1588998822295
+}

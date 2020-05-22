@@ -1,0 +1,41 @@
+{
+  "black": [
+    {
+      "content": "Minehut is the largest _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Minehut is like _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who owns Minehut? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Motionq.",
+    "Spazzs.",
+    "Lucas.",
+    "DomLee.",
+    "Trent.",
+    "ZeroParticle.",
+    "Minehut.",
+    "TehRaptor.",
+    "BennyDoesStuff.",
+    "Luuke."
+  ],
+  "pack": {
+    "id": "P2CQG",
+    "name": "Minehut"
+  },
+  "quantity": {
+    "black": 3,
+    "white": 10,
+    "total": 13
+  },
+  "dateStoredMs": 1589304320454
+}

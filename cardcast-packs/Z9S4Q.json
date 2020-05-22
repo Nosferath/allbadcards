@@ -1,0 +1,69 @@
+{
+  "black": [
+    {
+      "content": "Only one thing in the galaxy gets you this rich,  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"It's a trap\" is a thing of the past, everyone says \"It's _\" now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is getting out of hand, now there is _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "That's no moon, that's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's over, Anakin. I have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Darth Vader's fetish? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke, I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Emperor Palpatine's greatest war crime was _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A sex wing.",
+    "Killing not just the men, but the women and the children, too.",
+    "Deepthroating a double-bladed lightsaber.",
+    "General Grievous' cyborg cock.",
+    "Jumping and saying \"Hello There\".",
+    "A fine addition to my collection of lightsabers.",
+    "Yoda's ketamine.",
+    "A y-wing shaped penis.",
+    "Getting high in Cloud City.",
+    "A mon-calamari sex toy.",
+    "Kissing your sister in space.",
+    "Ewan Mcgregor.",
+    "Maclunky."
+  ],
+  "pack": {
+    "id": "Z9S4Q",
+    "name": "Stars Against Humanity"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 13,
+    "total": 21
+  },
+  "dateStoredMs": 1588616201853
+}

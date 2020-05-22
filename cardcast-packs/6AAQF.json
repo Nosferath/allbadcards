@@ -1,0 +1,30 @@
+{
+  "black": [
+    {
+      "content": "After being bullied, the boy decided to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did 9/11? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Suck a dick.",
+    "Rape is good.",
+    "Hitler.",
+    "Osama Bin Laden."
+  ],
+  "pack": {
+    "id": "6AAQF",
+    "name": "9/11 was good"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 4,
+    "total": 6
+  },
+  "dateStoredMs": 1589230095676
+}

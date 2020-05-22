@@ -1,0 +1,139 @@
+{
+  "black": [
+    {
+      "content": "Did you ever hear the tragedy of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If into _ you go, only pain you will find.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I find your lack of _ disturbing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What if I told you that the Republic was now under the control of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'll try _. That's a good trick.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fear is the path to the dark side. Fear leads to anger; anger leads to hate; and hate leads to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Henceforth, you shall be known as Darth _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. I can't watch anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's over, Anakin, I have _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. So uncivilised",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "From my point of view, _ is evil.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twice the pride, double the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A communication disruption can only mean one thing: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This is where the fun begins.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Doing it.",
+    "Not liking sand because it's coarse and rough and irritating and it gets everywhere.",
+    "Jar Jar Binks.",
+    "Darth Maul.",
+    "Anakin Skywalker.",
+    "UNLIMITED POWER.",
+    "Killing younglings.",
+    "Ki Adi Mundi.",
+    "Rey.",
+    "Mace Windu.",
+    "Making it legal.",
+    "R2-D2.",
+    "A surprise to be sure, but a welcome one.",
+    "Darth Vader.",
+    "Padme Amidala.",
+    "Emperor Palpatine.",
+    "Seeing through the lies of the Jedi.",
+    "C-3PO.",
+    "Having been looking forward to this.",
+    "Another happy landing.",
+    "Master Yoda.",
+    "Not just the men but women and children too.",
+    "Chewbacca.",
+    "Kamino saberdart.",
+    "General Grievous.",
+    "Order 66.",
+    "Fine addition to my collection.",
+    "Being the Senate.",
+    "The high ground.",
+    "Still coming through.",
+    "Kylo Ren.",
+    "Princess Leia.",
+    "Becoming the very thing you swore to destroy.",
+    "Not being granted the rank of Jedi Master.",
+    "Being just a simple man trying to make their way in the universe.",
+    "Tusken Raiders.",
+    "Taking a seat.",
+    "Ben Kenobi.",
+    "Han Solo.",
+    "Executing Order 66.",
+    "Count Dooku.",
+    "That business on Cato Neimoidia.",
+    "Pressing the stop button.",
+    "Having a bad feeling about this.",
+    "Sheev.",
+    "Younglings.",
+    "Being too dangerous to be kept alive.",
+    "General Kenobi!.",
+    "Obi Wan Kenobi.",
+    "Darth Plagueis the Wise.",
+    "Death Sticks.",
+    "Luke Skywalker.",
+    "The attempt on my life which left me scarred and deformed."
+  ],
+  "pack": {
+    "id": "6VA2P",
+    "name": "The Star Wars Cardpack"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 53,
+    "total": 67
+  },
+  "dateStoredMs": 1589170698872
+}

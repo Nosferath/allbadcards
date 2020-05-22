@@ -1,0 +1,81 @@
+{
+  "black": [
+    {
+      "content": "Dive to the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Donald has learned the _ ability.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Radiant Garden had even another name before, it was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kingdom Hearts Re: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now you can summon _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Terra actually left home because of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sora's new drive form is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yoko Shimomura's next music piece is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May _ be you guiding key.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kingdom hearts 3 was delayed again because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Destiny Islands were swallowed by  _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Another HD reMIX.",
+    "Shirtless Ventus.",
+    "Sora's japanesse voice.",
+    "The darkness.",
+    "Donald's speaking.",
+    "Goofy getting killed by a rock.",
+    "Yen Sid's name backwards.",
+    "Utada.",
+    "Xehanort's bald head.",
+    "Xemnas' zebra coat."
+  ],
+  "pack": {
+    "id": "FCGBX",
+    "name": "Kingdom Hearts"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 10,
+    "total": 21
+  },
+  "dateStoredMs": 1589568309972
+}

@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "Darth Vader takes off his mask... he had been _ all along!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fans were disappointed when they realised The Force Awakens is basically a remake of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do, or do _, there is no try.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Star Wars Episode VIII: _ Returns.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "May _ be with you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SPOILER ALERT: _ had been Luke's father all along!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The one guy who thinks Jar Jar was an alright character.",
+    "Star Trek.",
+    "J.J. Abrams sucking off George Lucas.",
+    "BB8's hourglass figure.",
+    "Darth Jar Jar.",
+    "A small boy who likes The Phantom Menace.",
+    "Wipes.",
+    "Blockbuster incest.",
+    "The force.",
+    "Donut hair.",
+    "Luke and Leia fanfiction.",
+    "Spock.",
+    "Jar Jar Binks.",
+    "Jabba the Hutt's slug penis.",
+    "C-3PO's new red arm 'cause he wanked too much.",
+    "Midi-chlorians.",
+    "Emperor Palpatine's limp, old 'lightsaber'.",
+    "One of those shitty versions of R2-D2 that always die."
+  ],
+  "pack": {
+    "id": "76TSK",
+    "name": "Cards against the galaxy"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 18,
+    "total": 24
+  },
+  "dateStoredMs": 1588616201094
+}

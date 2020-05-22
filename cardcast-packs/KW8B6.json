@@ -1,0 +1,171 @@
+{
+  "black": [
+    {
+      "content": "Nothing is worse than having to clean up after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During the 2013 shutdown the US government had to stop all funding for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In high school I was voted \"Most Likely To End Up _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thanks to budget cuts, NASA has been reduced to strapping a rocket to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a luxury we can no longer afford.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are gathered here today to witness the union of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The most powerful force in Washington DC is the _ Lobby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I kill time at work? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Since drugs and terror are dealt with, America has declared The War On _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In case of emergency break glass and begin _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Remember: Take only _ and leave only _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My grandmother taught me 101 uses for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Thank you for calling Technical Support. What is the answer to your Secret Security Question? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Westboro Baptist Church has announced it will now protest against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This program is dedicated in loving memory of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Psst, buddy, can I interest you in _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the only reason I get up in the morning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diarrhea is like _ raging inside you.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's no problem that can't be solved with liberal application of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A souvenir Eiffel Tower dildo.",
+    "Pretending your penis is a lightsaber.",
+    "Really classy blackface.",
+    "Naked skydiving.",
+    "Our one black friend.",
+    "Glenn Beck's skin sloughing off in meaty clumps upon direct contact with sunlight.",
+    "Pillow humping.",
+    "Just-Out-Of-Prison Sex.",
+    "Invading raccoons.",
+    "Having more children than teeth.",
+    "Writing, directing, and starring in snuff porn.",
+    "Mommy's wooden spoon.",
+    "Morning sickness.",
+    "Glenn Beck's internal organs liquefying and exiting through his sphincter.",
+    "A bucket of oiled-up frogs.",
+    "Taking hostages.",
+    "Cocktopus.",
+    "Ejaculating confetti.",
+    "The entire Autism Spectrum.",
+    "The drizzling shits.",
+    "Vagina dentata.",
+    "A cat stoned off its furry ass.",
+    "Cock and ball torture.",
+    "Bloody panties.",
+    "A mountain of diapers.",
+    "Live-fire Civil War re-enactments.",
+    "Cunnilingus performed by a giant spider.",
+    "Six feet of packed earth.",
+    "God turning his back on the world.",
+    "An unmarked white van full of puppies and candy.",
+    "Close friends and family.",
+    "An all-purpose porpoise.",
+    "Going all in.",
+    "Sandpaper masturbation.",
+    "Sloppy seconds.",
+    "Rum, sodomy, and the lash.",
+    "Madame Esmeralda's crystal balls.",
+    "Glow in the dark condoms.",
+    "A misplaced engagement ring.",
+    "Ropey jizz chains.",
+    "Totally radical dinosaurs.",
+    "Dishonourably discharged seamen.",
+    "The crushing weight of our monotonous daily lives.",
+    "A tired and emotional mother of three.",
+    "Delayed Onset Orgasm Syndrome.",
+    "That empty moment when your heart stops.",
+    "Carjacking the Popemobile.",
+    "Gatecrashing a child's funeral.",
+    "Both eyes popping out on springs.",
+    "Feminism.",
+    "The 26 feet of intestines inside us all.",
+    "Potty training a stubborn toddler.",
+    "Black on black crime.",
+    "A drunken shopping mall Santa and his two ex-con elves.",
+    "A screwdriver straight to the kidneys.",
+    "Sex in the confessional.",
+    "23lb of aged Stilton.",
+    "Haunted pornography.",
+    "Rolling in flour to find the wet spot.",
+    "Crowdsurfing a riot."
+  ],
+  "pack": {
+    "id": "kw8b6",
+    "name": "Not Safe For Humanity 2"
+  },
+  "quantity": {
+    "black": 19,
+    "white": 60,
+    "total": 79
+  },
+  "dateStoredMs": 1588815380769
+}

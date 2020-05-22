@@ -1,0 +1,48 @@
+{
+  "black": [
+    {
+      "content": "Nested _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The obligatory card game program.",
+    "If/else statements.",
+    "While loops.",
+    "Hello, World.",
+    "If/else if/else statements.",
+    "Confirm.",
+    "Local variables.",
+    "Switch statements.",
+    "Prompts.",
+    "Conditionals.",
+    "For loops.",
+    "Alerts.",
+    "Null.",
+    "Booleans.",
+    "Stacks.",
+    "\"\".",
+    "Forgetting a semicolon.",
+    "Global variables.",
+    "Compiling.",
+    "Debugging.",
+    "Variables.",
+    "Strings.",
+    "Arrays.",
+    "Objects.",
+    "Functions.",
+    "Parameters.",
+    "Defining variables."
+  ],
+  "pack": {
+    "id": "Y8FEA",
+    "name": "Coding Against Humanity"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 27,
+    "total": 28
+  },
+  "dateStoredMs": 1589237748638
+}

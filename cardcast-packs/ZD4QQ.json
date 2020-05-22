@@ -1,0 +1,34 @@
+{
+  "black": [
+    {
+      "content": "When Bion told about the day he put his hand inside the _, everyone at the table was shocked.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Do you have step?.",
+    "Aborting is very good.",
+    "Sucker lip.",
+    "Furry blacksmith.",
+    "My fury destroys everything.",
+    "DICTATOR.",
+    "Ricoboy.",
+    "Bion Hand.",
+    "Tiny Pedro.",
+    "Big Carlos.",
+    "Green cokie.",
+    "Thanos purple cock.",
+    "BASTARDA."
+  ],
+  "pack": {
+    "id": "zd4qq",
+    "name": "Espuma pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 13,
+    "total": 14
+  },
+  "dateStoredMs": 1588992842894
+}

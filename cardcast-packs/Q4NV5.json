@@ -1,0 +1,64 @@
+{
+  "black": [
+    {
+      "content": "I'm just a sweet _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who knows the owner of that phone might be a beautiful woman and you might never _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit Janet! I _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're probably foreigners with ways different than our own. They may do some more _ dancing.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're lucky, He's lucky, I'm lucky, _'s lucky!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hot Patootie! Bless my soul. I really love that _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't dream it, be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see you shiver with antici _ pation.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Group sex.",
+    "Slut!.",
+    "Fuck you.",
+    "Use a bit of mustard.",
+    "Pull the level riff.",
+    "Frank-N-Furter.",
+    "Asshole!.",
+    "Creature of the night."
+  ],
+  "pack": {
+    "id": "Q4NV5",
+    "name": "Rocky Horror"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 8,
+    "total": 16
+  },
+  "dateStoredMs": 1589035223218
+}

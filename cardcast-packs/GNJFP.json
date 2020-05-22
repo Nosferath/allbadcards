@@ -1,0 +1,71 @@
+{
+  "black": [
+    {
+      "content": "Megbasztam a  _ -t.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyugodj le és _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Holnap lesz _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Roland akinek van  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nagyon ronda a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A nevem józsika kő a _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tegnap _ az ágyba.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Almája.",
+    "Kutyus.",
+    "Rövid.",
+    "Cupák.",
+    "Rolika.",
+    "Macska.",
+    "Nyaljál.",
+    "Almalevedet.",
+    "Kokain.",
+    "Nem.",
+    "Szívj.",
+    "Nyomtam.",
+    "Aludtam.",
+    "Beadtam a stillt.",
+    "Pofád.",
+    "Baracklét.",
+    "Nyali.",
+    "Nagy.",
+    "Gecidet.",
+    "Igen."
+  ],
+  "pack": {
+    "id": "GNJFP",
+    "name": "NevemJozsika Magyar Pack #2"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 20,
+    "total": 27
+  },
+  "dateStoredMs": 1589196614289
+}

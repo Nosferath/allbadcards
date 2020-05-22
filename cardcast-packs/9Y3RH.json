@@ -1,0 +1,812 @@
+{
+  "black": [
+    {
+      "content": "_ is basically the same thing as _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "70% of sopranos admit to having trouble with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ burns 1000 calories an hour.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our newest piece is written for SATB choir and _. Any volunteers?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: a very special episode of Glee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After the concert, let’s all go get _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don’t try this at home. I’m _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I farted and _ came out.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ makes my director shake uncontrollably.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trust me, I’m _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Choir tour was awful. _ ruined everything!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s no surprise the basses’ favourite song is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The President just addressed the nation about the importance of _. I totally agree.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hate _. There, I said it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would win a sing off against _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ACDA’s new marketing angle is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop goofing off. It’s time to work on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "OMG! I found _ in the back of my music folder!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ in the pocket of my choir robe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Requiem for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got hit on by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the best thing about singing in choir.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "10 basses + 1 tenor = _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This Christmas, I’m totally asking Santa for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The average career span of _ is about 6 months.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My choir needs a new name. I’m considering _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Accompanists make choirs better by being experts at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They call my DJ _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn’t practice last night, because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My grandma said our concert sounded like _. Is that good?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wrote a memoir about my singing career. It’s called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Altos gain their strength from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is under my choir robe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Something’s wrong. My vocal folds resemble _ with _ all over.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_: it gets better with age.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, the latest Snapchat craze.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baby, come over to my house and I’ll show you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_is the only thing I’ll eat for breakfast, lunch and dinner on choir tour.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He’s a revered conductor. But when he directs, all I can see is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my director’s guilty pleasure.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My worst fear is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got dumped because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m late for rehearsal because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Best way to become a better singer? Try being more like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My choir director won the lottery and blew it all on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Halloween costume is sweet. I’m going as _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My doctor said the lowest notes can only be sung by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It’s a Choir Throwdown! _ vs. _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is a soprano’s best friend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_makes my director laugh maniacally.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Not even _ could make me go to rehearsal today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do re mi fa so done with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The most annoying warm-up we have is the one about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only a true choir nerd can appreciate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A group of tenors is a lot like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and crying. That’s how I spend my afternoons.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_: The Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our accompanist earned “Rock Star” status with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a justifiable reason for homicide.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Most of what we know about _ comes from observation in the wild.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This weekend, my director is enjoying _in their spare time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing sounds worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Getting a voice scholarship requires _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The rehearsal went downhill after the director introduced _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking up is hard to do. But _ is even harder.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Support our choir fundraiser! This year we are selling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I don’t do _ this weekend, my life is over.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When nobody’s looking, I’m all about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Occasionally you can find _ in the piano bench.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This season’s concert theme: _, _, and Rock & Roll.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To cure that scratchy throat, Grandma says drink a cup of hot tea with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My director has a note on their music stand. It says, “Remember: _.”",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because you like _, you might also enjoy _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We need a new theme for the Madrigal Dinner. How about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my spirit animal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This song should express a sense of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ gives me serious diarrhea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the choral trend of the future!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Splitzzacatto is Italian for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’m quitting choir and starting a rock band. It will be called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I’d have quit choir a year ago if it weren’t for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TBH, I’m crazy about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the name of my new hit single.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My autobiography will be called “_: Tales of _”.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was going to practice, but I was distracted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ would make the ultimate choir superhero combo.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I am a singer so I need lots of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was another day in paradise when I avoided _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I desperately want to forget _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret to getting all 1s at contest is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Speaking of _, I have one in my car at all times.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a secret crush on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started a new barbershop quartet. It’s called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Choir retreats are better than band camps because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  is the real reason why choirs are horrible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The tenor solo in _ is breathtaking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now you’re singing like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The director is crying because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the main reason sopranos can sing so high.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can always find _ in the director’s office the week of the concert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Choir rehearsal was a lot more fun after my director ditched _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The choir risers are filled with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is on my choir bucket list.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The problem with teenagers these days is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A soprano, late to rehearsal, holding a pumpkin spice latte.",
+    "Markings in pen.",
+    "Christmas caroling.",
+    "A quiet alto who secretly watches people sleep through their bedroom windows.",
+    "100% polyester choir robes.",
+    "A strong ammonia smell.",
+    "A nuanced criticism from the director.",
+    "Altos finally getting the melody and trying play it cool.",
+    "A toddler with a microphone.",
+    "Girls who squeeeeeee.",
+    "Every director ever.",
+    "A Sally Albrecht piece that I can get behind.",
+    "“We’ll run it one more time” and other director lies.",
+    "Nodules.",
+    "Pre-cooked bacon.",
+    "Believing you remember the alto part to the Hallelujah Chorus (Psst... you don’t).",
+    "Popera.",
+    "That one bass who claims to have perfect pitch but can’t back it up.",
+    "A tenor with a leaky wound.",
+    "Joseph Flummerfelt walking a teacup poodle.",
+    "Selective vocal rest.",
+    "Standing next to the perpetually flat alto.",
+    "A baton that you bought with your music budget, but will never ever use.",
+    "My choir bae.",
+    "Cluster chords.",
+    "An awkward handshake that doesn’t quite connect.",
+    "The communal gum bucket.",
+    "The Mozart Requiem in English.",
+    "Charles Bruffy’s prized pony.",
+    "Thomas Tallis’s mom.",
+    "A smug alto.",
+    "Tibetan throat-singing.",
+    "Cake by the Ocean, and other delicious song titles.",
+    "Sopranos with delusions of grandeur.",
+    "Coming in too early.",
+    "A cranky choir mom.",
+    "Tripping on your choir robe while climbing the risers.",
+    "A senior center community choir.",
+    "All Things Bright and Beautiful.",
+    "Multiple bags of cough drops.",
+    "Bach numerology: the original “fake news”.",
+    "A jazz choir that can’t swing.",
+    "A basket of corgis.",
+    "A tenor with no sense of humor.",
+    "Over-articulating.",
+    "That one soprano who has to sit for every concert because she has a broken leg.",
+    "Every bass ever.",
+    "Lack of resources.",
+    "Poor posture.",
+    "Robert Shaw dressed as Batman.",
+    "Those who can’t sing buy insist upon doing so anyway.",
+    "Free cheesy bread.",
+    "A Pentatonix superfan.",
+    "An unforeseen cold sore.",
+    "Navy blue socks with tuxedo pants.",
+    "Writing the F-bomb on a music stand with whiteout.",
+    "A frozen payscale.",
+    "A freckled boy choir member.",
+    "A chord so dense it has a gravitational field.",
+    "Getting kicked out of a choir Facebook group.",
+    "John Rutter’s eyebrows.",
+    "A well-timed coughing fit.",
+    "Consistently singing my music a half-step flat.",
+    "That nightmare where you sleep through your concert.",
+    "A pre-concert milkshake.",
+    "A slow-cooker of Turkish meatballs with rosemary-mushroom gravy.",
+    "My director’s Facebook livestream.",
+    "That one kid who thinks they can beatbox but just spits a little.",
+    "That one singer who wants you to know that she knows IPA notation.",
+    "Bass notes that are only attainable during allergy season.",
+    "Six shrill sopranos.",
+    "Tony the Tiger rolling his Rs.",
+    "Whistle voice.",
+    "Every tenor ever.",
+    "Whooping cough.",
+    "An all-you-can-eat buffet.",
+    "Band geeks.",
+    "Drinking the tears of a soprano who did not get the solo.",
+    "The Phantom of the Opera.",
+    "Singing alternate lyrics to O Fortuna to see if anyone notices.",
+    "All the Single Ladies.",
+    "An alto with laryngitis.",
+    "Eric Whitacre’s hair.",
+    "Castrati for Dummies.",
+    "Farting during the grand pause.",
+    "The “vocal rest” scarf.",
+    "Yelling “Fire!” Into an unattended PA system.",
+    "Mozart’s Dies Irae expertly played by a 3rd grade recorder ensemble.",
+    "Random acts of mouth percussion.",
+    "A gluten-free tenor.",
+    "A smudgy pencil eraser.",
+    "A pack of fire-breathing Yorkshire terriers.",
+    "Subglottal pressure.",
+    "Forgetting your bow tie ... again.",
+    "A tone deaf tenor.",
+    "Lint covered cough drops.",
+    "Every Eric Whitacre piece ever written.",
+    "Breathing so deeply you choke on a bit of dust and cough uncontrollably.",
+    "“13 reasons Why” you’re not getting better at singing.",
+    "Rainbow sprinkles.",
+    "My soul (Before it was anchored in the Lord).",
+    "A bass descant.",
+    "100 altos and six tenors.",
+    "An audience that claps between movements.",
+    "Improvisational tenor harmony to the Jeopardy! theme.",
+    "Singing in the shower versus singing in the choir room.",
+    "A feud amongst the sopranos.",
+    "Tim Sharp’s hairline.",
+    "Clip on bow ties.",
+    "The Complete Idiot’s Guide to Falsetto.",
+    "Jay Althouse’s greatest hits in a 36 cassette-tape boxed set.",
+    "A soft palate.",
+    "Singing close harmony on a unison note.",
+    "Unnecessary apostrophe’s.",
+    "An alto who can’t even.",
+    "A 15-year old boy soprano.",
+    "Counterfeit Hamilton tickets.",
+    "Diarrhea (with plenty of warning).",
+    "Bathroom breaks.",
+    "Hitting that high note like you’re passing a kidney stone.",
+    "That one band kid who is somehow also in choir.",
+    "Performing for exposure.",
+    "Playing footsies.",
+    "Josh Groban cooking up a sensible breakfast.",
+    "Singing along with everyone else’s parts, because you totally can.",
+    "Successfully faking it.",
+    "Yonder Come Day.",
+    "An accompanist who doesn’t watch.",
+    "Missing the cut off.",
+    "23 cents, a tissue, and a used bandage.",
+    "Forgetting the words to the National Anthem, again.",
+    "Passing out for attention.",
+    "Coming in on the rest.",
+    "The Willcocks descant to O Come All Ye Faithful.",
+    "The Star Spangled Banner.",
+    "There are no good answer to that question. Just take this card.",
+    "A top row of risers without the backs. Scandalous.",
+    "Diaphragmatic pulsing.",
+    "That singer who always gives everyone cough drops.",
+    "That one bass who’s always singing the treble parts.",
+    "Larry the larynx.",
+    "Pencil checks.",
+    "A vibrato so wide that it’s in two time zones.",
+    "That hangs ball thing in your throat.",
+    "A432.",
+    "Into the Woods.",
+    "The “soprano” who thinks she’s a soprano but really needs to be an alto.",
+    "Wearing your choir tux to prom.",
+    "The best choir tour ever.",
+    "A good dog.",
+    "The ol’ step touch.",
+    "Brown socks.",
+    "A choir podcast.",
+    "I don’t understand this game at all.",
+    "My choir BFF.",
+    "Breaking up on concert night.",
+    "Inhaling deeply for your entrance, just before the director cuts off the choir.",
+    "That one soprano who dyes her hair purple on concert day.",
+    "Joining choir to meet girls.",
+    "Altos with a limited range.",
+    "Going to grad school to avoid growing up.",
+    "Saliva glands.",
+    "A concert of all ballads.",
+    "Every alto ever.",
+    "Choir bonding exercises.",
+    "Christmas concerts in January.",
+    "Hiding in the choir library.",
+    "Back-row Betty.",
+    "Forgetting to tell the accompanist you changed the program order.",
+    "Figgy pudding that was never bought.",
+    "Listening to Conspirare in your underwear.",
+    "Stabbing yourself in the eye with a baton.",
+    "A stinger.",
+    "Your mom’s Snapchat story.",
+    "Octavo-hoarding.",
+    "Ventriloquism.",
+    "A top riser tragedy.",
+    "A soprano named Gladys.",
+    "Farting in your choir dress then spinning.",
+    "My Michael Buble body pillow.",
+    "Peanut allergies.",
+    "Anti-itch cream.",
+    "The concert when Jimmy’s voice finally changed.",
+    "Over-promising and under-delivering.",
+    "The moment when Britten’s music finally clicks.",
+    "Every soprano ever.",
+    "Orch dorks.",
+    "Arianna Grande.",
+    "Moses Hogan. Praise Him.",
+    "A secret stash of illegal photocopies.",
+    "A plagal.",
+    "Every accompanist ever.",
+    "A choral festival judge who only talks about dynamics because they have nothing better to say.",
+    "Losing the choir handbook.",
+    "My last Instagram post.",
+    "Dank choir memes.",
+    "An unintentionally racist Columbus Day celebration.",
+    "Vocal sirens on a consonant.",
+    "TMEA.",
+    "An errant tenor G flat.",
+    "A first soprano.",
+    "An overly ambitious first-year choir director.",
+    "Blank staff paper.",
+    "Fainting on the risers.",
+    "Octavo the octopus.",
+    "Giving 150% at every rehearsal.",
+    "Randomly bursting into song.",
+    "Trying to hide your gum by chewing on the beat.",
+    "Yoga pants.",
+    "A soprano who can actually read music.",
+    "Ending every concert with a spiritual.",
+    "Spontaneous soprano combustion.",
+    "Choir geeks.",
+    "Proper posture.",
+    "Knowing the notes.",
+    "A sackbut.",
+    "Wondering what every song on the radio would sound like if it were sung by your choir.",
+    "Finally getting Edith to move from first soprano to second tenor.",
+    "A bass named Ralph.",
+    "Getting my barbershop on.",
+    "So much throat phlegm it’s like a flute filled with gravy.",
+    "Nervous poops.",
+    "Rollo Dilworth’s winning smile.",
+    "The epiglottis.",
+    "The Book of Mormon Jr.",
+    "Mouthing “watermelon”.",
+    "Fights between the fixed do people and the movable do people.",
+    "St. Olaf Choir holding hands in public, even when they’re not singing.",
+    "Forgetting your pencil.",
+    "Calling your choir director by their first name.",
+    "A choir that doesn’t watch.",
+    "The Lord Bless You and Keep You.",
+    "Clever hand signs.",
+    "My director’s cell phone policy.",
+    "Eight-part open-score reading, bringing out the first-alto countermelody.",
+    "The entire state of Iowa.",
+    "24 Italian Songs and Arias from Medium High Voice.",
+    "Singing through the cutoff.",
+    "Jazz hands for dayzz.",
+    "That look you give when someone tells you to breathe from your diaphragm.",
+    "Over-singing.",
+    "A Kawai that hurts my wrists to play.",
+    "Getting the solo.",
+    "The Chinese National Children’s Choir.",
+    "Alice Parker baking cookies in my kitchen.",
+    "“Here comes treble” and other abominable music puns.",
+    "Craig Hella Johnson’s tiny glasses.",
+    "A frustrated leading tone.",
+    "Bleeding from my ears.",
+    "The middle school jazz combo.",
+    "Clapping Music performed while wearing mittens.",
+    "Mildly inappropriate choral attire.",
+    "Hot tea with honey and lemon.",
+    "Morten Lauridsen.",
+    "A dynamic range of mp to mf.",
+    "A song so sweet it gave me diabetes.",
+    "The Rutter Requiem in Pig Latin.",
+    "Singing the concert on solfege.",
+    "An entitled 7th grader.",
+    "Clapping on 1 and 3.",
+    "Andrea Ramsey’s cat.",
+    "Twerking before rehearsal.",
+    "Black flat shoes.",
+    "Not knowing whether you are crushing on the actual singer or just his voice.",
+    "A middle school rehearsal that follows P.E.",
+    "The Mormon Tabernacle Choir.",
+    "A VHS tape of John Jacobson teaching “Choral-ography”.",
+    "Christina Aguilera teaching a voice lesson.",
+    "Vomiting before and after the concert.",
+    "Takin’ a poo.",
+    "Andrea Bocelli after successful laser surgery.",
+    "Spiders. Just a crap-ton of spiders.",
+    "A pimply tenor.",
+    "Watching YouTube all rehearsal instead of singing.",
+    "Children who wave at their families after getting on the risers.",
+    "Pinching your fingers in the collapsible risers."
+  ],
+  "pack": {
+    "id": "9Y3RH",
+    "name": "Choirs are Horrible"
+  },
+  "quantity": {
+    "black": 104,
+    "white": 276,
+    "total": 380
+  },
+  "dateStoredMs": 1588482167250
+}

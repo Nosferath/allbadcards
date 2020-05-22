@@ -1,0 +1,77 @@
+{
+  "black": [
+    {
+      "content": "Why did Adam go crazy? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who was the actual killer in Columbine? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Columbine was caused by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the Sandy Hook kids last words? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the terrorists' last words? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who actually did 9/11? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did Alejandro take to Boner Town? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Preston Oden.",
+    "Trace Adams.",
+    "Adam Lanza.",
+    "Bill Cosby's asscrack.",
+    "SANIC.",
+    "9/11.",
+    "Sandy Hook.",
+    "VenX_Razor.",
+    "Devlin's underage sister.",
+    "Devlin Becton.",
+    "ALLUHA AKBAR.",
+    "Virginia Tech Massacre.",
+    "Adeii.",
+    "Gabbi Jainniney.",
+    "Columbine High School Shooting.",
+    "Thomas Wilhelm.",
+    "Alejandro Leyva.",
+    "Osama.",
+    "Drinking bleach through your eyes.",
+    "Deanna Becton.",
+    "Ben Brooks.",
+    "The Boston Marathon Bombing.",
+    "George Wilbur Bush.",
+    "Rusty Gibson.",
+    "A one way ticket to Boner Town.",
+    "Boner Town."
+  ],
+  "pack": {
+    "id": "XTJ8N",
+    "name": "School Shootings"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 26,
+    "total": 33
+  },
+  "dateStoredMs": 1589191858183
+}

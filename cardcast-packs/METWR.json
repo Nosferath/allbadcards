@@ -1,0 +1,52 @@
+{
+  "black": [
+    {
+      "content": "_ should be made legal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new gender is  _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Starting tomorrow there is no more _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The \"A\" in LGBTQIA now stands for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God says homosexuality is _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Westboro Baptist Church.",
+    "LGBT.",
+    "The gender binary.",
+    "Transgender rights.",
+    "Tucutes.",
+    "Truscum.",
+    "Neopronouns.",
+    "Aro aces.",
+    "Gender stereotypes.",
+    "Allies.",
+    "Bisexuals."
+  ],
+  "pack": {
+    "id": "METWR",
+    "name": "Queer Pack"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 11,
+    "total": 16
+  },
+  "dateStoredMs": 1588470907858
+}

@@ -1,0 +1,570 @@
+{
+  "black": [
+    {
+      "content": "Die griechische Regierung will _ in Banken verbieten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im Gegensatz zu meinen Freunden finde ich _ witzig.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als mit meine Mutter _ erklärt hat war meine erste Frage: Was ist _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alle auf den Boden! Dies ist ein Überfall! Gibt uns euer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um einen perfekten Tag zu Ende zu bringen ist _ am schönsten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guck mal Mama ein _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit Liebe gemacht: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Heute betrinke ich mich um _ zu vergessen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Audi. Vorsprung durch _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wie hat der Neanderthaler in Höhlen überlebt? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist die Lösung aller Probleme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nachdem ich Frau Merkel über _ aufgeklärt hatte, erhielt ich das Bundesverdienstkreuz für _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Die neue Ben & Jerry's Sorte: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mein schönster Traum handelte von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Einem Wissenschaftler aus Indien hat ein Heilmittel für Krebs entdeckt: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mit dem Hut siehst du aus wie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hinter meinem Sofa habe ich gestern _ gefunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Durchschnittsdeutsche isst über 8 Kilogramm _ im Jahr.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Meine Spotify Playlist für 90er Jahre Parties heißt _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manche beten zu Gott. Ich bete zu _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Statt einem neuen Auto hat sich Marcus Lanz _ gekauft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf Twitter trendet gerade # _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf einer Geburtstagskarte für meine Tante habe ich mit _ unterschrieben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking News! Eine Bank wurde ausgeraubt mit Hilfe von _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ kommt nie aus der Mode.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vorischt! Da kommt _ auf uns zu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nachdem sich viele Kinder über _ beklagt haben, mussten die Eltern _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kevin deine Lehrerin hat angerufen und sich beschwert, weil du _ mitgebracht hast.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn meine Freundin schläft halte ich ihr _ unter die Nase und mache ein Bild das ich an ihre Eltern schicke.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Russland ist _ verboten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist eine Touristenattraktion in Tokyo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der Duden überlegt _ als Wort des Jahres bekannt zu geben.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An der Kasse bei Aldi steht/stehen immer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Einkaufsliste: _, _, _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ willst du wegwerfen? Kinder in Afrika hätten das noch gebrauchen können!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Actimel aktiviert _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ist der neueste Trend aus den USA.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Spoiler: _ ist in Wirklichkeit _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ kann mich mal!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Der neue Film von Steven Spielberg heißt: Der Mord an _ durch _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Auf einer Reise habe ich immer _ und _ dabei.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ich habe meinem Freund die Flasche geklaut und _ reingefüllt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In einer fernen Zukunft wird die Welt von _ beherrscht.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das Geräusch von _ erinnert mich an _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Es turnt mich an wenn Kermit der Frosch mit seiner Stimme _ sagt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ein Frosch auf einer Baustelle, grüne Fingernägel und _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Um ihre Freunde anzusprechen benutzen Jugendliche statt \"Alter\" jetzt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn niemand hinsieht suche ich im Internet nach Bildern von _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das erste Wort das mir zu verboten einfällt ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nach 4 Jahren intensivem Training hat Peter J. Cranston einen Rekord in _ aufgestellt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die evangelische Kirche bietet Kurse zum Umgang mit _ an.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brusthaarperücken sind schlimmer als _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Viele protestieren gegen _ . Ich protestiere gegen _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Das neue Pokemon heißt _ und sieht aus wie _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Zehn zahme Ziegen ziehen zehn Zentner _ zum Zoo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn ich _ auf der Straße sehe verschließe ich alle Türen und Fenster.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du hast alles genommen was ich habe. Alles was mir bleibt ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kinder in Afrika beneiden Kinder in den USA wegen _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durchfall erinnert mich immer an _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wir müssen Ballast abwerfen! Schmeißt _ von Bord!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Besser als ein Gewinn im Lotto ist _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Als ich zum ersten mal an Omas Socken gerochen hab erinnerte mich der Geruch an _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich habe weder Zeit für _ noch für _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Günther Jauch hat sich _ auf die Hand geschrieben, da er sich das Wort nicht merken konnte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wegen dem Dalai Lama mag meine Tante _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beim Fussball geht es um Talent und _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich freue mich am meisten auf _ an Weihnachten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ich genieße Abends ein Glas Wein zu meinem _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das ist das dritte mal das ich _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Auf dem Mond wurden Spuren von _ gefunden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn dir der Drink zu stark ist kannst du etwas _ reintun.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Die Regierung Mikronesiens hat mehr als 3,8 Milliarden Dollar in _ investiert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Womit hast du die Pizza belegt? _ und _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? Das gibt's doch auch in grün.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Das neue Album von Bushido heißt: _ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Seit dem neuesten Patch gibt es bei _ sogar _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Wer hätte gedacht, dass _ John F. Kennedy getötet hat?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wenn du denkst du hast alles gesehen, wird dich _ aus den Socken hauen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ -Pornos sind die besten Pornos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Manche Menschen haben die seltene Krankheit \"Gnorose\" bei der unkontrolliert _ aus dem Anus kommt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sobald ihr _ habt gewinnt ihr _.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Riberys Narbe.",
+    "Trainer des HSVs sein.",
+    "Kindern ins Geischt spucken den Balotelli machen.",
+    "Abgeschnittene Zehnägel eines 130 Kilogramm schweren Russen .",
+    "Eine teures Smartphone besitzen.",
+    "Von Wolverine gefingert werden.",
+    "Ein rassistisches Maskottchen.",
+    "Bei einem Blowjob angekotzt werden.",
+    "In eine Platiktüte kacken und sie in Geschenkpapier einpacken.",
+    "Einen Renault Fahrer mit einem Baguette vermöbeln.",
+    "Das perfekte Sandwich.",
+    "Männliche Cheerleader.",
+    "Als Eichhörnchen wiedergeboren werden.",
+    "Nippeldreher bis man sich einscheißt.",
+    "Den Priester fragen was das T an der Wand bedeutet.",
+    "Asylbewerber auslachen und mit Steinen bewerfen.",
+    "Ein Tattoo von deiner nackten Mutter auf der Brust.",
+    "Einen Apfel ins Weihwasserbecken werfen und versuchen ihn nur mit Zähnen herauszuziehen.",
+    "Mäuse mit Rinderwahnsinn.",
+    "Alter kasachische Frauen die Ringe tragen.",
+    "Kondome.",
+    "Ekelige Schamlippen.",
+    "Globale Erderwärmung.",
+    "Einem Elefanten den Rüssel mit einem Löffel abschneiden.",
+    "Seinen Arsch in eine Konfettikanone verwandeln.",
+    "Einen Orgasmus während der Beerdigung eines Kindes haben.",
+    "Den Finger in den Arsch stecken und ablecken.",
+    "Sich einscheißen als Superkraft.",
+    "Ein erotischen Kalender mit exotischen Amphibien.",
+    "Pisse die nach Spargel riecht.",
+    "Mein Langer Penis.",
+    "Eine große Kackwurst einfrieren und dann als Dildo benutzen.",
+    "Ein Ballon aus Menschenhaut.",
+    "Im Keller mit Natasha Kampusch chillen.",
+    "In die Schokoladen Eiscreme Maschine scheißen.",
+    "Die stabile Seitenlage.",
+    "Ein Kamm für die Arschhaare.",
+    "Barack Obama.",
+    "Eine Gurke mit Kondom.",
+    "Blut eines Albino Negers.",
+    "Sex auf dem Klo eines Kinderkrankenhauses.",
+    "Ein Rennen mit dicken Leuten.",
+    "Eine Statue von Justin Bieber die von Kindern in Südindien gebaut wurde.",
+    "Eine sexuell übertragbare Krankheit in Disneyland bekommen.",
+    "Der Film \"In Diana Jones\".",
+    "Von seiner Mutter erwischt werden wie man an der Unterwäsche von seinem Vater riecht.",
+    "Angela Merkel.",
+    "In einen Inhalator von einem Asthmakranken wichsen .",
+    "Dirty Talk mit Stephen Hawking.",
+    "Seine Jungfräulichkeit an eine Überraschungseifigur verlieren.",
+    "Die zärtlich Berührung von Olivia Jones.",
+    "Pisse in einer Badewanne sammeln.",
+    "Natürliche Selektion.",
+    "Einen Teppich kaufen und nackt seinen Arsch dran reiben.",
+    "Jürgen Vogel.",
+    "Eichelkäse mit Maggi.",
+    "In der Kirche laut furzen.",
+    "Eine Socke mit Spermaflecken.",
+    "Sich über einen feuchten Furz freuen.",
+    "Sich im Internet als nigerianischer Prinz ausgeben, obwohl man Millionär ist.",
+    "Salz und Cola durch einen Strohhalm ziehen.",
+    "Ein Dildo auf einem Kleinkind.",
+    "Fußpilz ablecken.",
+    "Ein Autogramm von Dieter Nuhr.",
+    "Einer Transe bei McDonalds einen blasen.",
+    "Das jüngste Gericht.",
+    "Afrikanischen Kindern iPhones statt Essen spenden.",
+    "Zwergwüchsige Nutten.",
+    "Peter Lustig.",
+    "Von Vogelscheiße getötet werden.",
+    "Ein Zehnagel in Hackfleisch.",
+    "Ein Drogencocktail aus Heroin und Weed.",
+    "Eine Dokumentation über Frauen die glauben sie seien die Wiedergeburt von Hitler.",
+    "Elektrische Nippelklemmen mit grünem Glitzer.",
+    "Kleinwüchsige die sich als Toilette verkleiden.",
+    "Schwul sein.",
+    "Frauenrechte.",
+    "Der Holocaust.",
+    "Der Teletubby mit dem Dildo auf dem Kopf.",
+    "\"Ausversehen\" ins falsche Loch stecken.",
+    "Lange Weihnachtssocken.",
+    "Tote Vogelbabies.",
+    "In die Hand furzen und dran schnüffeln.",
+    "Das Gesicht von Kevin Großkreutz wenn er kommt.",
+    "Eine explodierende Zigarette.",
+    "Madonnas Jungfräulichkeit.",
+    "Eine Banane schälen und die Schale essen.",
+    "Ailton.",
+    "Ein Hammer ohne Stiel.",
+    "In eine Kippah eines Juden kacken und warten bis er sie aufsetzt.",
+    "Dein Vater.",
+    "Claudia Roth in Unterwäsche.",
+    "Der Führer des Nudistenstammes \"nackte Spacken\".",
+    "Eichel Eiter.",
+    "Stinkenede Chicken Wings.",
+    "Ein Muffin mit toten Fliegen.",
+    "Hoden eines kleinen Jungen.",
+    "Ein alter Mann mit falten am Sack.",
+    "Plastikobst aus dem Möbelhaus.",
+    "Kleine Brüste.",
+    "Sangria aus Shotgläsern trinken.",
+    "Sein Baby bei Ebay verkaufen.",
+    "Wichse.",
+    "Leuten Kacke per Post schicken.",
+    "DNA eines Verbrechers.",
+    "Käse am Stock.",
+    "Pfefferspray und Eis.",
+    "Auf dem Klo von Toys'R US ausgeraubt werden.",
+    "Einen fahren lassen.",
+    "Zu Mutter Theresa wichsen.",
+    "Adolf Hitler mit Clowns Schuhen und einer roten Nase.",
+    "Einem Obdachlosen den Mittelfinger zeigen.",
+    "Ein Schaamhaar von Rainer Calmund.",
+    "Die Zunge da haben wo der Penis ist .",
+    "Ein Bild mit deinem Gesicht.",
+    "Im Auto Lieder schlecht mitsingen.",
+    "Ein schlechter Michael Bay Film.",
+    "Bei der Hochzeit des Bruders in Unterhose auftauchen.",
+    "Mit 91 Jahren beschnitten werden.",
+    "Behindert sein und Behinderte auslachen.",
+    "Pierre Michel Lasogga .",
+    "Ein Peitsche aus der Haut eines schwarzen Pferdes.",
+    "Deine Frau zu Brustimplantaten zwingen.",
+    "Vergammelter Rotkohl.",
+    "Affen auf einem Drehstuhl fesseln und solange drehen bis sie kotzen.",
+    "Die Kreditkarte meines reichen Vaters.",
+    "Ein 2,43 Meter großer Mann mit Grillz.",
+    "100 tolle Fakten über menschlichen Haarwuchs.",
+    "Ethnische Säuberung.",
+    "Jesus.",
+    "Flüssig Seife literweise zum Frühstück trinken .",
+    "Deine Mutter.",
+    "Rote Grütze mit grüner Farbe mischen.",
+    "In der Mülltonne des Sexshops nach Sexspielzeug suchen.",
+    "Die Unterwäsche deiner Nachbarin im Keller anpacken.",
+    "Albanische Familien.",
+    "Beten das Schwule verschwinden.",
+    "Eine Biene in der größe einer Bierflasche.",
+    "Röntgenaufnahmen beim Analsex machen.",
+    "Nacktbilder vom Papst.",
+    "Feuerameisen.",
+    "Eine Socken auf einem Angelhaken.",
+    "Ein 200 Kilo schwerer Mann der Schwanensee tanzt in einem Tutu wo man den Arsch sieht.",
+    "Miley Cyrus' nicht vorhandene Brüste."
+  ],
+  "pack": {
+    "id": "BP6SX",
+    "name": "Beste Deutsche Karten"
+  },
+  "quantity": {
+    "black": 82,
+    "white": 144,
+    "total": 226
+  },
+  "dateStoredMs": 1589484171907
+}

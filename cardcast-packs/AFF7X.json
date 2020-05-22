@@ -1,0 +1,81 @@
+{
+  "black": [
+    {
+      "content": "The most recent incident with the GCPD involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing that Oswald loves more than Jim Gordon's big strong arms is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Recently, one of Gotham's rogues have decided to adopt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Besides engineering and architecture, Jeremiah Valeska is also very good at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hugo Strange has recently convinced one of the Arkham Inmates that they are _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The ship that the writers will be forcing this week is between _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Edward's riddles have really started getting worse since he began _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Harley's latest crazy scheme involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Penguin has recently decided to team up with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You really don't want to be caught _ with Elijah Van Dahl.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The Batman.",
+    "Edward Nygma.",
+    "Barbara Kean.",
+    "Bruce Wayne.",
+    "Harleen Quinzel.",
+    "Jerome Valeska.",
+    "Gertrud Kapleput.",
+    "Gotham.",
+    "Gey-Cey-Pey-Dey.",
+    "Ignatius Ogilvy.",
+    "Jeremiah Valeska.",
+    "Elijah Van Dahl.",
+    "Oswald Cobblepot.",
+    "The Penguin.",
+    "The Sirens."
+  ],
+  "pack": {
+    "id": "AFF7X",
+    "name": "Gotham Expansion Pack"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 15,
+    "total": 25
+  },
+  "dateStoredMs": 1588468249437
+}

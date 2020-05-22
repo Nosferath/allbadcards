@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "I denne uges \"hvad er det værd?\" vil vi lægge ud med at se på _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "På Røntgenbilledet kunne lægen se, at der gemte sig _ i numsen på den stakkels fyr.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Københavns politi forsøger sig nu med civilbetjente forklædte som _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Under udgravningen af Københavns metro er der fundet rester af _ i en gammel vikingemødding. Befolkningen jubler.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Børnefødselsdagen var stærkt præget af _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Et vognlæs homoseksuelle.",
+    "Et forgrædt mobbeoffer.",
+    "Sjaskvåde trusser.",
+    "En sommerfest i revisorforeningen.",
+    "At spise jord.",
+    "Vodka-danskvand.",
+    "Et ladt haglgevær.",
+    "At være nazist for en aften.",
+    "Huller i hukommelsen.",
+    "En nettopose fyldt med øl.",
+    "Taxa-Mike.",
+    "Tvangsfodring.",
+    "Tilstoppede toiletter."
+  ],
+  "pack": {
+    "id": "X9XB8",
+    "name": "Dansk"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 13,
+    "total": 18
+  },
+  "dateStoredMs": 1588781522770
+}

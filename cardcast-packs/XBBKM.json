@@ -1,0 +1,102 @@
+{
+  "black": [
+    {
+      "content": "Brendon not only supports illegal music downloading, but he also supports _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Not _ (I promise).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tyler once said him and Josh met by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's called _ , and it's real, and it doesn't matter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Josh Dun not only got a taco bell gift card, but he also got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I write _ not _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Somebody stole  _ and now I just sit in silence.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Drunk History of _ with Brendon Urie.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This ain't a _ it's a _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gerard once dyed his hair the color of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ryden was definitely real, but so was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "TØP's current fashion scheme includes ski masks, but their old one included _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rejected song titles for 'Pretty. Odd.' include _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Patrick once wrote a song called _ , but the idea was shot down.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "MCR's band name was almost _ , but they scrapped the idea.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The milk fic.",
+    "MCR ending their band with a once paragraph letter.",
+    "The fact everyone was super high while writing 'Pretty. Odd'.",
+    "Eating out your girlfriend.",
+    "Use your glutes.",
+    "Satan Brendon.",
+    "Brendon spilling beer on himself and forgetting in 5 seconds later.",
+    "Pete putting on eyeliner for the sake of nostalgia.",
+    "Brendon crying late at night because all his band members left.",
+    "Patrick's fedora.",
+    "Pete's dick pic."
+  ],
+  "pack": {
+    "id": "XBBKM",
+    "name": "The Greatest Hits of Emo Bands"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 11,
+    "total": 26
+  },
+  "dateStoredMs": 1589382198435
+}

@@ -1,0 +1,65 @@
+{
+  "black": [
+    {
+      "content": "I have found the most efficient way to increase morale is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry I can't go. I'm a little busy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would you do for a Klondike Bar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's your weekend hobby? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi! It's me. _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I accidentally _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hello? Is this _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was once lost, then the ISIS Community gave me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My School is the best! It's so full of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dress code has gone to shit. So Imma go _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "RWJ78",
+    "name": "Middle School Terrorism"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 0,
+    "total": 10
+  },
+  "dateStoredMs": 1588716934309
+}

@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Who's loudly chewing this time? Just _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Genji.",
+    "Pharah.",
+    "McCree.",
+    "Tracer."
+  ],
+  "pack": {
+    "id": "Z7Y57",
+    "name": "Discord Shenanigans"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 4,
+    "total": 5
+  },
+  "dateStoredMs": 1589231516786
+}

@@ -1,0 +1,838 @@
+{
+  "black": [
+    {
+      "content": "_ is my favourite song.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The murder weapon was found to be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To my surprise, _ actually turned out to be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I blame _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ isn't much, but it's honest work.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toys R Us is closing down due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I started off my career as a movie star by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Curiosity killed _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're sorry sir but we're going to have to ask you to stop _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing the all new clothing line: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish that I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My relaxation was abruptly interrupted by the sound of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have recently opened a new shopping website called www._.com where you can buy _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's the topic of this Discord call? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is more satisfying than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my favourite anime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean that _ is illegal?!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bush did _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Introducing a new game from _ : _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ doesn't exist.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ turns me on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In this superhero movie, _ and _ team up to fight _!",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Why are you _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the easiest crime to commit.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was _ 's fault.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ was arrested earlier today for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Tell the Card Czar a story by using 3 of your cards. _ _ _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I was suddenly awoken in the middle of the night to the sound of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ is not a good combination.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh no, I've lost _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last accident to happen on this building site was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now that's what I call _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hey Vsauce, _ here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the world's funniest joke? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my favourite past time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Florida man is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They call him/her _ , King/Queen of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hi, I'm _ and welcome to the hit new game show: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Fact of the day, _ is the world's biggest killer.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a dead meme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is still better than Fortnite.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite tourist destination is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry sir, I have done no work this lesson due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused me to begin suffering from PTSD? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You’ve been struck by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean that I'm not allowed to be _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I wish _ would just die already.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now introducing the all new action film, _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "As I opened the door, I found _ on the other side.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eww, you like _? That's so disgusting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That was anticlimactic.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is the Card Czar's guilty pleasure? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Timmy’s show-and-tell was abruptly ended by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BREAKING NEWS: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today's lesson: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ladies and Gentlemen, I am proud to present to you: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well... _ was the best idea I've ever thought of.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To be honest, _ is better than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What is your battle cry? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The party was abruptly interrupted by the arrival of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No, stop it, I don’t like it when you’re _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's preventing me from building a nuclear reactor in my back garden? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The last thing I saw before the roofies kicked in was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This restaurant is horrible! I found _ in my soup.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Come and visit _! There's lots of _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oh look, it's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favourite Youtube video is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why you ask? _ , that’s why.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In my opinion, the best way to describe _ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ deserves to get you executed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is quite fun. You should try it sometime!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I call this dance move _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "These are my three children: _ , _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "What's the worst thing you've ever done? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I've just matched with _ on Tinder.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You know what's getting old? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has literally fucking died.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ha ha, _ is a shit card.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is the reason for me wanting to commit suicide.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I no longer like _ after it gave me _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After a hard day of _ , I decided that _ was the best way to relax.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "A suspiciously sticky substance.",
+    "Creating a mutiny.",
+    "The Fortnite default dance.",
+    "A smooth criminal.",
+    "Snapping your fingers to eliminate half of all life.",
+    "Throwing babies at walls.",
+    "The kids in the back of my Ford Transit.",
+    "Eating your sorrows away.",
+    "Sniffing your feces.",
+    "Jimmy Savile.",
+    "Tommy P's elephantine height.",
+    "Our Lord and Saviour: Gary.",
+    "Praying to Allah.",
+    "Destroying two LEGO towers with two LEGO planes.",
+    "Asserting your dominance.",
+    "Allah.",
+    "Dropping the soap on purpose.",
+    "Gamer Girl Bathwater.",
+    "Going through a midlife crisis.",
+    "Killing John Wick's first dog.",
+    "Shooting some B-ball outside the school.",
+    "Heinz baked beans.",
+    "Casually shooting up a synagogue.",
+    "Blackpool Grime Media.",
+    "The Top 10 Shibes.",
+    "An abandoned warehouse.",
+    "Darude Sandstorm.",
+    "Questionable life decisions.",
+    "Headbutting a lamp.",
+    "Ceasing to exist.",
+    "Breaking a dachshund's elongated spine in half.",
+    "The Carpet Mafia.",
+    "Faking depression.",
+    "Sweet Home Alabama.",
+    "Painting the town red.",
+    "Www.russianhacks.com.",
+    "Violently rubbing a cheese grater against a very dry foot.",
+    "The dancing plasterer.",
+    "Eracctile Dysfunction.",
+    "Coming out of the closet.",
+    "The Card Czar.",
+    "A used straw.",
+    "Being stoned to death in Israel.",
+    "Ned Flanders.",
+    "Having depression.",
+    "A receding hairline.",
+    "Heavily breathing down the mic.",
+    "Being to the right of the autistic spectrum.",
+    "Male tears.",
+    "Elon Musk.",
+    "Running down the street screaming the lyrics of Electric Avenue.",
+    "Sans.",
+    "Feeding pigeons steak bakes from Greggs.",
+    "Anne, the Greggs lady.",
+    "Anti-vax moms.",
+    "Calum.",
+    "Leprosy.",
+    "James Charles.",
+    "Reenacting the My Lai massacre.",
+    "Performing a self circumcision.",
+    "Pretending to be a Ugandan warrior.",
+    "Tai Lopez' four new bookshelves.",
+    "Having the inability to function like a normal human being.",
+    "The USSR national anthem.",
+    "Gassing everyone with a can of Lynx Africa.",
+    "Brain-dead children.",
+    "Morbidly obese frogs.",
+    "Getting a virus.",
+    "Drug addiction.",
+    "Breaking a keyboard over your knee.",
+    "Goat steak.",
+    "Premature Eracculation.",
+    "Hitting a nasty whip.",
+    "Simon and Garfunkel.",
+    "Syrian drone strikes.",
+    "Stanley Yelnats.",
+    "No u.",
+    "Robbie Rotten.",
+    "A dog with a meat grinder.",
+    "The Twin Towers.",
+    "Earwax flavoured lollipops.",
+    "A slightly elongated toenail.",
+    "Grenfell Tower.",
+    "Blackpool's backstreets.",
+    "Hacking the school network.",
+    "Dying a slow and painful death.",
+    "Finding out that there is no candy in the back of the van.",
+    "Going to Italy to learn how to speak fluent spaghetti.",
+    "Getting banned on a Christian Minecraft server.",
+    "Having a cheeky sesh in the woods.",
+    "Getting ran over.",
+    "Yeeting a kettle off someone's head.",
+    "A malignant tumor.",
+    "Rolling over a Reliant Robin whilst travelling 15 mph around a corner.",
+    "Lightning Big MacQueen, sponsored by MacDonalds.",
+    "The absolute henchness of Tommy P.",
+    "Gary Glitter's glitter covered girth.",
+    "Osama Bin Laden.",
+    "Separating all of the brown M&Ms from the rest of the colours.",
+    "My skin collection.",
+    "Hitting a nae nae in the middle of an Afghani war zone.",
+    "Jeremy Clarkson.",
+    "Human trafficking.",
+    "Crying, fully clothed, in an ice-cold shower.",
+    "Kebabs.",
+    "A rusty Ford Transit.",
+    "Smackriston.",
+    "Keelin's circumcision.",
+    "Keemstar.",
+    "Being an intellectual.",
+    "Contacting the spirit world.",
+    "Belle Delphine.",
+    "Reeeeeeeeeeeeeee.",
+    "The priest.",
+    "Morbidly obese koalas.",
+    "Performing pranks in the hood.",
+    "Sacrificing a gay to Allah.",
+    "A kid escaping the special ed room.",
+    "Unplugging your grandparent’s life support to charge your phone.",
+    "A pentagram.",
+    "Carbon Monoxide poisoning.",
+    "Holy Man Gary.",
+    "Raising a white flag.",
+    "Adalia Rose.",
+    "Renovating a sewer.",
+    "Nukes.",
+    "Dropping the soap.",
+    "Big Kev.",
+    "Trying to take back custody of my kids.",
+    "Juicy J.",
+    "A Chiefly body pillow.",
+    "Drinking Pepsi from a Coca-Cola glass.",
+    "Being a cuck.",
+    "Gay carrots.",
+    "Getting a bit too excited.",
+    "Saying the word 'frick'.",
+    "Feminism.",
+    "Talking in a sarcastic tone of voice.",
+    "Simple Cooking Channel.",
+    "Hammering a nail into your urethra.",
+    "The fact that these two gays boys kegged me.",
+    "Ginger babies.",
+    "A swarm of hungry bees.",
+    "Cheeseburger.",
+    "Sticking thumb tacks in your eyes.",
+    "Chiefly.",
+    "Chiefly.",
+    "Winning £1 on a £2 scratchcard.",
+    "Hmmmmmmmmmmmmm.",
+    "Cheesy toes.",
+    "The fact that Satan is brainwashing cattle.",
+    "Harpooning a feminist land whale.",
+    "Trash Pandas.",
+    "The dull thud of smashing someone's skull with their own arm.",
+    "Leaving Neverland.",
+    "Pretending to be 6ft.",
+    "Vaporwave Simpsons edits.",
+    "The French.",
+    "Attempting to rob a store with a water pistol.",
+    "Calling the Boss Baby at 3AM.",
+    "A half decent smurf.",
+    "Molesting a goat, only for it to explode seconds later.",
+    "A test tube baby.",
+    "Slapping a drink out of someone's hand.",
+    "Coming to a realisation that you are in fact gay.",
+    "Rabbids.",
+    "John Wick.",
+    "The shriek of 'WHO'S EATING CEREAL?!'.",
+    "Germans.",
+    "African action movies.",
+    "10p Freddos.",
+    "Trying to find good memes.",
+    "Picking the worse white card of the round.",
+    "Steve Harvey.",
+    "Michael Jackson.",
+    "The sweet, sweet smell of sweat.",
+    "Inhaling an entire cabbage.",
+    "Fat.",
+    "Getting yeeted off the side of a cliff.",
+    "Hiroshima.",
+    "The sound of a Minecraft villager.",
+    "Racc.",
+    "Failing your GCSEs.",
+    "Big Chungus.",
+    "The Shadow Concordance.",
+    "Having leukaemia.",
+    "Playing Uno at 2AM.",
+    "A Kinder surprise egg.",
+    "Bruce Forsyth.",
+    "Bearing witness to a 7 year old screaming 'RDM' at an admin.",
+    "Tying a bag of bricks to your leg and throwing it off a bridge.",
+    "Cyka Blyat.",
+    "Flexing your wealth.",
+    "Murdering a Capri Sun.",
+    "Dropping firecrackers in front of someone suffering from PTSD.",
+    "Storming Area 51 with the boys.",
+    "Dwayne Johnson's egg head.",
+    "Spooky Scary Skeletons.",
+    "9/11.",
+    "Mounting the pavement and hitting 17 schoolchildren.",
+    "Burning down an orphanage.",
+    "Putting ferrets into a blender.",
+    "Cracking an egg over a bald man's head.",
+    "Fading away.",
+    "Crab Rave.",
+    "Pingu.",
+    "Demi Lovato's heroin addiction.",
+    "Edging yourself.",
+    "Burning in the sun because you're ginger.",
+    "Curry munchers.",
+    "Luke's secret frog fetish.",
+    "Spending £25 on a claw machine for a £10 prize.",
+    "Guinea Pigs that have been injected with a bit too much heroin.",
+    "A racist haircut.",
+    "The Jews.",
+    "The fact that Jamie is secretly a facist.",
+    "Dropping roofies into everyone’s drinks, Cosby style.",
+    "Thinking that furries are cute.",
+    "Jarred from Subway.",
+    "Vomit.",
+    "Denying being a furry.",
+    "Playing fortnite and actually enjoying it.",
+    "Realising that you have Type 3 Diabetes.",
+    "The smell of pets being cremated.",
+    "Hydrochloric acid.",
+    "Mr Birling.",
+    "The obesity crisis.",
+    "Sacrificing children in the name of Michael Jackson.",
+    "Being an absolute unit.",
+    "Nightcore.",
+    "Raccoons.",
+    "Bill Cosby.",
+    "Stan Lee.",
+    "ISIS.",
+    "Playing PUBG on PS4.",
+    "Performing a circumcision on Sir David Attenborough.",
+    "Beating my wife and kids.",
+    "Dumbledavid.",
+    "Walter's Reich.",
+    "Thanos’ absolute girth.",
+    "Spilling the beans.",
+    "Stabbing someone with an icicle.",
+    "Theresa May’s lack of control of parliament.",
+    "Megalovania.",
+    "Consuming Tarmac.",
+    "White power.",
+    "Reclaiming the Reich.",
+    "The fact that Luke is unable to say 'Green' properly.",
+    "A bit of casual kiddie-fiddling on the side.",
+    "Mmmmmmmmmmmm.",
+    "Erecting a golden 10ft statue of Danny DeVito.",
+    "Papa Smurf.",
+    "Josef Fritzl's wife and daughter.",
+    "LMG MOUNTED AND LOADED.",
+    "Gru.",
+    "Inspector Goole.",
+    "Africa by Toto.",
+    "Wallace and Gromit.",
+    "The fact that there is very little left of my will to live.",
+    "The local mandem.",
+    "Being adopted.",
+    "Killing John Wick's second dog.",
+    "Jamie.",
+    "Mosques.",
+    "Putting chemicals in the water that turn the freaking frogs gay.",
+    "The Indian John Wick.",
+    "A hefty bulge.",
+    "Luke's sleepover.",
+    "Living in Florida.",
+    "France.",
+    "Luke's nicotine addiction.",
+    "African exorcisms.",
+    "Being a pro builder in Fortnite.",
+    "The Village People.",
+    "Being slightly gay.",
+    "Maddie.",
+    "Ordering a vindaloo at 3AM.",
+    "Casually pummelling frogs with a baseball bat.",
+    "Nothingness.",
+    "Rolf Harris.",
+    "Committing mass genocide.",
+    "Spelling your name with full lowercase letters.",
+    "Having max charisma.",
+    "VJ Emmie.",
+    "Segregation.",
+    "The big spook.",
+    "Red Door Man.",
+    "Brexit.",
+    "Lester Crest's crusty socks.",
+    "Waving at children at the school gates, despite not having any children yourself.",
+    "Roofie time.",
+    "Ho Chi Minh.",
+    "The n-word pass.",
+    "Greggs' Vegan Sausage Rolls.",
+    "Dealing drugs to minors.",
+    "Daddy.",
+    "George W Bush.",
+    "Koo.",
+    "Eating cereal.",
+    "Weaponised Autism.",
+    "Force-feeding your dog a hefty chocolate bar.",
+    "Telling people that things will get better.",
+    "The true psychopathic nature of Koo.",
+    "Lezley's smelly toes.",
+    "Joining the mafia.",
+    "Progeria.",
+    "There's no going back.",
+    "Hitting the nastiest whip.",
+    "Paying Roblox unironically.",
+    "A rusty spork.",
+    "Shibes.",
+    "Patak's curry sauce.",
+    "Mark Ruffalo.",
+    "Installing Windows XP to have a moment of nostalgia.",
+    "\"IS THAT A CAN?!\".",
+    "Being stabbed with a butter knife.",
+    "Toe jam.",
+    "Growing fungi on your toes.",
+    "Finding joy in torturing orphans.",
+    "Realising that your life is spiralling into an existential crisis.",
+    "Getting a 50 kill game in CS:GO.",
+    "Being addicted to black tar heroin.",
+    "A well-cooked dog.",
+    "Mr Sir's sunflower seed addiction.",
+    "Catfishing.",
+    "Sucking on Dumbledore's 'wand'.",
+    "Making a crab smoothie.",
+    "Thinking that Ugandan Knuckles is a good meme.",
+    "Being stuck with all these horrible people.",
+    "Black power.",
+    "Getting cucked.",
+    "An autistic screech.",
+    "The sacred toenail.",
+    "The will to live.",
+    "Believing that there is more than two genders.",
+    "Spending 3 hours taming a level 70 Triceratops, only to have it killed by a level 254 T-Rex five minutes later.",
+    "Spooooooooooky Ghooooooooooooosts.",
+    "Big bulges.",
+    "Cheeky tab spots.",
+    "The mariachi taxi song.",
+    "Groping 16 year olds.",
+    "The extermination of the Jews.",
+    "Roleplaying as a homosexual jellyfish.",
+    "Michael Jackson’s plastic cock enlargement.",
+    "Daddy Hitler.",
+    "'Rape Me' by Nirvana.",
+    "Using Samsung Galaxy Note 7s as a suicide vest.",
+    "Mickey Mouse's oversized fucking ears.",
+    "Absolutely fucking nothing.",
+    "Makka Pakka's suspiciously large cock.",
+    "Pissing on the floor in public to establish your territory.",
+    "Luke's GIMP skills.",
+    "Being a homosexual black man.",
+    "Ear-raping everyone in a Discord call with the sound of the Postman Pat theme.",
+    "Raping a patient with dementia.",
+    "T-Rex cock.",
+    "The fact the Card Czar is a cunt.",
+    "A bit of a nonce.",
+    "Yelling 'Heil Hitler' at the top of your voice.",
+    "Gently caressing the scrotum of a minion.",
+    "Racc's thicc ass.",
+    "Jizz.",
+    "Eating a shit sandwich.",
+    "Watching videos of chubby squirrels.",
+    "Bruce Forsyth's decaying foreskin.",
+    "Liberian sex slaves.",
+    "Accidentally getting accused of rape.",
+    "Finding out that getting in this van wasn't such a good idea after all.",
+    "The fact that Gru's penis would be 14 inches long.",
+    "Minion rape.",
+    "Touching children 'for science'.",
+    "My sudden desire to molest sheep.",
+    "Touching children.",
+    "The shittiest white card.",
+    "Your local neo-nazi.",
+    "Actually believing in God because you're retarded.",
+    "Ant-Man leaping into Thanos' ass.",
+    "KFC's all new chicken penises, coated in a crusty layer of goat semen.",
+    "Retarded.",
+    "Literally fucking dying.",
+    "A big fucking chonker.",
+    "Reaching climax.",
+    "Seeing Santa Claus balls deep in Rudolph.",
+    "Wondering how big David Attenborough's cock is.",
+    "Being a fat cunt.",
+    "Elmo's sexy voice.",
+    "Gekyume’s foreskin.",
+    "Sticking a pool noodle up your rectum.",
+    "Saying 'Stinks' after someone says 'What?'.",
+    "Accidentally cutting off your left testicle.",
+    "Having sexual allegations made against themself, despite these events happening 30 years ago.",
+    "David Attenborough's strange sexual attraction to wildlife.",
+    "Thoroughly enjoying hentai.",
+    "Jeremy Corbyn's Nazi Regime.",
+    "Finding a dead person in the suicide forest.",
+    "Penis enlargement pills.",
+    "Curry munching.",
+    "Getting your penis stuck in a bear trap.",
+    "Cock and balls in Segga.",
+    "Raping a hamster.",
+    "Becoming severely mutated after the Chernobyl disaster.",
+    "Realising that a Minecraft villager's nose is bigger than my penis."
+  ],
+  "pack": {
+    "id": "664S5",
+    "name": "Baguette Pack"
+  },
+  "quantity": {
+    "black": 84,
+    "white": 402,
+    "total": 486
+  },
+  "dateStoredMs": 1588685552709
+}

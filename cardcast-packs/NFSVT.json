@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "Why does Grant run? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mike isn't bald, he's _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Liz wants to sing a song about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Eric Hölljes most afraid of?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would make Delta Rae break up? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Brittany's magic comes from _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ian will only use social media for _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I feel good in my _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Brittany Hölljes.",
+    "Delta Rae.",
+    "Mike McKee.",
+    "The light.",
+    "Dancing in the graveyards.",
+    "Kendicorn.",
+    "Diehards.",
+    "A too-precise tarot reading.",
+    "Bird o'clock.",
+    "Cryifb.",
+    "Planeteers.",
+    "Milk Dud.",
+    "Becky Drew.",
+    "Liz Hopkins.",
+    "Grant Emerson.",
+    "Ian Hölljes.",
+    "Inside jokes.",
+    "Jericho, hero among dogs.",
+    "Cassandra Moonbeam.",
+    "Strönk hönk.",
+    "Snöwie.",
+    "Easter hoodie.",
+    "ATay.",
+    "Cropgate.",
+    "RebeccaRebecca.",
+    "Eric Hölljes.",
+    "Up urs plz.",
+    "The dark."
+  ],
+  "pack": {
+    "id": "NFSVT",
+    "name": "DR"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 28,
+    "total": 36
+  },
+  "dateStoredMs": 1589410387260
+}

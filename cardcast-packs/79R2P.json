@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "hey now_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "EFFFEF."
+  ],
+  "pack": {
+    "id": "79R2P",
+    "name": "omg Hamish sucks"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589316417618
+}

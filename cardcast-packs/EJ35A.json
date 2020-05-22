@@ -1,0 +1,125 @@
+{
+  "black": [
+    {
+      "content": "I hated it when _ make false claims in their wills.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Transporter didn't know what hit him when he swapped _ with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "However much the Mafia tried, they couldn't _ the Jailor.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The thing the Jester said before being lynched was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the role I gave to the Jailor on Night 1  before he executed me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I couldn't believe it when I saw the Serial Killer _ of the Escort.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When _ started admiring _, the Mayor instantly voted them up.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I died on the first night by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't you hate it when you  _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When a player joined the session with the name _, I knew it was all over.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Despite my best efforts, the Town still lynched me because they thought I was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only people remaining on Day 9 was _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Through killing me, the _ let the _ win.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "The Framer.",
+    "Fake wills.",
+    "The Spy.",
+    "The Executioner.",
+    "Sean Bean dies Night 1.",
+    "Cleetus Diabeetus.",
+    "Roleblocking the.",
+    "The Mayor.",
+    "The Transporter.",
+    "The Bodyguard.",
+    "The Mafioso.",
+    "The Werewolf.",
+    "The Sheriff.",
+    "The Amnesiac.",
+    "The Forger.",
+    "The Jailor.",
+    "The Doctor.",
+    "The Vampire.",
+    "The Mediums Curse.",
+    "Pretend to be another role when you are an evil role.",
+    "The Vampire Hunter.",
+    "The Blackmailer.",
+    "Mutilate the body.",
+    "The Consort.",
+    "The Disguiser.",
+    "People spoil the ending of Game of Thrones in their will.",
+    "Start making false claims in you will.",
+    "The Arsonist.",
+    "The Vigilante.",
+    "The Consigliere.",
+    "The Witch.",
+    "The Veteran.",
+    "The Investigator.",
+    "The Escort.",
+    "The Survivor.",
+    "The Janitor.",
+    "The Retributionist.",
+    "The Serial Killer.",
+    "TwoP.",
+    "The Medium.",
+    "The Godfather.",
+    "The Lookout.",
+    "The Jester.",
+    "Start whispering, and the Town instantly assume you are evil."
+  ],
+  "pack": {
+    "id": "EJ35A",
+    "name": "Town of Salem CAH"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 44,
+    "total": 57
+  },
+  "dateStoredMs": 1589565039033
+}

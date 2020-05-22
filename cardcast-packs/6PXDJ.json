@@ -1,0 +1,117 @@
+{
+  "black": [
+    {
+      "content": "Izak zawsze _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wykurwiaj za _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sto_ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gmod jest _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kapitan _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bo cie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ja lubię pociagi _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Łukasz śmierdzi bo _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skilla _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Twoja stara to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wpierdol albo _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bo cie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Admiros to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gimper i jasiu to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ssij mi _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Lukasz smierdzi.",
+    "Przegrywa.",
+    "Smieciu.",
+    "Admiros pararos.",
+    "Noga.",
+    "Jebany.",
+    "Kurwa.",
+    "Geje.",
+    "Wykurwiaj po mleko.",
+    "Baka.",
+    "Ojciec mateusz.",
+    "Odcholuje.",
+    "Chuju.",
+    "Wygrywa.",
+    "Noh.",
+    "Bladi.",
+    "MU KURWA MU.",
+    "Nie kupisz.",
+    "Bóg.",
+    "SPierdalaj.",
+    "Lubie ładować towary.",
+    "Zjebany.",
+    "Bydlak śmierdziel.",
+    "Fajny.",
+    "Tygrys jebacki.",
+    "Wykurwiaj."
+  ],
+  "pack": {
+    "id": "6PXDJ",
+    "name": "polskie rakowe karty"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 26,
+    "total": 41
+  },
+  "dateStoredMs": 1589282216958
+}

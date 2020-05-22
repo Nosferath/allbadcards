@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Bilbo also had _ in his pocket.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Gollum."
+  ],
+  "pack": {
+    "id": "zmx6n",
+    "name": "Lord of the Rings"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1588381999383
+}

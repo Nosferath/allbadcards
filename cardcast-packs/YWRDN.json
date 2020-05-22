@@ -1,0 +1,38 @@
+{
+  "black": [
+    {
+      "content": "Who would make a better tag-team partner for Ornstein?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I swear _ is the new meta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rather than using titanite for enhancements, we should use _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dark souls, but every enemy uses _ instead of their ususal weapons.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Giant Dad.",
+    "Praising the Sun."
+  ],
+  "pack": {
+    "id": "YWRDN",
+    "name": "Dark Souls"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 2,
+    "total": 6
+  },
+  "dateStoredMs": 1588797862337
+}

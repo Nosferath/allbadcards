@@ -1,0 +1,94 @@
+{
+  "black": [
+    {
+      "content": "_ doesn't fit in the sizing cube",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't have a type, says Maddy as she dates _ again",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We don't use _ in this family",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will make your world Byrne",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't cut _ on the porta band",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In end game, teams are _ instead of scoring",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry I haven't been at practice, I've been looking for my _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I only farted during judging because of _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is quite as iconic as _ and _ together",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ won't be on the final robot, I promise",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "One of the Madelines.",
+    "Matt & Samin.",
+    "CAD.",
+    "Rednek.",
+    "Zacharia boiz.",
+    "Red cards.",
+    "Thicc relics.",
+    "Marc.",
+    "Lysie.",
+    "Stealing the field.",
+    "Silky.",
+    "Two homeschooled nerds of 1115.",
+    "1/8th inch brass rack & pinion.",
+    "Tetrix.",
+    "Out of tolerance glyphs.",
+    "Team dynamics.",
+    "Field damage.",
+    "Yellow cards.",
+    "Seniormemproject.",
+    "Corey & Roman.",
+    "Horizon's relic recovery alliance partner scoring negative points for their only defeat.",
+    "Getting water.",
+    "Gracious proffesionalism.",
+    "Drunk Dean Kamen.",
+    "A core hex drivetrain.",
+    "Water game.",
+    "Air pods.",
+    "Swerve drive."
+  ],
+  "pack": {
+    "id": "WW8U7",
+    "name": "Redshift"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 28,
+    "total": 38
+  },
+  "dateStoredMs": 1589422133941
+}

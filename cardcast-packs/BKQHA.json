@@ -1,0 +1,675 @@
+{
+  "black": [
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Whats fun until  it weird _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothings bigger than_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The New York police have found _ guilty of _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Its ok _ you'll just get  _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ wants _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you had the chance to do _ with _ would you?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What can't you fit in your bag? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want to have _ with _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You are not the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Going to Jail for?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did you eat for dinner _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How would you spend your honey moon with _? _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't put _ in there!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your late why?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do the boys want? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I drink to forget _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who is my secret crush?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would love to see _ in _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Knock knock who's there_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do you get over your feelings?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "i went to the store for cereal but instead i found _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ why are you such a _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What do the girls want?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh no _ got a arrested for _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Daddy Daddy why is mommy crying _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "when i went to _'s house _ happened",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ has _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Just wait still everyone sees _ at school.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are you going to do today?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did Kenneth do to get over his depression?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do I Not want? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My mom found _ in my internet history?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can make Faith grow_?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "4 for 4? _ for _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Its the time to do _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love girls in sundress but you know whats better? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did you see?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry professor I couldn't complete my homework because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't worry I got _ on my side.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The class field trip was ruined by _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I went to the strip club and found _  on the pole",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "On the first day of Christmas my true love gave to me _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did you get rid of your homework?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because of _ your now stuck with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ loves _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What would you give the school shooter not to shoot you? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you give your girl for valantines day _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would make you shoot up the school?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If god didn't want us to enjoy _ why did he give us _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why Child Protective services at my door _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Looking at _ leads to _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Whats in the Proms punch bowl _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I want to see in life is _ doing _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Only way _ can afford that is _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What are my friends not telling me about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kenneth's sister watch out for _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mcdonald's dollar menu has_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did you sleep with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Guys lets run a train on _ without kenneth",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What can you have fun with _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You caught _ now what what will you do with it _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why Did _ reject _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This year hottest album is \"_\" by _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ betcha can't have just one!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Surprise your married but with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God what is it you want me to do _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ got dubbed by _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What brought the school wide orge to a grinding halt _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My parents always tell me to do _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "why isn't _ in school_?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who's Pregnant _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Im sorry I gave you _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ High five bro.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Step 1 _ Step 2 _ Step 3 Happiness",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When did you do _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is as bad as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did _  kill himself? because _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I drink to forget the night with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened today at school? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is _ in your closet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Damnnnn is that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who's Rodney dad_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is going to be _ before college",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What did you break during sex?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When all else fails I can masturbate to?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Do not fuck with me? I am literally _ right now.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pornhubs new up and coming porn stars are _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After having a crazy night I awoke next too?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I found _ and _ Fucking",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Morris going behind you when you bend down.",
+    "This years mass shooting.",
+    "Morris the marathon runner.",
+    "Mooky Dooky.",
+    "Liking only freshman cause their easier.",
+    "Babies.",
+    "The Virginia tech massacure.",
+    "(CLAP,CLAP)SHOWTIME!!!!!!!!!!!.",
+    "Alexis the kitchen appliance.",
+    "Tayshawn aka Never started Rehab.",
+    "Lose your girl to bestfriend.",
+    "Mr Browns failed laposuction.",
+    "Megan's nonexistent body.",
+    "Tysha ms. missing gold bond.",
+    "Andrew the mook.",
+    "Std's.",
+    "Ak-47.",
+    "Assless chaps.",
+    "\"ITS FINNA BE LIT\".",
+    "Pregnant.",
+    "Ayleen's recovering ankle.",
+    "If you got the rolls you got the grip.",
+    "When your girl don't call you papi.",
+    "Marvin's Room.",
+    "Angelica hiden \"body\".",
+    "Jaden aka grumpy the dwarf.",
+    "200 years of slavery.",
+    "School shooter gang.",
+    "A handful of spermies.",
+    "Miscarrige.",
+    "Getting your man card revoked twice.",
+    "You make me\" Ugh\".",
+    "Catch a Case.",
+    "Masochism.",
+    "Ankles so broken you can't find them.",
+    "Overweight African child.",
+    "Mass homicide.",
+    "Shamu Rodney.",
+    "Ethnic cleasing.",
+    "Made in China 4's.",
+    "Melanie the sibling.",
+    "Full frontal nudity.",
+    "Mein kamf.",
+    "Demonic rituals.",
+    "I am constantly torn between killing myself and killing everyone around me.",
+    "Morris's mcdonalds internet.",
+    "Dubbed again.",
+    "Reverse cowgirl.",
+    "Seth the decaded.",
+    "Topless Reporter.",
+    "Herpes.",
+    "Valarie aka Ms Arc.",
+    "Crippling debt.",
+    "Seafood allergies.",
+    "Light up Yeezys.",
+    "Morris's gay cousin trey.",
+    "Learning to be a electrition.",
+    "Kenneth's sister the Forced upon.",
+    "\"ahhhhhhhhh\".",
+    "Peter Mr FriendZone.",
+    "Morris the marathon runner.",
+    "Late child support checks.",
+    "John the almost mook.",
+    "Coco Mango Cherry.",
+    "Sarah the Dubber.",
+    "My grandma.",
+    "Haitian hunger pains.",
+    "Ponella aka Jared from subway.",
+    "Chinese Water Torture.",
+    "Teenage pregnancy.",
+    "Weeaboo's.",
+    "Love.",
+    "Daddy's belt.",
+    "Jose's Forgotten Gf.",
+    "Obestiy.",
+    "Cooked jays.",
+    "Victor OG school shooter.",
+    "Jiggle Itzel the Bipolar.",
+    "Faith the bankrupt puerto rican princess.",
+    "Afraid of girls.",
+    "The Gulags.",
+    "Black people.",
+    "Risking your job for a senior.",
+    "MAMAGUEVO.",
+    "Albert failed  Rehab.",
+    "Dead inside.",
+    "Ugly like 98% of our grade.",
+    "Elie wiesel dad.",
+    "Being racist.",
+    "Pull out game weak.",
+    "Clown makeup daisy.",
+    "Having a stroke.",
+    "Immigration.",
+    "Cheating.",
+    "Half man half horse.",
+    "Jose the forgetfull.",
+    "Sloppy head.",
+    "Stalking underage people.",
+    "Child Protective services.",
+    "Alcoholism.",
+    "Crippling depression.",
+    "Ava the feelings matter girl.",
+    "Ortiz the milk dud.",
+    "Stained panties.",
+    "Kenneth's Garbage game.",
+    "Doin'it in the butt.",
+    "Steroids.",
+    "Takes 2 years to make a move.",
+    "An M16 assault rifle.",
+    "Necrophilla.",
+    "Catherine the future prostitute.",
+    "Viriginity.",
+    "20 pounds of pure Mexican black tar herion.",
+    "When the only girl who wants you is crazy.",
+    "Cherry popping.",
+    "NYC Condoms aka Name  your child.",
+    "Accidental genocide.",
+    "Losing your man card.",
+    "Amputees.",
+    "Being abnormally rachet.",
+    "Jeremy the name your child.",
+    "Harass naked reporter.",
+    "Angel aka Shaka Zulu.",
+    "Bringing Segregation back.",
+    "Kimberly the tactical grip.",
+    "The day of my birth, my death began its walk Its walking towards me.",
+    "Dwayne the brollic boyfriend.",
+    "Ms Loterno at 55.",
+    "Forced entry.",
+    "Beached whale named Khristine.",
+    "Destroying the evidence.",
+    "Doggy.",
+    "Deflowering.",
+    "Daddy issues.",
+    "Invaild Greencard.",
+    "Gas chambers.",
+    "Ask out everyone in your grade.",
+    "Changing electrical wire.",
+    "Vapor rub.",
+    "Pulling out.",
+    "Faiths innocence.",
+    "Make a death pact.",
+    "Edwin the illegal.",
+    "Abortion.",
+    "Poor life choices.",
+    "Flex God Salma.",
+    "Jonathan aka woolly  mammoth.",
+    "Overly Aggressive Fingering.",
+    "Looking chopped.",
+    "Kenneth aka \" Almost\".",
+    "Vinny the \"Electrician\".",
+    "It was better when I was a Slave.",
+    "A reason not to commit suicide.",
+    "Seeing things from Hitlers perspective.",
+    "Fierce anal rape.",
+    "Masturbation.",
+    "Gettting fucked by the teacher.",
+    "Primal ball slapping  sex.",
+    "Facefucking.",
+    "My sex life.",
+    "Turtle sex.",
+    "Tarzan aka Triple H aka Dyke Dean.",
+    "The size of my penis.",
+    "Following the Third Reich.",
+    "Suicidal Blowjob.",
+    "Sexy dean doing yoga.",
+    "Fucking Nigger.",
+    "Tits McGee Nury.",
+    "Sperm comet's from space.",
+    "Tell teacher to suck my BIG DICK.",
+    "Sucking dick for money.",
+    "Pedofilla.",
+    "Surprise Buttsex.",
+    "Chaurdinay the brolic dyke.",
+    "Anal.",
+    "Hitler supporters.",
+    "Accidental sex.",
+    "Fucking the teacher.",
+    "Play with boobs.",
+    "A bleached Asshole.",
+    "\"False\" rape claims.",
+    "Fisting.",
+    "A single cock loving Faggot.",
+    "A sad handjob.",
+    "Kids with ass cancer.",
+    "Hiv.",
+    "Attempted Suicide.",
+    "Fagot ass Rigby.",
+    "Incest.",
+    "Auschwitz.",
+    "Being a literal Mother fucker.",
+    "Cum and horse dick.",
+    "Go back to mexico spic.",
+    "A cum soaked rag.",
+    "Some gay nigga rubbing your cheek.",
+    "You could just catch this Dick.",
+    "You fucking pussy.",
+    "Malfunctioning boner.",
+    "Being Hitler's long lost son.",
+    "Dragon dildos.",
+    "Myon the 5th grade pimp.",
+    "Aids.",
+    "Sexual favors.",
+    "Asian nigga gohan."
+  ],
+  "pack": {
+    "id": "BKQHA",
+    "name": "Hudson"
+  },
+  "quantity": {
+    "black": 91,
+    "white": 204,
+    "total": 295
+  },
+  "dateStoredMs": 1589411712137
+}

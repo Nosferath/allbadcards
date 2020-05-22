@@ -1,0 +1,591 @@
+{
+  "black": [
+    {
+      "content": "If _ is _ then _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Eternal, _ doesn't go there!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's not my first time being a _. I did it every week in college.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to a store near you \"_\"!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_, dum dum dum dum dum!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One ring to bring them all and in the darkness _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If only _ was here. All our problems would be solved.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why not _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shit, did I leave _ on?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The next League of Legends Patch will include _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sick of these motherfucking _ on this motherfucking _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hello, is it _ you're looking for?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look at my brand new _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Behold! The 11th Commandment \"Thou shalt not _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Babyhawk fell out of a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How much _ could a woodchuck chuck?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I had a million dollars? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For old times sake, I suppose you can _ one last time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Get to the _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I failed _ class!? But I revised all night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I love the smell of _ in the morning!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did the chicken cross the road?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would not be my first choice for game night, I prefer _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I tripped over _ right into a _. I need a shower after that.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kai is a terrible friend because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Itsy Bitsy Spider crawled up _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Evolution is a lie, _ proves it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Does the GTX version come with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only way to stop _ is by closing the borders.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ can end world hunger, we just have to believe!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did I break my leg? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The CIA Torture report showed that waterboarding, electrocution and _ were the most effective.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Psycotopia would _ if he was President.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hands away from the alarm! Good, now fill this bag with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Queen of England has announced her facination with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Excuse me waiter, there's a _ in my soup.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Pope has a _ under his fancy hat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I didn't enjoy that _ scene, although the gay couple at the front loved it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm the 4th best at _ in the world, watch this!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of playing Cards Against Humanity. I would rather _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "P-p-p-pick up a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You see a mouse trap, I see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why do I delete my browser history? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Never before have I encountered someone so talented at _. It was truly wonderful!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ghosts envy the living because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It looks like your radiator is shot, I can fix it but I'll need to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have _ in my bathroom. Want to see?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why should I go into that room? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ just won't fit! Grab the _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This years all time favourite speciality act is _ performed by _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I was awake all night thinking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He was shivved in the _, then he was shanked in the _. Johnny!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Why is your trophy case dedicated to _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There can be only one _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Blood on the walls of London Town, _ in a nylon gown.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I never believed _ could work here, but it really adds some character to the room.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nyaa see, I've got _ and I'm not afraid to use it!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Veigar's hidden Ultimate is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Go left at the _, over the _ and the _ is just on your right.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I have _ in my car. Three for Two this week.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of voting, we should use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quick, _ is about to explode!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is killing all the whales. My solution is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hello my honey, hello my darling. Hello my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Of all the bars in all the world, you had to _ in mine.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mr BadTouch recieved 5 years of jail time for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The worst thing to be stuck in a cage with? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a lot more fun with 2 people.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imma firing my _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The HMS _ set sail this afternoon only to sink after _ distracted the Captain.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "EpicBeef goes well with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 7th circle of hell is reserved for _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Keryso, Died 2015 of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Among other things, Charlie Sheen is also addicted to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hi, my name is _ and I suffer from an addiction to _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'll see you guys later, I'm off to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I sent a picture of _ to my Mum by accident.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What would Brian Boitano do if he was here right now? He'd _ and he'd follow through.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Isn't that the pot calling the kettle a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Equality is only for those who don't _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Draw me like one of your _, Jack.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It was a struggle to eat breakfast with my parents, I can't believe I saw them _ last night.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ctrl+Alt+_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Baptist Church is more in to _ than I am! Who knew?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried the marijuana once, the night ended with _. Never again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Andgay has found _ to be his newest kink.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ motherfucker!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How much of _ is too much?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't walk on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am I stupid because I don't understand _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do I relax? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Finding more transvestites to satisfy my lust.",
+    "Psychotopia's slowly ascending sphincter.",
+    "Pork sword.",
+    "In a world of nothing but something.",
+    "Me can't eat soup.",
+    "Hilary Clinton's death.",
+    "Sunrise.",
+    "Tying a small french man to a barstool.",
+    "Ebola's stupid cousin, Elbowli.",
+    "SARS outbreak.",
+    "Tricycle.",
+    "Nanobots with a moustache fixation.",
+    "Shank.",
+    "Not knowing what turns you on but you see it everywhere.",
+    "Try.",
+    "Pointy sticks.",
+    "Neck deep.",
+    "Pi.",
+    "Hennifer Lopez.",
+    "Authority.",
+    "A strangley erotic truffle shuffle.",
+    "Press reset on the Universe.",
+    "Andgay's nipples being the only body part that has a reflection.",
+    "Jim Carrey.",
+    "Nest.",
+    "Wizard sleeve.",
+    "Having every superpower, but can only activate all of them at the same time.",
+    "Kevin Costner.",
+    "Incredibly black obese man.",
+    "Surprise colonoscopy!.",
+    "A strange tickly feeling below the belt.",
+    "A spider wearing comically large spectacles.",
+    "Self colonic irrigation.",
+    "Mediocre employee.",
+    "All the drugs.",
+    "Mr BadTouch can't handle the geese!.",
+    "Six litres of scotch and a sawn-off.",
+    "Needing to scratch your nose while elbow deep.",
+    "Heroin twister.",
+    "Nanageddon.",
+    "In the first stages of coitus with a chimp named Larry and you weren't the instigator.",
+    "Microwaved watermelon.",
+    "Leg end.",
+    "The iPad 8S Miniwatch Mini Air.",
+    "Charlie's Angles.",
+    "Some flies.",
+    "Blumpkin.",
+    "Kim Jong Un.",
+    "Eternal's existential crisis.",
+    "By day, my thumbs. By night the pillars of Hercules!.",
+    "Urinating on the homeless.",
+    "Taco flavoured kisses.",
+    "Sniff the hair of the women in front of me every time I get in line.",
+    "Leg elbows.",
+    "Used toilet paper.",
+    "LUBALA TIMMEAH!.",
+    "More ethnic diversity in North Korea.",
+    "Horny chickens.",
+    "Exterminate.",
+    "Kill.",
+    "The anthropomorphic representation of Death.",
+    "\"Pull the lever Krunk!\".",
+    "Feather dusters in unconventional holes.",
+    "Steven Seagull.",
+    "Chopper.",
+    "Angels raining down the fiery vengance of God.",
+    "God's dislike of minorities.",
+    "Friction.",
+    "Genital warts.",
+    "Shiv.",
+    "Where I hid the evidence.",
+    "Several new forms of anthrax.",
+    "Claymore.",
+    "The Benny Hill theme tune played over the \"Saving Private Ryan\" D-Day scene.",
+    "Needing more than just a kink.",
+    "Put both feet in Tarantino's mouth.",
+    "Brian Blessed.",
+    "Wear a toddler as a hat.",
+    "Half price whores.",
+    "Indian food.",
+    "Socks before pants.",
+    "Babyhawk's favourite finger.",
+    "Descended knee caps.",
+    "Flu sex.",
+    "Wipe your ass with your neighbours cat.",
+    "My Negro Slave, Claude.",
+    "Pissteeth.",
+    "Anus.",
+    "Finding only the toes sexy.",
+    "Arse.",
+    "Crap.",
+    "Bitches bitches bitches.",
+    "EpicBeef's other, smaller penis.",
+    "Self fellatio on stage.",
+    "Assholes doing enough stupid shit to you that you finally flip and set fire to their ears.",
+    "Fisting.",
+    "Daytime hooker.",
+    "Motherfucking magic.",
+    "Fuck them.",
+    "Looking in a window while passing and seeing 3 mascots going hell for leather in a big costumed pile.",
+    "Tripping balls at the museum and believing you are really a time traveller.",
+    "Idiots doing idiot things because they're idiots.",
+    "Bollocks.",
+    "Putting more effort into sex but getting dick cramp.",
+    "Cunt.",
+    "German elbow bondage porn.",
+    "Free cheese and a fuckin' challenge.",
+    "Shit.",
+    "Richard Nixon's orgasm noise.",
+    "Accidentally eating sperm.",
+    "Conventional casual sluts.",
+    "Keryso's slightly abnormal left testicle.",
+    "Scrotum.",
+    "Fuck.",
+    "Fondle thy balls."
+  ],
+  "pack": {
+    "id": "7GYMR",
+    "name": "The Biggest Blackest Deck"
+  },
+  "quantity": {
+    "black": 92,
+    "white": 115,
+    "total": 207
+  },
+  "dateStoredMs": 1588685552779
+}

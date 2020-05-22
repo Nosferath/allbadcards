@@ -1,0 +1,24 @@
+{
+  "black": [
+    {
+      "content": "Fortnite is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zabójstwo nauczycielki z przyrki przy użyciu rocket launchera z fortnite.",
+    "Gone.",
+    "Fortnite is Gone."
+  ],
+  "pack": {
+    "id": "WXQ47",
+    "name": "FORTNITE"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 3,
+    "total": 4
+  },
+  "dateStoredMs": 1588661419346
+}

@@ -1,0 +1,91 @@
+{
+  "black": [
+    {
+      "content": "Who lent Archer money during his mission in Canada? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Carol likes to sniff _ during her lunch breaks?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I will shove _ up your urethra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Archer created a new drink called The Back Bender. It is one part _ ,and two parts _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The last message we received from Archer was him yelling _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Good job Pam. You just had to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pam's new addiction is to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is Archer _ instead of doing the mission?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , that is how you get ants",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Archer and Lana Fighting over now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lana, Laanna, Laaannna! What? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dr. Krieger's new invention is a_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Carol's choking fetish.",
+    "Danger Zone!.",
+    "A baby recieving a tattoo.",
+    "You wish they were in the eye drops.",
+    "Phrasing.",
+    "Jewish Santa.",
+    "Randy.",
+    "Life saving cancer medication substituted for sugar pills.",
+    "Crack Pudding.",
+    "Replacing all of the things in the back of the van to come along.",
+    "Tacticleneck Sweater.",
+    "Making cocktails out of whatever slightly alcoholic item is laying around.",
+    "Rampage!!!.",
+    "Ray's black hand.",
+    "Being sexually assaulted by the 16 year old daughter of a swiss billionaire."
+  ],
+  "pack": {
+    "id": "7EPN2",
+    "name": "Archer"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 15,
+    "total": 27
+  },
+  "dateStoredMs": 1589035223985
+}

@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "The real reason of Jeremy's fracas? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Piers Morgan.",
+    "Idk lol?."
+  ],
+  "pack": {
+    "id": "ZPYK9",
+    "name": "The Top Gear Cancer Pack"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589002473790
+}

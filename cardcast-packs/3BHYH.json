@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "_ to nowy superbohater!  Jego zadaniem jest zwalczanie przestępcy znanego jako  _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_, ósmy pasażer Nostromo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Luke, jestem twoim _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biegnij, _! Biegnij!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Władca _: Drużyna _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ kontra _. WALKA ROKU!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Czy to już koniec? Co się stanie z _? Przekonajcie się w kolejnym odcinku _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ z marmuru.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A teraz panie _, zaprezentuje panu moją najnowszą _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "-A teraz? Ile wynosi jego siła ciosu? -GRUBO PONAD _!!.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Przekierować całą moc do _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "W tym roku Oscara za najlepszy scenariusz otrzymuje _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nie wiem kim jesteś ani czego chcesz, ale znajdę cię i _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Miasto za małe dla nas dwóch.",
+    "Nadopiekuńczy Vader.",
+    "Kolejna badziewna komedia romantyczna.",
+    "Chuck Norris.",
+    "Nieśmieszny Yoda.",
+    "Erotyczny batgadżet.",
+    "Film niepoprawny politycznie.",
+    "Potrawka z kota.",
+    "Cieniutka czerwona linia.",
+    "Lista Schindlera.",
+    "Dźwięk z incepcji.",
+    "Księżniczka Mononononoke.",
+    "Gubernator Kalifornii.",
+    "Ojciec Chrzestny.",
+    "Kapitan Peurto Rico."
+  ],
+  "pack": {
+    "id": "3BHYH",
+    "name": "Filmy i animacje (po polskiemu)"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 15,
+    "total": 28
+  },
+  "dateStoredMs": 1589282217131
+}

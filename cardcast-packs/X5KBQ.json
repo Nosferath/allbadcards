@@ -1,0 +1,20 @@
+{
+  "black": [
+    {
+      "content": "My cat decided last night was a good time to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "X5KBQ",
+    "name": "UK humour"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 0,
+    "total": 1
+  },
+  "dateStoredMs": 1589480826015
+}

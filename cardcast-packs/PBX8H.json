@@ -1,0 +1,138 @@
+{
+  "black": [
+    {
+      "content": "My dream of _ has finally come true.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There’s nothing quite like _ in the feminine care aisle.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "During the next presidential election we can expect to see _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The latest exhibit in the Museum of Modern Art was inspired by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don’t know much about the new Olympic sport but I know it involves _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Scientists have finally developed a vaccine to protect us from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You call it a wardrobe malfunction, I call it _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When faced with adult responsibilities, I like to avoid them by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Coming to theaters soon: _ starring in the new film _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Newly updated sensitivity training guidelines include experiencing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There are those who prefer older men. I prefer _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Explaining to the ER doctor how _ had caused the problem made things even more uncomfortable.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret to how I paid off my student loans? _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The world isn’t fair but if it was, _ would be _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "You know you have a Pinterest problem when you make a board dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Costumes too revealing to be remotely practical.",
+    "A cartoon microbe with eyelashes so you can tell it’s a girl.",
+    "Finally achieving supervillain status.",
+    "Stepping in chewing gum.",
+    "Things that are unnecessarily gendered.",
+    "Buying a baby shower gift at Victoria’s Secret.",
+    "That camp counselor you had a crush on when you were 12.",
+    "Both figuratively & literally exposing a corrupt politician on live tv.",
+    "Impeccable manners and questionable ethics.",
+    "A one-size-fits-all item of clothing that actually fits.",
+    "Douchebags made from real men’s rights activists.",
+    "A fire extinguisher that sprays glitter.",
+    "Cartoon sound effects inexplicably happening in real life.",
+    "Friends with benefits including medical, dental, and a 401k.",
+    "Singing loudly in the elevator while ignoring the other passengers.",
+    "Wearing an underwire bra for 24 consecutive hours.",
+    "Men who catcall.",
+    "A jawline you’d recognize anywhere.",
+    "Getting lost in the hellscape that is a Walmart on Black Friday.",
+    "Your blind date showing up in a superhero costume.",
+    "Much older men.",
+    "People who intentionally use the wrong pronouns.",
+    "Drummers.",
+    "Actually turning into a dragon.",
+    "Sitting on a throne made of cacti.",
+    "A conventionally attractive person with no discernible talent.",
+    "Becoming emotionally invested in fictional characters.",
+    "Ladies with winged eyeliner so sharp it could cut someone.",
+    "Corporations treating the Endangered Species list like a hit list.",
+    "Pushing the limits of DIY.",
+    "Irresistible baby animals.",
+    "Saying no with the aid of fake blood capsules & your stellar improv skills.",
+    "Finding hypocrisy in anything if you try hard enough.",
+    "A little old lady with a vocabulary that could make a biker gang blush.",
+    "Forever driving in circles outside Whole Foods in search of a parking space.",
+    "Drinking so many cups of coffee that you never need sleep again.",
+    "Aesthetic.",
+    "Nothing but plot holes and explosions.",
+    "Meme culture going too far.",
+    "A shopping cart with a very loud squeaky wheel.",
+    "The magical land where all the missing socks go.",
+    "Passing the Bechdel test.",
+    "Several opossums in a suit pretending to be a man.",
+    "People who yell at grossly underpaid workers for simple mistakes.",
+    "Trying to inconspicuously get the crumbs out of your bra.",
+    "Communicating only through interpretive dance.",
+    "Pirates with self esteem issues."
+  ],
+  "pack": {
+    "id": "PBX8H",
+    "name": "Meredith's deck"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 47,
+    "total": 62
+  },
+  "dateStoredMs": 1589277060153
+}

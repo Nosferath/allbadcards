@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "_ : the best first person shooter.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Shadow the Hedgehog."
+  ],
+  "pack": {
+    "id": "TWBY3",
+    "name": "Sonic Cards"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589579203877
+}

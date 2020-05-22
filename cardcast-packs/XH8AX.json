@@ -1,0 +1,881 @@
+{
+  "black": [
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Tu esti mama la copii, eu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Un copil a venit la mine si mi-a spus la ureche _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce faci daca vine vine Ricardo si se da la prietena ta ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In familia mea veneram _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu iti mai baga _ in pizda, foloseste _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ a murit si _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ce are ea si nu am eu ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baiatu!!! _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand ai reusit in viata, iesi pe geam si striga tare  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi-am cunoscut tatal in _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Crezi ca daca Ceausescu nu ar fi existat acum am fi trait intr-o tara mai frumoasa ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am fost la zoo si am vazut _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Domna profesoaraaaaaaa, _ mi-a pus mana pe _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ cand nu  se uita nimeni .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sarumana tanti, dai si mie 2 chile de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Chipul taau si _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am vazu-o pe mama ta si _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trei iezi cucuiezi,  _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "M-am trezit la 2 noaptea, si tot ce puteam auzii era _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand sunt depresiv _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu mai tipa in mortii ma-ti ca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Iubitule, ce pula mea faci ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca te-ar vedea mama ta ar spune _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu _ in timp ce _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ violat de _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu cred ca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ajutaaati va rog, dati-mi si mie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Organizatia mondiala a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce vrei de ziua ta ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca as mai traii inca o viata, as _ si as da foc la lume .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In general ma imbat de la _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca o iubesti spune-i _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca oamenii albi au _ , inseamna ca oamenii albi au _ ????",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Mami am gasit _ sub pat.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cine l-a omorat pe Ceausescu ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Plantez _ in _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Melc melc codobelc, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cine ar fi cucerit Dacia daca nu era Traian ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pe eticheta de la _ scrie _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Daca sunt gay asta nu inseamna ca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Astazi la scoala am invatat despre _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cine e cel mai mare inamic al umanitatii ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Leru-i ler si iara ler, _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am o frica teribila de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ia nu mai tipa la mine ca poate _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tot ce imi pot amintii este _ . Apoi totul e in ceata.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca nu taci _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Care este activitatea preferata a Czarului ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tot ce-a fost si vom avea vrodata _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand vei pleca de acasa, spunele parintilor ca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma doare _ !!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce ai spus ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doua fire doua paie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand am vazut-o prima oara, i-am spus _ si mi-a supt pula.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Diavolul se scalda in _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Beau _ filtrat(filtrata) prin _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ma cac la tine pe pres, ii dau foc, bat la usa si _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Am fost condamnat la moarte pentru _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce ai visat aseara ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ intre _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Eu am multi bani si valuta, si am mintea foarte scurta, am dusmani si am femei, si _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca tu si czarul ati fii ultimii oameni ramasi in viata, ce ai face ? As _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ce mananca Czarul de dimineata ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "De ce ma bati in timp ce iti sug pula ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inmoi _ in _ si bag in gura.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Cantitati infinite de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamiii _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Este adevarat ca ati omorat 3 copii in parcul de joaca ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Poti face cancer de la _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Eu sunt alesul, acum _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma un biletel pe care scrie _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Care e culoarea ta preferata din alfabet ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand fax sex, ma gandesc la _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inainte sa mor, ultimele mele cuvinte vor fi _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cum poti omora un boschetar dintr-o lovitura ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dau cu _ in _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Prietena mea are fantezii cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pentru siguranta dumneavoastra, evitati excesul de _ , _ si _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Mi-am luat _ sa ma joc cand ma simt naspa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Baiatu vino puti ! Vrei un gram de _ ?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "M-as fute cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu esti singur, noi stimi ca te masturbezi la poze cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nu stiu cum sa spun, dar _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cu, castrezi un porc in Vaslui ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La ceas tarziu in noapte, cand _ , se poate vedea clar cum _ se apropie de noi.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Imi place sa imi bag _ in cur.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hai afara sa _ ! Nu vreau coaie e _ afara .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stiai ca in Africa unii copii nu ai nici macar apa sa bea ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daca am casa mobilu cu posibil unul sau doi cai putere inseamna ca _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "M-am saturat de jocuri cu _ , ma apuc de Metin2.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Doamna profesoara, _ si trebuie sa merg acasa mai devreme.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Imi pare rau sa te anunt, dar ai _ , vei murii in 6 ore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In loc de _ , simpt nevoia sa consum _ de dimineata.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Am infundat veceul cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Invoc _ sa se lupte cu _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Iti dau in cap cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cu ce poti omora 100.000 de protestatari in park ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cum ti-ai pierdut virginitarea ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cand eram mic ma jucam cu puta in _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ s-a intalnit cu _ si au vorbit despre _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Am mers sa o iau pe sora mea de la _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma frec cu pula de _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Care e diferenta dintre o rata ? _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma sterg la cur cu _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cate trupe au cantat inaintrea dumneavoastra in aceasta seara ? _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Castrare.",
+    "Zacusca.",
+    "O gorila care facea laba.",
+    "Piciorul unui fetus.",
+    "Cred ca mai bine ne futeam pe intuneric.",
+    "Alunite albe.",
+    "Salomi Omul dintre Praz.",
+    "Pula.",
+    "Ling.",
+    "Sticla de borsec.",
+    "Cersetori.",
+    "Tarani care put a pamant.",
+    "Femeile norvegiene e barbati.",
+    "Ernset Cutitaru.",
+    "Voma.",
+    "Ciroza.",
+    "O grasa proasta pe nume Odobasian.",
+    "Pule congelate.",
+    "Inhamatul negrilor la plug.",
+    "Coaie ce blana o fo boaba aia.",
+    "Vezi turnurile alea doua ?.",
+    "Dizonaurii aia mari.",
+    "Borchetarii din Bucuresti.",
+    "Inhamatul copiilor la caruta.",
+    "Am o urma de excremente in partea superioara a penicului de la cat am futut-o in cur pe ma-ta.",
+    "Baleron Futamadre.",
+    "Morga din Botsoana.",
+    "Aparate de facut laba.",
+    "Muraturi la bidon.",
+    "Flosin Salam pe cocaina.",
+    "Alta intrebare.",
+    "Vaslooy.",
+    "Oameni.",
+    "Viata e ca parul din cur... scurta si plina de cacat...",
+    "Halate de baie murdare de sange.",
+    "Mi-am pilit pompa pentru veceu de chelie.",
+    "Nelson Mondialu.",
+    "Puterea bastanilor.",
+    "Supa la plic.",
+    "Un brad blocat intre coaie.",
+    "Pomana de la parastasu lu tanti Florica.",
+    "Lindic mic.",
+    "Bile anale.",
+    "Piramide.",
+    "Pula un gura.",
+    "Am cancer la coiul stang.",
+    "Fut cadavre la morga din orasul meu natal.",
+    "Smirghel fabricat in polonia.",
+    "Puiule iar te-ai cacat in chiuveta ?.",
+    "Loarea de pula a marelui negru rus.",
+    "Cacat.",
+    "Musulmani.",
+    "Vezi ca mi-ai lasat urme de laba pe canapea.",
+    "Dupa ce mi se murdaresc chilotii ii intorc invers si e ok.",
+    "Am bagat pula-n cacat.",
+    "Remus Baiatul The Citmitir.",
+    "Manele vechi 2006.",
+    "Balamale mai este ?.",
+    "Bornzotauri.",
+    "Iubit-o nu iti mai gaba bile de biliart in pizda.",
+    "Da frate stiu.",
+    "Pulamaru.",
+    "Te-am iubit fa proast-o.",
+    "Rupruti anale.",
+    "Menopauza.",
+    "Icree de taur.",
+    "Craiasa pulii mele.",
+    "O fut pe ma-ta in cur.",
+    "Materia fecala din uter.",
+    "Grupul meu de prieteni gay.",
+    "Shaorma de la second hand.",
+    "Zeama de cacat.",
+    "Cancer la coiul drept.",
+    "Urinez prin capu pulii fix in cap la gura lumii.",
+    "Ma pis pe prizele din casa.",
+    "Bahoi sare de pe pod.",
+    "Jan de la Craiova.",
+    "Richi Omu Fetus.",
+    "Lasa ca daca mergeam pe Autostrada Soarelui era mai rau.",
+    "Femei in pula goala.",
+    "Ciuma bubonica.",
+    "Bahoi.",
+    "Mania spiritelor din lagare.",
+    "Pestele pestele uite pestele.",
+    "Sprai de geamuri.",
+    "Mancare de caini.",
+    "Cutitu ala marilu.",
+    "Sclavi.",
+    "Romania.",
+    "Ruperea pulii de ciment.",
+    "Futimel Baiatu Catgaleata.",
+    "Bere Bucegi.",
+    "Zeama de varza.",
+    "Antonio Pulangustis.",
+    "Toate boalele si toate capu.",
+    "Cratima dinre ma si ta.",
+    "Camera de gazare.",
+    "Cereale de ponei.",
+    "Bag in cur numai bidoane.",
+    "Basarabia e pamant romanesc.",
+    "Un logan pe gpl.",
+    "Extraterestrii rasi la pula.",
+    "Oriez c laptie.",
+    "Obezitate.",
+    "Frana de mana de la tractor.",
+    "Vezi ca ti-a ramas un strop de sloboz pe buza.",
+    "Eu cred ca da.",
+    "Discopatie la noada curului.",
+    "Eu nu ma mai joc.",
+    "Aracet.",
+    "5000 de volti in sfarcuri.",
+    "Chiloti de tabla.",
+    "Da veniti la KURTOS KALAC cine mai poftesteeee.",
+    "Imi piaptan parul de la coaie.",
+    "Salam uscat.",
+    "Futut de femei virgine in cur.",
+    "Balamale mai este ?.",
+    "Trei in pula mea.",
+    "Dupa ce ma fut ma bas slobozi.",
+    "Leru-i ler.",
+    "Imi bag cacatu inapoi in cur.",
+    "Sicriu.",
+    "Dragnea.",
+    "Tacuri de biliard.",
+    "Mi-a ramas implantul in pizda la fosta-mea... de aia e asa mica.",
+    "Vulcani in forma de pizda care scuipa lichid menstrual.",
+    "Traian Basescu.",
+    "Varza dinaia imputita de butoi.",
+    "Gigi Parizer.",
+    "Intrarea in cur.",
+    "Futai la babe in Germania.",
+    "Beton.",
+    "Camcer.",
+    "Capu pulii.",
+    "Responsabilitatile mele ma fut in cur.",
+    "Detinuti de la Jilava care se fut in cur.",
+    "Rambasa Femeia Tractor.",
+    "Futerea de mama.",
+    "Pufarine.",
+    "Dora exploratoarea.",
+    "Marele zid de beton.",
+    "Crema loata de sub capul pulii.",
+    "Afte vaginale.",
+    "Sambapolonmota.",
+    "Semiautism pancreatic.",
+    "Ciclu la pula.",
+    "Futut maimute polare in buric.",
+    "Beau benzina si imi dau foc.",
+    "Erectii necontrolate.",
+    "Am pula cat bidonu de bucegi.",
+    "Eleva prostituata de clasa a 2-a.",
+    "Ma cac invers.",
+    "Bagami-a-as pizda-n pula ma-tii.",
+    "Nu mi-am mai bagat petarde in cur de la revelionul trecut.",
+    "69.",
+    "Futu-ti mortrii matii.",
+    "Ma-ta.",
+    "Insurubati-a-as pula in cur.",
+    "Raminel Copilu Ceremuie.",
+    "Alunite negre.",
+    "Lichid menstrual.",
+    "Sloboz pe chip.",
+    "Foametea mondiala.",
+    "Bigurel copilu vulture.",
+    "COVID-19.",
+    "Animale salbatice pe cale de disparitie.",
+    "Fulgere.",
+    "Sfarcul din buric.",
+    "Noul record mondial la cate pule incap in gura.",
+    "Sange de sclavi.",
+    "Duli Fetita Tomberon.",
+    "6 cai.",
+    "Bag pula-n ma-ta.",
+    "Harambe.",
+    "Salam prajit in unt.",
+    "Mama Omida.",
+    "Un benveu fa.",
+    "Menstruatie.",
+    "Ling beton.",
+    "Cur.",
+    "Fantome care fut noaptea femei gravide.",
+    "Strabunii mei.",
+    "Cat e chilu de salam la tine la tara ?.",
+    "Cartofi cruzi.",
+    "Vezi ca ti-a iesit un coi prin gaura de la blugi.",
+    "Oameni din neanderthal rasi in cur.",
+    "Pizda.",
+    "Coropijnite.",
+    "Mancare de spital.",
+    "Florin Salam.",
+    "Pula bleaga in suc propriu.",
+    "Cacatel.",
+    "Invadarea Poloniei.",
+    "Da taci odata.",
+    "Sunt atat de gay ca ejaculez pe cur.",
+    "Iubitule nu mai scoate pula la mine cand suntem pe strada.",
+    "Anvelope de tractor.",
+    "Da credeam ca are 18 ani ma jur.",
+    "Impotenta anala.",
+    "Femei la menopauza.",
+    "Dinti.",
+    "Alte animale salbatice pe cale de disparitie.",
+    "Preput.",
+    "Tornade  care ridica ponei.",
+    "Copii mutanti fututi in cur de maimute evadate de la gradina zoologica din Vaslui.",
+    "Laba trista.",
+    "Ia porumbu neamuleeee.",
+    "Fututul camilelor de catre egiptenii fara partener stabil de viata.",
+    "Capacu de la canal.",
+    "Nicolae Guta.",
+    "Musulmanii.",
+    "O grasa scunda dar iute de picior.",
+    "Sabia lui Stefan Viteazul.",
+    "Rumeg prezervativele pe care le-am mancat de dimineata.",
+    "Ghiu.",
+    "Stoluri de tigani.",
+    "Calugari shaolin stricati la burta.",
+    "Cancer la gaoaza.",
+    "Fumeji ?.",
+    "MAAAAAAAAAAAAAAAAIIII !!!!!!!!!!.",
+    "Sange stors din cosuri de pe pula.",
+    "Alocatie.",
+    "Oameni nevazatori cazuti in canal.",
+    "Da.",
+    "Nu.",
+    "Imi bag urzici in pizda.",
+    "Caderea pulii mele la tine in gura.",
+    "O cireada de femei la ciclu.",
+    "Fac gratar in cimitir si mananc lebede.",
+    "Mi se scurge ciclu din pula.",
+    "CRA CRA CRA.",
+    "Roata de rezerva de la tir.",
+    "Avram Iancur.",
+    "Adrian copilu de haur.",
+    "Pula.",
+    "Imi torn benzina pe pula si ii dau foc apoi te fut in cur.",
+    "Sapun piatra de baie stelute de mare namoluuu.",
+    "Coada de la matura.",
+    "Vcile de la munte.",
+    "O scot la timp, promit.",
+    "Trompi.",
+    "Copii cu cancer.",
+    "Diverse boli la scrotum.",
+    "Se recomanda citirea cu atentie a prospectului sau a informatiilor de pe ambalaj.",
+    "Clitorisul meu este mai mare ca pula voastra.",
+    "Daca vrei sa iti sugi pula trebuie sa fii contorsionist.",
+    "Mancare de cartofi in care imi introduc penisul.",
+    "Ma dau pe partie cu celofanul.",
+    "M-as fute pana uit cine sunt si dupa as da laba la poze cu mine.",
+    "Copii castrati cu proteze dentare lipite cu Corega.",
+    "Turta dulce cu aroma de felatie.",
+    "Sex pe-ntunecat.",
+    "Batalionul de tancuri rusesti cu pule in loc de tunuri care trag cu sperma.",
+    "Sobolanii din regie.",
+    "Varful penisului.",
+    "Gangbang intre macarale.",
+    "Nu mai vreau sa fut babe ca sa am ce manca.",
+    "O lama cu strabism.",
+    "Ma spal pe dinti cu sange de sclavi.",
+    "Ma fut cu boschetarii.",
+    "Orgie cu bebelusi.",
+    "Am facut sex in 3 cu iubita mea gravida.",
+    "Copii moldoveni imbatati cu mona.",
+    "Daca ma musca o albina de penis o sa fie mai mare decat al tau Iubitule.",
+    "Beau si fut grase dupa ce le imbat cu saniuta.",
+    "Lagărul de concentrare Auschwitz.",
+    "Daca ai pula mai mare ca mine asta nu inseamna ca trebuie sa fii tu barbatul in relatia nostra iubit-o.",
+    "Bat cu pula toba mare.",
+    "Imi bat copii si nevasta cu ceaunu de mamaliga.",
+    "Poti sa te duci la ma-ta sa te futa in cur.",
+    "Ursulet de plus cu sloboz langa codita.",
+    "Mananc pateu la plic cu lapte de cal.",
+    "Creionul cu care a desenat Hitler planul de invadare a Poloniei.",
+    "Vrei sa ai un copil cu noi ?.",
+    "Caini cu superputeri.",
+    "Oala cu sarmale.",
+    "I'll fucking do it again.",
+    "Vreau sa imi bage o femeie pula in cur.",
+    "Pantere cu tumoare la coaie.",
+    "Imi bat copilu cu loopata si pe ma-sa cu galeata.",
+    "Fantezii sexuale cu Romeo Fantastic.",
+    "Mi s-a blocat pula la ea in pizda si a trebuit sa sun la salvare.",
+    "Un cal cu strabism la coaie.",
+    "Specialistii au demontrat ca margarina este mai sanatoatsa daca este consumata cu tot cu cute.",
+    "Mami uite cum se fut cainii aia.",
+    "Sofer de ubar imbatat cu saniuta.",
+    "PeniSula pulii Creta.",
+    "Vezi ca puti a peste.",
+    "Mai stii cum tragea pestele la balta la Cacana.",
+    "Penisuri vizualizate la microscop.",
+    "Da de ce ma bati cu pula macar bate-ma cu pizda.",
+    "Sparg nuci cu pula.",
+    "Hitler.",
+    "Imi leg un cap de topor de pula si sparg lemne cu el.",
+    "Volan cu masini pe dreapta.",
+    "Introducerea obiectelor casnice in vagin.",
+    "Da sa sugi pula nu vrei.",
+    "Porno cu manguste.",
+    "Capra cu 3 cai.",
+    "Cozonac cu rahat de jder.",
+    "Apa plata cu cacat in ea.",
+    "Imi curge sange din penis.",
+    "Poze nud cu Oana Roman.",
+    "Orgie cu magari.",
+    "Porno cu babe.",
+    "Sa moara familia mea daca stiu.",
+    "Prezervative cu aroma de sosete.",
+    "Babe nebune cu arme letale.",
+    "Tentacle porn.",
+    "M-am batut aseara cu cetatenii de etnie nearga.",
+    "O cana de cafea indulcita cu slobozi.",
+    "Sa moara si pula vecinului.",
+    "Bat covoare cu pula.",
+    "Lubrifiant cu miros de ciorapi.",
+    "Sa moara familia mea daca te mint.",
+    "Ma dau cu sprai in cur.",
+    "Sperma de cal.",
+    "Castrez porcii cu lingura.",
+    "Pornografie infantila cu bebelusi.",
+    "Dau cu branza printre stele am doua puli paralele... in gura.",
+    "Pamant cu rame in el.",
+    "Banca Mondiala de Sperma.",
+    "Imi programez prietena sa imi suga pula prin comenzi vocale.",
+    "As dori sa servesc niste pula la tava si cu sos de pizda ma-tii.",
+    "Cred ca se poate dar nu stiu sigur daca sa se stiu ca cred ca da.",
+    "Nu mai dati cu pulanele in gaste.",
+    "Vezi ca iti pute avortu a hoit.",
+    "Mananc salam cu lingurita si sug pula cu gurita.",
+    "Ma fut cu mama ta in timp ce doarme apoi ii bag piciorul in cur pana se caca pe gura.",
+    "Imi pute buricu a cacat."
+  ],
+  "pack": {
+    "id": "XH8AX",
+    "name": "Handicap"
+  },
+  "quantity": {
+    "black": 107,
+    "white": 330,
+    "total": 437
+  },
+  "dateStoredMs": 1588179532116
+}

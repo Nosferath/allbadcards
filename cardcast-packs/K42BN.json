@@ -1,0 +1,232 @@
+{
+  "black": [
+    {
+      "content": "If you don't want _, keep your distance from _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who cares about _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ (is/are) worse than _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The jury has found _ guilty of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = _",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "All teenage girls adore _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Welcome to the jungle. We've got _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ marks the downfall of humanity.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They will not force us! They will stop _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "an excellent movie is not complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I used to be _ like you, but then I took an arrow in the knee.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My faith in humanity was restored by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I shall vanquish _, once and for all!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ Simulator: Game of the Year Edition",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The government should impose a ban on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I would have sex with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have lost hours of sleep over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I lost my virginity, all thanks to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can thank _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I think we should have a national holiday to celebrate _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ cannot exist without _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "In fact, _ IS in the bible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing is worse than _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is literally _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There is nothing wrong with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yes, porn of _ exists.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Miley Cyrus.",
+    "9/11.",
+    "Abraham Lincoln.",
+    "The Nintendo 64™.",
+    "The United States.",
+    "My Little Pony: Friendship Is Magic™.",
+    "Being a total badass.",
+    "Science.",
+    "Oprah Winfrey.",
+    "Adolf Hitler.",
+    "Snoop Dogg.",
+    "ALL CAPS SCREAMING.",
+    "Wearing yoga pants and drinking Starbucks™ Coffee.",
+    "White people.",
+    "Catholic priests.",
+    "Ryan Gosling.",
+    "The United Kingdom.",
+    "The one they call Santa Claus.",
+    "The Bible.",
+    "Psychoactive drugs.",
+    "Joseph Stalin.",
+    "Me.",
+    "Concentration camps.",
+    "My childhood memories.",
+    "Crack cocaine.",
+    "Jesus Christ.",
+    "Black people.",
+    "The Jews.",
+    "Ronald McDonald™.",
+    "Titties.",
+    "Taco Bell™.",
+    "Prostitutes.",
+    "Your spouse.",
+    "Africa.",
+    "The Terminator.",
+    "The United States of America.",
+    "Shag carpets.",
+    "Booze.",
+    "Escaping from the police.",
+    "The reptillian aliens who rule the world in secret.",
+    "The Queen.",
+    "Using dildos as swords.",
+    "Walter White.",
+    "Batman.",
+    "Having sex.",
+    "Dog feces.",
+    "The Republican Party.",
+    "World War 2.",
+    "The Democratic Party.",
+    "White trash.",
+    "Pimping.",
+    "Cool sunglasses.",
+    "Absolutely no brain power whatsoever.",
+    "Bombing a school.",
+    "Sexually transmitted diseases.",
+    "Furry porn.",
+    "Pretending to care about starving children.",
+    "Satan, almighty Lord of Hell.",
+    "The internet.",
+    "Kanye West.",
+    "God.",
+    "The Illuminati.",
+    "Shrek.",
+    "The Arabs.",
+    "George W. Bush.",
+    "Eating Kentucky Fried Chicken™.",
+    "Life support.",
+    "Corrupt politicians.",
+    "Chairman Mao.",
+    "Aliens.",
+    "Iraq.",
+    "A nuclear bomb.",
+    "A mass murderer.",
+    "Doctor Who™.",
+    "Respecting your elders.",
+    "Ebola.",
+    "The asians.",
+    "Tentacle rape.",
+    "Barack Obama.",
+    "Hell.",
+    "Heroin addicts.",
+    "A horny dragon.",
+    "Bullcrap.",
+    "Logical thinking.",
+    "Being fabulous.",
+    "Nicholas Cage."
+  ],
+  "pack": {
+    "id": "K42BN",
+    "name": "Not Politically Correct"
+  },
+  "quantity": {
+    "black": 26,
+    "white": 86,
+    "total": 112
+  },
+  "dateStoredMs": 1589576887735
+}

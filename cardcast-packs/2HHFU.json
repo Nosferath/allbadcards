@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "Do you ever find it surprising _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wade was Salty at Pat because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"So Jp do you want to hear _?\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Life is Good when Gar isn't _ , and when Pat and Wade aren't _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"I know your a squirrel but those _ aren't for sale.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I ain't nobody's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jp always seems to be the one that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sometimes Mother nature gives the _ but a lot of the time the boys will deliver _ themselves.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Hello, I am the _ GarukuBluemoon.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "PATRCK! Is the only one that _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bork Bork Bork.",
+    "Nuts.",
+    "Garuku Bluemoon.",
+    "The Story of the Man that Drove the Orange Jalopy.",
+    "Lorminion777.",
+    "Riggity.",
+    "Wade.",
+    "PATRCK!.",
+    "Gar and Pat naming a box Grandma.",
+    "Gar tryharding everytime he is the killer.",
+    "Jp being the ghost of the first lady.",
+    "Pat, Gar, and Jp's addiction to Pokemon Go.",
+    "That one girl on streams that blows stuff up.",
+    "JP!.",
+    "Flash the camera.",
+    "Cordially Ted.",
+    "The number of ways wade can say EVERYONE'S name.",
+    "Daddy Trappy.",
+    "Kills wade every single time and then laughs so hard he cries about it.",
+    "Pat curing people with explosives.",
+    "CARma.",
+    "Rip Vlady.",
+    "That english muffin item in Maize.",
+    "Gar being late for the presidential meeting.",
+    "Gar and Patrck's dates that always seem to end in death.",
+    "Patrck Static.",
+    "Jpw03.",
+    "The twenty minute argument over whether or not a manticore is a dinosaur.",
+    "Rip Fluffy the Manticore 2017.",
+    "Jp claiming to be innocent... But then dancing like a stripper... showing his chest like a stripper..."
+  ],
+  "pack": {
+    "id": "2HHFU",
+    "name": "Dem Salty Boys"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 30,
+    "total": 40
+  },
+  "dateStoredMs": 1588740055640
+}

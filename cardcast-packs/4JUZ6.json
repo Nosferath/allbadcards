@@ -1,0 +1,214 @@
+{
+  "black": [
+    {
+      "content": "I thought _ was one person. It's a whole group of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ are the Loona stans of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The newest Super Junior scandal: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "To welcome the new year, Dispatch have revealed a new dating scandal: _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Stan _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loona’s Japanese debut is just around the corner. To build up hype, BBC have announced a collaboration with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There goes Leeteuk, _ again!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your girlfriend/boyfriend should never be your first priority. Your first priority should always be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Loona's new comeback single sounds like a combination of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Breaking News: _ member has been cancelled for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_’s concept for their new album is _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Several Kpop agencies have teamed up and announced a special unit debut to entertain fans during quarantine. The members include Seulgi, Young K, Taehyung, Miya, and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sorry, Olivia, but I can't love myself today. I'm too busy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another day, another _ before a Blackpink comeback.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where are Vivi's lines? BBC gave them to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NCT’s new subunit: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bitches be on stan Twitter instead of _. Sis you worried about the wrong _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Sexy, free, and single I’m _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "The DONUTS lawsuit.",
+    "Cultural appropriation.",
+    "F(x).",
+    "Ending up on kpop struggle tweets.",
+    "Possession of a fire arm.",
+    "Yyxy's missing repackage.",
+    "Ballads that are nothing more than uninteresting filler.",
+    "Amber.",
+    "Another boy group with a hip hop concept.",
+    "Amber ruining another song.",
+    "JYP’s plastic pants.",
+    "Kaachi.",
+    "Fancams that aren’t actually fancams.",
+    "Yeojin.",
+    "Twice.",
+    "The Amber police.",
+    "The reason every idol has the same ugly white dog.",
+    "Oli London.",
+    "Day6.",
+    "Sispatch.",
+    "Super Junior.",
+    "Siwon's dog.",
+    "JYP's inability to make good songs for himself.",
+    "Nillili Mambo.",
+    "Fancams.",
+    "DESERVE.",
+    "Hyunjin.",
+    "Soyeon.",
+    "Girl Front.",
+    "Gowon.",
+    "Girls Generation.",
+    "SuperM.",
+    "Noise music.",
+    "Jojotwt.",
+    "Red Velvet.",
+    "Loonatheshark.",
+    "Leeteuk.",
+    "Loona’s gun money.",
+    "Shaking that brass.",
+    "Young K.",
+    "Trying hard to end up on kpop struggle tweets but never quite making it.",
+    "Tax evasion.",
+    "Amber getting a solo debut before any other f(x) member.",
+    "Haseul.",
+    "Lisa.",
+    "Loona’s lore.",
+    "Orbits.",
+    "GWSN.",
+    "Spamming fancams.",
+    "Sweet Chaos.",
+    "Hwasa.",
+    "Jinsoul.",
+    "Odd Eye Circle.",
+    "The Beto fancam with 50K views.",
+    "The lesbian cop from the Disney movie that looks like Amber.",
+    "Groups that disband too early.",
+    "Convince everyone to stan Loona.",
+    "Momo and Heechul's relationship.",
+    "Theories that are impossible to understand but everyone pretends to get anyway.",
+    "Women Against Heechul.",
+    "Raps that don’t fit in with the rest of the song.",
+    "Ethnic hip.",
+    "Day6 goth concept.",
+    "Heechul.",
+    "2nd gen groups.",
+    "Plastic surgery.",
+    "Chuu.",
+    "Pots and pans.",
+    "Miya.",
+    "The hypothetical Super Junior visual kei unit.",
+    "An Itzy song.",
+    "Gureum.",
+    "Nayeon.",
+    "Misogynystic comments.",
+    "Yves.",
+    "DMing girls on Instagram.",
+    "GWSN releasing Night Aviation 2.0.",
+    "Choerry.",
+    "Shimkoong.",
+    "Vivi.",
+    "Spending all my money on Loona merch.",
+    "Edgy weeaboos who reply to fancams with the same overused memes.",
+    "Stan twitter.",
+    "Goth Day6.",
+    "LOONA.",
+    "Racial insensitivity.",
+    "Getting a first winon a music show.",
+    "The Möbius strip.",
+    "JoJo stans.",
+    "Nine Muses.",
+    "Blackpink.",
+    "JYP's creepy whisper.",
+    "BTS antis.",
+    "Momo.",
+    "Kangin’s third DUI.",
+    "Kim Lip.",
+    "Girl crush.",
+    "Drug scandals.",
+    "Olivia Hye.",
+    "Irene.",
+    "Anime.",
+    "Mina.",
+    "The Loona handkerchief.",
+    "Siwon.",
+    "Heejin.",
+    "Fat pussy mileage.",
+    "These bitches.",
+    "Homophobia."
+  ],
+  "pack": {
+    "id": "4juz6",
+    "name": "loon? looney toons?"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 108,
+    "total": 126
+  },
+  "dateStoredMs": 1588737957900
+}

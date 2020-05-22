@@ -1,0 +1,112 @@
+{
+  "black": [
+    {
+      "content": "The New Pro Hero,  _'s Quirk is called _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Deku, you _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Describe Boku No Hero Academia with 2 words. _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Ok class 1-A, today we are going to be learning about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Todoroki's quirk is:     Half _, Half _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My Favorite Ship is _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Who is the spy at UA? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Toga's new crush is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm sorry, but I don't think _ is an appropriate Hero name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who does Mr. Aizawa hate the most out of the class? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Uraraka's fetish? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When All Might is not using his quirk, he look like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kirishima's quirk is also good for _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Deku.",
+    "Deku.",
+    "Bakugou's explosion.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "The Ultimate Hero.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Villain.",
+    "Deku.",
+    "Deku.",
+    "Deadku.",
+    "______.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Deku.",
+    "Uraraka.",
+    "Deku."
+  ],
+  "pack": {
+    "id": "2AVXU",
+    "name": "BNHA Cards"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 31,
+    "total": 44
+  },
+  "dateStoredMs": 1588497040773
+}

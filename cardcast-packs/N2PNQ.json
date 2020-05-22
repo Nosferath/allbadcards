@@ -1,0 +1,58 @@
+{
+  "black": [
+    {
+      "content": "I'm a _ you dull creature!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're still _ right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hail _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your ancestors called it magic, but you call it  _ . I come from a land where they are one and the same.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have an army! We have a _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Til the end of _ , pal.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Avocado.",
+    "Bible study.",
+    "Iron man's suit.",
+    "Huricane tortilla.",
+    "Thor's hammer.",
+    "69 cents.",
+    "THAT'S MY OPINION!.",
+    "Miss keisha.",
+    "Chicken strips.",
+    "What are those.",
+    "My croissant.",
+    "Chili's."
+  ],
+  "pack": {
+    "id": "N2PNQ",
+    "name": "marvel but it's also vines and memes"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 12,
+    "total": 18
+  },
+  "dateStoredMs": 1588555168428
+}

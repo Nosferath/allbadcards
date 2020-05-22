@@ -1,0 +1,22 @@
+{
+  "black": [
+    {
+      "content": "Németh Szilárd  vs. _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Áder JÁnos bajsza."
+  ],
+  "pack": {
+    "id": "7QW69",
+    "name": "Valami"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 1,
+    "total": 2
+  },
+  "dateStoredMs": 1589376778925
+}

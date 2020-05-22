@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "Netflix and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and chill.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "2HGAV",
+    "name": "Netflix and chill"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1588379719429
+}

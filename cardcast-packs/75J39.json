@@ -1,0 +1,54 @@
+{
+  "black": [
+    {
+      "content": "It's okay to shoot them, Morty! They're just _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What made Water T finally start to care?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm gonna need you to shove _ waaaaay up inside your butthole, Morty.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're like Hitler, but even Hitler cared about _ or something!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. That's my new word for 'shit' because of today's events.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Getting schwifty.",
+    "Taking off your pants and your panties and taking a shit on the floor.",
+    "Masturbating to an extra-curvy piece of driftwood.",
+    "A stupid-ass fart-saving carpet store motherfucker.",
+    "Abradolf Lincler.",
+    "Really rapey pirates.",
+    "Ball Fondlers.",
+    "Moon Men.",
+    "Filling a whole room up with real fake doors.",
+    "Space AIDS.",
+    "Ants-In-My-Eyes Johnson from Ants-In-My-Eyes Johnson's Electronics.",
+    "Getting riggedy riggedy wrecked, son!.",
+    "Mathematically proving that you're a piece of shit."
+  ],
+  "pack": {
+    "id": "75j39",
+    "name": "Rick and Morty Pack"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 13,
+    "total": 18
+  },
+  "dateStoredMs": 1588433812795
+}

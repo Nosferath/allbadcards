@@ -1,0 +1,56 @@
+{
+  "black": [
+    {
+      "content": "As much as I tried to forget that terrible night, I've been haunted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Curiositie Shoppe is having a sale on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I see your future. You will encounter _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , the cultists scream into the night. _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Citizens of Arkham are fleeing the city because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Human sacrifice.",
+    "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
+    "Dancing naked under the full moon.",
+    "Rats in the walls.",
+    "An obscene statue.",
+    "Glowing mushrooms from another dimension.",
+    "The Necronomicon.",
+    "Unpronounceable evil.",
+    "Cthulhu's slimy tentacles slowly creeping up your leg.",
+    "Enough firepower to kill an Elder God.",
+    "The milk of Shub-Niggurath.",
+    "The curse of Azathoth.",
+    "A battered old box calling you to open it.",
+    "The curse of shitty die rolls.",
+    "Demonic mind rape."
+  ],
+  "pack": {
+    "id": "YXKBU",
+    "name": "Cthulhu Cards"
+  },
+  "quantity": {
+    "black": 5,
+    "white": 15,
+    "total": 20
+  },
+  "dateStoredMs": 1589424362418
+}

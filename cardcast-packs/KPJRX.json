@@ -1,0 +1,46 @@
+{
+  "black": [
+    {
+      "content": "Rekt_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Illuminati_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm Illuminati _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shrek is _ Shrek is _",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Fack you.",
+    "Cries.",
+    "Nuuu.",
+    "NO.",
+    "X-files theme.",
+    "MLG You got rekt ahaha.",
+    "Noo.",
+    "I'm going to sherk you.",
+    "Yolo MLG.",
+    "Love Life."
+  ],
+  "pack": {
+    "id": "KPJRX",
+    "name": "MLG Illuminati Shrek Questions"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 10,
+    "total": 14
+  },
+  "dateStoredMs": 1588217131476
+}

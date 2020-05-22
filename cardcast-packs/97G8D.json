@@ -1,0 +1,92 @@
+{
+  "black": [
+    {
+      "content": "The new Minecraft series that's coming to multiple channels is called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new, most played, best mod in Minecraft is the _ mod.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This season's UHC will consists of _ teams of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "1 like = 1 dead _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How to Minecraft Season 3 will consists of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ destroyed Vik's house in Crazy Craft.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Pack or The _? What will Vik choose?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The theme of How to Minecraft season 3 will be _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "3.",
+    "Pax East.",
+    "10.",
+    "BajanCanadian.",
+    "RealTBNRKenny.",
+    "Ali-a.",
+    "PeteZahHutt.",
+    "How to Minecraft.",
+    "8.",
+    "JeromeASF.",
+    "ChocotheChocobo.",
+    "Vikklan.",
+    "6.",
+    "Poofless.",
+    "9.",
+    "1.",
+    "Nade.",
+    "Pete's girlfriend Kara.",
+    "PrestonPlayz.",
+    "Woofless.",
+    "Branara.",
+    "The Pack.",
+    "Merome.",
+    "7.",
+    "Lachlan.",
+    "2.",
+    "4.",
+    "Creeper.",
+    "Vikkstar123.",
+    "NoochM.",
+    "Jayg3r.",
+    "Battle Siege.",
+    "Battle Dome.",
+    "Crazy Craft.",
+    "5.",
+    "123."
+  ],
+  "pack": {
+    "id": "97G8D",
+    "name": "Minecraft Youtuber Pack"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 36,
+    "total": 44
+  },
+  "dateStoredMs": 1588356512605
+}

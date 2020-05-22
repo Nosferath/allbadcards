@@ -1,0 +1,50 @@
+{
+  "black": [
+    {
+      "content": "Damn it, Jim, I'm a _, not a _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\tResistance is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tIntergalactic diplomacy only goes so far. Sometimes you ahve to use _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\tIn the next movie, for a change, Kirk will have sex with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "\tThe way Commander Riker gets into chairs.",
+    "\tLens flare.",
+    "\tEmergency saucer separation.",
+    "\tSynethehol.",
+    "\tRealizing that ever episode of Star Trek: TNG is just a bunch of committee meetings.",
+    "\tThe evil you from an alternate universe.",
+    "\tSexy green aliens.",
+    "\tPon farr.",
+    "Altering the timeline.",
+    "\t\"Make it so\".",
+    "\tAliens that all look like people with different kinds of bumps on their heads.",
+    "\tSpock's brain.",
+    "\tPicard's barber.",
+    "\tPatrick Stewart's Twitter feed."
+  ],
+  "pack": {
+    "id": "IMZWF",
+    "name": "Nerds Against Humanity / Star Trek"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 14,
+    "total": 18
+  },
+  "dateStoredMs": 1588808020684
+}

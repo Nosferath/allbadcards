@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Today's sermon was about _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Call the news station. I just found _ in the church basement",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The 11th commandment states that _ is forbidden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God is _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nothing was more embarrassing than when I had to repent for incidents involving _ and _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Heaven might have _ but Hell has _",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "And God said \"Let there be _!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Raptor Jesus.",
+    "Biblical slash fic.",
+    "Leaving pamphlets for The Curch of the Flying Spaghetti Monster in the Bibles.",
+    "Using rosaries for erotic asphyxiation.",
+    "Misogyny, murder and human trafficking.",
+    "Getting drunk on communion wine."
+  ],
+  "pack": {
+    "id": "F2DE8",
+    "name": "Cards Against Religion"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 6,
+    "total": 13
+  },
+  "dateStoredMs": 1589080887063
+}

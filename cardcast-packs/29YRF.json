@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "_ is the worst role.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_  is a fate worse than death.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Player was executed by the Jailor! Their role was _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ has revealed themselves as Mayor!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I die tonight, it's because of _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is just another reason to lynch the Town Protectives.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Yay, I lose!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "An Amnesiac has remembered that they were _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Spamming the chat.",
+    "The Jailor.",
+    "A Mayor who reveals on Day 1.",
+    "The Jester.",
+    "The Town.",
+    "The Arsonist.",
+    "The Bodyguard.",
+    "The Mafia.",
+    "The Vampire.",
+    "The Mayor.",
+    "The Executioner.",
+    "Gamethrowers.",
+    "The Witch.",
+    "Cheaters.",
+    "The Survivor.",
+    "The Amnesiac.",
+    "A Town Investigative who doesn't keep a will.",
+    "The Werewolf.",
+    "The Serial Killer.",
+    "About to win as Town but being bit by a Vampire."
+  ],
+  "pack": {
+    "id": "29YRF",
+    "name": "Cards Against Salem: ToS Themed CAH Deck"
+  },
+  "quantity": {
+    "black": 8,
+    "white": 20,
+    "total": 28
+  },
+  "dateStoredMs": 1589565038911
+}

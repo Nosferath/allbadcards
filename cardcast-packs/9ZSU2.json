@@ -1,0 +1,139 @@
+{
+  "black": [
+    {
+      "content": "The worst part of the covid epidemic is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think I've got covid, I'm _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is not a protection against COVID-19.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Covid got me fucked up, I'm masturbating to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst part of the covid lockdown? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The President says the country will open again after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe they cancelled _ due to covid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The REAL source of COVID-19 is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The CDC recommends _ to avoid COVID-19.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm going to miss _ after the covid lockdown is over.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_, we're all in this together.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My Facebook recommends _ to prevent covid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ensure no one comes within 6 feet of you by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the worst symptom of COVID-19? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I get covid, I'll just _ to get better.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I was arrested for _ during the covid lockdown.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you can't get a facemask, you can use _ instead.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I hope everyone who's ever _ dies of covid.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Only leaving your home to get more booze.",
+    "A slightly used facemask.",
+    "A single roll of toilet paper for $800 on eBay.",
+    "Being trapped inside your home for the rest of your life.",
+    "Roleplaying as doctor and sexy covid patient.",
+    "The rise of domestic abuse reports as a result of covid.",
+    "Trying to dodge clouds of viruses in the grocery store.",
+    "The smell of a 92 year old woman dying of covid alone.",
+    "Coughing on your enemies to infect them with covid.",
+    "Flu-like symptoms.",
+    "A collapsing economy due to a stay-at-home order.",
+    "Working from home in your underwear.",
+    "Binging Netflix to save the human race.",
+    "Calling your pets \"coworkers\" and reporting them to HR.",
+    "Pretending that covid is the reason you're online all day.",
+    "An Easter egg hunt done entirely with drones.",
+    "Sneezing and infecting everyone in the room with covid.",
+    "Flu-like symptoms that are actually just a flu.",
+    "Social distancing.",
+    "Fear that you will never be able to go outside again.",
+    "Livestreaming with your pals.",
+    "Extroverts gazing wistfully out the windows.",
+    "A list of top 10 covid facts.",
+    "Getting pizza delivered for the third time this week.",
+    "Wild, out of control covid parties.",
+    "Trump promising to open the country for Easter.",
+    "30,000 bottles of hand sanitizer.",
+    "Blaming Covid on the Chinese.",
+    "Dying slowly of covid.",
+    "Faking covid symptoms to get out of seeing your family.",
+    "Asking your doctor if covid can be transmitted through sex.",
+    "My personal hoard of toilet paper.",
+    "Maintaining a six-foot distance."
+  ],
+  "pack": {
+    "id": "9zsu2",
+    "name": "COVID-19"
+  },
+  "quantity": {
+    "black": 18,
+    "white": 33,
+    "total": 51
+  },
+  "dateStoredMs": 1588731672753
+}

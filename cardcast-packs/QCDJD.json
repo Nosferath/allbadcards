@@ -1,0 +1,78 @@
+{
+  "black": [
+    {
+      "content": "Get a hold of yourself. You're a _ , aren't you?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All _ are not created equal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did Mineta get into UA? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ SMASH!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I just can't stop shipping _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Are you _'s secret love child?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deku, you _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because I am _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bakugou Katsuki.",
+    "Aizawa-sensei.",
+    "Kirishima Eijiro.",
+    "Die! Die! Die!.",
+    "Izuku Midoriya.",
+    "All Might.",
+    "The Hand Crusher.",
+    "Kaminari Denki.",
+    "Todoroki Shoto.",
+    "DEEEEEKKKUUUUUU.",
+    "Quirks.",
+    "\"I am here!\".",
+    "Tsu's tongue slap.",
+    "Deku's muttering.",
+    "Five pee pee man.",
+    "DETROIT SMASH.",
+    "\"Oh my... Oh my... GOOOOOODDDNEEESSS!\"."
+  ],
+  "pack": {
+    "id": "QCDJD",
+    "name": "Boku No Hero Academia"
+  },
+  "quantity": {
+    "black": 9,
+    "white": 17,
+    "total": 26
+  },
+  "dateStoredMs": 1588497040443
+}

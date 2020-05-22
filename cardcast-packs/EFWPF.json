@@ -1,0 +1,84 @@
+{
+  "black": [
+    {
+      "content": "I'm the Backpack loaded up with things and _ too. Anything that you might need, I've got inside for you!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Now, don't you worry _ , we will soon have you out of _ safely.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "To help Dora _ , you gotta say subida. Can you say subida?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you are _ , you must wear your boots.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You put _ on now, my boy and you'll be fine in no time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's that, Duck? Are you afraid of _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the world, there are two kinds of _. _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "You’re a really useful _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Late again? We may be friends, but I thought you could _ , Thomas. It's time we had another _. I reckon I could beat you now.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Percy Percy green and small he’s no use to us at all. Round the yard he’ll puff and blow but on the hills he’s oh so _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dora's Backpack.",
+    "Dora the Explorer.",
+    "The Fat Conductor.",
+    "Fireman Sam.",
+    "Norman Price.",
+    "George.",
+    "Pontypandy.",
+    "Station Officer Steele.",
+    "Swiper.",
+    "Peppa Pig.",
+    "Daddy Pig.",
+    "Mummy Pig.",
+    "Bacon.",
+    "Edward the Blue Engine.",
+    "Diego the Explorer.",
+    "Boots.",
+    "Thomas the Tank Engine.",
+    "Henry the Green Engine."
+  ],
+  "pack": {
+    "id": "Efwpf",
+    "name": "Kids TV Shows"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 18,
+    "total": 28
+  },
+  "dateStoredMs": 1588534550937
+}

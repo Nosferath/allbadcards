@@ -1,0 +1,115 @@
+{
+  "black": [
+    {
+      "content": "Junk dump! _ , _ , _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Throw out a junk card, worst card wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most fluffy wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card. I am a strong independent Card czar who don't need no black card to tell me what to choose! _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most sad wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most painful wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most interesting wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most dirty wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card. I am a strong independent Card czar who don't need no black card to tell me what to choose! _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most tastey wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, best card wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most cute wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most clean wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most boring wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most funny wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most useless wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Junk dump! _ , _ , _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Throw out a junk card, most sticky wins: _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, or don't, I don't tell you what to do. _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throw out a junk card, most gentle wins: _ .",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "FUDHQ",
+    "name": "Tossers"
+  },
+  "quantity": {
+    "black": 20,
+    "white": 0,
+    "total": 20
+  },
+  "dateStoredMs": 1588727777482
+}

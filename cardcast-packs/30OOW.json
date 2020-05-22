@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "The only thing worse than vegan pizza is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When needed, pizza can be used to replace _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing better than pizza is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of olives they put _ on my pizza.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My friend and I ate a Pizza with _ , it was like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "My favorite pizza topping is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pizza is surpsingly good with _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cold pizza.",
+    "Opening the box and finding the Pizza is gone.",
+    "A cheesy triangle full of mushrooms.",
+    "Mushrooms on top.",
+    "Eating the last known Bison, on a pizza.",
+    "Olives on top.",
+    "Oregano on top.",
+    "Extra cheese.",
+    "Not tipping the Pizza Delivery Guy.",
+    "A boxed Pizza.",
+    "On a pizza.",
+    "Burning your mouth eating super hot pizza.",
+    "Bacon on top.",
+    "Vegan pizza.",
+    "A pizza.",
+    "Constantly craving pizza.",
+    "Pineapple on top.",
+    "Anchovies on top.",
+    "More pizza.",
+    "Black olives on top.",
+    "Radioactive pizza seasoning packet.",
+    "Ham on top.",
+    "Leftover pizza.",
+    "Tomatoes on top.",
+    "The biggest, cheesiest pizza."
+  ],
+  "pack": {
+    "id": "30oow",
+    "name": "Pizza!"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 25,
+    "total": 32
+  },
+  "dateStoredMs": 1589180438672
+}

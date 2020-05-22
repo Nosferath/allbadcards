@@ -1,0 +1,636 @@
+{
+  "black": [
+    {
+      "content": "This _ tastes like _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. That's what she said!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. Everytime.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it _ or _? You be the judge.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The other day I got lost and ended up at _ with _. It was actually kinda hot....",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm just saying, _ should be legal!! THAT would save America.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can't put _ into _  without consideration and skill.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Hey, do you want to _?!!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are we doing today mom? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We got it. We finally got _. I don't know if I should laugh or cry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick is a good guy. He starts every day by playing  with _ and ends it with _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "This country was founded on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I don't always _ , but when I do, it's _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm Mickey Mouse and this is _!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ needed a hand with _ so I'll be back later.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Grandpa bought me _ for Christmas. Should I be concerned?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah I like _ okay? I can't believe you're bringing this up again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A _ today is better than a _ tomorrow.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gotta delete my browser history so my partener doesn't discover my obsession with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I always _ without bringing my _. I think that's the problem.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_. It's not funny, it's an actual addiction.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bored? You should try _, it's the best way to pass the time!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My new book is called _ , _ and _ :Maybe it's you're fault you're divorced.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "This is your fault. You know you didn't have to _ all over _ right?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What ruined your childhood? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was waiting in the bushes for us, he ripped off my dad's face!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lifting weights at the gym would be a lot easier without _ happening all the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Well that just doesn't sound safe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sure I should stop considering  _ while I'm _ but I'm no quitter.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "No way would I let Donald Trump _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd rather _ than sit through a Kanye West concert.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You're only a real man if you love _ , _ and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "I went to jail for _. Worth it.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And then she said _ and I was like........maybe.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The bibles overall message is just to love _ and not to hate _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ *Gasps* WHO DID THIS??!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The biggest hit on Broadway is _ : The Musical.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I really think you should  _  because you keep _ and that's not really helping anyone.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When you think about it, _ isn't really that bad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'm thinking about  _. Your opinion?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What have you been doing since high school? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We need to talk to you Bobby. We are getting really concerned about your obsession with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What I really wanted for Christmas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know you are but what am I?! _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ was the cutest thing I've ever seen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is my plan to get her to go all the way.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Those are my _! DON'T TOUCH THEM!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Throwaway card time! Make a Haiku! _ _ _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Ryan really needs to quit _ all the time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How did you manage fitting _ into _? That's really impressive.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_? No, that is the last thing we need here.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nick brought me _ and asked me to _ with it. Gross.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is the only thing keeping me from accomplishing my dreams.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You wanna know my secret? I really enjoy _. It gives my life meaning.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God Bobby stop it with the _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is that smell? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I got _ for my mom and _ for my dad. Needless to say, this Christmas I WILL be the new favorite kid.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Bobby doesn't know I put _ in his _. What he doesn't know won't hurt him.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What's that sound? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My answer to said dillema is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was just the scariest thing you've ever encountered?_.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Action! Adventure! Suspense! _ and _. COMING SOON to a theater near you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He _. I think it's really over Sheila!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_. This should be a fun weekend.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh Nick, you know what _ does to me!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No romantic dinner would be complete without _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I spend most of my time _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bobby can't hide his addiction to _ anymore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you hear?! _ escaped from the zoo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are your plans for this weekend? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Feminist women just believe in _. I don't know why that's so hard to accept.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What are little girls made of? _ , _ and everything _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is what I'm wondering about.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Airforce if you don't like _ and take _ like a man then GTFO.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I guess I'm just trying to say _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I was your personal trainer, our first step would be _. And then I would _ you.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What broke the pool table? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where have you been all day? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My favorite passtime involves _ and _. And you thought you had problems.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "If you really want the corner office you're gonna have to do _ for me.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Did you just put _ in my _???? You fucking freak!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What would you be willing to do to have sex with the card czar? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Well she either has a bad speech impediment or she's just retarded but I still gonna try _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So if I bring _ and you focus on _ I think this will be a fucking awesome surprise party!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Remember that time I _? That was fuckin' sweet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah I did _ and I'll do it again everyday Britney because you're a whore.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My family fucking hates me. Just because I _!!! Bitches.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What the fuck are you even talking about? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This is why I don't mess with _ anymore. Shit gets real.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ just killed my boner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What did you say? You do what? _. Oh. So you're a pedophile?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "WHAT?! The Cloverfield monster came back?? Well fuck, you know you can only kill it with _ right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "God damnit I can't stand _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Just because I like _  that's supposed to make me an asshole?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A lot of people don't know that Adolf Hitler was secretly _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Running over obese children at the park.",
+    "John Travolta.",
+    "Bloodstained bedding.",
+    "Autism.",
+    "President George W. Bush.",
+    "Rubbing my hand further and further up her thigh.",
+    "Ate three babies and one house pet for free wi-fi.",
+    "Giving immigrants hope in order to gain their trust.",
+    "Hot dogs, duh.",
+    "Dead babies.",
+    "Dead babies or babies that are dead.",
+    "Hot pocket.",
+    "AK-47's and hand grenades.",
+    "Impregnating my mom and letting my dad think it's his.",
+    "Pushing you down the stairs.",
+    "My dumbass dad.",
+    "Murdering for fun not for money.",
+    "White people.",
+    "MAH DDDIIICCCKKKK!!!!.",
+    "The Columbine Shooting.",
+    "My unusually hot and well developed little sister.",
+    "Lost my virginity to a barnyard animal.",
+    "Octo-Mom's worn out holes.",
+    "Bill Cosby.",
+    "Driving my car into the old folks home.",
+    "Birthing Satan.",
+    "What you're wearing right now, only covered in my love juice.",
+    "Suicidally drunk driving a schoolbus full of snot nosed brats.",
+    "I swear to god Sharon I'll slap you right now.",
+    "Stripping on the weekends.",
+    "ALL THESE TEARS!!!!!!.",
+    "Put the Disney \"Frozen\" themed sheets on the bed to make my \"younger girlfriends\" feel comfortable.",
+    "Stepping in front of the wheelchair bound to use the handicapped stall because I'm superior.",
+    "My mom the fruitbat.",
+    "Crying when my dad chopped up onions. Onions was a good dog.",
+    "Encouraging a relationship between my teenaged daughter and her teacher.",
+    "Eating a boxfull of kittens because I can't afford good chinese food.",
+    "Montuffalos.",
+    "Beef Curtains.",
+    "Hiding from my dad in order to save my life.",
+    "Child molestation.",
+    "Alabama hot pocket.",
+    "Leaving my neice at the park closest to the convicted child molesters.",
+    "Hilary Duff.",
+    "Fingering her until she cums because I'm a nice guy.",
+    "Cutting my own eyes out because you are SO ugly.",
+    "Polar bears wearing pink eyeshadow and red lipstick.",
+    "My great grandma's mouth.",
+    "A child with no legs.",
+    "A great KKK rally.",
+    "Blood? What blood? Oh....That. THAT blood. Yeah...I just really like to kill things.",
+    "Moth: Ugly butterfly that likes to eat clothes.",
+    "The entire Mormon religion.",
+    "A turtle in a turtleneck.",
+    "Legal abortions but illegal rapes.",
+    "Nuclear warhead sized pickles.",
+    "Christians.",
+    "Mustache riding my dad.",
+    "Replaced my grandma's ensure with another liduidy white substance.",
+    "Eat a bucket of dicks.",
+    "Pretending I pulled out.",
+    "Killing men who say a woman's place is in the kitchen.",
+    "Chicken. You heard me.",
+    "Pretend I'm a fairy princess in search of horny young princes.",
+    "Bananas in pajamas.",
+    "Legal rapes but illegal abortions.",
+    "Nothing.",
+    "Kicking multiple boxes of babies down multiple flights of stairs.",
+    "Putting each of my fingers in each of my holes.",
+    "Deciding if I should kill you or myself.",
+    "Killing people of any other race in exchange for cheetos.",
+    "A spider in a jar.",
+    "Calling the police on Bobby for cheating on the game and getting us kicked out.",
+    "Traded my grandmother for drugs and hookers.",
+    "\"Hanging\" out with Robin Williams.",
+    "How hotdogs survive in the wild without eyes.",
+    "Using my grandma's new panties.",
+    "Know what children taste like.",
+    "Poking holes into all my condoms.",
+    "Brought the dog cage and the nipple clamps.",
+    "Brokeback Mountain.",
+    "Stepping on baby ducks.",
+    "Making the penises kiss.",
+    "Dem titties.",
+    "Whoever took a shit in my nachos can go to hell.",
+    "Fucking shit up.",
+    "Kylo Ren the bitch-sith.",
+    "My mom's vagina.",
+    "Replacing the mayo on my dad's sandwich with jizz.",
+    "Homoerotic fanfiction involving all of the Ninja Turtles and also the murlocks from WOW.",
+    "Face fucking addiction: It's no choke.",
+    "That big ole' orca bitch.",
+    "Nick balls deep inside me.",
+    "Enjoys sucking a cock every now and then.",
+    "Fucking on a tombstone without a condom or std disclosure.",
+    "My vagina, it's aching for a good fuck.",
+    "The homos.",
+    "Rubbing Chewbacca's ballsack.",
+    "My bitch-whore mother.",
+    "AIDS: A comedy about the GAYS.",
+    "Hitler dressed as Slave Leia.",
+    "This white sticky shit is definitely not mayo.",
+    "Beastiality obsession.",
+    "An upset chainsmoking gorliia hell bent on destruction due to working at Wal-Mart.",
+    "A really sexy grizzly bear. He's rough but I know deep down he loves me.",
+    "Butterfly tattoos on the asshole.",
+    "Fucking her until she can't move or scream anymore.",
+    "Micro penises, mine and many others.",
+    "Sexually biting your lower lip.",
+    "Blue balls with little herpes on them.",
+    "Eat actual shit.",
+    "Ejaculate live bees.",
+    "A brand new fat black dildo.",
+    "You owe me 25 mustangs BITCH.",
+    "Using unwanted fetuses in place of bowling balls.",
+    "A fat fucking American populace.",
+    "Death traps that would make Jigsaw look like such a pussy.",
+    "Killing homeless people and orphans with my obnoxious ass stank.",
+    "Fucking my mom's mouth.",
+    "Blankets made of sex dressings.",
+    "Fucking my brother's hot underage girlfriend.",
+    "Making fun of the mentally handicapped, because it's NOT my fault they are retarded.",
+    "Anal rape.",
+    "No. You can't fuck my cat Bobby.",
+    "Nigga pleaseeee.",
+    "Nick covered in cow sperm doing the macarena.",
+    "Cum on the ceiling, on the floor, on my leftover sub sandwich.",
+    "Getting turned on by watching my grandma put her teeth in.",
+    "I fucked your mom too, lol.",
+    "Fucking a cemetary full of rotting corpses to get to the fresh meat.",
+    "Incest.",
+    "My rape van.",
+    "Mom's asshole.",
+    "BIG HAIRY BALLS.",
+    "Killing all the muslims, not just the terrorist.",
+    "A sweaty ballsack and a sweaty ballsack.",
+    "Letting your daughter sit in your lap while you have a boner.",
+    "Kill bitches.",
+    "Typing my name into google and praying \"rapist\" doesn't show up beside it.",
+    "Hard core fuck.",
+    "Some fat bitch names Lequicha.",
+    "Bathing in the tears of a thousand rape victims.",
+    "Salty semen covered peanuts.",
+    "Guzzling literal BUCKETS of cum.",
+    "Fuck the hell out of her."
+  ],
+  "pack": {
+    "id": "RBTVV",
+    "name": "Funny and fucked up :)"
+  },
+  "quantity": {
+    "black": 95,
+    "white": 145,
+    "total": 240
+  },
+  "dateStoredMs": 1589062319127
+}

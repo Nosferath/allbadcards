@@ -1,0 +1,96 @@
+{
+  "black": [
+    {
+      "content": "I'm _, and so's my wife!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Supreme executive power derives from _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "And now for something completely different: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is no basis for a system of government.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I am an enchanter. There are some who call me... _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nobody expects the Spanish Inquisition! Our two weapons are _, _, and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ is sacred, _ is great.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There are jews in the world, there are buddhists. There are hindus, and mormons; and then there are those that follow _, but I've never been one of them.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I went around calling myself an emperor, just because some moistened bint lobbed _ at me, they'd put me away!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He's not the Messiah, he's _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Apart from _, _ and _, what have the Romans ever done for us?",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Nobody expects _!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A man who says things in a very roundabout way.",
+    "A scimitar.",
+    "The Holy Hand-Grenade of Antioch.",
+    "The Spanish Inquisition.",
+    "Spam, egg, sausage and spam.",
+    "A very naughty boy.",
+    "A flesh wound.",
+    "A shrubbery.",
+    "A cross-dressing lumberjack.",
+    "An unladen European swallow.",
+    "Spam.",
+    "A sorceror by the name of... Tim.",
+    "Monty Python's Flying Circus.",
+    "A dead parrot.",
+    "An unladed European swallow.",
+    "Strange women lying in ponds distributing swords.",
+    "A joke so funny everyone who hears it dies laughing.",
+    "Lobster Thermidor aux crevettes with a Mornay sauce, garnished with truffle pate, brandy and a fried egg on top, and Spam.",
+    "Pining for the fjords.",
+    "A quest to reclaim the Holy Grail."
+  ],
+  "pack": {
+    "id": "6EJRf",
+    "name": "Monty Python"
+  },
+  "quantity": {
+    "black": 12,
+    "white": 20,
+    "total": 32
+  },
+  "dateStoredMs": 1588786064671
+}

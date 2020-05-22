@@ -1,0 +1,98 @@
+{
+  "black": [
+    {
+      "content": "Homeschool is going great! I just taught my kids how to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Last night I got so desperate, I had to use _ as toilet paper.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Everyone is panic buying, the stores are all out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I bought all the _ in the store, so I am immune to Corona virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Trump has renamed COVID-19 to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Day 6 of quarantine, I got so bored I started _ to keep myself entertained.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We can use _ to stop the spread of Corona virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "People who work as _ should be getting hazard pay because of Corona virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have used _ to build a self isolation bubble.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ will keep me safe from the Corona virus.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to the Corona virus the Chinese government is now _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This week _ contracted COVID-19.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "With all the toilet paper gone from the stores, I have had to use _ and _ to build a bidet.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Coffee filters.",
+    "The mini Bath and Body Works hand sanitizer I have had since the 3rd grade.",
+    "Boomer Doomer.",
+    "Soap.",
+    "Sewing reusable face masks.",
+    "A roll of paper towels cut in half.",
+    "Lysol.",
+    "Hand sanitizer.",
+    "Coughing to keep the straights away.",
+    "Chinese Virus.",
+    "CVS receipts.",
+    "Leaving for a cruise that cost you $7 when you should be in quarantine.",
+    "Clorox wipes.",
+    "Drinking Coffin Juice just to see what happens.",
+    "Grandmas crochet blanket.",
+    "Grocery store cashiers.",
+    "Washing your damn hands."
+  ],
+  "pack": {
+    "id": "BSQXH",
+    "name": "Corona Quarantine"
+  },
+  "quantity": {
+    "black": 13,
+    "white": 17,
+    "total": 30
+  },
+  "dateStoredMs": 1588990541609
+}

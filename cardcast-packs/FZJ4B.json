@@ -1,0 +1,987 @@
+{
+  "black": [
+    {
+      "content": "Questo sabato Lizzy non può uscire per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Su star trash una innocqua discussione su Harry Potter Si è trasformata in_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Giorgia ha abbandonato la passione per i cani, il suo animale preferito adesso è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secondo Mara l'esplosione della centrale elettrica a Pozzuoli ha prodotto_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voglio andare in Kossovo per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "le brutte intenzioni la maleducazione _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ah se solo_fosse così facile come avere il porto d'armi in America.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A mangiare il Daikon preferirei_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopo la laurea potrò finalmente_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è che farebbe bestemmiare anche Davide?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "il caso umano di oggi è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il gioco di ruolo è bello perché puoi_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è il genio? Fantasia, intuizione e_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Esame di Giappo online? no grazie, preferisco_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Blerina a lezione ha detto che_potrebbe essere un buon oggetto di studio.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa succede quando Lara Olena e Talveen si danno appuntamento?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abbiamo deciso di mandare tito in una missione suicida, pur di non_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'ingrediente segreto dei biscotti di Netflix è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il mio nuovo animaletto su animal crossing è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Carne? no grazie preferisco_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non credevo che _potesse considerarsi una professione",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi De Luca ha detto che a chi fa le feste di laurea non potrà evitare di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "E anche oggi si può _domani",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi mura greche puzzava di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sono uscito da star trash perché_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho messo ome esame a scelta_ e me ne sono pentito subito",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il nuovo cane di Giorgia si chiama_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi hanno appeso tutti la ruolata, la scusa colelttiva è _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "se ne dicono tante sulla Micillo, ma non credevo che avesse addirittura provato _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi nella nostra ruolata tito perver ha osato_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La risposta di Daniele a tutto è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secondo Mara l'esplosione della centrale elettrica a Pozzuoli ha prodotto_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Castare deflagrazione occulta is the new_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Shinitai è solo un modo per dire_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sulla mia autocertificazione ho scritto che uscivo di casa per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mi manca la vita fuori dalla quarantena, quando si poteva_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi la Iazzetta ha detto che possiamo usare \"yaru\" per gli animali, le piante e_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Inagaki ha preso il treno sbagliato ed ha finito per trovarsi a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La mia tesi di laurea sarà su_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi nel bagno di Duomo ho addirittura trovato_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi ho provato a fare_ma sul dado è uscito:_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "oggi il nuovo sticker è a forma di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La cosa più incredibile che mi è capitata a mediterraneo è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Finalmente finita la quarantena potremmo tornare a fare quello che facevamo prima_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi lara  ha fatto un ora e mezza di ritardo per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "il nuovo nick di Giorgia su discord è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Secondo Salvini il coronavirus è colpa di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Durante la fase 2 gli Italiani potranno_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La magnifica rettrice dell'Orientale è stata costretta a sospendere le lezioni a causa di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova preghiera di Netflix ad apollo prevede_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per memorizzare i kanji, il metodo migliore è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Se non do l'esame domani è solo colpa di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La muai thai mi ha stancato, ora il mio nuovo sport preferito è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova storia di Fabiano è su_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Abbiamo scoperto che Tito è il figlio di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La nuova catastrofe di pozzuoli è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho appeso il lettorato, troppi_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'orientale da oggi è plastic free: niente più plastica e niente più_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ho ricevuto il regalo di natale di Nika ad agosto, ed era_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il nuovo disturbo ossessivo compulsivo di Daniele è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "il nome della figlia di Elon Mask si pronuncia_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il mio sakubun parlava di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "La campagna di Fabio era così raccapricciante che prevedeva_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_! un nome, una garanzia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi il Kraken ha chiesto ad Arielin di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi_è stato eletto nuovo admin supremo di star trash",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi conte in converenza ha detto che si può_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "leggendo il genji monogatari ho scoperto che genji è riuscito a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa ciera in quel tea spillato?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_mi fa sentire in colpa, ma mi eccita anche.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Ylenia ha raccontato per l'ennesima volta come ha rotto col suo ex_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non è forse l'attesa di_essa stessa_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Non puoi_non hai nessun esagono che lo giustifichi.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A capodanno a casa di Lara ci siamo divertiti tantissimo, infatti siamo riusciti a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Davide ha perso_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Davide ci ha la sua avventura in kossovo: ha addirittura_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Non sono pronto per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ma tu sei scemo o sei_?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa mi rende davvero euforico?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ylenia ha modificato una foto di Davide mettendogli_sulla testa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kim Jong Un dichiara: \"non ero morto,  ero solo impegnato a\"_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi alla lezione online, mentre il microfono era acceso non mi sono accorto di aver detto di _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Davide ha scelto albanese come esame a scelta per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Per riassumere la sessione di oggi, siamo riusciti a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daniele non si allaccia mai le scarpe per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Sonia è riuscita addirittura a comprare_ su Aliexpres",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi Aki sensei ha parlato di_ è stato molto interessante.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il menu di capodanno prevedeva_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il mio medaglione riesce a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sui gruppi di telegram ho scoperto che si può_assurdo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il nuovo luogo comune di Mara oggi prevede_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sul libro della hoepli ho scoperto una cosa che non credevo esistesse:_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cosa posso usare come miniatura?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "800 messaggi in due ore, e tutto per parlare di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Misumi oggi ha fatto cadere_e poi è uscita dall'aula per andare a comprarlo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il medaglione di Tito si può usare per trasformarsi in_ma non in_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oggi sono rimasto deluso da _ perché ha osato_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Finita la quarantena, la prima cosa che farò sara_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Cos'è questa improvvisa voglia di vivere? ah no è solo_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lizzy ha invitato un nuovo membro a star trash, è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alla laurea di Sonia, Davide ha bevuto così tanto che è riuscito a_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "L'ultimo cosplay di Nika è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi un venitore ambulante voleva vendermi_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In quarantena avevamo l'occasione di poter_ma pur di non farlo siamo riusciti a_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Oggi Fabiano si è insultato ancora da solo chiamandosi_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi a lezione con la Follaco pensavo di aver detto_in giapponese, ma invece ho detto_",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Lara oggi ha litigato con i coinquilini turchi per_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "basta con l'orientale, preferisco_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Daniele sceglie i nomi dei pg con la prima cosa che guarda, quindi il nome del suo nuovo pg è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Il film con lizzy oggi è stato divertente, era su_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dopo l'ennesimo tentativo di dare letteratura inglese con De Riso, Giorgia ha deciso di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi al Seminario la follaco ha detto_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fabio ha litigato di nuovo con Eddy a causa di_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Voglio fare la tesi con_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con l'uomo chiuso in casa, oggi per le strade di Napoli si è visto per la prima volta_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Con la mia laurea in lingue mi si apriranno un sacco di opportunità, tipo_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "oggi ho provato a _ per farmi notare dalla Follaco",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I poteri forti con la scusa del virus ci stanno nascondendo_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oggi la nuova scusa del ritardo di Davide è_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Di cosa discuteva Ylenia a capodanno con Asu?_",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Benvenuti al nuovo episodio di cuochi in quarantena, il piatto del giorno è_",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Un anello per domarli.",
+    "La carta igienica.",
+    "Venti naturale.",
+    "Davide.",
+    "La lebra.",
+    "Rocco Siffredi.",
+    "Far uscire i boss da galera.",
+    "Caffè a 60 cent.",
+    "Le scie chimiche.",
+    "Antiche scuderie.",
+    "Inserire sul cv studente dell'orientale per dimostrare skill di sopravvivenza ed essere assunti dall'esercito italiano.",
+    "La voglia di vivere.",
+    "Essere Mara.",
+    "Davide che suona il pianoforte nudo.",
+    "La mensa cinese.",
+    "Un taxi abusivo.",
+    "Invitare giorgia e lara ad un barbecue.",
+    "Una pandemia globale.",
+    "Mura greche.",
+    "Le aule segrete di Giusso.",
+    "I no vax.",
+    "Bambi.",
+    "Ylenia che discute accoratamente di politica.",
+    "Alla prossima sessione, level up.",
+    "Dimitri il Pollo.",
+    "Il matematico di strada fuori corigliano.",
+    "Vedochiaro.",
+    "Trovare il sapone nei bagni dell'orientale.",
+    "Sonia.",
+    "Fare coming out all'orientale e ammettere di essere etero.",
+    "Giusso.",
+    "Un prurito intimo insopportabile.",
+    "Entrare in una stanza trappola.",
+    "Gli studenti di scienze politiche.",
+    "Letteratura inglese.",
+    "La fase 2.",
+    "Il gengji monogatari.",
+    "La voglia di vivere.",
+    "Il Dio dal nome impronunciabile.",
+    "Arielin.",
+    "Storia della musica.",
+    "Bere anche il petrolio il venerdì sera.",
+    "Bere sangue di drago come afrodisiaco.",
+    "Un violoncellista punk nudo.",
+    "Attacchi di panico a lezione.",
+    "Arielin.",
+    "Guardare Salvini e Feltri per sentirsi una persona migliore.",
+    "L'incredibile mascolinità di De Bonis.",
+    "Fare albanese solo per poter andare a ubriacarsi in Kossovo.",
+    "Mara.",
+    "Farsi una pelle all'orientale.",
+    "Ylenia.",
+    "Il bunka.",
+    "Star trash.",
+    "Banane.",
+    "Provare a fare la tempura in una friggitrice in lavanderia e fallire miseramente.",
+    "Diventare poveri per crearsi un mazzo magic.",
+    "Il nero che suona il bongo alle lauree fuori giusso.",
+    "Regalare una pelliccia a Greta Thunberg.",
+    "Perdere tutte le partite in live.",
+    "Radiazioni.",
+    "Cantare dal balcone ma meditare il suicidio.",
+    "Trenitalia.",
+    "La pizza a Domicilio.",
+    "Il Giappone.",
+    "Jim Carrey.",
+    "Astolfeddy.",
+    "Putin.",
+    "Fumare in faccia a Lizzy.",
+    "Convincere Daniele a Ballare in discoteca.",
+    "Rimanere chiusi fuori casa propria.",
+    "Bullizzare Sonia per l'altezza.",
+    "Salvini che recita il rosario da Barbara d'urso.",
+    "Collezione di denti di animali sfusi.",
+    "I neri.",
+    "L'eccitante vita in quarantena.",
+    "Fare volantinaggio per pappa e pizza.",
+    "Ridere per non piangere.",
+    "Omicidi multipli.",
+    "Oue.",
+    "Morire sotto un treno a Casoria.",
+    "Lavanderia per friggere.",
+    "Flavio Briatore.",
+    "Citare battute dei simpson a memoria.",
+    "Homer Simpson.",
+    "Chiudere i porti.",
+    "死にたい.",
+    "18.",
+    "Papa francesco che prende a schiaffi una cinese.",
+    "Schifo.",
+    "Il kebab di mario.",
+    "Essere arrapati durante la quarantena.",
+    "Le bimbe di conte.",
+    "Gerry Scotti.",
+    "Boris Johnson col corona virus.",
+    "Maria de Filippi.",
+    "Gli occhiali di Salvini.",
+    "Olena.",
+    "Facebook.",
+    "Mangiare i figli dei comunisti per fargli assaggiare la loro stessa medicina.",
+    "L'insostenibile leggerezza dell'essere all'orientale.",
+    "Gesù.",
+    "Tom Bombadill.",
+    "Nika che lamenta povertà e spende milioni in cosplay.",
+    "Picchiare bambini.",
+    "Avere una vita sociale su animal crossing migliore della tua.",
+    "Usare moichidou come mantra.",
+    "Edeliziaastrid.",
+    "Lara.",
+    "Hearthstone.",
+    "Scoprire aule nascoste a Duomo.",
+    "Nika.",
+    "Ylenia.",
+    "Dover andare in bagno durante l'esame scritto.",
+    "Nani.",
+    "Il daikon.",
+    "Roberta che fa gli occhi dolci ad Aki.",
+    "Cinghialoni che fanno jogging.",
+    "La muai thai.",
+    "Un leghista intelligente.",
+    "Cantare dal balcone ma meditare il suicidio.",
+    "Cfu.",
+    "Il SORT.",
+    "La solitudine dei numeri primi negli appelli d'esame.",
+    "Diventare pro gamer.",
+    "Finire in prigione per essere uscito di casa.",
+    "Palazzo mediterraneo.",
+    "Stalin.",
+    "Fare un barbecue sulla pira funebre di un amico caduto in battaglia.",
+    "Mangiare gli animali di animal crossing per sopravvivere alla crisi della pandemia.",
+    "Il coronavirus.",
+    "Le incredibili capacità dialettiche degli studenti di spagnolo.",
+    "Essere un finto estroverso.",
+    "Ricevere una multa per essere andati a correre sul lungomare.",
+    "Trump che dice di iniettarsi disinfettante.",
+    "Fare incidenti nel taxi abusivo.",
+    "Walther White.",
+    "Il pollo Diablo.",
+    "Invadere la Polonia.",
+    "120 grammi.",
+    "La rana di Lara.",
+    "Avere la laurea in lingue per poter vendere i calzini anche agli stranieri.",
+    "Scabiare Morgan Freeman per Nelson Mandela.",
+    "Aki.",
+    "L'irritante anatawa di Eddy.",
+    "Aprire tutto per ricadere in quarantena peggio di prima.",
+    "Scendere i sotterranei di Giusso e trovarsi in cina.",
+    "Davide che ride da solo alle proprie battute.",
+    "Saper parlare agli animali.",
+    "Iniettarsi disinfettanti per combattere il virus.",
+    "Spammare roba a caso mentre gli altri litigano su star trash per stemperare la tensione.",
+    "Gli immigrati.",
+    "Una pandemia globale.",
+    "Fare schifo.",
+    "Gli ebrei.",
+    "Polmonite da Covid.",
+    "Vittorio Sgarbi.",
+    "Marte.",
+    "Il lettorato di albanese.",
+    "La morte e risurrezione dopo tre giorni di Kim Jong Un.",
+    "Paolo Bonolis.",
+    "L'aula animg.",
+    "La segreteria.",
+    "Avere un micropene.",
+    "Rimanere chiusi dentro casa propria.",
+    "Carne umana.",
+    "Giurisprudenza.",
+    "Invocare Oue bruciando i libri dell'hoepli.",
+    "La germofobia di Lizzy.",
+    "I mirabolanti piani di Tito e Vedochiaro.",
+    "Starnutire per strada per provocare isteria di massa.",
+    "Giorgia.",
+    "I kebabbi.",
+    "Venditori di riviste comuniste fuori giusso.",
+    "Scrivere un sakubun.",
+    "I biscotti di barbagialla.",
+    "Appendere anche le lezioni online.",
+    "Usare il libro della hoepli come carta igienica.",
+    "Pagare 50 euro un Kebab di mario per farselo portare fino a Casoria.",
+    "La calvizie.",
+    "Negare i cambiamenti climatici.",
+    "Che schifo il cinese.",
+    "Seguire 4 ore di lettorato di seguito per saper parlare giapponese peggio di prima.",
+    "La De Maio.",
+    "L'inutile curriculum di EA.",
+    "Affetti stabili.",
+    "Spilled tea.",
+    "L'esodo dalla lombardia.",
+    "Gli esami online.",
+    "Drogare la parigina di Davide.",
+    "Appendere la palestra dopo una settimana.",
+    "Evadere di prigione solo per rientrarci di nuovo.",
+    "Cercare Bugo nelle sedi dell'orientale.",
+    "La vasta collezione di cappelli di Davide.",
+    "Sotto e scale.",
+    "Le scarpe perennemente slacciate di Daniele.",
+    "Eddy Baldo.",
+    "X Æ A-12.",
+    "Prendere i pop corn ogni volta che inizia una discussione su star trash.",
+    "Indossare mascherine in circumvesuviana prima della pandemia per la puzza di ascelle.",
+    "Assolutamente Niente.",
+    "La pesantezza di Pamela.",
+    "Gianturco.",
+    "お前はもう死んでいる何.",
+    "Grande.",
+    "Il guardone nei bagni di duomo.",
+    "Harry Potter capolavoro della letteratura.",
+    "Fanfiction su Conte.",
+    "Guardare il livestream dei gattini piangendo e mangiando gelato.",
+    "Uno critico.",
+    "Eddy slime.",
+    "Il nuovo dpcm.",
+    "Fingere di avere problemi col microfono.",
+    "Mutilati di Guerra.",
+    "Lettori di inglese totalmente ignorati.",
+    "Daniele.",
+    "Tito Perver.",
+    "Netflix.",
+    "Gli omini umpa-lumpa.",
+    "Fortebraccio.",
+    "Bullizzare Alessio perché è astemio.",
+    "Il tirocinio.",
+    "Villa floridiana.",
+    "La pausa studio tra un caffè e l'altro.",
+    "Filologia Germanica.",
+    "Il Blallo.",
+    "Un matarasso di marmellata di cozze.",
+    "I meme.",
+    "Alessio.",
+    "Scegliere Arabo all'orientale e convertirsi all'islam.",
+    "Saporito.",
+    "L'incredibile acume intellettuale degli studenti di mediazione.",
+    "Bullizzare Borun.",
+    "Far sposare i propri cani per poter dire di essere congiunti.",
+    "Fare finta di capire il Giapponese.",
+    "L'avis che chiede il tuo sangue a piazza Garibaldi.",
+    "Fare le 4 di mattina a guardare il soffitto.",
+    "Le mascherine.",
+    "Rompersi un braccio per pogare ad un concerto punk.",
+    "I testimoni di geova.",
+    "Aspettare Talveen alla feltrinelli e finire per leggere l'intero reparto di letteratura.",
+    "Sopravvivere al virus ma morire per aver mangiato sulle scale di corigliano.",
+    "Pentola.",
+    "L'orso consigliere.",
+    "Chiwawa.",
+    "Orban.",
+    "Essere invitati alla laurea di tizi sconosciuti.",
+    "I congiunti.",
+    "De Luca.",
+    "Gandalf.",
+    "Essere una donna.",
+    "Peni disegnati sul muro.",
+    "Un buco nero.",
+    "Trovare modi sempre più fantasiosi di masturbarsi durante la quarantena.",
+    "Le canne al basilico degli spacciatori dell'orientale.",
+    "Il wapuro.",
+    "La Micillo.",
+    "Uno scorpione nei sotterranei di mediterraneo.",
+    "Il drama inutile che tanto ci piace.",
+    "\"non mi funziona la webcam\".",
+    "La Meloni.",
+    "Le sedie fantasma della matteo ripa.",
+    "Le battute squallide di davide.",
+    "30.",
+    "La costituzione italiana.",
+    "Avere la uallera.",
+    "Il lockdown.",
+    "JoJo.",
+    "Shinitai.",
+    "Distorsione Spazio-temporale.",
+    "La birra a 50 cent.",
+    "Delfini rosa che nuotano allegramente sulla pelata di Davide.",
+    "Daniele che conosce i nomi anche dei topi dei bagni dell'orientale.",
+    "Provare a vendere calzini ad un frate francescano scalzo.",
+    "Il peperoncino piccantissimo di Mario.",
+    "Imparare nuove lingue solo per poter aggiungere nuove bestemmie al proprio vocabolario.",
+    "La metro chiusa.",
+    "ワプロ.",
+    "L'ennesima ri-edizione dell'autocertificazione.",
+    "Robert De Niro.",
+    "L'imperatore.",
+    "Trovare posto ai banchi di duomo.",
+    "Mandare affanculo le divinita e aprirsi un biscottificio.",
+    "Davide che scavalca ubriaco un cancello in kossovo.",
+    "Davide che agita la sua folta chioma ad un concerto punk.",
+    "Comprarsi la laurea.",
+    "Usare la quarantena per riflettere su tutti gli errorid ella propria vita.",
+    "Nika che scrocca cibo anche ai barboni.",
+    "I polpacci palestrati per salire mezzocannone.",
+    "L'affetto stabile.",
+    "Dare fuoco all'orientale.",
+    "Funghetti allucinogeni.",
+    "100 mentadent.",
+    "Politica estera.",
+    "Raccogliere un petardo a capodanno e perdere una mano.",
+    "Apollo.",
+    "Trovare posto ai lettorati al primo anno.",
+    "Il parcheggiatore abusivo.",
+    "Esami a scelta che bloccano la laurea.",
+    "Buttarsi in mare per prendere i denti di squalo e perdere tutto.",
+    "Familiarizzare con le puttane di corso umberto il sabato sera.",
+    "Parlare con aki in giapponese.",
+    "Laurearsi con 109 e lode.",
+    "Un pene che tenta invano l'erezione.",
+    "Scopare tua sorella e anche il tuo cane dopo tre mesi di astinenza.",
+    "Vedere i draghi a piazza del Gesù.",
+    "Essere un fottuto warlock.",
+    "Risolvere la faccenda con una sana raffica di pugni.",
+    "Avere figli illegittimi con gente dell'orientale.",
+    "Il lancio del criaturo.",
+    "Cagare.",
+    "Rimanere bloccati nell'ascensore di giusso.",
+    "Utilizzarei soldi della laurea con le puttane di corso umberto.",
+    "Laurearsi con la giacca di seta e le babbuccie della nonna.",
+    "Bruciarsi le mani con un lanciafiamme e usarle come armi.",
+    "Salvini con gli occhiali.",
+    "I neri che ballano con la bara.",
+    "I fottuti sigilli.",
+    "Pisciare alle 4 di mattina per le strade del Kossovo.",
+    "Lizzy che litiga con Rosmara.",
+    "Rimanere bloccati nella folla di spaccanapoli.",
+    "I fottuti seminari.",
+    "Porno coi tentacoli.",
+    "Farsi un pompino da solo.",
+    "Le irreprensibili condizioni igieniche del bagno di giusso.",
+    "Un dildo viola.",
+    "La tesi con Wultzer.",
+    "La tessera del kebab.",
+    "Il piccolo cazzo di Borun.",
+    "Fare after e morire congelati alle 5 sul lungomare.",
+    "Mettere una parrucca all'esame con la Fusco.",
+    "Diventare Omosessuale pur di fare un pompino a Borun.",
+    "Stocazzo.",
+    "La repressa voglia di cazzo di Mara.",
+    "Ylenia presidente del consiglio.",
+    "Cagare mentre si chatta su whatsapp.",
+    "La fine del Mondo come lo conosciamo.",
+    "Scopare con sconosciuti per rendere credibile la storia dei congiunti.",
+    "Hitler.",
+    "Auschwitz.",
+    "Brindare a distanza con gli amici laureati ma finire per ubriacarsi da soli.",
+    "Mandare i carabinieri con i lanciafiamme.",
+    "Tette Finte.",
+    "Le tendenze suicide dei pg di Fabiano.",
+    "Aprire le noci di cocco con i gomiti come i thailandesi.",
+    "Il divanetto del Napoli.",
+    "Sparare cazzate a raffica.",
+    "Dover scrivere la tesi e passare la giornata ad ammirare la bellissima tonalità di bianco del muro.",
+    "Il cazzo.",
+    "Uscire con sonia e daniele solo per mangiare i loro avanzi.",
+    "Fabiano che si da cazzotti da solo.",
+    "Copiare con nonchalance allo scritto di filologia giapponese.",
+    "Scopare nei cessi dell'orientale per sviluppare l'immunità.",
+    "Stronzate.",
+    "Non superare il colloquio del mcdonald.",
+    "Molestare una bambina con la scusa di essere buddistha.",
+    "L'abbonamento gratis a Pornhub premium.",
+    "Un prete pedofilo.",
+    "Fabio che ci prova con ogni cosa che si muova.",
+    "Cazzate.",
+    "Mangiare sushi del koi fino a cagare palle di riso.",
+    "Entrare nell'ascensore di giusso da giovani e uscirci da pensionati.",
+    "Andare in erasmus in spagna per \"studiare\" e tornare con 3 figli a carico.",
+    "La via del piscio.",
+    "Figa bagnata.",
+    "Incesto."
+  ],
+  "pack": {
+    "id": "FZJ4B",
+    "name": "Mazzo di star trash"
+  },
+  "quantity": {
+    "black": 121,
+    "white": 366,
+    "total": 487
+  },
+  "dateStoredMs": 1589137912459
+}

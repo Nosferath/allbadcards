@@ -1,0 +1,37 @@
+{
+  "black": [
+    {
+      "content": "Spiderman, Spiderman, does whatever a _ can!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I can't believe they killed off _ like that!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ironman 4 has everything we love, even _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is it really true? Is Captian America really _?",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bucky's luscious locks."
+  ],
+  "pack": {
+    "id": "MCB3M",
+    "name": "Avenging"
+  },
+  "quantity": {
+    "black": 4,
+    "white": 1,
+    "total": 5
+  },
+  "dateStoredMs": 1588609368779
+}

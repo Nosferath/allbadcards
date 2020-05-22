@@ -1,0 +1,27 @@
+{
+  "black": [
+    {
+      "content": "Ohana means _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Cinderella.",
+    "What's Disney.",
+    "Your just a toy!.",
+    "Pixar.",
+    "Irony.",
+    "Let it grow."
+  ],
+  "pack": {
+    "id": "BD6KM",
+    "name": "Cards against Disney"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 6,
+    "total": 7
+  },
+  "dateStoredMs": 1588205954278
+}

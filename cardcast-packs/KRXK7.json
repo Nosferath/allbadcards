@@ -1,0 +1,149 @@
+{
+  "black": [
+    {
+      "content": "\"Hello, I'm the maknae, Jungkook. I'm in charge of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jungkook's new cologne is _ scented.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Taehyung, take that _ out of your mouth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want a big house, big cars, and big _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They call him Kim _ Taehyung.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yoongi didn't sleep last night. He was busy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hello, I'm the leader, Rap Monster! I'm in charge of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "@BTS_twt: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Yoongi's favorite bathbomb is _ scented.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The new #kimdaily picture features Rapmon wearing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Jungkook-ah!\" Jimin calls, \"come here! Look at this _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hello, I'm the eldest, Jin! I'm in charge of _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I want a big _, big _, and big _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "This morning, Namjoon broke _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A to the G to the U to the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For Jimin's birthday, fansites gave him _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yoongi didn't sleep last night. He was busy _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't tell me bye-bye. You make me cry cry. Love is a _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hello, I'm Jimin! I'm in charge of _ in the group.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Park Jimin? Did you mean Park _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Hello, I'm Suga. I'm in charge of _ in the group.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Seokjin still doesn't know what _ is. No one will tell him.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I'm your angel, I'm your hope! I'm  _!\"",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bangtan Sonyeondan.",
+    "Namjoon.",
+    "Taehyung.",
+    "BTS.",
+    "Jin.",
+    "Jungkook.",
+    "Kookie.",
+    "Rapmon.",
+    "Jimin.",
+    "Taetae.",
+    "Seokjin.",
+    "Using Yoongi and Suga in the same sentence.",
+    "Rap Monster from BTS.",
+    "ARMY.",
+    "Any ARMYs here? XD.",
+    "Bangtan.",
+    "Yoongi.",
+    "Suga."
+  ],
+  "pack": {
+    "id": "krxk7",
+    "name": "bts"
+  },
+  "quantity": {
+    "black": 23,
+    "white": 18,
+    "total": 41
+  },
+  "dateStoredMs": 1588414936866
+}

@@ -1,0 +1,76 @@
+{
+  "black": [
+    {
+      "content": "Amelia put _ in Brad's anus?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the real reason Jay got arrested? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was Matt's original wrestler name? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where did Brad's Dad real go? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the real reason Brad's Dad left him? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason why Shelly dumped Ando? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jay's sex life in one sentence? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why hasn't Ken proposed? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What was the real reason Tyson got sacked from Easties? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What happened to Matt's last relationship? _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Liverpool finally winning the league.",
+    "Waking up with vomit over yourself.",
+    "Being a little gay for your best friend?.",
+    "Going Full Roberts for a girl you just met.",
+    "Tyson's hairline.",
+    "A Promise Ring.",
+    "Dino Nug fetish.",
+    "Entering a relationship with a kid on the side.",
+    "Ken's crippling depression.",
+    "Stallion breaking legs."
+  ],
+  "pack": {
+    "id": "rnpgd",
+    "name": "Banter Crew Tings"
+  },
+  "quantity": {
+    "black": 10,
+    "white": 10,
+    "total": 20
+  },
+  "dateStoredMs": 1588316526137
+}

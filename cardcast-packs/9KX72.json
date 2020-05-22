@@ -1,0 +1,1392 @@
+{
+  "black": [
+    {
+      "content": "Nämn inte ens _ i närheten av mig!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag skrev en uppsats på 2000 ord om _. När jag väl lämnat in den fick jag veta att den egentligen skulle handla om _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ är det bästa som har hänt mänskligheten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ibland måste man använda sig av _ för att klara sig genom dagen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag vet att du inte tycker om _ , men kan du göra det för min skull? Bara den här gången.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Med lite _ hade Donald Trump kanske fungerat som människa.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ skulle sitta fint just nu.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Efter ett tag  kan _ bli lite långtråkig(t).",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mina hobbys är bergsklättring, fotboll, arkitektur och _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Varför skulle jag vilja vara inblandad i _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fanns ett parti som satsade allt på att legalisera _ och _ , hade jag lätt röstat!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Om jag fick betalt för det hade jag gärna jobbat med _. Men _... det kan jag göra lika glatt helt gratis!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jag klarar mig med lite hjälp från _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Snälla, ge mig _. Sen lämnar jag dig ifred.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag var liten fick jag oturligt nog reda på att min mamma har _. Gå aldrig in i badrummet när någon redan är där...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "NYHETER: Dagens feminister vill göra sig av med _ !",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag tror jag har en kink för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag vet att du är svag för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I vissa situationer kan man använda _ istället för spolarvätska.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ibland undrar jag ifall _ verkligen var en så dålig idé.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag fick lära mig den svåra vägen att _ inte hjälper en sörjande vän.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min mamma har alltid haft en kink för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hur fan kan man ens komma på idén att _ skulle vara bra?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag har fetaste idén på nya cigaretter! Inge rök, inge lukt, endast _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hej! Jag är _, vill du ligga?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Föreställ dig ett doftljus som luktade precis som _. Fyfan va härligt det hade varit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skolan borde satsa mer på _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kul tips! När din kille ber dig om en avsugning, prova överraska honom med _ istället.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du har _ och _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "God morgon, barn. Idag ska vi prata om _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vi borde använda _ som straff för brottslingar istället för samhällstjänst.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nej, nej, nej, nej, nej, NEJ! Jag tänker INTE låta _ förstöra det här bröllopet!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ursäkta att jag kommer sent, men jag blev stoppad av _ på vägen hit!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Igår åt jag _ till frukost, lunch och middag!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag tänker konstant på _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ = _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Jag önskar att vi fick lära oss mer om _ i skolan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min lärare berättade för min klass att _ inte alls var som vi lärt oss.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag bajsade kom _ ut ur min röv.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vad tänker kungen på just nu? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om världen styrdes av_ hade allt varit hundra gånger bättre.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nej! Jag vill inte vistas i den där byggnaden. Sist jag var där blev jag tvingad att testa _ för att inte bli utkastad!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fan! Jag visste väl att _ inte skulle funka!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det ända jag önskar mig till jul är _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det här är väldigt pinsamt att behöva ta upp, men jag skulle behöva hjälp med _ och tänkte att du var rätt person att fråga.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Skolan borde ha _ som ett kärnämne.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mina intressen är bland annat _ och _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Kan du inte gå här ifrån? Du luktar _ och är seriöst _. Usch!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ + _ = Perfekt.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jag tror jag såg helvetet! Allt var _! Det stod förvrängda varelser överallt som alla höll i _! Det var hemskt!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Alla här inne kan enas om att _ ska utvisas från landet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vad har gjort livet svårt för nudister? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ är det läskigaste barndomsminne jag har.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ skulle vara jävligt fint som en poster.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Den som kontrollerar _ , kontrollerar universum.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mannen, myten, _ : Roger!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Under min uppväxt fick jag ofta spendera dagarna med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I skolan får man tydligen inte ha _ i ryggsäcken. Det hade varit bra att veta lite tidigare...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ och ett glas vin tack!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vetenskap kommer aldrig kunna förklara hur _ började.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Mamma, kan vi äta _ till middag?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senaste nytt: _ på fri fot, IGEN! Stanna inne och lås alla fönster och dörrar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det är 2019! _ borde inte behöva vara ett problem längre.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En korv med _ , tack!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Snälla hjälp mig jag är förföljd av _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Fan va dagens ungdomar tjatar om _. När jag va ung handlade allt om _. Bra tider.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Svårt att sova? Testa _! Funkar 10/10 gånger!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag ska skriva en låt! Texten ska handla om _ , med en liten touch av country.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag är sugen på _. Är du på?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hur många gånger måste jag säga till dig att _ inte är _??",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Utan _ hade inte _ funnits.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jag är så törstig att jag skulle kunna dricka _!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "BDSM är något jag alltid kopplat med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag tog med mig _ till skolan en gång. Jag blev avstängd i ett halvår.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min stortå ser lite ut som _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Den nya fantasmaken fanta-\"_\" är äntligen på väg till affärer nära dig!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tips från experten: Kombinera aldrig _ och _ !",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Finns det något sätt som du kan ändra betyget på min uppsats om _ till ett B?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ är den bästa vännen man kan ha.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Efter andra världskriget behövde tyskland engagera sig i _ för att kunna betala tillbaka pengarna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Det hade varit kul att hålla på med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jävla _! Försvinn!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag skulle kunna döda någon för _ just nu!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hur kan man välja _ istället för _?!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Många svenskar betalar tusentals kronor bara för att få uppleva _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag är nästan helt säker på att min dotter är _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ skulle vara väldigt ofullständig(t) utan _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nils Karlsson Pyssling är en bluff! Det är egentligen _ som bor i väggarna.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag har fått nog! Nu packar jag _ och resten av mina saker och drar!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Istället för nyhetsmorgon borde _ sändas på tv.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ibland när jag mår dåligt äter jag _ för att må lite bättre.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min plan för världsherravälde börjar med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En gång råkade jag fastna med _ i _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Under sin medelålderskris blev min pappa besatt av _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag är ledsen brukar _ kunna få mig på bättre humör.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag fyller år vill jag helst få _ i present.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nä nu låter _ som en riktigt bra idé!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag dör vill jag att alla vet att orsaken var _ oavsett vad någon annan säger.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du bör kolla upp det där om _ du nämnde tidigare.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om Ryssland kopplas med kommunism, så tycker jag Sverige kan kopplas med _ , istället för köttbullar och blondiner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vetenskap kommer aldrig kunna förklara _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag känner mig som _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dagens ungdomar bryr sig bara om _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag är allergisk mot _. Jag skämtar inte.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ibland måste du tänka på _ för att ta dig framåt i livet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Alla ner på marken! Vi vill inte behöva skada någon. Vi är bara här för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När jag har tråkigt brukar jag kolla på _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min kompis berättade att hans pappa brukade slå honom på fingrarna som straff när han varit dum. Det enda jag fick när jag misskött mig var _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Varför skulle det vara en dålig idé att korsa _ och en gris???",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Har du hört om den där staden som blev atombombad nyss? Folk säger att hela stället ser ut som _. Det låter verkligen skrämmande.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I nödlägen kan _ ersätta _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Är din tv trasig? Testa slå på den några gånger! Funkar inte det så kan bara _ hjälpa dig.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Och jag hade kommit undan med det också, om det inte hade varit för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Snälla nån, ge mig ett tecken. Visa _ att vi alla kan klara detta!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vad fick orgien att plötsligt avbrytas? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om gud inte ville att vi skulle njuta av _ , skulle han inte gett oss _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Istället för helvetet finns bara ett rum fyllt med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Innan _ , hade vi bara _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Istället för julkalendern i år har SVT bestämt sig för att ha en livesändning i 24 dagar där det ända som visas är _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När tiden kommer, vill jag att du vet hur du ska använda dig av _ på rätt sätt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du kan bara vara säker på två saker i livet: _ och döden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Under puberteten hade jag sjukt svåra problem med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I deras nya turistkampanj har Skåne påstått sig ha gjort sig av med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ är såååååå 2006.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nya supersuccén bland maskrosbarn \" _ betyder inget.\" finns snart i din bokaffär!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hemligheten till ett bra äktenskap är kommunikation, kommunikation och _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Har du _? Har letat överallt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Du är ju helt sjuk! Ingen vill frivilligt leva med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vad är problemet idag då unge herrn? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om jag fick bestämma hade jag hellre varit _ än _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Gordon Ramsay älskar _ , det hade man aldrig trott.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Polisen förhör nu kriminella genom att upprepade gånger utsätta dom för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag är en stark, självständig kvinna och jag har rätt att vara _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Att behöva vara nära _ är det värsta jag vet.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Min katt kom in till mig med _ igår. Fyfan.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om världen styrdes av _ hade allt funkat bra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När någon börjar prata om _ somnar jag direkt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Kan du förklara för mig varför jag hittade _ i diskmaskinen?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag presenterar X-Trem Basket! Det är precis som basket, fast med _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Igår vaknade jag med _ i hela sängen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag gick från _ till _ , tack vare _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "INGET kommer någonsin kunna ersätta _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag spenderade hela mitt liv med att jobba mot _ , bara för att få det förstört av _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Min mamma var _ när hon var liten.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag vill fan göra _ olagligt. Det skapar bara en massa problem!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sist jag var på fest var det alldeles för mycket _ överallt.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Innan jag dör vill jag testa _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag älskar _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Biltillverkare borde satsa mer pengar på att förvandla avgaser till _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "När allt annat misslyckas kan jag alltid onanera till _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Föreställ dig ett dataspel där man är _ och måste slåss mot _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Varför har du börjat umgås med _? Jag som trodde jag hade uppfostrat dig väl.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag ska fan börja jobba med _. Allt annat kan dra åt helvete!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hur vet man att _ är _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jag dödade inte henne! Det var _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Istället för judar skulle Hitler ha bränt _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Vilken gåva slutar aldrig ge? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dom sa att vi var galna. Dom sa att vi inte kunde stoppa _ i _. Dom hade fel.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Jag är er nya sexualkunskapslärare. Sex = _. Det är allt ni behöver veta. Lektionen är över.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Jag har startat ett eget företag. Vad jag gör? Kul att du frågade! Allt jag jobbar med handlar uteslutande om _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "En ny studie visar att tonåringar har 50% mindre sex efter att ha blivit utsatta för _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Med lite _ blir allt sex bättre!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Skärsår.",
+    "Gladiatorer som slåss.",
+    "Favoritleksaken.",
+    "En elak man i elaka kläder.",
+    "Färgglada fåglar som kan härma growling.",
+    "72 oskulder.",
+    "Ett saxofonsolo .",
+    "Mobilsmycken.",
+    "Lungcancer.",
+    "Kärlek.",
+    "En passionerad latinsk älskare.",
+    "Kommunism.",
+    "Hembränt.",
+    "Alla fel i världen.",
+    "En hund.",
+    "Min livmoder.",
+    "Pappas skärp.",
+    "Att Ryssland utan tvekan är det finaste på jorden.",
+    "Eurovision song constest 2012.",
+    "\"baby shark\" på repeat.",
+    "Alla.",
+    "Ditt finaste minne.",
+    "En fet drake.",
+    "Opel.",
+    "Avslagen läsk.",
+    "Fjortisar.",
+    "Indiska telefonförsäljare.",
+    "Mänsklighetens fel.",
+    "Dåligt samlag.",
+    "E.Ts fingrar.",
+    "Cancer i tablettform.",
+    "Att dominera över sin far.",
+    "Ugglor utan post.",
+    "Kläder.",
+    "Två samtidigt.",
+    "Att ta sig ner i hennes trosor, hövligt.",
+    "Rehab, på order av staten.",
+    "Min lillebror.",
+    "Bmw.",
+    "En jättesöt, ofarlig och snäll igelkott.",
+    "Att bli kidnappad av Peter Pan.",
+    "Skolmaten.",
+    "Spindlar.",
+    "Random fakta.",
+    "Orten bror.",
+    "Min farfar klädd i endast en borat.",
+    "Osläckbar blodtörst.",
+    "Rymdmuffins.",
+    "Nyanserad kritik.",
+    "Elon Musk.",
+    "Prrrrregante.",
+    "Jordens undergång.",
+    "Ofrivillig penetration.",
+    "Deprimerade zoodjur.",
+    "Den där ondskefulla jävla hatten.",
+    "Frukost.",
+    "Alkohol.",
+    "Jag.",
+    "Hemliga stoppord.",
+    "Försökspersoner.",
+    "Ångest.",
+    "Färgen svart.",
+    "Självmord.",
+    "En stulen oskuld.",
+    "Biltemakörv.",
+    "Precis som alla påstår.",
+    "En dinosaurie.",
+    "Halva inne.",
+    "Döden.",
+    "Ingen.",
+    "Skillnaden på \"dab\" och \"fakking dab\".",
+    "En sinnessjuk grävling.",
+    "Min gamla hund.",
+    "Sovmorgon.",
+    "En katt.",
+    "Fönstershopping.",
+    "Pregananant.",
+    "Kaos.",
+    "Morse-kod.",
+    "Den stora öknen i mina trosor just nu.",
+    "Anomaly.",
+    "En kaka.",
+    "En blodig napp.",
+    "Hjälmar som skyddar mot idioti.",
+    "Leonardo DiCaprio.",
+    "Hungrig.",
+    "En sjukdom utan namn.",
+    "Ryssland.",
+    "Ett hårt golv.",
+    "Kannibalism.",
+    "BDSM.",
+    "En toalettborste i ansiktet.",
+    "Nudes.",
+    "Mörka och mystiska krafter bortom vår kontroll.",
+    "Gas.",
+    "Kokande vatten.",
+    "En stav som inte gör nåt.",
+    "En serie om ett träd.",
+    "En ensamstående pappa.",
+    "Daim.",
+    "Hipsters.",
+    "En skog.",
+    "Bondage.",
+    "Min stela höft.",
+    "Doggos.",
+    "Marabou mjölkchoklad.",
+    "Tid.",
+    "En skam för mänskligheten.",
+    "Att vara alldeles för ful för att överleva.",
+    "Husmanskost.",
+    "Judar.",
+    "Cancer.",
+    "Min pappas bälte.",
+    "Mamma.",
+    "Stockholmssyndromet.",
+    "Perfekt.",
+    "Religioner.",
+    "Hans pappa.",
+    "Handla på kredit.",
+    "Tom Holland.",
+    "F.",
+    "Mitt i en vegansk nudistkoloni.",
+    "Ugglor.",
+    "Kanel.",
+    "Anne Frank.",
+    "Deprimerade tonåringar.",
+    "En kringla.",
+    "Titanic.",
+    "Bondpojken.",
+    "En ny formel.",
+    "Mulle meck.",
+    "En riktig fransman.",
+    "Honung direkt från bikupan.",
+    "Nya bilar.",
+    "Ett gammalt tuggummi.",
+    "Plötslig-bajs-explosion-sjukan.",
+    "Justin Bieber.",
+    "Roblox.",
+    "Ett rep från biltema.",
+    "En gammal skokartong.",
+    "Grodyngel och deras hemliga kartell.",
+    "En röd, klibbig, halväten jordgubbe.",
+    "Den sista fisen.",
+    "Middag.",
+    "En kotte i skon.",
+    "Global uppvärmning.",
+    "En sked jordnötssmör.",
+    "Ensamheten.",
+    "Okej.",
+    "En fis.",
+    "Fina fötter.",
+    "Peppar.",
+    "Att dansa med en kvast.",
+    "Naket.",
+    "En jävla massa giraffer.",
+    "Avhoppare.",
+    "En riktig p12a.",
+    "Andra världskriget.",
+    "Fina små olyckor.",
+    "Den mest pinsamma människan någonsin.",
+    "Att ha mixtrat med statistiken.",
+    "Ett hemskt kalsongryck.",
+    "En låtsasfitta .",
+    "Ryssen.",
+    "Den mögliga mackan under min säng.",
+    "Svett.",
+    "\"kola\".",
+    "Såna överdrivet dyra moppebilar som får epor att verka coola.",
+    "Spänning.",
+    "Det där barnprogrammet vi alla kommer ihåg med inte vet vad det heter.",
+    "Dom stackars fåglarna.",
+    "Nyklippt gräs.",
+    "Cancer på burk.",
+    "Hur man rånar en bank och kommer undan med det.",
+    "Satanism.",
+    "En vit häst vars ägare inte är lika vit.",
+    "Tonårsfylla.",
+    "Ganska död.",
+    "En fungerande människa.",
+    "Den nya grejen lixom.",
+    "Hembränt.",
+    "Allt jag kan komma på.",
+    "Spända skinkor.",
+    "Sättet min kuk sakta blir hård.",
+    "Andra feromoner.",
+    "Dråp.",
+    "En nyfödds kiss.",
+    "Rödluvan.",
+    "Fåren.",
+    "Estetiska programmet.",
+    "Ett botemedel mot cancer.",
+    "Lava.",
+    "En enorm depression.",
+    "Tennisbollar.",
+    "Prostitution.",
+    "Hicka.",
+    "Panikattacker.",
+    "Graviditet.",
+    "Jultomten.",
+    "Saab.",
+    "Ett IQ på -2.",
+    "Den gömda väskan med halvätna tåstrumpor som inte har något med något att göra.",
+    "Sverige.",
+    "Klösmärken.",
+    "Inavlade sjögurkor.",
+    "En ful fisk.",
+    "Höns.",
+    "Att be om förlåtelse.",
+    "Ketchup, som ser ut som mens.",
+    "Slowmotion.",
+    "Gurka.",
+    "Ett riktigt parkbänksfyllo.",
+    "En stor, fet jävla fluga som fAN ALDRIG LÄMNAR MIG IFRED.",
+    "Obama.",
+    "Gandalf.",
+    "Våran alldeles egna sopkorg.",
+    "Stoppordet ingen minns.",
+    "Stefan Lövfen.",
+    "Kliande pubishår.",
+    "Hans torra pung.",
+    "Underkläder.",
+    "En dålig liten hand.",
+    "Lökandedräkt.",
+    "En slemmig mattelärare.",
+    "Rattfylleri.",
+    "En häst.",
+    "Påtvingad dödshjälp.",
+    "Oanmäld frånvaro.",
+    "Riktigt fin.",
+    "Choklad.",
+    "NEEEEEEEEEEEJ!!!.",
+    "10 000 flyktingar.",
+    "Alla förgrymmade invandrare.",
+    "Glasögon utan funktion.",
+    "Lyxfällan.",
+    "Att räkna alla smulor i någons säng.",
+    "En död fågel.",
+    "Dabbning.",
+    "Vår frälsare.",
+    "Min högra toffla.",
+    "Rena paradiset.",
+    "Att ligga i koma.",
+    "Förintelsen.",
+    "Min fulla farbror.",
+    "Pengar.",
+    "Negrar.",
+    "Dåliga drickor att grogga på.",
+    "Smärtsamt krossade testiklar.",
+    "Alla dessa krav.",
+    "Min pappas ståfräs.",
+    "Vladimir Putin.",
+    "Honung.",
+    "En trekant.",
+    "Riktigt värdelös grammatik.",
+    "Anne Franks dagbok.",
+    "Förintelsen.",
+    "Din stake.",
+    "Abort.",
+    "Ekonomin.",
+    "Dyr, dryg och oönskad.",
+    "En dammig bok.",
+    "Dårhuset.",
+    "Volvoraggare som har upprop under morgonsamlingen på närmsta icaparkering.",
+    "Ebola.",
+    "Lik.",
+    "Opassande bakgrundsmusik.",
+    "Full.",
+    "Att hålla ner en unge och fisa på honom.",
+    "Dött.",
+    "Byggare Bob.",
+    "Min trasiga stol.",
+    "Hans mamma.",
+    "Präster.",
+    "Den döda kroppen i mitt garage.",
+    "Morgan Freeman.",
+    "Dumbledore.",
+    "Blåmesar.",
+    "Cool.",
+    "Tung.",
+    "Barnen.",
+    "Droger.",
+    "Två rakade lejon.",
+    "En lite för intim prostataundersökning.",
+    "Gudrun.",
+    "Rumpor.",
+    "Det smärtsamma dagsljuset.",
+    "Råttorna som har en självmordspakt utan anledning.",
+    "Peegant.",
+    "Mitt svärd.",
+    "Franska baguetter.",
+    "Nyfödda barn.",
+    "Att sandpappra av en mans näsa.",
+    "Kaffe.",
+    "Den här snubben!.",
+    "Obehaglig.",
+    "Ogräs.",
+    "Tyskland.",
+    "Att krossa piller.",
+    "Ett litet isberg som inte skulle kunna skada ett skit.",
+    "Takläggare och deras jävla påhitt.",
+    "Att lura pengar av åldringar med alzheimers.",
+    "Anledningar.",
+    "Muterade tonårssköldpaddor.",
+    "Vatten.",
+    "Bra.",
+    "Den ilande, kalla, mörka, ensamma tomheten som kallas \"mitt bankkonto\".",
+    "Småpojkar som spelar fortnite.",
+    "Fjädrar.",
+    "Småländska kycklinguppfödare.",
+    "Läxan.",
+    "Endast en röd ros.",
+    "Lamor.",
+    "Afrika.",
+    "En möglig cola.",
+    "Samlag.",
+    "Kottar.",
+    "Svarta.",
+    "Sveriges ansikte utåt.",
+    "En ickefungerande hjärna.",
+    "En hemmagjord steampunk strap-on.",
+    "Fylla.",
+    "Daniel Radcliffes smaskiga rövhål .",
+    "Sveriges regering.",
+    "Självmordstankar.",
+    "Färg.",
+    "Knugen själv.",
+    "Ett nät av lögner.",
+    "En riktigt söt person.",
+    "Is.",
+    "Kattungar på YouTube.",
+    "Roys och Rogers mack.",
+    "Att slita upp en mans bröstkorg och dra ut hans pulserande hjärta.",
+    "Brunstiga kor.",
+    "En ändlös stråle diarré .",
+    "Toalettpapper.",
+    "Dyngrak.",
+    "Lidande.",
+    "Mitt könsorgan.",
+    "Snoppen.",
+    "Bara toppen.",
+    "Tuttar.",
+    "Den stora stygga vargen.",
+    "Förlamad sedan födseln.",
+    "Inte tråkig.",
+    "Bitar av en död bergsklättrare .",
+    "Att levla upp.",
+    "Nitar på exakt allt.",
+    "Min ensammaste tå.",
+    "Min mormor.",
+    "Heroin på burk.",
+    "Hype.",
+    "Ett rymdskepp ur funktion.",
+    "Pelle.",
+    "IKEAs mjukglass.",
+    "Trasiga skor.",
+    "Kim Jong Un.",
+    "Den bästa hästen.",
+    "En fet, skallig man från internet.",
+    "En hemlös ryss.",
+    "Riktigt fina epor.",
+    "Hamburgerdressing.",
+    "Ett tusen ölkorvar.",
+    "En rak stav.",
+    "Felblandad cocktail.",
+    "Att förstöra alla bevis.",
+    "Media.",
+    "Helt oslagbar.",
+    "En vrickad fot.",
+    "Öl.",
+    "Mormors hemliga recept.",
+    "Att ta prinsessans oskuld.",
+    "Jägermeister.",
+    "Riktigt ful.",
+    "Pappa.",
+    "Kristna människor.",
+    "Den kortaste kvinnan i världen.",
+    "Mamma.",
+    "Allt som orsakar cancer.",
+    "Att bokstavligt talat äta bajs.",
+    "En polis i smutsiga kläder.",
+    "Strippning.",
+    "En fotboll täkt i spikar.",
+    "Värdelösa knappar.",
+    "Enorma skandinaviska kvinnor.",
+    "Bättre tider.",
+    "Kristendom.",
+    "Prostituerad.",
+    "Instagrams prioriteringsordning.",
+    "Puppers.",
+    "Magnus Uggla.",
+    "Rattfylleri.",
+    "Trulle.",
+    "Mer abort.",
+    "En mastiff.",
+    "Danslektioner med varken lärare eller dans.",
+    "Papanomaly.",
+    "Volvo.",
+    "Min pappa.",
+    "Pensionärer.",
+    "Vanligt, tråkigt porr.",
+    "Nästintill naken.",
+    "Pappa.",
+    "Den drygaste människan vid liv.",
+    "Förhud.",
+    "Mina fel.",
+    "Långfilmsversionen av Pingu.",
+    "En handikappad mås.",
+    "Att vara en upptagen vuxen med många viktiga saker att göra.",
+    "Hunden som åt min läxa.",
+    "Fingrad.",
+    "Fett smart.",
+    "Min födsel.",
+    "Bombningen av Hiroshima.",
+    "Barnens hemliga koja.",
+    "Min bästa vän.",
+    "Det svenska språket.",
+    "Min yxa.",
+    "Flera styckade kroppar.",
+    "Potatismos.",
+    "Ett sätt att ta självmord på.",
+    "Något.",
+    "Invandrare.",
+    "Absolut vodka.",
+    "Meth.",
+    "Toalett.",
+    "Ingenting.",
+    "Det senaste avsnittet av Bonde söker fru.",
+    "En strandsatt val.",
+    "Ett hus.",
+    "Storfot.",
+    "Gregnant.",
+    "Trosjakt.",
+    "Den ilande kylan.",
+    "En helt ny religion.",
+    "Depression.",
+    "Ålderdomshem.",
+    "Memes.",
+    "S&m.",
+    "Överdrivet söta alpackor.",
+    "Den fina selfien du råkar ta utav misstag.",
+    "Mucklor i källaren.",
+    "En stor svart kuk.",
+    "Ännu fler alpackor.",
+    "Att vara en dinosaurie.",
+    "Mitt alldeles egna helvete.",
+    "Svält.",
+    "Lite smältlim.",
+    "Skolskjutning.",
+    "A+.",
+    "Grannens hund.",
+    "Tappad.",
+    "Nån som heter Greger.",
+    "Min bortglömda smörkniv.",
+    "Pulveriserat kosttillskott.",
+    "Skåne.",
+    "En ensamstående mamma.",
+    "Bamses familj.",
+    "Gula tänder.",
+    "Kommunikation.",
+    "Min lokala kyrkas präst och hans \"kul-för-barn\" dagar.",
+    "Musslor.",
+    "En opassande reaktion.",
+    "Mina framtida barn.",
+    "Våldtäkt.",
+    "En alldeles för hemlig agent.",
+    "Oplanerad graviditet.",
+    "Kärnvapentillverkning.",
+    "Grannen.",
+    "Spontan självantändning.",
+    "Fakta om Ralf.",
+    "Väldigt bra hundar.",
+    "Vaccin som faktiskt gör dig autistisk.",
+    "Könsmogna slavpojkar.",
+    "Lekparken mitt i stan.",
+    "Biltemakörv för 5 spänn!.",
+    "Alpackor.",
+    "Drottningen av England.",
+    "Fint gräs.",
+    "Salt.",
+    "Krossade drömmar.",
+    "Våldtäkt.",
+    "Autism på burk.",
+    "Kitties.",
+    "Tonårsfylla.",
+    "Död metall.",
+    "Någon konstig vätska.",
+    "Sverige som enad nation.",
+    "Grov rattfylleri.",
+    "En ridå.",
+    "Kroppsvätskor.",
+    "Nagasaki bombningen.",
+    "Alla fula ord i ordboken.",
+    "Bra grammatik.",
+    "En stor glasburk.",
+    "Frivillig dödshjälp.",
+    "Lera på fötterna.",
+    "Låg levnadsstandard.",
+    "En stor, fluffig (inte fet) katt som rör sig som en sån där grön discolarv.",
+    "Smulor över hela jävla mattan.",
+    "Fortnite.",
+    "Tyskarnas avund.",
+    "Morgonruffs.",
+    "Att Sverigedemokraterna är det bästa valet.",
+    "Min kära mamma.",
+    "Såna konstiga saker som kallas \"ögon\".",
+    "Smärtstillande.",
+    "Exakt ALLA män på jorden.",
+    "Våldtäktsman.",
+    "Missbildad.",
+    "Pettson och Findus.",
+    "Självbiografi.",
+    "Könssjukdomar.",
+    "Min barndomsvän.",
+    "En död legend.",
+    "Någon.",
+    "Yrsel och feber.",
+    "En roski.",
+    "Gollum.",
+    "En riktigt lång hashtag som ingen orkar läsa.",
+    "Tystnaden.",
+    "Brutalt ensamt samlag.",
+    "Dåliga beslut.",
+    "Att ha anus som ögon.",
+    "Att med en spark i arslet, kanske sluta vara så jävla lat.",
+    "Strypsex.",
+    "En mikroskopiskt liten penis.",
+    "MILF porr.",
+    "AIDS, fast ofarligt.",
+    "Hans felplacerade vagina.",
+    "En snustorr vagina.",
+    "Pedofiler.",
+    "AIDS.",
+    "Adolf Hitler.",
+    "En riktigt onaturligt gigantisk penis.",
+    "En jävligt stor penis.",
+    "Att få penisarna att kyssas.",
+    "En ståldildo.",
+    "En sexig gnu.",
+    "Hitlers mustasch.",
+    "En neger.",
+    "Intorkad sperma.",
+    "Frigiven sexförbrytare.",
+    "Hitlers tankar.",
+    "Dildon Sven.",
+    "Min grannes arga penis.",
+    "Sexuell förnedring.",
+    "Homosexuella.",
+    "Att ha en penis.",
+    "Fisting.",
+    "Att hosta i en vagina.",
+    "Hämndsex.",
+    "Sperma.",
+    "En man på gränsen till orgasm.",
+    "Smegma.",
+    "Anal.",
+    "Sexualiseringen utav lamor.",
+    "Sexleksaker.",
+    "En penis.",
+    "Misshandel av pedofiler.",
+    "Fyllesex.",
+    "Pedofiler.",
+    "Sexiga siamesiska tvillingar.",
+    "Penis i vagina.",
+    "Sex.",
+    "Bekräftad pedofil.",
+    "Hitler."
+  ],
+  "pack": {
+    "id": "9KX72",
+    "name": "Swedish"
+  },
+  "quantity": {
+    "black": 162,
+    "white": 566,
+    "total": 728
+  },
+  "dateStoredMs": 1588159851905
+}

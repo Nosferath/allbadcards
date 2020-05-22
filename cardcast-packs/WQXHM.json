@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "What's the new Harry Potter film going to be called?_.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Harrold Trotter.",
+    "Avada Kedavra."
+  ],
+  "pack": {
+    "id": "WQXHM",
+    "name": "Harry Potter"
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589224566861
+}

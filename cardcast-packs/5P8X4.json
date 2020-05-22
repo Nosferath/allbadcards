@@ -1,0 +1,231 @@
+{
+  "black": [
+    {
+      "content": "Ezra's command was suspended for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's Ezra stolen this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hera sent Ezra and Zeb out to look for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Rebel's new base is on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Oh boy, looks like Sabine's painting _ this time.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How do the Rebels welcome newcomers? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why'd Ezra get kicked out of his cabin this time? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lieutenant Lyste got yelled at for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why's Ezra sulking now? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabine's _ , Ezra.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Yeah, uh, about that. We stole _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a furry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra collects _ as a hobby.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra and Kanan aren't really Jedi because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By the light of Lothal's _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hera is the Galaxy's best _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hondo's stealing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Inquisitor vored _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra's flirting with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "How come _ hasn't shown up yet? I'm disapointed.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Empire day is dedicated to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The reason Ezra got a hair cut is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Senator Travis betrayed the rebels because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sabine called Ezra _ today.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ezra's new alias is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ahsoka Tano lives because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The fandom's next excuse for shipping Sabezra is _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is cleaning up the mess Sabine made painting.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Empire's latest plan to catch Ghost Crew involves _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Season Four of Rebels will be full of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Use the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ noises.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Who did Kallus piss off this time? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Zeb and Ezra playing pranks on Wedge.",
+    "Luke Skywalker.",
+    "Garel.",
+    "Atollon.",
+    "Discourse trash can.",
+    "Chopper causing problems.",
+    "KARABAST.",
+    "Ezra's long hair.",
+    "The mysterious disappearance of helmets.",
+    "Ezra.",
+    "Helicopter lightsabers.",
+    "Sabine flipping off stormtroopers.",
+    "The Ghost.",
+    "Those pinup posters in Zeb's room.",
+    "Sith Holocron.",
+    "Sapio Kanan.",
+    "Kalluzeb.",
+    "The Phantom.",
+    "Lothal.",
+    "Kanan's dad jokes.",
+    "That cool pew pew sound Hera's gun makes.",
+    "Ahsoka.",
+    "Hera's russian accent.",
+    "Buckethead.",
+    "Ezra's short hair.",
+    "[chopper noises].",
+    "Chopper's little arms.",
+    "Sabine.",
+    "A rare, hairless Wookie.",
+    "He Has Trauma Kanan.",
+    "Kanan.",
+    "Ezra saying 'karabast'.",
+    "Mandalorians.",
+    "The five people that ship Skybridger.",
+    "Meiloorun fruit.",
+    "Air conditioning boy.",
+    "Jedi Holocron.",
+    "Chopper.",
+    "Buff furry.",
+    "Hondo doing that fuckshit.",
+    "Animal tamer Ezra.",
+    "Ezra's secret lothcat pet.",
+    "Cryptid Kanan.",
+    "The bliss of Jar Jar Binks not being on Rebels.",
+    "Hera.",
+    "Orange garbage disposal.",
+    "Kallus is Fulcrum.",
+    "Edgera Bridge.",
+    "Emo.",
+    "Zeb."
+  ],
+  "pack": {
+    "id": "5P8X4",
+    "name": "rebels"
+  },
+  "quantity": {
+    "black": 33,
+    "white": 50,
+    "total": 83
+  },
+  "dateStoredMs": 1588616200594
+}

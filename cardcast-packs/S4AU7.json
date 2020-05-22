@@ -1,0 +1,23 @@
+{
+  "black": [
+    {
+      "content": "The real reason why the abortion clinic was shut down was because of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "KFC.",
+    "___."
+  ],
+  "pack": {
+    "id": "S4AU7",
+    "name": "The File 404 Deck - The one deck you'll never wish you saw."
+  },
+  "quantity": {
+    "black": 1,
+    "white": 2,
+    "total": 3
+  },
+  "dateStoredMs": 1589480826202
+}

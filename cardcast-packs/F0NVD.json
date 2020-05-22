@@ -1,0 +1,135 @@
+{
+  "black": [
+    {
+      "content": "Who would have thought that _ would be recquired for the cult ritual?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ ! at the Disco.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "' _ ' by Fall Out Boy.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ 's not dead!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The three members of Nirvana: _  , _ , and _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "_ ! Now that's aesthetic!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Pete Wentz made headlines when he took an edgy approach to _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For the ways that I hurt when I'm _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The audience actually enjoyed Green Day's 20 minute speech about _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ , the adorable younger sibling of _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ is where it's at.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd wear leather even if it was made of _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "This ain't a scene, it's _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is more surreal than _ .",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "Proudly calling yourself trash.",
+    "Wearing a leather jacket in the summer.",
+    "Running away from home to become a groupie.",
+    "Hayley Williams' fashion taste.",
+    "Hot Topic.",
+    "Teenagers (that scare the living shit out of you).",
+    "Getting hyped up on coke and robbing a corner store.",
+    "Headbanging.",
+    "Dying your hair red.",
+    "A life long wait for a hospital stay.",
+    "Self-piercing your lip.",
+    "Joining the Black Parade.",
+    "Lanky, dark haired men.",
+    "Ironically not wearing black to a funeral.",
+    "My Chemical Romance breaking up.",
+    "Only calling them when you're high.",
+    "Putting studs on your jacket by hand.",
+    "Guyliner.",
+    "Mikey Way.",
+    "Band tee shirts.",
+    "Being pretentious.",
+    "Getting angry that you stained your black shirt.",
+    "Hot boys in skirts.",
+    "The Green Day cover of 'Eye of the Tiger'.",
+    "Being nasty.",
+    "Alex Caplow's legs.",
+    "Actually buying CDs.",
+    "2007 Pete Wentz.",
+    "Pre-Post-90s.",
+    "Patrick Stump looking sexy in a fedora.",
+    "Smoking on the middle school playground.",
+    "Sliding headfirst into Cooperstown on a bad bet.",
+    "Angsty teenage AU fanfiction.",
+    "Small punk rock girls.",
+    "Frank Iero topping.",
+    "Tight pants being too loose.",
+    "Self pity.",
+    "A literal House of Wolves.",
+    "Being awake at 3 a.m. wishing she was here.",
+    "BLOOD, BLOOD, GALLONS OF THE STUFF!.",
+    "Tattooing the baby.",
+    "Seattle Grunge.",
+    "A sad song, with nothing to say.",
+    "Being fashionably late.",
+    "The 1975's lifestyle.",
+    "Recognizing band members by their eye colors.",
+    "Actually getting excited about the discovery of a color darker than black.",
+    "Gerard Way.",
+    "Punk."
+  ],
+  "pack": {
+    "id": "F0NVD",
+    "name": "Emo Punk Trash"
+  },
+  "quantity": {
+    "black": 14,
+    "white": 49,
+    "total": 63
+  },
+  "dateStoredMs": 1589382198348
+}

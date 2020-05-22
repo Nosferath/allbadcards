@@ -1,0 +1,100 @@
+{
+  "black": [
+    {
+      "content": "The prophet Brutha was heavily opposed to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The great god Om forbids the use of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Is there anything an Omnian loves more than _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The prophet Brutha preached at length on the benefits of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Accept Om into _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Om disapproves heavily of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Omnian teaching opposes _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What does Constable Visit masturbate to? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The prophet Brutha seemed to think about _ quite a lot.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Omnian teaching preaches in favour of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Constable Visit just loves _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Torturing and executing your own citizens to keep them on their toes.",
+    "Very, Very, Very Plain Omnianism.",
+    "Constable Visit-The-Infidel-With-Explanatory-Pamphlets.",
+    "Trying to get people to see the light.",
+    "Very boring pamphlets.",
+    "Religion-spurred life crises.",
+    "Memorising all the books in the Library of Ephebe.",
+    "Abandoning your life in favour of improving the lives of the suffering.",
+    "Getting tortured by Exquisitors.",
+    "The murky history of Omnianism.",
+    "Mightily Oats' emotional support axe.",
+    "The sin of enjoying oneself.",
+    "The Eighth Prophet, Brutha.",
+    "Purifying the ungodly and expurgating sin.",
+    "Bursting into tears when someone actually wants to read one of your pamphlets.",
+    "Omnian naming customs.",
+    "Religious fervour.",
+    "Mightily Oats.",
+    "Moab being your washpot.",
+    "Knocking on door after door, even though no one ever answers.",
+    "The Omnian Obol.",
+    "The new Omnian Library.",
+    "The Quisition of Omnia.",
+    "The Reverend Mr Stackpole.",
+    "The non-Prophet Vorbis.",
+    "The great god Om.",
+    "Making up your own commandments.",
+    "The Church of the Latter-Day Omnians.",
+    "Singing hymns to the pigeons."
+  ],
+  "pack": {
+    "id": "CRGHG",
+    "name": "Life On The Disc: Omnian Edition"
+  },
+  "quantity": {
+    "black": 11,
+    "white": 29,
+    "total": 40
+  },
+  "dateStoredMs": 1589035221245
+}

@@ -1,0 +1,162 @@
+{
+  "black": [
+    {
+      "content": "_ is now in hiding after revealing that _ 's hair is actually a bird's nest.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"_ , we're here today because of a report claiming you have _ in your basement. Could we please have a look\"?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After a recent blood test, turns out that _ was a time-travelling vampire all along.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking news! Incriminating evidence shines light on _ 's involvement with _. More on this story at 8.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Robin Williams commited suicide after his botched involvement with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Extensive research using cutting-edge technology revealed that the pyramids were actually made by _ .",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking news! Yesterday, _ 's nuclear stockpile was destroyed under mysterious circumstances. Some claim they saw _ walking out from the fallout. More at 3.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The invention of _ , originally thought to have been orchestrated by _ , was years later revealed to have been acted out by _ .",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "When the KEK brigade stormed Area 51, they expected many things, but they could never prepare themselves for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Breaking news! Researchers have discovered a chemical agent in the water that makes people believe in _ . More on this story at 6.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In light of the recent incident involving _ , the biggest threat to national security today is _ .",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "After _ was imprisoned for JFK's assassination, _ managed to get away, scot-free.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Three days ago, _ was found dead in their hotel room after confirmed _ a hoax.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When the CIA marked off the site at Roswell, they expected to find _ , but they ended up finding _ instead.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"You know, the only real time aliens have visited Earth was when they invented _\". - _ , 2023.",
+      "draw": 1,
+      "pick": 2
+    }
+  ],
+  "white": [
+    "The Flat-Earth society.",
+    "The Institute.",
+    "The shape-shifting reptilian society.",
+    "Flying two buildings into a plane.",
+    "Mark Zuckerberg.",
+    "Vault-Tec™.",
+    "The blacks.",
+    "The Notre Dame fire.",
+    "Xi Jinping.",
+    "Hogwarts.",
+    "The IS forces in Iraq.",
+    "Uncontrollable Buddhism.",
+    "Fun-time at Bohemian Grove.",
+    "JFK's assassination.",
+    "The Hong-Kong protests.",
+    "Torturing POWs.",
+    "Austra-Aliens.",
+    "The suspicious, muslum 7/11 store clerc.",
+    "Hillary's email scandal.",
+    "Russian nerve gas.",
+    "The secrets of creative mode.",
+    "The CIA.",
+    "Jewish mind-control powers.",
+    "The plot to destroy the race of whites.",
+    "The KEK brigade.",
+    "M.I.6.",
+    "Isra-Aliens.",
+    "Sir David Attenborough.",
+    "Herobrine.",
+    "The Chernobyl nuclear disaster.",
+    "Saddam Hussein.",
+    "The asians.",
+    "Jet fuel powerful enough to melt steel beams.",
+    "Telekinetic rocks.",
+    "Kony 2012.",
+    "The US-China trade war.",
+    "A Tibetan exorcism.",
+    "A wardrobe that transports people to a demi-plane called Narnia.",
+    "All-out thermonuclear warfare.",
+    "Swallowing the Red-pill.",
+    "The Geneva conventions.",
+    "The untold homeless problem among males.",
+    "The cake.",
+    "Joseph Kony.",
+    "A case of the rabid Jew flu.",
+    "Whatever happened to the Zombie Giant in Minecraft.",
+    "Kim Jong Un.",
+    "The Blacklivesmatter movement.",
+    "The powerful enchantment bestowed upon the Tin-Foil hats.",
+    "Copious amounts of cyanide.",
+    "Alien abduction.",
+    "Area 51.",
+    "The supernatural vertical leap of the common black man.",
+    "The Brazilian slave-trade.",
+    "The Kremlin.",
+    "The machine that causes everyone to about forget mass shootings.",
+    "Alex Jones.",
+    "The British Monarchy.",
+    "The whites.",
+    "The burning of the Amazon rainforest.",
+    "9/11.",
+    "The patriarchy.",
+    "Skynet™.",
+    "The World Trade Centre.",
+    "The FBI.",
+    "Aliens.",
+    "The plane that crashed into the pentagon.",
+    "The Roswell incident.",
+    "The Holocaust.",
+    "The Vatican city's rampant rape-culture.",
+    "Anal probing."
+  ],
+  "pack": {
+    "id": "8GYD5",
+    "name": "Conspiracy: Take the piss"
+  },
+  "quantity": {
+    "black": 15,
+    "white": 71,
+    "total": 86
+  },
+  "dateStoredMs": 1589068733055
+}

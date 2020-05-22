@@ -1,0 +1,201 @@
+{
+  "black": [
+    {
+      "content": "_. Fascinating.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The needs of _ outweigh the needs of the many.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Wesley Crusher's new girlfriend is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Resistance is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Q's next shenanigan involves _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Vulcan Science Directorate has determined that _ is impossible.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Ferengi Rule of Acquisition #126: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Live long and _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "SURPRISE, MOTHERFUCKERS! IT'S _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worf must find a way to restore his honor after _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Dammit Jim! I'm a doctor, not _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Quark's newest holodeck program is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ and _ at Tanagra.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "There's _ in that nebula!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is Kirk trying to stick his dick in this time? _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Data is extremely curious about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sickbay is currently managing an outbreak of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Due to a transporter malfunction, _ became _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "He's _, Jim!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What is lurking in Cargo Bay 2? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Vulcan Council does not approve of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The replicators are malfunctioning! They will only produce _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All I ask is a tall ship, and _ to steer her by.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Engineering is frantically trying to fix a problem caused by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Picard Day was canceled this year due to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For The World Is Hollow, and I Have Touched _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ would be highly illogical.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Engaging in a 20-minute fight with a man-sized lizard.",
+    "Being logical as fuck.",
+    "Bakula time.",
+    "Laser cats.",
+    "Romulan ale.",
+    "A Klingon mating ritual.",
+    "Getting your dick stuck in the warp core.",
+    "Betazoid menopause.",
+    "Genuinely enjoying Star Trek: TAS.",
+    "A steaming poop monster from a steaming poop planet.",
+    "Space herpes.",
+    "5,000 gallons of Yamok sauce.",
+    "Nuclear wessels.",
+    "Decontamination gel.",
+    "Just one Tribble.",
+    "Alien strippers.",
+    "A parallel universe where everyone is space Nazis.",
+    "A mustachioed Men's Rights Activist.",
+    "A space anomaly.",
+    "Being a disappointment to the Empire.",
+    "Using the turbolift as a makeout room.",
+    "A Craigslist ad that left out some crucial details.",
+    "A 48-hour coke bender with Dr. McCoy.",
+    "Bringing an unexpected surprise back from Risa.",
+    "Fucking a Gorn.",
+    "A fuck deficit.",
+    "Dickbats.",
+    "An embarrassing holodeck incident.",
+    "Transporter accidents.",
+    "\"Vulcan biology\".",
+    "Boldly sticking your dick where no dicks have gone before.",
+    "Spending 36 hours \"optimizing\" the Captain's chair.",
+    "The Janeway Maneuver.",
+    "Odo's bucket.",
+    "Barklay's holodeck fantasies.",
+    "A hole... in space.",
+    "Throwing someone out an airlock.",
+    "Not giving a fuck about the Prime Directive.",
+    "Kirk/Spock slash fiction.",
+    "The Picard Maneuver.",
+    "William Shatner's balls.",
+    "A redshirt on an away mission.",
+    "Snorting dilithium crystals.",
+    "Pon farr.",
+    "Data's mechanical penis.",
+    "McCoy's secret stash of medicinal brandy.",
+    "Being shitfaced for the entire mission.",
+    "Staying in your fucking assigned area.",
+    "A Klingon bowel movement.",
+    "Sticking your dick in the warp core."
+  ],
+  "pack": {
+    "id": "u55kp",
+    "name": "Swear Trek"
+  },
+  "quantity": {
+    "black": 27,
+    "white": 50,
+    "total": 77
+  },
+  "dateStoredMs": 1588558366676
+}

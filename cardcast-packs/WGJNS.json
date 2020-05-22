@@ -1,0 +1,25 @@
+{
+  "black": [
+    {
+      "content": "The next Disney prince has the life threatening illness of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Aurora's dress is made out of _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [],
+  "pack": {
+    "id": "WGJNS",
+    "name": "Disney"
+  },
+  "quantity": {
+    "black": 2,
+    "white": 0,
+    "total": 2
+  },
+  "dateStoredMs": 1589579141564
+}

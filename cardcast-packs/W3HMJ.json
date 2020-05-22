@@ -1,0 +1,352 @@
+{
+  "black": [
+    {
+      "content": "\"Introducing: the i_\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried writing an app for Windows Phone and _ happened.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Where can I download more RAM? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What platform does your app run on? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "So we gave our _ access to our production servers and _ happened.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Instead of the usual WWDC jacket, next year Apple will be giving out _ to developers.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is dead! All the cool kids are using: _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We just got acquired by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Null Pointer Exception: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "npm install _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It only took me 3 hours to implement _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Your branch is ahead of '_/_' by 2 commits.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "JSON error: missing _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our team uses Slack now because _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the WiFi password? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I tried to use Apple maps to get directions and I accidently ended up at _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Within 5 years, everyone will be using _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "[std cout << \"_\";]",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We’ve made the _ 26% thinner.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_.js, the new Javascript framework.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Look, _ just filed their IPO!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We put _ on a drone and flew it into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Don't worry,  _ will be deprecated in the next few years.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is also monitored by Prism",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One more thing: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We wrote our new _ entirely in Haskell.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why won't my code compile? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error 404: _ not found.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why is there food in my keyboard? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At my startup, they feed us fresh _ at every meal.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our machine learning algorithm mistook _ for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I'm a developer evangelist for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The client wants to put _ in _!? Are they insane?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"One more thing... _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's like Uber for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Real coders use _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "We've pivoted our stack towards using _ for everything.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What will be the next NSA revelation? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's my new Hackathon project? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Xcode quit unexpectedly. Why? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're rewriting _ in Swift.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What caused the demo gods to hate me? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did my Mac just kernel panic? _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We tried to implement CoreData, but then _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ : You keep using that term. I do not think it means what you think it means",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Our new CEO believes in a bluesky-radical-_ way of thinking.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Bro, do you even _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The REAL best web framework is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Today, Apple are glad to announce OS X _\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Error 403: _ forbidden.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I mean.. _ might fix it, right?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What do you mean your _ doesn't support _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I threw _ on my keyboard and it typed syntactically correct Perl script.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why not use the _ API to  _?",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Syntax error: _ invalid.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "What's the only real dev language? _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Twilio.",
+    "Forgetting a semicolon.",
+    "Uber.",
+    "Vim.",
+    "San Francisco.",
+    "BitBucket.",
+    "YO-SEM-IT-EE.",
+    "Source Control.",
+    "Send me a pull request.",
+    "Big Data.",
+    "Pascal.",
+    "[REDACTED].",
+    "Android Development.",
+    "An API.",
+    "Swift.",
+    "Haskell.",
+    "Hair Force One.",
+    "Internet Explorer 7.",
+    "This isn't working.",
+    "Building your own TCP server in C# just for fun.",
+    "Hackathons.",
+    "Xcode.",
+    "Pull Request.",
+    "The new NSApple iPhone 8 Plus, now with WEP.",
+    "Emacs.",
+    "Aah-loo-min-ee-um.",
+    "Reinstalling your OS.",
+    "NSEverything.",
+    "Redis.",
+    "Developers. Developers. Developers.",
+    "Hipsters.",
+    "MongoDB.",
+    "Dude, we're on TechCrunch.",
+    "Hitting it until it works.",
+    "Web Framework.",
+    "Xcode quit unexpectedly.",
+    "The pain inflicted by C++.",
+    "JQuery.",
+    "Java.",
+    "Reading everything that ever existed a jillion times into a mega-jillion sized array.",
+    "Xcode build errors that won't go away unless you clean/rebuild/exorcise the project.",
+    "Beta is Beta.",
+    "Currently under NDA.",
+    "Ruby on Rails.",
+    "Semicolon.",
+    "A version of Xcode that doesn't crash.",
+    "I'm on the front page of HackerNews.",
+    "Chrome.",
+    "NodeJS.",
+    "Angry C memory-management based rants.",
+    "Web Scale.",
+    "SendGrid.",
+    "Data Schemas.",
+    "Brainfuck.",
+    "Git merge conflicts.",
+    "Fuck it, ship it."
+  ],
+  "pack": {
+    "id": "W3HMJ",
+    "name": "Programming Humor"
+  },
+  "quantity": {
+    "black": 56,
+    "white": 56,
+    "total": 112
+  },
+  "dateStoredMs": 1589052283333
+}

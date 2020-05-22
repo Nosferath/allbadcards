@@ -1,0 +1,57 @@
+{
+  "black": [
+    {
+      "content": "Todoroki’s quirk is classified as half _, half _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Midoriya’s muttering about _ again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You can become a _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ + _ are OTP.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "I’m sorry, but I don’t think _ is an appropriate Hero name.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All Might’s new attack: _ SMASH!",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Dadmight.",
+    "Because I am here!.",
+    "Kacchan!.",
+    "Nomu.",
+    "Revelry in the dark.",
+    "Getting adopted by all the dads in My Hero Academia.",
+    "Lord Explosion Murder.",
+    "Deku!.",
+    "Strong female character.",
+    "Dadzawa.",
+    "Dadgum."
+  ],
+  "pack": {
+    "id": "KHFSD",
+    "name": "BNHA"
+  },
+  "quantity": {
+    "black": 6,
+    "white": 11,
+    "total": 17
+  },
+  "dateStoredMs": 1588497040533
+}

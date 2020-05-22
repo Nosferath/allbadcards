@@ -1,0 +1,210 @@
+{
+  "black": [
+    {
+      "content": "We were sitting around a campfire, talking about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If you play it back, it sounds like it's saying \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I think the music box is haunted by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "But I heard _ was just an urban legend!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Whoever thought _ could be scary?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Don't go in there! That's where we found _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It's clearly the work of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Rumour has it the family who lived here before were _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The house looks completely normal except for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The headline reads: 'mysteries of _ uncovered'.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is why you never get out of the car.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The scratches on the wall read: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - exactly what you don't want to find down a dark alley.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stand in front of the mirror, turn off the lights, and say _ 3 times.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "There's nothing quite as terrifying as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Check out this creepy old _ I got in a yard sale.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I swear it was aliens! Just look at this _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If I see any more_ , I'm gonna...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They say there was a ritual which involved _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - don't look into its eyes!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ - that's the difference between a ghost and demon.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The first sign of possession is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The results of the last EVP session: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "It must be the ghost of _, back for _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "What am I supposed to do with _?",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Judging by the _ , it looks like they left in a hurry.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Lights, cameras...doors, cameras...lights..._!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The elements of the next survival horror are _ , _ , and _.",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "If it's in a word, or it's in a look, you can't get rid of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The only thing she'd say was \"_\" over and over again.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I saw an article in the newspaper about _...",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I set up cameras around the house to watch for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "My final form is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When things start _, you know shit's going down.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Kagome kagome.",
+    "Dusty untouched banquet table.",
+    "Zombie dogs.",
+    "Running out of power.",
+    "The phone guy.",
+    "A naked lady covered in tattoos.",
+    "Salt lining the doors.",
+    "Buffy the Vampire Slayer.",
+    "A compass and a map of Russia.",
+    "A whole load of moths.",
+    "\"It's raining again.\".",
+    "The Greys.",
+    "Edward & Lorraine Warren.",
+    "Pyramid Head.",
+    "Finding a giant animatronic rabbit outside the door.",
+    "China dolls.",
+    "A trail of rose petals.",
+    "The sound of a child crying.",
+    "Deliberately giving yourself amnesia.",
+    "Gratuitous jump scares.",
+    "Little girl ghosts.",
+    "God-awful screamers.",
+    "Blood all over the floors, walls, and ceilings.",
+    "Standing in the corner."
+  ],
+  "pack": {
+    "id": "YJVQN",
+    "name": "Misc. Horror"
+  },
+  "quantity": {
+    "black": 34,
+    "white": 24,
+    "total": 58
+  },
+  "dateStoredMs": 1589006510641
+}

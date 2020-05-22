@@ -1,0 +1,91 @@
+{
+  "black": [
+    {
+      "content": "Captain Janeway approached the faulty replicator and ordered a coffee, and it promptly produced _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Worf was unimpressed when he was caught _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The warp nacelles were misaligned and needed  _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Data was surprised as he stood from the conn and _ dropped on the floor",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Today is a good day to _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Deanna was troubled when she sensed the aliens wanted _",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We are the Borg. Resistance is _",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "A shrunken Starfleet uniform.",
+    "Wearing a party hat.",
+    "Some large nuts.",
+    "A Vulcan harp.",
+    "Riker’s beard.",
+    "A chocolate mousse.",
+    "Odo’s bucket.",
+    "A half glass of prune juice.",
+    "A self-sealing stem bolt.",
+    "Tea, Earl Grey... hot.",
+    "A targ.",
+    "Oo-mox.",
+    "A Bolian.",
+    "A tribble skin hat.",
+    "Morn.",
+    "An extra leg.",
+    "The Captain’s log.",
+    "A plate of tribble nuggets.",
+    "A faulty communicator.",
+    "An Andorian.",
+    "A phaser.",
+    "Yamok sauce.",
+    "A pair of “day of the week” underpants.",
+    "A tricorder.",
+    "The warp core.",
+    "The Emergency Command Hologram.",
+    "A Borg drone.",
+    "Isolinear chips.",
+    "Spot.",
+    "Dressing up as Rom.",
+    "A photon torpedo.",
+    "A reverse ratcheting router.",
+    "Dancing naked with a flower.",
+    "A goblet of blood wine.",
+    "The Emergency Medical Hologram.",
+    "Quark.",
+    "Three extra eyes.",
+    "Eat a packet of crisps.",
+    "A tribble.",
+    "A fart in an environment suit."
+  ],
+  "pack": {
+    "id": "FWPPH",
+    "name": "Where no cards have played before"
+  },
+  "quantity": {
+    "black": 7,
+    "white": 40,
+    "total": 47
+  },
+  "dateStoredMs": 1588440033883
+}

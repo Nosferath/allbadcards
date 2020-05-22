@@ -1,0 +1,934 @@
+{
+  "black": [
+    {
+      "content": "Some of Gandalf's less successful fireworks included _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Witch King of Angmar entered Sauron's service because he was promised _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Ho ho ho to the _ I go / to heal my _ and drown my _.\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "\"Frodo laughed: from the covered basket he held, the scent of _ was rising.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The Man of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before Legolas saw the Sea, his greatest longing was for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ used _. It's super effective!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Last Homely _ East of the Sea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ yesterday, (blank) today, and blimey if it don't look like (blank) again tomorrow.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I can't carry _ for you, Mr. Frodo, but I can carry _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"It's warm! Meaning _, Mr. Frodo. It has felt so cold through the long nights.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "They're taking the _ to _!",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"In the land of _ where the _ lie.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"Flame of the West\" was a much better name for Aragorn's new sword; his old sword was called _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Pippin's stone finally reached the bottom of the well, it struck _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of a Ring of Power, Sauron briefly considered using _ to conquer Middle-earth.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One does not simply walk into Mordor, but if I could, I would bring _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When Gondor seeks aid from Rohan, it sends a red arrow. But when Rohan needs aid, it sends _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In the Fourth Age, the race of Men will face a new enemy: _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The hidden track on the epic PPP record will be titled _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The secret ingredient of lembas is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Nowadays, the only remaining Palantir shows an unceasing vision of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "You could tell Númenor was going downhill when you started finding _ there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I know _ half as well as I should like, and I like _ half as well as it deserves.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Everyone's looking forward to the _ / _ crossover episode.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "When Galadriel probed Aragorn's mind in Lôrien, she discovered his burning love for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real-life Lord of the _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The PPP's next Patreon goal is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Y is expecting a great big _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Hashtag _ will be printed on the latest PPP merch!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam Gamgee ran for Mayor of Hobbiton on a platform of _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Along with \"ninnyhammer\", Sam often calls himself \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "In Arda Remade, the two sources of light will be _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Poor Bombur! His barrel out of bond smelled like _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A lesser-known epithet of Túrin Turambar was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The dwarves delved too deep and too greedily. They awakened _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_'s over 9,000!!!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"You have my _!\" \"You have my _!\" \"And my _!\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Donning orc armor was loathsome enough, but Frodo and Sam drew the line at the thought of putting on _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even the revised Red Book doesn't tell the whole truth: Bilbo also had _ in his pockets.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I wish _ had never come to me. I wish none of this had happened.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Miruvor is made from distilled _, with a dash of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Unknown even to Gandalf, the hobbits forged their own ring of power. It granted the wearer the power of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The real reason for the disappearance of the Entwines was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "A wild _ appears!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Renewed shall be _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Éowyn feared a cage, true, but she also feared _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before remembering the Black Arrow, Bard briefly considered wielding _ to defeat Smaug.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For his encore act, Melkor will now twist _ into _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "_ was the most disturbing thing Frodo saw from the seat at Amon Hen.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only Celeborn knows that the Mirror of Galadriel is actually powered by _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "By far the foulest flotsam found in the ruins of Isengard was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of the many passwords Gandalf tried at the Doors of Moria was \"_\".",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When annoyed by Pippin, Gandalf would often call the hobbit \"_\" under his breath.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Boromir forgot the part of his prophetic dream where he saw _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_ in the deep. We cannot get out. They are coming.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Back in the day, Tom Bombadil's bromance with Farmer Maggot flourished when they bonded over their mutual love of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "For _ shall prove but mine instrument in the devising of _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "First on the agenda for this meeting of the White Council: _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Turgon had planned to build Gondolin's eighth gate out of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I want to see _ again, Gandalf!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Only _ could have made the Hobbit films any worse.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Why did Saruman leave the path of wisdom? _ crawled up his butt and died.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The leading cause of death in Middle-earth is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "X is a great big _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Looks like _ is back on our menu!\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Begone, foul _, lord of _! Leave _ in peace!\"",
+      "draw": 2,
+      "pick": 3
+    },
+    {
+      "content": "Along with rope, Sam really wished he'd packed _ for the journey.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The invasion of Valinor was just a pretext. Ilúvatar actually destroyed Númenor because of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Melkor spends eternity in the Void obsessively contemplating _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The forgotten sixth wizard of the Istari was wise in the lore of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tra la la lally, put _ in my valley!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Along with potatoes and ointment, the Gaffer also received _ from Bilbo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"Three shall be the number of the _.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I'd much rather be at home with _ and a good book!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "He may go by \"Durin's Bane\" now, but back at Angband this Balrog was known for _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Instead of Merry and Pippin, Elrond should have sent _ and _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Nobody tosses _!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"_'s not gonna make it in the cut.\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is a very good place to start.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Sam served herbs and stewed rabbit with a side of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_? Fo' sho' yo!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Phase One: Collect _. Phase 2: _. Phase 3: Profit",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "\"I despise _ . . . I much prefer _, true or feigned.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The real cause of Frodo's orphanhood wasn't a boating accident, it was actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Even more than Elves, Men, White Face, or Yellow Face, Gollum really hates _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ is something you'll never be able to order at IHOP.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Before he took flight, Eärendil quarreled with Elwing over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "No wonder that orc-draught tasted so foul! It was made of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "I have a bad feeling about _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "While remodeling Bag End, the Sackville-Bagginses were appalled to find _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The unsung hero at the Battle of the Pelennor Fields was actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "One of Bandobras \"the Bullroarer\" Took's lesser-known inventions was _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All that is _ does not glitter.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "All the theories are wrong; Tom Bombadil is actually _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "_ goes ever on and on.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Tom Bombadil is not Master of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "At Boromir's funeral, they sang to the North, West, and South winds. But they neglected to sing to _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I sit beside the _ and think . . .\"",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "We're all about that _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Another popular Hobbit dance, apart from the Springlering, is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Roll your d20 for a _ check!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Stop trying to make _ happen!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "If ever I became _, it would be in such a time as this.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The curious hobbit mating ritual known as _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "\"I feel like _ that has been scraped over too much _.\"",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "The Entish word for _ takes two centuries to say properly.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Because he overslept, and because nobody else wanted the job, Tulkas became the Vala in charge of _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "The _ to my _.",
+      "draw": 1,
+      "pick": 2
+    },
+    {
+      "content": "Regulars at the Prancing Pony know to ask for _ by name--it's a specialty!",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "When they weren't arguing about how to cook thirteen dwarves and a hobbit, the trolls quarreled over _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Gandalf's secret to success? He packs his pipe with _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "Screw mortality! The true Gift of Men is _.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "content": "After counting orc-slayings, Legolas and Gimli played a game based on _.",
+      "draw": 0,
+      "pick": 1
+    }
+  ],
+  "white": [
+    "Bombur's gastric bypass surgery.",
+    "Gil-Galad's prodigious . . . spear.",
+    "The faint whiff of Galadriel's floral queaf.",
+    "The Paths of the Dead.",
+    "The Valaquenta.",
+    "Rosie Gamgee's thunder thighs.",
+    "Gordon Sumner.",
+    "Careless whispers.",
+    "King Thranduil's epic hair.",
+    "Gandalf's vape pen.",
+    "Bovril.",
+    "Rhûn and Harad where the stars are strange.",
+    "The first watch of the night.",
+    "A Boromir pincushion.",
+    "Farting smoke rings.",
+    "An apple to the schnoz.",
+    "The Great Goblin Circle Jerk of SR 1337.",
+    "Thorin playing Stairway to Heaven on his golden harp.",
+    "Elastic-waistband hobbit trousers.",
+    "Brokeback Mount Doom.",
+    "The White Rider.",
+    "A Houses of Healing rectal thermometer.",
+    "Féanor piñata.",
+    "Blindfolded orgies on the Naith of Lórien.",
+    "Those mysterious stains on Aragorn's sleeping bag.",
+    "Arwen's gag reflex.",
+    "A duck.",
+    "Old Tobey pipeweed.",
+    "Gorgoroth.",
+    "Glory holes in the North Wing.",
+    "Legolas's hippie Birkenstocks.",
+    "A witch.",
+    "Fat Kool-Aid Albert.",
+    "Banging coconuts together.",
+    "Miners, not minors.",
+    "The Pippin-Bergil midget-fight.",
+    "Sukfast.",
+    "Aulë's premature ejaculation of the Dwarves.",
+    "Horse meat.",
+    "A flesh wound.",
+    "Barrow-wight necrophilia.",
+    "Orcish excrement-graffiti.",
+    "The severed-head catapult.",
+    "Orc-chasing insomnia.",
+    "Legolas plumbing the depths of Gimli's mineshaft.",
+    "Maggoty mushrooms.",
+    "Frame narrative.",
+    "Éowyn's strap-on.",
+    "Tra la la lally.",
+    "Melkor's pitch-black butthole.",
+    "Uncle Andy's tightrope act.",
+    "News from Bree.",
+    "Bristly dwarven pubic hair.",
+    "The customary Nazgúl butt-sniffing greeting.",
+    "Johnston's liquid beef extract.",
+    "Goblin-head golf.",
+    "An orange monkey.",
+    "Necromancer prison hooch.",
+    "Fireworks.",
+    "A kick in the nuts from Bill the Pony.",
+    "A-Rod.",
+    "69.",
+    "Fang.",
+    "My finest Gollum impersonation.",
+    "Rush.",
+    "Too many white people.",
+    "Taking a leak in the Forbidden Pool.",
+    "Biggus Dickus.",
+    "Madonna.",
+    "That scandalous \"Little People/Big People\" brothel up in Archet.",
+    "The patented Denethor stop-drop-n-roll technique.",
+    "Soap on a rope from the dungeons of Thranduil.",
+    "Elven condescension.",
+    "The best place to take a dump this side of the Blue Mountains.",
+    "Water from the black stream of Mirkwood.",
+    "The violence inherent in the system.",
+    "Human sacrifice.",
+    "A high-stakes game of Meduceld mead-pong.",
+    "Sharky's Rear End.",
+    "Mordor-trekking puss-oozing blister-sores.",
+    "Grima's fantasy-filled nocturnal emissions.",
+    "The TARDIS.",
+    "The Michel Delving chili cookoff.",
+    "The Book of Mazarbul.",
+    "A Gorbag/Shagrat buddy cop show.",
+    "Dwarven gold-greed.",
+    "The dwarf party's farting percussion section.",
+    "The Hall of Fire.",
+    "The Flame Imperishable.",
+    "Taking a dump in the Mirror of Galadriel.",
+    "History.",
+    "The phrase \"Don't Panic\" written in large friendly letters.",
+    "SPBMI.",
+    "The Castle of AAAAAAAGGGGHHHH.",
+    "Daleks.",
+    "Alan Rickman.",
+    "The song that doesn't end.",
+    "Midges in the urethra.",
+    "The girdle of Melian.",
+    "Mithril.",
+    "Yearning to sail into the West.",
+    "The Witch-king's misogyny.",
+    "Dwarven cram farts.",
+    "A besotted Wood Elf butler.",
+    "The leaves of Lórien.",
+    "The Arwen-Aragorn-Éowyn love triangle.",
+    "Learning gentle speech under Gimli's rod.",
+    "That crazy cat lady Berúthiel.",
+    "Green lamp-like eyes.",
+    "Crebain from Dunland.",
+    "Sleepytime in Alphabet Land.",
+    "Moist tentacles.",
+    "Rubbing athelas on my taint.",
+    "A scruffy-looking nerf-herder.",
+    "Pints.",
+    "Explosions in the sky.",
+    "Merry and Pippin's naked drunken game of \"leapfrog\".",
+    "The circle of light.",
+    "Sucking the entrails out of.a raw wriggling fish.",
+    "Maedhros's phantom limb pains.",
+    "Empty beer cans and cigarette butts at the Bonfire Glade.",
+    "Artery-clogging hobbit food.",
+    "Allegory.",
+    "Oromë's saddle-sores.",
+    "Yavanna's unshaven pits.",
+    "The Great Goblin.",
+    "Dropping some kids off at the Forbidden Pool.",
+    "Balrog wings.",
+    "Drogo Baggings's li'l floaty pool wings.",
+    "Sniffing animal feces like a real badass tracker.",
+    "Showing me on this doll where Grishnákh touched you.",
+    "Fifteen birds in five fir trees.",
+    "More cowbell.",
+    "Aragorn's walk through the valley of the shadow of death.",
+    "Ichorous spider entrails.",
+    "The intramural Uruk-hai rugby league.",
+    "House elf jizzmoppers.",
+    "Púkel-men.",
+    "The hands of a healer.",
+    "Ted Sandyman's tobacco-spit.",
+    "A sled pulled by rabbits.",
+    "Dwarves prisoners in thongs.",
+    "Yet another digression.",
+    "Faramir's security blanket.",
+    "Ancalagon the Black.",
+    "Casual elven racism.",
+    "Cold unlovely barrow-gold.",
+    "Rosie Cotton's maidenhead.",
+    "Lobelia Sackville-Baggins's Tuesday morning coupon clippings.",
+    "Grip.",
+    "Brave Sir Robin.",
+    "The Angband ballsmasher.",
+    "The kidney stones of Erech.",
+    "Morgoth's crown.",
+    "Black sails.",
+    "Gargling unnumbered tears.",
+    "Prepubescent hobbit girls.",
+    "Ecthelion.",
+    "Balrog BDSM.",
+    "Superfluous anthropomorphic fox.",
+    "Celebrimbor.",
+    "Old Man Willow's cockrot.",
+    "Sméagol's fish breath.",
+    "A swan-dive off the Falls of Raurus in a funeral boat.",
+    "Sam's crinkle-cut fried taters.",
+    "The blacksmith and the artist.",
+    "The Arkenstone.",
+    "Goldberry's golden showers.",
+    "The Helm's Deep tattoo parlor.",
+    "A frood who really knows where his towel is.",
+    "The Gaffer's laxatives.",
+    "Crankyankers.",
+    "Barliman's overflowing mailbag.",
+    "Boromir's veiny trouser-snake.",
+    "A stairway to heaven.",
+    "Cave troll toenail fungus.",
+    "Crazy cob and lazy lob.",
+    "Eagle droppings.",
+    "The Rohan Gap clap.",
+    "Letter 131 to Milton Waldman.",
+    "Frodo's mithril-chafed nipples.",
+    "Entish reproduction.",
+    "Galadriel singing \"I'm on a boat!\".",
+    "Bill Ferney.",
+    "Ringwraith laryngitis.",
+    "A babblefish.",
+    "The droids you're looking for.",
+    "Boromir's cloven horn.",
+    "Théoden's dementia meds.",
+    "Journey.",
+    "Roäc eating roadkill.",
+    "Barliman Butterbur's belly button lint.",
+    "Hithlain bondage.",
+    "A bur-a-hobbit.",
+    "Settling for Faramir when deep down you wanted his bad boy brother.",
+    "That awkward silence.",
+    "Gonorrhea from Gondolin.",
+    "The Edoras thatch-fire mafia.",
+    "The Tinúviel Dance-Dance Revolution.",
+    "Gothmog's flatulence.",
+    "TP'ing the Party Tree.",
+    "The Milky Way a.k.a. the breastmilk of Varda.",
+    "Durin's ax.",
+    "Prince Imrahil.",
+    "Weathertop.",
+    "Kili.",
+    "Sharting in an elven cloak.",
+    "Gollum's schizo meds.",
+    "Denethor's bitter disappointment.",
+    "Lyra Silvertongue.",
+    "Gandalf moonwalking atop Orthanc.",
+    "The Holy Hand Grenade.",
+    "A Cincinatti bowtie.",
+    "Mythopoeia.",
+    "Ghan-Buri-Ghan.",
+    "Edoras Wild Mare Single-Malt Whiskey.",
+    "The Teleri seaside barbecue.",
+    "Weeping angels.",
+    "That bubble-icious she-dwarf booty.",
+    "Meriadoc's secret knowledge that Dernhelm didn't have a willy.",
+    "Wolf-whistling at wargs.",
+    "Treebeard's giant spooge-bazooka.",
+    "The Ring of Words.",
+    "Crabs from Dunland.",
+    "Very small rocks.",
+    "Lamenting that no-one in these stories has genitals.",
+    "Bill the Pony.",
+    "Vikings.",
+    "Incongruous hobbit accents from all over England.",
+    "A green country under a swift sunrise.",
+    "Hot oliphaunt-on-oliphaunt action.",
+    "A pack of Q-tips.",
+    "Hocking a loogie from the top of Orthanc.",
+    "The Misty Mountain hop.",
+    "Pants on the ground.",
+    "Tevildo's catnip.",
+    "Troll hemorrhoids.",
+    "Balin son of Fundin.",
+    "Ropey Ent-turds.",
+    "Nipple rings.",
+    "Wine that smells like elf feet.",
+    "Dwimmerlaik.",
+    "Some good hot deep-dickin'.",
+    "The Eagles.",
+    "Maddening hobbit insularity.",
+    "Crushing Tom Bombadil's lilies.",
+    "This new devilry.",
+    "The Philology Faire.",
+    "The Finrod/Sauron epic rap battle.",
+    "Radagast's guano-encrusted staff.",
+    "Flatulence.",
+    "Gwaihir eating a muskrat.",
+    "Teniquetil.",
+    "My precious.",
+    "Bear-baiting Beornings.",
+    "Whortleberry.",
+    "An arrow to the knee.",
+    "Goku.",
+    "Brupper.",
+    "The Palantir telehealth initiative.",
+    "Word-nerdery.",
+    "Giving Mr. Frodo a quick rub-and-tug.",
+    "Parma Eldalamberon #17.",
+    "Thingol's severed manhood.",
+    "A donkey punch.",
+    "The Gaffer's potato cannon.",
+    "Tirion upon Túna upon Rye.",
+    "The as-yet-untitled Amazon Middle-earth project.",
+    "Soul-piercing elven beauty.",
+    "Sting.",
+    "Ent Viagra: because even trees deserve to get wood.",
+    "Frigid Entwives.",
+    "A Tolkien fun-fact.",
+    "Celeborn.",
+    "The gloom and doom of emo Mandos.",
+    "Balrogs laughing at Melkir 'cause he got beat up by a girl.",
+    "Hanging out in the van.",
+    "Mrs. Maggot's used sanitary napkins.",
+    "Galadriel.",
+    "The stars above Lake Cuivienen.",
+    "Tom Bombadil's late-night karaoke raves.",
+    "Glorfindel.",
+    "Saruman/Wormtongue tearful revenge sex.",
+    "A mead-fueled Meduceld orgy.",
+    "Huon licking his balls.",
+    "The anatomical challenges posed by big people/little people intercourse.",
+    "The Necronomicon splattered with Cthulhu's space-jizz.",
+    "Melkor ruining another goddamn dinner party.",
+    "Ar-pharazôn's dick pics on Snapchat.",
+    "Azog's knob-cheese.",
+    "Beorning bestiality.",
+    "Movie-Sauron's vagina-looking eye.",
+    "Fuckstockings.",
+    "The overreaching pride of Men.",
+    "Uruk-hai comparing dick sizes at the Isengard urinals.",
+    "Using the silmarils as anal beads.",
+    "Punching Faramir in his goddamn goody two-shoes face.",
+    "Getting impregnated from a Rivendell toilet seat because elf sperm is immortal.",
+    "A blowjob from Theoden after he takes out his dentures.",
+    "Dernhelm's piss-helmet, for when he/she couldn't use the latrine with the guys.",
+    "Sam Gamgee's vasectomy because enough babies ffs.",
+    "Smegma.",
+    "The phial of Galadriel's precious vag-lube.",
+    "Éowyn a.k.a. Dead Man's Dike.",
+    "Crusted jizz in Gandalf's beard.",
+    "Gnarled orc cock.",
+    "That tasty Tauriel snatch.",
+    "Denethor's food porn.",
+    "The boring-ass missionary position.",
+    "Ulmo's salty sea-jizz.",
+    "Barliman Butterbur's brain fart.",
+    "The Mouth of Sauron's legendary Cracks-O-Doom rimjob.",
+    "Bilbo's wrinkled nutsack.",
+    "Tuor's wild sexcapades.",
+    "An Ent taking a really long piss.",
+    "Bilbo's sodden adult diapers after the Council of Elrond.",
+    "Flame of anus.",
+    "Centipedes in Shelob's snatch.",
+    "Homoerotic undertones.",
+    "Bombur's bitch-tits.",
+    "Barad-dûr torture porn.",
+    "A good wholesome goblin ass-pounding.",
+    "The big spoopy Minus Morgul vaudeville shitshow.",
+    "Frodo's tacit asexuality.",
+    "A Cunticle for Leibowitz.",
+    "My prune-wrinkled scrotum after a dip in the Nimrodel.",
+    "Big black Balrog cock.",
+    "Pigeons shitting on the Argonath.",
+    "Asking questions after nightfall.",
+    "Damn kids making crop circles in the fields of Rohan.",
+    "Shitting off a flet.",
+    "My dick in a box.",
+    "Arwen's buttplug.",
+    "Rain a.k.a. Manwë's sky-jizz.",
+    "Aragorn furiously jacking off into a sock when he thinks nobody's watching.",
+    "Ungoliant's vagina-silk.",
+    "That huge swinging pair of balls on Éowyn.",
+    "Illicit Rohhiric horse-porn.",
+    "Squishing and squeezing DD boobs into a breastplate made for men.",
+    "Hentai.",
+    "Cirdan's crinkle-cut cum-chips.",
+    "Three of Galadriel's pubes.",
+    "Beren's poorly-concealed boner upon spying the dancing Tinúviel.",
+    "Another fucking Denethor dad joke.",
+    "Eärendil's raging star-boner.",
+    "The Bob and Nob knob-bob.",
+    "The Minas Tirith crackwhore epidemic.",
+    "A Dead Marshes wet fart."
+  ],
+  "pack": {
+    "id": "EATR4",
+    "name": "P4G CAH"
+  },
+  "quantity": {
+    "black": 114,
+    "white": 348,
+    "total": 462
+  },
+  "dateStoredMs": 1589332506946
+}
