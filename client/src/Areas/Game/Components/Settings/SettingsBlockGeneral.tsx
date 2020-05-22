@@ -95,35 +95,6 @@ const MakePrivate: React.FC<IGameDataProps> = (
 	);
 };
 
-const CustomWhites: React.FC<IGameDataProps> = (
-	{
-		gameData
-	}
-) =>
-{
-	const onChange = (e: ChangeEvent<{}>, v: boolean) =>
-	{
-		GameDataStore.setCustomWhites(v);
-	};
-
-	return (
-		<FormControl component="fieldset" style={{width: "100%"}}>
-			<ListItem>
-				<ListItemText primary={"Write Your Own!"} secondary={`Write your own answers instead of using the built-in white cards!`}/>
-				<ListItemSecondaryAction>
-					<Switch
-						edge="end"
-						color={"secondary"}
-						onChange={onChange}
-						name={"isPublic"}
-						checked={gameData.ownerSettings.public}
-					/>
-				</ListItemSecondaryAction>
-			</ListItem>
-		</FormControl>
-	);
-};
-
 let sliderTimeout = 0;
 const RoundsRequiredField: React.FC<IGameDataProps> = ({
 	                                                       gameData

@@ -134,9 +134,7 @@ export class ShowWinner extends React.Component<Props, State>
 		}
 
 		const winnerCardIds = lastWinner?.whiteCards ?? [];
-		const winnerCards = settings?.customWhites
-			?  customCards[lastWinner.guid]
-			: winnerCardIds.map(cardId => this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]);
+		const winnerCards = winnerCardIds.map(cardId => this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]);
 		const blackCardContent = this.state.gameData.blackCardDef?.content;
 		if (!lastWinner || !game || winnerCards.length === 0 || !blackCardContent)
 		{

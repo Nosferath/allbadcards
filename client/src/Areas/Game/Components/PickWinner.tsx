@@ -60,20 +60,15 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 		roundCards,
 		playerOrder,
 		chooserGuid,
-		settings,
-		roundCardsCustom
 	} = gameData.game;
 
-	const cardBucket = settings.customWhites ? roundCardsCustom : roundCards;
-	const roundCardsDefined = cardBucket ?? {};
+	const roundCardsDefined = roundCards ?? {};
 	const roundCardKeys = playerOrder.filter(a => a !== chooserGuid);
-	const roundCardValues = settings.customWhites
-		? roundCardKeys.map(playerGuid => roundCardsDefined[playerGuid] as string[])
-		: roundCardKeys.map(playerGuid => (roundCardsDefined[playerGuid] as CardId[])?.map(cardId =>
-			gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
-		));
+	const roundCardValues = roundCardKeys.map(playerGuid => (roundCardsDefined[playerGuid] as CardId[])?.map(cardId =>
+		gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
+	));
 
- 
+
 	return (
 		<>
 			{timeToPick && !revealMode && !hasWinner && (

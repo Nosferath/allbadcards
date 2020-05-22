@@ -18,7 +18,6 @@ import {PlayersRemaining} from "./Components/PlayersRemaining";
 import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import Button from "@material-ui/core/Button";
-import {WhiteCardHandCustom} from "./Components/WhiteCardHandCustom";
 import {Instructions} from "./Components/Instructions";
 
 interface IGamePlayWhiteProps
@@ -254,7 +253,6 @@ export class GamePlayWhite extends React.Component<Props, State>
 
 		let targetPicked = gameData.blackCardDef?.pick ?? 1;
 
-		const customWhites = gameData.game.settings.customWhites;
 		const roundCardKeys = Object.keys(roundCards ?? {});
 		const revealedIndex = this.state.gameData.game?.revealIndex ?? 0;
 		const metPickTarget = targetPicked <= pickedCards.length || targetPicked <= pickedCardsCustom.length;
@@ -288,45 +286,33 @@ export class GamePlayWhite extends React.Component<Props, State>
 				<Instructions/>
 				{!hasWinner && roundStarted && !revealMode && (
 					<Grid container spacing={2}>
-						{gameData.game?.settings.customWhites ? (
-							<WhiteCardHandCustom
-								gameData={gameData}
-								userData={userData}
-								targetPicked={targetPicked}
-								onPickUpdate={this.onPickUpdateCustom}
-							/>
-						) : (
-							<>
-								<WhiteCardHand
-									gameData={gameData}
-									userData={userData}
-									targetPicked={targetPicked}
-									onPickUpdate={this.onPickUpdate}
-								/>
-								{!hasPlayed && !didForfeit && !revealMode && (
-									<Grid item xs={12} style={{display: "flex", justifyContent: "center", padding: "4rem 0 2rem"}}>
-										<Tooltip enterTouchDelay={0} enterDelay={0} title={canUseMyCardsSuck ? "Forfeit round and get new cards?" : "You can only do this every 5 rounds"} arrow>
-											<div>
-												<LoadingButton
-													loading={suckButtonLoading}
-													size={"large"}
-													variant={"contained"}
-													color={"secondary"}
-													disabled={hasPlayed || revealMode || !roundStarted || !canUseMyCardsSuck}
-													onClick={this.showForfeitConfirm}
-													style={{
-														marginLeft: "0.5rem"
-													}}
-												>
-													My cards suck
-												</LoadingButton>
-											</div>
-										</Tooltip>
-									</Grid>
-								)}
-							</>
+						<WhiteCardHand
+							gameData={gameData}
+							userData={userData}
+							targetPicked={targetPicked}
+							onPickUpdate={this.onPickUpdate}
+						/>
+						{!hasPlayed && !didForfeit && !revealMode && (
+							<Grid item xs={12} style={{display: "flex", justifyContent: "center", padding: "4rem 0 2rem"}}>
+								<Tooltip enterTouchDelay={0} enterDelay={0} title={canUseMyCardsSuck ? "Forfeit round and get new cards?" : "You can only do this every 5 rounds"} arrow>
+									<div>
+										<LoadingButton
+											loading={suckButtonLoading}
+											size={"large"}
+											variant={"contained"}
+											color={"secondary"}
+											disabled={hasPlayed || revealMode || !roundStarted || !canUseMyCardsSuck}
+											onClick={this.showForfeitConfirm}
+											style={{
+												marginLeft: "0.5rem"
+											}}
+										>
+											My cards suck
+										</LoadingButton>
+									</div>
+								</Tooltip>
+							</Grid>
 						)}
-
 					</Grid>
 				)}
 
@@ -344,7 +330,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 							size={"large"}
 							variant={"contained"}
 							color={"secondary"}
-							onClick={customWhites ? this.onCommitCustom : this.onCommit}
+							onClick={this.onCommit}
 						>
 							Play
 						</LoadingButton>

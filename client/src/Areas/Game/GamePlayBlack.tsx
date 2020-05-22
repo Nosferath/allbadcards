@@ -92,7 +92,7 @@ export class GamePlayBlack extends React.Component<Props, State>
 
 		const me = gameData.game?.players?.[this.state.userData.playerGuid];
 
-		const cardDefsLoaded = gameData.game?.settings.customWhites || Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
+		const cardDefsLoaded = Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
 
 		if (!me || !gameData.game || !cardDefsLoaded)
 		{
@@ -103,17 +103,13 @@ export class GamePlayBlack extends React.Component<Props, State>
 			players,
 			chooserGuid,
 			roundCards,
-			roundCardsCustom,
 			roundStarted,
-			settings
 		} = gameData.game;
 
-		const cardBucket = settings.customWhites ? roundCardsCustom : roundCards;
-
-		const roundCardKeys = Object.keys(cardBucket ?? {});
+		const roundCardKeys = Object.keys(roundCards ?? {});
 
 		const remainingPlayerGuids = Object.keys(players ?? {})
-			.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
+			.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
 		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 

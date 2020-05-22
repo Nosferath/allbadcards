@@ -58,7 +58,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			includedPacks: [],
 			inviteLink: null,
 			playerLimit: 50,
-			customWhites: false,
 			public: false,
 			roundsToWin: 7,
 			winnerBecomesCzar: false,
@@ -504,13 +503,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 	{
 		this.setSetting({
 			public: isPublic
-		});
-	}
-
-	public setCustomWhites(customWhites: boolean)
-	{
-		this.setSetting({
-			customWhites
 		});
 	}
 

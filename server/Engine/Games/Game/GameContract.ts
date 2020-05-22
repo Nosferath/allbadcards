@@ -24,6 +24,7 @@ export interface CardId
 {
 	packId: string;
 	cardIndex: number;
+	customInput?: string;
 }
 
 export interface IGameSettings
@@ -38,7 +39,6 @@ export interface IGameSettings
 	includedPacks: string[];
 	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
-	customWhites: boolean;
 	roundTimeoutSeconds: number | null;
 }
 

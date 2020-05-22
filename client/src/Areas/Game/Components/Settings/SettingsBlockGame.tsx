@@ -26,8 +26,6 @@ export const SettingsBlockGame: React.FC = () =>
 
 	return (
 		<List style={{paddingBottom: "1rem"}}>
-			<CustomWhites gameData={gameData}/>
-
 			<Divider style={{margin: "0 0 1rem 0"}}/>
 			<WinnerBecomesCzar gameData={gameData}/>
 
@@ -112,36 +110,6 @@ const MakePrivate: React.FC<IGameDataProps> = (
 						onChange={onChange}
 						name={"isPublic"}
 						checked={gameData.ownerSettings.public}
-					/>
-				</ListItemSecondaryAction>
-			</ListItem>
-		</FormControl>
-	);
-};
-
-const CustomWhites: React.FC<IGameDataProps> = (
-	{
-		gameData
-	}
-) =>
-{
-	const onChange = (e: ChangeEvent<{}>, v: boolean) =>
-	{
-		GameDataStore.setCustomWhites(v);
-	};
-
-	return (
-		<FormControl component="fieldset" style={{width: "100%"}}>
-			<ListItem>
-				<ListItemText primary={"Write Your Own!"} secondary={`Write your own answers instead of using the built-in white cards!`}/>
-				<ListItemSecondaryAction>
-					<Switch
-						edge="end"
-						color={"secondary"}
-						onChange={onChange}
-						name={"isPublic"}
-						disabled={gameData.game?.started}
-						checked={gameData.ownerSettings.customWhites}
 					/>
 				</ListItemSecondaryAction>
 			</ListItem>

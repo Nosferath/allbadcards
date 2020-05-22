@@ -20,16 +20,12 @@ export const PlayersRemaining = () =>
 	const {
 		players,
 		roundCards,
-		roundCardsCustom,
 		chooserGuid,
 		roundStarted,
-		settings
 	} = gameData.game;
 
-	const cardBucket = settings.customWhites ? roundCardsCustom : roundCards;
-
 	const remainingPlayerGuids = Object.keys(players ?? {})
-		.filter(pg => !(pg in (cardBucket ?? {})) && pg !== chooserGuid);
+		.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
 	const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 	const chooserIsMe = userData.playerGuid === chooserGuid;

@@ -51,10 +51,7 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 	const randomPlayers = playerGuids.filter(pg => players[pg]?.isRandom) ?? [];
 	const canAddRandom = randomPlayers.length < 10;
 	const selectedPacks = [...gameData.ownerSettings.includedPacks, ...gameData.ownerSettings.includedCustomPackIds];
-	const hasRandoms = randomPlayers.length > 0;
-	const isCustomWhites = gameData.ownerSettings?.customWhites;
-	const badCustomState = isCustomWhites && hasRandoms;
-	const canStart = selectedPacks.length > 0 && !badCustomState;
+	const canStart = selectedPacks.length > 0;
 
 	return (
 		<GamePreview id={props.id}>
@@ -80,11 +77,6 @@ const GameStart: React.FC<IGameStartProps> = (props) =>
 					</LoadingButton>
 				</span>
 			</Tooltip>
-			{badCustomState && (
-				<Alert severity={"error"} style={{marginTop: "1rem"}}>
-					You can't have AI players if you are using the <strong>Write Your Own</strong> option. The AI players are too dumb for that!
-				</Alert>
-			)}
 			<Divider style={{margin: "3rem 0"}}/>
 			<Typography variant={"h4"}>Settings</Typography>
 			<GameSettings/>

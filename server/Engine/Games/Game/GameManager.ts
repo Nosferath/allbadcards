@@ -197,7 +197,6 @@ class _GameManager
 					includedPacks: [],
 					includedCustomPackIds: [],
 					winnerBecomesCzar: false,
-					customWhites: false,
 					roundTimeoutSeconds: 60
 				}
 			};
@@ -346,10 +345,7 @@ class _GameManager
 		const game = new Game(existingGame);
 
 		// Remove the played white card from each player's hand
-		if (!existingGame.settings.customWhites)
-		{
-			game.removeUsedCardsFromPlayers();
-		}
+		game.removeUsedCardsFromPlayers();
 
 		game.resetReveal();
 		game.nextCzar();
@@ -658,11 +654,6 @@ class _GameManager
 		const existingGame = await this.getGame(gameId);
 		const newGame = {...existingGame};
 
-		if (newGame.settings.customWhites)
-		{
-			return;
-		}
-
 		const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
 		const targetPicked = blackCardDef.pick;
 		const allEligiblePlayerGuids = newGame.playerOrder.filter(pg => pg !== newGame.chooserGuid);
@@ -794,11 +785,6 @@ class _GameManager
 
 	public async dealWhiteCards(gameItem: GameItem)
 	{
-		if (gameItem.settings.customWhites)
-		{
-			return gameItem;
-		}
-
 		const newGame = cloneDeep(gameItem);
 
 		let usedWhiteCards: CardPackMap = {...gameItem.usedWhiteCards};
