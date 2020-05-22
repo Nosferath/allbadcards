@@ -3,9 +3,7 @@
 /builds/keys/
 /builds/
 /client/build/
-/client/yarn-error.log
-/combined.log
-/error.log
+*.log
 /config/keys.json
 **/keys.json
 keys.json
