@@ -83,7 +83,7 @@ export const JsonUpload: React.FC = () =>
 			const validateResult = validatePackInput(obj);
 			if (validateResult.valid)
 			{
-				const pack = obj.pack as ICardPackDefinition;
+				const pack = obj as ICardPackDefinition;
 				PackCreatorDataStore.hydrateFromData(pack);
 
 				setTimeout(BrowserUtils.scrollToTop, 250);

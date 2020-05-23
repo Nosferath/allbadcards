@@ -31,7 +31,8 @@ export class _PatreonConnector
 
 		if (profileInfo && !profileInfo.errors && profileInfo.included && profileInfo.data.relationships && profileInfo.data.relationships.pledges)
 		{
-			const pledgeIds = profileInfo.data.relationships.pledges.data.map((p: any) => p.id);
+			let pledgeIds = profileInfo?.data?.relationships?.pledges?.data?.map((p: any) => p?.id) ?? [];
+			pledgeIds = pledgeIds.filter((a: any) => !!a);
 			if (pledgeIds && pledgeIds.length)
 			{
 				const pledges = profileInfo.included.filter((i: any) => i.type === "pledge" && pledgeIds.includes(i.id));
