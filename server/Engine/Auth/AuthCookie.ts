@@ -28,6 +28,13 @@ export class AuthCookie
 		}
 	}
 
+	public static clear(res: Response)
+	{
+		res.clearCookie(AuthCookie.AuthCookieName, {
+			domain: Config.domain.split(":")[0]
+		});
+	}
+
 	private static encodeUserInfo(userData: IClientAuthStatus): string
 	{
 		return this.Encryption.encrypt(JSON.stringify(userData));

@@ -65,6 +65,12 @@ class _AuthDatastore extends DataStore<IAuthContext>
 		this.initialize();
 	}
 
+	public logOut()
+	{
+		Platform.logOut()
+			.then(() => this.initialize());
+	}
+
 	public hasLevel(backerType: BackerType)
 	{
 		return this.state.levels?.indexOf(backerType) > -1;

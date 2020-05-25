@@ -280,6 +280,11 @@ class _Platform
 		return Fetcher.doGet<{status: IClientAuthStatus}>("/auth/status")
 	}
 
+	public logOut()
+	{
+		return Fetcher.doGet("/auth/logout");
+	}
+
 	public getPack(packId: string, bustCache = false)
 	{
 		const append = bustCache ? Date.now() : "";

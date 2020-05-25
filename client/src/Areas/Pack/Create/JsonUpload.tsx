@@ -1,5 +1,5 @@
 import React, {createRef, useState} from "react";
-import {Button, DialogContent, IconButton, Link} from "@material-ui/core";
+import {Button, ButtonGroup, DialogActions, DialogContent, IconButton, Link} from "@material-ui/core";
 import {FaRegQuestionCircle, FaUpload} from "react-icons/all";
 import {CloseableDialog} from "../../../UI/CloseableDialog";
 import {ErrorDataStore} from "../../../Global/DataStore/ErrorDataStore";
@@ -14,23 +14,35 @@ export const JsonUpload: React.FC = () =>
 	const [helpOpen, setHelpOpen] = useState(false);
 	const [disclaimerOpen, setDisclaimerOpen] = useState(false);
 	const [schemaOpen, setSchemaOpen] = useState(false);
-	const inputRef = createRef<HTMLInputElement>();
+
+	const addInputRef = createRef<HTMLInputElement>();
+	const replaceInputRef = createRef<HTMLInputElement>();
 	const preRef = createRef<HTMLPreElement>();
 
-	const uploadClick = () =>
+	const addClick = () =>
 	{
-		inputRef.current?.click();
+		addInputRef.current?.click();
+	};
+
+	const replaceClick = () =>
+	{
+		replaceInputRef.current?.click();
 	};
 
 	const clearInput = () =>
 	{
-		if (inputRef.current)
+		if (addInputRef.current)
 		{
-			inputRef.current.value = "";
+			addInputRef.current.value = "";
+		}
+
+		if (replaceInputRef.current)
+		{
+			replaceInputRef.current.value = "";
 		}
 	};
 
-	const onFileSelected = (e: React.ChangeEvent<HTMLInputElement>) =>
+	const onFileSelected = (e: React.ChangeEvent<HTMLInputElement>, replace = true) =>
 	{
 		const file = e.target.files?.[0];
 		if (file)
@@ -56,14 +68,14 @@ export const JsonUpload: React.FC = () =>
 				}
 			});
 
-			p.then(validate)
+			p.then((data) => validate(data, replace))
 				.catch(ErrorDataStore.add);
 
 			setDisclaimerOpen(false);
 		}
 	};
 
-	const validate = (result: string | ArrayBuffer) =>
+	const validate = (result: string | ArrayBuffer, replace: boolean) =>
 	{
 		const stringResult = result.toString();
 		let obj: any;
@@ -84,7 +96,7 @@ export const JsonUpload: React.FC = () =>
 			if (validateResult.valid)
 			{
 				const pack = obj as ICardPackDefinition;
-				PackCreatorDataStore.hydrateFromData(pack);
+				PackCreatorDataStore.hydrateFromData(pack, replace);
 
 				setTimeout(BrowserUtils.scrollToTop, 250);
 			}
@@ -117,33 +129,43 @@ export const JsonUpload: React.FC = () =>
 					Instead of using the All Bad Cards tools to create a card pack, you can also do it manually using text files.
 				</DialogContent>
 			</CloseableDialog>
-			<CloseableDialog open={disclaimerOpen} onClose={() => setDisclaimerOpen(false)} TitleProps={{children: "Disclaimer"}}>
+			<CloseableDialog open={disclaimerOpen} onClose={() => setDisclaimerOpen(false)} TitleProps={{children: "Add or Replace?"}}>
 				<DialogContent dividers>
-					Loading a pack will <strong>add to any previous cards already present in this pack</strong>. If you do it more than once, you will end up with duplicate cards.
+					You can choose to replace this pack's cards (if there are any), or add to them. Which would you like to do?
 					<br/>
 					<br/>
 					<input
 						accept="application/json"
 						hidden
-						id="raised-button-file"
+						id="add-button-file"
 						type="file"
-						ref={inputRef}
-						onChange={onFileSelected}
+						ref={addInputRef}
+						onChange={e => onFileSelected(e, false)}
+					/>
+
+					<input
+						accept="application/json"
+						hidden
+						id="replace-button-file"
+						type="file"
+						ref={replaceInputRef}
+						onChange={e => onFileSelected(e, true)}
 					/>
 
 					<Link component="button" onClick={() => setSchemaOpen(true)} color={"secondary"}>
 						View JSON Schema
 					</Link>
-
-					<br/>
-					<br/>
-
-					<label htmlFor="raised-button-file">
-						<Button startIcon={<FaUpload/>} variant={"contained"} onClick={uploadClick} style={{marginBottom: "1rem"}} color={"secondary"}>
-							I understand! Let's do it.
-						</Button>
-					</label>
 				</DialogContent>
+				<DialogActions>
+					<ButtonGroup>
+						<Button variant={"text"} onClick={addClick} color={"secondary"}>
+							Add to Pack
+						</Button>
+						<Button variant={"text"} onClick={replaceClick} color={"secondary"}>
+							Replace Pack
+						</Button>
+					</ButtonGroup>
+				</DialogActions>
 			</CloseableDialog>
 			<CloseableDialog open={schemaOpen} onClose={() => setSchemaOpen(false)} TitleProps={{children: "Card Pack JSON Schema"}} maxWidth={"lg"}>
 				<DialogContent dividers>

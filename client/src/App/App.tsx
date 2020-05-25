@@ -18,13 +18,11 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 import {getPatreonUrl} from "../Global/Utils/UserUtils";
 import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
-import cookies from "browser-cookies";
 import {SiteRoutes} from "../Global/Routes/Routes";
 import {CloseableDialog} from "../UI/CloseableDialog";
 import {NavButtons} from "./NavButtons";
 import {colors} from "../colors";
 import {AppBarGameButtons} from "./GameButtons";
-import {EnvDataStore} from "../Global/DataStore/EnvDataStore";
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
 import {DiamondSponsor} from "../Areas/GameDashboard/SponsorList";
@@ -205,13 +203,10 @@ const AppBarRightButtons = () =>
 	const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null);
 	const [logInDialogVisible, setLogInDialogVisible] = useState(false);
 	const history = useHistory();
-	const envData = useDataStore(EnvDataStore);
 
 	const logOut = () =>
 	{
-		cookies.erase("auth");
-
-		AuthDataStore.refresh();
+		AuthDataStore.logOut();
 	};
 
 	const openMenu = (element: HTMLElement) =>
@@ -247,7 +242,7 @@ const AppBarRightButtons = () =>
 					>
 						<MenuItem component={p => <Link {...p} to={SiteRoutes.MyPacks.resolve()}/>}>My Card Packs</MenuItem>
 						<MenuItem component={p => <Link {...p} to={SiteRoutes.Settings.resolve()}/>}>Settings</MenuItem>
-						<MenuItem onClick={logOut}>Logout</MenuItem>
+						<MenuItem onClick={logOut}>Log Out</MenuItem>
 					</Menu>
 				</>
 			) : (

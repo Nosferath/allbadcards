@@ -20,16 +20,19 @@ export class Config
 	public static get host()
 	{
 		const domain = this.domain;
-		let host = `https://${domain}`;
 
-		switch (this.Environment)
-		{
-			case "local":
-				host = `http://${domain}`;
-				break;
-		}
+		return `${this.protocol}${domain}`;
+	}
 
-		return host;
+	public static getHostWithSubdomain(subdomain: string)
+	{
+		const fixedSubdomain = subdomain.length > 0
+			? subdomain.endsWith(".")
+				? subdomain
+				: `${subdomain}.`
+			: "";
+
+		return `${this.protocol}${fixedSubdomain}${this.domain}`;
 	}
 
 	public static get domain()
@@ -50,6 +53,18 @@ export class Config
 		}
 
 		return host;
+	}
+
+	private static get protocol()
+	{
+		let protocol = `https://`;
+
+		if(this.Environment === "local")
+		{
+			protocol = `http://`;
+		}
+
+		return protocol;
 	}
 }
 
