@@ -82,6 +82,9 @@ export class NicknameDialog extends React.Component<Props, State>
 						color={"secondary"}
 						onChange={this.onChange}
 						onKeyPress={this.onEnter}
+						inputProps={{
+							maxLength: 50
+						}}
 						fullWidth
 					/>
 				</DialogContent>
