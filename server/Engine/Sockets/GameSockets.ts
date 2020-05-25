@@ -27,7 +27,7 @@ export class GameSockets
 		this.wss = new WebSocket.Server({
 			server,
 			port,
-			perMessageDeflate: false
+			perMessageDeflate: true
 		});
 
 		this.addListeners();
