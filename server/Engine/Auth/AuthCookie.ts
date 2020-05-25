@@ -1,6 +1,7 @@
 import {IClientAuthStatus} from "./UserContract";
 import {Request, Response} from "express";
 import {AuthEncryption} from "./AuthEncryption";
+import {Config} from "../../../config/config";
 
 export class AuthCookie
 {
@@ -13,7 +14,8 @@ export class AuthCookie
 
 		res.cookie(AuthCookie.AuthCookieName, encrypted, {
 			expires: new Date(Date.now() + (1000 * 60 * 60 * 24 * 30)),
-			httpOnly: false
+			httpOnly: false,
+			domain: Config.domain.split(":")[0]
 		});
 	}
 

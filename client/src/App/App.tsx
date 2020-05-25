@@ -251,11 +251,9 @@ const AppBarRightButtons = () =>
 					</Menu>
 				</>
 			) : (
-				envData.site.base && (
-					<Button className={classes.appBarButtonRight} color="inherit" onClick={() => setLogInDialogVisible(true)}>
-						Log In
-					</Button>
-				)
+				<Button className={classes.appBarButtonRight} color="inherit" onClick={() => setLogInDialogVisible(true)}>
+					Log In
+				</Button>
 			)}
 			<CloseableDialog open={logInDialogVisible} onClose={() => setLogInDialogVisible(false)} TitleProps={{children: "Log In"}}>
 				<DialogContent dividers>

@@ -119,7 +119,7 @@ export const JsonUpload: React.FC = () =>
 			</CloseableDialog>
 			<CloseableDialog open={disclaimerOpen} onClose={() => setDisclaimerOpen(false)} TitleProps={{children: "Disclaimer"}}>
 				<DialogContent dividers>
-					Loading your pack may take a while. Don't be surprised if your browser freezes for a bit. We have to parse the text, validate it, and then populate the cards. It's a big task!
+					Loading a pack will <strong>add to any previous cards already present in this pack</strong>. If you do it more than once, you will end up with duplicate cards.
 					<br/>
 					<br/>
 					<input

@@ -62,10 +62,12 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 	public hydrateFromData(pack: Partial<ICardPackDefinition>)
 	{
 		const blackCards = pack.black?.map(bc => bc.content) ?? [];
+		const allBlack = [...this.state.blackCards, ...blackCards];
+		const allWhite = [...this.state.whiteCards, ...(pack.white ?? [])];
 
 		this.update({
-			blackCards,
-			whiteCards: pack.white ?? [],
+			blackCards: allBlack,
+			whiteCards: allWhite,
 			packName: pack?.pack?.name ?? ""
 		})
 	}

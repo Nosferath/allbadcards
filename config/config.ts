@@ -19,18 +19,33 @@ export class Config
 
 	public static get host()
 	{
-		let host = "https://allbad.cards";
+		const domain = this.domain;
+		let host = `https://${domain}`;
 
 		switch (this.Environment)
 		{
 			case "local":
-				host = "http://jlauer.local:5000";
+				host = `http://${domain}`;
+				break;
+		}
+
+		return host;
+	}
+
+	public static get domain()
+	{
+		let host = "allbad.cards";
+
+		switch (this.Environment)
+		{
+			case "local":
+				host = "jlauer.local:5000";
 				break;
 			case "beta":
-				host = "https://beta.allbad.cards";
+				host = "beta.allbad.cards";
 				break;
 			case "prod":
-				host = "https://allbad.cards";
+				host = "allbad.cards";
 				break;
 		}
 

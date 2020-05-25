@@ -7,7 +7,7 @@ import {Config} from "../../../../config/config";
 import {ArrayUtils} from "../../../Utils/ArrayUtils";
 import {RandomPlayerNicknames} from "./RandomPlayers";
 import {logError, logMessage} from "../../../logger";
-import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer} from "./GameContract";
+import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer, PlayerMap} from "./GameContract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../../User/UserUtils";
 import {PackManager} from "../Cards/PackManager";
@@ -16,7 +16,6 @@ import {UserManager} from "../../User/UserManager";
 import {RedisConnector} from "../../Redis/RedisClient";
 import {PlayerManager} from "../Players/PlayerManager";
 import {GameSockets} from "../../Sockets/GameSockets";
-import {Game} from "./Game";
 
 interface IWSMessage
 {
@@ -70,19 +69,16 @@ class _GameManager
 
 		this.redisSub.client.on("message", async (channel, dataString) =>
 		{
-			logMessage(channel, dataString);
 			switch (channel)
 			{
 				case "games":
 					const gameItem = JSON.parse(dataString) as GameItem;
-					logMessage(`Redis update for game ${gameItem.id}`);
 
 					this.gameSockets.updateGames(gameItem);
 					break;
 
 				case "chat":
 					const chatPayload = JSON.parse(dataString) as ChatPayload;
-					logMessage(`Chat update for game ${chatPayload.gameId}`);
 
 					this.gameSockets.updateChats(chatPayload);
 					break;
@@ -108,7 +104,7 @@ class _GameManager
 
 		if (!existingGame)
 		{
-			throw new Error("Game not found!");
+			throw new Error("Game not found: " + gameId);
 		}
 
 		if (existingGame.settings.roundTimeoutSeconds === undefined)
@@ -198,7 +194,7 @@ class _GameManager
 					includedCustomPackIds: [],
 					winnerBecomesCzar: false,
 					customWhites: false,
-					roundTimeoutSeconds: 60
+					roundTimeoutSeconds: null
 				}
 			};
 
@@ -228,7 +224,7 @@ class _GameManager
 
 		UserManager.validateUser(player);
 
-		if (Object.keys(existingGame.players).length >= existingGame.settings.playerLimit)
+		if (Object.keys(existingGame.players).length >= existingGame.settings.playerLimit && !isSpectating)
 		{
 			throw new Error("This game is full.");
 		}
@@ -328,7 +324,7 @@ class _GameManager
 	{
 		UserManager.validateUser(lastChooser);
 
-		const lastChooserGuid = lastChooser.guid;
+		const chooserGuid = lastChooser.guid;
 
 		if (gameId in this.gameRoundTimers)
 		{
@@ -337,33 +333,58 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		if (existingGame.chooserGuid !== lastChooserGuid)
+		if (existingGame.chooserGuid !== chooserGuid)
 		{
 			throw new Error("You are not the chooser!");
 		}
 
+		let newGame = {...existingGame};
 
-		const game = new Game(existingGame);
+		// Reset white card reveal
+		newGame.revealIndex = -1;
 
-		// Remove the played white card from each player's hand
-		if (!existingGame.settings.customWhites)
+		newGame.roundStarted = false;
+
+		// Iterate the round index
+		newGame.roundIndex = existingGame.roundIndex + 1;
+
+		newGame.players = {...newGame.players, ...newGame.pendingPlayers};
+		newGame.pendingPlayers = {};
+		const playerGuids = Object.keys(newGame.players);
+		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
+
+		// Grab a new chooser
+		const chooserIndex = newGame.roundIndex % nonRandomPlayerGuids.length;
+		newGame.chooserGuid = nonRandomPlayerGuids[chooserIndex];
+
+		if (newGame.settings.winnerBecomesCzar && newGame.lastWinner && !newGame.lastWinner.isRandom)
 		{
-			game.removeUsedCardsFromPlayers();
+			newGame.chooserGuid = newGame.lastWinner.guid;
 		}
 
-		game.resetReveal();
-		game.addPendingPlayers();
-		game.nextCzar();
+		// Remove last winner
+		newGame.lastWinner = undefined;
 
-		game.update({
-			roundStarted: false,
-			roundIndex: existingGame.roundIndex + 1,
-			roundCards: {},
-			roundCardsCustom: {},
-			lastWinner: undefined
-		});
+		// Remove the played white card from each player's hand
+		if (!newGame.settings.customWhites)
+		{
+			newGame.players = playerGuids.reduce((acc, playerGuid) =>
+			{
+				const player = newGame.players[playerGuid];
+				const newPlayer = {...player};
+				const usedCards = newGame.roundCards[playerGuid] ?? [];
+				newPlayer.whiteCards = player.whiteCards.filter(wc =>
+					!usedCards.find(uc => deepEqual(uc, wc))
+				);
+				acc[playerGuid] = newPlayer;
 
-		let newGame = game.result;
+				return acc;
+			}, {} as PlayerMap);
+		}
+
+		// Reset the played cards for the round
+		newGame.roundCards = {};
+		newGame.roundCardsCustom = {};
 
 		// Deal a new hand
 		newGame = await this.dealWhiteCards(newGame);
@@ -645,7 +666,6 @@ class _GameManager
 		{
 			this.gameCardTimers[gameId] = setTimeout(() =>
 			{
-				console.log("TIMEOUT REACHED");
 				this.playCardsForSlowPlayers(gameId);
 			}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
 		}

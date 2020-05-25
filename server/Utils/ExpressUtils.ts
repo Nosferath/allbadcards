@@ -1,5 +1,5 @@
 import {Request, Response} from "express";
-import {logError, logMessage} from "../logger";
+import {logError} from "../logger";
 import {Config} from "../../config/config";
 import {IPlayer} from "../Engine/Games/Game/GameContract";
 
@@ -36,5 +36,5 @@ export const logRequest = (req: Request) =>
 		? JSON.stringify(req.query)
 		: undefined;
 
-	logMessage(req.url, body?.substr(0, 500), query?.substr(0, 500));
+	//logMessage(req.url, body?.substr(0, 500), query?.substr(0, 500));
 };

@@ -174,7 +174,6 @@ const ChatMessage: React.FC<MessageProps> = (props) =>
 	const classes = useStyles();
 
 	const isProfane = filter.isProfane(props.message);
-	const cleaned = filter.clean(props.message);
 	const [showMuteConfirm, setShowMuteConfirm] = useState(false);
 
 	const mutePerson = () =>
