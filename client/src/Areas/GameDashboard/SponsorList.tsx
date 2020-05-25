@@ -1,6 +1,6 @@
 import React from "react";
 import classNames from "classnames";
-import {createStyles, Theme, Typography} from "@material-ui/core";
+import {createStyles, Divider, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Grid from "@material-ui/core/Grid";
 import {Platform} from "../../Global/Platform/platform";
@@ -43,6 +43,9 @@ const useStyles = makeStyles(theme => createStyles({
 			},
 		}
 	},
+	diamond: {
+		height: "9rem"
+	},
 	noSponsor: {
 		transition: "0.25s",
 		"& a": {
@@ -71,7 +74,7 @@ export const SponsorList = () =>
 	const classes = useStyles();
 	const envData = useDataStore(EnvDataStore);
 
-	if(!envData.site?.base)
+	if (!envData.site?.base)
 	{
 		return null;
 	}
@@ -135,9 +138,9 @@ export const SponsorList = () =>
 				</div>
 			</div>
 			<Grid className={classes.sponsors}>
-				<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
+				<DiamondSponsor/>
 
-				{sponsors.map((s, i)=>
+				{sponsors.map((s, i) =>
 					<Sponsor key={i} sponsor={s}/>
 				)}
 
@@ -168,6 +171,30 @@ interface ISponsorProps
 	sponsor: ISponsor | undefined;
 }
 
+export const DiamondSponsor = () =>
+{
+	return (
+		<Grid container>
+			<Grid item xs={12} style={{textAlign: "center"}}>
+				{location.pathname !== "/" && (
+					<Typography style={{marginBottom: "1rem"}}>
+						Thanks to <a href={"http://talkingouturanus.com/?source=abc"} target={"_blank"} rel={"noreferrer nofollow"}>Talking Out Uranus</a> for sharing their card packs! 🙌
+					</Typography>
+				)}
+				<Divider style={{marginBottom: "1rem"}}/>
+				<Typography variant={"h5"}>This Month's Diamond Sponsor</Typography>
+				<Sponsor sponsor={{
+					byline: "",
+					url: "https://linktr.ee/revivalrecs?source=abc",
+					src: "/sponsors/revival.png",
+					familyOnly: false
+				}} isDiamondSponsor={true}/>
+				<Divider/>
+			</Grid>
+		</Grid>
+	);
+};
+
 export const Sponsor: React.FC<ISponsorProps> = (props) =>
 {
 	const envData = useDataStore(EnvDataStore);
@@ -176,9 +203,10 @@ export const Sponsor: React.FC<ISponsorProps> = (props) =>
 	const wrapperClasses = classNames(classes.sponsor, {
 		[classes.hasSponsor]: !!props.sponsor,
 		[classes.noSponsor]: !props.sponsor,
+		[classes.diamond]: props.isDiamondSponsor
 	});
 
-	if(!envData.site?.base)
+	if (!envData.site?.base)
 	{
 		return null;
 	}
@@ -219,7 +247,7 @@ const SponsorInner: React.FC<ISponsorProps> = (props) =>
 			{hasSponsor && (
 				<div style={{
 					width: "100%",
-					height: "5rem",
+					height: props.isDiamondSponsor ? "7rem" : "5rem",
 					backgroundImage: `url(${props.sponsor?.src})`,
 					backgroundSize: "contain",
 					backgroundRepeat: "no-repeat",

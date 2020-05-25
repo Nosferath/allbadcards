@@ -30,14 +30,24 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
       "prod": "mongodb://your.url/letsplaywtf",
       "beta": "mongodb://your.url/letsplaywtf"
     },
-    "redisHost": {
-      "local": "localhost",
-      "prod": "your.url",
-      "beta": "your.url"
+    "redis": {
+      "key": "",
+      "port": 1234,
+      "host": {
+        "local": "localhost",
+        "prod": "your.url",
+        "beta": "your.url"
+      }
     },
-    "redisKey": "",
-    "redisPort": 1234,
-    "userSecretSalt": ""
+    "patreon": {
+      "id": "_your_patreon_id_",
+      "secret": "_your_patreon_secret_"
+    },
+    "crypto": {
+      "key32": "_32_character_guid_",
+      "iv16": "_16_character_guid_"
+    },
+    "userSecretSalt": "_some_salt_here_"
   }
 ]
 ```

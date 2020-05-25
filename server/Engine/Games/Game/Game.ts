@@ -34,7 +34,7 @@ export class Game
 	{
 		const nonRandomPlayerGuids = this.playerGuids.filter(pg => !this.game.players[pg].isRandom);
 
-		const chooserIndex = this.game.roundIndex + 1 % nonRandomPlayerGuids.length;
+		const chooserIndex = (this.game.roundIndex + 1) % nonRandomPlayerGuids.length;
 		let chooserGuid = nonRandomPlayerGuids[chooserIndex];
 
 		if (this.game.settings.winnerBecomesCzar && this.game.lastWinner && !this.game.lastWinner.isRandom)

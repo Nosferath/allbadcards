@@ -5,9 +5,6 @@ import {ErrorBoundary} from "../../../App/ErrorBoundary";
 import {GamePlayWhite} from "../GamePlayWhite";
 import {GamePlayBlack} from "../GamePlayBlack";
 import {GamePlaySpectate} from "../GamePlaySpectate";
-import Grid from "@material-ui/core/Grid";
-import Divider from "@material-ui/core/Divider";
-import {Sponsor} from "../../GameDashboard/SponsorList";
 import React from "react";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
@@ -65,6 +62,7 @@ export const GameInner: React.FC<Props> = (
 	const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 	const chatBarExpanded = chatData.sidebarOpen && !tablet && canChat;
 
+
 	return (
 		<div style={{maxWidth: chatBarExpanded ? "calc(100% - 320px)" : "100%"}}>
 			<div style={{minHeight: "70vh"}}>
@@ -103,10 +101,6 @@ export const GameInner: React.FC<Props> = (
 					</ErrorBoundary>
 				)}
 			</div>
-			<Grid style={{marginTop: "5rem"}}>
-				<Divider style={{margin: "1rem 0"}}/>
-				<Sponsor sponsor={undefined} isDiamondSponsor={true}/>
-			</Grid>
 		</div>
 	);
 };

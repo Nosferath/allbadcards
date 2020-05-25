@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "start": "cd output && node server/server.js"
+    "start": "cd output && node --inspect=0.0.0.0:9229 server/server.js"
   }
 }

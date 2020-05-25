@@ -59,13 +59,21 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 			.catch(ErrorDataStore.add);
 	}
 
-	public hydrateFromData(pack: Partial<ICardPackDefinition>)
+	public hydrateFromData(pack: Partial<ICardPackDefinition>, replace = true)
 	{
 		const blackCards = pack.black?.map(bc => bc.content) ?? [];
 
+		const allBlack = replace
+			? blackCards
+			: [...this.state.blackCards, ...blackCards];
+
+		const allWhite = replace
+			? pack.white ?? []
+			: [...this.state.whiteCards, ...(pack.white ?? [])];
+
 		this.update({
-			blackCards,
-			whiteCards: pack.white ?? [],
+			blackCards: allBlack,
+			whiteCards: allWhite,
 			packName: pack?.pack?.name ?? ""
 		})
 	}

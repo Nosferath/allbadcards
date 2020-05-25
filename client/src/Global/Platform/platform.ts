@@ -263,7 +263,7 @@ class _Platform
 	{
 		this.trackEvent("cardcast-cached", deckId);
 
-		return Fetcher.doGet<ICardPackDefinition>(`/api/cardcast-pack-export?deck=${deckId}`);
+		return Fetcher.doGet<{packs: ICardPackDefinition[]}>(`/api/cardcast-pack-export?input=${deckId}`);
 	}
 
 	public registerUser()
@@ -278,6 +278,11 @@ class _Platform
 		this.trackEvent("auth-status");
 
 		return Fetcher.doGet<{status: IClientAuthStatus}>("/auth/status")
+	}
+
+	public logOut()
+	{
+		return Fetcher.doGet("/auth/logout");
 	}
 
 	public getPack(packId: string, bustCache = false)

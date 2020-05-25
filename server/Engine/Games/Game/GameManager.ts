@@ -7,7 +7,7 @@ import {Config} from "../../../../config/config";
 import {ArrayUtils} from "../../../Utils/ArrayUtils";
 import {RandomPlayerNicknames} from "./RandomPlayers";
 import {logError, logMessage} from "../../../logger";
-import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer} from "./GameContract";
+import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer, PlayerMap} from "./GameContract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../../User/UserUtils";
 import {PackManager} from "../Cards/PackManager";
@@ -16,7 +16,6 @@ import {UserManager} from "../../User/UserManager";
 import {RedisConnector} from "../../Redis/RedisClient";
 import {PlayerManager} from "../Players/PlayerManager";
 import {GameSockets} from "../../Sockets/GameSockets";
-import {Game} from "./Game";
 
 interface IWSMessage
 {
@@ -70,19 +69,16 @@ class _GameManager
 
 		this.redisSub.client.on("message", async (channel, dataString) =>
 		{
-			logMessage(channel, dataString);
 			switch (channel)
 			{
 				case "games":
 					const gameItem = JSON.parse(dataString) as GameItem;
-					logMessage(`Redis update for game ${gameItem.id}`);
 
 					this.gameSockets.updateGames(gameItem);
 					break;
 
 				case "chat":
 					const chatPayload = JSON.parse(dataString) as ChatPayload;
-					logMessage(`Chat update for game ${chatPayload.gameId}`);
 
 					this.gameSockets.updateChats(chatPayload);
 					break;
@@ -108,7 +104,7 @@ class _GameManager
 
 		if (!existingGame)
 		{
-			throw new Error("Game not found!");
+			throw new Error("Game not found: " + gameId);
 		}
 
 		if (existingGame.settings.roundTimeoutSeconds === undefined)
@@ -197,7 +193,7 @@ class _GameManager
 					includedPacks: [],
 					includedCustomPackIds: [],
 					winnerBecomesCzar: false,
-					roundTimeoutSeconds: 60
+					roundTimeoutSeconds: null
 				}
 			};
 
@@ -227,7 +223,7 @@ class _GameManager
 
 		UserManager.validateUser(player);
 
-		if (Object.keys(existingGame.players).length >= existingGame.settings.playerLimit)
+		if (Object.keys(existingGame.players).length >= existingGame.settings.playerLimit && !isSpectating)
 		{
 			throw new Error("This game is full.");
 		}
@@ -327,7 +323,7 @@ class _GameManager
 	{
 		UserManager.validateUser(lastChooser);
 
-		const lastChooserGuid = lastChooser.guid;
+		const chooserGuid = lastChooser.guid;
 
 		if (gameId in this.gameRoundTimers)
 		{
@@ -336,30 +332,55 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		if (existingGame.chooserGuid !== lastChooserGuid)
+		if (existingGame.chooserGuid !== chooserGuid)
 		{
 			throw new Error("You are not the chooser!");
 		}
 
+		let newGame = {...existingGame};
 
-		const game = new Game(existingGame);
+		// Reset white card reveal
+		newGame.revealIndex = -1;
+
+		newGame.roundStarted = false;
+
+		// Iterate the round index
+		newGame.roundIndex = existingGame.roundIndex + 1;
+
+		newGame.players = {...newGame.players, ...newGame.pendingPlayers};
+		newGame.pendingPlayers = {};
+		const playerGuids = Object.keys(newGame.players);
+		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
+
+		// Grab a new chooser
+		const chooserIndex = newGame.roundIndex % nonRandomPlayerGuids.length;
+		newGame.chooserGuid = nonRandomPlayerGuids[chooserIndex];
+
+		if (newGame.settings.winnerBecomesCzar && newGame.lastWinner && !newGame.lastWinner.isRandom)
+		{
+			newGame.chooserGuid = newGame.lastWinner.guid;
+		}
+
+		// Remove last winner
+		newGame.lastWinner = undefined;
 
 		// Remove the played white card from each player's hand
-		game.removeUsedCardsFromPlayers();
+			newGame.players = playerGuids.reduce((acc, playerGuid) =>
+			{
+				const player = newGame.players[playerGuid];
+				const newPlayer = {...player};
+				const usedCards = newGame.roundCards[playerGuid] ?? [];
+				newPlayer.whiteCards = player.whiteCards.filter(wc =>
+					!usedCards.find(uc => deepEqual(uc, wc))
+				);
+				acc[playerGuid] = newPlayer;
 
-		game.resetReveal();
-		game.nextCzar();
-		game.addPendingPlayers();
+				return acc;
+			}, {} as PlayerMap);
 
-		game.update({
-			roundStarted: false,
-			roundIndex: existingGame.roundIndex + 1,
-			roundCards: {},
-			roundCardsCustom: {},
-			lastWinner: undefined
-		});
-
-		let newGame = game.result;
+		// Reset the played cards for the round
+		newGame.roundCards = {};
+		newGame.roundCardsCustom = {};
 
 		// Deal a new hand
 		newGame = await this.dealWhiteCards(newGame);
@@ -641,7 +662,6 @@ class _GameManager
 		{
 			this.gameCardTimers[gameId] = setTimeout(() =>
 			{
-				console.log("TIMEOUT REACHED");
 				this.playCardsForSlowPlayers(gameId);
 			}, (newGame.settings.roundTimeoutSeconds + 2) * 1000);
 		}
@@ -791,6 +811,13 @@ class _GameManager
 
 		const playerKeys = Object.keys(gameItem.players);
 
+		const blackCardPack = await PackManager.getPack(gameItem.blackCard.packId);
+		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
+		const pick = blackCard.pick;
+
+		// Assume the hand size is 10. If pick is more than 1, pick that many more.
+		const targetHandSize = 10 + (pick - 1);
+
 		let allWhiteCards = gameItem.settings.includedPacks.reduce((acc, packId) =>
 		{
 			const packCount = PackManager.packs[packId].white.length;
@@ -815,19 +842,23 @@ class _GameManager
 		}, 0);
 
 		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
+		const requiredCards = playerKeys.reduce((acc: number, pg) => {
+			const needed = targetHandSize - gameItem.players[pg].whiteCards.length;
+			acc += needed;
+			return acc;
+		}, 0);
+		const totalCardsRequired = playerKeys.length * targetHandSize;
 
 		// If we run out of white cards, reset them
-		if (availableCardRemainingCount < playerKeys.length)
+		if (availableCardRemainingCount < requiredCards)
 		{
 			usedWhiteCards = {};
 		}
 
-		const blackCardPack = await PackManager.getPack(gameItem.blackCard.packId);
-		const blackCard = blackCardPack.black[gameItem.blackCard.cardIndex];
-		const pick = blackCard.pick;
-
-		// Assume the hand size is 10. If pick is more than 1, pick that many more.
-		const targetHandSize = 10 + (pick - 1);
+		if(allWhiteCards < requiredCards)
+		{
+			throw new Error(`Your packs only contain ${allWhiteCards} cards, but you need at least ${totalCardsRequired}`);
+		}
 
 		let allowedCards: CardPackMap = {};
 		const includedPacks = PackManager.getPacksForGame(gameItem);

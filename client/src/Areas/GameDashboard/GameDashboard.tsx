@@ -87,6 +87,11 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/20</strong>
+								<li>Added option to upload JSON card packs</li>
+								<li>Fixed card pack browser paging</li>
+								<li>Other fixes and improvements</li>
+								<br/>
 								<strong>Updates - 5/19</strong>
 								<li>Brand new custom card pack system</li>
 								<li>Tight integration with custom card packs and game settings</li>
@@ -94,10 +99,6 @@ class GameDashboard extends React.Component<Props, State>
 								<li>User authentication (log in system)</li>
 								<li>Revamped color scheme</li>
 								<li>Removed official packs (explanation available in card pack settings)</li>
-								<br/>
-								<strong>Updates - 5/10</strong>
-								<li>Added round timer to prevent games stopping if players leave</li>
-								<li>Removed the limitation preventing games from starting without human players</li>
 								<br/>
 							</Typography>
 						</Grid>

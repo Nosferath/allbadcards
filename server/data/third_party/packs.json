@@ -1,6 +1,87 @@
 {
   "packs": [
     {
+      "name": "Talking Out Uranus: Star Wars Parody Pack",
+      "id": "tou_starwarsparody",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 1 - The Nutsack Pack",
+      "id": "tou_v1_nutsack",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 2 - The Gerbil Pack",
+      "id": "tou_v2_gerbil",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 3 -The Pack of Shame",
+      "id": "tou_v3_shame",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "alking Out Uranus: Vol 4 -The Foreplay Pack",
+      "id": "tou_v4_foreplay",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "TTalking Out Uranus: Vol 5 -The Bite Me Pack",
+      "id": "tou_v5_biteme",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 6 - My Ass Pack",
+      "id": "tou_v6_myass",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 7 - The Double Dare You Pack",
+      "id": "tou_v7_doubledare",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 8 - The Bearded Clam Pack",
+      "id": "tou_v8_clam",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
       "name": "Bad Hombres Against Fake News 1",
       "id": "bad_hombres_against_fake_news_pack_1",
       "quantity": {

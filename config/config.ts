@@ -19,22 +19,52 @@ export class Config
 
 	public static get host()
 	{
-		let host = "https://allbad.cards";
+		const domain = this.domain;
+
+		return `${this.protocol}${domain}`;
+	}
+
+	public static getHostWithSubdomain(subdomain: string)
+	{
+		const fixedSubdomain = subdomain.length > 0
+			? subdomain.endsWith(".")
+				? subdomain
+				: `${subdomain}.`
+			: "";
+
+		return `${this.protocol}${fixedSubdomain}${this.domain}`;
+	}
+
+	public static get domain()
+	{
+		let host = "allbad.cards";
 
 		switch (this.Environment)
 		{
 			case "local":
-				host = "http://jlauer.local:5000";
+				host = "jlauer.local:5000";
 				break;
 			case "beta":
-				host = "https://beta.allbad.cards";
+				host = "beta.allbad.cards";
 				break;
 			case "prod":
-				host = "https://allbad.cards";
+				host = "allbad.cards";
 				break;
 		}
 
 		return host;
+	}
+
+	private static get protocol()
+	{
+		let protocol = `https://`;
+
+		if(this.Environment === "local")
+		{
+			protocol = `http://`;
+		}
+
+		return protocol;
 	}
 }
 

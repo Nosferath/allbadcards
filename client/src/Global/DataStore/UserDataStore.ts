@@ -1,6 +1,4 @@
 import {DataStore} from "./DataStore";
-import shortid from "shortid";
-import {GameDataStore} from "./GameDataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
 
@@ -8,6 +6,7 @@ export interface UserData
 {
 	wsId: string | null;
 	playerGuid: string;
+	loaded: boolean;
 }
 
 class _UserDataStore extends DataStore<UserData>
@@ -16,6 +15,7 @@ class _UserDataStore extends DataStore<UserData>
 
 	public static Instance = new _UserDataStore({
 		playerGuid: "",
+		loaded: false,
 		wsId: null
 	});
 
@@ -29,7 +29,8 @@ class _UserDataStore extends DataStore<UserData>
 		return Platform.registerUser()
 			.then(data => {
 				this.update({
-					playerGuid: data.guid
+					playerGuid: data.guid,
+					loaded: true
 				});
 			})
 			.catch(ErrorDataStore.add);

@@ -9,12 +9,15 @@ class _UserManager
 {
 	public static Instance = new _UserManager();
 
-	public validateUser(user: IPlayer)
+	public validateUser(user: IPlayer, throwOnError = true)
 	{
-		if (!UserUtils.validateUser(user))
+		const valid = UserUtils.validateUser(user);
+		if (!valid && throwOnError)
 		{
-			throw new Error("You cannot perform this action because you are not this user.");
+			throw new Error("There's a problem with your session. Refresh and try again.");
 		}
+
+		return valid;
 	}
 
 	public async saveSettings(req: Request)

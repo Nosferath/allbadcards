@@ -1,6 +1,7 @@
 import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {BackerType} from "../Platform/Contract";
+import {ErrorDataStore} from "./ErrorDataStore";
 
 export interface IAuthContext
 {
@@ -37,28 +38,37 @@ class _AuthDatastore extends DataStore<IAuthContext>
 
 	private async initialize()
 	{
-		const result = await Platform.getAuthStatus();
-		const status = result.status;
-		const {
-			levels,
-			userId,
-		} = status;
+		Platform.getAuthStatus()
+			.then(result => {
+				const status = result.status;
+				const {
+					levels,
+					userId,
+				} = status;
 
-		const ownedLevels = levels.length
-			? BackerLevelMap[levels[0]]
-			: [BackerType.None];
+				const ownedLevels = levels.length
+					? BackerLevelMap[levels[0]]
+					: [BackerType.None];
 
-		this.update({
-			authorized: !!userId,
-			userId,
-			levels: ownedLevels,
-			loaded: true
-		});
+				this.update({
+					authorized: !!userId,
+					userId,
+					levels: ownedLevels,
+					loaded: true
+				});
+			})
+			.catch(ErrorDataStore.add);
 	}
 
 	public refresh()
 	{
 		this.initialize();
+	}
+
+	public logOut()
+	{
+		Platform.logOut()
+			.then(() => this.initialize());
 	}
 
 	public hasLevel(backerType: BackerType)

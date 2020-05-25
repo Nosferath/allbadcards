@@ -98,7 +98,7 @@ export class GameSockets
 	public updateChats(chatPayload: ChatPayload)
 	{
 		// Get every socket that needs updating
-		const allPlayerSocketIdsForGame = this.playerSocketIdsForGame[chatPayload.gameId];
+		const allPlayerSocketIdsForGame = Array.from(new Set(this.playerSocketIdsForGame[chatPayload.gameId]));
 
 		this.sendPayloadToMatching(ChatMessage.send(chatPayload), allPlayerSocketIdsForGame);
 	}

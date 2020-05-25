@@ -1,7 +1,7 @@
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
 import React, {ChangeEvent, useEffect, useRef, useState} from "react";
-import {Button, CardActions, CardContent, TextField} from "@material-ui/core";
+import {Button, CardActions, CardContent, Dialog, DialogActions, DialogContent, TextField, Tooltip, Typography} from "@material-ui/core";
 import {Platform} from "../../../../Global/Platform/platform";
 import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
 import classNames from "classnames";
@@ -9,6 +9,11 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import Linkify from "linkifyjs/react";
 import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 import {colors} from "../../../../colors";
+import Filter from "bad-words";
+
+const filter = new Filter({
+	placeHolder: "❗"
+});
 
 const useStyles = makeStyles(theme => ({
 	cardContent: {
@@ -73,6 +78,7 @@ export const GameChat = () =>
 	const gameData = useDataStore(GameDataStore);
 	const chatData = useDataStore(ChatDataStore);
 	const [pendingMessage, setPendingMessage] = useState("");
+	const [sendEnabled, setSendEnabled] = useState(true);
 
 	const inputRef = useRef<HTMLInputElement>();
 	const cardContentRef = useRef<HTMLDivElement>() as React.MutableRefObject<HTMLDivElement>;
@@ -81,6 +87,13 @@ export const GameChat = () =>
 
 	const send = () =>
 	{
+		if (!sendEnabled)
+		{
+			return;
+		}
+
+		setSendEnabled(false);
+		setTimeout(() => setSendEnabled(true), 3000);
 		if (gameData.game?.id && pendingMessage.trim().length > 0)
 		{
 			Platform.sendChat(userData.playerGuid, gameData.game?.id, pendingMessage)
@@ -99,10 +112,11 @@ export const GameChat = () =>
 			<CardContent className={classes.cardContent} ref={cardContentRef}>
 				<div className={classes.chatWrap}>
 					{noMessages && (
-						<div style={{textAlign: "center", opacity: 0.5}}>Send a message to the rest of the players!</div>
+						<div style={{textAlign: "center", opacity: 0.5}}>You all are horrible, this game is horrible, let's make chat nice.</div>
 					)}
 					{thisGameChat?.map((chatPayload, i) => (
 						<ChatMessage
+							playerGuid={chatPayload.playerGuid}
 							isSelf={chatPayload.playerGuid === me}
 							nickname={getNickname(chatPayload.playerGuid)}
 							message={unescape(chatPayload.message)}
@@ -120,6 +134,7 @@ export const GameChat = () =>
 					value={pendingMessage}
 					variant={"outlined"}
 					multiline
+					disabled={!sendEnabled}
 					InputProps={{
 						style: {
 							borderRadius: 0
@@ -129,7 +144,7 @@ export const GameChat = () =>
 						maxLength: 500,
 						onKeyDown: (e) =>
 						{
-							if(e.which === 13 && !e.shiftKey)
+							if (e.which === 13 && !e.shiftKey)
 							{
 								send();
 								e.preventDefault();
@@ -139,7 +154,7 @@ export const GameChat = () =>
 					onChange={(e: ChangeEvent<HTMLTextAreaElement>) => setPendingMessage(e.currentTarget.value)}
 					color={"secondary"}
 				/>
-				<Button color={"secondary"} onClick={send} variant={"contained"} className={classes.sendButton}>Send</Button>
+				<Button disabled={!sendEnabled} color={"secondary"} onClick={send} variant={"contained"} className={classes.sendButton}>Send</Button>
 			</CardActions>
 		</>
 	);
@@ -150,12 +165,30 @@ interface MessageProps
 	isSelf: boolean;
 	nickname: string;
 	message: string;
+	playerGuid: string;
 	isConsecutive: boolean;
 }
 
 const ChatMessage: React.FC<MessageProps> = (props) =>
 {
 	const classes = useStyles();
+
+	const isProfane = filter.isProfane(props.message);
+	const [showMuteConfirm, setShowMuteConfirm] = useState(false);
+
+	const mutePerson = () =>
+	{
+		if (!props.isSelf)
+		{
+			localStorage.setItem("muted:" + props.playerGuid, "true");
+		}
+		setShowMuteConfirm(false);
+	};
+
+	if (localStorage.getItem("muted:" + props.playerGuid) === "true")
+	{
+		return null;
+	}
 
 	return (
 		<>
@@ -168,11 +201,27 @@ const ChatMessage: React.FC<MessageProps> = (props) =>
 					<Linkify options={{target: "_blank"}}>
 						{props.message}
 					</Linkify>
+					{isProfane && !props.isSelf && (
+						<Typography variant={"caption"} style={{fontSize: "0.7rem", color: colors.secondary.contrastText, opacity: 0.75, fontStyle: "italic", display: "block"}}>
+							{unescape(props.nickname)} said something rude. Click their name to mute them.
+						</Typography>
+					)}
 				</div>
 				{!props.isConsecutive && (
-					<div style={{opacity: 0.5, marginTop: 3}}>{unescape(props.nickname)}</div>
+					<Tooltip title={"Click to mute (cannot be undone)"}>
+						<div style={{cursor: "pointer", opacity: 0.5, marginTop: 3}} onClick={() => !props.isSelf && setShowMuteConfirm(true)}>{unescape(props.nickname)}</div>
+					</Tooltip>
 				)}
 			</div>
+			<Dialog open={showMuteConfirm} onClose={() => setShowMuteConfirm(false)}>
+				<DialogContent>
+					Are you sure you want to mute this person?
+				</DialogContent>
+				<DialogActions>
+					<Button onClick={() => setShowMuteConfirm(false)}>Cancel</Button>
+					<Button onClick={() => mutePerson()}>Confirm</Button>
+				</DialogActions>
+			</Dialog>
 		</>
 	);
 };

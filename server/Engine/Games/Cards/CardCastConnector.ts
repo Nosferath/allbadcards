@@ -21,19 +21,21 @@ class _CardCastConnector
 		this.readIntoMemory();
 	}
 
-	public async getCachedDeck(input: string): Promise<ICardPackDefinition>
+	public async getCachedDeck(input: string): Promise<ICardPackDefinition[]>
 	{
 		return new Promise((resolve, reject) =>
 		{
-			let matchedPack = input in this.packs ? this.packs[input] : undefined;
-			if (!matchedPack)
+			let matchedPacks = input in this.packs
+				? [this.packs[input]]
+				: undefined;
+			if (!matchedPacks)
 			{
-				matchedPack = this.packList.find(a => a.pack.name.toLowerCase().includes(input.toLowerCase()));
+				matchedPacks = this.packList.filter(a => a.pack.name.toLowerCase().includes(input.toLowerCase()));
 			}
 
-			if (matchedPack)
+			if (matchedPacks)
 			{
-				resolve(matchedPack);
+				resolve(matchedPacks);
 			}
 			else
 			{

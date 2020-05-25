@@ -144,7 +144,7 @@ class _PackManager
 				break;
 			case "largest":
 				packsPromise = packsPromise.sort({
-					["definition.pack.quantity.total"]: -1
+					"definition.quantity.total": -1
 				});
 				break;
 			default:

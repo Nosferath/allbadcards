@@ -8,6 +8,7 @@ import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
 import {PackManager} from "../Cards/PackManager";
 import {logRequest, onExpressError, playerFromReq, sendWithBuildVersion} from "../../../Utils/ExpressUtils";
+import {UserManager} from "../../User/UserManager";
 
 const cache = apicache.middleware;
 
@@ -18,6 +19,16 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		try
 		{
 			let guid = req.cookies["guid"];
+
+			const player = playerFromReq(req);
+			const valid = UserManager.validateUser(player, false);
+
+			// If there's a guid, but there's something wrong with it, clear the guid
+			if(!player.guid || !player.secret || !valid)
+			{
+				guid = undefined;
+			}
+
 			if (!guid)
 			{
 				guid = shortid.generate();

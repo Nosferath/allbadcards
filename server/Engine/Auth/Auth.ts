@@ -32,9 +32,9 @@ class _Auth
 		this.secret = keys.patreon.secret;
 	}
 
-	private static getRedirectUri()
+	private static getRedirectUri(subdomain: string)
 	{
-		return `${Config.host}/auth/redirect`;
+		return `${Config.getHostWithSubdomain(subdomain)}/auth/redirect`;
 	}
 
 	public initialize()
@@ -44,7 +44,7 @@ class _Auth
 			clientSecret: this.secret,
 			accessTokenUri: 'https://www.patreon.com/api/oauth2/token',
 			authorizationUri: 'https://www.patreon.com/oauth2/authorize',
-			redirectUri: _Auth.getRedirectUri(),
+			redirectUri: _Auth.getRedirectUri(""),
 			scopes: ['notifications', 'gist']
 		})
 	}
@@ -58,7 +58,8 @@ class _Auth
 
 	public async storeUserToken(req: Request, res: Response)
 	{
-		const redirectUri = _Auth.getRedirectUri();
+		const subdomain = req.subdomains[0] ?? "";
+		const redirectUri = _Auth.getRedirectUri(subdomain);
 		const tokenRefresher = this.client.code.getToken(req.originalUrl, {redirectUri});
 
 		const token = await tokenRefresher;

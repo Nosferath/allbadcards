@@ -61,7 +61,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			public: false,
 			roundsToWin: 7,
 			winnerBecomesCzar: false,
-			roundTimeoutSeconds: 60
+			roundTimeoutSeconds: null
 		},
 	};
 
