@@ -5,32 +5,25 @@ export const AbcPackSchema: JSONSchema4 = {
 	"$schema": "http://json-schema.org/draft-04/schema#",
 	"type": "object",
 	"properties": {
-		"pack": {"$ref": "#/definitions/pack"},
-		"buildVersion": {"type": "integer"}
-	},
-	"definitions": {
-		"pack": {
+		"black": {
+			"type": "array",
+			"items": {"$ref": "#/definitions/blackCard"}
+		},
+		"white": {
+			"type": "array",
+			"items": {"type": "string"}
+		},
+		"pack": {"$ref": "#/definitions/packMeta"},
+		"quantity": {
 			"type": "object",
 			"properties": {
-				"black": {
-					"type": "array",
-					"items": {"$ref": "#/definitions/blackCard"}
-				},
-				"white": {
-					"type": "array",
-					"items": {"type": "string"}
-				},
-				"pack": {"$ref": "#/definitions/packMeta"},
-				"quantity": {
-					"type": "object",
-					"properties": {
-						"black": {"type": "integer"},
-						"white": {"type": "integer"},
-						"total": {"type": "integer"},
-					}
-				}
+				"black": {"type": "integer"},
+				"white": {"type": "integer"},
+				"total": {"type": "integer"},
 			}
-		},
+		}
+	},
+	"definitions": {
 		"blackCard": {
 			"type": "object",
 			"properties": {
