@@ -202,9 +202,9 @@ class _GameManager
 				}
 			};
 
-			await this.guaranteeNewGame(initialGameItem);
+			const insertedGame = await this.guaranteeNewGame(initialGameItem);
 
-			const game = await this.getGame(gameId);
+			const game = await this.getGame(insertedGame.id);
 
 			logMessage(`Created game for ${ownerGuid}: ${game.id}`);
 
@@ -222,20 +222,23 @@ class _GameManager
 
 	private async guaranteeNewGame(initialGameItem: GameItem)
 	{
-		let result: any;
+		let returnedGame: GameItem = initialGameItem;
 		try
 		{
-			result = await _GameManager.games.insertOne(initialGameItem);
+			await _GameManager.games.insertOne(initialGameItem);
 		}
 		catch (e)
 		{
 			if(e.code === 11000)
 			{
-				result = await this.guaranteeNewGame(initialGameItem);
+				const game = {...initialGameItem};
+				game.id = hri.random();
+				returnedGame = game;
+				await this.guaranteeNewGame(game);
 			}
 		}
 
-		return result;
+		return returnedGame;
 	}
 
 	public async joinGame(authContext: IAuthContext, player: IPlayer, gameId: string, nickname: string, isSpectating: boolean, isRandom: boolean)
