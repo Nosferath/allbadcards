@@ -17,6 +17,7 @@ import {JsonUpload} from "./Create/JsonUpload";
 import {EditableWhite} from "./Create/EditableWhite";
 import {EditableBlack} from "./Create/EditableBlack";
 import {CloseableDialog} from "../../UI/CloseableDialog";
+import Helmet from "react-helmet";
 
 const useStyles = makeStyles(theme => ({
 	divider: {
@@ -171,6 +172,9 @@ const Create = () =>
 
 	return (
 		<Grid container spacing={3}>
+			<Helmet>
+				<title>{`${packCreatorData.packName} Custom Pack`}</title>
+			</Helmet>
 			<Grid item xs={12}>
 				{canEdit ? (
 					<TextField

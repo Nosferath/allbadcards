@@ -12,6 +12,7 @@ import {AuthDataStore} from "../../Global/DataStore/AuthDataStore";
 import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {Link} from "react-router-dom";
+import Helmet from "react-helmet";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -100,6 +101,9 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 
 	return (
 		<div>
+			<Helmet>
+				<title>Custom Card Packs</title>
+			</Helmet>
 			<Typography variant={"h6"}>
 				Want to create your own pack?
 				<br/>

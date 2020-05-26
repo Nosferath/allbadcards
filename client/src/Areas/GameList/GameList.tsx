@@ -9,6 +9,7 @@ import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import {Link} from "react-router-dom";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
+import Helmet from "react-helmet";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -83,6 +84,9 @@ const GameList = () =>
 
 	return (
 		<div>
+			<Helmet>
+				<title>Public Games</title>
+			</Helmet>
 			<Grid container>
 				<Grid item xl={12}>
 					<Typography variant={"h5"}>
