@@ -1,4 +1,4 @@
-import {CardPack, GameItem, ICardPackDefinition, ICardTypes, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, PackFavorites} from "../Game/GameContract";
+import {CardPack, GameItem, ICardPackDefinition, ICardPackSummary, ICardTypes, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, PackFavorites} from "../Game/GameContract";
 import {loadFileAsJson} from "../../../Utils/FileUtils";
 import {Database} from "../../../DB/Database";
 import {packInputToPackDef} from "../../../Utils/PackUtils";
@@ -192,7 +192,11 @@ class _PackManager
 		const storedUserData = AuthCookie.get(req);
 		if (!storedUserData?.userId)
 		{
-			throw new Error("Log in required");
+			return {
+				packs: [],
+				userFavorites: {},
+				hasMore: false
+			};
 		}
 
 		const userFavorites = await Database.collections.packFavorites.find({
@@ -285,6 +289,60 @@ class _PackManager
 		}
 
 		return;
+	}
+
+	public getPackNames(which: "all" | "official" | "thirdParty" | "family" = "all")
+	{
+		let packIds: string[];
+		switch (which)
+		{
+			case "all":
+				packIds = PackManager.packTypeDefinition.types.reduce((acc, type) =>
+				{
+					acc.push(...type.packs);
+					return acc;
+				}, [] as string[]);
+				break;
+			case "official":
+				packIds = PackManager.packTypeDefinition.types[0].packs;
+				break;
+			case "thirdParty":
+				packIds = PackManager.packTypeDefinition.types[1].packs;
+				break;
+			case "family":
+				packIds = ["family_edition"];
+				break;
+			default:
+				throw new Error("No pack type " + which + " exists!");
+		}
+
+		const packs = packIds.map(packId =>
+		{
+			const packDef = PackManager.packs[packId];
+			return {
+				name: packDef.pack.name,
+				quantity: packDef.quantity,
+				isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
+				packId
+			} as ICardPackSummary
+		});
+
+		return packs;
+	}
+
+	public getDefaultPacks(packs: ICardPackSummary[])
+	{
+		const officialDefaults = packs.filter(a =>
+			!a.packId.match(/pax|conversion|gencon|mass_effect|midterm|house_of_cards|jack_white|hawaii|desert_bus|reject|geek/gi)
+			&& a.isOfficial
+		);
+
+		const thirdPartyDefaults = packs.filter(a =>
+			!a.isOfficial
+			&& !a.packId.match(/toronto|knit|colorado|kentucky|texas|hombres|corps|insanity/gi)
+		);
+
+		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
 	}
 }
 

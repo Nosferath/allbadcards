@@ -175,7 +175,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		safeAuthedEndpoint(req, res, async (authContext) =>
 		{
 			const player = playerFromReq(req);
-			const game = await GameManager.createGame(authContext, player, req.body.nickname);
+			const game = await GameManager.createGame(req, authContext, player, req.body.nickname);
 			sendWithBuildVersion({
 				id: game.id
 			}, res);

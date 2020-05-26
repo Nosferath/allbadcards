@@ -18,6 +18,7 @@ import {PlayerManager} from "../Players/PlayerManager";
 import {GameSockets} from "../../Sockets/GameSockets";
 import {AuthCookie} from "../../Auth/AuthCookie";
 import {IAuthContext} from "../../Auth/UserContract";
+import {Request} from "express";
 
 export let GameManager: _GameManager;
 
@@ -137,6 +138,7 @@ class _GameManager
 	}
 
 	public async createGame(
+		req: Request,
 		authContext: IAuthContext,
 		owner: IPlayer,
 		nickname: string,
@@ -149,6 +151,11 @@ class _GameManager
 		logMessage(`Creating game for ${ownerGuid}`);
 
 		const gameId = hri.random();
+
+		const isFamilyMode = req.subdomains?.[0] === "not";
+		const packNames = PackManager.getPackNames(isFamilyMode ? "family" : "thirdParty");
+		const defaultPacks = PackManager.getDefaultPacks(packNames);
+		const myFaves = await PackManager.getMyFavoritePacks(req);
 
 		try
 		{
@@ -187,8 +194,8 @@ class _GameManager
 					roundsToWin,
 					playerLimit: 50,
 					inviteLink: null,
-					includedPacks: [],
-					includedCustomPackIds: [],
+					includedPacks: defaultPacks,
+					includedCustomPackIds: myFaves.packs.map(p => p.definition.pack.id),
 					winnerBecomesCzar: false,
 					allowCustoms: false,
 					roundTimeoutSeconds: null
@@ -363,18 +370,18 @@ class _GameManager
 		newGame.lastWinner = undefined;
 
 		// Remove the played white card from each player's hand
-			newGame.players = playerGuids.reduce((acc, playerGuid) =>
-			{
-				const player = newGame.players[playerGuid];
-				const newPlayer = {...player};
-				const usedCards = newGame.roundCards[playerGuid] ?? [];
-				newPlayer.whiteCards = player.whiteCards.filter(wc =>
-					!usedCards.find(uc => deepEqual(uc, wc))
-				);
-				acc[playerGuid] = newPlayer;
+		newGame.players = playerGuids.reduce((acc, playerGuid) =>
+		{
+			const player = newGame.players[playerGuid];
+			const newPlayer = {...player};
+			const usedCards = newGame.roundCards[playerGuid] ?? [];
+			newPlayer.whiteCards = player.whiteCards.filter(wc =>
+				!usedCards.find(uc => deepEqual(uc, wc))
+			);
+			acc[playerGuid] = newPlayer;
 
-				return acc;
-			}, {} as PlayerMap);
+			return acc;
+		}, {} as PlayerMap);
 
 		// Reset the played cards for the round
 		newGame.roundCards = {};
@@ -507,7 +514,7 @@ class _GameManager
 		const playerWhoPlayed = existingGame.players[playerGuid];
 		const cardsAreInPlayerHand = cardIds.every(cid =>
 			!!cid.customInput || playerWhoPlayed.whiteCards.find(
-				wc => deepEqual(wc, cid)
+			wc => deepEqual(wc, cid)
 			)
 		);
 
@@ -841,7 +848,8 @@ class _GameManager
 		}, 0);
 
 		const availableCardRemainingCount = allWhiteCards - usedWhiteCardCount;
-		const requiredCards = playerKeys.reduce((acc: number, pg) => {
+		const requiredCards = playerKeys.reduce((acc: number, pg) =>
+		{
 			const needed = targetHandSize - gameItem.players[pg].whiteCards.length;
 			acc += needed;
 			return acc;
@@ -854,7 +862,7 @@ class _GameManager
 			usedWhiteCards = {};
 		}
 
-		if(allWhiteCards < requiredCards)
+		if (allWhiteCards < requiredCards)
 		{
 			throw new Error(`Your packs only contain ${allWhiteCards} cards, but you need at least ${totalCardsRequired}`);
 		}

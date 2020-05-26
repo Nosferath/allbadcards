@@ -11,7 +11,6 @@ import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
-import {AuthDataStore} from "./AuthDataStore";
 import {ArrayUtils} from "../Utils/ArrayUtils";
 
 export type WhiteCardMap = {
@@ -319,38 +318,14 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 						packs = "family";
 					}
 
-					const gameDateCreated = moment(this.state.game?.dateCreated ?? Date.now());
-					const tenSecondsLater = gameDateCreated.add(10, "seconds");
-					const isInitialLoad = moment().isBefore(tenSecondsLater);
-
 					Platform.getPacks(packs)
 						.then(data =>
 						{
-							let ownerSettings = {...this.state.ownerSettings};
-							// If this is a game that was just created, set the default packs
-							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started && isInitialLoad)
-							{
-								const defaultPacks = this.getDefaultPacks(data);
-								ownerSettings.includedPacks = defaultPacks;
-							}
-
 							this.update({
-								loadedPacks: data,
-								ownerSettings
+								loadedPacks: data
 							});
 
 						});
-
-					if(isInitialLoad && AuthDataStore.state.authorized)
-					{
-						Platform.getMyFavoritePacks()
-							.then(data =>
-							{
-								const favoritePackIds = data.result.packs.map(p => p.definition.pack.id);
-								this.setIncludeCustomPacks(favoritePackIds);
-							})
-							.catch(ErrorDataStore.add);
-					}
 				}
 			})
 			.catch(e =>
