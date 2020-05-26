@@ -6,7 +6,7 @@ export const cardDefsLoaded = (gameData: GameDataStorePayload) => {
 
 	const playedCards = Object.values(gameData.game?.roundCards ?? {});
 	const loadableCards = ArrayUtils.flatten<CardId>(playedCards).filter(c => !c.customInput);
-	const loadedCardIds = Object.keys(gameData.roundCardDefs);
+	const loadedCards = Object.values(gameData.roundCardDefs).length > 0;
 
-	return playedCards.length === 0 || loadedCardIds.length === loadableCards.length;
+	return playedCards.length === 0 || loadedCards || loadableCards.length === 0;
 };

@@ -31,14 +31,24 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const onPick = (id: CardId, content?: string) =>
 	{
-		const newVal: CardId[] = [...pickedCards, {...id, customInput: content}];
+		const newCard = {...id};
+		if (content)
+		{
+			newCard.customInput = content;
+		}
+		const newVal: CardId[] = [...pickedCards, newCard];
 		setPickedCards(newVal);
 		onPickUpdate(newVal);
 	};
 
 	const onUnpick = (id: CardId, content?: string) =>
 	{
-		const newVal = pickedCards.filter(a => !deepEqual(a, {...id, customInput: content}));
+		const newCard = {...id};
+		if (content)
+		{
+			newCard.customInput = content;
+		}
+		const newVal = pickedCards.filter(a => !deepEqual(a, newCard));
 		setPickedCards(newVal);
 		onPickUpdate(newVal);
 	};
@@ -77,7 +87,7 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const renderedHand = renderedCardIds.map((cardId, i) =>
 	{
-		const pickedIndex = pickedCards.indexOf(cardId);
+		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
 
 		return (
