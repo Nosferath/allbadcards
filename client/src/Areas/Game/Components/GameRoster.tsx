@@ -1,9 +1,8 @@
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
-import {AiOutlineUserDelete} from "react-icons/all";
 import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
 import {Dialog, DialogActions, DialogContent, DialogTitle, ListItemSecondaryAction} from "@material-ui/core";
 import Button from "@material-ui/core/Button";
@@ -18,6 +17,7 @@ import {GamePayload} from "../../../Global/Platform/Contract";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
 import {SocketDataStore} from "../../../Global/DataStore/SocketDataStore";
+import {UserFlair} from "./Users/UserFlair";
 
 const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
@@ -97,6 +97,7 @@ export const GameRoster = () =>
 									</ListItemAvatar>
 								)}
 								<ListItemText>
+									<UserFlair player={player} />
 									{unescape(player.nickname)}
 									{player.guid === gameData.game?.ownerGuid && <>
                                         <span> (Owner)</span>
@@ -109,8 +110,8 @@ export const GameRoster = () =>
 								{(isOwner || isSelf) && playerCount > 1 && (
 									<ListItemSecondaryAction>
 										<Tooltip title={`Remove this player`} aria-label={`Remove this player`} arrow>
-											<Button size={"large"} className={classes.iconButton} onClick={() => onClickKick(player.guid)}>
-												<AiOutlineUserDelete/>
+											<Button size={"large"} onClick={() => onClickKick(player.guid)}>
+												{isSelf ? "Leave Game" : "Remove"}
 											</Button>
 										</Tooltip>
 									</ListItemSecondaryAction>

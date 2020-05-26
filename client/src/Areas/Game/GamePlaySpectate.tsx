@@ -10,6 +10,7 @@ import {ShowWinner} from "./Components/ShowWinner";
 import {PickWinner} from "./Components/PickWinner";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
 import {Alert, AlertTitle} from "@material-ui/lab";
+import {cardDefsLoaded} from "../../Global/Utils/GameUtils";
 
 interface IGamePlaySpectateProps
 {
@@ -65,14 +66,13 @@ export class GamePlaySpectate extends React.Component<Props, State>
 	{
 		const {
 			gameData,
-			userData
 		} = this.state;
 
 		const me = gameData.game?.spectators?.[this.state.userData.playerGuid] ?? gameData.game?.pendingPlayers?.[this.state.userData.playerGuid];
 
-		const cardDefsLoaded = Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
+		const defsLoaded = cardDefsLoaded(gameData);
 
-		if (!me || !gameData.game || !cardDefsLoaded)
+		if (!me || !gameData.game || !defsLoaded)
 		{
 			return null;
 		}

@@ -133,8 +133,10 @@ export class ShowWinner extends React.Component<Props, State>
 			return null;
 		}
 
-		const winnerCardIds = lastWinner?.whiteCards ?? [];
-		const winnerCards = winnerCardIds.map(cardId => this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]);
+		const winnerCardIds = game?.roundCards?.[lastWinner.guid] ?? [];
+		const winnerCards = winnerCardIds.map(cardId => {
+			return cardId.customInput ?? this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
+		});
 		const blackCardContent = this.state.gameData.blackCardDef?.content;
 		if (!lastWinner || !game || winnerCards.length === 0 || !blackCardContent)
 		{

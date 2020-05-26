@@ -14,10 +14,11 @@ export interface PatronSettings
 	favoritePackIds: string[];
 }
 
-export interface IClientAuthStatus
+export interface IAuthContext
 {
 	userId: string | null;
 	accessToken: string | null;
 	accessTokenExpiry: Date | null;
+	cookieSetDate?: Date;
 	levels: string[]
 }

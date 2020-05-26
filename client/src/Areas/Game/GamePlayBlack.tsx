@@ -11,6 +11,8 @@ import {PickWinner} from "./Components/PickWinner";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {PlayersRemaining} from "./Components/PlayersRemaining";
 import {CardPlayTimeRemaining} from "./Components/CardPlayTimeRemaining";
+import {ContainerProgress} from "../../UI/ContainerProgress";
+import {cardDefsLoaded} from "../../Global/Utils/GameUtils";
 
 interface IGamePlayBlackProps
 {
@@ -92,11 +94,11 @@ export class GamePlayBlack extends React.Component<Props, State>
 
 		const me = gameData.game?.players?.[this.state.userData.playerGuid];
 
-		const cardDefsLoaded = Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
+		const defsLoaded = cardDefsLoaded(gameData);
 
-		if (!me || !gameData.game || !cardDefsLoaded)
+		if (!me || !gameData.game || !defsLoaded)
 		{
-			return null;
+			return <ContainerProgress />;
 		}
 
 		const {

@@ -1,4 +1,4 @@
-import {IClientAuthStatus} from "./UserContract";
+import {IAuthContext} from "./UserContract";
 import {Request, Response} from "express";
 import {AuthEncryption} from "./AuthEncryption";
 import {Config} from "../../../config/config";
@@ -7,8 +7,14 @@ export class AuthCookie
 {
 	private static Encryption = new AuthEncryption();
 	private static AuthCookieName = "auth";
+	public static DefaultAuthContext: IAuthContext = {
+		levels: [],
+		userId: null,
+		accessToken: null,
+		accessTokenExpiry: null
+	};
 
-	public static set(userData: IClientAuthStatus, res: Response)
+	public static set(userData: IAuthContext, res: Response)
 	{
 		const encrypted = AuthCookie.encodeUserInfo(userData);
 
@@ -26,6 +32,8 @@ export class AuthCookie
 		{
 			return AuthCookie.decodeUserInfo(authCookie);
 		}
+
+		return AuthCookie.DefaultAuthContext;
 	}
 
 	public static clear(res: Response)
@@ -35,15 +43,15 @@ export class AuthCookie
 		});
 	}
 
-	private static encodeUserInfo(userData: IClientAuthStatus): string
+	private static encodeUserInfo(userData: IAuthContext): string
 	{
 		return this.Encryption.encrypt(JSON.stringify(userData));
 	}
 
-	private static decodeUserInfo(encoded: string): IClientAuthStatus
+	private static decodeUserInfo(encoded: string): IAuthContext
 	{
 		const decrypted = this.Encryption.decrypt(encoded);
 
-		return JSON.parse(decrypted) as IClientAuthStatus;
+		return JSON.parse(decrypted) as IAuthContext;
 	}
 }

@@ -3,7 +3,7 @@ import ClientOAuth2 from "client-oauth2";
 import {Config} from "../../../config/config";
 import {Database} from "../../DB/Database";
 import {loadFileAsJson} from "../../Utils/FileUtils";
-import {IClientAuthStatus, Patron} from "./UserContract";
+import {IAuthContext, Patron} from "./UserContract";
 import {PatreonConnector} from "./PatreonConnector";
 import {AuthCookie} from "./AuthCookie";
 import {MatchKeysAndValues} from "mongodb";
@@ -39,12 +39,13 @@ class _Auth
 
 	public initialize()
 	{
+		const redirectUri = _Auth.getRedirectUri("");
 		this.client = new ClientOAuth2({
 			clientId: this.id,
 			clientSecret: this.secret,
 			accessTokenUri: 'https://www.patreon.com/api/oauth2/token',
 			authorizationUri: 'https://www.patreon.com/oauth2/authorize',
-			redirectUri: _Auth.getRedirectUri(""),
+			redirectUri: redirectUri,
 			scopes: ['notifications', 'gist']
 		})
 	}
@@ -67,7 +68,7 @@ class _Auth
 
 		const profileData = await PatreonConnector.fetchUser(user.accessToken);
 		const userId = profileData.data.id;
-		const tokenExpiry = new Date(Date.now() + (1000 * 60));
+		const tokenExpiry = new Date(Date.now() + (1 * 60));
 
 		AuthCookie.set({
 			accessToken: user.accessToken,
@@ -96,7 +97,7 @@ class _Auth
 		}
 	}
 
-	public async getRefreshAuthStatus(req: Request, res: Response): Promise<IClientAuthStatus>
+	public async getRefreshAuthStatus(req: Request, res: Response): Promise<IAuthContext>
 	{
 		if (!req.cookies)
 		{
@@ -106,7 +107,8 @@ class _Auth
 
 		const storedUserData = AuthCookie.get(req);
 
-		const authStatus: IClientAuthStatus = {
+
+		const authStatus: IAuthContext = {
 			accessToken: null,
 			accessTokenExpiry: null,
 			userId: null,
@@ -138,6 +140,8 @@ class _Auth
 					return authStatus;
 				}
 
+				const storedDate = storedUserData.cookieSetDate ?? moment().add(-1, "minute");
+
 				const accessExpired = !storedUserData.accessTokenExpiry || now.isAfter(moment(storedUserData.accessTokenExpiry));
 				if (accessExpired && storedUserData.accessToken)
 				{
@@ -146,7 +150,7 @@ class _Auth
 						const newCreatedToken = this.client.createToken(storedUserData.accessToken, dbUser.refresh_token, {});
 						const newRefreshedToken = await newCreatedToken.refresh() as TokenWithExpires;
 
-						const newUserData: IClientAuthStatus = {
+						const newUserData: IAuthContext = {
 							userId: storedUserData.userId,
 							accessToken: newRefreshedToken.accessToken,
 							accessTokenExpiry: new Date(Date.now() + (1000 * 60)),
@@ -155,6 +159,9 @@ class _Auth
 
 						authStatus.userId = newUserData.userId;
 						authStatus.accessToken = newUserData.accessToken;
+
+						newUserData.levels = await PatreonConnector.getSubscriberLevel(authStatus.userId, authStatus.accessToken);
+						authStatus.levels = newUserData.levels;
 
 						await this.updateUserData(res, newUserData, newRefreshedToken);
 					}
@@ -173,12 +180,10 @@ class _Auth
 			}
 		}
 
-		authStatus.levels = await PatreonConnector.getSubscriberLevel(authStatus.userId, authStatus.accessToken);
-
 		return authStatus;
 	}
 
-	private async updateUserData(res: Response, newUserData: IClientAuthStatus, newRefreshedToken: TokenWithExpires)
+	private async updateUserData(res: Response, newUserData: IAuthContext, newRefreshedToken: TokenWithExpires)
 	{
 		if (!newUserData.userId)
 		{

@@ -31,7 +31,7 @@ export class ArrayUtils
 		return [newValue, newUsed];
 	};
 
-	public static flatten = (arr: any[]) => {
+	public static flatten = <T extends any>(arr: any[]): T[] => {
 		return arr.reduce((acc, val) => acc.concat(val), []);
 	}
 }

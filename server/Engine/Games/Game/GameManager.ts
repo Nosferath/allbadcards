@@ -16,14 +16,8 @@ import {UserManager} from "../../User/UserManager";
 import {RedisConnector} from "../../Redis/RedisClient";
 import {PlayerManager} from "../Players/PlayerManager";
 import {GameSockets} from "../../Sockets/GameSockets";
-
-interface IWSMessage
-{
-	user: {
-		playerGuid: string;
-	};
-	gameId: string;
-}
+import {AuthCookie} from "../../Auth/AuthCookie";
+import {IAuthContext} from "../../Auth/UserContract";
 
 export let GameManager: _GameManager;
 
@@ -142,7 +136,11 @@ class _GameManager
 		this.redisPub.client.publish("chat", JSON.stringify(chatPayload));
 	}
 
-	public async createGame(owner: IPlayer, nickname: string, roundsToWin = 7, password = ""): Promise<GameItem>
+	public async createGame(
+		authContext: IAuthContext,
+		owner: IPlayer,
+		nickname: string,
+		roundsToWin = 7): Promise<GameItem>
 	{
 		UserManager.validateUser(owner);
 
@@ -165,7 +163,7 @@ class _GameManager
 				dateCreated: now,
 				dateUpdated: now,
 				players: {
-					[ownerGuid]: PlayerManager.createPlayer(ownerGuid, nickname, false, false)
+					[ownerGuid]: PlayerManager.createPlayer(authContext, ownerGuid, nickname, false, false)
 				},
 				playerOrder: [],
 				spectators: {},
@@ -187,12 +185,12 @@ class _GameManager
 					hideDuringReveal: false,
 					skipReveal: false,
 					roundsToWin,
-					password,
 					playerLimit: 50,
 					inviteLink: null,
 					includedPacks: [],
 					includedCustomPackIds: [],
 					winnerBecomesCzar: false,
+					allowCustoms: false,
 					roundTimeoutSeconds: null
 				}
 			};
@@ -215,7 +213,7 @@ class _GameManager
 		}
 	}
 
-	public async joinGame(player: IPlayer, gameId: string, nickname: string, isSpectating: boolean, isRandom: boolean)
+	public async joinGame(authContext: IAuthContext, player: IPlayer, gameId: string, nickname: string, isSpectating: boolean, isRandom: boolean)
 	{
 		const playerGuid = player.guid;
 
@@ -241,7 +239,7 @@ class _GameManager
 		// Otherwise, make a new player
 		else
 		{
-			const newPlayer = PlayerManager.createPlayer(playerGuid, escape(nickname), isSpectating, isRandom);
+			const newPlayer = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
 			if (isSpectating)
 			{
 				newGame.spectators[playerGuid] = newPlayer;
@@ -506,8 +504,9 @@ class _GameManager
 			UserManager.validateUser(player);
 		}
 
+		const playerWhoPlayed = existingGame.players[playerGuid];
 		const cardsAreInPlayerHand = cardIds.every(cid =>
-			existingGame.players[playerGuid].whiteCards.find(
+			!!cid.customInput || playerWhoPlayed.whiteCards.find(
 				wc => deepEqual(wc, cid)
 			)
 		);
@@ -742,7 +741,7 @@ class _GameManager
 			secret: UserUtils.generateSecret(userId)
 		};
 
-		newGame = await this.joinGame(fakePlayer, gameId, newNickname, false, true);
+		newGame = await this.joinGame(AuthCookie.DefaultAuthContext, fakePlayer, gameId, newNickname, false, true);
 
 		return newGame;
 	}

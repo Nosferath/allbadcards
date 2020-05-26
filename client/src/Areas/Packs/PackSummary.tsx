@@ -153,7 +153,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 					{isFaved
 						? "Unsave"
 						: props.authed
-							? "Save"
+							? `Save (${pack.favorites})`
 							: "Log in to Save"}
 				</Button>
 				<Button

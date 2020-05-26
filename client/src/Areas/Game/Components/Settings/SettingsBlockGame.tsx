@@ -26,6 +26,8 @@ export const SettingsBlockGame: React.FC = () =>
 
 	return (
 		<List style={{paddingBottom: "1rem"}}>
+			<AllowCustoms gameData={gameData}/>
+
 			<Divider style={{margin: "0 0 1rem 0"}}/>
 			<WinnerBecomesCzar gameData={gameData}/>
 
@@ -52,6 +54,35 @@ interface IGameDataProps
 {
 	gameData: GameDataStorePayload;
 }
+
+const AllowCustoms: React.FC<IGameDataProps> = (
+	{
+		gameData
+	}
+) =>
+{
+	const onChange = (e: ChangeEvent<{}>, v: boolean) =>
+	{
+		GameDataStore.setAllowCustoms(v);
+	};
+
+	return (
+		<FormControl component="fieldset" style={{width: "100%"}}>
+			<ListItem>
+				<ListItemText primary={"Allow write-ins"} secondary={`When enabled, everyone will have one card that can be used as a write-in card for every hand.`}/>
+				<ListItemSecondaryAction>
+					<Switch
+						edge="end"
+						color={"secondary"}
+						onChange={onChange}
+						name={"isPublic"}
+						checked={gameData.ownerSettings.allowCustoms}
+					/>
+				</ListItemSecondaryAction>
+			</ListItem>
+		</FormControl>
+	);
+};
 
 let timeout = 0;
 const UrlField: React.FC<IGameDataProps> = ({

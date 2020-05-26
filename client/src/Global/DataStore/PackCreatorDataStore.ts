@@ -37,6 +37,22 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 
 	public static Instance = new _PackCreatorDataStore(_PackCreatorDataStore.InitialState);
 
+	protected update(data: Partial<PackCreatorDataStorePayload>)
+	{
+		if(data.blackCards !== undefined)
+		{
+			const cards = [...data.blackCards];
+			cards.forEach((card, i) =>
+			{
+				cards[i] = card.replace(/_+/g, "_");
+			});
+			data.blackCards = cards;
+		}
+
+		super.update(data);
+	}
+
+
 	public hydrate(id: string)
 	{
 		return Platform.getPack(id, true)

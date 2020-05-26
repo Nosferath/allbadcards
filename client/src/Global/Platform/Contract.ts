@@ -15,6 +15,7 @@ export interface GamePlayer
 	whiteCards: CardId[];
 	isSpectating: boolean;
 	isRandom: boolean;
+	isSubscriber?: boolean;
 }
 
 export interface CardId
@@ -36,6 +37,7 @@ export interface IGameSettings
 	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
+	allowCustoms: boolean;
 }
 
 export interface GamesList extends WithBuildVersion
@@ -135,7 +137,7 @@ export interface IBlackCardDefinition
 export enum BackerType
 {
 	None = "None",
-	Backer = "Backer",
+	"Support the site! (Pay-what-you-want)" = "Support the site! (Pay-what-you-want)",
 	Sponsor = "Sponsor",
 	DiamondSponsor = "DiamondSponsor",
 }
@@ -168,6 +170,7 @@ export interface ICustomCardPack
 	dateUpdated: Date;
 	isNsfw: boolean,
 	isPublic: boolean
+	favorites: number;
 	categories: valueof<typeof PackCategories>[];
 }
 

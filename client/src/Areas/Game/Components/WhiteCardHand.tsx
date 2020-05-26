@@ -51,6 +51,7 @@ export const WhiteCardHand: React.FC<Props> = (
 	const {
 		players,
 		roundCards,
+		settings,
 	} = gameData.game;
 
 	const me = players[userData.playerGuid];
@@ -110,20 +111,22 @@ export const WhiteCardHand: React.FC<Props> = (
 			<CardPlayTimeRemaining gameData={gameData}/>
 		)}
 		<Grid container style={{justifyContent: "center", marginTop: "1rem"}} spacing={3}>
-			<Grid item xs={12} sm={6} md={4} lg={3}>
-				<WhiteCardOption
-					targetPicked={targetPicked}
-					cardBody={""}
-					cardId={customCardId}
-					hasPlayed={hasPlayed}
-					metPickTarget={metPickTarget}
-					onPick={onPick}
-					onUnpick={onUnpick}
-					picked={customPickedIndex > -1}
-					pickedIndex={customPickedIndex}
-					isCustom={true}
-				/>
-			</Grid>
+			{!hasPlayed && settings.allowCustoms && (
+				<Grid item xs={12} sm={6} md={4} lg={3}>
+					<WhiteCardOption
+						targetPicked={targetPicked}
+						cardBody={""}
+						cardId={customCardId}
+						hasPlayed={hasPlayed}
+						metPickTarget={metPickTarget}
+						onPick={onPick}
+						onUnpick={onUnpick}
+						picked={customPickedIndex > -1}
+						pickedIndex={customPickedIndex}
+						isCustom={true}
+					/>
+				</Grid>
+			)}
 			{renderedHand}
 		</Grid>
 	</>;

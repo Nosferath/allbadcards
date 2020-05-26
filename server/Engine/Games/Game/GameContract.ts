@@ -18,6 +18,7 @@ export interface GamePlayer
 	whiteCards: CardId[];
 	isSpectating: boolean;
 	isRandom: boolean;
+	isSubscriber?: boolean;
 }
 
 export interface CardId
@@ -33,13 +34,13 @@ export interface IGameSettings
 	hideDuringReveal: boolean;
 	skipReveal: boolean;
 	playerLimit: number;
-	password: string | null;
 	roundsToWin: number;
 	inviteLink: string | null;
 	includedPacks: string[];
 	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
+	allowCustoms: boolean;
 }
 
 export interface GameItem extends ClientGameItem

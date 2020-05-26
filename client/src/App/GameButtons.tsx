@@ -3,7 +3,7 @@ import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
 import {default as React, useState} from "react";
 import {Button, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, Tooltip} from "@material-ui/core";
-import {IoMdVolumeHigh, IoMdVolumeOff, MdPeople, MdSettings} from "react-icons/all";
+import {FaClipboardList, IoMdVolumeHigh, IoMdVolumeOff, MdSettings} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
 import {GameSettings} from "../Areas/Game/Components/GameSettings";
 import makeStyles from "@material-ui/core/styles/makeStyles";
@@ -50,7 +50,7 @@ export const AppBarGameButtons = () =>
 			</Tooltip>
 			<Tooltip title={"Scoreboard"} arrow>
 				<Button color={buttonColor} aria-label={"Scoreboard"} className={classes.rosterButton} size={"large"} onClick={() => setRosterOpen(true)}>
-					<MdPeople/>
+					<FaClipboardList/>
 				</Button>
 			</Tooltip>
 			<Tooltip title={"Game settings"} arrow>

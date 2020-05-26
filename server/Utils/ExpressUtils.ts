@@ -2,6 +2,8 @@ import {Request, Response} from "express";
 import {logError} from "../logger";
 import {Config} from "../../config/config";
 import {IPlayer} from "../Engine/Games/Game/GameContract";
+import {IAuthContext} from "../Engine/Auth/UserContract";
+import {AuthCookie} from "../Engine/Auth/AuthCookie";
 
 export const onExpressError = (res: Response, error: Error, ...more: any[]) =>
 {
@@ -37,4 +39,30 @@ export const logRequest = (req: Request) =>
 		: undefined;
 
 	//logMessage(req.url, body?.substr(0, 500), query?.substr(0, 500));
+};
+
+export const withTryCatch = (req: Request, res: Response, callback: () => void) =>
+{
+	logRequest(req);
+
+	try
+	{
+		callback();
+	}
+	catch (error)
+	{
+		onExpressError(res, error, req.url, req.query, req.body);
+	}
+};
+
+export const withAuthContext = (req: Request, callback: (authContext: IAuthContext) => void) =>
+{
+	const authContext = AuthCookie.get(req);
+	callback(authContext);
+};
+
+export const safeAuthedEndpoint = (req: Request, res: Response, callback: (authContext: IAuthContext) => void) => {
+	withTryCatch(req, res, () => {
+		withAuthContext(req, callback);
+	})
 };

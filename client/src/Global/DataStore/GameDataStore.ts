@@ -2,7 +2,6 @@ import {DataStore} from "./DataStore";
 import {GamePayload, IWhiteCard, Platform} from "../Platform/platform";
 import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
-import {ArrayFlatten} from "../Utils/ArrayUtils";
 import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
@@ -13,6 +12,7 @@ import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
 import {AuthDataStore} from "./AuthDataStore";
+import {ArrayUtils} from "../Utils/ArrayUtils";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -61,7 +61,8 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			public: false,
 			roundsToWin: 7,
 			winnerBecomesCzar: false,
-			roundTimeoutSeconds: null
+			roundTimeoutSeconds: null,
+			allowCustoms: false
 		},
 	};
 
@@ -226,7 +227,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 	{
 		const toLoad = this.state.game?.roundCards ?? [];
 
-		const cardIds = ArrayFlatten<number>(Object.values(toLoad));
+		const cardIds = ArrayUtils.flatten<CardId>(Object.values(toLoad)).filter(card => !card.customInput);
 
 		return this.loadWhiteCardMap(cardIds)
 			.then(roundCardDefs => this.update({
@@ -513,22 +514,26 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		});
 	}
 
+	public setInviteLink(inviteLink: string)
+	{
+		this.setSetting({
+			inviteLink
+		});
+	}
+
+	public setAllowCustoms(allowCustoms: boolean)
+	{
+		this.setSetting({
+			allowCustoms
+		});
+	}
+
 	private setSetting(partial: Partial<IGameSettings>)
 	{
 		this.update({
 			ownerSettings: {
 				...this.state.ownerSettings,
 				...partial
-			}
-		});
-	}
-
-	public setInviteLink(url: string)
-	{
-		this.update({
-			ownerSettings: {
-				...this.state.ownerSettings,
-				inviteLink: url
 			}
 		});
 	}

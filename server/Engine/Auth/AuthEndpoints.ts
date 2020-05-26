@@ -60,6 +60,8 @@ export const RegisterAuthEndpoints = (app: Express, clientFolder: string) =>
 		{
 			const result = await Auth.getRefreshAuthStatus(req, res);
 
+			AuthCookie.set(result, res);
+
 			sendWithBuildVersion({
 				status: result
 			}, res);

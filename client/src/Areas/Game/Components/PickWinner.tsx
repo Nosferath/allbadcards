@@ -1,15 +1,15 @@
 import Grid from "@material-ui/core/Grid";
-import Button from "@material-ui/core/Button";
 import Divider from "@material-ui/core/Divider";
 import * as React from "react";
+import {useState} from "react";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore, WhiteCardMap} from "../../../Global/DataStore/GameDataStore";
+import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
-import {useState} from "react";
 import {LoadingButton} from "../../../UI/LoadingButton";
 import {CardId} from "../../../Global/Platform/Contract";
+import {cardDefsLoaded} from "../../../Global/Utils/GameUtils";
 
 export interface IPickWinnerProps
 {
@@ -26,7 +26,6 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 		onPickWinner,
 		canPick,
 		timeToPick,
-		children,
 		hasWinner,
 		revealMode
 	}
@@ -38,9 +37,9 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 
 	const me = gameData.game?.players?.[userData.playerGuid] ?? gameData.game?.spectators?.[userData.playerGuid];
 
-	const cardDefsLoaded = Object.values(gameData.game?.roundCards ?? {}).length === 0 || Object.keys(gameData.roundCardDefs).length > 0;
+	const defsLoaded = cardDefsLoaded(gameData);
 
-	if (!me || !gameData.game || !cardDefsLoaded)
+	if (!me || !gameData.game || !defsLoaded)
 	{
 		return null;
 	}
@@ -65,7 +64,7 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 	const roundCardsDefined = roundCards ?? {};
 	const roundCardKeys = playerOrder.filter(a => a !== chooserGuid);
 	const roundCardValues = roundCardKeys.map(playerGuid => (roundCardsDefined[playerGuid] as CardId[])?.map(cardId =>
-		gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
+		cardId.customInput ?? gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
 	));
 
 

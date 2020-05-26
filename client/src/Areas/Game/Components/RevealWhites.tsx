@@ -2,7 +2,6 @@ import * as React from "react";
 import Grid from "@material-ui/core/Grid";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import Divider from "@material-ui/core/Divider";
-import Button from "@material-ui/core/Button";
 import {GameDataStore, GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
 import {UserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
@@ -97,7 +96,9 @@ export class RevealWhites extends React.Component <Props, State>
 		const revealedIndex = realRevealIndex % roundPlayers.length;
 		const playerGuidAtIndex = roundPlayerOrder[isNaN(revealedIndex) ? 0 : revealedIndex];
 		const cardsIdsRevealed = roundCards?.[playerGuidAtIndex] ?? [];
-		const cardsRevealed = (cardsIdsRevealed as CardId[]).map(cid => gameData.roundCardDefs?.[cid.packId]?.[cid.cardIndex]);
+		const cardsRevealed = (cardsIdsRevealed as CardId[]).map(cid =>
+			gameData.roundCardDefs?.[cid.packId]?.[cid.cardIndex] ?? cid.customInput
+		);
 		const timeToPick = remainingPlayers.length === 0;
 		const revealMode = timeToPick && realRevealIndex < roundCardKeys.length;
 

@@ -12,11 +12,13 @@ export interface IAuthContext
 	isSubscriber: boolean;
 }
 
+const LowestBacker = BackerType["Support the site! (Pay-what-you-want)"];
+
 const BackerLevelMap = {
-	[BackerType.None]: [BackerType.None],
-	[BackerType.Backer]: [BackerType.Backer],
-	[BackerType.Sponsor]: [BackerType.Backer, BackerType.Sponsor],
-	[BackerType.DiamondSponsor]: [BackerType.Backer, BackerType.Sponsor, BackerType.DiamondSponsor],
+	[BackerType.None]: [],
+	[LowestBacker]: [LowestBacker],
+	[BackerType.Sponsor]: [LowestBacker, BackerType.Sponsor],
+	[BackerType.DiamondSponsor]: [LowestBacker, BackerType.Sponsor, BackerType.DiamondSponsor],
 };
 
 class _AuthDatastore extends DataStore<IAuthContext>
