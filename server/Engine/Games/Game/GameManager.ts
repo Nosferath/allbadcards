@@ -202,7 +202,7 @@ class _GameManager
 				}
 			};
 
-			await _GameManager.games.insertOne(initialGameItem);
+			await this.guaranteeNewGame(initialGameItem);
 
 			const game = await this.getGame(gameId);
 
@@ -218,6 +218,24 @@ class _GameManager
 
 			throw new Error("Could not create game.");
 		}
+	}
+
+	private async guaranteeNewGame(initialGameItem: GameItem)
+	{
+		let result: any;
+		try
+		{
+			result = await _GameManager.games.insertOne(initialGameItem);
+		}
+		catch (e)
+		{
+			if(e.code === 11000)
+			{
+				result = await this.guaranteeNewGame(initialGameItem);
+			}
+		}
+
+		return result;
 	}
 
 	public async joinGame(authContext: IAuthContext, player: IPlayer, gameId: string, nickname: string, isSpectating: boolean, isRandom: boolean)
@@ -557,8 +575,7 @@ class _GameManager
 		{
 			newGame.roundCardsCustom = {};
 		}
-		const sanitizedCards = cards.map(c => escape(c));
-		newGame.roundCardsCustom[playerGuid] = sanitizedCards;
+		newGame.roundCardsCustom[playerGuid] = cards.map(c => escape(c));
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
 		await this.updateGame(newGame);
@@ -872,7 +889,7 @@ class _GameManager
 		for (let packId of includedPacks)
 		{
 			const pack = await PackManager.getPack(packId);
-			const cardMap = pack.white.reduce((acc, cardVal, cardIndex) =>
+			allowedCards[packId] = pack.white.reduce((acc, cardVal, cardIndex) =>
 			{
 				acc[cardIndex] = {
 					cardIndex,
@@ -881,8 +898,6 @@ class _GameManager
 
 				return acc;
 			}, {} as { [cardIndex: number]: CardId });
-
-			allowedCards[packId] = cardMap;
 		}
 
 		playerKeys.forEach(playerGuid =>
