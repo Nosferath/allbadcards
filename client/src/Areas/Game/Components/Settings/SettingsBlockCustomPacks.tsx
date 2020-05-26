@@ -131,7 +131,7 @@ const PackListItem: React.FC<PackListItemProps> = (
 			<ListItemText
 				primary={pack.definition.pack.name}
 				secondary={<>
-					Q: <strong>{pack.definition.quantity.black}</strong> // A: <strong>{pack.definition.quantity.white}</strong> // {pack.isNsfw ? "NSFW" : "SFW"}
+					P: <strong>{pack.definition.quantity.black}</strong> // R: <strong>{pack.definition.quantity.white}</strong> // {pack.isNsfw ? "NSFW" : "SFW"}
 				</>}
 			/>
 			<ListItemSecondaryAction>

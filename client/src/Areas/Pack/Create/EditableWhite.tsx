@@ -1,5 +1,5 @@
 import React, {useEffect} from "react";
-import {Button, Grid, TextField} from "@material-ui/core";
+import {Button, Chip, Grid, TextField} from "@material-ui/core";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {IEditableCard} from "./CardContract";
@@ -9,6 +9,7 @@ const useStyles = makeStyles(theme => ({
 		color: theme.palette.primary.contrastText
 	},
 	whiteCardTextField: {
+		marginTop: "0.5rem",
 		'& .MuiOutlinedInput-root': {
 			'& fieldset': {
 				borderColor: 'black',
@@ -43,6 +44,7 @@ export const EditableWhite: React.FC<IEditableCard> = React.memo((props) =>
 			<WhiteCard className={classes.shortCard} actions={props.canEdit && (
 				<Button onClick={() => props.onRemove(props.index)} style={{color: "black"}}>Remove</Button>
 			)}>
+				<Chip size={"small"} label={`ID: ${props.index + 1}`} />
 				<TextField
 					variant={"outlined"}
 					value={props.value}

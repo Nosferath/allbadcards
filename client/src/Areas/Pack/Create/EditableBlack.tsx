@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {Button, Grid, TextField} from "@material-ui/core";
+import {Button, Chip, Grid, TextField} from "@material-ui/core";
 import {BlackCard} from "../../../UI/BlackCard";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {IEditableCard} from "./CardContract";
@@ -9,6 +9,7 @@ const useStyles = makeStyles(theme => ({
 		color: theme.palette.secondary.contrastText
 	},
 	blackCardTextField: {
+		marginTop: "0.5rem",
 		'& .MuiOutlinedInput-root': {
 			'& fieldset': {
 				borderColor: 'white',
@@ -30,6 +31,8 @@ export const EditableBlack: React.FC<IEditableCard> = React.memo((props) =>
 
 	useEffect(() =>
 	{
+		onEdit(props.value);
+
 		if (props.focus)
 		{
 			setTimeout(() =>
@@ -42,7 +45,6 @@ export const EditableBlack: React.FC<IEditableCard> = React.memo((props) =>
 	const updateError = (errorVal: string) =>
 	{
 		setError(errorVal);
-		props.updateErrorState(props.index, !!errorVal);
 	};
 
 	const onEdit = (value: string) =>
@@ -65,6 +67,7 @@ export const EditableBlack: React.FC<IEditableCard> = React.memo((props) =>
 			<BlackCard className={classes.shortCard} actions={props.canEdit && (
 				<Button onClick={() => props.onRemove(props.index)} style={{color: "white"}}>Remove</Button>
 			)}>
+				<Chip size={"small"} label={`ID: ${props.index + 1}`} />
 				<TextField
 					variant={"outlined"}
 					value={props.value}

@@ -139,7 +139,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 					</Link>
 				}
 				subheader={<span>
-					Q:<strong>{definition.quantity.black}</strong> A:<strong>{definition.quantity.white}</strong>
+					P:<strong>{definition.quantity.black}</strong> R:<strong>{definition.quantity.white}</strong>
 				</span>}
 			/>
 			<CardContent>
