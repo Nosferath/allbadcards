@@ -87,18 +87,17 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/25</strong>
+								<li>Modified option to use custom cards so that it instead gives one custom card per round</li>
+								<li>Added attribution for Patreon backers</li>
+								<li>Fixed login/logout</li>
+								<li>Re-enabled socket compression (for performance)</li>
+								<li>Bug fixes and improvements</li>
+								<br/>
 								<strong>Updates - 5/20</strong>
 								<li>Added option to upload JSON card packs</li>
 								<li>Fixed card pack browser paging</li>
 								<li>Other fixes and improvements</li>
-								<br/>
-								<strong>Updates - 5/19</strong>
-								<li>Brand new custom card pack system</li>
-								<li>Tight integration with custom card packs and game settings</li>
-								<li>Improved dark mode</li>
-								<li>User authentication (log in system)</li>
-								<li>Revamped color scheme</li>
-								<li>Removed official packs (explanation available in card pack settings)</li>
 								<br/>
 							</Typography>
 						</Grid>

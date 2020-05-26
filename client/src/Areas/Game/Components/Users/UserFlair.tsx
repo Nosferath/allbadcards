@@ -1,7 +1,7 @@
 import {GamePlayer} from "../../../../Global/Platform/Contract";
 import React from "react";
-import {Twemoji} from "react-emoji-render";
 import {Tooltip} from "@material-ui/core";
+import {FaPatreon} from "react-icons/all";
 
 interface UserFlairProps
 {
@@ -17,9 +17,9 @@ export const UserFlair: React.FC<UserFlairProps> = (props) =>
 
 	return (
 		<Tooltip title={"This person is a Patreon supporter!"} placement={"top"} arrow>
-			<span>
-				<Twemoji text={"💖 "}/>
-			</span>
+			<a href={"http://patreon.com/allbadcards/"} target={"_blank"} style={{color: "#E64413", textDecoration: "none", fontSize: "0.8rem"}}>
+				<FaPatreon />&nbsp;&nbsp;
+			</a>
 		</Tooltip>
 	);
 };
