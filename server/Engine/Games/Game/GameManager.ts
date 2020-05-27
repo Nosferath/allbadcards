@@ -110,9 +110,12 @@ class _GameManager
 		return existingGame;
 	}
 
-	public async updateGame(newGame: GameItem)
+	public async updateGame(newGame: GameItem, triggerUpdate = false)
 	{
-		newGame.dateUpdated = new Date();
+		if (triggerUpdate)
+		{
+			newGame.dateUpdated = new Date();
+		}
 
 		await Database.db.collection<GameItem>("games").updateOne({
 			id: newGame.id
@@ -229,7 +232,7 @@ class _GameManager
 		}
 		catch (e)
 		{
-			if(e.code === 11000)
+			if (e.code === 11000)
 			{
 				const game = {...initialGameItem};
 				game.id = hri.random();
@@ -255,33 +258,35 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		newGame.revealIndex = -1;
+
+		let playerToAdd;
 
 		// If the player was kicked before and is rejoining, add them back
 		const playerWasKicked = !!newGame.kickedPlayers?.[playerGuid];
 		if (playerWasKicked)
 		{
-			newGame.players[playerGuid] = newGame.kickedPlayers[playerGuid];
+			playerToAdd = newGame.kickedPlayers[playerGuid];
 			delete newGame.kickedPlayers[playerGuid];
 		}
-		// Otherwise, make a new player
 		else
 		{
-			const newPlayer = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
-			if (isSpectating)
+			playerToAdd = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
+		}
+
+		// Otherwise, make a new player
+		if (isSpectating)
+		{
+			newGame.spectators[playerGuid] = playerToAdd;
+		}
+		else
+		{
+			if (newGame.started)
 			{
-				newGame.spectators[playerGuid] = newPlayer;
+				newGame.pendingPlayers[playerGuid] = playerToAdd;
 			}
 			else
 			{
-				if (newGame.started)
-				{
-					newGame.pendingPlayers[playerGuid] = newPlayer;
-				}
-				else
-				{
-					newGame.players[playerGuid] = newPlayer;
-				}
+				newGame.players[playerGuid] = playerToAdd;
 			}
 		}
 
@@ -297,13 +302,16 @@ class _GameManager
 		return newGame;
 	}
 
-	public async kickPlayer(gameId: string, targetGuid: string, owner: IPlayer)
+	public async kickPlayer(gameId: string, targetGuid: string, owner: IPlayer, kickedForTimeout = false, overrideValidation = false)
 	{
 		const ownerGuid = owner.guid;
 
 		const existingGame = await this.getGame(gameId);
 
-		UserManager.validateUser(owner);
+		if (!overrideValidation)
+		{
+			UserManager.validateUser(owner);
+		}
 
 		if (existingGame.ownerGuid !== ownerGuid && targetGuid !== ownerGuid)
 		{
@@ -313,20 +321,36 @@ class _GameManager
 		const newGame = {...existingGame};
 		if (newGame.kickedPlayers)
 		{
-			newGame.kickedPlayers[targetGuid] = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+			const kickedPlayer = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+			if (kickedPlayer)
+			{
+				kickedPlayer.kickedForTimeout = kickedForTimeout;
+				newGame.kickedPlayers[targetGuid] = kickedPlayer;
+			}
 		}
 		delete newGame.pendingPlayers[targetGuid];
 		delete newGame.players[targetGuid];
 		delete newGame.roundCards[targetGuid];
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
+		const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
+		const isOnlyRemainingPlayer = nonRandoms.length === 0;
+		if (isOnlyRemainingPlayer && kickedForTimeout)
+		{
+			return;
+		}
+
 		// If the owner deletes themselves, pick a new owner
 		if (targetGuid === ownerGuid)
 		{
-			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
-			if (nonRandoms.length > 0)
+			if (!isOnlyRemainingPlayer)
 			{
 				newGame.ownerGuid = nonRandoms[0];
+			}
+			else if (kickedForTimeout)
+			{
+				// We don't want to kick, but we don't want to trigger an error either.
+				return;
 			}
 			else
 			{
@@ -414,7 +438,7 @@ class _GameManager
 		// Grab the new black card
 		newGame = await this.gameDealNewBlackCard(newGame);
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -446,7 +470,7 @@ class _GameManager
 		newGame = await this.gameDealNewBlackCard(newGame);
 		newGame = await this.dealWhiteCards(newGame);
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -517,7 +541,7 @@ class _GameManager
 		};
 		newGame.lastWinner = undefined;
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -560,33 +584,7 @@ class _GameManager
 		return newGame;
 	}
 
-	public async playCardsCustom(gameId: string, player: IPlayer, cards: string[])
-	{
-		const playerGuid = player.guid;
-
-		const existingGame = await this.getGame(gameId);
-
-		const blackCardDef = await CardManager.getBlackCard(existingGame.blackCard);
-		const targetPicked = blackCardDef.pick;
-		if (targetPicked !== cards.length)
-		{
-			throw new Error("You submitted the wrong number of cards. Expected " + targetPicked + " but received " + cards.length);
-		}
-
-		const newGame = {...existingGame};
-		if (!newGame.roundCardsCustom)
-		{
-			newGame.roundCardsCustom = {};
-		}
-		newGame.roundCardsCustom[playerGuid] = cards.map(c => escape(c));
-		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
-
-		await this.updateGame(newGame);
-
-		return newGame;
-	}
-
-	public async forfeit(gameId: string, player: IPlayer, playedCards: CardId[])
+	public async myCardsSuck(gameId: string, player: IPlayer, playedCards: CardId[])
 	{
 		const playerGuid = player.guid;
 
@@ -610,7 +608,7 @@ class _GameManager
 		// clear out the player's cards
 		newGame.players[playerGuid].whiteCards = [];
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -637,7 +635,7 @@ class _GameManager
 			newGame.revealIndex = Object.keys(newGame.roundCards).length;
 		}
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -680,7 +678,7 @@ class _GameManager
 		newGame.roundStarted = true;
 		newGame.lastWinner = undefined;
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		this.randomPlayersPlayCard(gameId);
 
@@ -790,7 +788,7 @@ class _GameManager
 		newGame.players[winnerPlayerGuid].wins = newGame.players[winnerPlayerGuid].wins + 1;
 		newGame.lastWinner = newGame.players[winnerPlayerGuid];
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		const settings = newGame.settings;
 		const players = newGame.players;

@@ -71,7 +71,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/game/get", cache("10 seconds"), async (req, res) =>
+	app.get("/api/game/get", async (req, res) =>
 	{
 		logRequest(req);
 
@@ -290,29 +290,13 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/play-cards-custom", async (req, res) =>
-	{
-		logRequest(req);
-		try
-		{
-			const player = playerFromReq(req);
-			await GameManager.playCardsCustom(req.body.gameId, player, req.body.cards);
-
-			sendWithBuildVersion({success: true}, res);
-		}
-		catch (error)
-		{
-			onExpressError(res, error, req.url, req.query, req.body);
-		}
-	});
-
 	app.post("/api/game/forfeit", async (req, res) =>
 	{
 		logRequest(req);
 		try
 		{
 			const player = playerFromReq(req);
-			await GameManager.forfeit(req.body.gameId, player, req.body.playedCards);
+			await GameManager.myCardsSuck(req.body.gameId, player, req.body.playedCards);
 
 			sendWithBuildVersion({success: true}, res);
 		}

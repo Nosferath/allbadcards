@@ -4,6 +4,7 @@ import {ChatPayload} from "../Platform/Contract";
 import {UserDataStore} from "./UserDataStore";
 import {GameDataStore} from "./GameDataStore";
 import {ChatDataStore} from "./ChatDataStore";
+import Visibility from "visibilityjs";
 
 export interface SocketDataStorePayload
 {
@@ -20,6 +21,7 @@ let connectionOpen = false;
 class _SocketDataStore extends DataStore<SocketDataStorePayload>
 {
 	private ws: WebSocket | null = null;
+	private disconnectTimerId = 0;
 
 	public static Instance = new _SocketDataStore({
 		updateType: "game",
@@ -64,7 +66,7 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 		this.ws.onmessage = (e) =>
 		{
 			const parsed = JSON.parse(e.data);
-			if("game" in parsed)
+			if ("game" in parsed)
 			{
 				const data = JSON.parse(e.data) as { game: GamePayload };
 				this.update({
@@ -72,7 +74,7 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 					gamePayload: data.game
 				});
 			}
-			else if("chat" in parsed)
+			else if ("chat" in parsed)
 			{
 				const data = JSON.parse(e.data) as { chat: ChatPayload };
 				this.update({
@@ -90,6 +92,31 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 				this.retry();
 			}
 		};
+
+		// On visibility change...
+		Visibility.change(data =>
+		{
+			// Check if hidden. If so, start a timer to disconnect
+			if (Visibility.hidden() && connectionOpen)
+			{
+				clearTimeout(this.disconnectTimerId);
+				this.disconnectTimerId = window.setTimeout(() => {
+					connectionOpen = false;
+					manualClose = true;
+					this.ws?.close();
+				}, 10000);
+			}
+			else if(!Visibility.hidden())
+			{
+				clearTimeout(this.disconnectTimerId);
+				if(!connectionOpen)
+				{
+					this.update({
+						lostConnection: true
+					});
+				}
+			}
+		});
 	}
 
 	public reconnect()

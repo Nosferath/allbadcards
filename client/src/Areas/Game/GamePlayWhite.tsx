@@ -134,37 +134,10 @@ export class GamePlayWhite extends React.Component<Props, State>
 		BrowserUtils.scrollToTop();
 	};
 
-	private onCommitCustom = () =>
-	{
-		const hasSelected = this.state.userData.playerGuid in (this.state.gameData.game?.roundCardsCustom ?? {});
-		if (hasSelected)
-		{
-			return;
-		}
-
-		this.setState({
-			playButtonLoading: true
-		});
-
-		GameDataStore.playCustomCards(this.state.pickedCardsCustom, this.state.userData.playerGuid)
-			.finally(() => this.setState({
-				playButtonLoading: false
-			}));
-
-		BrowserUtils.scrollToTop();
-	};
-
 	private onPickUpdate = (pickedCards: CardId[]) =>
 	{
 		this.setState({
 			pickedCards
-		});
-	};
-
-	private onPickUpdateCustom = (pickedCardsCustom: string[]) =>
-	{
-		this.setState({
-			pickedCardsCustom
 		});
 	};
 

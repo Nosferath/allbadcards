@@ -7,6 +7,8 @@ import {FaClipboardList, IoMdVolumeHigh, IoMdVolumeOff, MdSettings} from "react-
 import {GameRoster} from "../Areas/Game/Components/GameRoster";
 import {GameSettings} from "../Areas/Game/Components/GameSettings";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {GameDataStore} from "../Global/DataStore/GameDataStore";
+import {UserDataStore} from "../Global/DataStore/UserDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	settingsButton: {
@@ -28,6 +30,9 @@ export const AppBarGameButtons = () =>
 {
 	const preferences = useDataStore(PreferencesDataStore);
 	const socketData = useDataStore(SocketDataStore);
+	const gameData = useDataStore(GameDataStore);
+	const userData = useDataStore(UserDataStore);
+
 	const classes = useStyles();
 	const [rosterOpen, setRosterOpen] = useState(false);
 	const [settingsOpen, setSettingsOpen] = useState(false);
@@ -53,11 +58,13 @@ export const AppBarGameButtons = () =>
 					<FaClipboardList/>
 				</Button>
 			</Tooltip>
-			<Tooltip title={"Game settings"} arrow>
-				<Button color={buttonColor} aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
-					<MdSettings/>
-				</Button>
-			</Tooltip>
+			{gameData.game?.ownerGuid === userData.playerGuid && (
+				<Tooltip title={"Game settings"} arrow>
+					<Button color={buttonColor} aria-label={"Settings"} className={classes.settingsButton} size={"large"} onClick={() => setSettingsOpen(true)}>
+						<MdSettings/>
+					</Button>
+				</Tooltip>
+			)}
 			<Dialog open={rosterOpen} onClose={() => setRosterOpen(false)}>
 				<DialogTitle id="form-dialog-title">Game Roster</DialogTitle>
 				<DialogContent>
@@ -81,7 +88,7 @@ export const AppBarGameButtons = () =>
 					If this behavior continues, please <a target={"_blank"} href={"https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md"}>click here</a> to report it.
 				</DialogContent>
 				<DialogActions>
-					<Button color={"secondary"} variant={"outlined"} onClick={() => SocketDataStore.reconnect()}>Retry</Button>
+					<Button color={"secondary"} variant={"outlined"} onClick={() => location.reload()}>Retry</Button>
 				</DialogActions>
 			</Dialog>
 		</>

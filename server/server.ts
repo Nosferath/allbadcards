@@ -39,9 +39,10 @@ app.use(express.static(clientFolder, {
 app.use(compression() as any);
 app.use(cookieParser() as any);
 app.use(bodyParser.json({
-	type: ['application/json', 'text/plain']
+	type: ['application/json', 'text/plain'],
+	limit: "10mb"
 }) as any);
-app.use(bodyParser.urlencoded({extended: true}) as any);
+app.use(bodyParser.urlencoded({extended: true, limit: "10mb"}) as any);
 
 app.use(mongoSanitize({
 	replaceWith: '_'

@@ -87,17 +87,17 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/26</strong>
+								<li>Added idle player timeout to prevent games from getting stuck</li>
+								<li>Added mass pack card add option</li>
+								<li>Improved server instance behavior</li>
+								<br/>
 								<strong>Updates - 5/25</strong>
 								<li>Modified option to use custom cards so that it instead gives one custom card per round</li>
 								<li>Added attribution for Patreon backers</li>
 								<li>Fixed login/logout</li>
 								<li>Re-enabled socket compression (for performance)</li>
 								<li>Bug fixes and improvements</li>
-								<br/>
-								<strong>Updates - 5/20</strong>
-								<li>Added option to upload JSON card packs</li>
-								<li>Fixed card pack browser paging</li>
-								<li>Other fixes and improvements</li>
 								<br/>
 							</Typography>
 						</Grid>

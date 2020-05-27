@@ -19,6 +19,7 @@ export interface GamePlayer
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	kickedForTimeout?: boolean;
 }
 
 export interface CardId

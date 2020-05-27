@@ -352,21 +352,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			.catch(e => console.error(e));
 	}
 
-	public playCustomCards(cards: string[] | undefined, userGuid: string)
-	{
-		BrowserUtils.scrollToTop();
-
-		console.log("[GameDataStore] Played white cards...", cards, userGuid);
-
-		if (!this.state.game || !cards)
-		{
-			throw new Error("Invalid card or game!");
-		}
-
-		return Platform.playCardsCustom(this.state.game.id, userGuid, cards)
-			.catch(e => console.error(e));
-	}
-
 	public chooseWinner(chooserGuid: string, winningPlayerGuid: string)
 	{
 		BrowserUtils.scrollToTop();

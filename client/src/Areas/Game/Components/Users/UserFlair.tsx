@@ -10,7 +10,7 @@ interface UserFlairProps
 
 export const UserFlair: React.FC<UserFlairProps> = (props) =>
 {
-	if (!props.player.isSubscriber)
+	if (!props.player?.isSubscriber)
 	{
 		return null;
 	}

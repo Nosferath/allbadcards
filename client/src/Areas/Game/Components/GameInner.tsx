@@ -23,7 +23,8 @@ export const GameInner: React.FC<Props> = (
 	{
 		gameId,
 	}
-) => {
+) =>
+{
 	const gameData = useDataStore(GameDataStore);
 	const userData = useDataStore(UserDataStore);
 	const chatData = useDataStore(ChatDataStore);
@@ -57,11 +58,11 @@ export const GameInner: React.FC<Props> = (
 		: settings?.inviteLink;
 
 	const iWasKicked = !!kickedPlayers?.[playerGuid];
+	const meKicked = kickedPlayers?.[playerGuid];
 
 	const tablet = useMediaQuery('(max-width:1200px)');
 	const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 	const chatBarExpanded = chatData.sidebarOpen && !tablet && canChat;
-
 
 	return (
 		<div style={{maxWidth: chatBarExpanded ? "calc(100% - 320px)" : "100%"}}>
@@ -69,7 +70,7 @@ export const GameInner: React.FC<Props> = (
 				{iWasKicked && (
 					<Alert variant={"filled"} severity={"error"}>
 						<Typography>
-							You left or were kicked from this game
+							{meKicked?.kickedForTimeout ? "You were kicked for being idle. You may rejoin this game any time!" : "You left or were kicked from this game"}
 						</Typography>
 					</Alert>
 				)}
