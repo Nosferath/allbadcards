@@ -103,7 +103,7 @@ export class GameSockets
 									{
 										logMessage(`Kicked player ${matchingPlayerGuid} from game ${gameId} after they went idle.`)
 									});
-							}, 30000);
+							}, 60000);
 						});
 
 						// Remove this one

@@ -411,6 +411,11 @@ class _GameManager
 			newGame.chooserGuid = newGame.lastWinner.guid;
 		}
 
+		if(!newGame.chooserGuid)
+		{
+			newGame.chooserGuid = newGame.ownerGuid;
+		}
+
 		// Remove last winner
 		newGame.lastWinner = undefined;
 

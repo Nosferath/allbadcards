@@ -104,7 +104,7 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 					connectionOpen = false;
 					manualClose = true;
 					this.ws?.close();
-				}, 10000);
+				}, 30000);
 			}
 			else if(!Visibility.hidden())
 			{
