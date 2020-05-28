@@ -169,6 +169,7 @@ class _GameManager
 				roundIndex: 0,
 				roundStarted: false,
 				ownerGuid,
+				lastTrueOwnerGuid: ownerGuid,
 				chooserGuid: null,
 				dateCreated: now,
 				dateUpdated: now,
@@ -185,7 +186,6 @@ class _GameManager
 					packId: ""
 				},
 				roundCards: {},
-				roundCardsCustom: {},
 				usedBlackCards: {},
 				usedWhiteCards: {},
 				revealIndex: -1,
@@ -290,6 +290,11 @@ class _GameManager
 			}
 		}
 
+		if (playerToAdd.guid === newGame.lastTrueOwnerGuid)
+		{
+			newGame.ownerGuid = playerToAdd.guid;
+		}
+
 		// If the game already started, deal in this new person
 		if (newGame.started && !isSpectating && !newGame.started)
 		{
@@ -319,49 +324,76 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		if (newGame.kickedPlayers)
+
+		let canKickPlayer = false;
+
+		const isKickScenario = !kickedForTimeout || (kickedForTimeout && newGame.started && newGame.settings.public);
+
+		// Only kick people if the game is started
+		if (newGame.kickedPlayers && isKickScenario)
 		{
-			const kickedPlayer = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
-			if (kickedPlayer)
+			const playerToKick = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+			if (playerToKick)
 			{
-				kickedPlayer.kickedForTimeout = kickedForTimeout;
-				newGame.kickedPlayers[targetGuid] = kickedPlayer;
+				playerToKick.kickedForTimeout = kickedForTimeout;
+				newGame.kickedPlayers[targetGuid] = playerToKick;
+				canKickPlayer = true;
 			}
 		}
-		delete newGame.pendingPlayers[targetGuid];
-		delete newGame.players[targetGuid];
-		delete newGame.roundCards[targetGuid];
-		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
-
-		const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
-		const isOnlyRemainingPlayer = nonRandoms.length === 0;
-		if (isOnlyRemainingPlayer && kickedForTimeout)
+		else
 		{
-			return;
+			if (newGame.players[targetGuid])
+			{
+				newGame.players[targetGuid].isIdle = true
+			}
+
+			if (newGame.pendingPlayers[targetGuid])
+			{
+				newGame.pendingPlayers[targetGuid].isIdle = true
+			}
 		}
 
-		// If the owner deletes themselves, pick a new owner
-		if (targetGuid === ownerGuid)
+		if (canKickPlayer)
 		{
-			if (!isOnlyRemainingPlayer)
+			delete newGame.pendingPlayers[targetGuid];
+			delete newGame.players[targetGuid];
+			delete newGame.roundCards[targetGuid];
+			newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
+
+			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
+			const isOnlyRemainingPlayer = nonRandoms.length === 0;
+			if (isOnlyRemainingPlayer && kickedForTimeout)
 			{
-				newGame.ownerGuid = nonRandoms[0];
-			}
-			else if (kickedForTimeout)
-			{
-				// We don't want to kick, but we don't want to trigger an error either.
 				return;
 			}
-			else
-			{
-				throw new Error("You can't leave the game if you're the only player");
-			}
-		}
 
-		// If the owner deletes themselves, pick a new owner
-		if (targetGuid === existingGame.chooserGuid)
-		{
-			newGame.chooserGuid = newGame.ownerGuid;
+			// If the owner deletes themselves, pick a new owner
+			if (targetGuid === ownerGuid)
+			{
+				if (!isOnlyRemainingPlayer)
+				{
+					newGame.ownerGuid = nonRandoms[0];
+					if (!kickedForTimeout)
+					{
+						newGame.lastTrueOwnerGuid = newGame.ownerGuid;
+					}
+				}
+				else if (kickedForTimeout)
+				{
+					// We don't want to kick, but we don't want to trigger an error either.
+					return;
+				}
+				else
+				{
+					throw new Error("You can't leave the game if you're the only player");
+				}
+			}
+
+			// If the owner deletes themselves, pick a new owner
+			if (targetGuid === existingGame.chooserGuid)
+			{
+				newGame.chooserGuid = newGame.ownerGuid;
+			}
 		}
 
 		await this.updateGame(newGame);
@@ -411,7 +443,7 @@ class _GameManager
 			newGame.chooserGuid = newGame.lastWinner.guid;
 		}
 
-		if(!newGame.chooserGuid)
+		if (!newGame.chooserGuid)
 		{
 			newGame.chooserGuid = newGame.ownerGuid;
 		}
@@ -435,7 +467,6 @@ class _GameManager
 
 		// Reset the played cards for the round
 		newGame.roundCards = {};
-		newGame.roundCardsCustom = {};
 
 		// Deal a new hand
 		newGame = await this.dealWhiteCards(newGame);

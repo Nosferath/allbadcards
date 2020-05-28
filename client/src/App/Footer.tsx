@@ -5,7 +5,7 @@ import {Button, ButtonGroup, Container, IconButton, Switch, Typography, useMedia
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
 import {DiamondSponsor} from "../Areas/GameDashboard/SponsorList";
-import {FaGithub, FaPatreon, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
+import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
 import * as React from "react";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 
@@ -75,6 +75,9 @@ export const Footer = () =>
 				<ButtonGroup>
 					<IconButton href={"https://github.com/jakelauer/allbadcards"} target={"_blank"} color={"secondary"}>
 						<FaGithub/>
+					</IconButton>
+					<IconButton href={"https://reddit.com/r/allbadcards"} target={"_blank"} color={"secondary"}>
+						<FaRedditAlien/>
 					</IconButton>
 					<IconButton href={"http://twitter.com/allbadcards/"} target={"_blank"} color={"secondary"}>
 						<FaTwitter/>

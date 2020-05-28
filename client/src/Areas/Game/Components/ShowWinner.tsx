@@ -86,9 +86,8 @@ export class ShowWinner extends React.Component<Props, State>
 		const game = this.state.gameData.game;
 		const lastWinner = game?.lastWinner;
 		const winnerCardIds = lastWinner?.whiteCards ?? [];
-		const winnerCustomCards = lastWinner ? game?.roundCardsCustom?.[lastWinner.guid] ?? [] : [];
 		const winnerCards = winnerCardIds.map(cardId => this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]);
-		if (lastWinner && game && (winnerCards.length > 0 || winnerCustomCards.length > 0) && !this.state.timeDownStarted)
+		if (lastWinner && game && (winnerCards.length > 0) && !this.state.timeDownStarted)
 		{
 			const startTime = Date.now();
 			const beforeContinueDelay = 3000;
@@ -121,7 +120,6 @@ export class ShowWinner extends React.Component<Props, State>
 	public render()
 	{
 		const game = this.state.gameData.game;
-		const customCards = game?.roundCardsCustom ?? {};
 		const settings = game?.settings;
 		const players = game?.players ?? {};
 		const playerGuids = Object.keys(players);

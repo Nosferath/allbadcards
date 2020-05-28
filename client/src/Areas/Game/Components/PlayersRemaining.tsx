@@ -28,7 +28,7 @@ export const PlayersRemaining = () =>
 	const remainingPlayerGuids = Object.keys(players ?? {})
 		.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
-	const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
+	const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]);
 	const chooserIsMe = userData.playerGuid === chooserGuid;
 	const chooserPlayer = players?.[chooserGuid!];
 	const chooser = chooserIsMe ? "You!" : unescape(players?.[chooserGuid!]?.nickname);
@@ -47,7 +47,7 @@ export const PlayersRemaining = () =>
 				<Chip
 					style={{marginLeft: 3, marginBottom: 3, paddingLeft: 8}}
 					avatar={<ClockLoader size={15}/>}
-					label={player}
+					label={<><UserFlair player={player}/>{unescape(player?.nickname)}</>}
 				/>
 			))}
 			{!hasWinner && remainingPlayers.length === 0 && (

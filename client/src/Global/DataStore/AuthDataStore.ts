@@ -14,11 +14,12 @@ export interface IAuthContext
 
 const LowestBacker = BackerType["Support the site! (Pay-what-you-want)"];
 
-const BackerLevelMap = {
-	[BackerType.None]: [],
+export const BackerLevelMap = {
+	[BackerType.None]: [BackerType.None],
 	[LowestBacker]: [LowestBacker],
 	[BackerType.Sponsor]: [LowestBacker, BackerType.Sponsor],
 	[BackerType.DiamondSponsor]: [LowestBacker, BackerType.Sponsor, BackerType.DiamondSponsor],
+	[BackerType.Owner]: [LowestBacker, BackerType.Sponsor, BackerType.DiamondSponsor, BackerType.Owner],
 };
 
 class _AuthDatastore extends DataStore<IAuthContext>

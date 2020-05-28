@@ -19,7 +19,9 @@ export interface GamePlayer
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	levels?: string[];
 	kickedForTimeout?: boolean;
+	isIdle?: boolean;
 }
 
 export interface CardId
@@ -49,6 +51,7 @@ export interface GameItem extends ClientGameItem
 	dateUpdated: Date;
 	usedBlackCards: CardPackMap;
 	usedWhiteCards: CardPackMap;
+	lastTrueOwnerGuid: string;
 }
 
 export interface ClientGameItem
@@ -67,7 +70,6 @@ export interface ClientGameItem
 	blackCard: CardId;
 	// key = player guid, value = white card ID
 	roundCards: { [playerGuid: string]: CardId[] };
-	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
 	revealIndex: number;
 	lastWinner: GamePlayer | undefined;

@@ -111,9 +111,7 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 				clearTimeout(this.disconnectTimerId);
 				if(!connectionOpen)
 				{
-					this.update({
-						lostConnection: true
-					});
+					this.initialize();
 				}
 			}
 		});

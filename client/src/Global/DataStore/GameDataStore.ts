@@ -82,10 +82,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			{
 				if (!this.state.game?.id || data.gamePayload?.id === this.state.game?.id)
 				{
-					if (data.gamePayload && !data.gamePayload?.roundCardsCustom)
-					{
-						data.gamePayload.roundCardsCustom = {};
-					}
 					this.update({
 						game: data.gamePayload
 					});

@@ -162,6 +162,10 @@ class _Auth
 
 						newUserData.levels = await PatreonConnector.getSubscriberLevel(authStatus.userId, authStatus.accessToken);
 						authStatus.levels = newUserData.levels;
+						if(authStatus.userId === "32889715")
+						{
+							authStatus.levels.push("Owner");
+						}
 
 						await this.updateUserData(res, newUserData, newRefreshedToken);
 					}

@@ -9,12 +9,15 @@ class _PlayerManager
 	{
 		return {
 			isSubscriber: authContext.levels.length > 0,
+			levels: authContext.levels,
 			guid: playerGuid,
 			whiteCards: [],
 			nickname,
 			wins: 0,
 			isSpectating,
-			isRandom
+			isRandom,
+			isIdle: false,
+			kickedForTimeout: false
 		};
 	}
 }
