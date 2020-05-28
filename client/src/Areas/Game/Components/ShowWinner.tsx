@@ -15,6 +15,7 @@ import sanitize from "sanitize-html";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import {LoadingButton} from "../../../UI/LoadingButton";
 import {BlackCard} from "../../../UI/BlackCard";
+import {UserFlair} from "./Users/UserFlair";
 
 interface IShowWinnerProps
 {
@@ -208,7 +209,7 @@ export class ShowWinner extends React.Component<Props, State>
 					)}
 					<Divider style={{margin: "1rem 0"}}/>
 					<Typography variant={"h4"}>
-						Winner: {unescape(winner?.nickname)}!
+						Winner: <UserFlair player={winner}/> {unescape(winner?.nickname)}!
 					</Typography>
 					<div style={{marginTop: "1rem"}}>
 						<Typography>Scoreboard</Typography>

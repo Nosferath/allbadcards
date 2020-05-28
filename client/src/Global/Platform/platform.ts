@@ -291,9 +291,9 @@ class _Platform
 	{
 		this.trackEvent("pack-search");
 
-		const search = input.search ? `&search=${input.search}` : "";
-		const category = input.category ? `&category=${input.category}` : "";
-		const sort = input.sort ? `&sort=${input.sort}` : "";
+		const search = input.search ? `&search=${encodeURIComponent(input.search)}` : "";
+		const category = input.category ? `&category=${encodeURIComponent(input.category as string)}` : "";
+		const sort = input.sort ? `&sort=${encodeURIComponent(input.sort)}` : "";
 		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}${sort}`);
 	}
 

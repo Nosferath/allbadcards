@@ -22,10 +22,17 @@ export const UserFlair: React.FC<UserFlairProps> = (props) =>
 		<>
 			{isSubscriber && (
 				<Tooltip title={label} placement={"top"} arrow>
-					<a href={"http://patreon.com/allbadcards/"} target={"_blank"} style={{color: "#E64413", textDecoration: "none", fontSize: "0.8rem"}}>
-						{isOwner ? <GiQueenCrown/> : <FaPatreon/>}
-						&nbsp;&nbsp;
-					</a>
+					{isOwner ? (
+						<span style={{color: "black", textDecoration: "none", fontSize: "1.2rem", verticalAlign: -4}}>
+							<GiQueenCrown/>
+							&nbsp;&nbsp;
+						</span>
+					) : (
+						<a href={"http://patreon.com/allbadcards/"} target={"_blank"} style={{color: "#E64413", textDecoration: "none", fontSize: "0.8rem"}}>
+							<FaPatreon/>
+							&nbsp;&nbsp;
+						</a>
+					)}
 				</Tooltip>
 			)}
 			{props.player.isIdle && (

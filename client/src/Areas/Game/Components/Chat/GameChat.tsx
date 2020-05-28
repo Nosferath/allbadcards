@@ -67,7 +67,9 @@ const useStyles = makeStyles(theme => ({
 
 export const GameChat = () =>
 {
-	const userData = useDataStore(UserDataStore, () =>
+	const userData = useDataStore(UserDataStore);
+	const gameData = useDataStore(GameDataStore);
+	const chatData = useDataStore(ChatDataStore, () =>
 	{
 		if (cardContentRef.current)
 		{
@@ -75,8 +77,6 @@ export const GameChat = () =>
 			el.scrollTop = el.scrollHeight + el.clientHeight;
 		}
 	});
-	const gameData = useDataStore(GameDataStore);
-	const chatData = useDataStore(ChatDataStore);
 	const [pendingMessage, setPendingMessage] = useState("");
 	const [sendEnabled, setSendEnabled] = useState(true);
 

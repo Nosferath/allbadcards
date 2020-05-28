@@ -273,6 +273,8 @@ class _GameManager
 			playerToAdd = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
 		}
 
+		playerToAdd.isIdle = false;
+
 		// Otherwise, make a new player
 		if (isSpectating)
 		{
@@ -612,6 +614,11 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
+		if(!overrideValidation)
+		{
+			newGame.players[playerGuid].isIdle = false;
+		}
+
 		newGame.roundCards[playerGuid] = cardIds;
 		newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
@@ -713,6 +720,7 @@ class _GameManager
 		const newGame = {...existingGame};
 		newGame.roundStarted = true;
 		newGame.lastWinner = undefined;
+		newGame.players[playerGuid].isIdle = false;
 
 		await this.updateGame(newGame, true);
 

@@ -81,9 +81,13 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		try
 		{
 			const query: FilterQuery<ICustomCardPack> = {
-				isPublic: true,
-				isNsfw: req.query.nsfw === "true",
+				isPublic: true
 			};
+
+			if(req.query.nsfw !== "true")
+			{
+				query.isNsfw = false;
+			}
 
 			if (req.query.category)
 			{

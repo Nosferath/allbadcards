@@ -87,17 +87,15 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/27</strong>
+								<li>Fix for idle behavior causing issues for normal games starting</li>
+								<li>Idle timer only kicks players automatically in public games</li>
+								<li>Idle timer marks players as idle in private games</li>
+								<br/>
 								<strong>Updates - 5/26</strong>
 								<li>Added idle player timeout to prevent games from getting stuck</li>
 								<li>Added mass pack card add option</li>
 								<li>Improved server instance behavior</li>
-								<br/>
-								<strong>Updates - 5/25</strong>
-								<li>Modified option to use custom cards so that it instead gives one custom card per round</li>
-								<li>Added attribution for Patreon backers</li>
-								<li>Fixed login/logout</li>
-								<li>Re-enabled socket compression (for performance)</li>
-								<li>Bug fixes and improvements</li>
 								<br/>
 							</Typography>
 						</Grid>
