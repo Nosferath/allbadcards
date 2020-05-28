@@ -19,6 +19,7 @@ import {GameSockets} from "../../Sockets/GameSockets";
 import {AuthCookie} from "../../Auth/AuthCookie";
 import {IAuthContext} from "../../Auth/UserContract";
 import {Request} from "express";
+import {Game} from "./Game";
 
 export let GameManager: _GameManager;
 
@@ -46,41 +47,14 @@ class _GameManager
 		this.initializeRedis();
 	}
 
-	public static create(server: http.Server)
-	{
-		GameManager = new _GameManager(server);
-	}
-
 	private static get games()
 	{
 		return Database.db.collection<GameItem>("games");
 	}
 
-	private initializeRedis()
+	public static create(server: http.Server)
 	{
-		logMessage("Initializing Redis connections...");
-		this.redisPub = RedisConnector.create();
-		this.redisSub = RedisConnector.create();
-
-		this.redisSub.client.on("message", async (channel, dataString) =>
-		{
-			switch (channel)
-			{
-				case "games":
-					const gameItem = JSON.parse(dataString) as GameItem;
-
-					this.gameSockets.updateGames(gameItem);
-					break;
-
-				case "chat":
-					const chatPayload = JSON.parse(dataString) as ChatPayload;
-
-					this.gameSockets.updateChats(chatPayload);
-					break;
-			}
-		});
-
-		this.redisSub.client.subscribe(`games`, `chat`);
+		GameManager = new _GameManager(server);
 	}
 
 	public async getGame(gameId: string)
@@ -126,11 +100,6 @@ class _GameManager
 		this.updateRedisGame(newGame);
 
 		return newGame;
-	}
-
-	private updateRedisGame(gameItem: GameItem)
-	{
-		this.redisPub.client.publish("games", JSON.stringify(gameItem));
 	}
 
 	public updateRedisChat(player: IPlayer, chatPayload: ChatPayload)
@@ -223,27 +192,6 @@ class _GameManager
 		}
 	}
 
-	private async guaranteeNewGame(initialGameItem: GameItem)
-	{
-		let returnedGame: GameItem = initialGameItem;
-		try
-		{
-			await _GameManager.games.insertOne(initialGameItem);
-		}
-		catch (e)
-		{
-			if (e.code === 11000)
-			{
-				const game = {...initialGameItem};
-				game.id = hri.random();
-				returnedGame = game;
-				await this.guaranteeNewGame(game);
-			}
-		}
-
-		return returnedGame;
-	}
-
 	public async joinGame(authContext: IAuthContext, player: IPlayer, gameId: string, nickname: string, isSpectating: boolean, isRandom: boolean)
 	{
 		const playerGuid = player.guid;
@@ -273,7 +221,7 @@ class _GameManager
 			playerToAdd = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
 		}
 
-		playerToAdd.isIdle = false;
+		Game.setPlayerIdle(newGame, playerGuid, false);
 
 		// Otherwise, make a new player
 		if (isSpectating)
@@ -344,15 +292,7 @@ class _GameManager
 		}
 		else
 		{
-			if (newGame.players[targetGuid])
-			{
-				newGame.players[targetGuid].isIdle = true
-			}
-
-			if (newGame.pendingPlayers[targetGuid])
-			{
-				newGame.pendingPlayers[targetGuid].isIdle = true
-			}
+			Game.setPlayerIdle(newGame, targetGuid, true);
 		}
 
 		if (canKickPlayer)
@@ -422,6 +362,7 @@ class _GameManager
 		}
 
 		let newGame = {...existingGame};
+		Game.setPlayerIdle(newGame, chooserGuid, false);
 
 		// Reset white card reveal
 		newGame.revealIndex = -1;
@@ -616,7 +557,7 @@ class _GameManager
 		const newGame = {...existingGame};
 		if(!overrideValidation)
 		{
-			newGame.players[playerGuid].isIdle = false;
+			Game.setPlayerIdle(newGame, playerGuid, false);
 		}
 
 		newGame.roundCards[playerGuid] = cardIds;
@@ -660,13 +601,11 @@ class _GameManager
 	{
 		clearTimeout(this.gameCardTimers[gameId]);
 
-		const playerGuid = player.guid;
-
 		const existingGame = await this.getGame(gameId);
 
 		UserManager.validateUser(player);
 
-		if (existingGame.chooserGuid !== playerGuid)
+		if (existingGame.chooserGuid !== player.guid)
 		{
 			throw new Error("You are not the chooser!");
 		}
@@ -678,6 +617,8 @@ class _GameManager
 			newGame.revealIndex = Object.keys(newGame.roundCards).length;
 		}
 
+		Game.setPlayerIdle(newGame, player.guid, false);
+
 		await this.updateGame(newGame, true);
 
 		return newGame;
@@ -685,18 +626,17 @@ class _GameManager
 
 	public async skipBlack(gameId: string, player: IPlayer)
 	{
-		const playerGuid = player.guid;
-
 		const existingGame = await this.getGame(gameId);
 
 		UserManager.validateUser(player);
 
-		if (existingGame.chooserGuid !== playerGuid)
+		if (existingGame.chooserGuid !== player.guid)
 		{
 			throw new Error("You are not the chooser!");
 		}
 
 		const newGame = {...existingGame};
+		Game.setPlayerIdle(newGame, player.guid, false);
 		const newGameWithBlackCard = await this.gameDealNewBlackCard(newGame);
 
 		await this.updateGame(newGameWithBlackCard);
@@ -718,9 +658,9 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
+		Game.setPlayerIdle(newGame, playerGuid, false);
 		newGame.roundStarted = true;
 		newGame.lastWinner = undefined;
-		newGame.players[playerGuid].isIdle = false;
 
 		await this.updateGame(newGame, true);
 
@@ -735,55 +675,6 @@ class _GameManager
 		}
 
 		return newGame;
-	}
-
-	private async playCardsForSlowPlayers(gameId: string)
-	{
-		const existingGame = await this.getGame(gameId);
-		const newGame = {...existingGame};
-
-		const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
-		const targetPicked = blackCardDef.pick;
-		const allEligiblePlayerGuids = newGame.playerOrder.filter(pg => pg !== newGame.chooserGuid);
-		const remaining = allEligiblePlayerGuids.filter(pg => !(pg in newGame.roundCards));
-
-		for (let pg of remaining)
-		{
-			await this.playRandomCardForPlayer(newGame, pg, targetPicked);
-		}
-	}
-
-	private randomPlayersPlayCard(gameId: string)
-	{
-		this.getGame(gameId)
-			.then(async existingGame =>
-			{
-				const newGame = {...existingGame};
-				const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
-				const targetPicked = blackCardDef.pick;
-				const randomPlayerGuids = Object.keys(newGame.players).filter(pg => newGame.players[pg].isRandom);
-
-				for (let pg of randomPlayerGuids)
-				{
-					await this.playRandomCardForPlayer(newGame, pg, targetPicked);
-				}
-			});
-	}
-
-	private async playRandomCardForPlayer(game: GameItem, playerGuid: string, targetPicked: number)
-	{
-		const player = game.players[playerGuid];
-		let cards: CardId[] = [];
-		for (let i = 0; i < targetPicked; i++)
-		{
-			const [, newCards] = ArrayUtils.getRandomUnused(player.whiteCards, cards);
-			cards = newCards;
-		}
-
-		await this.playCard(game.id, {
-			secret: "",
-			guid: player.guid
-		}, cards, true);
 	}
 
 	public async addRandomPlayer(gameId: string, owner: IPlayer)
@@ -964,6 +855,108 @@ class _GameManager
 		newGame.usedWhiteCards = usedWhiteCards;
 
 		return newGame;
+	}
+
+	private initializeRedis()
+	{
+		logMessage("Initializing Redis connections...");
+		this.redisPub = RedisConnector.create();
+		this.redisSub = RedisConnector.create();
+
+		this.redisSub.client.on("message", async (channel, dataString) =>
+		{
+			switch (channel)
+			{
+				case "games":
+					const gameItem = JSON.parse(dataString) as GameItem;
+
+					this.gameSockets.updateGames(gameItem);
+					break;
+
+				case "chat":
+					const chatPayload = JSON.parse(dataString) as ChatPayload;
+
+					this.gameSockets.updateChats(chatPayload);
+					break;
+			}
+		});
+
+		this.redisSub.client.subscribe(`games`, `chat`);
+	}
+
+	private updateRedisGame(gameItem: GameItem)
+	{
+		this.redisPub.client.publish("games", JSON.stringify(gameItem));
+	}
+
+	private async guaranteeNewGame(initialGameItem: GameItem)
+	{
+		let returnedGame: GameItem = initialGameItem;
+		try
+		{
+			await _GameManager.games.insertOne(initialGameItem);
+		}
+		catch (e)
+		{
+			if (e.code === 11000)
+			{
+				const game = {...initialGameItem};
+				game.id = hri.random();
+				returnedGame = game;
+				await this.guaranteeNewGame(game);
+			}
+		}
+
+		return returnedGame;
+	}
+
+	private async playCardsForSlowPlayers(gameId: string)
+	{
+		const existingGame = await this.getGame(gameId);
+		const newGame = {...existingGame};
+
+		const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
+		const targetPicked = blackCardDef.pick;
+		const allEligiblePlayerGuids = newGame.playerOrder.filter(pg => pg !== newGame.chooserGuid);
+		const remaining = allEligiblePlayerGuids.filter(pg => !(pg in newGame.roundCards));
+
+		for (let pg of remaining)
+		{
+			await this.playRandomCardForPlayer(newGame, pg, targetPicked);
+		}
+	}
+
+	private randomPlayersPlayCard(gameId: string)
+	{
+		this.getGame(gameId)
+			.then(async existingGame =>
+			{
+				const newGame = {...existingGame};
+				const blackCardDef = await CardManager.getBlackCard(newGame.blackCard);
+				const targetPicked = blackCardDef.pick;
+				const randomPlayerGuids = Object.keys(newGame.players).filter(pg => newGame.players[pg].isRandom);
+
+				for (let pg of randomPlayerGuids)
+				{
+					await this.playRandomCardForPlayer(newGame, pg, targetPicked);
+				}
+			});
+	}
+
+	private async playRandomCardForPlayer(game: GameItem, playerGuid: string, targetPicked: number)
+	{
+		const player = game.players[playerGuid];
+		let cards: CardId[] = [];
+		for (let i = 0; i < targetPicked; i++)
+		{
+			const [, newCards] = ArrayUtils.getRandomUnused(player.whiteCards, cards);
+			cards = newCards;
+		}
+
+		await this.playCard(game.id, {
+			secret: "",
+			guid: player.guid
+		}, cards, true);
 	}
 }
 
