@@ -6,12 +6,14 @@ export class Game
 	{
 		if (game.players[playerGuid])
 		{
-			game.players[playerGuid].isIdle = true
+			game.players[playerGuid].isIdle = idle
 		}
 
 		if (game.pendingPlayers[playerGuid])
 		{
-			game.pendingPlayers[playerGuid].isIdle = true
+			game.pendingPlayers[playerGuid].isIdle = idle
 		}
+
+		return game;
 	}
 }

@@ -3,7 +3,6 @@ import {RouteComponentProps, withRouter} from "react-router";
 import {Button} from "@material-ui/core";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import * as Sentry from "@sentry/browser";
 import Typography from "@material-ui/core/Typography";
 import {ClientGameItem} from "../Global/Platform/Contract";
 
@@ -23,7 +22,6 @@ interface IErrorBoundaryState
 	hasError: boolean;
 	error: Error | null;
 	errorInfo: React.ErrorInfo | null;
-	eventId: string | null;
 }
 
 /** This class exists to handle error cases more gracefully than having the app just disappear.
@@ -40,7 +38,6 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 			hasError: false,
 			error: null,
 			errorInfo: null,
-			eventId: null
 		};
 	}
 
@@ -59,16 +56,8 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 			this.setState({
 				hasError: false,
 				error: null,
-				eventId: null,
 				errorInfo: null
 			});
-		});
-
-		Sentry.withScope((scope) =>
-		{
-			scope.setExtras(errorInfo);
-			const eventId = Sentry.captureException(error);
-			this.setState({eventId});
 		});
 	}
 
@@ -85,12 +74,11 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 
 		return [
 			`Error: ${this.state.error?.message}`,
-			`Sentry ID: ${this.state.eventId}`,
 			`URL: ${location.href}`,
+			`Stack: ${this.state.error?.stack}`,
 			`Timestamp: ${(new Date()).toISOString()}`,
 			`Browser: ${navigator.userAgent}`,
 			`Platform: ${navigator.platform}`,
-			`GameInfo: ${JSON.stringify(gameData)}`,
 			`UserInfo: ${JSON.stringify(UserDataStore.state)}`
 		].join(joinWith);
 	}

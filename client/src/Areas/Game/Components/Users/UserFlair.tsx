@@ -35,7 +35,7 @@ export const UserFlair: React.FC<UserFlairProps> = (props) =>
 					)}
 				</Tooltip>
 			)}
-			{props.player.isIdle && (
+			{props.player?.isIdle && (
 				<span>
 					<small>[idle] </small>
 				</span>

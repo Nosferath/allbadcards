@@ -34,7 +34,8 @@ export interface IGameSettings
 	skipReveal: boolean;
 	public: boolean;
 	playerLimit: number;
-	roundsToWin: number;
+	suggestedRoundsToWin?: number;
+	roundsToWin?: number;
 	inviteLink: string | null;
 	includedPacks: string[];
 	includedCustomPackIds: string[];

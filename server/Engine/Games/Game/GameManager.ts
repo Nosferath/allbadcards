@@ -90,6 +90,21 @@ class _GameManager
 		{
 			newGame.dateUpdated = new Date();
 		}
+		const playerGuids = Object.keys(newGame.players);
+
+		const mostRoundsWon = playerGuids.reduce((acc, guid) => {
+			if(newGame.players[guid].wins > acc)
+			{
+				acc = newGame.players[guid].wins;
+			}
+
+			return acc;
+		}, 0);
+
+		const minSuggestedRoundsToWin = Math.ceil(32 / playerGuids.length);
+		const suggestedRoundsToWin = Math.max(minSuggestedRoundsToWin, mostRoundsWon + 1);
+
+		newGame.settings.suggestedRoundsToWin = suggestedRoundsToWin;
 
 		await Database.db.collection<GameItem>("games").updateOne({
 			id: newGame.id
@@ -113,8 +128,7 @@ class _GameManager
 		req: Request,
 		authContext: IAuthContext,
 		owner: IPlayer,
-		nickname: string,
-		roundsToWin = 7): Promise<GameItem>
+		nickname: string): Promise<GameItem>
 	{
 		UserManager.validateUser(owner);
 
@@ -163,7 +177,7 @@ class _GameManager
 					public: false,
 					hideDuringReveal: false,
 					skipReveal: false,
-					roundsToWin,
+					suggestedRoundsToWin: 7,
 					playerLimit: 50,
 					inviteLink: null,
 					includedPacks: defaultPacks,

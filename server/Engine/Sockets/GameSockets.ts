@@ -127,7 +127,7 @@ export class GameSockets
 
 		// Get every socket that needs updating
 		const playerSocketListsForGame = playerGuids.map(pg => this.playerGuidToSocketIds[pg]);
-		const allPlayerSocketIdsForGame = ArrayUtils.flatten(playerSocketListsForGame);
+		const allPlayerSocketIdsForGame = ArrayUtils.flatten<string>(playerSocketListsForGame);
 
 		this.gameIdToSocketIds[game.id] = allPlayerSocketIdsForGame;
 

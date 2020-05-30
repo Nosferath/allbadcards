@@ -58,7 +58,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			inviteLink: null,
 			playerLimit: 50,
 			public: false,
-			roundsToWin: 7,
 			winnerBecomesCzar: false,
 			roundTimeoutSeconds: null,
 			allowCustoms: false

@@ -133,7 +133,7 @@ const GameList = () =>
 					<Grid item xs={12} sm={6} md={4} lg={3}>
 						<Card elevation={5}>
 							<CardHeader
-								title={<>{unescape(game.players[game.ownerGuid].nickname)}'s game</>}
+								title={<>{unescape(game.players?.[game.ownerGuid]?.nickname)}'s game</>}
 								subheader={
 									<>{Object.keys(game.players).length} / {game.settings.playerLimit} players</>
 								}
