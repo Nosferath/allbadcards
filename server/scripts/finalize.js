@@ -2,7 +2,7 @@
 const path = require('path');
 const fs = require('fs-extra');
 const Seven = require("node-7z");
-const sevenBin = require("7zip-bin-win");
+const sevenBin = require('7zip-bin');
 
 const appDirectory = fs.realpathSync(process.cwd());
 const resolve = relativePath => path.resolve(appDirectory, relativePath);
@@ -23,10 +23,9 @@ const finalize = (buildName, buildDir, outputDir) => {
 
     const zipPath = path.resolve(buildDir, "../" + buildName + ".zip");
     const toAdd = path.resolve(buildDir, "./*.*");
-    const pathTo7zip = sevenBin.path7za;
     Seven.add(zipPath, toAdd, {
         recursive: true,
-        $bin: pathTo7zip,
+        $bin: sevenBin.path7za,
     });
 };
 
