@@ -84,27 +84,21 @@ class _GameManager
 		return existingGame;
 	}
 
-	public async updateGame(newGame: GameItem, triggerUpdate = false)
+	/**
+	 * Update a game in the DB
+	 * @param {GameItem} newGame The updated game data
+	 * @param {boolean} modifySuggestedRounds If true, we will update the suggested rounds to win (like if the player count changes or they turn on the Use Suggested setting)
+	 * @param {boolean} triggerUpdate
+	 * @returns {Promise<GameItem>}
+	 */
+	public async updateGame(newGame: GameItem, modifySuggestedRounds = false, triggerUpdate = false)
 	{
 		if (triggerUpdate)
 		{
 			newGame.dateUpdated = new Date();
 		}
-		const playerGuids = Object.keys(newGame.players);
 
-		const mostRoundsWon = playerGuids.reduce((acc, guid) => {
-			if(newGame.players[guid].wins > acc)
-			{
-				acc = newGame.players[guid].wins;
-			}
-
-			return acc;
-		}, 0);
-
-		const minSuggestedRoundsToWin = Math.ceil(32 / playerGuids.length);
-		const suggestedRoundsToWin = Math.max(minSuggestedRoundsToWin, mostRoundsWon + 1);
-
-		newGame.settings.suggestedRoundsToWin = suggestedRoundsToWin;
+		newGame.settings.suggestedRoundsToWin = Game.calculateSuggestedRoundsToWin(newGame, modifySuggestedRounds);
 
 		await Database.db.collection<GameItem>("games").updateOne({
 			id: newGame.id
@@ -188,6 +182,8 @@ class _GameManager
 				}
 			};
 
+			initialGameItem.settings.suggestedRoundsToWin = Game.calculateSuggestedRoundsToWin(initialGameItem, false);
+
 			const insertedGame = await this.guaranteeNewGame(initialGameItem);
 
 			const game = await this.getGame(insertedGame.id);
@@ -266,7 +262,7 @@ class _GameManager
 			newGame.players[playerGuid].whiteCards = newGameWithCards.players[playerGuid].whiteCards;
 		}
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -352,7 +348,7 @@ class _GameManager
 			}
 		}
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, true);
 
 		return newGame;
 	}
@@ -431,7 +427,9 @@ class _GameManager
 		// Grab the new black card
 		newGame = await this.gameDealNewBlackCard(newGame);
 
-		await this.updateGame(newGame, true);
+		const updatedPlayerCount = Object.keys(existingGame.players).length !== Object.keys(newGame.players).length;
+
+		await this.updateGame(newGame, updatedPlayerCount, true);
 
 		return newGame;
 	}
@@ -463,7 +461,7 @@ class _GameManager
 		newGame = await this.gameDealNewBlackCard(newGame);
 		newGame = await this.dealWhiteCards(newGame);
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false, true);
 
 		return newGame;
 	}
@@ -471,7 +469,7 @@ class _GameManager
 	public async updateSettings(
 		gameId: string,
 		owner: IPlayer,
-		settings: IGameSettings,
+		settings: Partial<IGameSettings>,
 	)
 	{
 		UserManager.validateUser(owner);
@@ -487,6 +485,8 @@ class _GameManager
 
 		let newGame = {...existingGame};
 
+		const didSetRoundsToWin = newGame.settings.roundsToWin !== settings.roundsToWin;
+
 		newGame.settings = {...newGame.settings, ...settings};
 
 		if (newGame.settings.playerLimit > 50)
@@ -494,7 +494,7 @@ class _GameManager
 			throw new Error("Player limit cannot be greater than 50");
 		}
 
-		await this.updateGame(newGame);
+		await this.updateGame(newGame, didSetRoundsToWin);
 
 		return newGame;
 	}
@@ -534,7 +534,7 @@ class _GameManager
 		};
 		newGame.lastWinner = undefined;
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false,true);
 
 		return newGame;
 	}
@@ -606,7 +606,7 @@ class _GameManager
 		// clear out the player's cards
 		newGame.players[playerGuid].whiteCards = [];
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false, true);
 
 		return newGame;
 	}
@@ -633,7 +633,7 @@ class _GameManager
 
 		Game.setPlayerIdle(newGame, player.guid, false);
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false, true);
 
 		return newGame;
 	}
@@ -676,7 +676,7 @@ class _GameManager
 		newGame.roundStarted = true;
 		newGame.lastWinner = undefined;
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false, true);
 
 		this.randomPlayersPlayCard(gameId);
 
@@ -737,7 +737,7 @@ class _GameManager
 		newGame.players[winnerPlayerGuid].wins = newGame.players[winnerPlayerGuid].wins + 1;
 		newGame.lastWinner = newGame.players[winnerPlayerGuid];
 
-		await this.updateGame(newGame, true);
+		await this.updateGame(newGame, false, true);
 
 		const settings = newGame.settings;
 		const players = newGame.players;

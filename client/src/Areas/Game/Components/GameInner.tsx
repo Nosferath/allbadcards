@@ -15,6 +15,8 @@ import moment from "moment";
 import {ChatDataStore} from "../../../Global/DataStore/ChatDataStore";
 import {useHistory, useParams} from "react-router";
 import {SiteRoutes} from "../../../Global/Routes/Routes";
+import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../Global/Platform/Contract";
 
 interface Props
 {
@@ -78,7 +80,8 @@ export const GameInner: React.FC<Props> = (
 	const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
 
 	const playerGuids = Object.keys(players ?? {});
-	const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+	const roundsToWin = getTrueRoundsToWin(gameData.game as ClientGameItem);
+	const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 
 	const inviteLink = (settings?.inviteLink?.length ?? 0) > 25
 		? `${settings?.inviteLink?.substr(0, 25)}...`

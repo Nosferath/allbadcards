@@ -1,5 +1,5 @@
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameSettings, PackSearch} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameClientSettings, IGameSettings, PackSearch} from "./Contract";
 import {Fetcher} from "./Fetcher";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
@@ -95,7 +95,7 @@ class _Platform
 	public async updateSettings(
 		guid: string,
 		gameId: string,
-		settings: IGameSettings)
+		settings: IGameClientSettings)
 	{
 		this.trackEvent("start", gameId);
 

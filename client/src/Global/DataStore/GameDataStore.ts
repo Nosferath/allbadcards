@@ -2,7 +2,7 @@ import {DataStore} from "./DataStore";
 import {GamePayload, IWhiteCard, Platform} from "../Platform/platform";
 import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
-import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameSettings, PackTypes} from "../Platform/Contract";
+import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameClientSettings, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -24,7 +24,7 @@ export interface GameDataStorePayload
 	/**
 	 * This is used just to SET settings. Reading settings should be done using the `game` property
 	 */
-	ownerSettings: IGameSettings,
+	ownerSettings: IGameClientSettings,
 	loaded: boolean;
 	game: GamePayload | null;
 	loadedPacks: ICardPackSummary[];
@@ -420,7 +420,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		});
 	}
 
-	public setRequiredRounds(rounds: number)
+	public setRequiredRounds(rounds: number | undefined)
 	{
 		this.setSetting({
 			roundsToWin: rounds

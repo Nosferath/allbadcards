@@ -16,4 +16,28 @@ export class Game
 
 		return game;
 	}
+
+	public static calculateSuggestedRoundsToWin(newGame: GameItem, modifySuggestedRounds: boolean)
+	{
+		const playerGuids = Object.keys(newGame.players);
+
+		const mostRoundsWon = playerGuids.reduce((acc, guid) => {
+			if(newGame.players[guid].wins > acc)
+			{
+				acc = newGame.players[guid].wins;
+			}
+
+			return acc;
+		}, 0);
+
+		const minSuggestedRoundsToWin = Math.ceil(32 / playerGuids.length);
+		const suggestedRoundsToWin = Math.max(
+			minSuggestedRoundsToWin,
+			modifySuggestedRounds
+				? mostRoundsWon + 1
+				: minSuggestedRoundsToWin
+		);
+
+		return Math.min(Math.max(3, suggestedRoundsToWin), 7);
+	}
 }

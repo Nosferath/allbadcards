@@ -87,15 +87,14 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 5/29</strong>
+								<li>Added automatic "rounds to win" behavior that scales based on the number of players playing (overrideable)</li>
+								<li>Bug fixes and performance improvements</li>
+								<br/>
 								<strong>Updates - 5/27</strong>
 								<li>Fix for idle behavior causing issues for normal games starting</li>
 								<li>Idle timer only kicks players automatically in public games</li>
 								<li>Idle timer marks players as idle in private games</li>
-								<br/>
-								<strong>Updates - 5/26</strong>
-								<li>Added idle player timeout to prevent games from getting stuck</li>
-								<li>Added mass pack card add option</li>
-								<li>Improved server instance behavior</li>
 								<br/>
 							</Typography>
 						</Grid>

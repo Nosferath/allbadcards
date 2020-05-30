@@ -12,6 +12,8 @@ import {ChatSidebar} from "./Components/Chat/ChatSidebar";
 import {GameInner} from "./Components/GameInner";
 import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
 import moment from "moment";
+import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../Global/Platform/Contract";
 
 interface IGameParams
 {
@@ -73,7 +75,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		} = state.gameData.game ?? {};
 
 		const playerGuids = Object.keys(players ?? {});
-		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(state.gameData.game as ClientGameItem);
+		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		return winnerGuid;
 	}
 
@@ -145,7 +148,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const title = `${unescape(owner?.nickname ?? "")}'s game`;
 
 		const playerGuids = Object.keys(players ?? {});
-		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(this.state.gameData.game as ClientGameItem);
+		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 
 		return (

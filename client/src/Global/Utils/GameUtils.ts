@@ -1,5 +1,5 @@
 import {ArrayUtils} from "./ArrayUtils";
-import {CardId} from "../Platform/Contract";
+import {CardId, ClientGameItem} from "../Platform/Contract";
 import {GameDataStorePayload} from "../DataStore/GameDataStore";
 
 export const cardDefsLoaded = (gameData: GameDataStorePayload) => {
@@ -9,4 +9,12 @@ export const cardDefsLoaded = (gameData: GameDataStorePayload) => {
 	const loadedCards = Object.values(gameData.roundCardDefs).length > 0;
 
 	return playedCards.length === 0 || loadedCards || loadableCards.length === 0;
+};
+
+export const getTrueRoundsToWin = (game: ClientGameItem | undefined) =>
+{
+	const suggested = game?.settings?.suggestedRoundsToWin ?? 7;
+	const set = game?.settings?.roundsToWin;
+
+	return set ?? suggested;
 };

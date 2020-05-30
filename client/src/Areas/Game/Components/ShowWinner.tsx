@@ -16,6 +16,8 @@ import CircularProgress from "@material-ui/core/CircularProgress";
 import {LoadingButton} from "../../../UI/LoadingButton";
 import {BlackCard} from "../../../UI/BlackCard";
 import {UserFlair} from "./Users/UserFlair";
+import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../Global/Platform/Contract";
 
 interface IShowWinnerProps
 {
@@ -124,7 +126,8 @@ export class ShowWinner extends React.Component<Props, State>
 		const settings = game?.settings;
 		const players = game?.players ?? {};
 		const playerGuids = Object.keys(players);
-		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(game as ClientGameItem);
+		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const gameWinner = gameWinnerGuid ? game?.players?.[gameWinnerGuid] : undefined;
 		const lastWinner = game?.lastWinner ?? gameWinner;
 		if(!lastWinner)

@@ -28,13 +28,17 @@ export interface CardId
 	customInput?: string;
 }
 
-export interface IGameSettings
+export interface IGameSettings extends IGameClientSettings
+{
+	suggestedRoundsToWin?: number;
+}
+
+export interface IGameClientSettings
 {
 	hideDuringReveal: boolean;
 	skipReveal: boolean;
 	public: boolean;
 	playerLimit: number;
-	suggestedRoundsToWin?: number;
 	roundsToWin?: number;
 	inviteLink: string | null;
 	includedPacks: string[];
