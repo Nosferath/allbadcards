@@ -1,4 +1,4 @@
-import {ButtonGroup, ListItem, ListItemText, Typography} from "@material-ui/core";
+import {ButtonGroup, colors, ListItem, ListItemText, Typography, useMediaQuery} from "@material-ui/core";
 import React, {useEffect, useState} from "react";
 import Button from "@material-ui/core/Button";
 import {Twemoji} from "react-emoji-render";
@@ -66,26 +66,28 @@ export const Support = () =>
 	const which = Math.floor(randomThankYou * thankYous.length);
 	const thankYouButton = thankYous[which];
 
+	const mobile = useMediaQuery('(max-width:768px)');
+
 	return (
 		<div style={{
 			marginTop: "3rem",
 			marginBottom: "8rem",
 			textAlign: "center"
 		}}>
-			<Typography variant={"h6"}>Did you enjoy the game? One dude made this site and it runs on donations!</Typography>
+			<Typography variant={"h5"}>Did you enjoy the game? One dude made this site and it runs on donations!</Typography>
 			<Typography style={{marginTop: "1rem"}}>
 				{thankYouButton}
 				<List>
 					<ListItem>
 						<ListItemText style={{textAlign: "center"}} primary={<>
-							<ButtonGroup orientation={"horizontal"}>
-								<Button startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"} />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
+							<ButtonGroup orientation={mobile ? "vertical" : "horizontal"}>
+								<Button style={{background: colors.blue.A100}} startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"} />} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
 									venmo
 								</Button>
-								<Button startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
+								<Button style={{background: colors.orange.A100}} startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
 									paypal
 								</Button>
-								<Button startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"outlined"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
+								<Button  style={{background: colors.green.A100}} startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
 									$cash
 								</Button>
 							</ButtonGroup>

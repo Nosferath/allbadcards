@@ -38,6 +38,6 @@ export class Game
 				: minSuggestedRoundsToWin
 		);
 
-		return Math.min(Math.max(3, suggestedRoundsToWin), 7);
+		return Math.min(Math.max(4, suggestedRoundsToWin), 7);
 	}
 }

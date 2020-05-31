@@ -161,7 +161,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				{winnerGuid && (
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
 						<DialogContent style={{padding: "2rem"}}>
-							<Typography variant={"h4"} style={{textAlign: "center"}}>
+							<Typography variant={"h6"} style={{textAlign: "center"}}>
 								Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
 							</Typography>
 

@@ -36,8 +36,8 @@ export class _PatreonConnector
 			if (pledgeIds && pledgeIds.length)
 			{
 				const pledges = profileInfo.included.filter((i: any) => i.type === "pledge" && pledgeIds.includes(i.id));
-				const rewardIds = pledges.map((p: any) => p.relationships.reward.data.id);
-				const rewards = rewardIds.map((r: any) => profileInfo.included.find((i: any) => i.type === "reward" && i.id === r));
+				const rewardIds = pledges.map((p: any) => p.relationships?.reward?.data?.id);
+				const rewards = rewardIds.map((r: any) => profileInfo.included.find((i: any) => i?.type === "reward" && i?.id === r));
 				levels = rewards.map((r: any) => r.attributes.title);
 			}
 		}

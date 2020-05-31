@@ -18,6 +18,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import {useDataStore} from "../../../Global/Utils/HookUtils";
 import {SocketDataStore} from "../../../Global/DataStore/SocketDataStore";
 import {UserFlair} from "./Users/UserFlair";
+import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
 
 const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
@@ -57,7 +58,7 @@ export const GameRoster = () =>
 
 	const onKickConfirm = () =>
 	{
-		if(kickCandidate)
+		if (kickCandidate)
 		{
 			setKickCandidate(null);
 			Platform.removePlayer(gameId, kickCandidate, userData.playerGuid)
@@ -75,6 +76,10 @@ export const GameRoster = () =>
 
 	return (
 		<div style={{width: "75vw", maxWidth: 500}}>
+			<List style={{marginBottom: "2rem"}}>
+				<Divider/>
+				<ListItemText primary={`${getTrueRoundsToWin(gameData.game)} Rounds Required to Win`} secondary={` (modifiable in Gameplay Settings)`}/>
+			</List>
 			<List>
 				{sortedPlayerGuids.map(pg =>
 				{
@@ -97,7 +102,7 @@ export const GameRoster = () =>
 									</ListItemAvatar>
 								)}
 								<ListItemText>
-									<UserFlair player={player} />
+									<UserFlair player={player}/>
 									{unescape(player.nickname)}
 									{player.guid === gameData.game?.ownerGuid && <>
                                         <span> (Owner)</span>

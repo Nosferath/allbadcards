@@ -112,10 +112,9 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 			return <div>
 				{chunkError && (
 					<div style={{textAlign: "center", margin: "3rem auto 0", maxWidth: "45rem"}}>
-						<Typography variant={"h5"}>Something broke. Refresh!</Typography>
+						<Typography variant={"h5"}>You have an old version. Refresh!</Typography>
 						<Typography style={{marginTop: "2rem"}} variant={"body1"}>
-							Something failed to load. It will probably fix itself if you refresh. <br/>
-							If this keeps happening, file a report using the bottom at the bottom of this window. Sorry!
+							It looks like the version your browser is running has been updated. You can start using the new version by refreshing.
 						</Typography>
 					</div>
 				)}

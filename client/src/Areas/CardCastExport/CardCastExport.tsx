@@ -54,8 +54,6 @@ const CardCastExport = () =>
 				<Grid item xs={12}>
 					CardCast recently shut down. Fortunately, we have some decks cached in our data. If you (or anyone) ever played All Bad Cards with your deck, we may have a copy.
 					<br/><br/>
-					See and download all of the saved packs here: <a href={"https://github.com/jakelauer/allbadcards/tree/master/cardcast-packs"} target={"_blank"}>https://github.com/jakelauer/allbadcards/tree/master/cardcast-packs</a>
-					<br/><br/>
 					Enter your CardCast deck ID, or search for your pack name below:
 					<br/><br/>
 					<TextField color={"secondary"} value={cardCastDeckCode} style={{margin: "0 1rem 1rem 0", width: "20rem"}} size={"small"} onChange={e => setCardCastDeckCode(e.target.value)} id="outlined-basic" label="Search Pack Name or Code" variant="outlined"/>

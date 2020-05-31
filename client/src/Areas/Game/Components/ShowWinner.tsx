@@ -6,11 +6,8 @@ import Divider from "@material-ui/core/Divider";
 import {Platform} from "../../../Global/Platform/platform";
 import {WhiteCard} from "../../../UI/WhiteCard";
 import Grid from "@material-ui/core/Grid";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
-import Avatar from "@material-ui/core/Avatar";
 import sanitize from "sanitize-html";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import {LoadingButton} from "../../../UI/LoadingButton";
@@ -18,6 +15,7 @@ import {BlackCard} from "../../../UI/BlackCard";
 import {UserFlair} from "./Users/UserFlair";
 import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
 import {ClientGameItem} from "../../../Global/Platform/Contract";
+import {GameRoster} from "./GameRoster";
 
 interface IShowWinnerProps
 {
@@ -130,13 +128,14 @@ export class ShowWinner extends React.Component<Props, State>
 		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const gameWinner = gameWinnerGuid ? game?.players?.[gameWinnerGuid] : undefined;
 		const lastWinner = game?.lastWinner ?? gameWinner;
-		if(!lastWinner)
+		if (!lastWinner)
 		{
 			return null;
 		}
 
 		const winnerCardIds = game?.roundCards?.[lastWinner.guid] ?? [];
-		const winnerCards = winnerCardIds.map(cardId => {
+		const winnerCards = winnerCardIds.map(cardId =>
+		{
 			return cardId.customInput ?? this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
 		});
 		const blackCardContent = this.state.gameData.blackCardDef?.content;
@@ -216,27 +215,7 @@ export class ShowWinner extends React.Component<Props, State>
 					</Typography>
 					<div style={{marginTop: "1rem"}}>
 						<Typography>Scoreboard</Typography>
-						<List>
-							{sortedPlayerGuids.map((pg, i) => (
-								<>
-									{i > 0 && i <= sortedPlayerGuids.length - 1 && (
-										<Divider/>
-									)}
-									<ListItem>
-										<ListItemAvatar>
-											<Avatar>
-												<strong>{game?.players[pg].wins}</strong>
-											</Avatar>
-										</ListItemAvatar>
-										<ListItemText>
-											<Typography>
-												{unescape(game?.players[pg].nickname)}
-											</Typography>
-										</ListItemText>
-									</ListItem>
-								</>
-							))}
-						</List>
+						<GameRoster/>
 					</div>
 				</Grid>
 			</>
