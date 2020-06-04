@@ -66,7 +66,6 @@ interface ISponsor
 	url: string;
 	src: string;
 	byline: string;
-	familyOnly: boolean;
 }
 
 export const SponsorList = () =>
@@ -84,37 +83,31 @@ export const SponsorList = () =>
 			src: "/sponsors/carepod.png",
 			byline: "🐾 Need a vacay to fly away with our pets 🐶",
 			url: "https://flycarepod.link/games",
-			familyOnly: false
 		},
 		{
 			src: "/sponsors/songsaga.png",
 			url: "https://song-saga.com",
 			byline: "The music and story game that rocks 🤘",
-			familyOnly: false
-		},
-		{
-			byline: "Comprehensive Solutions for SMB",
-			url: "https://www.concentricsolvesit.com/",
-			src: "/sponsors/concentric-it-solutions.png",
-			familyOnly: false
 		},
 		{
 			byline: "🚀 Reboot during quarantine",
 			url: "https://www.reboot-drink.com/",
-			familyOnly: false,
 			src: "/sponsors/reboot.jpg"
 		},
 		{
 			byline: "Everyone will notice, no one will know",
 			url: "https://www.novellusaesthetics.co.uk/",
 			src: "/sponsors/novellusauesthetics2.jpeg",
-			familyOnly: false
 		},
 		{
 			url: "https://soundcloud.com/damndirtydrivein?source=abc",
 			src: "/sponsors/damndirtydrivein.jpg",
 			byline: "Damn Dirty Drive-In Podcast",
-			familyOnly: false
+		},
+		{
+			url: "https://justlikejane.com?source=abc",
+			src: "/sponsors/justlikejane.jpg",
+			byline: "🧼 wash out your mouth!",
 		},
 		undefined,
 		undefined,
@@ -187,7 +180,6 @@ export const DiamondSponsor = () =>
 					byline: "",
 					url: "https://linktr.ee/revivalrecs?source=abc",
 					src: "/sponsors/revival.png",
-					familyOnly: false
 				}} isDiamondSponsor={true}/>
 				<Divider/>
 			</Grid>
