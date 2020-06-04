@@ -742,7 +742,8 @@ class _GameManager
 		const settings = newGame.settings;
 		const players = newGame.players;
 		const playerGuids = Object.keys(players);
-		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 50));
+		const playerWinning = players.reduce((p,c) => {return p.score < c.score ? c: p;})
+		const gameWinnerGuid = playerGuids.find(pg => (playerWinning?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 50));
 
 		if (!gameWinnerGuid)
 		{
