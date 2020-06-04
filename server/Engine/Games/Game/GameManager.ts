@@ -740,10 +740,16 @@ class _GameManager
 		await this.updateGame(newGame, false, true);
 
 		const settings = newGame.settings;
-		const players = newGame.players;
-		const playerGuids = Object.keys(players);
-		const playerWinning = players.reduce((p,c) => {return p.score < c.score ? c: p;})
-		const gameWinnerGuid = playerGuids.find(pg => (playerWinning?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 50));
+		const playerMap = newGame.players;
+		const players = Object.values(newGame.players);
+		const playerGuids = Object.keys(playerMap);
+		const playerWinning = players.reduce((p,c) => {
+			return p.wins < c.wins
+				? c
+				: p;
+		});
+
+		const gameWinnerGuid = playerGuids.find(pg => (playerWinning?.wins ?? 0) >= (settings?.roundsToWin ?? 50));
 
 		if (!gameWinnerGuid)
 		{

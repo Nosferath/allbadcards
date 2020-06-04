@@ -42,7 +42,7 @@ export class Config
 		switch (this.Environment)
 		{
 			case "local":
-				host = "jlauer.local:5000";
+				host = "allbadcards.local:5000";
 				break;
 			case "beta":
 				host = "beta.allbad.cards";
