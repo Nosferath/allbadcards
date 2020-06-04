@@ -8,7 +8,6 @@ import bodyParser from "body-parser";
 import {RegisterGameEndpoints} from "./Engine/Games/Game/GameEndpoints";
 import {Config} from "../config/config";
 import {CreateGameManager} from "./Engine/Games/Game/GameManager";
-import * as Sentry from "@sentry/node";
 import {Auth} from "./Engine/Auth/Auth";
 import {RegisterPackEndpoints} from "./Engine/Games/Cards/PackEndpoints";
 import mongoSanitize from 'express-mongo-sanitize';
@@ -21,13 +20,6 @@ const port = process.env.port || 5000;
 const clientFolder = path.join(process.cwd(), 'client');
 
 console.log(`Port is ${port}. Version is ${Config.OutputDir}`);
-
-app.use(Sentry.Handlers.requestHandler() as any);
-
-if (Config.Environment !== "local")
-{
-	Sentry.init({dsn: 'https://055714bf94b544a79ce023c1bc076ac5@o377988.ingest.sentry.io/5200777'});
-}
 
 // Set up basic settings
 app.use(express.static(clientFolder, {
@@ -61,8 +53,6 @@ RegisterPackEndpoints(app, clientFolder);
 
 // must go last
 RegisterGameEndpoints(app, clientFolder);
-
-app.use(Sentry.Handlers.errorHandler() as any);
 
 // Start the server
 const server = app.listen(port, () => console.log(`Listening on port ${port}, environment: ${Config.Environment}`))
