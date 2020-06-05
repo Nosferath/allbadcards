@@ -109,7 +109,11 @@ export const SponsorList = () =>
 			src: "/sponsors/justlikejane.jpg",
 			byline: "🧼 wash out your mouth!",
 		},
-		undefined,
+		{
+			url: "http://leisurelandps.com",
+			src: "/sponsors/leisurelandps.png",
+			byline: ""
+		},
 		undefined,
 		undefined,
 	];
