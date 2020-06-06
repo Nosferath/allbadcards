@@ -5,10 +5,11 @@ import {default as React, useState} from "react";
 import {Button, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, Tooltip} from "@material-ui/core";
 import {FaClipboardList, IoMdVolumeHigh, IoMdVolumeOff, MdSettings} from "react-icons/all";
 import {GameRoster} from "../Areas/Game/Components/Gameplay/GameRoster";
-import {GameSettings} from "../Areas/Game/Components/Gameplay/GameSettings";
+import {GameSettings} from "@Areas/Game/GameSettings";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
+import {CloseableDialog} from "@UI/CloseableDialog";
 
 const useStyles = makeStyles(theme => createStyles({
 	settingsButton: {
@@ -71,12 +72,11 @@ export const AppBarGameButtons = () =>
 					<GameRoster/>
 				</DialogContent>
 			</Dialog>
-			<Dialog open={settingsOpen} onClose={() => setSettingsOpen(false)}>
-				<DialogTitle id="form-dialog-title">Settings</DialogTitle>
-				<DialogContent>
+			<CloseableDialog open={settingsOpen} onClose={() => setSettingsOpen(false)} TitleProps={{children: "Settings"}}>
+				<DialogContent dividers>
 					<GameSettings/>
 				</DialogContent>
-			</Dialog>
+			</CloseableDialog>
 			<Dialog open={socketData.lostConnection} onClose={() =>
 			{
 			}}>

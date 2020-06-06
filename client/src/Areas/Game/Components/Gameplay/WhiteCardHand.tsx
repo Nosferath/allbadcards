@@ -10,6 +10,7 @@ import {CardId} from "@Global/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
+import makeStyles from "@material-ui/core/styles/makeStyles";
 
 interface Props
 {
@@ -18,6 +19,13 @@ interface Props
 	targetPicked: number;
 	onPickUpdate: (cards: CardId[]) => void;
 }
+
+const useStyles = makeStyles(theme => ({
+	input: {
+		color: theme.palette.primary.dark,
+		borderColor: theme.palette.primary.dark
+	}
+}));
 
 export const WhiteCardHand: React.FC<Props> = (
 	{
@@ -179,6 +187,7 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 			: "Picked"
 		: "Pick";
 
+	const classes = useStyles();
 
 	return (
 		<WhiteCard
@@ -207,6 +216,10 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 		>
 			{isCustom ? (
 				<TextField
+					inputProps={{
+						className: classes.input
+					}}
+					color={"primary"}
 					placeholder={"Answer here"}
 					fullWidth={true}
 					multiline={true}

@@ -1,23 +1,23 @@
 import React, {useState} from "react";
 import {DialogActions, ListItemAvatar, ListItemSecondaryAction, Typography} from "@material-ui/core";
-import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {GameDataStore} from "@Global/DataStore/GameDataStore";
 import Button from "@material-ui/core/Button";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import DialogContent from "@material-ui/core/DialogContent";
-import {SettingsBlockGame} from "../Settings/SettingsBlockGame";
+import {SettingsBlockGame} from "./Components/Settings/SettingsBlockGame";
 import {GiCardPlay, MdEdit, MdSettings} from "react-icons/all";
-import {SettingsBlockMainPacks} from "../Settings/SettingsBlockMainPacks";
+import {SettingsBlockMainPacks} from "./Components/Settings/SettingsBlockMainPacks";
 import IconButton from "@material-ui/core/IconButton";
-import {SettingsBlockCustomPacks} from "../Settings/SettingsBlockCustomPacks";
+import {SettingsBlockCustomPacks} from "./Components/Settings/SettingsBlockCustomPacks";
 import Avatar from "@material-ui/core/Avatar";
-import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
-import {SettingsBlockGeneral} from "../Settings/SettingsBlockGeneral";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
+import {SettingsBlockGeneral} from "./Components/Settings/SettingsBlockGeneral";
 import {Link} from "react-router-dom";
-import {SiteRoutes} from "../../../../Global/Routes/Routes";
-import {CloseableDialog} from "../../../../UI/CloseableDialog";
+import {SiteRoutes} from "@Global/Routes/Routes";
+import {CloseableDialog} from "@UI/CloseableDialog";
 
 export const GameSettings = () =>
 {

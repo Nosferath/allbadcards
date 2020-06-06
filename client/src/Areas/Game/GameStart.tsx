@@ -4,7 +4,7 @@ import {Platform} from "../../Global/Platform/platform";
 import {UserDataStore} from "../../Global/DataStore/UserDataStore";
 import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import Typography from "@material-ui/core/Typography";
-import {GameSettings} from "./Components/Gameplay/GameSettings";
+import {GameSettings} from "./GameSettings";
 import Divider from "@material-ui/core/Divider";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {MdAdd} from "react-icons/all";

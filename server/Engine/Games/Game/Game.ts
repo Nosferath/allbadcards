@@ -90,11 +90,13 @@ export class Game
 	{
 		const playerGuid = playerToAdd.guid;
 
+		const isPending = !playerToAdd.isRandom && (newGame.started || newGame.settings.requireJoinApproval);
+
 		if (isSpectating)
 		{
 			newGame.spectators[playerGuid] = playerToAdd;
 		}
-		else if (newGame.started || newGame.settings.requireJoinApproval)
+		else if (isPending)
 		{
 			newGame.pendingPlayers[playerGuid] = playerToAdd;
 		}

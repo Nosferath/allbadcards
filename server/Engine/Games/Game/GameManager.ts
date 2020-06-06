@@ -886,6 +886,12 @@ class _GameManager
 
 		targetPlayer.isApproved = isApproved;
 
+		if(!newGame.started && targetGuid in newGame.pendingPlayers)
+		{
+			delete newGame.pendingPlayers[targetGuid];
+			newGame.players[targetGuid] = targetPlayer;
+		}
+
 		if (isApproved)
 		{
 			await this.updateGame(newGame, false, true);
