@@ -112,7 +112,7 @@ export const SponsorList = () =>
 		{
 			url: "http://leisurelandps.com",
 			src: "/sponsors/leisurelandps.png",
-			byline: ""
+			byline: "A Unique Palm Springs Experience"
 		},
 		undefined,
 		undefined,

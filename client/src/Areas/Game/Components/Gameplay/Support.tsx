@@ -2,12 +2,12 @@ import {ButtonGroup, colors, ListItem, ListItemText, Typography, useMediaQuery} 
 import React, {useEffect, useState} from "react";
 import Button from "@material-ui/core/Button";
 import {Twemoji} from "react-emoji-render";
-import {Platform} from "../../../Global/Platform/platform";
+import {Platform} from "../../../../Global/Platform/platform";
 import List from "@material-ui/core/List";
 import {FaDollarSign, FaPaypal, RiExternalLinkLine} from "react-icons/all";
 import {makeStyles} from "@material-ui/styles";
-import {EnvDataStore} from "../../../Global/DataStore/EnvDataStore";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
+import {EnvDataStore} from "../../../../Global/DataStore/EnvDataStore";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
 
 const useStyles = makeStyles({
 	link: {

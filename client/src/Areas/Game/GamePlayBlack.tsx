@@ -5,12 +5,12 @@ import Grid from "@material-ui/core/Grid";
 import {BlackCard} from "../../UI/BlackCard";
 import Divider from "@material-ui/core/Divider";
 import {Typography} from "@material-ui/core";
-import {RevealWhites} from "./Components/RevealWhites";
-import {ShowWinner} from "./Components/ShowWinner";
-import {PickWinner} from "./Components/PickWinner";
+import {RevealWhites} from "./Components/Gameplay/RevealWhites";
+import {ShowWinner} from "./Components/Gameplay/ShowWinner";
+import {PickWinner} from "./Components/Gameplay/PickWinner";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {PlayersRemaining} from "./Components/PlayersRemaining";
-import {CardPlayTimeRemaining} from "./Components/CardPlayTimeRemaining";
+import {PlayersRemaining} from "./Components/Gameplay/PlayersRemaining";
+import {CardPlayTimeRemaining} from "./Components/Gameplay/CardPlayTimeRemaining";
 import {ContainerProgress} from "../../UI/ContainerProgress";
 import {cardDefsLoaded} from "../../Global/Utils/GameUtils";
 

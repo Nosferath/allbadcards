@@ -178,7 +178,8 @@ class _GameManager
 					includedCustomPackIds: myFaves.packs.map(p => p.definition.pack.id),
 					winnerBecomesCzar: false,
 					allowCustoms: false,
-					roundTimeoutSeconds: null
+					roundTimeoutSeconds: null,
+					requireJoinApproval: true
 				}
 			};
 
@@ -217,43 +218,18 @@ class _GameManager
 
 		const newGame = {...existingGame};
 
-		let playerToAdd;
+		const playerToAdd = Game.readdOrCreatePlayer(newGame, playerGuid, nickname, () =>
+		{
+			return PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
+		});
 
-		// If the player was kicked before and is rejoining, add them back
-		const playerWasKicked = !!newGame.kickedPlayers?.[playerGuid];
-		if (playerWasKicked)
+		if (playerToAdd.isApproved === false)
 		{
-			playerToAdd = newGame.kickedPlayers[playerGuid];
-			delete newGame.kickedPlayers[playerGuid];
-		}
-		else
-		{
-			playerToAdd = PlayerManager.createPlayer(authContext, playerGuid, escape(nickname), isSpectating, isRandom);
+			throw new Error("The game owner denied your join request.");
 		}
 
 		Game.setPlayerIdle(newGame, playerGuid, false);
-
-		// Otherwise, make a new player
-		if (isSpectating)
-		{
-			newGame.spectators[playerGuid] = playerToAdd;
-		}
-		else
-		{
-			if (newGame.started)
-			{
-				newGame.pendingPlayers[playerGuid] = playerToAdd;
-			}
-			else
-			{
-				newGame.players[playerGuid] = playerToAdd;
-			}
-		}
-
-		if (playerToAdd.guid === newGame.lastTrueOwnerGuid)
-		{
-			newGame.ownerGuid = playerToAdd.guid;
-		}
+		Game.addPlayerToGame(newGame, playerToAdd, isSpectating);
 
 		// If the game already started, deal in this new person
 		if (newGame.started && !isSpectating && !newGame.started)
@@ -292,9 +268,15 @@ class _GameManager
 		// Only kick people if the game is started
 		if (newGame.kickedPlayers && isKickScenario)
 		{
-			const playerToKick = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid];
+			const playerToKick = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid] ?? newGame.spectators[targetGuid];
 			if (playerToKick)
 			{
+				const approvalState = playerToKick.isApproved !== null
+					? playerToKick.isApproved
+					: kickedForTimeout
+						? null
+						: false;
+
 				playerToKick.kickedForTimeout = kickedForTimeout;
 				newGame.kickedPlayers[targetGuid] = playerToKick;
 				canKickPlayer = true;
@@ -310,6 +292,7 @@ class _GameManager
 			delete newGame.pendingPlayers[targetGuid];
 			delete newGame.players[targetGuid];
 			delete newGame.roundCards[targetGuid];
+			delete newGame.spectators[targetGuid];
 			newGame.playerOrder = ArrayUtils.shuffle(Object.keys(newGame.players));
 
 			const nonRandoms = Object.keys(newGame.players).filter(pg => !newGame.players[pg].isRandom);
@@ -382,7 +365,16 @@ class _GameManager
 		// Iterate the round index
 		newGame.roundIndex = existingGame.roundIndex + 1;
 
-		newGame.players = {...newGame.players, ...newGame.pendingPlayers};
+		const validPendingPlayers = cloneDeep(newGame.pendingPlayers);
+		Object.keys(validPendingPlayers).forEach(pg =>
+		{
+			if (validPendingPlayers[pg].isApproved === false)
+			{
+				delete validPendingPlayers[pg];
+			}
+		});
+
+		newGame.players = {...newGame.players, ...validPendingPlayers};
 		newGame.pendingPlayers = {};
 		const playerGuids = Object.keys(newGame.players);
 		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
@@ -534,7 +526,7 @@ class _GameManager
 		};
 		newGame.lastWinner = undefined;
 
-		await this.updateGame(newGame, false,true);
+		await this.updateGame(newGame, false, true);
 
 		return newGame;
 	}
@@ -569,7 +561,7 @@ class _GameManager
 		}
 
 		const newGame = {...existingGame};
-		if(!overrideValidation)
+		if (!overrideValidation)
 		{
 			Game.setPlayerIdle(newGame, playerGuid, false);
 		}
@@ -743,7 +735,8 @@ class _GameManager
 		const playerMap = newGame.players;
 		const players = Object.values(newGame.players);
 		const playerGuids = Object.keys(playerMap);
-		const playerWinning = players.reduce((p,c) => {
+		const playerWinning = players.reduce((p, c) =>
+		{
 			return p.wins < c.wins
 				? c
 				: p;
@@ -876,6 +869,37 @@ class _GameManager
 		newGame.usedWhiteCards = usedWhiteCards;
 
 		return newGame;
+	}
+
+	public async setPlayerApproval(gameId: string, targetGuid: string, owner: IPlayer, isApproved: boolean)
+	{
+		const existingGame = await this.getGame(gameId);
+
+		UserManager.validateUser(owner);
+
+		if (existingGame.ownerGuid !== owner.guid)
+		{
+			throw new Error("You don't have permission to perform this action!",);
+		}
+
+		const newGame = {...existingGame};
+
+		const targetPlayer = newGame.pendingPlayers[targetGuid] ?? newGame.players[targetGuid] ?? newGame.spectators[targetGuid];
+		if (!targetPlayer)
+		{
+			throw new Error("This player is no longer in this game");
+		}
+
+		targetPlayer.isApproved = isApproved;
+
+		if (isApproved)
+		{
+			await this.updateGame(newGame, false, true);
+		}
+		else
+		{
+			await this.kickPlayer(gameId, targetGuid, owner);
+		}
 	}
 
 	private initializeRedis()

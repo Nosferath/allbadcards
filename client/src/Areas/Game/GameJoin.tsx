@@ -1,14 +1,11 @@
 import React, {useEffect, useState} from "react";
 import {Typography} from "@material-ui/core";
-import Button from "@material-ui/core/Button";
 import {makeStyles} from "@material-ui/core/styles";
 import GamePreview from "./GamePreview";
 import {Platform} from "../../Global/Platform/platform";
 import {UserDataStore} from "../../Global/DataStore/UserDataStore";
 import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import {NicknameDialog} from "../../UI/NicknameDialog";
-import {useHistory} from "react-router";
-import {SiteRoutes} from "../../Global/Routes/Routes";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
 
@@ -28,12 +25,11 @@ const useStyles = makeStyles({
 
 const GameJoin: React.FC<IGameJoinProps> = (props) =>
 {
-	const history = useHistory();
 	const [userData, setUserData] = useState(UserDataStore.state);
 	const [gameData, setGameData] = useState(GameDataStore.state);
 	const [nicknameDialogOpen, setNicknameDialogOpen] = useState(false);
+	const [specMode, setSpecMode] = useState(false);
 	const [joinLoading, setJoinLoading] = useState(false);
-	const [specLoading, setSpecLoading] = useState(false);
 
 	useEffect(() =>
 	{
@@ -44,17 +40,15 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 	const onJoinClick = () =>
 	{
 		setJoinLoading(true);
+		setSpecMode(false);
 		setNicknameDialogOpen(true);
 	};
 
 	const onSpectate = () =>
 	{
-		BrowserUtils.scrollToTop();
-
-		setSpecLoading(true);
-		Platform.joinGame(userData.playerGuid, props.id, "", true)
-			.catch(e => alert(e))
-			.finally(() => setSpecLoading(false));
+		setJoinLoading(true);
+		setSpecMode(true);
+		setNicknameDialogOpen(true);
 	};
 
 	const onNicknameClose = () =>
@@ -67,7 +61,7 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 	{
 		BrowserUtils.scrollToTop();
 
-		Platform.joinGame(userData.playerGuid, props.id, nickname.substr(0, 25), false)
+		Platform.joinGame(userData.playerGuid, props.id, nickname.substr(0, 25), specMode)
 			.catch(e => alert(e))
 			.finally(() => setJoinLoading(false));
 	};
@@ -84,7 +78,7 @@ const GameJoin: React.FC<IGameJoinProps> = (props) =>
 						Join
 					</LoadingButton>
 
-					<LoadingButton loading={specLoading} variant={"contained"} color={"secondary"} onClick={onSpectate} style={{marginLeft: "1rem"}}>
+					<LoadingButton loading={joinLoading} variant={"contained"} color={"secondary"} onClick={onSpectate} style={{marginLeft: "1rem"}}>
 						Spectate
 					</LoadingButton>
 

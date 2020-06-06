@@ -1,20 +1,20 @@
 import * as React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../../../Global/DataStore/UserDataStore";
 import {Typography} from "@material-ui/core";
 import Divider from "@material-ui/core/Divider";
-import {Platform} from "../../../Global/Platform/platform";
-import {WhiteCard} from "../../../UI/WhiteCard";
+import {Platform} from "../../../../Global/Platform/platform";
+import {WhiteCard} from "../../../../UI/WhiteCard";
 import Grid from "@material-ui/core/Grid";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import sanitize from "sanitize-html";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import {LoadingButton} from "../../../UI/LoadingButton";
-import {BlackCard} from "../../../UI/BlackCard";
-import {UserFlair} from "./Users/UserFlair";
-import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
-import {ClientGameItem} from "../../../Global/Platform/Contract";
+import {LoadingButton} from "../../../../UI/LoadingButton";
+import {BlackCard} from "../../../../UI/BlackCard";
+import {UserFlair} from "../Users/UserFlair";
+import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../../Global/Platform/Contract";
 import {GameRoster} from "./GameRoster";
 
 interface IShowWinnerProps

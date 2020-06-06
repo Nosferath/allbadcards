@@ -6,14 +6,15 @@ import Helmet from "react-helmet";
 import {Dialog, DialogContent, Typography} from "@material-ui/core";
 import {ContainerProgress} from "../../UI/ContainerProgress";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {Support} from "./Components/Support";
+import {Support} from "./Components/Gameplay/Support";
 import {GameChatFab} from "./Components/Chat/GameChatFab";
 import {ChatSidebar} from "./Components/Chat/ChatSidebar";
-import {GameInner} from "./Components/GameInner";
+import {GameInner} from "./Components/Gameplay/GameInner";
 import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
 import moment from "moment";
 import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
 import {ClientGameItem} from "../../Global/Platform/Contract";
+import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
 
 interface IGameParams
 {
@@ -157,6 +158,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
+				<PlayerJoinApproval/>
 				<GameInner gameId={id} />
 				{winnerGuid && (
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>

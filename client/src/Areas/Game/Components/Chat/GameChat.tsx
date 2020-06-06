@@ -1,13 +1,13 @@
-import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
-import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {GameDataStore} from "@Global/DataStore/GameDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
 import React, {ChangeEvent, useEffect, useRef, useState} from "react";
 import {Button, CardActions, CardContent, Dialog, DialogActions, DialogContent, TextField, Tooltip, Typography} from "@material-ui/core";
-import {Platform} from "../../../../Global/Platform/platform";
-import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
+import {Platform} from "@Global/Platform/platform";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import classNames from "classnames";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Linkify from "linkifyjs/react";
-import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
+import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
 import {colors} from "../../../../colors";
 import Filter from "bad-words";
 
@@ -101,7 +101,8 @@ export const GameChat = () =>
 		}
 	};
 
-	const getNickname = (playerGuid: string) => gameData.game?.players?.[playerGuid]?.nickname ?? "Spectator";
+	const getPlayer = (playerGuid: string) => gameData.game?.players?.[playerGuid] ?? gameData.game?.pendingPlayers?.[playerGuid] ?? gameData.game?.spectators?.[playerGuid];
+	const getNickname = (playerGuid: string) => getPlayer(playerGuid)?.nickname ?? "Spectator";
 	const me = userData.playerGuid;
 	const classes = useStyles();
 	const thisGameChat = chatData.chat[gameData.game?.id ?? ""] ?? [];

@@ -1,22 +1,22 @@
 import {Alert} from "@material-ui/lab";
 import {Typography, useMediaQuery} from "@material-ui/core";
 import {ShowWinner} from "./ShowWinner";
-import {ErrorBoundary} from "../../../App/ErrorBoundary";
-import {GamePlayWhite} from "../GamePlayWhite";
-import {GamePlayBlack} from "../GamePlayBlack";
-import {GamePlaySpectate} from "../GamePlaySpectate";
+import {ErrorBoundary} from "../../../../App/ErrorBoundary";
+import {GamePlayWhite} from "../../GamePlayWhite";
+import {GamePlayBlack} from "../../GamePlayBlack";
+import {GamePlaySpectate} from "../../GamePlaySpectate";
 import React, {useEffect} from "react";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
-import GameStart from "../GameStart";
-import GameJoin from "../GameJoin";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
+import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
+import GameStart from "../../GameStart";
+import GameJoin from "../../GameJoin";
 import moment from "moment";
-import {ChatDataStore} from "../../../Global/DataStore/ChatDataStore";
+import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 import {useHistory, useParams} from "react-router";
-import {SiteRoutes} from "../../../Global/Routes/Routes";
-import {getTrueRoundsToWin} from "../../../Global/Utils/GameUtils";
-import {ClientGameItem} from "../../../Global/Platform/Contract";
+import {SiteRoutes} from "../../../../Global/Routes/Routes";
+import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../../Global/Platform/Contract";
 
 interface Props
 {

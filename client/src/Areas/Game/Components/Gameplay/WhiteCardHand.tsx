@@ -1,12 +1,12 @@
 import Grid from "@material-ui/core/Grid";
-import {WhiteCard} from "../../../UI/WhiteCard";
+import {WhiteCard} from "@UI/WhiteCard";
 import Button from "@material-ui/core/Button";
 import * as React from "react";
 import {useState} from "react";
-import {GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {UserData} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStorePayload} from "@Global/DataStore/GameDataStore";
+import {UserData} from "@Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
-import {CardId} from "../../../Global/Platform/Contract";
+import {CardId} from "@Global/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";

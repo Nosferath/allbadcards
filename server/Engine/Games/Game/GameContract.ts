@@ -22,6 +22,7 @@ export interface GamePlayer
 	levels?: string[];
 	kickedForTimeout?: boolean;
 	isIdle?: boolean;
+	isApproved: boolean | null;
 }
 
 export interface CardId
@@ -45,6 +46,7 @@ export interface IGameSettings
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
+	requireJoinApproval?: boolean;
 }
 
 export interface GameItem extends ClientGameItem

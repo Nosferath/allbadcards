@@ -3,10 +3,10 @@ import {AiFillCrown} from "react-icons/all";
 import {ClockLoader} from "react-spinners";
 import {Typography} from "@material-ui/core";
 import * as React from "react";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
-import {UserFlair} from "./Users/UserFlair";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
+import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
+import {UserFlair} from "../Users/UserFlair";
 
 export const PlayersRemaining = () =>
 {

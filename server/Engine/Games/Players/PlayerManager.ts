@@ -17,7 +17,8 @@ class _PlayerManager
 			isSpectating,
 			isRandom,
 			isIdle: false,
-			kickedForTimeout: false
+			kickedForTimeout: false,
+			isApproved: null
 		};
 	}
 }

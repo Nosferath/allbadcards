@@ -172,7 +172,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/create", async (req, res) =>
 	{
-		safeAuthedEndpoint(req, res, async (authContext) =>
+		await safeAuthedEndpoint(req, res, async (authContext) =>
 		{
 			const player = playerFromReq(req);
 			const game = await GameManager.createGame(req, authContext, player, req.body.nickname);
@@ -184,7 +184,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 
 	app.post("/api/game/join", async (req, res) =>
 	{
-		safeAuthedEndpoint(req, res, async (authContext) =>
+		await safeAuthedEndpoint(req, res, async (authContext) =>
 		{
 			const player = playerFromReq(req);
 			await GameManager.joinGame(
@@ -206,6 +206,22 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		{
 			const player = playerFromReq(req);
 			await GameManager.kickPlayer(req.body.gameId, req.body.targetGuid, player);
+
+			sendWithBuildVersion({success: true}, res);
+		}
+		catch (error)
+		{
+			onExpressError(res, error, req.url, req.query, req.body);
+		}
+	});
+
+	app.post("/api/game/player-approval", async (req, res) =>
+	{
+		logRequest(req);
+		try
+		{
+			const player = playerFromReq(req);
+			await GameManager.setPlayerApproval(req.body.gameId, req.body.targetGuid, player, req.body.approved);
 
 			sendWithBuildVersion({success: true}, res);
 		}

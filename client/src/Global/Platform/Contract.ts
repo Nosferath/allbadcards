@@ -19,6 +19,7 @@ export interface GamePlayer
 	isSubscriber?: boolean;
 	kickedForTimeout?: boolean;
 	isIdle?: boolean;
+	isApproved?: boolean | null;
 }
 
 export interface CardId
@@ -46,6 +47,7 @@ export interface IGameClientSettings
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
+	requireJoinApproval?: boolean;
 }
 
 export interface GamesList extends WithBuildVersion

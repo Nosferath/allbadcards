@@ -60,7 +60,8 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			public: false,
 			winnerBecomesCzar: false,
 			roundTimeoutSeconds: null,
-			allowCustoms: false
+			allowCustoms: false,
+			requireJoinApproval: true
 		},
 	};
 
@@ -459,6 +460,13 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 	{
 		this.setSetting({
 			public: isPublic
+		});
+	}
+
+	public setRequireJoinApproval(requireJoinApproval: boolean)
+	{
+		this.setSetting({
+			requireJoinApproval
 		});
 	}
 

@@ -328,6 +328,15 @@ class _Platform
 			packId
 		});
 	}
+
+	public setPlayerApproval(gameId: string, targetGuid: string, approved: boolean)
+	{
+		return Fetcher.doPost("/api/game/player-approval", {
+			gameId,
+			targetGuid,
+			approved
+		});
+	}
 }
 
 export const Platform = _Platform.Instance;
