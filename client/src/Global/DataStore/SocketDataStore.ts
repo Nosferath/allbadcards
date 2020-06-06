@@ -100,16 +100,17 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 			if (Visibility.hidden() && connectionOpen)
 			{
 				clearTimeout(this.disconnectTimerId);
-				this.disconnectTimerId = window.setTimeout(() => {
+				this.disconnectTimerId = window.setTimeout(() =>
+				{
 					connectionOpen = false;
 					manualClose = true;
 					this.ws?.close();
 				}, 60000);
 			}
-			else if(!Visibility.hidden())
+			else if (!Visibility.hidden())
 			{
 				clearTimeout(this.disconnectTimerId);
-				if(!connectionOpen)
+				if (!connectionOpen)
 				{
 					this.initialize();
 				}
@@ -136,9 +137,12 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 
 	private retry(count = 0)
 	{
-		this.update({
-			hasConnection: false
-		});
+		if (count > 2)
+		{
+			this.update({
+				hasConnection: false
+			});
+		}
 
 		console.log("Lost server connection. Retrying...", count);
 

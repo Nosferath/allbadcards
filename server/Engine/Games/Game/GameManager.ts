@@ -271,12 +271,6 @@ class _GameManager
 			const playerToKick = newGame.players[targetGuid] ?? newGame.pendingPlayers[targetGuid] ?? newGame.spectators[targetGuid];
 			if (playerToKick)
 			{
-				const approvalState = playerToKick.isApproved !== null
-					? playerToKick.isApproved
-					: kickedForTimeout
-						? null
-						: false;
-
 				playerToKick.kickedForTimeout = kickedForTimeout;
 				newGame.kickedPlayers[targetGuid] = playerToKick;
 				canKickPlayer = true;
