@@ -820,7 +820,16 @@ class _GameManager
 		// If we run out of white cards, reset them
 		if (availableCardRemainingCount < requiredCards)
 		{
-			usedWhiteCards = {};
+			usedWhiteCards = playerKeys.reduce((acc, pg) =>
+			{
+				const player = newGame.players[pg];
+				player.whiteCards.forEach(wc => {
+					acc[wc.packId] = acc[wc.packId] ?? {};
+					acc[wc.packId][wc.cardIndex] = wc;
+				});
+
+				return acc;
+			}, {} as CardPackMap);
 		}
 
 		if (allWhiteCards < requiredCards)

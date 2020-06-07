@@ -47,6 +47,7 @@ const useStyles = makeStyles(theme => ({
 		backgroundColor: theme.palette.secondary.main,
 		color: theme.palette.secondary.contrastText,
 		padding: "0.5rem",
+		wordBreak: "break-word"
 	},
 	theirs: {
 		backgroundColor: colors.light.dark,
