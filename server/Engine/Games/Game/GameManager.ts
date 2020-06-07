@@ -407,11 +407,11 @@ class _GameManager
 		// Reset the played cards for the round
 		newGame.roundCards = {};
 
-		// Deal a new hand
-		newGame = await this.dealWhiteCards(newGame);
-
 		// Grab the new black card
 		newGame = await this.gameDealNewBlackCard(newGame);
+
+		// Deal a new hand
+		newGame = await this.dealWhiteCards(newGame);
 
 		const updatedPlayerCount = Object.keys(existingGame.players).length !== Object.keys(newGame.players).length;
 
