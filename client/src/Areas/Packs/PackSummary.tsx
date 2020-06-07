@@ -1,13 +1,13 @@
-import {ICustomCardPack} from "../../Global/Platform/Contract";
+import {ICustomCardPack} from "@Global/Platform/Contract";
 import React, {useEffect, useState} from "react";
 import {Button, Card, CardActions, CardContent, CardHeader, CardMedia, Chip} from "@material-ui/core";
 import {Link} from "react-router-dom";
-import {SiteRoutes} from "../../Global/Routes/Routes";
+import {SiteRoutes} from "@Global/Routes/Routes";
 import {FaArrowRight, MdEdit, MdFavorite, MdFavoriteBorder} from "react-icons/all";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import classNames from "classnames";
-import {Platform} from "../../Global/Platform/platform";
-import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
+import {Platform} from "@Global/Platform/platform";
+import {ErrorDataStore} from "@Global/DataStore/ErrorDataStore";
 import {colors} from "../../colors";
 import shuffle from "shuffle-array";
 import {CopyToClipboard} from "react-copy-to-clipboard";

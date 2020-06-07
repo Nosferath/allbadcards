@@ -10,7 +10,7 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
 
 ### Requirements
 
-- NodeJS (this project is created using Node 12.18.0)
+- NodeJS (this project is created using Node 12.16.1)
 - Redis 
 - MongoDB
 - Yarn (this project uses Yarn Classic, not Yarn 2)
