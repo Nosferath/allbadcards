@@ -1,7 +1,7 @@
 import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
-import {ICardPackDefinition, ICustomCardPack, PackCategories} from "../Platform/Contract";
+import {ICustomCardPack, PackCategories} from "../Platform/Contract";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 
 export interface PackCreatorDataStorePayload
@@ -69,22 +69,20 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 			.catch(ErrorDataStore.add);
 	}
 
-	public hydrateFromData(pack: Partial<ICardPackDefinition>, replace = true)
+	public hydrateFromData(pack: PackCreatorDataStorePayload, replace = true)
 	{
-		const blackCards = pack.black?.map(bc => bc.content) ?? [];
-
 		const allBlack = replace
-			? blackCards
-			: [...this.state.blackCards, ...blackCards];
+			? pack.blackCards ?? []
+			: [...this.state.blackCards, ...pack.blackCards];
 
 		const allWhite = replace
-			? pack.white ?? []
-			: [...this.state.whiteCards, ...(pack.white ?? [])];
+			? pack.whiteCards ?? []
+			: [...this.state.whiteCards, ...(pack.whiteCards ?? [])];
 
 		this.update({
 			blackCards: allBlack,
 			whiteCards: allWhite,
-			packName: pack?.pack?.name ?? ""
+			packName: pack?.packName ?? ""
 		})
 	}
 
@@ -202,7 +200,8 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 			return "You can only select 3 categories";
 		}
 
-		const blackCardErrorIndices = this.state.blackCards.filter(value => {
+		const blackCardErrorIndices = this.state.blackCards.filter(value =>
+		{
 			const underscores = value.match(/_/g) ?? [];
 			return underscores.length > 3;
 		}).map((card, i) => i);

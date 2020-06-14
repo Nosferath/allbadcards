@@ -87,14 +87,15 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 6/14</strong>
+								<li>Moved not.allbad.cards to notallbad.cards</li>
+								<li>Updated color scheme</li>
+								<li>Added option to export card packs to JSON</li>
+								<br/>
 								<strong>Updates - 6/7</strong>
 								<li>Removed some cards that were problematic. #BlackLivesMatter.</li>
 								<li>Added option to approve players joining games.</li>
 								<li>Added option to leave/rejoin if spectating</li>
-								<br/>
-								<strong>Updates - 5/29</strong>
-								<li>Added automatic "rounds to win" behavior that scales based on the number of players playing (overrideable)</li>
-								<li>Bug fixes and performance improvements</li>
 								<br/>
 							</Typography>
 						</Grid>

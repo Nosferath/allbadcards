@@ -3,9 +3,16 @@ import {Container, Dialog, DialogContent, Grid, List, ListItem, ListItemText, Te
 import Button from "@material-ui/core/Button";
 import {Platform} from "../../Global/Platform/platform";
 import {ICardPackDefinition} from "../../Global/Platform/Contract";
+import {PackCreatorDataStorePayload} from "@Global/DataStore/PackCreatorDataStore";
 
-const exportToJson = (objectData: any) =>
+const exportToJson = (pack: ICardPackDefinition | null) =>
 {
+	const objectData: Partial<PackCreatorDataStorePayload> = {
+		packName: pack?.pack?.name,
+		whiteCards: pack?.white,
+		blackCards: pack?.black?.map(b => b.content ?? "")
+	};
+
 	let filename = "export.json";
 	let contentType = "application/json;charset=utf-8;";
 	if (window.navigator && window.navigator.msSaveOrOpenBlob)

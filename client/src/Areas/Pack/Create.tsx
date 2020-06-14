@@ -18,6 +18,7 @@ import {EditableWhite} from "./Create/EditableWhite";
 import {EditableBlack} from "./Create/EditableBlack";
 import {CloseableDialog} from "@UI/CloseableDialog";
 import Helmet from "react-helmet";
+import {JsonExport} from "@Areas/Pack/Create/JsonExport";
 
 const useStyles = makeStyles(theme => ({
 	divider: {
@@ -241,7 +242,8 @@ const Create = () =>
 			</Grid>
 
 			{canEdit && (
-				<Grid item xs={12} md={3} style={{display: "flex", alignItems: "flex-end", justifyContent: mobile ? "flex-start" : "flex-end"}}>
+				<Grid item xs={12} md={3} style={{display: "flex", alignItems: "center", justifyContent: mobile ? "flex-start" : "flex-end"}}>
+					<JsonExport/>
 					<JsonUpload/>
 				</Grid>
 			)}
