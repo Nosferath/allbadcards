@@ -32,9 +32,9 @@ class _Auth
 		this.secret = keys.patreon.secret;
 	}
 
-	private static getRedirectUri(subdomain: string)
+	private static getRedirectUri(domain: string)
 	{
-		return `${Config.getHostWithSubdomain(subdomain)}/auth/redirect`;
+		return `${Config.getHost(domain)}/auth/redirect`;
 	}
 
 	public initialize()
@@ -59,8 +59,8 @@ class _Auth
 
 	public async storeUserToken(req: Request, res: Response)
 	{
-		const subdomain = req.subdomains[0] ?? "";
-		const redirectUri = _Auth.getRedirectUri(subdomain);
+		const domain = req.get("host");
+		const redirectUri = _Auth.getRedirectUri(domain);
 		const tokenRefresher = this.client.code.getToken(req.originalUrl, {redirectUri});
 
 		const token = await tokenRefresher;
@@ -75,7 +75,7 @@ class _Auth
 			accessTokenExpiry: tokenExpiry,
 			userId,
 			levels: []
-		}, res);
+		}, req, res);
 
 		// Refresh the current users access token.
 		const result = await this.updateDatabaseUser(userId, {
@@ -167,7 +167,7 @@ class _Auth
 							authStatus.levels.push("Owner");
 						}
 
-						await this.updateUserData(res, newUserData, newRefreshedToken);
+						await this.updateUserData(req, res, newUserData, newRefreshedToken);
 					}
 					catch (e)
 					{
@@ -187,14 +187,14 @@ class _Auth
 		return authStatus;
 	}
 
-	private async updateUserData(res: Response, newUserData: IAuthContext, newRefreshedToken: TokenWithExpires)
+	private async updateUserData(req: Request, res: Response, newUserData: IAuthContext, newRefreshedToken: TokenWithExpires)
 	{
 		if (!newUserData.userId)
 		{
 			throw new Error("Cannot update user data without a user ID");
 		}
 
-		AuthCookie.set(newUserData, res);
+		AuthCookie.set(newUserData, req, res);
 
 		// Refresh the current users access token.
 		await this.updateDatabaseUser(newUserData.userId, {

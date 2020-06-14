@@ -68,7 +68,7 @@ const App: React.FC = () =>
 	}, []);
 
 	const appBarClasses = classNames(classes.appBar, {});
-	const isFamilyMode = location.hostname.startsWith("not.");
+	const isFamilyMode = location.hostname.startsWith("not");
 
 	const titleDefault = isFamilyMode
 		? "(Not) All Bad Cards | Play the Family Edition of All Bad Cards online!"

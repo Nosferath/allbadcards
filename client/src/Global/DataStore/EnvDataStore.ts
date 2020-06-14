@@ -25,7 +25,7 @@ class _EnvDataStore extends DataStore<EnvDataStorePayload>
 	private static getSite(): EnvSite
 	{
 		const url = location.hostname;
-		const isFamily = url.startsWith("not.");
+		const isFamily = url.startsWith("not");
 
 		return {
 			base: !isFamily,

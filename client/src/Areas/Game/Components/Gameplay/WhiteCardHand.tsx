@@ -126,7 +126,9 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	return <>
 		{!(me.guid in (gameData.game?.roundCards ?? {})) && (
-			<CardPlayTimeRemaining gameData={gameData}/>
+			<>
+				<CardPlayTimeRemaining gameData={gameData}/>
+			</>
 		)}
 		<Grid container style={{justifyContent: "center", marginTop: "1rem"}} spacing={3}>
 			{!hasPlayed && settings.allowCustoms && (

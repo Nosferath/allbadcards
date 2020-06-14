@@ -1,7 +1,6 @@
 import {IAuthContext} from "./UserContract";
 import {Request, Response} from "express";
 import {AuthEncryption} from "./AuthEncryption";
-import {Config} from "../../../config/config";
 
 export class AuthCookie
 {
@@ -14,14 +13,16 @@ export class AuthCookie
 		accessTokenExpiry: null
 	};
 
-	public static set(userData: IAuthContext, res: Response)
+	public static set(userData: IAuthContext, req: Request, res: Response)
 	{
 		const encrypted = AuthCookie.encodeUserInfo(userData);
+
+		const domain = req.get("host");
 
 		res.cookie(AuthCookie.AuthCookieName, encrypted, {
 			expires: new Date(Date.now() + (1000 * 60 * 60 * 24 * 30)),
 			httpOnly: false,
-			domain: Config.domain.split(":")[0]
+			domain: domain.split(":")[0]
 		});
 	}
 
@@ -36,10 +37,12 @@ export class AuthCookie
 		return AuthCookie.DefaultAuthContext;
 	}
 
-	public static clear(res: Response)
+	public static clear(req: Request, res: Response)
 	{
+		const domain = req.get("host");
+
 		res.clearCookie(AuthCookie.AuthCookieName, {
-			domain: Config.domain.split(":")[0]
+			domain: domain.split(":")[0]
 		});
 	}
 

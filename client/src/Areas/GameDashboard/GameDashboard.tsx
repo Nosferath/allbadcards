@@ -74,7 +74,7 @@ class GameDashboard extends React.Component<Props, State>
 				</ButtonGroup>
 				{!familyMode && (
 					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
-						<Button href={"https://not.allbad.cards"}>
+						<Button href={"https://notallbad.cards"}>
 							Family-Friendly Version &nbsp; <MdArrowForward/>
 						</Button>
 					</ButtonGroup>
@@ -87,7 +87,7 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
-								<strong>Updates - 5/27</strong>
+								<strong>Updates - 6/7</strong>
 								<li>Removed some cards that were problematic. #BlackLivesMatter.</li>
 								<li>Added option to approve players joining games.</li>
 								<li>Added option to leave/rejoin if spectating</li>

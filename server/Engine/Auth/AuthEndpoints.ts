@@ -24,7 +24,7 @@ export const RegisterAuthEndpoints = (app: Express, clientFolder: string) =>
 		logRequest(req);
 		try
 		{
-			AuthCookie.clear(res);
+			AuthCookie.clear(req, res);
 
 			res.send({success: true});
 		}
@@ -41,7 +41,8 @@ export const RegisterAuthEndpoints = (app: Express, clientFolder: string) =>
 		{
 			await Auth.storeUserToken(req, res);
 
-			const host = Config.getHostWithSubdomain(req.subdomains[0] ?? "").replace("local:5000", "local:3000");
+			const domain = req.get("host");
+			const host = Config.getHost(domain).replace("local:5000", "local:3000");
 
 			const state = decodeURIComponent(req.query.state) || "/";
 
@@ -60,7 +61,7 @@ export const RegisterAuthEndpoints = (app: Express, clientFolder: string) =>
 		{
 			const result = await Auth.getRefreshAuthStatus(req, res);
 
-			AuthCookie.set(result, res);
+			AuthCookie.set(result, req, res);
 
 			sendWithBuildVersion({
 				status: result
