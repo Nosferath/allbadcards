@@ -320,7 +320,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 							this.update({
 								loadedPacks: data
 							});
-
 						});
 				}
 			})

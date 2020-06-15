@@ -132,10 +132,13 @@ class _GameManager
 
 		const gameId = hri.random();
 
-		const isFamilyMode = req.subdomains?.[0] === "not";
+		const isFamilyMode = req.body.isFamily;
 		const packNames = PackManager.getPackNames(isFamilyMode ? "family" : "thirdParty");
 		const defaultPacks = PackManager.getDefaultPacks(packNames);
 		const myFaves = await PackManager.getMyFavoritePacks(req);
+		const includedCustomPackIds = myFaves.packs
+			.filter(p => !isFamilyMode || !p.isNsfw)
+			.map(p => p.definition.pack.id);
 
 		try
 		{
@@ -175,7 +178,7 @@ class _GameManager
 					playerLimit: 50,
 					inviteLink: null,
 					includedPacks: defaultPacks,
-					includedCustomPackIds: myFaves.packs.map(p => p.definition.pack.id),
+					includedCustomPackIds,
 					winnerBecomesCzar: false,
 					allowCustoms: false,
 					roundTimeoutSeconds: null,

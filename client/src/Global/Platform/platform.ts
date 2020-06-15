@@ -1,6 +1,7 @@
 import ReactGA from "react-ga";
 import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameClientSettings, IGameSettings, PackSearch} from "./Contract";
 import {Fetcher} from "./Fetcher";
+import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -40,7 +41,8 @@ class _Platform
 
 		return Fetcher.doPost<ClientGameItem>("/api/game/create", {
 			guid,
-			nickname
+			nickname,
+			isFamily: EnvDataStore.state.site.family
 		});
 	}
 
