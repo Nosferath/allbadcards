@@ -33,6 +33,9 @@ const useStyles = makeStyles(theme => ({
 	section: {
 		marginTop: "2rem"
 	},
+	filterSection: {
+		margin: "2rem 0 -1rem"
+	},
 	blackCardTextField: {
 		'& .MuiOutlinedInput-root': {
 			'& fieldset': {
@@ -85,6 +88,13 @@ const Create = () =>
 	const [blackPage, setBlackPage] = useState(1);
 	const [showMassBlackEdit, setShowMassBlackEdit] = useState(false);
 	const [showMassWhiteEdit, setShowMassWhiteEdit] = useState(false);
+	const [filter, realSetFilter] = useState("");
+
+	const setFilter = (value: string) => {
+		realSetFilter(value);
+		setWhitePage(1);
+		setBlackPage(1);
+	};
 
 	const mobile = useMediaQuery('(max-width:768px)');
 
@@ -125,9 +135,11 @@ const Create = () =>
 			});
 	};
 
+	const filteredWhiteCards = packCreatorData.whiteCards.filter(c => c.match(filter));
+	const filteredBlackCards = packCreatorData.blackCards.filter(c => c.match(filter));
 
-	const whiteCardPage = getRenderedCards(packCreatorData.whiteCards, whitePage);
-	const blackCardPage = getRenderedCards(packCreatorData.blackCards, blackPage);
+	const whiteCardPage = getRenderedCards(filteredWhiteCards, whitePage);
+	const blackCardPage = getRenderedCards(filteredBlackCards, blackPage);
 
 	const addBlackCard = () =>
 	{
@@ -247,6 +259,14 @@ const Create = () =>
 					<JsonUpload/>
 				</Grid>
 			)}
+			<Grid item xs={12} className={classes.filterSection}>
+				<Divider style={{marginBottom: "1rem"}}/>
+				<TextField
+					placeholder={"Filter Cards"}
+					variant={"outlined"}
+					onChange={e => setFilter(e.target.value)}
+				/>
+			</Grid>
 			<Grid item xs={12} md={12} lg={6} className={classes.section}>
 				<Typography variant={"h5"}>Prompts ({packCreatorData.blackCards?.length ?? 0})</Typography>
 				<Divider className={classes.divider}/>
@@ -261,7 +281,7 @@ const Create = () =>
 							value={value}
 							index={index + ((blackPage - 1) * perPage)}
 							canEdit={canEdit}
-							focus={index === blackCardPage.cards.length - 1}
+							focus={filter === "" && index === blackCardPage.cards.length - 1}
 							onEdit={PackCreatorDataStore.editBlackCard}
 							onRemove={PackCreatorDataStore.removeBlackCard}
 						/>
@@ -303,7 +323,7 @@ const Create = () =>
 							value={value}
 							index={index + ((whitePage - 1) * perPage)}
 							canEdit={canEdit}
-							focus={index === whiteCardPage.cards.length - 1}
+							focus={filter === "" && index === whiteCardPage.cards.length - 1}
 							onEdit={PackCreatorDataStore.editWhiteCard}
 							onRemove={PackCreatorDataStore.removeWhiteCard}
 						/>
