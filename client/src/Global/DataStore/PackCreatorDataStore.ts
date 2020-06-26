@@ -236,13 +236,16 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 	{
 		return new Promise((resolve, reject) =>
 		{
+			const whiteCards = Array.from(new Set(this.state.whiteCards));
+			const blackCards = Array.from(new Set(this.state.blackCards));
+
 			Platform.savePack({
 				isPublic: this.state.isPublic,
 				isNsfw: this.state.isNsfw,
 				id: this.state.packId,
 				packName: this.state.packName,
-				blackCards: this.state.blackCards,
-				whiteCards: this.state.whiteCards,
+				blackCards,
+				whiteCards,
 				categories: this.state.categories
 			}).then(data =>
 			{
@@ -250,6 +253,8 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 				this.update({
 					isEdited: false
 				});
+
+				this.hydrate(this.state.packId!);
 			})
 				.catch(e =>
 				{

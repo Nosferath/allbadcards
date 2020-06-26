@@ -3,13 +3,14 @@ import classNames from "classnames";
 import {createStyles, Divider, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Grid from "@material-ui/core/Grid";
-import {Platform} from "../../Global/Platform/platform";
+import {Platform} from "@Global/Platform/platform";
 import Tooltip from "@material-ui/core/Tooltip";
 import Card from "@material-ui/core/Card";
 import CardMedia from "@material-ui/core/CardMedia";
 import CardContent from "@material-ui/core/CardContent";
-import {useDataStore} from "../../Global/Utils/HookUtils";
-import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
+import {ArrayUtils} from "@Global/Utils/ArrayUtils";
 
 const useStyles = makeStyles(theme => createStyles({
 	callout: {
@@ -85,11 +86,6 @@ export const SponsorList = () =>
 			url: "https://flycarepod.link/games",
 		},
 		{
-			src: "/sponsors/songsaga.png",
-			url: "https://song-saga.com",
-			byline: "The music and story game that rocks 🤘",
-		},
-		{
 			byline: "🚀 Reboot during quarantine",
 			url: "https://www.reboot-drink.com/",
 			src: "/sponsors/reboot.jpg"
@@ -105,18 +101,23 @@ export const SponsorList = () =>
 			byline: "Damn Dirty Drive-In Podcast",
 		},
 		{
-			url: "https://justlikejane.com?source=abc",
-			src: "/sponsors/justlikejane.jpg",
-			byline: "🧼 wash out your mouth!",
-		},
-		{
 			url: "http://leisurelandps.com",
 			src: "/sponsors/leisurelandps.png",
 			byline: "A Unique Palm Springs Experience"
 		},
+		{
+			url: "https://justlikejane.com?source=abc",
+			src: "/sponsors/justlikejane.jpg",
+			byline: "🧼 wash out your mouth!",
+		},
+		undefined,
 		undefined,
 		undefined,
 	];
+
+	const shuffledSponsors = ArrayUtils.shuffle(sponsors).sort((a,b) => {
+		return (!!a ? 1 : 0) - (!!b ? 1 : 0);
+	});
 
 	return (
 		<>
@@ -133,11 +134,11 @@ export const SponsorList = () =>
 						<img src={"/become_a_patron_button.png"}/>
 					</a>
 				</div>
-			</div>
+			</div>`
 			<Grid className={classes.sponsors}>
 				<DiamondSponsor/>
 
-				{sponsors.map((s, i) =>
+				{shuffledSponsors.map((s, i) =>
 					<Sponsor key={i} sponsor={s}/>
 				)}
 
@@ -181,9 +182,9 @@ export const DiamondSponsor = () =>
 				<Divider style={{marginBottom: "1rem"}}/>
 				<Typography variant={"h5"}>This Month's Diamond Sponsor</Typography>
 				<Sponsor sponsor={{
-					byline: "",
-					url: "https://linktr.ee/revivalrecs?source=abc",
-					src: "/sponsors/revival.png",
+					src: "/sponsors/cardsblanks.png",
+					url: "https://amazon.com/dp/B0888VMQK5",
+					byline: ""
 				}} isDiamondSponsor={true}/>
 				<Divider/>
 			</Grid>
