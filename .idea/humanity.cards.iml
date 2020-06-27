@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/builds" />
+      <excludeFolder url="file://$MODULE_DIR$/cardcast-packs" />
       <excludeFolder url="file://$MODULE_DIR$/client/build" />
     </content>
     <orderEntry type="inheritedJdk" />
