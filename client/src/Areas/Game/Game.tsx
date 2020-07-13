@@ -6,12 +6,15 @@ import Helmet from "react-helmet";
 import {Dialog, DialogContent, Typography} from "@material-ui/core";
 import {ContainerProgress} from "../../UI/ContainerProgress";
 import {LoadingButton} from "../../UI/LoadingButton";
-import {Support} from "./Components/Support";
+import {Support} from "./Components/Gameplay/Support";
 import {GameChatFab} from "./Components/Chat/GameChatFab";
 import {ChatSidebar} from "./Components/Chat/ChatSidebar";
-import {GameInner} from "./Components/GameInner";
+import {GameInner} from "./Components/Gameplay/GameInner";
 import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
 import moment from "moment";
+import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../Global/Platform/Contract";
+import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
 
 interface IGameParams
 {
@@ -73,7 +76,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		} = state.gameData.game ?? {};
 
 		const playerGuids = Object.keys(players ?? {});
-		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(state.gameData.game as ClientGameItem);
+		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		return winnerGuid;
 	}
 
@@ -145,7 +149,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const title = `${unescape(owner?.nickname ?? "")}'s game`;
 
 		const playerGuids = Object.keys(players ?? {});
-		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(this.state.gameData.game as ClientGameItem);
+		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 
 		return (
@@ -153,11 +158,12 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
+				<PlayerJoinApproval/>
 				<GameInner gameId={id} />
 				{winnerGuid && (
 					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
 						<DialogContent style={{padding: "2rem"}}>
-							<Typography variant={"h4"} style={{textAlign: "center"}}>
+							<Typography variant={"h6"} style={{textAlign: "center"}}>
 								Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
 							</Typography>
 

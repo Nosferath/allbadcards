@@ -2,7 +2,7 @@ import {DataStore} from "./DataStore";
 import {GamePayload, IWhiteCard, Platform} from "../Platform/platform";
 import {UserDataStore} from "./UserDataStore";
 import deepEqual from "deep-equal";
-import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameSettings, PackTypes} from "../Platform/Contract";
+import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameClientSettings, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
@@ -11,7 +11,6 @@ import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
-import {AuthDataStore} from "./AuthDataStore";
 import {ArrayUtils} from "../Utils/ArrayUtils";
 
 export type WhiteCardMap = {
@@ -25,7 +24,7 @@ export interface GameDataStorePayload
 	/**
 	 * This is used just to SET settings. Reading settings should be done using the `game` property
 	 */
-	ownerSettings: IGameSettings,
+	ownerSettings: IGameClientSettings,
 	loaded: boolean;
 	game: GamePayload | null;
 	loadedPacks: ICardPackSummary[];
@@ -59,10 +58,10 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			inviteLink: null,
 			playerLimit: 50,
 			public: false,
-			roundsToWin: 7,
 			winnerBecomesCzar: false,
 			roundTimeoutSeconds: null,
-			allowCustoms: false
+			allowCustoms: false,
+			requireJoinApproval: true
 		},
 	};
 
@@ -83,10 +82,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			{
 				if (!this.state.game?.id || data.gamePayload?.id === this.state.game?.id)
 				{
-					if (data.gamePayload && !data.gamePayload?.roundCardsCustom)
-					{
-						data.gamePayload.roundCardsCustom = {};
-					}
 					this.update({
 						game: data.gamePayload
 					});
@@ -319,38 +314,13 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 						packs = "family";
 					}
 
-					const gameDateCreated = moment(this.state.game?.dateCreated ?? Date.now());
-					const tenSecondsLater = gameDateCreated.add(10, "seconds");
-					const isInitialLoad = moment().isBefore(tenSecondsLater);
-
 					Platform.getPacks(packs)
 						.then(data =>
 						{
-							let ownerSettings = {...this.state.ownerSettings};
-							// If this is a game that was just created, set the default packs
-							if (this.state.game?.playerOrder.length === 0 && !this.state.game?.started && isInitialLoad)
-							{
-								const defaultPacks = this.getDefaultPacks(data);
-								ownerSettings.includedPacks = defaultPacks;
-							}
-
 							this.update({
-								loadedPacks: data,
-								ownerSettings
+								loadedPacks: data
 							});
-
 						});
-
-					if(isInitialLoad && AuthDataStore.state.authorized)
-					{
-						Platform.getMyFavoritePacks()
-							.then(data =>
-							{
-								const favoritePackIds = data.result.packs.map(p => p.definition.pack.id);
-								this.setIncludeCustomPacks(favoritePackIds);
-							})
-							.catch(ErrorDataStore.add);
-					}
 				}
 			})
 			.catch(e =>
@@ -374,21 +344,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		}
 
 		return Platform.playCards(this.state.game.id, userGuid, cardIds)
-			.catch(e => console.error(e));
-	}
-
-	public playCustomCards(cards: string[] | undefined, userGuid: string)
-	{
-		BrowserUtils.scrollToTop();
-
-		console.log("[GameDataStore] Played white cards...", cards, userGuid);
-
-		if (!this.state.game || !cards)
-		{
-			throw new Error("Invalid card or game!");
-		}
-
-		return Platform.playCardsCustom(this.state.game.id, userGuid, cards)
 			.catch(e => console.error(e));
 	}
 
@@ -465,7 +420,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		});
 	}
 
-	public setRequiredRounds(rounds: number)
+	public setRequiredRounds(rounds: number | undefined)
 	{
 		this.setSetting({
 			roundsToWin: rounds
@@ -504,6 +459,13 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 	{
 		this.setSetting({
 			public: isPublic
+		});
+	}
+
+	public setRequireJoinApproval(requireJoinApproval: boolean)
+	{
+		this.setSetting({
+			requireJoinApproval
 		});
 	}
 

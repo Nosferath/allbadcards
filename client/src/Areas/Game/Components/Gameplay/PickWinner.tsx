@@ -2,14 +2,14 @@ import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
 import * as React from "react";
 import {useState} from "react";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import {WhiteCard} from "../../../UI/WhiteCard";
-import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
+import {WhiteCard} from "../../../../UI/WhiteCard";
+import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
-import {LoadingButton} from "../../../UI/LoadingButton";
-import {CardId} from "../../../Global/Platform/Contract";
-import {cardDefsLoaded} from "../../../Global/Utils/GameUtils";
+import {LoadingButton} from "../../../../UI/LoadingButton";
+import {CardId} from "../../../../Global/Platform/Contract";
+import {cardDefsLoaded} from "../../../../Global/Utils/GameUtils";
 
 export interface IPickWinnerProps
 {

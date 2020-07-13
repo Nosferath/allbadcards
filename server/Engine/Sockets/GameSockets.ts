@@ -6,6 +6,8 @@ import {serverGameToClientGame} from "../../Utils/GameUtils";
 import {GameMessage} from "./Messages/GameMessage";
 import {ArrayUtils} from "../../Utils/ArrayUtils";
 import {ChatMessage} from "./Messages/ChatMessage";
+import {GameManager} from "../Games/Game/GameManager";
+import {logMessage} from "../../logger";
 
 interface IWSMessage
 {
@@ -17,10 +19,13 @@ interface IWSMessage
 
 export class GameSockets
 {
+	private kickTimeouts: { [gameColonPlayerId: string]: NodeJS.Timeout } = {};
+
 	private wss: WebSocket.Server;
 
-	private socketIdsForPlayer: { [playerGuid: string]: string[] } = {};
-	private playerSocketIdsForGame: { [gameid: string]: string[] } = {};
+	private playerGuidToSocketIds: { [playerGuid: string]: string[] } = {};
+	private gameIdToSocketIds: { [gameid: string]: string[] } = {};
+	private socketIdToGameIds: { [socketId: string]: string[] } = {};
 
 	constructor(server: http.Server, port?: number)
 	{
@@ -47,23 +52,62 @@ export class GameSockets
 
 					if (data.user)
 					{
-						const existingPlayerConnections = this.socketIdsForPlayer[data.user.playerGuid] ?? [];
-						this.socketIdsForPlayer[data.user.playerGuid] = [id, ...existingPlayerConnections];
+						const socketIdsForPlayer = this.playerGuidToSocketIds[data.user.playerGuid] ?? [];
+						const gameIdsForSocketId = this.socketIdToGameIds[id] ?? [];
+
+						this.playerGuidToSocketIds[data.user.playerGuid] = [id, ...socketIdsForPlayer];
+						this.socketIdToGameIds[id] = [data.gameId, ...gameIdsForSocketId];
+
+						// Prevent kicks if it's just a refresh
+						gameIdsForSocketId.forEach(gameId => {
+							clearTimeout(this.kickTimeouts[`${gameId}:${data.user.playerGuid}`]);
+						});
+
+						// Prevent kicks if it's just a refresh
+						clearTimeout(this.kickTimeouts[`${data.gameId}:${data.user.playerGuid}`]);
 					}
 
-					const existingGameConnections = this.playerSocketIdsForGame[data.gameId] ?? [];
-					this.playerSocketIdsForGame[data.gameId] = [id, ...existingGameConnections];
+					const socketIdsForGame = this.gameIdToSocketIds[data.gameId] ?? [];
+					this.gameIdToSocketIds[data.gameId] = [id, ...socketIdsForGame];
 				});
 
 				ws.on("close", () =>
 				{
-					const matchingPlayerGuid = Object.keys(this.socketIdsForPlayer)
-						.find(playerGuid => this.socketIdsForPlayer[playerGuid].includes(id));
+					const matchingPlayerGuid = Object.keys(this.playerGuidToSocketIds)
+						.find(playerGuid => this.playerGuidToSocketIds[playerGuid].includes(id));
 
 					if (matchingPlayerGuid)
 					{
-						const existingConnections = this.socketIdsForPlayer[matchingPlayerGuid];
-						this.socketIdsForPlayer[matchingPlayerGuid] = existingConnections.filter(a => a !== id);
+						const gameIdsForSocket = this.socketIdToGameIds[id];
+
+						const socketIdsForPlayer = this.playerGuidToSocketIds[matchingPlayerGuid];
+
+						// Remove this socket ID for this player
+						this.playerGuidToSocketIds[matchingPlayerGuid] = socketIdsForPlayer.filter(a => a !== id);
+
+						gameIdsForSocket.forEach(gameId =>
+						{
+							// Kick player ten seconds after leaving
+							this.kickTimeouts[`${gameId}:${matchingPlayerGuid}`] = setTimeout(() =>
+							{
+								GameManager.kickPlayer(
+									gameId,
+									matchingPlayerGuid,
+									{
+										secret: "",
+										guid: matchingPlayerGuid
+									},
+									true,
+									true)
+									.then(() =>
+									{
+										logMessage(`Kicked player ${matchingPlayerGuid} from game ${gameId} after they went idle.`)
+									});
+							}, 60000);
+						});
+
+						// Remove this one
+						delete this.socketIdToGameIds[id];
 					}
 				});
 			}
@@ -82,10 +126,10 @@ export class GameSockets
 		});
 
 		// Get every socket that needs updating
-		const playerSocketListsForGame = playerGuids.map(pg => this.socketIdsForPlayer[pg]);
-		const allPlayerSocketIdsForGame = ArrayUtils.flatten(playerSocketListsForGame);
+		const playerSocketListsForGame = playerGuids.map(pg => this.playerGuidToSocketIds[pg]);
+		const allPlayerSocketIdsForGame = ArrayUtils.flatten<string>(playerSocketListsForGame);
 
-		this.playerSocketIdsForGame[game.id] = allPlayerSocketIdsForGame;
+		this.gameIdToSocketIds[game.id] = allPlayerSocketIdsForGame;
 
 		const gameWithVersion: GamePayload = {
 			...clientGame,
@@ -98,7 +142,7 @@ export class GameSockets
 	public updateChats(chatPayload: ChatPayload)
 	{
 		// Get every socket that needs updating
-		const allPlayerSocketIdsForGame = Array.from(new Set(this.playerSocketIdsForGame[chatPayload.gameId]));
+		const allPlayerSocketIdsForGame = Array.from(new Set(this.gameIdToSocketIds[chatPayload.gameId]));
 
 		this.sendPayloadToMatching(ChatMessage.send(chatPayload), allPlayerSocketIdsForGame);
 	}

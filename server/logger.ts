@@ -1,5 +1,4 @@
 import * as winston from "winston";
-import {Config} from "../config/config";
 
 require('log-timestamp');
 
@@ -27,5 +26,5 @@ export const logWarning = (...input: any[]) =>
 
 export const logError = (...input: any[]) =>
 {
-	logger.error(input);
+	logger.error(JSON.stringify(input, null, 2));
 };

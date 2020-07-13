@@ -9,6 +9,8 @@ import ListItemText from "@material-ui/core/ListItemText";
 import Switch from "@material-ui/core/Switch";
 import List from "@material-ui/core/List";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../../Global/Platform/Contract";
 
 const urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
 
@@ -153,6 +155,8 @@ const RoundsRequiredField: React.FC<IGameDataProps> = ({
 	                                                       gameData
                                                        }) =>
 {
+	const numberToUse = getTrueRoundsToWin(gameData.game as ClientGameItem);
+
 	const onChange = (e: ChangeEvent<{}>, v: number | number[]) =>
 	{
 		clearTimeout(sliderTimeout);
@@ -162,27 +166,54 @@ const RoundsRequiredField: React.FC<IGameDataProps> = ({
 		}, 500);
 	};
 
+	const onUseSuggestedChange = (e: ChangeEvent<{}>, v: boolean) =>
+	{
+		GameDataStore.setRequiredRounds(v ? undefined : numberToUse);
+	};
+
 	const classes = useStyles();
+
+	const {
+		roundsToWin,
+		suggestedRoundsToWin
+	} = gameData.game?.settings ?? {};
 
 	return (
 		<ListItem>
 			<FormControl component="fieldset" style={{width: "100%"}}>
-				<Typography>Rounds required to win: {gameData.ownerSettings?.roundsToWin}</Typography>
-				<Typography style={{marginBottom: "0.5rem"}} variant={"caption"}>The game will end if a player wins this many rounds</Typography>
-				<Slider
-					defaultValue={gameData.ownerSettings?.roundsToWin}
-					onChange={onChange}
-					aria-labelledby="discrete-slider"
-					classes={{
-						thumb: classes.sliderText
-					}}
-					valueLabelDisplay="auto"
-					color={"secondary"}
-					step={1}
-					marks
-					min={1}
-					max={25}
-				/>
+				<Typography>Rounds required to win: {roundsToWin ?? suggestedRoundsToWin}</Typography>
+				<Typography style={{marginBottom: "0.5rem"}} variant={"caption"}>
+					The game will end if a player wins this many rounds
+				</Typography>
+				<ListItem>
+					<ListItemText primary={"Use Suggested"} secondary={`Use the suggested number of rounds to win (${suggestedRoundsToWin}).`}/>
+					<ListItemSecondaryAction>
+						<Switch
+							edge="end"
+							color={"secondary"}
+							onChange={onUseSuggestedChange}
+							name={"winnerBecomesCzar"}
+							checked={gameData.ownerSettings.roundsToWin === undefined}
+						/>
+					</ListItemSecondaryAction>
+				</ListItem>
+				{gameData.ownerSettings.roundsToWin !== undefined && (
+					<Slider
+						defaultValue={gameData.ownerSettings?.roundsToWin}
+						onChange={onChange}
+						aria-labelledby="discrete-slider"
+						classes={{
+							thumb: classes.sliderText
+						}}
+						valueLabelDisplay="auto"
+						color={"secondary"}
+						step={1}
+						marks
+						min={1}
+						max={25}
+						disabled={gameData.ownerSettings.roundsToWin === undefined}
+					/>
+				)}
 			</FormControl>
 		</ListItem>
 	);

@@ -1,15 +1,16 @@
 import Grid from "@material-ui/core/Grid";
-import {WhiteCard} from "../../../UI/WhiteCard";
+import {WhiteCard} from "@UI/WhiteCard";
 import Button from "@material-ui/core/Button";
 import * as React from "react";
 import {useState} from "react";
-import {GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {UserData} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStorePayload} from "@Global/DataStore/GameDataStore";
+import {UserData} from "@Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
-import {CardId} from "../../../Global/Platform/Contract";
+import {CardId} from "@Global/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
+import makeStyles from "@material-ui/core/styles/makeStyles";
 
 interface Props
 {
@@ -18,6 +19,13 @@ interface Props
 	targetPicked: number;
 	onPickUpdate: (cards: CardId[]) => void;
 }
+
+const useStyles = makeStyles(theme => ({
+	input: {
+		color: theme.palette.primary.dark,
+		borderColor: theme.palette.primary.dark
+	}
+}));
 
 export const WhiteCardHand: React.FC<Props> = (
 	{
@@ -31,14 +39,24 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const onPick = (id: CardId, content?: string) =>
 	{
-		const newVal: CardId[] = [...pickedCards, {...id, customInput: content}];
+		const newCard = {...id};
+		if (content)
+		{
+			newCard.customInput = content;
+		}
+		const newVal: CardId[] = [...pickedCards, newCard];
 		setPickedCards(newVal);
 		onPickUpdate(newVal);
 	};
 
 	const onUnpick = (id: CardId, content?: string) =>
 	{
-		const newVal = pickedCards.filter(a => !deepEqual(a, {...id, customInput: content}));
+		const newCard = {...id};
+		if (content)
+		{
+			newCard.customInput = content;
+		}
+		const newVal = pickedCards.filter(a => !deepEqual(a, newCard));
 		setPickedCards(newVal);
 		onPickUpdate(newVal);
 	};
@@ -77,7 +95,7 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const renderedHand = renderedCardIds.map((cardId, i) =>
 	{
-		const pickedIndex = pickedCards.indexOf(cardId);
+		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
 
 		return (
@@ -108,7 +126,9 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	return <>
 		{!(me.guid in (gameData.game?.roundCards ?? {})) && (
-			<CardPlayTimeRemaining gameData={gameData}/>
+			<>
+				<CardPlayTimeRemaining gameData={gameData}/>
+			</>
 		)}
 		<Grid container style={{justifyContent: "center", marginTop: "1rem"}} spacing={3}>
 			{!hasPlayed && settings.allowCustoms && (
@@ -169,6 +189,7 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 			: "Picked"
 		: "Pick";
 
+	const classes = useStyles();
 
 	return (
 		<WhiteCard
@@ -197,6 +218,10 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 		>
 			{isCustom ? (
 				<TextField
+					inputProps={{
+						className: classes.input
+					}}
+					color={"primary"}
 					placeholder={"Answer here"}
 					fullWidth={true}
 					multiline={true}

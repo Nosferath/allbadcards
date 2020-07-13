@@ -5,20 +5,20 @@ import Grid from "@material-ui/core/Grid";
 import {BlackCard} from "../../UI/BlackCard";
 import Divider from "@material-ui/core/Divider";
 import {DialogActions, DialogTitle, Typography} from "@material-ui/core";
-import {RevealWhites} from "./Components/RevealWhites";
-import {ShowWinner} from "./Components/ShowWinner";
+import {RevealWhites} from "./Components/Gameplay/RevealWhites";
+import {ShowWinner} from "./Components/Gameplay/ShowWinner";
 import {Confirmation} from "../../UI/Confirmation";
-import {WhiteCardHand} from "./Components/WhiteCardHand";
+import {WhiteCardHand} from "./Components/Gameplay/WhiteCardHand";
 import Tooltip from "@material-ui/core/Tooltip";
-import {PickWinner} from "./Components/PickWinner";
+import {PickWinner} from "./Components/Gameplay/PickWinner";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {CardId} from "../../Global/Platform/Contract";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
-import {PlayersRemaining} from "./Components/PlayersRemaining";
+import {PlayersRemaining} from "./Components/Gameplay/PlayersRemaining";
 import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import Button from "@material-ui/core/Button";
-import {Instructions} from "./Components/Instructions";
+import {Instructions} from "./Components/Gameplay/Instructions";
 
 interface IGamePlayWhiteProps
 {
@@ -134,37 +134,10 @@ export class GamePlayWhite extends React.Component<Props, State>
 		BrowserUtils.scrollToTop();
 	};
 
-	private onCommitCustom = () =>
-	{
-		const hasSelected = this.state.userData.playerGuid in (this.state.gameData.game?.roundCardsCustom ?? {});
-		if (hasSelected)
-		{
-			return;
-		}
-
-		this.setState({
-			playButtonLoading: true
-		});
-
-		GameDataStore.playCustomCards(this.state.pickedCardsCustom, this.state.userData.playerGuid)
-			.finally(() => this.setState({
-				playButtonLoading: false
-			}));
-
-		BrowserUtils.scrollToTop();
-	};
-
 	private onPickUpdate = (pickedCards: CardId[]) =>
 	{
 		this.setState({
 			pickedCards
-		});
-	};
-
-	private onPickUpdateCustom = (pickedCardsCustom: string[]) =>
-	{
-		this.setState({
-			pickedCardsCustom
 		});
 	};
 
@@ -238,7 +211,6 @@ export class GamePlayWhite extends React.Component<Props, State>
 		const {
 			players,
 			roundCards,
-			roundCardsCustom,
 			chooserGuid,
 			roundStarted
 		} = gameData.game;
@@ -248,7 +220,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 
 		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
 
-		const hasPlayed = userData.playerGuid in roundCards || userData.playerGuid in (roundCardsCustom ?? {});
+		const hasPlayed = userData.playerGuid in roundCards;
 		const hasWinner = !!gameData.game?.lastWinner;
 
 		let targetPicked = gameData.blackCardDef?.pick ?? 1;

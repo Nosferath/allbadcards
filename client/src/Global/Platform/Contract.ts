@@ -13,9 +13,13 @@ export interface GamePlayer
 	nickname: string;
 	wins: number;
 	whiteCards: CardId[];
+	levels?: string[];
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	kickedForTimeout?: boolean;
+	isIdle?: boolean;
+	isApproved?: boolean | null;
 }
 
 export interface CardId
@@ -25,19 +29,25 @@ export interface CardId
 	customInput?: string;
 }
 
-export interface IGameSettings
+export interface IGameSettings extends IGameClientSettings
+{
+	suggestedRoundsToWin?: number;
+}
+
+export interface IGameClientSettings
 {
 	hideDuringReveal: boolean;
 	skipReveal: boolean;
 	public: boolean;
 	playerLimit: number;
-	roundsToWin: number;
+	roundsToWin?: number;
 	inviteLink: string | null;
 	includedPacks: string[];
 	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
+	requireJoinApproval?: boolean;
 }
 
 export interface GamesList extends WithBuildVersion
@@ -68,7 +78,6 @@ export interface ClientGameItem
 	blackCard: CardId;
 	// key = player guid, value = white card ID
 	roundCards: { [playerGuid: string]: CardId[] };
-	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
 	revealIndex: number;
 	lastWinner: GamePlayer | undefined;
@@ -140,6 +149,7 @@ export enum BackerType
 	"Support the site! (Pay-what-you-want)" = "Support the site! (Pay-what-you-want)",
 	Sponsor = "Sponsor",
 	DiamondSponsor = "DiamondSponsor",
+	Owner = "Owner"
 }
 
 export interface IClientAuthStatus

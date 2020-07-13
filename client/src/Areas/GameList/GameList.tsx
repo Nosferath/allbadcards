@@ -9,6 +9,8 @@ import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import {Link} from "react-router-dom";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
+import Helmet from "react-helmet";
+import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -83,6 +85,9 @@ const GameList = () =>
 
 	return (
 		<div>
+			<Helmet>
+				<title>Public Games</title>
+			</Helmet>
 			<Grid container>
 				<Grid item xl={12}>
 					<Typography variant={"h5"}>
@@ -129,7 +134,7 @@ const GameList = () =>
 					<Grid item xs={12} sm={6} md={4} lg={3}>
 						<Card elevation={5}>
 							<CardHeader
-								title={<>{unescape(game.players[game.ownerGuid].nickname)}'s game</>}
+								title={<>{unescape(game.players?.[game.ownerGuid]?.nickname)}'s game</>}
 								subheader={
 									<>{Object.keys(game.players).length} / {game.settings.playerLimit} players</>
 								}
@@ -144,7 +149,7 @@ const GameList = () =>
 								</Typography>
 								<Typography className={classes.cardListItem}>
 									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{game.settings.roundsToWin}</span>
+										<span className={classes.avatarText}>{getTrueRoundsToWin(game)}</span>
 									</Avatar> rounds to win
 								</Typography>
 								<Typography className={classes.cardListItem}>

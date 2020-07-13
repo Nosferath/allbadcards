@@ -1,10 +1,8 @@
-import React, {useEffect, useState} from "react";
+import React from "react";
 import {Typography} from "@material-ui/core";
-import Button from "@material-ui/core/Button";
 import {makeStyles} from "@material-ui/core/styles";
-import {CopyToClipboard} from "react-copy-to-clipboard";
 import {GameDataStore} from "../../Global/DataStore/GameDataStore";
-import {GameRoster} from "./Components/GameRoster";
+import {GameRoster} from "./Components/Gameplay/GameRoster";
 import {CopyGameLink} from "../../UI/CopyGameLink";
 import Divider from "@material-ui/core/Divider";
 import {useDataStore} from "../../Global/Utils/HookUtils";

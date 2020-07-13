@@ -2,6 +2,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "author": "Jake Lauer",
+  "license": "AGPL-3.0-only",
   "scripts": {
     "build": "node scripts/build.js",
     "start": "node scripts/start.js",
@@ -178,14 +180,16 @@
     "styled-components": "^5.0.1",
     "terser-webpack-plugin": "1.4.1",
     "ts-pnp": "1.1.2",
-    "typescript": "3.7.2",
+    "tsconfig-paths-webpack-plugin": "^3.2.0",
+    "typescript": "^3.9.3",
     "typescript-plugin-css-modules": "2.0.2",
     "url-loader": "2.1.0",
+    "visibilityjs": "^2.0.2",
     "webpack": "4.39.1",
     "webpack-dev-server": "3.2.1",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.3.1",
     "ws": "^7.2.3"
   },
-  "proxy": "http://jlauer.local:5000"
+  "proxy": "http://allbadcards.local:5000"
 }

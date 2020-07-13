@@ -1,10 +1,9 @@
 import Grid from "@material-ui/core/Grid";
 import {CircularProgress, Typography} from "@material-ui/core";
 import * as React from "react";
-import {useState} from "react";
-import {GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
+import {useEffect, useState} from "react";
+import {GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import moment from "moment";
-import {useEffect} from "react";
 
 interface Props
 {

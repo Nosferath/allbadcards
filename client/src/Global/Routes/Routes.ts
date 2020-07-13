@@ -29,6 +29,6 @@ export class SiteRoutes
 	public static MyPacks = new SiteRoute("/packs/mine");
 	public static PackCreate = new SiteRoute<{ id?: string }>("/pack/detail/:id?");
 	public static Games = new SiteRoute("/games");
-	public static Game = new SiteRoute<{ id: string }>("/game/:id/:throwaway?");
+	public static Game = new SiteRoute<{ id: string, throwaway?: string }>("/game/:id/:throwaway?");
 	public static Settings = new SiteRoute("/user/settings");
 }

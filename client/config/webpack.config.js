@@ -23,6 +23,7 @@ const modules = require('./modules');
 const getClientEnvironment = require('./env');
 const ForkTsCheckerWebpackPlugin = require('react-dev-utils/ForkTsCheckerWebpackPlugin');
 const typescriptFormatter = require('react-dev-utils/typescriptFormatter');
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
 
 const postcssNormalize = require('postcss-normalize');
 
@@ -274,7 +275,13 @@ module.exports = function(webpackEnv) {
       plugins: [
         // Adds support for installing with Plug'n'Play, leading to faster installs and adding
         // guards against forgotten dependencies and such.
-        PnpWebpackPlugin
+        PnpWebpackPlugin,
+
+        new TsconfigPathsPlugin({
+          logLevel: "error",
+          logInfoToStdOut: true,
+          configFile: "./tsconfig.json"
+        }),
       ],
     },
     resolveLoader: {
@@ -333,7 +340,7 @@ module.exports = function(webpackEnv) {
                 customize: require.resolve(
                   'babel-preset-react-app/webpack-overrides'
                 ),
-                
+
                 plugins: [
                   ['@babel/plugin-proposal-optional-chaining', {loose: true}],
                     ['@babel/plugin-proposal-nullish-coalescing-operator', {loose: true}],
@@ -374,7 +381,7 @@ module.exports = function(webpackEnv) {
                 ],
                 cacheDirectory: true,
                 cacheCompression: isEnvProduction,
-                
+
                 // If an error happens in a package, it's possible to be
                 // because it was compiled. Thus, we don't want the browser
                 // debugger to show the original code. Instead, the code

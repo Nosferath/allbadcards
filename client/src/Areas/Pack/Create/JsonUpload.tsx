@@ -4,8 +4,7 @@ import {FaRegQuestionCircle, FaUpload} from "react-icons/all";
 import {CloseableDialog} from "../../../UI/CloseableDialog";
 import {ErrorDataStore} from "../../../Global/DataStore/ErrorDataStore";
 import {AbcPackSchema, validatePackInput} from "./schema";
-import {PackCreatorDataStore} from "../../../Global/DataStore/PackCreatorDataStore";
-import {ICardPackDefinition} from "../../../Global/Platform/Contract";
+import {PackCreatorDataStore, PackCreatorDataStorePayload} from "../../../Global/DataStore/PackCreatorDataStore";
 import {BrowserUtils} from "../../../Global/Utils/BrowserUtils";
 import {selectElementText} from "../../../Global/Utils/DomUtils";
 
@@ -95,7 +94,7 @@ export const JsonUpload: React.FC = () =>
 			const validateResult = validatePackInput(obj);
 			if (validateResult.valid)
 			{
-				const pack = obj as ICardPackDefinition;
+				const pack = obj as PackCreatorDataStorePayload;
 				PackCreatorDataStore.hydrateFromData(pack, replace);
 
 				setTimeout(BrowserUtils.scrollToTop, 250);
@@ -119,7 +118,7 @@ export const JsonUpload: React.FC = () =>
 	return (
 		<div>
 			<Button startIcon={<FaUpload/>} variant={"outlined"} onClick={() => setDisclaimerOpen(true)}>
-				Add from JSON
+				Import from JSON
 			</Button>
 			<IconButton onClick={() => setHelpOpen(true)}>
 				<FaRegQuestionCircle/>

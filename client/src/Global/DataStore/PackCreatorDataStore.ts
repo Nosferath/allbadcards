@@ -1,7 +1,7 @@
 import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
-import {ICardPackDefinition, ICustomCardPack, PackCategories} from "../Platform/Contract";
+import {ICustomCardPack, PackCategories} from "../Platform/Contract";
 import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
 
 export interface PackCreatorDataStorePayload
@@ -11,8 +11,6 @@ export interface PackCreatorDataStorePayload
 	packName: string;
 	blackCards: string[];
 	whiteCards: string[];
-	blackCardErrors: { [index: number]: boolean };
-	whiteCardErrors: { [index: number]: boolean };
 	isEdited: boolean;
 	isNsfw: boolean;
 	isPublic: boolean;
@@ -27,8 +25,6 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		packName: "",
 		whiteCards: [],
 		blackCards: [],
-		blackCardErrors: [],
-		whiteCardErrors: [],
 		isEdited: false,
 		isNsfw: true,
 		isPublic: true,
@@ -39,7 +35,7 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 
 	protected update(data: Partial<PackCreatorDataStorePayload>)
 	{
-		if(data.blackCards !== undefined)
+		if (data.blackCards !== undefined)
 		{
 			const cards = [...data.blackCards];
 			cards.forEach((card, i) =>
@@ -67,30 +63,26 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 					blackCards: data.definition.black.map(bc => bc.content),
 					packName: data.definition.pack.name,
 					isEdited: false,
-					blackCardErrors: [],
-					whiteCardErrors: [],
 					categories: data.categories
 				})
 			})
 			.catch(ErrorDataStore.add);
 	}
 
-	public hydrateFromData(pack: Partial<ICardPackDefinition>, replace = true)
+	public hydrateFromData(pack: PackCreatorDataStorePayload, replace = true)
 	{
-		const blackCards = pack.black?.map(bc => bc.content) ?? [];
-
 		const allBlack = replace
-			? blackCards
-			: [...this.state.blackCards, ...blackCards];
+			? pack.blackCards ?? []
+			: [...this.state.blackCards, ...pack.blackCards];
 
 		const allWhite = replace
-			? pack.white ?? []
-			: [...this.state.whiteCards, ...(pack.white ?? [])];
+			? pack.whiteCards ?? []
+			: [...this.state.whiteCards, ...(pack.whiteCards ?? [])];
 
 		this.update({
 			blackCards: allBlack,
 			whiteCards: allWhite,
-			packName: pack?.pack?.name ?? ""
+			packName: pack?.packName ?? ""
 		})
 	}
 
@@ -104,6 +96,22 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		this.update({
 			isEdited: true,
 			blackCards: [...this.state.blackCards, ""]
+		});
+	};
+
+	public massAddBlackCards = (values: string[]) =>
+	{
+		this.update({
+			isEdited: true,
+			blackCards: [...this.state.blackCards, ...values]
+		});
+	};
+
+	public massAddWhiteCards = (values: string[]) =>
+	{
+		this.update({
+			isEdited: true,
+			whiteCards: [...this.state.whiteCards, ...values]
 		});
 	};
 
@@ -167,24 +175,6 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		});
 	};
 
-	public setBlackCardErrorState = (index: number, hasError: boolean) =>
-	{
-		const blackCardErrors = {...this.state.blackCardErrors};
-		blackCardErrors[index] = hasError;
-		this.update({
-			blackCardErrors
-		});
-	};
-
-	public setWhiteCardErrorState = (index: number, hasError: boolean) =>
-	{
-		const whiteCardErrors = {...this.state.whiteCardErrors};
-		whiteCardErrors[index] = hasError;
-		this.update({
-			whiteCardErrors
-		});
-	};
-
 	public getValidity(): string | undefined
 	{
 		if (this.state.packName.length < 3)
@@ -200,14 +190,29 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 			return "You need at least one card";
 		}
 
-		if(this.state.categories.length === 0)
+		if (this.state.categories.length === 0)
 		{
 			return "You must select a category";
 		}
 
-		if(this.state.categories.length > 3)
+		if (this.state.categories.length > 3)
 		{
 			return "You can only select 3 categories";
+		}
+
+		const blackCardErrorIndices = this.state.blackCards.filter(value =>
+		{
+			const underscores = value.match(/_/g) ?? [];
+			return underscores.length > 3;
+		}).map((card, i) => i);
+
+		if (blackCardErrorIndices.length)
+		{
+			const blackCardErrMessage = blackCardErrorIndices.length
+				? `Prompt IDs with errors: ${blackCardErrorIndices.join(", ")}. `
+				: "";
+
+			return `${blackCardErrMessage}`;
 		}
 	}
 
@@ -231,13 +236,16 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 	{
 		return new Promise((resolve, reject) =>
 		{
+			const whiteCards = Array.from(new Set(this.state.whiteCards));
+			const blackCards = Array.from(new Set(this.state.blackCards));
+
 			Platform.savePack({
 				isPublic: this.state.isPublic,
 				isNsfw: this.state.isNsfw,
 				id: this.state.packId,
 				packName: this.state.packName,
-				blackCards: this.state.blackCards,
-				whiteCards: this.state.whiteCards,
+				blackCards,
+				whiteCards,
 				categories: this.state.categories
 			}).then(data =>
 			{
@@ -245,6 +253,8 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 				this.update({
 					isEdited: false
 				});
+
+				this.hydrate(this.state.packId!);
 			})
 				.catch(e =>
 				{

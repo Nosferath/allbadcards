@@ -7,7 +7,6 @@ import {BrowserRouter} from "react-router-dom";
 import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import {MuiThemeProvider} from "@material-ui/core";
 import ReactGA from "react-ga";
-import * as Sentry from "@sentry/browser";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import {useDataStore} from "./Global/Utils/HookUtils";
 import {PreferencesDataStore} from "./Global/DataStore/PreferencesDataStore";
@@ -54,35 +53,6 @@ const darkTheme = createMuiTheme({
 		}
 	}
 });
-
-if (!location.hostname.includes("local"))
-{
-	Sentry.init({
-		dsn: "https://6d23e717863b4e2e9870dad240f4e965@o377988.ingest.sentry.io/5200785",
-		beforeSend: (event, hint) =>
-		{
-			let discard = false;
-
-			if (event.message?.includes("ceCurrentVideo.currentTime")
-				|| event.message?.includes("chrome-extension"))
-			{
-				discard = true;
-			}
-
-			if (event.breadcrumbs?.some(a => a.data?.url?.includes("analytics")))
-			{
-				discard = true;
-			}
-
-			if (discard)
-			{
-				return null;
-			}
-
-			return event;
-		}
-	});
-}
 
 ReactGA.initialize('UA-23730353-5', {
 	debug: location.hostname.includes("local") || location.hostname.includes("beta")

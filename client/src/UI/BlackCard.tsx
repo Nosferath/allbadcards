@@ -31,7 +31,7 @@ interface IBlackCardState
 
 const useStyles = makeStyles(theme => ({
 	card: {
-		minHeight: "25vh",
+		minHeight: "20vh",
 		cursor: "default",
 		backgroundColor: colors.dark.main,
 		display: "flex",

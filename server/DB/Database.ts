@@ -57,7 +57,12 @@ class _Database
 			this.initializeClient(client);
 
 			await this.collections.games.createIndex({
-				id: 1,
+				id: 1
+			}, {
+				unique: true
+			});
+
+			await this.collections.games.createIndex({
 				["settings.public"]: 1,
 				dateCreated: -1,
 				dateUpdated: -1

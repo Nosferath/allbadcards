@@ -74,7 +74,7 @@ class GameDashboard extends React.Component<Props, State>
 				</ButtonGroup>
 				{!familyMode && (
 					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
-						<Button href={"https://not.allbad.cards"}>
+						<Button href={"https://notallbad.cards"}>
 							Family-Friendly Version &nbsp; <MdArrowForward/>
 						</Button>
 					</ButtonGroup>
@@ -87,17 +87,15 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
-								<strong>Updates - 5/25</strong>
-								<li>Modified option to use custom cards so that it instead gives one custom card per round</li>
-								<li>Added attribution for Patreon backers</li>
-								<li>Fixed login/logout</li>
-								<li>Re-enabled socket compression (for performance)</li>
-								<li>Bug fixes and improvements</li>
+								<strong>Updates - 6/14</strong>
+								<li>Moved not.allbad.cards to notallbad.cards</li>
+								<li>Updated color scheme</li>
+								<li>Added option to export card packs to JSON</li>
 								<br/>
-								<strong>Updates - 5/20</strong>
-								<li>Added option to upload JSON card packs</li>
-								<li>Fixed card pack browser paging</li>
-								<li>Other fixes and improvements</li>
+								<strong>Updates - 6/7</strong>
+								<li>Removed some cards that were problematic. #BlackLivesMatter.</li>
+								<li>Added option to approve players joining games.</li>
+								<li>Added option to leave/rejoin if spectating</li>
 								<br/>
 							</Typography>
 						</Grid>

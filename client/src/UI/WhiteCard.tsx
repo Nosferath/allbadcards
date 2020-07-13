@@ -24,7 +24,7 @@ const useStyles = makeStyles(theme => ({
 		backgroundColor: PreferencesDataStore.state.darkMode ? "#EEE" : "#FFF",
 		display: "flex",
 		flexDirection: "column",
-		minHeight: "25vh",
+		minHeight: "20vh",
 		color: colors.light.contrastText
 	}
 }));

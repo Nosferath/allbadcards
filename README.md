@@ -1,10 +1,7 @@
 # All Bad Cards
 
-#### License (code and all works not including card data): 
+#### License
 AGPL 3.0
-
-#### License (cards only): 
-Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)
 
 #### Credits ####
 Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for much of the card data.
@@ -13,10 +10,10 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
 
 ### Requirements
 
-- NodeJS
+- NodeJS (this project is created using Node 12.16.1)
 - Redis 
 - MongoDB
-- Yarn (classic) https://classic.yarnpkg.com/lang/en/
+- Yarn (this project uses Yarn Classic, not Yarn 2)
 
 ### Setup
 
@@ -53,9 +50,9 @@ Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for m
 ```
 Note: `letsplaywtf` was the name of the site before I changed it to All Bad Cards :P
 
-In the above example, the `mongo` URLs are the connection strings to MongoDB in each given environment. Same with `redisHost` for Redis.
+In the above example, the `mongo` URLs are the connection strings to MongoDB in each given environment. Same with `redis` for Redis.
 
-`redisKey` is the auth password for Redis. `redisPort` is the externally accessible port for Redis.
+`redis.key` is the auth password for Redis. `redis.port` is the externally accessible port for Redis.
 
 `userSecretSalt` is used to salt user cookies.
 
@@ -64,10 +61,11 @@ In the above example, the `mongo` URLs are the connection strings to MongoDB in 
 
 - Local
     - From a command line, navigate to the root directory of the project.
-    - Run the command `yarn dev`, which will simultaneously start up the client dev server and nodemon for the server
+    - Run `yarn install:all` to install dependencies for the client and the server
+    - Run the command `yarn start`, which will simultaneously start up the client dev server and nodemon for the server
 - Build
     - From a command line, navigate to the root directory of the project.
-    - Run the command `yarn build` (or `yarn build-beta` for beta)
+    - Run the command `yarn build` (or `yarn build:beta` for beta, `yarn build:local` for local)
     - The output will be in the `/builds` folder, as a zip of the server and client.
 - Hosted
     - Extract a built zip

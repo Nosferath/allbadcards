@@ -57,7 +57,7 @@ export const GameChatFab: React.FC<IGameChatProps> = (props) =>
 				     aria-label="add"
 				     onClick={openDialog}
 				     style={{position: "fixed", bottom: 15, right: 15, zIndex: 15}}>
-					<Badge badgeContent={chatData.unseenChatMessages} color="secondary">
+					<Badge badgeContent={chatData.unseenChatMessages} color="primary">
 						<FiMessageCircle style={{marginRight: "1rem", fontSize: "1.5rem"}}/> Chat
 					</Badge>
 				</Fab>

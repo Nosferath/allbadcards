@@ -3,9 +3,16 @@ import {Container, Dialog, DialogContent, Grid, List, ListItem, ListItemText, Te
 import Button from "@material-ui/core/Button";
 import {Platform} from "../../Global/Platform/platform";
 import {ICardPackDefinition} from "../../Global/Platform/Contract";
+import {PackCreatorDataStorePayload} from "@Global/DataStore/PackCreatorDataStore";
 
-const exportToJson = (objectData: any) =>
+const exportToJson = (pack: ICardPackDefinition | null) =>
 {
+	const objectData: Partial<PackCreatorDataStorePayload> = {
+		packName: pack?.pack?.name,
+		whiteCards: pack?.white,
+		blackCards: pack?.black?.map(b => b.content ?? "")
+	};
+
 	let filename = "export.json";
 	let contentType = "application/json;charset=utf-8;";
 	if (window.navigator && window.navigator.msSaveOrOpenBlob)
@@ -53,8 +60,6 @@ const CardCastExport = () =>
 			<Grid container>
 				<Grid item xs={12}>
 					CardCast recently shut down. Fortunately, we have some decks cached in our data. If you (or anyone) ever played All Bad Cards with your deck, we may have a copy.
-					<br/><br/>
-					See and download all of the saved packs here: <a href={"https://github.com/jakelauer/allbadcards/tree/master/cardcast-packs"} target={"_blank"}>https://github.com/jakelauer/allbadcards/tree/master/cardcast-packs</a>
 					<br/><br/>
 					Enter your CardCast deck ID, or search for your pack name below:
 					<br/><br/>

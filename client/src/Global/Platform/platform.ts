@@ -1,6 +1,7 @@
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameSettings, PackSearch} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameClientSettings, IGameSettings, PackSearch} from "./Contract";
 import {Fetcher} from "./Fetcher";
+import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -40,7 +41,8 @@ class _Platform
 
 		return Fetcher.doPost<ClientGameItem>("/api/game/create", {
 			guid,
-			nickname
+			nickname,
+			isFamily: EnvDataStore.state.site.family
 		});
 	}
 
@@ -95,7 +97,7 @@ class _Platform
 	public async updateSettings(
 		guid: string,
 		gameId: string,
-		settings: IGameSettings)
+		settings: IGameClientSettings)
 	{
 		this.trackEvent("start", gameId);
 
@@ -114,17 +116,6 @@ class _Platform
 			gameId,
 			guid,
 			cardIds
-		});
-	}
-
-	public async playCardsCustom(gameId: string, guid: string, cards: string[])
-	{
-		this.trackEvent("play-cards-custom", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/game/play-cards-custom", {
-			gameId,
-			guid,
-			cards
 		});
 	}
 
@@ -302,9 +293,9 @@ class _Platform
 	{
 		this.trackEvent("pack-search");
 
-		const search = input.search ? `&search=${input.search}` : "";
-		const category = input.category ? `&category=${input.category}` : "";
-		const sort = input.sort ? `&sort=${input.sort}` : "";
+		const search = input.search ? `&search=${encodeURIComponent(input.search)}` : "";
+		const category = input.category ? `&category=${encodeURIComponent(input.category as string)}` : "";
+		const sort = input.sort ? `&sort=${encodeURIComponent(input.sort)}` : "";
 		return Fetcher.doGet<{result: ICustomPackSearchResult}>(`/api/packs/search?zeroBasedPage=${zeroBasedPage}&nsfw=${!!input.nsfw}${search}${category}${sort}`);
 	}
 
@@ -337,6 +328,15 @@ class _Platform
 
 		return Fetcher.doPost<ICustomCardPack>("/api/pack/unfavorite", {
 			packId
+		});
+	}
+
+	public setPlayerApproval(gameId: string, targetGuid: string, approved: boolean)
+	{
+		return Fetcher.doPost("/api/game/player-approval", {
+			gameId,
+			targetGuid,
+			approved
 		});
 	}
 }

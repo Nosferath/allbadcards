@@ -3,10 +3,10 @@ import {AiFillCrown} from "react-icons/all";
 import {ClockLoader} from "react-spinners";
 import {Typography} from "@material-ui/core";
 import * as React from "react";
-import {useDataStore} from "../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../Global/DataStore/GameDataStore";
-import {UserDataStore} from "../../../Global/DataStore/UserDataStore";
-import {UserFlair} from "./Users/UserFlair";
+import {useDataStore} from "../../../../Global/Utils/HookUtils";
+import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
+import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
+import {UserFlair} from "../Users/UserFlair";
 
 export const PlayersRemaining = () =>
 {
@@ -28,7 +28,7 @@ export const PlayersRemaining = () =>
 	const remainingPlayerGuids = Object.keys(players ?? {})
 		.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
-	const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
+	const remainingPlayers = remainingPlayerGuids.map(pg => players?.[pg]);
 	const chooserIsMe = userData.playerGuid === chooserGuid;
 	const chooserPlayer = players?.[chooserGuid!];
 	const chooser = chooserIsMe ? "You!" : unescape(players?.[chooserGuid!]?.nickname);
@@ -47,7 +47,7 @@ export const PlayersRemaining = () =>
 				<Chip
 					style={{marginLeft: 3, marginBottom: 3, paddingLeft: 8}}
 					avatar={<ClockLoader size={15}/>}
-					label={player}
+					label={<><UserFlair player={player}/>{unescape(player?.nickname)}</>}
 				/>
 			))}
 			{!hasWinner && remainingPlayers.length === 0 && (

@@ -4,14 +4,13 @@ import {Platform} from "../../Global/Platform/platform";
 import {UserDataStore} from "../../Global/DataStore/UserDataStore";
 import {GameDataStore} from "../../Global/DataStore/GameDataStore";
 import Typography from "@material-ui/core/Typography";
-import {GameSettings} from "./Components/GameSettings";
+import {GameSettings} from "./GameSettings";
 import Divider from "@material-ui/core/Divider";
 import {LoadingButton} from "../../UI/LoadingButton";
 import {MdAdd} from "react-icons/all";
 import {useDataStore} from "../../Global/Utils/HookUtils";
 import {Tooltip} from "@material-ui/core";
 import {BrowserUtils} from "../../Global/Utils/BrowserUtils";
-import {Alert} from "@material-ui/lab";
 
 interface IGameStartProps
 {

@@ -1,20 +1,21 @@
 import * as React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "../../../../Global/DataStore/UserDataStore";
 import {Typography} from "@material-ui/core";
 import Divider from "@material-ui/core/Divider";
-import {Platform} from "../../../Global/Platform/platform";
-import {WhiteCard} from "../../../UI/WhiteCard";
+import {Platform} from "../../../../Global/Platform/platform";
+import {WhiteCard} from "../../../../UI/WhiteCard";
 import Grid from "@material-ui/core/Grid";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
-import Avatar from "@material-ui/core/Avatar";
 import sanitize from "sanitize-html";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import {LoadingButton} from "../../../UI/LoadingButton";
-import {BlackCard} from "../../../UI/BlackCard";
+import {LoadingButton} from "../../../../UI/LoadingButton";
+import {BlackCard} from "../../../../UI/BlackCard";
+import {UserFlair} from "../Users/UserFlair";
+import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
+import {ClientGameItem} from "../../../../Global/Platform/Contract";
+import {GameRoster} from "./GameRoster";
 
 interface IShowWinnerProps
 {
@@ -86,9 +87,8 @@ export class ShowWinner extends React.Component<Props, State>
 		const game = this.state.gameData.game;
 		const lastWinner = game?.lastWinner;
 		const winnerCardIds = lastWinner?.whiteCards ?? [];
-		const winnerCustomCards = lastWinner ? game?.roundCardsCustom?.[lastWinner.guid] ?? [] : [];
 		const winnerCards = winnerCardIds.map(cardId => this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]);
-		if (lastWinner && game && (winnerCards.length > 0 || winnerCustomCards.length > 0) && !this.state.timeDownStarted)
+		if (lastWinner && game && (winnerCards.length > 0) && !this.state.timeDownStarted)
 		{
 			const startTime = Date.now();
 			const beforeContinueDelay = 3000;
@@ -121,20 +121,21 @@ export class ShowWinner extends React.Component<Props, State>
 	public render()
 	{
 		const game = this.state.gameData.game;
-		const customCards = game?.roundCardsCustom ?? {};
 		const settings = game?.settings;
 		const players = game?.players ?? {};
 		const playerGuids = Object.keys(players);
-		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= (settings?.roundsToWin ?? 99));
+		const roundsToWin = getTrueRoundsToWin(game as ClientGameItem);
+		const gameWinnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const gameWinner = gameWinnerGuid ? game?.players?.[gameWinnerGuid] : undefined;
 		const lastWinner = game?.lastWinner ?? gameWinner;
-		if(!lastWinner)
+		if (!lastWinner)
 		{
 			return null;
 		}
 
 		const winnerCardIds = game?.roundCards?.[lastWinner.guid] ?? [];
-		const winnerCards = winnerCardIds.map(cardId => {
+		const winnerCards = winnerCardIds.map(cardId =>
+		{
 			return cardId.customInput ?? this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
 		});
 		const blackCardContent = this.state.gameData.blackCardDef?.content;
@@ -210,31 +211,11 @@ export class ShowWinner extends React.Component<Props, State>
 					)}
 					<Divider style={{margin: "1rem 0"}}/>
 					<Typography variant={"h4"}>
-						Winner: {unescape(winner?.nickname)}!
+						Winner: <UserFlair player={winner}/> {unescape(winner?.nickname)}!
 					</Typography>
 					<div style={{marginTop: "1rem"}}>
 						<Typography>Scoreboard</Typography>
-						<List>
-							{sortedPlayerGuids.map((pg, i) => (
-								<>
-									{i > 0 && i <= sortedPlayerGuids.length - 1 && (
-										<Divider/>
-									)}
-									<ListItem>
-										<ListItemAvatar>
-											<Avatar>
-												<strong>{game?.players[pg].wins}</strong>
-											</Avatar>
-										</ListItemAvatar>
-										<ListItemText>
-											<Typography>
-												{unescape(game?.players[pg].nickname)}
-											</Typography>
-										</ListItemText>
-									</ListItem>
-								</>
-							))}
-						</List>
+						<GameRoster/>
 					</div>
 				</Grid>
 			</>

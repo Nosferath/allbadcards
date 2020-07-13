@@ -19,6 +19,10 @@ export interface GamePlayer
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	levels?: string[];
+	kickedForTimeout?: boolean;
+	isIdle?: boolean;
+	isApproved: boolean | null;
 }
 
 export interface CardId
@@ -34,13 +38,15 @@ export interface IGameSettings
 	hideDuringReveal: boolean;
 	skipReveal: boolean;
 	playerLimit: number;
-	roundsToWin: number;
+	suggestedRoundsToWin?: number;
+	roundsToWin?: number;
 	inviteLink: string | null;
 	includedPacks: string[];
 	includedCustomPackIds: string[];
 	winnerBecomesCzar: boolean;
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
+	requireJoinApproval?: boolean;
 }
 
 export interface GameItem extends ClientGameItem
@@ -48,6 +54,7 @@ export interface GameItem extends ClientGameItem
 	dateUpdated: Date;
 	usedBlackCards: CardPackMap;
 	usedWhiteCards: CardPackMap;
+	lastTrueOwnerGuid: string;
 }
 
 export interface ClientGameItem
@@ -66,7 +73,6 @@ export interface ClientGameItem
 	blackCard: CardId;
 	// key = player guid, value = white card ID
 	roundCards: { [playerGuid: string]: CardId[] };
-	roundCardsCustom: { [playerGuid: string]: string[] } | undefined;
 	playerOrder: string[];
 	revealIndex: number;
 	lastWinner: GamePlayer | undefined;

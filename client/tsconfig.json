@@ -25,7 +25,12 @@
       {
         "name": "typescript-plugin-css-modules"
       }
-    ]
+    ],
+    "paths": {
+      "@Global/*": ["Global/*"],
+      "@Areas/*": ["Areas/*"],
+      "@UI/*": ["./UI/*"]
+    }
   },
   "include": [
     "src"

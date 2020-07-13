@@ -55,14 +55,19 @@ export const withTryCatch = (req: Request, res: Response, callback: () => void) 
 	}
 };
 
-export const withAuthContext = (req: Request, callback: (authContext: IAuthContext) => void) =>
+export const withAuthContext = async (req: Request, callback: (authContext: IAuthContext) => void) =>
 {
 	const authContext = AuthCookie.get(req);
-	callback(authContext);
+	await callback(authContext);
 };
 
-export const safeAuthedEndpoint = (req: Request, res: Response, callback: (authContext: IAuthContext) => void) => {
-	withTryCatch(req, res, () => {
-		withAuthContext(req, callback);
-	})
+export const safeAuthedEndpoint = async (req: Request, res: Response, callback: (authContext: IAuthContext) => void) => {
+	try
+	{
+		await withAuthContext(req, callback);
+	}
+	catch (error)
+	{
+		onExpressError(res, error, req.url, req.query, req.body);
+	}
 };
