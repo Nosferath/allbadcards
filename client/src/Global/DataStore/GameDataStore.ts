@@ -61,7 +61,8 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			winnerBecomesCzar: false,
 			roundTimeoutSeconds: null,
 			allowCustoms: false,
-			requireJoinApproval: true
+			requireJoinApproval: true,
+			ownerIsPermaczar: false
 		},
 	};
 
@@ -487,6 +488,13 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 	{
 		this.setSetting({
 			allowCustoms
+		});
+	}
+
+	public setOwnerPermaczar(ownerIsPermaczar: boolean)
+	{
+		this.setSetting({
+			ownerIsPermaczar
 		});
 	}
 

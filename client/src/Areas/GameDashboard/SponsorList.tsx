@@ -86,11 +86,6 @@ export const SponsorList = () =>
 			url: "https://flycarepod.link/games",
 		},
 		{
-			byline: "🚀 Reboot during quarantine",
-			url: "https://www.reboot-drink.com/",
-			src: "/sponsors/reboot.jpg"
-		},
-		{
 			byline: "Everyone will notice, no one will know",
 			url: "https://www.novellusaesthetics.co.uk/",
 			src: "/sponsors/novellusauesthetics2.jpeg",
@@ -110,8 +105,6 @@ export const SponsorList = () =>
 			src: "/sponsors/justlikejane.jpg",
 			byline: "🧼 wash out your mouth!",
 		},
-		undefined,
-		undefined,
 		undefined,
 	];
 

@@ -97,7 +97,7 @@ class _PackManager
 
 			if (existingPack && storedUserData.userId !== existingPack.owner)
 			{
-				throw new Error("You don't have permission to update this pack");
+				throw new Error(`You don't have permission to update pack: ${existingPack.packId}`);
 			}
 		}
 

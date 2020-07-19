@@ -110,4 +110,28 @@ export class Game
 			newGame.ownerGuid = playerToAdd.guid;
 		}
 	}
+
+	public static setNewCardCzar(newGame: GameItem)
+	{
+		if (newGame.settings.ownerIsPermaczar && newGame.ownerGuid in newGame.players)
+		{
+			newGame.chooserGuid = newGame.ownerGuid;
+			return;
+		}
+
+		const playerGuids = Object.keys(newGame.players);
+		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
+		const newChooserIndex = newGame.roundIndex % nonRandomPlayerGuids.length;
+		newGame.chooserGuid = nonRandomPlayerGuids[newChooserIndex];
+
+		if (newGame.settings.winnerBecomesCzar && newGame.lastWinner && !newGame.lastWinner.isRandom)
+		{
+			newGame.chooserGuid = newGame.lastWinner.guid;
+		}
+
+		if (!newGame.chooserGuid)
+		{
+			newGame.chooserGuid = newGame.ownerGuid;
+		}
+	}
 }

@@ -68,7 +68,7 @@ class _GameManager
 		}
 		catch (e)
 		{
-			throw new Error("Could not find game.");
+			throw new Error("Game not found: " + gameId);
 		}
 
 		if (!existingGame)
@@ -182,7 +182,8 @@ class _GameManager
 					winnerBecomesCzar: false,
 					allowCustoms: false,
 					roundTimeoutSeconds: null,
-					requireJoinApproval: true
+					requireJoinApproval: true,
+					ownerIsPermaczar: false
 				}
 			};
 
@@ -259,7 +260,7 @@ class _GameManager
 
 		if (existingGame.ownerGuid !== ownerGuid && targetGuid !== ownerGuid)
 		{
-			throw new Error("You don't have kick permission!",);
+			throw new Error("You don't have kick permission!");
 		}
 
 		const newGame = {...existingGame};
@@ -321,10 +322,10 @@ class _GameManager
 				}
 			}
 
-			// If the owner deletes themselves, pick a new owner
+			// If the owner deletes themselves, pick a new chooser
 			if (targetGuid === existingGame.chooserGuid)
 			{
-				newGame.chooserGuid = newGame.ownerGuid;
+				Game.setNewCardCzar(newGame);
 			}
 		}
 
@@ -337,7 +338,7 @@ class _GameManager
 	{
 		UserManager.validateUser(lastChooser);
 
-		const chooserGuid = lastChooser.guid;
+		const lastChooserGuid = lastChooser.guid;
 
 		if (gameId in this.gameRoundTimers)
 		{
@@ -346,13 +347,13 @@ class _GameManager
 
 		const existingGame = await this.getGame(gameId);
 
-		if (existingGame.chooserGuid !== chooserGuid)
+		if (existingGame.chooserGuid !== lastChooserGuid)
 		{
 			throw new Error("You are not the chooser!");
 		}
 
 		let newGame = {...existingGame};
-		Game.setPlayerIdle(newGame, chooserGuid, false);
+		Game.setPlayerIdle(newGame, lastChooserGuid, false);
 
 		// Reset white card reveal
 		newGame.revealIndex = -1;
@@ -374,21 +375,8 @@ class _GameManager
 		newGame.players = {...newGame.players, ...validPendingPlayers};
 		newGame.pendingPlayers = {};
 		const playerGuids = Object.keys(newGame.players);
-		const nonRandomPlayerGuids = playerGuids.filter(pg => !newGame.players[pg].isRandom);
 
-		// Grab a new chooser
-		const chooserIndex = newGame.roundIndex % nonRandomPlayerGuids.length;
-		newGame.chooserGuid = nonRandomPlayerGuids[chooserIndex];
-
-		if (newGame.settings.winnerBecomesCzar && newGame.lastWinner && !newGame.lastWinner.isRandom)
-		{
-			newGame.chooserGuid = newGame.lastWinner.guid;
-		}
-
-		if (!newGame.chooserGuid)
-		{
-			newGame.chooserGuid = newGame.ownerGuid;
-		}
+		Game.setNewCardCzar(newGame);
 
 		// Remove last winner
 		newGame.lastWinner = undefined;
@@ -554,7 +542,8 @@ class _GameManager
 		const targetPicked = blackCardDef.pick;
 		if (targetPicked !== cardIds.length)
 		{
-			throw new Error("You submitted the wrong number of cards. Expected " + targetPicked + " but received " + cardIds.length);
+			throw new Error(`You submitted the wrong number of cards. Expected ${targetPicked} but received ${cardIds.length}. 
+			Black: ${existingGame.blackCard.packId}:${existingGame.blackCard.cardIndex}`);
 		}
 
 		const newGame = {...existingGame};

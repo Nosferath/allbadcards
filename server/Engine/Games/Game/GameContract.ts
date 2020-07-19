@@ -47,6 +47,7 @@ export interface IGameSettings
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
 	requireJoinApproval?: boolean;
+	ownerIsPermaczar: boolean;
 }
 
 export interface GameItem extends ClientGameItem
