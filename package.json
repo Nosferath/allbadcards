@@ -16,7 +16,8 @@
     "build:local": "yarn build:client && yarn build:server:local",
     "build:server": "node server/scripts/build.js -serverenv=prod",
     "build:server:beta": "node server/scripts/build.js -serverenv=beta",
-    "build:server:local": "node server/scripts/build.js -serverenv=local"
+    "build:server:local": "node server/scripts/build.js -serverenv=local",
+    "special:clean": "node -r ts-node/register --inspect=5001 --nolazy server/scripts/special/clean.ts --runInBand"
   },
   "author": "Jake Lauer",
   "license": "AGPL-3.0-only",
@@ -54,6 +55,7 @@
     "dotenv": "^8.2.0",
     "allbadcards-human-readable-ids": "1.1.1",
     "js-levenshtein": "^1.1.6",
+    "fast-levenshtein": "^2.0.6",
     "log-timestamp": "^0.3.0"
   },
   "devDependencies": {

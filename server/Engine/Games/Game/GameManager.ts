@@ -37,14 +37,16 @@ class _GameManager
 	{
 		logMessage("Starting WebSocket Server");
 
-		Database.initialize();
+		Database.initialize()
+			.then(() =>
+			{
+				const wsPort = Config.Environment === "local"
+					? 8080
+					: undefined;
+				this.gameSockets = new GameSockets(server, wsPort);
 
-		const wsPort = Config.Environment === "local"
-			? 8080
-			: undefined;
-		this.gameSockets = new GameSockets(server, wsPort);
-
-		this.initializeRedis();
+				this.initializeRedis();
+			});
 	}
 
 	private static get games()
@@ -815,7 +817,8 @@ class _GameManager
 			usedWhiteCards = playerKeys.reduce((acc, pg) =>
 			{
 				const player = newGame.players[pg];
-				player.whiteCards.forEach(wc => {
+				player.whiteCards.forEach(wc =>
+				{
 					acc[wc.packId] = acc[wc.packId] ?? {};
 					acc[wc.packId][wc.cardIndex] = wc;
 				});
@@ -887,7 +890,7 @@ class _GameManager
 
 		targetPlayer.isApproved = isApproved;
 
-		if(!newGame.started && targetGuid in newGame.pendingPlayers)
+		if (!newGame.started && targetGuid in newGame.pendingPlayers)
 		{
 			delete newGame.pendingPlayers[targetGuid];
 			newGame.players[targetGuid] = targetPlayer;

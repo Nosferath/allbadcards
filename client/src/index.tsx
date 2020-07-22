@@ -8,8 +8,8 @@ import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import {MuiThemeProvider} from "@material-ui/core";
 import ReactGA from "react-ga";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import {useDataStore} from "./Global/Utils/HookUtils";
-import {PreferencesDataStore} from "./Global/DataStore/PreferencesDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {PreferencesDataStore} from "@Global/DataStore/PreferencesDataStore";
 import {colors} from "./colors";
 
 require('es6-promise').polyfill();
@@ -17,7 +17,17 @@ const promiseFinally = require('promise.prototype.finally');
 promiseFinally.shim();
 
 const lightTheme = createMuiTheme({
+	typography: {
+		fontFamily: "victorian-orchid, serif",
+		button: {
+			textTransform: 'none'
+		}
+	},
 	palette: {
+		background: {
+			default: colors.light.light,
+			paper: colors.light.main
+		},
 		primary: {
 			...colors.light
 		},
@@ -36,7 +46,17 @@ const lightTheme = createMuiTheme({
 });
 
 const darkTheme = createMuiTheme({
+	typography: {
+		fontFamily: "victorian-orchid, serif",
+		button: {
+			textTransform: 'none'
+		}
+	},
 	palette: {
+		background: {
+			default: colors.dark.dark,
+			paper: colors.dark.main
+		},
 		primary: {
 			...colors.dark
 		},
@@ -59,7 +79,8 @@ ReactGA.initialize('UA-23730353-5', {
 });
 ReactGA.pageview(window.location.pathname + window.location.search);
 
-const ThemeWrapper: React.FC = (props) => {
+const ThemeWrapper: React.FC = (props) =>
+{
 	const preferences = useDataStore(PreferencesDataStore);
 
 	return (

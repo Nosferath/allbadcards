@@ -1,18 +1,18 @@
 import * as React from "react";
 import {useEffect} from "react";
-import {AppBar, Container, createStyles, Paper, styled, Typography, useMediaQuery} from "@material-ui/core";
+import {AppBar, Container, createStyles, styled, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
-import {UserDataStore} from "../Global/DataStore/UserDataStore";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
 import ReactGA from "react-ga";
 import classNames from "classnames";
 import Helmet from "react-helmet";
 import {ErrorBoundary} from "./ErrorBoundary";
-import {BrowserUtils} from "../Global/Utils/BrowserUtils";
+import {BrowserUtils} from "@Global/Utils/BrowserUtils";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {SiteRoutes} from "../Global/Routes/Routes";
+import {SiteRoutes} from "@Global/Routes/Routes";
 import {AppBarLeftButtons, AppBarRightButtons} from "./NavButtons";
 import {colors} from "../colors";
 import {AppBarGameButtons} from "./GameButtons";
@@ -44,7 +44,6 @@ const useStyles = makeStyles(theme => createStyles({
 }));
 
 const OuterContainer = styled(Container)({
-	background: colors.light.main,
 	minHeight: "100vh",
 	width: "100%",
 	padding: 0,
@@ -106,14 +105,12 @@ const App: React.FC = () =>
 						<AppBarRightButtons/>
 					</Toolbar>
 				</AppBar>
-				<Paper square style={{padding: "0 1rem 6rem"}}>
-					<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 0 0 0", minHeight: "100vh"}}>
-						<ErrorBoundary>
-							<Routes/>
-						</ErrorBoundary>
-					</Container>
-					<Footer/>
-				</Paper>
+				<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 1rem 6rem", minHeight: "100vh"}}>
+					<ErrorBoundary>
+						<Routes/>
+					</ErrorBoundary>
+				</Container>
+				<Footer/>
 			</OuterContainer>
 			<ErrorModal/>
 		</div>

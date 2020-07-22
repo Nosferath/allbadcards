@@ -7,7 +7,7 @@ class _GameListManager
 
 	constructor()
 	{
-		Database.initialize();
+		Database.initialize().then(() => console.log("DB init"));
 	}
 
 	private static get games()

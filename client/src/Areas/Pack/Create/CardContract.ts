@@ -5,5 +5,5 @@ export interface IEditableCard
 	value: string;
 	canEdit: boolean;
 	onEdit: (index: number, value: string) => void;
-	onRemove: (index: number) => void;
+	onRemove: (value: string) => void;
 }

@@ -127,7 +127,7 @@ export const SponsorList = () =>
 						<img src={"/become_a_patron_button.png"}/>
 					</a>
 				</div>
-			</div>`
+			</div>
 			<Grid className={classes.sponsors}>
 				<DiamondSponsor/>
 
@@ -140,7 +140,7 @@ export const SponsorList = () =>
 						<Card style={{maxWidth: "30rem", margin: "4rem auto 0"}} elevation={7}>
 							<CardMedia style={{paddingTop: "22.66667%"}} image={"/sponsors/shl.png"}/>
 							<CardContent>
-								<div style={{color: "#3090FF"}}>
+								<div>
 									senahugheslauer.com
 								</div>
 								<Typography>

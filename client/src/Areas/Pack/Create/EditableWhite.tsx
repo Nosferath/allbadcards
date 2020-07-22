@@ -42,7 +42,7 @@ export const EditableWhite: React.FC<IEditableCard> = React.memo((props) =>
 	return (
 		<Grid item xs={12} md={6}>
 			<WhiteCard className={classes.shortCard} actions={props.canEdit && (
-				<Button onClick={() => props.onRemove(props.index)} style={{color: "black"}}>Remove</Button>
+				<Button onClick={() => props.onRemove(props.value)} style={{color: "black"}}>Remove</Button>
 			)}>
 				<Chip size={"small"} label={`ID: ${props.index + 1}`} />
 				<TextField

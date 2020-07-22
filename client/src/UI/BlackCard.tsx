@@ -77,7 +77,7 @@ export const BlackCard: React.FC<Props> = (props) =>
 			onMouseEnter={onMouseEnter}
 			onMouseLeave={onMouseLeave}
 		>
-			<CardContent style={{flex: 1}}>
+			<CardContent style={{display: "flex", flexDirection: "column", flex: 1, justifyContent: "center"}}>
 				{pack && (
 					<Typography variant={"caption"} style={{color: "white", letterSpacing: "normal", opacity: 0.5, fontSize: "0.75em", overflow: "hidden", textOverflow: "ellipsis"}}>
 						<em>{pack.name}</em>

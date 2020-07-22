@@ -48,7 +48,7 @@ export interface IGameClientSettings
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
 	requireJoinApproval?: boolean;
-	ownerIsPermaczar: boolean;
+	ownerIsPermaczar?: boolean;
 }
 
 export interface GamesList extends WithBuildVersion

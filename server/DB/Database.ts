@@ -36,54 +36,64 @@ class _Database
 	{
 		if (this.initialized)
 		{
-			return;
+			return Promise.resolve(true);
 		}
 
-		this.initialized = true;
-
-		logMessage("Connecting to mongo");
-		MongoClient.connect(this.url, {
-			useNewUrlParser: true,
-			useUnifiedTopology: true,
-		}, async (err, client) =>
+		return new Promise<boolean>((resolve, reject) =>
 		{
-			logMessage("Mongo connection attempt finished");
-			if (err)
+
+			this.initialized = true;
+
+			logMessage("Connecting to mongo");
+			MongoClient.connect(this.url, {
+				useNewUrlParser: true,
+				useUnifiedTopology: true,
+			}, async (err, client) =>
 			{
-				logError(err);
-				throw err;
-			}
+				logMessage("Mongo connection attempt finished");
+				if (err)
+				{
+					logError(err);
 
-			this.initializeClient(client);
+					reject(err);
 
-			await this.collections.games.createIndex({
-				id: 1
-			}, {
-				unique: true
-			});
+					throw err;
+				}
 
-			await this.collections.games.createIndex({
-				["settings.public"]: 1,
-				dateCreated: -1,
-				dateUpdated: -1
-			});
+				this.initializeClient(client);
 
-			await this.collections.users.createIndex({
-				userId: 1
-			});
+				await this.collections.games.createIndex({
+					id: 1
+				}, {
+					unique: true
+				});
 
-			await this.collections.packs.createIndex({
-				["definition.pack.id"]: 1,
-				owner: 1,
-				categories: 1
-			});
+				await this.collections.games.createIndex({
+					["settings.public"]: 1,
+					dateCreated: -1,
+					dateUpdated: -1
+				});
 
-			await this.collections.packFavorites.createIndex({
-				packId: 1,
-				userId: 1
+				await this.collections.users.createIndex({
+					userId: 1
+				});
+
+				await this.collections.packs.createIndex({
+					["definition.pack.id"]: 1,
+					isBlocked: 1,
+					owner: 1,
+					categories: 1
+				});
+
+				await this.collections.packFavorites.createIndex({
+					packId: 1,
+					userId: 1
+				});
+
+				resolve(true);
 			});
 		});
-	}
+	};
 
 	private initializeClient(client: MongoClient)
 	{

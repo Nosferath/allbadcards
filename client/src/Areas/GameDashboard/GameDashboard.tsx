@@ -67,7 +67,7 @@ class GameDashboard extends React.Component<Props, State>
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>Family-friendly edition!</Typography>
 				)}
 
-				<img style={{width: "50%", margin: "2rem auto", maxWidth: "13rem"}} src={"/logo-large.png"}/>
+				<img style={{width: "50%", margin: "2rem auto", maxWidth: "13rem"}} src={"/logo-large.png?1"}/>
 
 				<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
 					<JoinNewButtons/>
@@ -87,15 +87,11 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
-								<strong>Updates - 6/14</strong>
-								<li>Moved not.allbad.cards to notallbad.cards</li>
-								<li>Updated color scheme</li>
-								<li>Added option to export card packs to JSON</li>
+								<strong>Updates - 7/21</strong>
+								<li>Rebrand! New visual design.</li>
 								<br/>
-								<strong>Updates - 6/7</strong>
-								<li>Removed some cards that were problematic. #BlackLivesMatter.</li>
-								<li>Added option to approve players joining games.</li>
-								<li>Added option to leave/rejoin if spectating</li>
+								<strong>Updates - 7/19</strong>
+								<li>Added option for owner to be the permanent card queen</li>
 								<br/>
 							</Typography>
 						</Grid>

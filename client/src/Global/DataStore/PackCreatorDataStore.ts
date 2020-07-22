@@ -145,10 +145,9 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		});
 	};
 
-	public removeBlackCard = (index: number) =>
+	public removeBlackCard = (value: string) =>
 	{
-		const newCards = [...this.state.blackCards];
-		newCards.splice(index, 1);
+		const newCards = [...this.state.blackCards].filter(c => c !== value);
 
 		this.update({
 			isEdited: true,
@@ -156,10 +155,9 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 		})
 	};
 
-	public removeWhiteCard = (index: number) =>
+	public removeWhiteCard = (value: string) =>
 	{
-		const newCards = [...this.state.whiteCards];
-		newCards.splice(index, 1);
+		const newCards = [...this.state.whiteCards].filter(c => c !== value);
 
 		this.update({
 			isEdited: true,
@@ -249,12 +247,15 @@ class _PackCreatorDataStore extends DataStore<PackCreatorDataStorePayload>
 				categories: this.state.categories
 			}).then(data =>
 			{
-				resolve(data);
-				this.update({
-					isEdited: false
-				});
+				if(data)
+				{
+					resolve(data);
+					this.update({
+						isEdited: false
+					});
 
-				this.hydrate(this.state.packId!);
+					this.hydrate(this.state.packId!);
+				}
 			})
 				.catch(e =>
 				{

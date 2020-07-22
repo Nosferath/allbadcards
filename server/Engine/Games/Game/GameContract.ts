@@ -47,7 +47,7 @@ export interface IGameSettings
 	roundTimeoutSeconds: number | null;
 	allowCustoms: boolean;
 	requireJoinApproval?: boolean;
-	ownerIsPermaczar: boolean;
+	ownerIsPermaczar?: boolean;
 }
 
 export interface GameItem extends ClientGameItem
@@ -150,6 +150,7 @@ export interface ICustomCardPack
 	isPublic: boolean;
 	categories: ValuesOf<typeof PackCategories>[];
 	favorites: number | undefined;
+	isBlocked?: boolean;
 }
 
 export interface IBlackCardDefinition

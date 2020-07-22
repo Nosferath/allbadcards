@@ -126,17 +126,17 @@ const Create = () =>
 		PackCreatorDataStore.save()
 			.then(pack =>
 			{
-				if (!params.id)
+				if (pack && !params.id)
 				{
 					history.push(SiteRoutes.PackCreate.resolve({
-						id: pack.definition.pack.id
+						id: pack?.definition?.pack?.id
 					}));
 				}
 			});
 	};
 
-	const filteredWhiteCards = packCreatorData.whiteCards.filter(c => c.match(filter));
-	const filteredBlackCards = packCreatorData.blackCards.filter(c => c.match(filter));
+	const filteredWhiteCards = packCreatorData.whiteCards.filter(c => c.toLowerCase().match(filter.toLowerCase()));
+	const filteredBlackCards = packCreatorData.blackCards.filter(c => c.toLowerCase().match(filter.toLowerCase()));
 
 	const whiteCardPage = getRenderedCards(filteredWhiteCards, whitePage);
 	const blackCardPage = getRenderedCards(filteredBlackCards, blackPage);

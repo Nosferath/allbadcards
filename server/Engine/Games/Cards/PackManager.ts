@@ -5,6 +5,7 @@ import {packInputToPackDef} from "../../../Utils/PackUtils";
 import {AuthCookie} from "../../Auth/AuthCookie";
 import {Request} from "express";
 import {FilterQuery} from "mongodb";
+import levenshtein from "js-levenshtein";
 
 class _PackManager
 {
@@ -12,6 +13,8 @@ class _PackManager
 
 	public packTypeDefinition: ICardTypes;
 	public packs: { [key: string]: ICardPackDefinition } = {};
+	public officialPackWhiteCards: string[] = [];
+	public officialPackBlackCards: string[] = [];
 
 	constructor()
 	{
@@ -22,13 +25,27 @@ class _PackManager
 	{
 		this.packTypeDefinition = loadFileAsJson<ICardTypes>("./server/data/types.json");
 
+		const officialPacks: { [key: string]: ICardPackDefinition } = {};
+
 		this.packTypeDefinition.types.forEach(type =>
 		{
 			type.packs.forEach(packForType =>
 			{
 				this.packs[packForType] = loadFileAsJson<ICardPackDefinition>(`./server/data/${type.id}/packs/${packForType}.json`);
+
+				if (type.id === "official")
+				{
+					officialPacks[packForType] = this.packs[packForType];
+				}
 			});
 		});
+
+		Object.values(officialPacks)
+			.forEach(pack =>
+			{
+				this.officialPackBlackCards.push(...pack.black.map(b => b.content));
+				this.officialPackWhiteCards.push(...pack.white);
+			});
 	}
 
 	public async getPack(packId: string)
@@ -82,12 +99,20 @@ class _PackManager
 		});
 	}
 
-	public async upsertPack(req: Request, packInput: ICustomPackDataInput)
+	public async upsertPack(req: Request | undefined, packInput: ICustomPackDataInput, force = false)
 	{
-		const storedUserData = AuthCookie.get(req);
-		if (!storedUserData || !storedUserData.userId)
+		if(!req && !force)
 		{
-			throw new Error("Not logged in!");
+			throw new Error("Must specify force=true if request is not provided");
+		}
+
+		const storedUserData = AuthCookie.get(req);
+		if (!force)
+		{
+			if (!storedUserData || !storedUserData.userId)
+			{
+				throw new Error("Not logged in!");
+			}
 		}
 
 		let existingPack: ICustomCardPack | null = null;
@@ -95,18 +120,26 @@ class _PackManager
 		{
 			existingPack = await this.getCustomPack(packInput.id);
 
-			if (existingPack && storedUserData.userId !== existingPack.owner)
+			if (!force)
 			{
-				throw new Error(`You don't have permission to update pack: ${existingPack.packId}`);
+				if (existingPack && storedUserData.userId !== existingPack.owner)
+				{
+					throw new Error(`You don't have permission to update pack: ${existingPack.packId}`);
+				}
 			}
 		}
 
 		const packDefFromInput = packInputToPackDef(packInput);
 
+		if (!force)
+		{
+			this.checkPackValidity(packDefFromInput);
+		}
+
 		const now = new Date();
 		const toSave: ICustomCardPack = {
 			packId: packDefFromInput.pack.id,
-			owner: storedUserData.userId,
+			owner: existingPack?.owner ?? storedUserData?.userId ?? "",
 			definition: packDefFromInput,
 			dateCreated: existingPack?.dateCreated ?? now,
 			dateUpdated: now,
@@ -125,6 +158,80 @@ class _PackManager
 		});
 
 		return toSave;
+	}
+
+	private checkPackValidity(packDef: ICardPackDefinition)
+	{
+		if(packDef.pack.name.match(/(cards|against|humanity|cah|party game|horrible people|concert)/gi))
+		{
+			throw new Error(`The pack name you chose may contain trademarked material. Please change it.`);
+		}
+
+		packDef.white.forEach((w1, w1i) =>
+		{
+			// If it's one or two words, we can ignore the test
+			const wordCount = w1.split(" ").length;
+			if(wordCount > 2)
+			{
+				this.officialPackWhiteCards.forEach(w2 =>
+				{
+					if (levenshtein(w2, w1) < w2.length / 4)
+					{
+						throw new Error(`Response with value "${w1}" (ID: ${w1i + 1}) cannot be saved as it contains copyrighted content.`)
+					}
+				});
+			}
+		});
+
+		packDef.black.forEach((b1, b1i) =>
+		{
+			this.officialPackBlackCards.forEach(b2 =>
+			{
+				if (levenshtein(b2, b1.content) < b2.length / 4)
+				{
+					throw new Error(`Prompt with value "${b1.content}" (ID: ${b1i + 1}) cannot be saved as it contains copyrighted content.`)
+				}
+			});
+		});
+	}
+
+	public async deletePack(req: Request | undefined, packId: string, force = false)
+	{
+		if(!req && !force)
+		{
+			throw new Error("Must specify force=true if request is not provided");
+		}
+
+		const storedUserData = AuthCookie.get(req);
+		if (!force)
+		{
+			if (!storedUserData || !storedUserData.userId)
+			{
+				throw new Error("Not logged in!");
+			}
+		}
+
+		let existingPack: ICustomCardPack | null = null;
+		if (packId)
+		{
+			existingPack = await this.getCustomPack(packId);
+
+			if (!force)
+			{
+				if (existingPack && storedUserData.userId !== existingPack.owner)
+				{
+					throw new Error(`You don't have permission to update pack: ${existingPack.packId}`);
+				}
+			}
+		}
+
+		await Database.collections.packs.deleteOne({
+			packId
+		});
+
+		return {
+			success: true
+		};
 	}
 
 	public async getPacks(req: Request, query: FilterQuery<ICustomCardPack>, sort: string = "newest", zeroBasedPage: number = 0, fetchAll = false): Promise<ICustomPackSearchResult>
@@ -206,7 +313,8 @@ class _PackManager
 		return await this.getPacks(req, {
 			packId: {
 				$in: userFavorites.map(fav => fav.packId)
-			}
+			},
+			isBlocked: {$ne: true}
 		}, "favorites", undefined, true);
 	}
 
@@ -221,7 +329,8 @@ class _PackManager
 		}
 
 		return this.getPacks(req, {
-			owner
+			owner,
+			isBlocked: {$ne: true}
 		});
 	}
 

@@ -26,9 +26,9 @@ export class AuthCookie
 		});
 	}
 
-	public static get(req: Request)
+	public static get(req?: Request)
 	{
-		const authCookie = req.cookies[AuthCookie.AuthCookieName];
+		const authCookie = req?.cookies[AuthCookie.AuthCookieName];
 		if (authCookie)
 		{
 			return AuthCookie.decodeUserInfo(authCookie);
