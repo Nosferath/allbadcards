@@ -858,7 +858,7 @@ class _GameManager
 				usedWhiteCards[newCard.packId] = usedWhiteCards[newCard.packId] ?? {};
 				usedWhiteCards[newCard.packId][newCard.cardIndex] = newCard;
 
-				cards.push(newCard);
+				cards.unshift(newCard);
 			}
 
 			newGame.players[playerGuid].whiteCards = cards;
