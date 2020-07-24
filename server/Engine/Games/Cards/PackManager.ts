@@ -162,7 +162,7 @@ class _PackManager
 
 	private checkPackValidity(packDef: ICardPackDefinition)
 	{
-		if(packDef.pack.name.match(/(cards|against|humanity|cah|party game|horrible people|concert)/gi))
+		if(packDef.pack.name.match(/(cards against|against humanity|humanity|cah|party game|horrible people|concert)/gi))
 		{
 			throw new Error(`The pack name you chose may contain trademarked material. Please change it.`);
 		}

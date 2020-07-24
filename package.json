@@ -17,7 +17,8 @@
     "build:server": "node server/scripts/build.js -serverenv=prod",
     "build:server:beta": "node server/scripts/build.js -serverenv=beta",
     "build:server:local": "node server/scripts/build.js -serverenv=local",
-    "special:clean": "node -r ts-node/register --inspect=5001 --nolazy server/scripts/special/clean.ts --runInBand"
+    "special:clean": "node -r ts-node/register --inspect=5001 --nolazy server/scripts/special/clean.ts --runInBand",
+    "special:clean-titles": "node -r ts-node/register --inspect=5001 --nolazy server/scripts/special/clean-titles.ts --runInBand"
   },
   "author": "Jake Lauer",
   "license": "AGPL-3.0-only",

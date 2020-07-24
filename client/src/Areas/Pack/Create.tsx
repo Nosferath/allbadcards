@@ -19,6 +19,7 @@ import {EditableBlack} from "./Create/EditableBlack";
 import {CloseableDialog} from "@UI/CloseableDialog";
 import Helmet from "react-helmet";
 import {JsonExport} from "@Areas/Pack/Create/JsonExport";
+import {SquareLoader} from "react-spinners";
 
 const useStyles = makeStyles(theme => ({
 	divider: {
@@ -89,6 +90,7 @@ const Create = () =>
 	const [showMassBlackEdit, setShowMassBlackEdit] = useState(false);
 	const [showMassWhiteEdit, setShowMassWhiteEdit] = useState(false);
 	const [filter, realSetFilter] = useState("");
+	const [saveLoading, setSaveLoading] = useState(false);
 
 	const setFilter = (value: string) => {
 		realSetFilter(value);
@@ -123,9 +125,12 @@ const Create = () =>
 
 	const save = () =>
 	{
+		setSaveLoading(true);
+
 		PackCreatorDataStore.save()
 			.then(pack =>
 			{
+				setSaveLoading(false);
 				if (pack && !params.id)
 				{
 					history.push(SiteRoutes.PackCreate.resolve({
@@ -358,8 +363,8 @@ const Create = () =>
 								size={"large"}
 								color={"secondary"}
 								variant={"contained"}
-								startIcon={<FaSave/>}
-								disabled={!!validityMessage || !packCreatorData.isEdited}
+								startIcon={saveLoading ? <SquareLoader size={16}/> : <FaSave/>}
+								disabled={!!validityMessage || !packCreatorData.isEdited || saveLoading}
 								onClick={save}
 							>
 								Save
