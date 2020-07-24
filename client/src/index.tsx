@@ -20,7 +20,8 @@ const lightTheme = createMuiTheme({
 	typography: {
 		fontFamily: "victorian-orchid, serif",
 		button: {
-			textTransform: 'none'
+			textTransform: 'none',
+			color: colors.light.contrastText
 		}
 	},
 	palette: {
@@ -49,7 +50,7 @@ const darkTheme = createMuiTheme({
 	typography: {
 		fontFamily: "victorian-orchid, serif",
 		button: {
-			textTransform: 'none'
+			textTransform: 'none',
 		}
 	},
 	palette: {

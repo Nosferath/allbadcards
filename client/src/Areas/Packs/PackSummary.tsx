@@ -11,6 +11,7 @@ import {ErrorDataStore} from "@Global/DataStore/ErrorDataStore";
 import {colors} from "../../colors";
 import shuffle from "shuffle-array";
 import {CopyToClipboard} from "react-copy-to-clipboard";
+import {PreferencesDataStore} from "@Global/DataStore/PreferencesDataStore";
 
 interface IPackSummaryProps
 {
@@ -134,7 +135,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 			</CardMedia>
 			<CardHeader
 				title={
-					<Link to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})} style={{textDecoration: "none"}}>
+					<Link to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})} style={{textDecoration: "none", color: PreferencesDataStore.state.darkMode ? colors.dark.contrastText : colors.light.contrastText}}>
 						{definition.pack.name}
 					</Link>
 				}

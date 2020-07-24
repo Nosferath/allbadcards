@@ -14,10 +14,10 @@ export const colors = {
 		contrastText: "#231F20"
 	},
 	secondary: {
-		main: "#DFAE43",
-		light: "#eabf60",
-		dark: "#c09332",
+		main: "#d24e3e",
+		light: "#ee5645",
+		dark: "#AD4033",
 		text: "#F5EDD9",
-		contrastText: "#231F20"
+		contrastText: "#F5EDD9"
 	}
 } as const;
