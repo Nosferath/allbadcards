@@ -34,7 +34,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 				guid = shortid.generate();
 				const secret = UserUtils.generateSecret(guid);
 
-				const expires = new Date(Date.now() + (7 * 24 * 60 * 60 * 1000));
+				const expires = new Date(Date.now() + (999 * 365 * 24 * 60 * 60 * 1000));
 
 				res.cookie("secret", secret, {
 					httpOnly: true,

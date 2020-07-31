@@ -87,11 +87,13 @@ class GameDashboard extends React.Component<Props, State>
 					<Grid container>
 						<Grid item md={7} xs={12}>
 							<Typography>
+								<strong>Updates - 7/28</strong>
+								<li>Vastly improved saving time for custom packs</li>
+								<li>Potential fix for the issue kicking players mid-game</li>
+								<li>Fixed for some of the more common errors</li>
+								<br/>
 								<strong>Updates - 7/21</strong>
 								<li>Rebrand! New visual design.</li>
-								<br/>
-								<strong>Updates - 7/19</strong>
-								<li>Added option for owner to be the permanent card queen</li>
 								<br/>
 							</Typography>
 						</Grid>

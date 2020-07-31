@@ -1,6 +1,7 @@
 import {PackManager} from "../../Engine/Games/Cards/PackManager";
 import {Database} from "../../DB/Database";
 import {ICardPackDefinition} from "../../Engine/Games/Game/GameContract";
+import {getFirstLastLetter} from "../../Engine/Games/Cards/CardUtils";
 
 const levenshtein = require('fast-levenshtein');
 
@@ -112,13 +113,14 @@ const filterPackForValidity = (packDef: ICardPackDefinition): ICardPackDefinitio
 	newDef.white = packDef.white.filter((w1o, w1c) =>
 	{
 		const w1 = w1o.substr(0, 500);
+		const fl = getFirstLastLetter(w1);
 		let valid = true;
 
 		// If it's one or two words, we can ignore the test
 		const wordCount = w1.split(" ").length;
 		if(wordCount > 2)
 		{
-			for (const w2 of PackManager.officialPackWhiteCards)
+			for (const w2 of (PackManager.officialPackWhiteCards[fl] ?? []))
 			{
 				const l = levenshtein.get(w2, w1);
 				if (l < w2.length / 4)
@@ -136,7 +138,9 @@ const filterPackForValidity = (packDef: ICardPackDefinition): ICardPackDefinitio
 	newDef.black = packDef.black.filter((b1) =>
 	{
 		let valid = true;
-		for (const b2 of PackManager.officialPackBlackCards)
+		const fl = getFirstLastLetter(b1.content);
+
+		for (const b2 of (PackManager.officialPackBlackCards[fl] ?? []))
 		{
 			const l = levenshtein.get(b2, b1);
 			if (l < b2.length / 4)

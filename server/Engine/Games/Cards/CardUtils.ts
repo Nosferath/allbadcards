@@ -32,3 +32,10 @@ export const getCardPackMapCount = (map: CardPackMap) => {
 		return acc;
 	}, 0);
 };
+
+export const getFirstLastLetter = (content: string) => {
+	const letters = content.replace(/[^a-z0-9:]/gi, "");
+	const fl = letters[0] + letters.charAt(letters.length - 1);
+
+	return fl.toLowerCase();
+};

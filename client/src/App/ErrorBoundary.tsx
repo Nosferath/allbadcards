@@ -43,6 +43,11 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 
 	public componentDidCatch(error: Error, errorInfo: React.ErrorInfo)
 	{
+		if (error.message.includes("insertBefore"))
+		{
+			return;
+		}
+
 		this.setState({hasError: true, error, errorInfo});
 
 		console.error(error, errorInfo);

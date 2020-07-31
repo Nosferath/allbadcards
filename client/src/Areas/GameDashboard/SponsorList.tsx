@@ -175,8 +175,8 @@ export const DiamondSponsor = () =>
 				<Divider style={{marginBottom: "1rem"}}/>
 				<Typography variant={"h5"}>This Month's Diamond Sponsor</Typography>
 				<Sponsor sponsor={{
-					src: "/sponsors/cardsblanks.png",
-					url: "https://amazon.com/dp/B0888VMQK5",
+					src: "/sponsors/talkingout.png",
+					url: "https://talkingouturanus.com?source=abc",
 					byline: ""
 				}} isDiamondSponsor={true}/>
 				<Divider/>

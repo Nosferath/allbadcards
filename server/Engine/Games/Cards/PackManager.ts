@@ -6,6 +6,7 @@ import {AuthCookie} from "../../Auth/AuthCookie";
 import {Request} from "express";
 import {FilterQuery} from "mongodb";
 import levenshtein from "js-levenshtein";
+import {getFirstLastLetter} from "./CardUtils";
 
 class _PackManager
 {
@@ -13,8 +14,8 @@ class _PackManager
 
 	public packTypeDefinition: ICardTypes;
 	public packs: { [key: string]: ICardPackDefinition } = {};
-	public officialPackWhiteCards: string[] = [];
-	public officialPackBlackCards: string[] = [];
+	public officialPackWhiteCards: { [firstlast: string]: string[] } = {};
+	public officialPackBlackCards: { [firstlast: string]: string[] } = {};
 
 	constructor()
 	{
@@ -43,8 +44,25 @@ class _PackManager
 		Object.values(officialPacks)
 			.forEach(pack =>
 			{
-				this.officialPackBlackCards.push(...pack.black.map(b => b.content));
-				this.officialPackWhiteCards.push(...pack.white);
+				pack.black.forEach(bc => {
+					const fl = getFirstLastLetter(bc.content);
+					if(!this.officialPackBlackCards[fl])
+					{
+						this.officialPackBlackCards[fl] = [];
+					}
+
+					this.officialPackBlackCards[fl].push(bc.content);
+				});
+
+				pack.white.forEach(wc => {
+					const fl = getFirstLastLetter(wc);
+					if(!this.officialPackWhiteCards[fl])
+					{
+						this.officialPackWhiteCards[fl] = [];
+					}
+
+					this.officialPackWhiteCards[fl].push(wc);
+				});
 			});
 	}
 
@@ -101,7 +119,7 @@ class _PackManager
 
 	public async upsertPack(req: Request | undefined, packInput: ICustomPackDataInput, force = false)
 	{
-		if(!req && !force)
+		if (!req && !force)
 		{
 			throw new Error("Must specify force=true if request is not provided");
 		}
@@ -162,7 +180,7 @@ class _PackManager
 
 	private checkPackValidity(packDef: ICardPackDefinition)
 	{
-		if(packDef.pack.name.match(/(cards against|against humanity|humanity|cah|party game|horrible people|concert)/gi))
+		if (packDef.pack.name.match(/(cards against|against humanity|humanity|cah|party game|horrible people|concert)/gi))
 		{
 			throw new Error(`The pack name you chose may contain trademarked material. Please change it.`);
 		}
@@ -171,9 +189,12 @@ class _PackManager
 		{
 			// If it's one or two words, we can ignore the test
 			const wordCount = w1.split(" ").length;
-			if(wordCount > 2)
+			if (wordCount > 2)
 			{
-				this.officialPackWhiteCards.forEach(w2 =>
+				const fl = getFirstLastLetter(w1);
+				const matchingCards = this.officialPackWhiteCards[fl] ?? [];
+
+				matchingCards.forEach(w2 =>
 				{
 					if (levenshtein(w2, w1) < w2.length / 4)
 					{
@@ -185,7 +206,10 @@ class _PackManager
 
 		packDef.black.forEach((b1, b1i) =>
 		{
-			this.officialPackBlackCards.forEach(b2 =>
+			const fl = getFirstLastLetter(b1.content);
+			const matchingCards = this.officialPackBlackCards[fl] ?? [];
+
+			matchingCards.forEach(b2 =>
 			{
 				if (levenshtein(b2, b1.content) < b2.length / 4)
 				{
@@ -197,7 +221,7 @@ class _PackManager
 
 	public async deletePack(req: Request | undefined, packId: string, force = false)
 	{
-		if(!req && !force)
+		if (!req && !force)
 		{
 			throw new Error("Must specify force=true if request is not provided");
 		}
