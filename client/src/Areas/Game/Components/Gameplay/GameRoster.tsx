@@ -19,6 +19,8 @@ import {useDataStore} from "@Global/Utils/HookUtils";
 import {SocketDataStore} from "@Global/DataStore/SocketDataStore";
 import {UserFlair} from "../Users/UserFlair";
 import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
+import {LoadingButton} from "@UI/LoadingButton";
+import {MdAdd} from "react-icons/all";
 
 const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
@@ -41,6 +43,7 @@ export const GameRoster = () =>
 	const gameData = useDataStore(GameDataStore);
 	const userData = useDataStore(UserDataStore);
 	const [kickCandidate, setKickCandidate] = useState<string | null>(null);
+	const [randomPlayerLoading, setRandomPlayerLoading] = useState(false);
 
 	if (!gameData.game || !gameData.loaded || !socketData.hasConnection)
 	{
@@ -65,6 +68,13 @@ export const GameRoster = () =>
 		}
 	};
 
+	const onClickAddRandom = () =>
+	{
+		setRandomPlayerLoading(true);
+		GameDataStore.addRandomPlayer(userData.playerGuid)
+			.finally(() => setRandomPlayerLoading(false));
+	};
+
 	const playerGuids = Object.keys({...game.players, ...game.pendingPlayers});
 	const sortedPlayerGuids = [...playerGuids].sort((a, b) =>
 		(getGamePlayer(game, b)?.wins ?? 0) - (getGamePlayer(game, a)?.wins ?? 0));
@@ -72,6 +82,10 @@ export const GameRoster = () =>
 
 	const isOwner = gameData.game?.ownerGuid === userData.playerGuid;
 	const playerCount = playerGuids.length;
+
+	const players = gameData.game?.players ?? {};
+	const randomPlayers = playerGuids.filter(pg => players[pg]?.isRandom) ?? [];
+	const canAddRandom = randomPlayers.length < 10;
 
 	return (
 		<div style={{width: "75vw", maxWidth: 500}}>
@@ -103,11 +117,31 @@ export const GameRoster = () =>
 				})}
 			</List>
 
+			<Tooltip placement={"top"} arrow title={"A fake player! If he wins, everyone else feels shame. Add up to 10."}>
+				<span>
+					<LoadingButton
+						loading={randomPlayerLoading}
+						startIcon={<MdAdd/>}
+						variant={"contained"}
+						color={"secondary"}
+						onClick={onClickAddRandom}
+						style={{marginBottom: "1rem"}}
+						disabled={!canAddRandom}>
+						AI Player
+					</LoadingButton>
+				</span>
+			</Tooltip>
+
 			<Typography style={{margin: "1rem 0 0"}} variant={"h6"}>
 				Spectators
 			</Typography>
 
 			<List>
+				{spectatorGuids.length === 0 && (
+					<ListItem>
+						<ListItemText>[No Spectators]</ListItemText>
+					</ListItem>
+				)}
 				{spectatorGuids.map(pg =>
 				{
 					const player = getGamePlayer(game, pg);
@@ -130,7 +164,6 @@ export const GameRoster = () =>
 					)
 				})}
 			</List>
-
 			<Dialog open={!!kickCandidate} onClose={() => setKickCandidate(null)}>
 				<DialogTitle>Confirm</DialogTitle>
 				{!!kickCandidate && (

@@ -5,7 +5,6 @@ import {CardManager} from "../Cards/CardManager";
 import * as http from "http";
 import {Config} from "../../../../config/config";
 import {ArrayUtils} from "../../../Utils/ArrayUtils";
-import {RandomPlayerNicknames} from "./RandomPlayers";
 import {logError, logMessage} from "../../../logger";
 import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer, PlayerMap} from "./GameContract";
 import deepEqual from "deep-equal";
@@ -20,6 +19,7 @@ import {AuthCookie} from "../../Auth/AuthCookie";
 import {IAuthContext} from "../../Auth/UserContract";
 import {Request} from "express";
 import {Game} from "./Game";
+import {MakeName} from "./RandomPlayers";
 
 export let GameManager: _GameManager;
 
@@ -686,8 +686,7 @@ class _GameManager
 
 		let newGame = {...existingGame};
 
-		const used = Object.keys(newGame.players).map(pg => newGame.players[pg].nickname);
-		const [newNickname] = ArrayUtils.getRandomUnused(RandomPlayerNicknames, used);
+		const newNickname = MakeName();
 
 		const userId = shortid.generate();
 		const fakePlayer: IPlayer = {

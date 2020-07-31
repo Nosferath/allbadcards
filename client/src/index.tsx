@@ -42,6 +42,11 @@ const lightTheme = createMuiTheme({
 			secondaryAction: {
 				paddingRight: 84
 			}
+		},
+		MuiTooltip:{
+			tooltip: {
+				fontSize: "1rem"
+			}
 		}
 	}
 });
