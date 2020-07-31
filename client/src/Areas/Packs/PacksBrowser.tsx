@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react";
 import {Button, createStyles, Divider, FormControl, FormControlLabel, FormGroup, Grid, InputLabel, MenuItem, Select, Switch, TextField, Typography} from "@material-ui/core";
 import {Pagination} from "@material-ui/lab";
 import {Platform} from "../../Global/Platform/platform";
-import {ICustomPackSearchResult, PackCategories, PackSearchSort} from "../../Global/Platform/Contract";
+import {BackerType, ICustomPackSearchResult, PackCategories, PackSearchSort} from "../../Global/Platform/Contract";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {PackSummary} from "./PackSummary";
@@ -13,6 +13,7 @@ import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {Link} from "react-router-dom";
 import Helmet from "react-helmet";
+import {useHistory} from "react-router";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -60,9 +61,12 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | undefined>(undefined);
 	const [sort, setSort] = useState<PackSearchSort>("favorites");
 	const authData = useDataStore(AuthDataStore);
+	const isCreator = authData.levels?.includes(BackerType.Owner);
 	const envData = useDataStore(EnvDataStore);
 	const [searchText, setSearchText] = useState("");
 	const [searchNsfw, setSearchNsfw] = useState(!!envData.site.base);
+	const history = useHistory();
+
 	useEffect(() =>
 	{
 		searchPacks(0);
@@ -74,12 +78,14 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 
 		searchTimer = window.setTimeout(() =>
 		{
-			Platform.searchPacks({
+			const input = {
 				nsfw: searchNsfw,
 				category: searchCategory ?? undefined,
 				search: searchText,
 				sort
-			}, page)
+			};
+
+			Platform.searchPacks(input, page)
 				.then(data =>
 				{
 					setSearchedPacks(data.result);
@@ -211,6 +217,7 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 					return (
 						<Grid item xs={12} sm={6} md={4} lg={3}>
 							<PackSummary
+								isAdmin={isCreator}
 								authed={authData.authorized}
 								canEdit={pack.owner === authData.userId}
 								pack={pack}

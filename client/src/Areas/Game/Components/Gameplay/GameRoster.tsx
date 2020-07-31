@@ -117,7 +117,8 @@ export const GameRoster = () =>
 				})}
 			</List>
 
-			<Tooltip placement={"top"} arrow title={"A fake player! If he wins, everyone else feels shame. Add up to 10."}>
+			{isOwner && (
+				<Tooltip placement={"top"} arrow title={"A fake player! If he wins, everyone else feels shame. Add up to 10."}>
 				<span>
 					<LoadingButton
 						loading={randomPlayerLoading}
@@ -130,7 +131,8 @@ export const GameRoster = () =>
 						AI Player
 					</LoadingButton>
 				</span>
-			</Tooltip>
+				</Tooltip>
+			)}
 
 			<Typography style={{margin: "1rem 0 0"}} variant={"h6"}>
 				Spectators
@@ -202,7 +204,7 @@ const RosterPlayer: React.FC<RosterPlayer> = (
 {
 	const classes = useStyles();
 	const game = gameData.game;
-	if(!game)
+	if (!game)
 	{
 		return null;
 	}

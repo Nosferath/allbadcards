@@ -157,4 +157,18 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 			onExpressError(res, error, req.url, req.query, req.body);
 		}
 	});
+
+	app.post("/api/packs/delete", async (req, res) => {
+
+		logRequest(req);
+		try
+		{
+			const pack = await PackManager.deletePack(req, req.body.packId);
+			sendWithBuildVersion(pack, res);
+		}
+		catch (error)
+		{
+			onExpressError(res, error, req.url, req.query, req.body);
+		}
+	});
 };

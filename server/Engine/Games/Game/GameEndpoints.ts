@@ -2,7 +2,6 @@ import {Express} from "express";
 import {GameManager} from "./GameManager";
 import {CardManager} from "../Cards/CardManager";
 import apicache from "apicache";
-import {ICardPackSummary} from "./GameContract";
 import {UserUtils} from "../../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
@@ -110,40 +109,8 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 	{
 		try
 		{
-			let packIds: string[];
-			const which = req.query.type;
-			switch (which)
-			{
-				case "all":
-					packIds = PackManager.packTypeDefinition.types.reduce((acc, type) =>
-					{
-						acc.push(...type.packs);
-						return acc;
-					}, [] as string[]);
-					break;
-				case "official":
-					packIds = PackManager.packTypeDefinition.types[0].packs;
-					break;
-				case "thirdParty":
-					packIds = PackManager.packTypeDefinition.types[1].packs;
-					break;
-				case "family":
-					packIds = ["family_edition"];
-					break;
-				default:
-					throw new Error("No pack type " + which + " exists!");
-			}
+			const packs = await PackManager.getPackNames(req.query.type);
 
-			const packs = packIds.map(packId =>
-			{
-				const packDef = PackManager.packs[packId];
-				return {
-					name: packDef.pack.name,
-					quantity: packDef.quantity,
-					isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
-					packId
-				} as ICardPackSummary
-			});
 			res.send(packs);
 		}
 		catch (error)

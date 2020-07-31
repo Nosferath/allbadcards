@@ -7,6 +7,7 @@ import {Request} from "express";
 import {FilterQuery} from "mongodb";
 import levenshtein from "js-levenshtein";
 import {getFirstLastLetter} from "./CardUtils";
+import {BackerType} from "../../../../client/src/Global/Platform/Contract";
 
 class _PackManager
 {
@@ -19,10 +20,9 @@ class _PackManager
 
 	constructor()
 	{
-		this.initialize();
 	}
 
-	private initialize()
+	public initialize()
 	{
 		this.packTypeDefinition = loadFileAsJson<ICardTypes>("./server/data/types.json");
 
@@ -41,12 +41,22 @@ class _PackManager
 			});
 		});
 
+		this.getApprovedCustomPacks().forEach(async (pack) =>
+		{
+			const customPack = await this.getCustomPack(pack.packId);
+			if (customPack)
+			{
+				this.packs[pack.packId] = customPack.definition;
+			}
+		});
+
 		Object.values(officialPacks)
 			.forEach(pack =>
 			{
-				pack.black.forEach(bc => {
+				pack.black.forEach(bc =>
+				{
 					const fl = getFirstLastLetter(bc.content);
-					if(!this.officialPackBlackCards[fl])
+					if (!this.officialPackBlackCards[fl])
 					{
 						this.officialPackBlackCards[fl] = [];
 					}
@@ -54,9 +64,10 @@ class _PackManager
 					this.officialPackBlackCards[fl].push(bc.content);
 				});
 
-				pack.white.forEach(wc => {
+				pack.white.forEach(wc =>
+				{
 					const fl = getFirstLastLetter(wc);
-					if(!this.officialPackWhiteCards[fl])
+					if (!this.officialPackWhiteCards[fl])
 					{
 						this.officialPackWhiteCards[fl] = [];
 					}
@@ -240,9 +251,9 @@ class _PackManager
 		{
 			existingPack = await this.getCustomPack(packId);
 
-			if (!force)
+			if (!force && !storedUserData.levels.includes(BackerType.Owner))
 			{
-				if (existingPack && storedUserData.userId !== existingPack.owner)
+				if (existingPack && (storedUserData.userId !== existingPack.owner))
 				{
 					throw new Error(`You don't have permission to update pack: ${existingPack.packId}`);
 				}
@@ -424,7 +435,7 @@ class _PackManager
 		return;
 	}
 
-	public getPackNames(which: "all" | "official" | "thirdParty" | "family" = "all")
+	public async getPackNames(which: "all" | "official" | "thirdParty" | "family" = "all")
 	{
 		let packIds: string[];
 		switch (which)
@@ -437,45 +448,74 @@ class _PackManager
 				}, [] as string[]);
 				break;
 			case "official":
-				packIds = PackManager.packTypeDefinition.types[0].packs;
+				packIds = [...PackManager.packTypeDefinition.types[0].packs];
 				break;
 			case "thirdParty":
-				packIds = PackManager.packTypeDefinition.types[1].packs;
+				packIds = [...PackManager.packTypeDefinition.types[1].packs];
+				packIds.unshift(...PackManager.getApprovedCustomPacks().map(c => c.packId));
 				break;
 			case "family":
-				packIds = ["family_edition"];
+				packIds = ["family_edition", "DcaImc6UC"];
 				break;
 			default:
 				throw new Error("No pack type " + which + " exists!");
 		}
 
-		const packs = packIds.map(packId =>
-		{
-			const packDef = PackManager.packs[packId];
-			return {
-				name: packDef.pack.name,
-				quantity: packDef.quantity,
-				isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
-				packId
-			} as ICardPackSummary
-		});
+		const packs = await Promise.all(
+			packIds.map(packId =>
+			{
+				return new Promise<ICardPackSummary>(async (resolve) =>
+				{
+					const packDef = PackManager.packs[packId] ?? await this.getCustomPack(packId);
+
+					resolve({
+						name: packDef.pack.name,
+						quantity: packDef.quantity,
+						isOfficial: PackManager.packTypeDefinition.types[0].packs.includes(packId),
+						packId
+					} as ICardPackSummary);
+				});
+			})
+		);
 
 		return packs;
 	}
 
+	public getApprovedCustomPacks()
+	{
+		const customDefaults: ICardPackSummary[] = [
+			{
+				packId: "pPwmQe1ME",
+				isOfficial: false,
+				name: "All Bad Cards - Official Pack 1",
+				quantity: {
+					black: 50,
+					white: 197,
+					total: 247
+				}
+			},
+			{
+				packId: "DcaImc6UC",
+				isOfficial: false,
+				name: "All Bad Cards - Official Family Edition",
+				quantity: {
+					black: 38,
+					white: 179,
+					total: 38 + 179
+				}
+			}
+		];
+
+		return customDefaults;
+	}
+
 	public getDefaultPacks(packs: ICardPackSummary[])
 	{
-		const officialDefaults = packs.filter(a =>
-			!a.packId.match(/pax|conversion|gencon|mass_effect|midterm|house_of_cards|jack_white|hawaii|desert_bus|reject|geek/gi)
-			&& a.isOfficial
-		);
-
 		const thirdPartyDefaults = packs.filter(a =>
-			!a.isOfficial
-			&& !a.packId.match(/toronto|knit|colorado|kentucky|texas|hombres|corps|insanity/gi)
+			!a.packId.match(/toronto|knit|colorado|kentucky|texas|hombres|corps|insanity/gi)
 		);
 
-		return [...officialDefaults, ...thirdPartyDefaults].map(p => p.packId);
+		return [...thirdPartyDefaults].map(p => p.packId);
 	}
 }
 

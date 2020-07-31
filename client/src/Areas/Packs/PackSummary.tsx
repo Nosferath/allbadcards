@@ -20,6 +20,7 @@ interface IPackSummaryProps
 	authed: boolean;
 	favorited: boolean;
 	canEdit: boolean;
+	isAdmin: boolean;
 }
 
 const useStyles = makeStyles(theme => ({
@@ -115,6 +116,16 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 		setTimeout(() => setCopied(false), 3000);
 	};
 
+	const onDelete = () => {
+		const approved = window.confirm("Are you sure you want to delete this pack?");
+		if(approved)
+		{
+			Platform.deletePack(definition.pack.id)
+				.then(() => window.alert("Deleted!"))
+				.catch(ErrorDataStore.add);
+		}
+	};
+
 	return (
 		<Card elevation={5} style={{height: "100%"}}>
 			<CardMedia onClick={onClick}>
@@ -165,6 +176,14 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 				>
 					{props.canEdit ? "Edit" : "View Details"}
 				</Button>
+				{props.isAdmin && (
+					<Button
+						onClick={onDelete}
+						color={"secondary"}
+					>
+						Delete
+					</Button>
+				)}
 			</CardActions>
 		</Card>
 	);

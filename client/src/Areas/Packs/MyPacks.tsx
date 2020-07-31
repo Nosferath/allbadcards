@@ -84,6 +84,7 @@ const MyPacks = () =>
 				{myPacks?.packs?.map(pack => (
 					<Grid item xs={12} sm={6} md={4} lg={3}>
 						<PackSummary
+							isAdmin={true}
 							authed={authData.authorized}
 							canEdit={pack.owner === authData.userId}
 							pack={pack}

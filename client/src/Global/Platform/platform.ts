@@ -339,6 +339,13 @@ class _Platform
 			approved
 		});
 	}
+
+	public deletePack(packId: string)
+	{
+		return Fetcher.doPost("/api/packs/delete", {
+			packId
+		});
+	}
 }
 
 export const Platform = _Platform.Instance;

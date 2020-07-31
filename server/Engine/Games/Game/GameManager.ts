@@ -46,6 +46,8 @@ class _GameManager
 				this.gameSockets = new GameSockets(server, wsPort);
 
 				this.initializeRedis();
+
+				PackManager.initialize();
 			});
 	}
 
@@ -135,7 +137,7 @@ class _GameManager
 		const gameId = hri.random();
 
 		const isFamilyMode = req.body.isFamily;
-		const packNames = PackManager.getPackNames(isFamilyMode ? "family" : "thirdParty");
+		const packNames = await PackManager.getPackNames(isFamilyMode ? "family" : "thirdParty");
 		const defaultPacks = PackManager.getDefaultPacks(packNames);
 		const myFaves = await PackManager.getMyFavoritePacks(req);
 		const includedCustomPackIds = myFaves.packs

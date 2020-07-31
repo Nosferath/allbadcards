@@ -14,6 +14,7 @@ class _Database
 	private _client: MongoClient;
 	private url: string;
 	private initialized = false;
+	private initializationPromise: Promise<boolean> | undefined;
 
 	constructor()
 	{
@@ -39,11 +40,13 @@ class _Database
 			return Promise.resolve(true);
 		}
 
-		return new Promise<boolean>((resolve, reject) =>
+		if(this.initializationPromise)
 		{
+			return this.initializationPromise;
+		}
 
-			this.initialized = true;
-
+		this.initializationPromise = new Promise<boolean>((resolve, reject) =>
+		{
 			logMessage("Connecting to mongo");
 			MongoClient.connect(this.url, {
 				useNewUrlParser: true,
@@ -90,9 +93,13 @@ class _Database
 					userId: 1
 				});
 
+				this.initialized = true;
+				this.initializationPromise = undefined;
 				resolve(true);
 			});
 		});
+
+		return this.initializationPromise;
 	};
 
 	private initializeClient(client: MongoClient)

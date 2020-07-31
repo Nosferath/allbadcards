@@ -44,7 +44,7 @@ export class Game
 			return acc;
 		}, 0);
 
-		const minSuggestedRoundsToWin = Math.ceil(32 / playerGuids.length);
+		const minSuggestedRoundsToWin = Math.ceil(40 / playerGuids.length);
 		const suggestedRoundsToWin = Math.max(
 			minSuggestedRoundsToWin,
 			modifySuggestedRounds
