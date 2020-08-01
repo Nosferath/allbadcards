@@ -9,7 +9,7 @@ import {EnvDataStore} from "../Global/DataStore/EnvDataStore";
 import {useDataStore} from "../Global/Utils/HookUtils";
 import {AuthDataStore} from "../Global/DataStore/AuthDataStore";
 import {useHistory} from "react-router";
-import {CloseableDialog} from "../UI/CloseableDialog";
+import {CloseableDialog} from "@UI/AllBadCards/CloseableDialog";
 import {getPatreonUrl} from "../Global/Utils/UserUtils";
 
 const useStyles = makeStyles(theme => createStyles({

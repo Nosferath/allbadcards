@@ -4,12 +4,12 @@ import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
 import {default as React, useState} from "react";
 import {Button, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, Tooltip} from "@material-ui/core";
 import {FaClipboardList, IoMdVolumeHigh, IoMdVolumeOff, MdSettings} from "react-icons/all";
-import {GameRoster} from "../Areas/Game/Components/Gameplay/GameRoster";
-import {GameSettings} from "@Areas/Game/GameSettings";
+import {GameRoster} from "../Areas/AllBadCards/Game/Components/Gameplay/GameRoster";
+import {GameSettings} from "@Areas/AllBadCards/Game/GameSettings";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {GameDataStore} from "../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../Global/DataStore/UserDataStore";
-import {CloseableDialog} from "@UI/CloseableDialog";
+import {CloseableDialog} from "@UI/AllBadCards/CloseableDialog";
 
 const useStyles = makeStyles(theme => createStyles({
 	settingsButton: {

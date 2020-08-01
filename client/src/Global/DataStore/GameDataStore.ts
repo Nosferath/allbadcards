@@ -6,7 +6,7 @@ import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomC
 import {ErrorDataStore} from "./ErrorDataStore";
 import {BrowserUtils} from "../Utils/BrowserUtils";
 import {AudioUtils} from "../Utils/AudioUtils";
-import {gamesOwnedLsKey} from "../../Areas/GameDashboard/GameDashboard";
+import {gamesOwnedLsKey} from "../../Areas/AllBadCards/GameDashboard/GameDashboard";
 import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
