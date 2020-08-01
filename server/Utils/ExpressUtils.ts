@@ -1,9 +1,9 @@
 import {Request, Response} from "express";
 import {logError} from "../logger";
 import {Config} from "../../config/config";
-import {IPlayer} from "../Engine/Games/Game/GameContract";
-import {IAuthContext} from "../Engine/Auth/UserContract";
-import {AuthCookie} from "../Engine/Auth/AuthCookie";
+import {IPlayer} from "../AllBadCards/Engine/Games/Game/GameContract";
+import {IAuthContext} from "../Shared/Auth/UserContract";
+import {AuthCookie} from "../Shared/Auth/AuthCookie";
 
 export const onExpressError = (res: Response, error: Error, ...more: any[]) =>
 {

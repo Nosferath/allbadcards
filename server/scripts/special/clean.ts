@@ -1,7 +1,7 @@
-import {PackManager} from "../../Engine/Games/Cards/PackManager";
-import {Database} from "../../DB/Database";
-import {ICardPackDefinition} from "../../Engine/Games/Game/GameContract";
-import {getFirstLastLetter} from "../../Engine/Games/Cards/CardUtils";
+import {PackManager} from "../../AllBadCards/Engine/Games/Cards/PackManager";
+import {CardsDatabase} from "../../AllBadCards/Engine/Database/CardsDatabase";
+import {ICardPackDefinition} from "../../AllBadCards/Engine/Games/Game/GameContract";
+import {getFirstLastLetter} from "../../AllBadCards/Engine/Games/Cards/CardUtils";
 
 const levenshtein = require('fast-levenshtein');
 
@@ -11,7 +11,7 @@ This file exists to look through all packs and remove cards from them that are a
 
 const run = async () =>
 {
-	await Database.initialize();
+	await CardsDatabase.initialize();
 
 	const results = await filterAllPacks();
 
@@ -29,7 +29,7 @@ const onProcessed = (packId: string, result: string, total: number) =>
 
 const filterAllPacks = async () =>
 {
-	const allPacks = await Database.collections.packs.find().toArray();
+	const allPacks = await CardsDatabase.collections.packs.find().toArray();
 	const allPacksLength = allPacks.length;
 
 	let results: string[] = [];
@@ -82,7 +82,7 @@ const filterAllPacks = async () =>
 		{
 			try
 			{
-				await Database.collections.packs.deleteOne({
+				await CardsDatabase.collections.packs.deleteOne({
 					["definition.pack.id"]: pack.packId
 				})
 			}

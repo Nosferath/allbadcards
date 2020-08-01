@@ -1,4 +1,4 @@
-import {IBlackCardDefinition, ICardPackDefinition, ICustomPackDataInput} from "../Engine/Games/Game/GameContract";
+import {IBlackCardDefinition, ICardPackDefinition, ICustomPackDataInput} from "../AllBadCards/Engine/Games/Game/GameContract";
 import shortid from "shortid";
 
 export const packInputToPackDef = (packInput: ICustomPackDataInput) =>

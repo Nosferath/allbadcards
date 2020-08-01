@@ -1,4 +1,4 @@
-import {Database} from "../../../DB/Database";
+import {CardsDatabase} from "../../Database/CardsDatabase";
 import {GameItem} from "./GameContract";
 
 class _GameListManager
@@ -7,12 +7,12 @@ class _GameListManager
 
 	constructor()
 	{
-		Database.initialize().then(() => console.log("DB init"));
+		CardsDatabase.initialize().then(() => console.log("DB init"));
 	}
 
 	private static get games()
 	{
-		return Database.db.collection<GameItem>("games");
+		return CardsDatabase.db.collection<GameItem>("games");
 	}
 
 	public async getGames(zeroBasedPage: number)

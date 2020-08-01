@@ -5,20 +5,19 @@ import {Alert, AlertTitle, Pagination} from "@material-ui/lab";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {PackCreatorDataStore} from "@Global/DataStore/PackCreatorDataStore";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
-import {Confirmation} from "@UI/AllBadCards/Confirmation";
+import {Confirmation} from "@UI/Confirmation";
 import {FaSave} from "react-icons/all";
 import {useHistory, useParams} from "react-router";
 import {SiteRoutes} from "@Global/Routes/Routes";
 import {PackCategories} from "@Global/Platform/Contract";
-import {ValuesOf} from "../../../../../server/Engine/Games/Game/GameContract";
 import {BrowserUtils} from "@Global/Utils/BrowserUtils";
-import {ContainerProgress} from "@UI/AllBadCards/ContainerProgress";
+import {ContainerProgress} from "@UI/ContainerProgress";
 import {JsonUpload} from "./Create/JsonUpload";
 import {EditableWhite} from "./Create/EditableWhite";
 import {EditableBlack} from "./Create/EditableBlack";
-import {CloseableDialog} from "@UI/AllBadCards/CloseableDialog";
+import {CloseableDialog} from "@UI/CloseableDialog";
 import Helmet from "react-helmet";
-import {JsonExport} from "@Areas/AllBadCards/Pack/Create/JsonExport";
+import {JsonExport} from "@Areas/Pack/Create/JsonExport";
 import {SquareLoader} from "react-spinners";
 
 const useStyles = makeStyles(theme => ({

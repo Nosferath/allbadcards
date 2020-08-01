@@ -6,7 +6,7 @@ import {UserUtils} from "../../User/UserUtils";
 import shortid from "shortid";
 import {GameListManager} from "./GameListManager";
 import {PackManager} from "../Cards/PackManager";
-import {logRequest, onExpressError, playerFromReq, safeAuthedEndpoint, sendWithBuildVersion} from "../../../Utils/ExpressUtils";
+import {logRequest, onExpressError, playerFromReq, safeAuthedEndpoint, sendWithBuildVersion} from "../../../../Utils/ExpressUtils";
 import {UserManager} from "../../User/UserManager";
 
 const cache = apicache.middleware;

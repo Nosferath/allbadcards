@@ -1,6 +1,6 @@
-import {PackManager} from "../../Engine/Games/Cards/PackManager";
-import {Database} from "../../DB/Database";
-import {ICardPackDefinition} from "../../Engine/Games/Game/GameContract";
+import {PackManager} from "../../AllBadCards/Engine/Games/Cards/PackManager";
+import {CardsDatabase} from "../../AllBadCards/Engine/Database/CardsDatabase";
+import {ICardPackDefinition} from "../../AllBadCards/Engine/Games/Game/GameContract";
 import cloneDeep from "clone-deep";
 
 const levenshtein = require('fast-levenshtein');
@@ -11,7 +11,7 @@ const levenshtein = require('fast-levenshtein');
 
 const run = async () =>
 {
-	await Database.initialize();
+	await CardsDatabase.initialize();
 
 	const results = await filterAllPacks();
 
@@ -29,7 +29,7 @@ const onProcessed = (packId: string, oldName: string, newName: string) =>
 
 const filterAllPacks = async () =>
 {
-	const allPacks = await Database.collections.packs.find().toArray();
+	const allPacks = await CardsDatabase.collections.packs.find().toArray();
 
 	const sortedPacks = allPacks.sort((a, b) =>
 	{

@@ -1,5 +1,5 @@
 import {WithBuildVersion} from "./platform";
-import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
+import {ValuesOf} from "../../../../server/AllBadCards/Engine/Games/Game/GameContract";
 
 type valueof<T> = T[keyof T]
 

@@ -1,4 +1,4 @@
-import {ClientGameItem, GameItem} from "../Engine/Games/Game/GameContract";
+import {ClientGameItem, GameItem} from "../AllBadCards/Engine/Games/Game/GameContract";
 
 export const serverGameToClientGame = (game: GameItem): ClientGameItem =>
 {

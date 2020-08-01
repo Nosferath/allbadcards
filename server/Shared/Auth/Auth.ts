@@ -1,7 +1,7 @@
 import {Request, Response} from "express";
 import ClientOAuth2 from "client-oauth2";
 import {Config} from "../../../config/config";
-import {Database} from "../../DB/Database";
+import {CardsDatabase} from "../../AllBadCards/Engine/Database/CardsDatabase";
 import {loadFileAsJson} from "../../Utils/FileUtils";
 import {IAuthContext, Patron} from "./UserContract";
 import {PatreonConnector} from "./PatreonConnector";
@@ -120,7 +120,7 @@ class _Auth
 			authStatus.accessToken = storedUserData.accessToken;
 			authStatus.userId = storedUserData.userId;
 
-			const foundUsers = await Database.collections.users.find({
+			const foundUsers = await CardsDatabase.collections.users.find({
 				userId: storedUserData.userId
 			}).toArray();
 
@@ -207,7 +207,7 @@ class _Auth
 	private async updateDatabaseUser(userId: string, update: MatchKeysAndValues<Patron>, upsert = false)
 	{
 		// Refresh the current users access token.
-		return await Database.collections.users.updateOne({userId}, {
+		return await CardsDatabase.collections.users.updateOne({userId}, {
 			$set: update
 		}, {
 			upsert

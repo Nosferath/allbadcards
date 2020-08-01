@@ -1,13 +1,13 @@
 import {CardPack, GameItem, ICardPackDefinition, ICardPackSummary, ICardTypes, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, PackFavorites} from "../Game/GameContract";
-import {loadFileAsJson} from "../../../Utils/FileUtils";
-import {Database} from "../../../DB/Database";
-import {packInputToPackDef} from "../../../Utils/PackUtils";
-import {AuthCookie} from "../../Auth/AuthCookie";
+import {loadFileAsJson} from "../../../../Utils/FileUtils";
+import {CardsDatabase} from "../../Database/CardsDatabase";
+import {packInputToPackDef} from "../../../../Utils/PackUtils";
+import {AuthCookie} from "../../../../Shared/Auth/AuthCookie";
 import {Request} from "express";
 import {FilterQuery} from "mongodb";
 import levenshtein from "js-levenshtein";
 import {getFirstLastLetter} from "./CardUtils";
-import {BackerType} from "../../../../client/src/Global/Platform/Contract";
+import {BackerType} from "../../../../../client/src/Global/Platform/Contract";
 
 class _PackManager
 {
@@ -123,7 +123,7 @@ class _PackManager
 
 	public async getCustomPack(packId: string)
 	{
-		return await Database.collections.packs.findOne({
+		return await CardsDatabase.collections.packs.findOne({
 			["definition.pack.id"]: packId
 		});
 	}
@@ -178,7 +178,7 @@ class _PackManager
 			favorites: existingPack?.favorites ?? 0
 		};
 
-		await Database.collections.packs.updateOne({
+		await CardsDatabase.collections.packs.updateOne({
 			id: toSave.packId
 		}, {
 			$set: toSave
@@ -260,7 +260,7 @@ class _PackManager
 			}
 		}
 
-		await Database.collections.packs.deleteOne({
+		await CardsDatabase.collections.packs.deleteOne({
 			packId
 		});
 
@@ -271,7 +271,7 @@ class _PackManager
 
 	public async getPacks(req: Request, query: FilterQuery<ICustomCardPack>, sort: string = "newest", zeroBasedPage: number = 0, fetchAll = false): Promise<ICustomPackSearchResult>
 	{
-		let packsPromise = Database.collections.packs
+		let packsPromise = CardsDatabase.collections.packs
 			.find(query);
 
 		switch (sort)
@@ -308,7 +308,7 @@ class _PackManager
 		{
 			const packIds = packs.map(p => p.packId);
 
-			const favorites = await Database.collections.packFavorites.find({
+			const favorites = await CardsDatabase.collections.packFavorites.find({
 				userId: storedUserData.userId,
 				packId: {
 					$in: packIds
@@ -341,7 +341,7 @@ class _PackManager
 			};
 		}
 
-		const userFavorites = await Database.collections.packFavorites.find({
+		const userFavorites = await CardsDatabase.collections.packFavorites.find({
 			userId: storedUserData.userId
 		}).toArray();
 
@@ -377,7 +377,7 @@ class _PackManager
 			throw new Error("Not logged in!");
 		}
 
-		const result = await Database.collections.packFavorites
+		const result = await CardsDatabase.collections.packFavorites
 			.updateOne({
 				packId,
 				userId: storedUserData.userId
@@ -390,7 +390,7 @@ class _PackManager
 				upsert: true
 			});
 
-		const result2 = await Database.collections.packs.updateOne({
+		const result2 = await CardsDatabase.collections.packs.updateOne({
 			packId
 		}, {
 			$inc: {
@@ -414,12 +414,12 @@ class _PackManager
 			throw new Error("Not logged in!");
 		}
 
-		const result = await Database.collections.packFavorites.deleteOne({
+		const result = await CardsDatabase.collections.packFavorites.deleteOne({
 			packId,
 			userId: storedUserData.userId
 		});
 
-		await Database.collections.packs.updateOne({
+		await CardsDatabase.collections.packs.updateOne({
 			packId
 		}, {
 			$inc: {

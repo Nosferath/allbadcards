@@ -1,4 +1,4 @@
-import {Fetcher} from "../Fetcher";
+import {Fetcher} from "../../AllBadCards/Engine/Fetcher";
 
 export class _PatreonConnector
 {

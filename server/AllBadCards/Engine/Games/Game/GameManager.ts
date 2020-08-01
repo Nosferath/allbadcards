@@ -1,22 +1,22 @@
-import {Database} from "../../../DB/Database";
+import {CardsDatabase} from "../../Database/CardsDatabase";
 import shortid from "shortid";
 import {hri} from "allbadcards-human-readable-ids";
 import {CardManager} from "../Cards/CardManager";
 import * as http from "http";
-import {Config} from "../../../../config/config";
-import {ArrayUtils} from "../../../Utils/ArrayUtils";
-import {logError, logMessage} from "../../../logger";
+import {Config} from "../../../../../config/config";
+import {ArrayUtils} from "../../../../Utils/ArrayUtils";
+import {logError, logMessage} from "../../../../logger";
 import {CardId, CardPackMap, ChatPayload, GameItem, IGameSettings, IPlayer, PlayerMap} from "./GameContract";
 import deepEqual from "deep-equal";
 import {UserUtils} from "../../User/UserUtils";
 import {PackManager} from "../Cards/PackManager";
 import cloneDeep from "clone-deep";
 import {UserManager} from "../../User/UserManager";
-import {RedisConnector} from "../../Redis/RedisClient";
+import {RedisConnector} from "../../../../Shared/Redis/RedisClient";
 import {PlayerManager} from "../Players/PlayerManager";
 import {GameSockets} from "../../Sockets/GameSockets";
-import {AuthCookie} from "../../Auth/AuthCookie";
-import {IAuthContext} from "../../Auth/UserContract";
+import {AuthCookie} from "../../../../Shared/Auth/AuthCookie";
+import {IAuthContext} from "../../../../Shared/Auth/UserContract";
 import {Request} from "express";
 import {Game} from "./Game";
 import {MakeName} from "./RandomPlayers";
@@ -37,7 +37,7 @@ class _GameManager
 	{
 		logMessage("Starting WebSocket Server");
 
-		Database.initialize()
+		CardsDatabase.initialize()
 			.then(() =>
 			{
 				const wsPort = Config.Environment === "local"
@@ -53,7 +53,7 @@ class _GameManager
 
 	private static get games()
 	{
-		return Database.db.collection<GameItem>("games");
+		return CardsDatabase.db.collection<GameItem>("games");
 	}
 
 	public static create(server: http.Server)
@@ -104,7 +104,7 @@ class _GameManager
 
 		newGame.settings.suggestedRoundsToWin = Game.calculateSuggestedRoundsToWin(newGame, modifySuggestedRounds);
 
-		await Database.db.collection<GameItem>("games").updateOne({
+		await CardsDatabase.db.collection<GameItem>("games").updateOne({
 			id: newGame.id
 		}, {
 			$set: newGame

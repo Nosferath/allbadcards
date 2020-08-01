@@ -2,7 +2,7 @@ import {DataStore} from "./DataStore";
 import {Platform} from "../Platform/platform";
 import {ErrorDataStore} from "./ErrorDataStore";
 import {ICustomCardPack, PackCategories} from "../Platform/Contract";
-import {ValuesOf} from "../../../../server/Engine/Games/Game/GameContract";
+import {ValuesOf} from "../../../../server/AllBadCards/Engine/Games/Game/GameContract";
 
 export interface PackCreatorDataStorePayload
 {

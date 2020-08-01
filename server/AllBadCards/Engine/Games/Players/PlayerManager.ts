@@ -1,5 +1,5 @@
 import {GamePlayer} from "../Game/GameContract";
-import {IAuthContext} from "../../Auth/UserContract";
+import {IAuthContext} from "../../../../Shared/Auth/UserContract";
 
 class _PlayerManager
 {

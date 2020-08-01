@@ -1,13 +1,13 @@
-import {Config} from "../../../config/config";
+import {Config} from "../../../../config/config";
 import WebSocket from "ws";
 import * as http from "http";
 import {ChatPayload, GameItem, GamePayload} from "../Games/Game/GameContract";
-import {serverGameToClientGame} from "../../Utils/GameUtils";
+import {serverGameToClientGame} from "../../../Utils/GameUtils";
 import {GameMessage} from "./Messages/GameMessage";
-import {ArrayUtils} from "../../Utils/ArrayUtils";
+import {ArrayUtils} from "../../../Utils/ArrayUtils";
 import {ChatMessage} from "./Messages/ChatMessage";
 import {GameManager} from "../Games/Game/GameManager";
-import {logMessage} from "../../logger";
+import {logMessage} from "../../../logger";
 
 interface IWSMessage
 {

@@ -1,9 +1,9 @@
 import {IPlayer} from "../Games/Game/GameContract";
 import {UserUtils} from "./UserUtils";
 import {Request} from "express";
-import {Database} from "../../DB/Database";
-import {PatronSettings} from "../Auth/UserContract";
-import {AuthCookie} from "../Auth/AuthCookie";
+import {CardsDatabase} from "../Database/CardsDatabase";
+import {PatronSettings} from "../../../Shared/Auth/UserContract";
+import {AuthCookie} from "../../../Shared/Auth/AuthCookie";
 
 class _UserManager
 {
@@ -26,7 +26,7 @@ class _UserManager
 		if (storedUserData && storedUserData.accessToken)
 		{
 			// Refresh the current users access token.
-			await Database.collections.users.updateOne({id: storedUserData.userId, accessToken: storedUserData.accessToken}, {
+			await CardsDatabase.collections.users.updateOne({id: storedUserData.userId, accessToken: storedUserData.accessToken}, {
 				$set: {
 					settings: req.body as PatronSettings
 				}
@@ -39,7 +39,7 @@ class _UserManager
 		const storedUserData = AuthCookie.get(req);
 		if (storedUserData)
 		{
-			const foundUsers = await Database.collections.users.find({
+			const foundUsers = await CardsDatabase.collections.users.find({
 				id: storedUserData.userId
 			}).toArray();
 

@@ -1,5 +1,5 @@
 import {Express} from "express";
-import {logRequest, onExpressError, sendWithBuildVersion} from "../../../Utils/ExpressUtils";
+import {logRequest, onExpressError, sendWithBuildVersion} from "../../../../Utils/ExpressUtils";
 import {PackManager} from "./PackManager";
 import {FilterQuery} from "mongodb";
 import {ICustomCardPack} from "../Game/GameContract";

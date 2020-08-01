@@ -1,15 +1,15 @@
-import {RegisterAuthEndpoints} from "./Engine/Auth/AuthEndpoints";
+import {RegisterAuthEndpoints} from "./Shared/Auth/AuthEndpoints";
 import express from "express";
 import * as path from "path";
 import compression from "compression";
 import cookieParser from "cookie-parser";
 import serveStatic from "serve-static";
 import bodyParser from "body-parser";
-import {RegisterGameEndpoints} from "./Engine/Games/Game/GameEndpoints";
+import {RegisterGameEndpoints} from "./AllBadCards/Engine/Games/Game/GameEndpoints";
 import {Config} from "../config/config";
-import {CreateGameManager} from "./Engine/Games/Game/GameManager";
-import {Auth} from "./Engine/Auth/Auth";
-import {RegisterPackEndpoints} from "./Engine/Games/Cards/PackEndpoints";
+import {CreateGameManager} from "./AllBadCards/Engine/Games/Game/GameManager";
+import {Auth} from "./Shared/Auth/Auth";
+import {RegisterPackEndpoints} from "./AllBadCards/Engine/Games/Cards/PackEndpoints";
 import mongoSanitize from 'express-mongo-sanitize';
 
 require('dotenv').config();

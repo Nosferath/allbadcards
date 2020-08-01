@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import * as path from "path";
 import {ICardPackDefinition} from "../Game/GameContract";
-import {RedisConnector} from "../../Redis/RedisClient";
+import {RedisConnector} from "../../../../Shared/Redis/RedisClient";
 
 class _CardCastConnector
 {
