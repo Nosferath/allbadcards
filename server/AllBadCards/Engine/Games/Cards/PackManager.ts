@@ -7,7 +7,7 @@ import {Request} from "express";
 import {FilterQuery} from "mongodb";
 import levenshtein from "js-levenshtein";
 import {getFirstLastLetter} from "./CardUtils";
-import {BackerType} from "../../../../../client/src/Global/Platform/Contract";
+import {BackerType} from "../../../../../client/src/AllBadCards/Global/Platform/Contract";
 
 class _PackManager
 {
@@ -24,7 +24,7 @@ class _PackManager
 
 	public initialize()
 	{
-		this.packTypeDefinition = loadFileAsJson<ICardTypes>("./server/data/types.json");
+		this.packTypeDefinition = loadFileAsJson<ICardTypes>("./server/AllBadCards/data/types.json");
 
 		const officialPacks: { [key: string]: ICardPackDefinition } = {};
 
@@ -32,7 +32,7 @@ class _PackManager
 		{
 			type.packs.forEach(packForType =>
 			{
-				this.packs[packForType] = loadFileAsJson<ICardPackDefinition>(`./server/data/${type.id}/packs/${packForType}.json`);
+				this.packs[packForType] = loadFileAsJson<ICardPackDefinition>(`./server/AllBadCards/data/${type.id}/packs/${packForType}.json`);
 
 				if (type.id === "official")
 				{

@@ -13,7 +13,6 @@ const logger = winston.createLogger({
 	]
 });
 
-
 export const logMessage = (...input: any[]) =>
 {
 	logger.info(input);

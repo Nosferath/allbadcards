@@ -8,8 +8,8 @@ import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import {MuiThemeProvider} from "@material-ui/core";
 import ReactGA from "react-ga";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import {useDataStore} from "@Global/Utils/HookUtils";
-import {PreferencesDataStore} from "@Global/DataStore/PreferencesDataStore";
+import {useDataStore} from "./Shared/Global/Utils/HookUtils";
+import {PreferencesDataStore} from "./AllBadCards/Global/DataStore/PreferencesDataStore";
 import {colors} from "./colors";
 
 require('es6-promise').polyfill();

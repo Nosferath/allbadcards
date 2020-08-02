@@ -23,7 +23,7 @@ export interface GamePlayer
 	kickedForTimeout?: boolean;
 	isIdle?: boolean;
 	isApproved: boolean | null;
-}
+} 
 
 export interface CardId
 {

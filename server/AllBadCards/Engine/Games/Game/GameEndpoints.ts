@@ -13,7 +13,7 @@ const cache = apicache.middleware;
 
 export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 {
-	app.get("/api/user/register", async (req, res) =>
+	app.get("/api/abc/user/register", async (req, res) =>
 	{
 		try
 		{
@@ -55,7 +55,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/games/public", cache("15 seconds"), async (req, res) =>
+	app.get("/api/abc/games/public", cache("15 seconds"), async (req, res) =>
 	{
 		logRequest(req);
 
@@ -70,7 +70,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/game/get", async (req, res) =>
+	app.get("/api/abc/game/get", async (req, res) =>
 	{
 		logRequest(req);
 
@@ -85,7 +85,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/game/get-white-card", cache("1 hour"), async (req, res) =>
+	app.get("/api/abc/game/get-white-card", cache("1 hour"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -105,7 +105,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/game/get-packnames", cache("1 hour"), async (req, res) =>
+	app.get("/api/abc/game/get-packnames", cache("1 hour"), async (req, res) =>
 	{
 		try
 		{
@@ -119,7 +119,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/game/get-black-card", cache("1 hour"), async (req, res) =>
+	app.get("/api/abc/game/get-black-card", cache("1 hour"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -137,7 +137,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/create", async (req, res) =>
+	app.post("/api/abc/game/create", async (req, res) =>
 	{
 		await safeAuthedEndpoint(req, res, async (authContext) =>
 		{
@@ -149,7 +149,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		});
 	});
 
-	app.post("/api/game/join", async (req, res) =>
+	app.post("/api/abc/game/join", async (req, res) =>
 	{
 		await safeAuthedEndpoint(req, res, async (authContext) =>
 		{
@@ -166,7 +166,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		});
 	});
 
-	app.post("/api/game/kick", async (req, res) =>
+	app.post("/api/abc/game/kick", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -182,7 +182,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/player-approval", async (req, res) =>
+	app.post("/api/abc/game/player-approval", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -198,7 +198,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/start", async (req, res) =>
+	app.post("/api/abc/game/start", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -217,7 +217,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/update-settings", async (req, res) =>
+	app.post("/api/abc/game/update-settings", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -236,7 +236,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/restart", async (req, res) =>
+	app.post("/api/abc/game/restart", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -257,7 +257,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/play-cards", async (req, res) =>
+	app.post("/api/abc/game/play-cards", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -273,7 +273,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/forfeit", async (req, res) =>
+	app.post("/api/abc/game/forfeit", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -289,7 +289,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/reveal-next", async (req, res) =>
+	app.post("/api/abc/game/reveal-next", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -305,7 +305,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/skip-black", async (req, res) =>
+	app.post("/api/abc/game/skip-black", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -321,7 +321,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/start-round", async (req, res) =>
+	app.post("/api/abc/game/start-round", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -337,7 +337,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/add-random-player", async (req, res) =>
+	app.post("/api/abc/game/add-random-player", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -353,7 +353,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/select-winner-card", async (req, res) =>
+	app.post("/api/abc/game/select-winner-card", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -369,7 +369,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/send-chat", async (req, res) =>
+	app.post("/api/abc/game/send-chat", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -390,7 +390,7 @@ export const RegisterGameEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/game/next-round", async (req, res) =>
+	app.post("/api/abc/game/next-round", async (req, res) =>
 	{
 		logRequest(req);
 		try

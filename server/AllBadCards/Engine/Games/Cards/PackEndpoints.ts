@@ -10,7 +10,7 @@ const cache = apicache.middleware;
 
 export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 {
-	app.get("/api/pack/get", cache("5 minutes"), async (req, res) =>
+	app.get("/api/abc/pack/get", cache("5 minutes"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -28,7 +28,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/mine", async (req, res) =>
+	app.get("/api/abc/packs/mine", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -44,7 +44,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/myfaves", cache("5 seconds"), async (req, res) =>
+	app.get("/api/abc/packs/myfaves", cache("5 seconds"), async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -60,7 +60,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/cardcast-pack-export", cache("10 minutes"), async (req, res) =>
+	app.get("/api/abc/cardcast-pack-export", cache("10 minutes"), async (req, res) =>
 	{
 		try
 		{
@@ -75,7 +75,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.get("/api/packs/search", async (req, res) =>
+	app.get("/api/abc/packs/search", async (req, res) =>
 	{
 		logRequest(req);
 		try
@@ -116,7 +116,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/pack/update", async (req, res, next) =>
+	app.post("/api/abc/pack/update", async (req, res, next) =>
 	{
 		logRequest(req);
 		try
@@ -130,7 +130,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/pack/favorite", async (req, res, next) =>
+	app.post("/api/abc/pack/favorite", async (req, res, next) =>
 	{
 		logRequest(req);
 		try
@@ -144,7 +144,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/pack/unfavorite", async (req, res, next) =>
+	app.post("/api/abc/pack/unfavorite", async (req, res, next) =>
 	{
 		logRequest(req);
 		try
@@ -158,7 +158,7 @@ export const RegisterPackEndpoints = (app: Express, clientFolder: string) =>
 		}
 	});
 
-	app.post("/api/packs/delete", async (req, res) => {
+	app.post("/api/abc/packs/delete", async (req, res) => {
 
 		logRequest(req);
 		try

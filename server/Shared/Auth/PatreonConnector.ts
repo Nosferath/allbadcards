@@ -6,7 +6,7 @@ export class _PatreonConnector
 
 	public async fetchUser(accessToken: string)
 	{
-		return await Fetcher.doGet<any>("https://www.patreon.com/api/oauth2/api/current_user", {
+		return await Fetcher.doGet<any>("https://www.patreon.com/api/abc/oauth2/api/abc/current_user", {
 			headers: {
 				authorization: `Bearer ${accessToken}`
 			}

@@ -43,7 +43,7 @@ class _Auth
 		this.client = new ClientOAuth2({
 			clientId: this.id,
 			clientSecret: this.secret,
-			accessTokenUri: 'https://www.patreon.com/api/oauth2/token',
+			accessTokenUri: 'https://www.patreon.com/api/abc/oauth2/token',
 			authorizationUri: 'https://www.patreon.com/oauth2/authorize',
 			redirectUri: redirectUri,
 			scopes: ['notifications', 'gist']
