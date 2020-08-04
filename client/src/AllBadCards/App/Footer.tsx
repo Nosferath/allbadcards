@@ -1,13 +1,13 @@
 import {useHistory} from "react-router";
-import {useDataStore} from "../Shared/Global/Utils/HookUtils";
-import {ChatDataStore} from "../Shared/Global/DataStore/ChatDataStore";
+import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
+import {ChatDataStore} from "../../Shared/Global/DataStore/ChatDataStore";
 import {Button, ButtonGroup, Container, IconButton, Switch, Typography, useMediaQuery} from "@material-ui/core";
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
-import {DiamondSponsor} from "../AllBadCards/Areas/GameDashboard/SponsorList";
+import {DiamondSponsor} from "../Areas/GameDashboard/SponsorList";
 import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
 import * as React from "react";
-import {PreferencesDataStore} from "../AllBadCards/Global/DataStore/PreferencesDataStore";
+import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 
 export const Footer = () =>
 {

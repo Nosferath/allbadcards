@@ -2,15 +2,16 @@ import React from 'react';
 import "./base.scss";
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import App from "./App/App";
-import {BrowserRouter} from "react-router-dom";
+import AllBadCardsApp from "./AllBadCards/App/AllBadCardsApp";
+import {BrowserRouter, Route, Switch} from "react-router-dom";
 import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import {MuiThemeProvider} from "@material-ui/core";
 import ReactGA from "react-ga";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import {useDataStore} from "./Shared/Global/Utils/HookUtils";
 import {PreferencesDataStore} from "./AllBadCards/Global/DataStore/PreferencesDataStore";
-import {colors} from "./colors";
+import {abcColors} from "./colors";
+import {HoldEmGameDashboard} from "./HoldEm/Areas/GameDashboard/HoldEmGameDashboard";
 
 require('es6-promise').polyfill();
 const promiseFinally = require('promise.prototype.finally');
@@ -21,19 +22,19 @@ const lightTheme = createMuiTheme({
 		fontFamily: "victorian-orchid, serif",
 		button: {
 			textTransform: 'none',
-			color: colors.light.contrastText
+			color: abcColors.light.contrastText
 		}
 	},
 	palette: {
 		background: {
-			default: colors.light.light,
-			paper: colors.light.main
+			default: abcColors.light.light,
+			paper: abcColors.light.main
 		},
 		primary: {
-			...colors.light
+			...abcColors.light
 		},
 		secondary: {
-			...colors.secondary
+			...abcColors.secondary
 		},
 		type: "light",
 	},
@@ -43,7 +44,7 @@ const lightTheme = createMuiTheme({
 				paddingRight: 84
 			}
 		},
-		MuiTooltip:{
+		MuiTooltip: {
 			tooltip: {
 				fontSize: "1rem"
 			}
@@ -60,14 +61,14 @@ const darkTheme = createMuiTheme({
 	},
 	palette: {
 		background: {
-			default: colors.dark.dark,
-			paper: colors.dark.main
+			default: abcColors.dark.dark,
+			paper: abcColors.dark.main
 		},
 		primary: {
-			...colors.dark
+			...abcColors.dark
 		},
 		secondary: {
-			...colors.secondary
+			...abcColors.secondary
 		},
 		type: "dark",
 	},
@@ -85,7 +86,7 @@ ReactGA.initialize('UA-23730353-5', {
 });
 ReactGA.pageview(window.location.pathname + window.location.search);
 
-const ThemeWrapper: React.FC = (props) =>
+const AllBadCardsTheme: React.FC = (props) =>
 {
 	const preferences = useDataStore(PreferencesDataStore);
 
@@ -98,10 +99,17 @@ const ThemeWrapper: React.FC = (props) =>
 
 ReactDOM.render(
 	<BrowserRouter>
-		<ThemeWrapper>
-			<CssBaseline/>
-			<App/>
-		</ThemeWrapper>
+		<CssBaseline/>
+		<Switch>
+			<Route path={"/holdem"} exact>
+				<HoldEmGameDashboard/>
+			</Route>
+			<Route path={"/"}>
+				<AllBadCardsTheme>
+					<AllBadCardsApp/>
+				</AllBadCardsTheme>
+			</Route>
+		</Switch>
 	</BrowserRouter>
 	, document.getElementById('root'));
 

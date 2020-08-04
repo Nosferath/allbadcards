@@ -1,7 +1,7 @@
 import {Alert} from "@material-ui/lab";
 import {Typography, useMediaQuery} from "@material-ui/core";
 import {ShowWinner} from "./ShowWinner";
-import {ErrorBoundary} from "../../../../../App/ErrorBoundary";
+import {ErrorBoundary} from "../../../../../Shared/UI/ErrorBoundary";
 import {GamePlayWhite} from "../../GamePlayWhite";
 import {GamePlayBlack} from "../../GamePlayBlack";
 import {GamePlaySpectate} from "../../GamePlaySpectate";

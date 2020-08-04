@@ -1,15 +1,15 @@
-import {useDataStore} from "../Shared/Global/Utils/HookUtils";
-import {PreferencesDataStore} from "../AllBadCards/Global/DataStore/PreferencesDataStore";
-import {SocketDataStore} from "../AllBadCards/Global/DataStore/SocketDataStore";
+import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
+import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
+import {SocketDataStore} from "../Global/DataStore/SocketDataStore";
 import {default as React, useState} from "react";
 import {Button, createStyles, Dialog, DialogActions, DialogContent, DialogTitle, Tooltip} from "@material-ui/core";
 import {FaClipboardList, IoMdVolumeHigh, IoMdVolumeOff, MdSettings} from "react-icons/all";
-import {GameRoster} from "../AllBadCards/Areas/Game/Components/Gameplay/GameRoster";
+import {GameRoster} from "../Areas/Game/Components/Gameplay/GameRoster";
 import {GameSettings} from "@Areas/../AllBadCards/Areas/Game/GameSettings";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {GameDataStore} from "../AllBadCards/Global/DataStore/GameDataStore";
-import {UserDataStore} from "../Shared/Global/DataStore/UserDataStore";
-import {CloseableDialog} from "../AllBadCards/UI/CloseableDialog";
+import {GameDataStore} from "../Global/DataStore/GameDataStore";
+import {UserDataStore} from "../../Shared/Global/DataStore/UserDataStore";
+import {CloseableDialog} from "../UI/CloseableDialog";
 
 const useStyles = makeStyles(theme => createStyles({
 	settingsButton: {

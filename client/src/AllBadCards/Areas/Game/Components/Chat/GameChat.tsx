@@ -8,7 +8,7 @@ import classNames from "classnames";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Linkify from "linkifyjs/react";
 import {ChatDataStore} from "../../../../../Shared/Global/DataStore/ChatDataStore";
-import {colors} from "../../../../../colors";
+import {abcColors} from "../../../../../colors";
 import Filter from "bad-words";
 
 const filter = new Filter({
@@ -50,8 +50,8 @@ const useStyles = makeStyles(theme => ({
 		wordBreak: "break-word"
 	},
 	theirs: {
-		backgroundColor: colors.light.dark,
-		color: colors.light.contrastText,
+		backgroundColor: abcColors.light.dark,
+		color: abcColors.light.contrastText,
 	},
 	theirsWrapper: {
 		alignSelf: "flex-start"
@@ -204,7 +204,7 @@ const ChatMessage: React.FC<MessageProps> = (props) =>
 						{props.message}
 					</Linkify>
 					{isProfane && !props.isSelf && (
-						<Typography variant={"caption"} style={{fontSize: "0.7rem", color: colors.secondary.contrastText, opacity: 0.75, fontStyle: "italic", display: "block"}}>
+						<Typography variant={"caption"} style={{fontSize: "0.7rem", color: abcColors.secondary.contrastText, opacity: 0.75, fontStyle: "italic", display: "block"}}>
 							{unescape(props.nickname)} said something rude. Click their name to mute them.
 						</Typography>
 					)}

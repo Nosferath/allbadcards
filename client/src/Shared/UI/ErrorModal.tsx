@@ -1,6 +1,6 @@
-import {useDataStore} from "../Shared/Global/Utils/HookUtils";
-import {ErrorDataStore} from "../AllBadCards/Global/DataStore/ErrorDataStore";
-import {CloseableDialog} from "../AllBadCards/UI/CloseableDialog";
+import {useDataStore} from "../Global/Utils/HookUtils";
+import {ErrorDataStore} from "../../AllBadCards/Global/DataStore/ErrorDataStore";
+import {CloseableDialog} from "../../AllBadCards/UI/CloseableDialog";
 import {DialogContent, List, ListItem, ListItemText} from "@material-ui/core";
 import * as React from "react";
 

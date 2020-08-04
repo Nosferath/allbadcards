@@ -8,7 +8,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import classNames from "classnames";
 import {AbcPlatform} from "../../Global/Platform/abcPlatform";
 import {ErrorDataStore} from "../../Global/DataStore/ErrorDataStore";
-import {colors} from "../../../colors";
+import {abcColors} from "../../../colors";
 import shuffle from "shuffle-array";
 import {CopyToClipboard} from "react-copy-to-clipboard";
 import {PreferencesDataStore} from "../../Global/DataStore/PreferencesDataStore";
@@ -38,8 +38,8 @@ const useStyles = makeStyles(theme => ({
 	blackCardList: {},
 	whiteCardList: {},
 	blackItem: {
-		background: colors.dark.main,
-		color: colors.light.dark,
+		background: abcColors.dark.main,
+		color: abcColors.light.dark,
 		borderBottom: "1px solid rgba(245,245,245,0.1)",
 		padding: "0.25rem",
 		overflow: "hidden",
@@ -47,8 +47,8 @@ const useStyles = makeStyles(theme => ({
 		textOverflow: "ellipsis"
 	},
 	whiteItem: {
-		background: colors.light.main,
-		color: colors.dark.light,
+		background: abcColors.light.main,
+		color: abcColors.dark.light,
 		borderBottom: "1px solid rgba(0,0,0,0.1)",
 		padding: "0.25rem",
 		overflow: "hidden",
@@ -146,7 +146,7 @@ export const PackSummary: React.FC<IPackSummaryProps> = (props) =>
 			</CardMedia>
 			<CardHeader
 				title={
-					<Link to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})} style={{textDecoration: "none", color: PreferencesDataStore.state.darkMode ? colors.dark.contrastText : colors.light.contrastText}}>
+					<Link to={SiteRoutes.PackCreate.resolve({id: definition.pack.id})} style={{textDecoration: "none", color: PreferencesDataStore.state.darkMode ? abcColors.dark.contrastText : abcColors.light.contrastText}}>
 						{definition.pack.name}
 					</Link>
 				}

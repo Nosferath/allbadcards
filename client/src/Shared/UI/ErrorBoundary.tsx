@@ -1,10 +1,10 @@
 import * as React from "react";
 import {RouteComponentProps, withRouter} from "react-router";
 import {Button} from "@material-ui/core";
-import {GameDataStore} from "../AllBadCards/Global/DataStore/GameDataStore";
-import {UserDataStore} from "../Shared/Global/DataStore/UserDataStore";
+import {GameDataStore} from "../../AllBadCards/Global/DataStore/GameDataStore";
+import {UserDataStore} from "../Global/DataStore/UserDataStore";
 import Typography from "@material-ui/core/Typography";
-import {ClientGameItem} from "../AllBadCards/Global/Platform/Contract";
+import {ClientGameItem} from "../../AllBadCards/Global/Platform/Contract";
 
 interface IErrorBoundaryProps
 {

@@ -1,11 +1,11 @@
 import * as React from "react";
 import {ComponentType} from "react";
 import {Redirect, Route, Switch} from "react-router";
-import {ContainerProgress} from "../AllBadCards/UI/ContainerProgress";
-import {SiteRoutes} from "../AllBadCards/Global/Routes/Routes";
-import {useDataStore} from "../Shared/Global/Utils/HookUtils";
-import {AuthDataStore} from "../Shared/Global/DataStore/AuthDataStore";
-import {UserDataStore} from "../Shared/Global/DataStore/UserDataStore";
+import {ContainerProgress} from "../UI/ContainerProgress";
+import {SiteRoutes} from "../Global/Routes/Routes";
+import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
+import {AuthDataStore} from "../../Shared/Global/DataStore/AuthDataStore";
+import {UserDataStore} from "../../Shared/Global/DataStore/UserDataStore";
 
 interface IRoutesProps
 {
@@ -35,28 +35,28 @@ export const Routes: React.FC<Props> = (props) =>
 	return (
 		<Switch>
 			<Route exact path={"/"}>
-				<Suspender importer={() => import("../AllBadCards/Areas/GameDashboard/GameDashboard")}/>
+				<Suspender importer={() => import("../Areas/GameDashboard/AbcGameDashboard")}/>
 			</Route>
 			<Route path={SiteRoutes.Game.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/Game/Game")}/>
+				<Suspender importer={() => import("../Areas/Game/Game")}/>
 			</Route>
 			<Route path={SiteRoutes.Games.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/GameList/GameList")}/>
+				<Suspender importer={() => import("../Areas/GameList/GameList")}/>
 			</Route>
 			<Route path={SiteRoutes.PackCreate.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/Pack/Create")}/>
+				<Suspender importer={() => import("../Areas/Pack/Create")}/>
 			</Route>
 			<Route path={SiteRoutes.MyPacks.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/Packs/MyPacks")}/>
+				<Suspender importer={() => import("../Areas/Packs/MyPacks")}/>
 			</Route>
 			<Route path={SiteRoutes.PacksBrowser.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/Packs/PacksBrowser")}/>
+				<Suspender importer={() => import("../Areas/Packs/PacksBrowser")}/>
 			</Route>
 			<Route path={SiteRoutes.CardCastExport.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/CardCastExport/CardCastExport")}/>
+				<Suspender importer={() => import("../Areas/CardCastExport/CardCastExport")}/>
 			</Route>
 			<Route path={SiteRoutes.Settings.path}>
-				<Suspender importer={() => import("../AllBadCards/Areas/User/Settings")}/>
+				<Suspender importer={() => import("../Areas/User/Settings")}/>
 			</Route>
 			<Route>
 				<Redirect to={"/"}/>

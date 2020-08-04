@@ -2,7 +2,7 @@ import {useHistory} from "react-router";
 import {default as React, useState} from "react";
 import {createStyles, IconButton, SwipeableDrawer, Typography} from "@material-ui/core";
 import {FiMenu} from "react-icons/all";
-import {colors} from "../colors";
+import {abcColors} from "../../colors";
 import {NavButtons} from "./NavButtons";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 
@@ -45,7 +45,7 @@ export const AppDrawer = () =>
 				}}
 			>
 				<div style={{minWidth: "50vw"}}>
-					<Typography style={{textAlign: "center", padding: "1rem 0", background: colors.dark.main, color: colors.dark.contrastText}}>
+					<Typography style={{textAlign: "center", padding: "1rem 0", background: abcColors.dark.main, color: abcColors.dark.contrastText}}>
 						ALL BAD CARDS
 					</Typography>
 					<NavButtons/>

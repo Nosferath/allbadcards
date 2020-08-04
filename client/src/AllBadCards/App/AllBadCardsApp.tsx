@@ -3,22 +3,23 @@ import {useEffect} from "react";
 import {AppBar, Container, createStyles, styled, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
-import {UserDataStore} from "../Shared/Global/DataStore/UserDataStore";
+import {UserDataStore} from "../../Shared/Global/DataStore/UserDataStore";
 import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
 import ReactGA from "react-ga";
 import classNames from "classnames";
 import Helmet from "react-helmet";
-import {ErrorBoundary} from "./ErrorBoundary";
-import {BrowserUtils} from "../Shared/Global/Utils/BrowserUtils";
+import {ErrorBoundary} from "../../Shared/UI/ErrorBoundary";
+import {BrowserUtils} from "../../Shared/Global/Utils/BrowserUtils";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {SiteRoutes} from "../AllBadCards/Global/Routes/Routes";
+import {SiteRoutes} from "../Global/Routes/Routes";
 import {AppBarLeftButtons, AppBarRightButtons} from "./NavButtons";
-import {colors} from "../colors";
+import {abcColors} from "../../colors";
 import {AppBarGameButtons} from "./GameButtons";
 import {Footer} from "./Footer";
 import {AppDrawer} from "./AppDrawer";
-import {ErrorModal} from "./ErrorModal";
+import {ErrorModal} from "../../Shared/UI/ErrorModal";
+import {AdFixedBottom, HideableAd} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -26,8 +27,8 @@ const useStyles = makeStyles(theme => createStyles({
 		zIndex: 1300
 	},
 	appBar: {
-		background: colors.dark.main,
-		color: colors.dark.contrastText,
+		background: abcColors.dark.main,
+		color: abcColors.dark.contrastText,
 	},
 	logoIcon: {
 		height: "2rem",
@@ -35,12 +36,12 @@ const useStyles = makeStyles(theme => createStyles({
 		paddingRight: "1rem"
 	},
 	logo: {
-		color: colors.dark.contrastText,
+		color: abcColors.dark.contrastText,
 		textDecoration: "none",
 		display: "flex",
 		alignItems: "center",
 		fontWeight: 700
-	},
+	}
 }));
 
 const OuterContainer = styled(Container)({
@@ -50,7 +51,7 @@ const OuterContainer = styled(Container)({
 	maxWidth: "none"
 });
 
-const App: React.FC = () =>
+const AllBadCardsApp: React.FC = () =>
 {
 	const classes = useStyles();
 	const history = useHistory();
@@ -110,6 +111,9 @@ const App: React.FC = () =>
 						<Routes/>
 					</ErrorBoundary>
 				</Container>
+				<HideableAd>
+					<AdFixedBottom/>
+				</HideableAd>
 				<Footer/>
 			</OuterContainer>
 			<ErrorModal/>
@@ -117,4 +121,4 @@ const App: React.FC = () =>
 	);
 };
 
-export default App;
+export default AllBadCardsApp;

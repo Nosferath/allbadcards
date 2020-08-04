@@ -1,16 +1,16 @@
 import {Button, createStyles, DialogActions, DialogContent, IconButton, Menu, MenuItem, Typography, useMediaQuery} from "@material-ui/core";
 import {Link} from "react-router-dom";
 import {FaHome, FaUser, GiCardPlay, GiCardRandom} from "react-icons/all";
-import {SiteRoutes} from "../AllBadCards/Global/Routes/Routes";
+import {SiteRoutes} from "../Global/Routes/Routes";
 import * as React from "react";
 import {useState} from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {EnvDataStore} from "../AllBadCards/Global/DataStore/EnvDataStore";
-import {useDataStore} from "../Shared/Global/Utils/HookUtils";
-import {AuthDataStore} from "../Shared/Global/DataStore/AuthDataStore";
+import {EnvDataStore} from "../Global/DataStore/EnvDataStore";
+import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
+import {AuthDataStore} from "../../Shared/Global/DataStore/AuthDataStore";
 import {useHistory} from "react-router";
-import {CloseableDialog} from "../AllBadCards/UI/CloseableDialog";
-import {getPatreonUrl} from "../AllBadCards/Global/Utils/UserUtils";
+import {CloseableDialog} from "../UI/CloseableDialog";
+import {getPatreonUrl} from "../Global/Utils/UserUtils";
 
 const useStyles = makeStyles(theme => createStyles({
 	appBarButton: {

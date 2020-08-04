@@ -1,7 +1,7 @@
 # All Bad Cards
 
 #### License
-AGPL 3.0
+All Rights Reserved, Copyright All Bad Cards, Inc.
 
 #### Credits ####
 Thanks to https://github.com/greencoast-studios/cards-against-humanity-api for much of the card data.
