@@ -215,10 +215,10 @@ export const PackCategories = [
 
 export interface PackSearch
 {
-	search?: string;
-	category?: ValuesOf<typeof PackCategories>;
-	nsfw?: boolean;
-	sort?: PackSearchSort;
+	search: string | null;
+	category: ValuesOf<typeof PackCategories> | null;
+	nsfw: boolean | null;
+	sort: PackSearchSort | null;
 }
 
 export type PackSearchSort = "favorites" | "newest" | "largest";

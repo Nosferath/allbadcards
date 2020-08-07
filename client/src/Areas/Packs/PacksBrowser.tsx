@@ -13,7 +13,8 @@ import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {SiteRoutes} from "../../Global/Routes/Routes";
 import {Link} from "react-router-dom";
 import Helmet from "react-helmet";
-import {useHistory} from "react-router";
+import deepEqual from "deep-equal";
+import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -53,19 +54,29 @@ interface IPacksBrowserProps
 {
 }
 
+let oldInput: any = null;
+
 const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 {
+	const fromUrl = new URLSearchParams(location.search);
+	const envData = useDataStore(EnvDataStore);
+
 	const [currentPage, setCurrentPage] = useState(0);
 	const [searchedPacks, setSearchedPacks] = useState<ICustomPackSearchResult | null>(null);
 
-	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | undefined>(undefined);
-	const [sort, setSort] = useState<PackSearchSort>("favorites");
+	const urlCategory = fromUrl.get("category")
+		? JSON.parse(decodeURIComponent(fromUrl.get("category")!)) as ValuesOf<typeof PackCategories> | null
+		: null;
+	const urlNsfw = fromUrl.get("nsfw") ? JSON.parse(decodeURIComponent(fromUrl.get("nsfw")!)) : !!envData.site?.base;
+	const urlSearch = fromUrl.get("search") ? JSON.parse(decodeURIComponent(fromUrl.get("search")!)) : null;
+	const urlSort = fromUrl.get("sort") ? JSON.parse(decodeURIComponent(fromUrl.get("sort")!)) : null;
+
+	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | null>(urlCategory);
+	const [sort, setSort] = useState<PackSearchSort>(urlSort);
 	const authData = useDataStore(AuthDataStore);
 	const isCreator = authData.levels?.includes(BackerType.Owner);
-	const envData = useDataStore(EnvDataStore);
-	const [searchText, setSearchText] = useState("");
-	const [searchNsfw, setSearchNsfw] = useState(!!envData.site.base);
-	const history = useHistory();
+	const [searchText, setSearchText] = useState(urlSearch);
+	const [searchNsfw, setSearchNsfw] = useState(urlNsfw && !!envData.site.base);
 
 	useEffect(() =>
 	{
@@ -80,10 +91,19 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 		{
 			const input = {
 				nsfw: searchNsfw,
-				category: searchCategory ?? undefined,
+				category: searchCategory ?? null,
 				search: searchText,
 				sort
 			};
+
+			if (!deepEqual(input, oldInput))
+			{
+				oldInput = input;
+				const p = new URLSearchParams();
+				Object.keys(input).forEach(k => oldInput[k] !== null && oldInput[k] !== "" &&  p.set(k, encodeURIComponent(JSON.stringify(oldInput[k]))));
+				history.replaceState(null, "",SiteRoutes.PacksBrowser.resolve() + `?${p.toString()}`);
+				HistoryDataStore.onChange();
+			}
 
 			Platform.searchPacks(input, page)
 				.then(data =>
@@ -159,6 +179,9 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 									}}
 									onChange={e => setSearchCategory(e.target.value as ValuesOf<typeof PackCategories>)}
 								>
+									<MenuItem key={0} value={undefined}>
+										All Categories
+									</MenuItem>
 									{PackCategories.map((cat) => (
 										<MenuItem key={cat} value={cat}>
 											{cat}
@@ -201,7 +224,7 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 
 						<Grid item xs={12} md={3}>
 							<FormControlLabel
-								control={<Switch checked={searchNsfw} onChange={e => setSearchNsfw(e.target.checked)}/>}
+								control={<Switch checked={!!searchNsfw} onChange={e => setSearchNsfw(e.target.checked)}/>}
 								disabled={!envData.site?.base}
 								label="NSFW"
 							/>

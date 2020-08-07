@@ -6,7 +6,6 @@ import {Routes} from "./Routes";
 import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
-import ReactGA from "react-ga";
 import classNames from "classnames";
 import Helmet from "react-helmet";
 import {ErrorBoundary} from "./ErrorBoundary";
@@ -19,6 +18,8 @@ import {AppBarGameButtons} from "./GameButtons";
 import {Footer} from "./Footer";
 import {AppDrawer} from "./AppDrawer";
 import {ErrorModal} from "./ErrorModal";
+import {AdFixedBottom, HideableAd} from "../Shared/UI/Ads/sharedAds";
+import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -44,7 +45,7 @@ const useStyles = makeStyles(theme => createStyles({
 }));
 
 const OuterContainer = styled(Container)({
-	minHeight: "100vh",
+	minHeight: "75vh",
 	width: "100%",
 	padding: 0,
 	maxWidth: "none"
@@ -62,7 +63,7 @@ const App: React.FC = () =>
 		history.listen(() =>
 		{
 			UserDataStore.initialize();
-			ReactGA.pageview(window.location.pathname + window.location.search);
+			HistoryDataStore.onChange();
 		});
 	}, []);
 
@@ -105,11 +106,14 @@ const App: React.FC = () =>
 						<AppBarRightButtons/>
 					</Toolbar>
 				</AppBar>
-				<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 1rem 6rem", minHeight: "100vh"}}>
+				<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 1rem 6rem", minHeight: "75vh"}}>
 					<ErrorBoundary>
 						<Routes/>
 					</ErrorBoundary>
 				</Container>
+				<HideableAd>
+					<AdFixedBottom/>
+				</HideableAd>
 				<Footer/>
 			</OuterContainer>
 			<ErrorModal/>

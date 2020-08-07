@@ -58,6 +58,9 @@ export const Routes: React.FC<Props> = (props) =>
 			<Route path={SiteRoutes.Settings.path}>
 				<Suspender importer={() => import("../Areas/User/Settings")}/>
 			</Route>
+			<Route path={SiteRoutes.Rules.path}>
+				<Suspender importer={() => import("../Areas/Rules/Rules")}/>
+			</Route>
 			<Route>
 				<Redirect to={"/"}/>
 			</Route>

@@ -1,20 +1,21 @@
 import {Redirect, RouteComponentProps, withRouter} from "react-router";
 import React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "@Global/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import Helmet from "react-helmet";
 import {Dialog, DialogContent, Typography} from "@material-ui/core";
-import {ContainerProgress} from "../../UI/ContainerProgress";
-import {LoadingButton} from "../../UI/LoadingButton";
+import {ContainerProgress} from "@UI/ContainerProgress";
+import {LoadingButton} from "@UI/LoadingButton";
 import {Support} from "./Components/Gameplay/Support";
 import {GameChatFab} from "./Components/Chat/GameChatFab";
 import {ChatSidebar} from "./Components/Chat/ChatSidebar";
 import {GameInner} from "./Components/Gameplay/GameInner";
-import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
+import {SocketDataStore, SocketDataStorePayload} from "@Global/DataStore/SocketDataStore";
 import moment from "moment";
-import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
-import {ClientGameItem} from "../../Global/Platform/Contract";
+import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
+import {ClientGameItem} from "@Global/Platform/Contract";
 import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
+import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
 
 interface IGameParams
 {
@@ -59,9 +60,13 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			socketData: data
 		}));
 
-		GameDataStore.listen(data => this.setState({
-			gameData: data
-		}));
+		GameDataStore.listen(data => {
+			this.setState({
+				gameData: data
+			});
+
+			UpdateGameUrl(data, this.state.userData, this.props.match);
+		});
 
 		UserDataStore.listen(data => this.setState({
 			userData: data

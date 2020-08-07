@@ -167,12 +167,6 @@ export const DiamondSponsor = () =>
 	return (
 		<Grid container>
 			<Grid item xs={12} style={{textAlign: "center"}}>
-				{location.pathname !== "/" && (
-					<Typography style={{marginBottom: "1rem"}}>
-						Thanks to <a href={"http://talkingouturanus.com/?source=abc"} target={"_blank"} rel={"noreferrer nofollow"}>Talking Out Uranus</a> for sharing their card packs! 🙌
-					</Typography>
-				)}
-				<Divider style={{marginBottom: "1rem"}}/>
 				<Typography variant={"h5"}>This Month's Diamond Sponsor</Typography>
 				<Sponsor sponsor={{
 					src: "/sponsors/talkingout.png",

@@ -5,13 +5,11 @@ import {RouteComponentProps, withRouter} from "react-router";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
 import Container from "@material-ui/core/Container";
-import Paper from "@material-ui/core/Paper";
 import Typography from "@material-ui/core/Typography";
 import {SponsorList} from "./SponsorList";
-import {Divider, Grid} from "@material-ui/core";
-import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
+import {AdFixedBottom} from "../../Shared/UI/Ads/sharedAds";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -55,9 +53,12 @@ class GameDashboard extends React.Component<Props, State>
 
 	public render()
 	{
-		const mobile = matchMedia('(max-width:768px)').matches;
-
 		const familyMode = EnvDataStore.state.site.family;
+
+		const otherLabel = familyMode ? "NSFW Version" : "Family-Friendly Version";
+		const otherLink = familyMode ? "https://allbad.cards" : "https://notallbad.cards";
+
+		const mobile = matchMedia('(max-width:768px)').matches;
 
 		return (
 			<Container style={{textAlign: "center"}}>
@@ -72,52 +73,17 @@ class GameDashboard extends React.Component<Props, State>
 				<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
 					<JoinNewButtons/>
 				</ButtonGroup>
-				{!familyMode && (
-					<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
-						<Button href={"https://notallbad.cards"}>
-							Family-Friendly Version &nbsp; <MdArrowForward/>
-						</Button>
-					</ButtonGroup>
-				)}
+				<ButtonGroup style={{width: "100%", justifyContent: "center", marginTop: "2rem"}}>
+					<Button href={otherLink}>
+						{otherLabel} &nbsp; <MdArrowForward/>
+					</Button>
+				</ButtonGroup>
+
+					<AdFixedBottom/>
+
 				<div>
 					<SponsorList/>
 				</div>
-
-				<Paper style={{padding: "1rem", margin: "3rem 0 1rem", textAlign: "left"}}>
-					<Grid container>
-						<Grid item md={7} xs={12}>
-							<Typography>
-								<strong>Updates - 7/28</strong>
-								<li>Vastly improved saving time for custom packs</li>
-								<li>Potential fix for the issue kicking players mid-game</li>
-								<li>Fixed for some of the more common errors</li>
-								<br/>
-								<strong>Updates - 7/21</strong>
-								<li>Rebrand! New visual design.</li>
-								<br/>
-							</Typography>
-						</Grid>
-						<Grid item md={1} xs={12} style={{display: "flex", justifyContent: "center", margin: "2rem 0"}}>
-							<Divider orientation={"vertical"}/>
-						</Grid>
-						<Grid item md={4} xs={12}>
-							<TwitterTimelineEmbed
-								sourceType="profile"
-								screenName="allbadcards"
-								options={{
-									height: 400
-								}}
-							/>
-						</Grid>
-					</Grid>
-				</Paper>
-				{EnvDataStore.state.site.family && (
-					<Paper style={{padding: "1rem", marginTop: "3rem"}}>
-						<Typography variant={"caption"}>
-							Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
-						</Typography>
-					</Paper>
-				)}
 			</Container>
 		);
 	}

@@ -30,6 +30,9 @@ export const NavButtons = () =>
 			<NavButton to={"/"} icon={<FaHome/>}>
 				Home
 			</NavButton>
+			<NavButton to={"/how-to-play"} icon={<FaHome/>}>
+				How To Play
+			</NavButton>
 			{envData.site.base && (
 				<NavButton to={SiteRoutes.Games.resolve()} icon={<GiCardPlay/>}>
 					Games

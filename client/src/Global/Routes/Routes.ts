@@ -31,4 +31,5 @@ export class SiteRoutes
 	public static Games = new SiteRoute("/games");
 	public static Game = new SiteRoute<{ id: string, throwaway?: string }>("/game/:id/:throwaway?");
 	public static Settings = new SiteRoute("/user/settings");
+	public static Rules = new SiteRoute("/how-to-play");
 }

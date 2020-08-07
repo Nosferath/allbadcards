@@ -196,6 +196,12 @@ class _PackManager
 			throw new Error(`The pack name you chose may contain trademarked material. Please change it.`);
 		}
 
+		const initials = packDef.pack.name.split(" ").map(w => w.substr(0, 1)).join("").toLowerCase();
+		if(initials.includes("cah"))
+		{
+			throw new Error("Packs must not use the initials \"CAH\" in the title.");
+		}
+
 		packDef.white.forEach((w1, w1i) =>
 		{
 			// If it's one or two words, we can ignore the test
@@ -464,9 +470,16 @@ class _PackManager
 		const packs = await Promise.all(
 			packIds.map(packId =>
 			{
-				return new Promise<ICardPackSummary>(async (resolve) =>
+				return new Promise<ICardPackSummary | null>(async (resolve) =>
 				{
 					const packDef = PackManager.packs[packId] ?? await this.getCustomPack(packId);
+
+					if (!packDef)
+					{
+						resolve(null);
+
+						return;
+					}
 
 					resolve({
 						name: packDef.pack.name,
@@ -478,7 +491,7 @@ class _PackManager
 			})
 		);
 
-		return packs;
+		return packs.filter(p => !!p) as ICardPackSummary[];
 	}
 
 	public getApprovedCustomPacks()

@@ -5,7 +5,7 @@ import {ErrorBoundary} from "../../../../App/ErrorBoundary";
 import {GamePlayWhite} from "../../GamePlayWhite";
 import {GamePlayBlack} from "../../GamePlayBlack";
 import {GamePlaySpectate} from "../../GamePlaySpectate";
-import React, {useEffect} from "react";
+import React from "react";
 import {useDataStore} from "../../../../Global/Utils/HookUtils";
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
@@ -14,7 +14,6 @@ import GameJoin from "../../GameJoin";
 import moment from "moment";
 import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 import {useHistory, useParams} from "react-router";
-import {SiteRoutes} from "../../../../Global/Routes/Routes";
 import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
 import {ClientGameItem} from "../../../../Global/Platform/Contract";
 
@@ -53,28 +52,6 @@ export const GameInner: React.FC<Props> = (
 
 	const iWasKicked = !!kickedPlayers?.[playerGuid];
 	const amInGame = playerGuid in (players ?? {});
-
-	useEffect(() =>
-	{
-		const playMode = params.throwaway !== "play" && started && !iWasKicked && amInGame;
-		const notPlayMode = iWasKicked && params.throwaway === "play";
-		if (playMode)
-		{
-			history.push(SiteRoutes.Game.resolve({
-				id: gameId,
-				throwaway: "play"
-			}))
-		}
-
-		if(notPlayMode)
-		{
-			history.push(SiteRoutes.Game.resolve({
-				id: gameId,
-				throwaway: "kicked"
-			}));
-		}
-	}, [started, iWasKicked, amInGame]);
-
 	const isOwner = ownerGuid === userData.playerGuid;
 	const isChooser = playerGuid === chooserGuid;
 	const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
