@@ -2,12 +2,11 @@ import {useHistory} from "react-router";
 import {useDataStore} from "../Global/Utils/HookUtils";
 import {ChatDataStore} from "../Global/DataStore/ChatDataStore";
 import {Button, ButtonGroup, Container, IconButton, Switch, Typography, useMediaQuery} from "@material-ui/core";
-import Grid from "@material-ui/core/Grid";
-import Divider from "@material-ui/core/Divider";
-import {DiamondSponsor} from "../Areas/GameDashboard/SponsorList";
 import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
 import * as React from "react";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
+import {AdResponsive} from "../Shared/UI/Ads/sharedAds";
+import {RemoveAdsButton} from "../Shared/UI/Ads/RemoveAdsButton";
 
 export const Footer = () =>
 {
@@ -33,12 +32,8 @@ export const Footer = () =>
 				marginLeft: chatMode ? "0" : "auto"
 			}}
 		>
-			{!isHome && (
-				<Grid style={{marginTop: "5rem"}}>
-					<Divider style={{margin: "1rem 0"}}/>
-					<DiamondSponsor/>
-				</Grid>
-			)}
+			<AdResponsive />
+			<RemoveAdsButton/>
 			<DarkModeSwitch/>
 			<div style={{textAlign: "center", padding: "0.5rem 0"}}>
 				<ButtonGroup style={{margin: "1rem 0 2rem"}}>

@@ -11,6 +11,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
 import Helmet from "react-helmet";
 import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
+import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -130,44 +131,51 @@ const GameList = () =>
 			</Typography>
 			<Pagination page={currentPage + 1} count={currentPageGames.length >= 8 ? currentPage + 2 : currentPage + 1} onChange={handleChange} style={{marginTop: "1rem"}}/>
 			<Grid container spacing={2} className={classes.cardContainer}>
-				{currentPageGames.map(game => (
-					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<Card elevation={5}>
-							<CardHeader
-								title={<>{unescape(game.players?.[game.ownerGuid]?.nickname)}'s game</>}
-								subheader={
-									<>{Object.keys(game.players).length} / {game.settings.playerLimit} players</>
-								}
+				{currentPageGames.map((game, i) => (
+					<>
+						<Grid item xs={12} sm={6} md={4} lg={3}>
+							<Card elevation={5}>
+								<CardHeader
+									title={<>{unescape(game.players?.[game.ownerGuid]?.nickname)}'s game</>}
+									subheader={
+										<>{Object.keys(game.players).length} / {game.settings.playerLimit} players</>
+									}
 
-							/>
-							<Divider/>
-							<CardContent>
-								<Typography className={classes.cardListItem}>
-									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{game.settings.includedPacks.length + game.settings.includedCustomPackIds.length}</span>
-									</Avatar> included packs
-								</Typography>
-								<Typography className={classes.cardListItem}>
-									<Avatar className={classes.avatar}>
-										<span className={classes.avatarText}>{getTrueRoundsToWin(game)}</span>
-									</Avatar> rounds to win
-								</Typography>
-								<Typography className={classes.cardListItem}>
-									{game.started && <>In Progress</>}
-									{!game.started && <>Not Started</>}
-								</Typography>
-							</CardContent>
-							<Divider/>
-							<CardActions className={classes.actions}>
-								<Typography variant={"caption"} style={{opacity: 0.75, flex: 1}}>
-									<em>{game.id}</em>
-								</Typography>
-								<IconButton color={"secondary"} component={p => <Link {...p} to={`/game/${game.id}`}/>}>
-									<FaArrowAltCircleRight/>
-								</IconButton>
-							</CardActions>
-						</Card>
-					</Grid>
+								/>
+								<Divider/>
+								<CardContent>
+									<Typography className={classes.cardListItem}>
+										<Avatar className={classes.avatar}>
+											<span className={classes.avatarText}>{game.settings.includedPacks.length + game.settings.includedCustomPackIds.length}</span>
+										</Avatar> included packs
+									</Typography>
+									<Typography className={classes.cardListItem}>
+										<Avatar className={classes.avatar}>
+											<span className={classes.avatarText}>{getTrueRoundsToWin(game)}</span>
+										</Avatar> rounds to win
+									</Typography>
+									<Typography className={classes.cardListItem}>
+										{game.started && <>In Progress</>}
+										{!game.started && <>Not Started</>}
+									</Typography>
+								</CardContent>
+								<Divider/>
+								<CardActions className={classes.actions}>
+									<Typography variant={"caption"} style={{opacity: 0.75, flex: 1}}>
+										<em>{game.id}</em>
+									</Typography>
+									<IconButton color={"secondary"} component={p => <Link {...p} to={`/game/${game.id}`}/>}>
+										<FaArrowAltCircleRight/>
+									</IconButton>
+								</CardActions>
+							</Card>
+						</Grid>
+						{i % 3 === 2 && i > 1 && (
+							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+								<AdResponsive/>
+							</Grid>
+						)}
+					</>
 				))}
 			</Grid>
 			<Typography variant={"subtitle2"} style={{opacity: 0.75, marginBottom: "1rem"}}>

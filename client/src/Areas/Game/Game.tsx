@@ -16,6 +16,7 @@ import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
 import {ClientGameItem} from "@Global/Platform/Contract";
 import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
 import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
+import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
 
 interface IGameParams
 {
@@ -31,6 +32,7 @@ interface IGameState
 	restartDelayed: boolean;
 	showSupport: boolean;
 	chatDrawerOpen: boolean;
+	authContext: IAuthContext;
 }
 
 class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
@@ -48,7 +50,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			restartLoading: false,
 			restartDelayed: true,
 			showSupport: false,
-			chatDrawerOpen: true
+			chatDrawerOpen: true,
+			authContext: AuthDataStore.state
 		};
 	}
 
@@ -60,7 +63,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			socketData: data
 		}));
 
-		GameDataStore.listen(data => {
+		GameDataStore.listen(data =>
+		{
 			this.setState({
 				gameData: data
 			});
@@ -71,13 +75,16 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		UserDataStore.listen(data => this.setState({
 			userData: data
 		}));
+
+		AuthDataStore.listen(data => this.setState({
+			authContext: data
+		}));
 	}
 
 	private getWinnerFromState(state: IGameState)
 	{
 		const {
 			players,
-			settings
 		} = state.gameData.game ?? {};
 
 		const playerGuids = Object.keys(players ?? {});
@@ -121,6 +128,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 
 	public render()
 	{
+		const tablet = matchMedia('(max-width:1200px)');
+
 		const {
 			id,
 		} = this.props.match.params;
@@ -136,7 +145,6 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			spectators,
 			pendingPlayers,
 			players,
-			settings,
 		} = this.state.gameData.game ?? {};
 
 		if (!this.state.gameData.game || !this.state.gameData.loaded || !this.state.socketData.hasConnection)
@@ -163,36 +171,38 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
-				<PlayerJoinApproval/>
-				<GameInner gameId={id} />
-				{winnerGuid && (
-					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
-						<DialogContent style={{padding: "2rem"}}>
-							<Typography variant={"h6"} style={{textAlign: "center"}}>
-								Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
-							</Typography>
+				<div style={{width: tablet ? "100%" : "calc(100% - 320px)"}}>
+					<PlayerJoinApproval/>
+					<GameInner gameId={id}/>
+					{winnerGuid && (
+						<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
+							<DialogContent style={{padding: "2rem"}}>
+								<Typography variant={"h6"} style={{textAlign: "center"}}>
+									Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
+								</Typography>
 
-							<Support/>
+								<Support/>
 
-							{playerGuid === ownerGuid && (
-								<div style={{
-									marginTop: "7rem",
-									textAlign: "center"
-								}}>
-									<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"secondary"} onClick={() => this.restartClick(playerGuid)}>
-										Restart this game?
-									</LoadingButton>
-								</div>
-							)}
-						</DialogContent>
-					</Dialog>
-				)}
-				{canChat && (
-					<>
-						<GameChatFab showChat={amInGame || amSpectating}/>
-						<ChatSidebar />
-					</>
-				)}
+								{playerGuid === ownerGuid && (
+									<div style={{
+										marginTop: "7rem",
+										textAlign: "center"
+									}}>
+										<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"secondary"} onClick={() => this.restartClick(playerGuid)}>
+											Restart this game?
+										</LoadingButton>
+									</div>
+								)}
+							</DialogContent>
+						</Dialog>
+					)}
+					{canChat && (
+						<>
+							<GameChatFab showChat={amInGame || amSpectating}/>
+							<ChatSidebar/>
+						</>
+					)}
+				</div>
 			</>
 		);
 	}

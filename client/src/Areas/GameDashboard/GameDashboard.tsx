@@ -9,7 +9,8 @@ import Typography from "@material-ui/core/Typography";
 import {SponsorList} from "./SponsorList";
 import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
-import {AdFixedBottom} from "../../Shared/UI/Ads/sharedAds";
+import {Ad720x90} from "../../Shared/UI/Ads/sharedAds";
+import {Paper} from "@material-ui/core";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -62,7 +63,7 @@ class GameDashboard extends React.Component<Props, State>
 
 		return (
 			<Container style={{textAlign: "center"}}>
-				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>be rude. be irreverent. be hilarious!</Typography>
+				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>Be rude. Be irreverent. Be hilarious!</Typography>
 
 				{familyMode && (
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>Family-friendly edition!</Typography>
@@ -79,11 +80,20 @@ class GameDashboard extends React.Component<Props, State>
 					</Button>
 				</ButtonGroup>
 
-					<AdFixedBottom/>
+				<Ad720x90/>
+
+				{EnvDataStore.state.site.family && (
+					<Paper style={{padding: "1rem", marginTop: "3rem"}}>
+						<Typography variant={"caption"}>
+							Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
+						</Typography>
+					</Paper>
+				)}
 
 				<div>
 					<SponsorList/>
 				</div>
+
 			</Container>
 		);
 	}

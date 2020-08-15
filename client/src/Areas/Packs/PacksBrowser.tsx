@@ -15,6 +15,7 @@ import {Link} from "react-router-dom";
 import Helmet from "react-helmet";
 import deepEqual from "deep-equal";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
+import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -69,7 +70,7 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 		: null;
 	const urlNsfw = fromUrl.get("nsfw") ? JSON.parse(decodeURIComponent(fromUrl.get("nsfw")!)) : !!envData.site?.base;
 	const urlSearch = fromUrl.get("search") ? JSON.parse(decodeURIComponent(fromUrl.get("search")!)) : null;
-	const urlSort = fromUrl.get("sort") ? JSON.parse(decodeURIComponent(fromUrl.get("sort")!)) : null;
+	const urlSort = fromUrl.get("sort") ? JSON.parse(decodeURIComponent(fromUrl.get("sort")!)) : "favorites";
 
 	const [searchCategory, setSearchCategory] = useState<ValuesOf<typeof PackCategories> | null>(urlCategory);
 	const [sort, setSort] = useState<PackSearchSort>(urlSort);
@@ -100,8 +101,8 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 			{
 				oldInput = input;
 				const p = new URLSearchParams();
-				Object.keys(input).forEach(k => oldInput[k] !== null && oldInput[k] !== "" &&  p.set(k, encodeURIComponent(JSON.stringify(oldInput[k]))));
-				history.replaceState(null, "",SiteRoutes.PacksBrowser.resolve() + `?${p.toString()}`);
+				Object.keys(input).forEach(k => oldInput[k] !== null && oldInput[k] !== "" && p.set(k, encodeURIComponent(JSON.stringify(oldInput[k]))));
+				history.replaceState(null, "", SiteRoutes.PacksBrowser.resolve() + `?${p.toString()}`);
 				HistoryDataStore.onChange();
 			}
 
@@ -234,18 +235,25 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 			</Grid>
 			<Pagination page={currentPage + 1} count={pageCount} onChange={handleChange} style={{marginTop: "3rem"}}/>
 			<Grid container spacing={2} className={classes.cardContainer}>
-				{searchedPacks?.packs?.map(pack =>
+				{searchedPacks?.packs?.map((pack, i) =>
 				{
 					const faved = !!searchedPacks.userFavorites[pack.id];
 					return (
-						<Grid item xs={12} sm={6} md={4} lg={3}>
-							<PackSummary
-								isAdmin={isCreator}
-								authed={authData.authorized}
-								canEdit={pack.owner === authData.userId}
-								pack={pack}
-								favorited={faved}/>
-						</Grid>
+						<>
+							<Grid item xs={12} sm={6} md={4} lg={3}>
+								<PackSummary
+									isAdmin={isCreator}
+									authed={authData.authorized}
+									canEdit={pack.owner === authData.userId}
+									pack={pack}
+									favorited={faved}/>
+							</Grid>
+							{i % 3 === 2 && i > 1 && (
+								<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+									<AdResponsive/>
+								</Grid>
+							)}
+						</>
 					);
 				})}
 

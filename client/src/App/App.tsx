@@ -18,8 +18,9 @@ import {AppBarGameButtons} from "./GameButtons";
 import {Footer} from "./Footer";
 import {AppDrawer} from "./AppDrawer";
 import {ErrorModal} from "./ErrorModal";
-import {AdFixedBottom, HideableAd} from "../Shared/UI/Ads/sharedAds";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -56,6 +57,7 @@ const App: React.FC = () =>
 	const classes = useStyles();
 	const history = useHistory();
 	const mobile = useMediaQuery('(max-width:768px)');
+	const authData = useDataStore(AuthDataStore);
 	history.listen(() => BrowserUtils.scrollToTop());
 	useEffect(() =>
 	{
@@ -81,6 +83,7 @@ const App: React.FC = () =>
 	const familyEdition = isFamilyMode ? " (Family Edition)" : "";
 
 	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
+	const isSubscriber = authData.isSubscriber && authData.authorized;
 
 	return (
 		<div>
@@ -106,14 +109,11 @@ const App: React.FC = () =>
 						<AppBarRightButtons/>
 					</Toolbar>
 				</AppBar>
-				<Container maxWidth={"xl"} style={{position: "relative", padding: "2rem 1rem 6rem", minHeight: "75vh"}}>
+				<Container maxWidth={"xl"} style={{position: "relative", padding: isSubscriber ? "2rem 1rem 3rem" : "1rem 1rem 3rem", minHeight: "75vh"}}>
 					<ErrorBoundary>
 						<Routes/>
 					</ErrorBoundary>
 				</Container>
-				<HideableAd>
-					<AdFixedBottom/>
-				</HideableAd>
 				<Footer/>
 			</OuterContainer>
 			<ErrorModal/>

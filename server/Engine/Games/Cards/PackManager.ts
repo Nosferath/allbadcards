@@ -8,6 +8,7 @@ import {FilterQuery} from "mongodb";
 import levenshtein from "js-levenshtein";
 import {getFirstLastLetter} from "./CardUtils";
 import {BackerType} from "../../../../client/src/Global/Platform/Contract";
+import {ProfanityFilter} from "../../../Utils/TextUtils";
 
 class _PackManager
 {
@@ -191,13 +192,21 @@ class _PackManager
 
 	private checkPackValidity(packDef: ICardPackDefinition)
 	{
-		if (packDef.pack.name.match(/(cards against|against humanity|humanity|cah|party game|horrible people|concert)/gi))
+		const packNameWithoutVowels = packDef.pack.name.replace(/([aeiou]+)/gi, "");
+
+		if (packNameWithoutVowels.match(/(crdsvs|gnst|hmnty|hmntyprtygm|hrblple|cncrt)/gi))
 		{
 			throw new Error(`The pack name you chose may contain trademarked material. Please change it.`);
 		}
 
+		const hasProfanityInName = !!ProfanityFilter(packDef.pack.name);
+		if(hasProfanityInName)
+		{
+			throw new Error(`The pack name you chose is not allowed.`);
+		}
+
 		const initials = packDef.pack.name.split(" ").map(w => w.substr(0, 1)).join("").toLowerCase();
-		if(initials.includes("cah"))
+		if (initials.includes("cah"))
 		{
 			throw new Error("Packs must not use the initials \"CAH\" in the title.");
 		}

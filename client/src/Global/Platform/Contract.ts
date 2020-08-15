@@ -149,7 +149,6 @@ export enum BackerType
 	None = "None",
 	"Support the site! (Pay-what-you-want)" = "Support the site! (Pay-what-you-want)",
 	Sponsor = "Sponsor",
-	DiamondSponsor = "DiamondSponsor",
 	Owner = "Owner"
 }
 

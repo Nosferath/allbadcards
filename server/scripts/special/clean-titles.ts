@@ -2,6 +2,7 @@ import {PackManager} from "../../Engine/Games/Cards/PackManager";
 import {Database} from "../../DB/Database";
 import {ICardPackDefinition} from "../../Engine/Games/Game/GameContract";
 import cloneDeep from "clone-deep";
+import {ProfanityFilter} from "../../Utils/TextUtils";
 
 const levenshtein = require('fast-levenshtein');
 
@@ -35,6 +36,7 @@ const filterAllPacks = async () =>
 	{
 		return (a.definition.black.length + a.definition.white.length) - (b.definition.black.length + b.definition.white.length);
 	}).slice(1);
+
 	for (const pack of sortedPacks)
 	{
 		const packDef = pack.definition;
@@ -42,7 +44,6 @@ const filterAllPacks = async () =>
 
 		console.log(`${pack.packId} size: ${pack.definition.white.length + pack.definition.black.length}`);
 
-		const name = packDef.pack.name + "";
 		const newPackDef = filterPackForValidity(packDef);
 		const doNothing = newPackDef.pack.name === packDef.pack.name;
 		if (doNothing)
@@ -75,15 +76,22 @@ const filterPackForValidity = (packDef: ICardPackDefinition): ICardPackDefinitio
 {
 	const newDef = cloneDeep(packDef);
 
-	if (newDef.pack.name.match(/(cards against|against humanity|humanity|cah|party game|horrible people|concert)/gi))
+	const packNameWithoutVowels = packDef.pack.name.replace(/([aeiou]+)/gi, "");
+	if (packNameWithoutVowels.match(/(crdsvs|gnst|hmnty|hmntyprtygm|hrblple|cncrt)/gi))
 	{
-		newDef.pack.name = newDef.pack.name.replace(/cards against/gi, "Barns Behest");
-		newDef.pack.name = newDef.pack.name.replace(/against humanity/gi, "Bereft a Honeybee");
-		newDef.pack.name = newDef.pack.name.replace(/humanity/gi, "A Fanny Tree");
-		newDef.pack.name = newDef.pack.name.replace(/cah/gi, "");
-		newDef.pack.name = newDef.pack.name.replace(/Party Game/gi, "Farty Flame");
-		newDef.pack.name = newDef.pack.name.replace(/Horrible People/gi, "Adorable Kneehole");
-		newDef.pack.name = newDef.pack.name.replace(/Concert/gi, "");
+		newDef.pack.name = "[Name Redacted]";
+	}
+
+	const hasProfanityInName = !!ProfanityFilter(packDef.pack.name);
+	if(hasProfanityInName)
+	{
+		newDef.pack.name = "[Name Redacted]";
+	}
+
+	const initials = packDef.pack.name.split(" ").map(w => w.substr(0, 1)).join("").toLowerCase();
+	if (initials.includes("cah"))
+	{
+		newDef.pack.name = "[Name Redacted]";
 	}
 
 	return newDef;

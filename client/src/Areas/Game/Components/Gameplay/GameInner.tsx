@@ -16,6 +16,7 @@ import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
 import {useHistory, useParams} from "react-router";
 import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
 import {ClientGameItem} from "../../../../Global/Platform/Contract";
+import {Ad720x90, AdMobileBanner} from "../../../../Shared/UI/Ads/sharedAds";
 
 interface Props
 {
@@ -72,6 +73,14 @@ export const GameInner: React.FC<Props> = (
 
 	return (
 		<div style={{maxWidth: chatBarExpanded ? "calc(100% - 320px)" : "100%"}}>
+			<div style={{marginBottom: "3rem"}}>
+				{!tablet && (
+					<Ad720x90 style={{marginTop: 0}}/>
+				)}
+				{tablet && (
+					<AdMobileBanner style={{marginTop: 0}}/>
+				)}
+			</div>
 			<div style={{minHeight: "70vh"}}>
 				{iWasKicked && (
 					<Alert variant={"filled"} severity={"error"}>

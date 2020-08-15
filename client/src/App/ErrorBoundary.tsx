@@ -43,7 +43,7 @@ class ErrorBoundaryInternal extends React.Component<RouteComponentProps<{}>, IEr
 
 	public componentDidCatch(error: Error, errorInfo: React.ErrorInfo)
 	{
-		if (error.message.includes("insertBefore"))
+		if (error.message.includes("insertBefore") || error.message.match(/(ad|google|origin)/gi))
 		{
 			return;
 		}

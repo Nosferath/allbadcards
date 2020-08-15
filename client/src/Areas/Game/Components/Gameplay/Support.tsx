@@ -1,13 +1,11 @@
-import {ButtonGroup, colors, ListItem, ListItemText, Typography, useMediaQuery} from "@material-ui/core";
 import React, {useEffect, useState} from "react";
 import Button from "@material-ui/core/Button";
 import {Twemoji} from "react-emoji-render";
 import {Platform} from "@Global/Platform/platform";
-import List from "@material-ui/core/List";
-import {FaDollarSign, FaPaypal, RiExternalLinkLine} from "react-icons/all";
 import {makeStyles} from "@material-ui/styles";
 import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 import {useDataStore} from "@Global/Utils/HookUtils";
+import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles({
 	link: {
@@ -56,9 +54,6 @@ export const Support = () =>
 	];
 
 	const which = Math.floor(randomThankYou * thankYous.length);
-	const thankYouButton = thankYous[which];
-
-	const mobile = useMediaQuery('(max-width:768px)');
 
 	return (
 		<div style={{
@@ -66,27 +61,7 @@ export const Support = () =>
 			marginBottom: "8rem",
 			textAlign: "center"
 		}}>
-			<Typography variant={"h5"}>Did you enjoy the game? One dude made this site and it runs on donations!</Typography>
-			<Typography style={{marginTop: "1rem"}}>
-				{thankYouButton}
-				<List>
-					<ListItem>
-						<ListItemText style={{textAlign: "center"}} primary={<>
-							<ButtonGroup orientation={mobile ? "vertical" : "horizontal"}>
-								<Button style={{background: colors.blue.A100}} startIcon={<img width={18} src={"https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg"}/>} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://venmo.com/allbadcards"} target={"_blank"}>
-									venmo
-								</Button>
-								<Button style={{background: colors.orange.A100}} startIcon={<FaPaypal/>} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://paypal.me/jakelauer"} target={"_blank"}>
-									paypal
-								</Button>
-								<Button  style={{background: colors.green.A100}} startIcon={<FaDollarSign />} endIcon={<RiExternalLinkLine/>} variant={"contained"} size={"large"} className={classes.link} href={"https://cash.app/$allbadcards"} target={"_blank"}>
-									cashapp
-								</Button>
-							</ButtonGroup>
-						</>}/>
-					</ListItem>
-				</List>
-			</Typography>
+			<AdResponsive/>
 		</div>
 	);
 };

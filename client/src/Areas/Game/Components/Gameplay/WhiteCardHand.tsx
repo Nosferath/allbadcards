@@ -11,6 +11,8 @@ import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {AdCard} from "../../../../Shared/UI/Ads/sharedAds";
+import useMediaQuery from "@material-ui/core/useMediaQuery";
 
 interface Props
 {
@@ -93,28 +95,42 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const metPickTarget = targetPicked <= pickedCards.length;
 
+	const mobile = useMediaQuery('(max-width:768px)');
+	const every = mobile ? 3 : 5;
+
 	const renderedHand = renderedCardIds.map((cardId, i) =>
 	{
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
+		const showAd = mobile
+			? i % 4 === 3
+			: i === renderedCardIds.length - 1;
 
 		return (
-			<Grid item xs={12} sm={6} md={4} lg={3}>
-				{cardId && (
-					<WhiteCardOption
-						targetPicked={targetPicked}
-						cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
-						cardId={cardId}
-						hasPlayed={hasPlayed}
-						metPickTarget={metPickTarget}
-						onPick={onPick}
-						onUnpick={onUnpick}
-						picked={picked}
-						pickedIndex={pickedIndex}
-						isCustom={false}
-					/>
+			<>
+				<Grid item xs={12} sm={6} md={4} lg={3}>
+					{cardId && (
+						<WhiteCardOption
+							targetPicked={targetPicked}
+							cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
+							cardId={cardId}
+							hasPlayed={hasPlayed}
+							metPickTarget={metPickTarget}
+							onPick={onPick}
+							onUnpick={onUnpick}
+							picked={picked}
+							pickedIndex={pickedIndex}
+							isCustom={false}
+						/>
+					)}
+				</Grid>
+
+				{showAd && (
+					<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+						<AdCard/>
+					</Grid>
 				)}
-			</Grid>
+			</>
 		);
 	});
 

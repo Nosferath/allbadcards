@@ -1,6 +1,6 @@
 import React from "react";
 import classNames from "classnames";
-import {createStyles, Divider, Theme, Typography} from "@material-ui/core";
+import {createStyles, Theme, Typography} from "@material-ui/core";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Grid from "@material-ui/core/Grid";
 import {Platform} from "@Global/Platform/platform";
@@ -11,6 +11,7 @@ import CardContent from "@material-ui/core/CardContent";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 import {ArrayUtils} from "@Global/Utils/ArrayUtils";
+import {RemoveAdsButton} from "../../Shared/UI/Ads/RemoveAdsButton";
 
 const useStyles = makeStyles(theme => createStyles({
 	callout: {
@@ -116,20 +117,13 @@ export const SponsorList = () =>
 		<>
 			<div className={classes.callout}>
 				<Typography variant={"h6"}>
-					Sponsors: Keeping Us Running!
-				</Typography>
-				<Typography variant={"body2"} style={{padding: "1rem 0", maxWidth: "30rem", margin: "auto"}}>
-					This website operates with no ads or subscriptions. Donations and sponsorships support development and hosting.
-					Follow the Patreon link below to contribute!
+					Sponsors
 				</Typography>
 				<div>
-					<a href={"http://patreon.com/allbadcards"} target={"_blank"} rel={"noreferrer nofollow"}>
-						<img src={"/become_a_patron_button.png"}/>
-					</a>
+					<RemoveAdsButton/>
 				</div>
 			</div>
 			<Grid className={classes.sponsors}>
-				<DiamondSponsor/>
 
 				{shuffledSponsors.map((s, i) =>
 					<Sponsor key={i} sponsor={s}/>
@@ -158,26 +152,8 @@ export const SponsorList = () =>
 
 interface ISponsorProps
 {
-	isDiamondSponsor?: boolean;
 	sponsor: ISponsor | undefined;
 }
-
-export const DiamondSponsor = () =>
-{
-	return (
-		<Grid container>
-			<Grid item xs={12} style={{textAlign: "center"}}>
-				<Typography variant={"h5"}>This Month's Diamond Sponsor</Typography>
-				<Sponsor sponsor={{
-					src: "/sponsors/talkingout.png",
-					url: "https://talkingouturanus.com?source=abc",
-					byline: ""
-				}} isDiamondSponsor={true}/>
-				<Divider/>
-			</Grid>
-		</Grid>
-	);
-};
 
 export const Sponsor: React.FC<ISponsorProps> = (props) =>
 {
@@ -187,7 +163,6 @@ export const Sponsor: React.FC<ISponsorProps> = (props) =>
 	const wrapperClasses = classNames(classes.sponsor, {
 		[classes.hasSponsor]: !!props.sponsor,
 		[classes.noSponsor]: !props.sponsor,
-		[classes.diamond]: props.isDiamondSponsor
 	});
 
 	if (!envData.site?.base)
@@ -196,7 +171,7 @@ export const Sponsor: React.FC<ISponsorProps> = (props) =>
 	}
 
 	return (
-		<Grid item xs={12} sm={props.isDiamondSponsor ? 12 : 6} md={props.isDiamondSponsor ? 12 : 4} className={wrapperClasses}>
+		<Grid item xs={12} sm={6} md={4} className={wrapperClasses}>
 			<SponsorInner {...props} />
 		</Grid>
 	);
@@ -217,7 +192,7 @@ const SponsorInner: React.FC<ISponsorProps> = (props) =>
 {
 	const url = props.sponsor?.url ?? "http://patreon.com/allbadcards";
 
-	const byline = props.sponsor?.byline ?? (props.isDiamondSponsor ? "+ Diamond Sponsor" : "+ Sponsor");
+	const byline = props.sponsor?.byline ?? "+ Sponsor";
 
 	const track = () =>
 	{
@@ -231,7 +206,7 @@ const SponsorInner: React.FC<ISponsorProps> = (props) =>
 			{hasSponsor && (
 				<div style={{
 					width: "100%",
-					height: props.isDiamondSponsor ? "7rem" : "5rem",
+					height: "5rem",
 					backgroundImage: `url(${props.sponsor?.src})`,
 					backgroundSize: "contain",
 					backgroundRepeat: "no-repeat",
