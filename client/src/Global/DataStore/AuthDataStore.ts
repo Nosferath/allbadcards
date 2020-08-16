@@ -12,7 +12,7 @@ export interface IAuthContext
 	isSubscriber: boolean;
 }
 
-const LowestBacker = BackerType["Support the site! (Pay-what-you-want)"];
+const LowestBacker = BackerType["Hide Ads (Pay-what-you-want)"];
 
 export const BackerLevelMap = {
 	[BackerType.None]: [BackerType.None],

@@ -165,13 +165,14 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const roundsToWin = getTrueRoundsToWin(this.state.gameData.game as ClientGameItem);
 		const winnerGuid = playerGuids.find(pg => (players?.[pg].wins ?? 0) >= roundsToWin);
 		const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
+		const width = !this.state.authContext.isSubscriber ? "33vw" : "15vw";
 
 		return (
 			<>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
-				<div style={{width: tablet ? "100%" : "calc(100% - 320px)"}}>
+				<div style={{width: tablet ? "100%" : `calc(100% - ${width})`}}>
 					<PlayerJoinApproval/>
 					<GameInner gameId={id}/>
 					{winnerGuid && (

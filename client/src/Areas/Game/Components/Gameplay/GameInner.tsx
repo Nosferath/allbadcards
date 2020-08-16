@@ -6,17 +6,18 @@ import {GamePlayWhite} from "../../GamePlayWhite";
 import {GamePlayBlack} from "../../GamePlayBlack";
 import {GamePlaySpectate} from "../../GamePlaySpectate";
 import React from "react";
-import {useDataStore} from "../../../../Global/Utils/HookUtils";
-import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
-import {UserDataStore} from "../../../../Global/DataStore/UserDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {GameDataStore} from "@Global/DataStore/GameDataStore";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import GameStart from "../../GameStart";
 import GameJoin from "../../GameJoin";
 import moment from "moment";
-import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
+import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
 import {useHistory, useParams} from "react-router";
-import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
-import {ClientGameItem} from "../../../../Global/Platform/Contract";
-import {Ad720x90, AdMobileBanner} from "../../../../Shared/UI/Ads/sharedAds";
+import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
+import {ClientGameItem} from "@Global/Platform/Contract";
+import {AdMobileBanner} from "../../../../Shared/UI/Ads/sharedAds";
+import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 
 interface Props
 {
@@ -32,6 +33,7 @@ export const GameInner: React.FC<Props> = (
 	const gameData = useDataStore(GameDataStore);
 	const userData = useDataStore(UserDataStore);
 	const chatData = useDataStore(ChatDataStore);
+	const authData = useDataStore(AuthDataStore);
 	const params = useParams<{ throwaway?: string }>();
 	const history = useHistory();
 
@@ -71,12 +73,11 @@ export const GameInner: React.FC<Props> = (
 	const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 	const chatBarExpanded = chatData.sidebarOpen && !tablet && canChat;
 
+	const width = !authData.isSubscriber ? "33vw" : "15vw";
+
 	return (
-		<div style={{maxWidth: chatBarExpanded ? "calc(100% - 320px)" : "100%"}}>
-			<div style={{marginBottom: "3rem"}}>
-				{!tablet && (
-					<Ad720x90 style={{marginTop: 0}}/>
-				)}
+		<div style={{maxWidth: chatBarExpanded ? `calc(100% - ${width})` : "100%"}}>
+			<div style={{marginBottom: "1rem"}}>
 				{tablet && (
 					<AdMobileBanner style={{marginTop: 0}}/>
 				)}

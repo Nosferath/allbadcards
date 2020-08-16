@@ -147,7 +147,7 @@ export interface IBlackCardDefinition
 export enum BackerType
 {
 	None = "None",
-	"Support the site! (Pay-what-you-want)" = "Support the site! (Pay-what-you-want)",
+	"Hide Ads (Pay-what-you-want)" = "Hide Ads (Pay-what-you-want)",
 	Sponsor = "Sponsor",
 	Owner = "Owner"
 }

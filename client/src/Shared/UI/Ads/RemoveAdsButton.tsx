@@ -6,14 +6,16 @@ import {useHistory} from "react-router";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {MdRemoveCircle} from "react-icons/md/index";
+import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 
 export const RemoveAdsButton = () =>
 {
+	const envData = useDataStore(EnvDataStore);
 	const authData = useDataStore(AuthDataStore);
 	const [showModal, setShowModal] = useState(false);
 	const history = useHistory();
 
-	if(authData.isSubscriber)
+	if(authData.isSubscriber || envData.site?.family)
 	{
 		return null;
 	}

@@ -4,6 +4,7 @@ import {useDataStore, usePrevious} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
+import {useAdBlockDetector} from 'adblock-detector-hook';
 
 declare var adsbygoogle: any;
 
@@ -17,13 +18,20 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 		...rest
 	} = props;
 
-	if (String("ads") === "enabled")
+	const {detected} = useAdBlockDetector();
+
+	const authData = useDataStore(AuthDataStore);
+	const envData = useDataStore(EnvDataStore);
+
+	if (detected)
 	{
 		return null;
 	}
 
-	const authData = useDataStore(AuthDataStore);
-	const envData = useDataStore(EnvDataStore);
+	if (String("ads") === "enabled")
+	{
+		return null;
+	}
 
 	if (envData.site?.family)
 	{
@@ -75,8 +83,15 @@ const AdRefresher: React.FC<AdProps> = (props) =>
 
 		if (!newRefresh && !refresh)
 		{
-			adsbygoogle = adsbygoogle || []
-			adsbygoogle.push({})
+			try
+			{
+				(window as any).adsbygoogle = (window as any).adsbygoogle ?? []
+				adsbygoogle?.push({})
+			}
+			catch(e)
+			{
+				console.error(e);
+			}
 		}
 
 	}, [history.url, refresh]);
@@ -93,31 +108,6 @@ const AdRefresher: React.FC<AdProps> = (props) =>
 	}
 }
 
-export const Ad720x90: React.FC<AdProps> = (props) =>
-{
-	const mobile = matchMedia('(max-width:768px)').matches;
-
-	if (mobile)
-	{
-		return <AdResponsive/>;
-	}
-
-	return (
-		<HideableAd {...props}>
-			<AdRefresher>
-				<ins className="adsbygoogle"
-				     style={{
-					     display: "block",
-					     width: 728,
-					     height: 90
-				     }}
-				     data-ad-client="ca-pub-8346501809638313"
-				     data-ad-slot="4227022681"
-				/>
-			</AdRefresher>
-		</HideableAd>
-	);
-};
 
 export const AdResponsive: React.FC<AdProps> = (props) =>
 {

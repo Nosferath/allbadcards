@@ -103,7 +103,7 @@ export const WhiteCardHand: React.FC<Props> = (
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
 		const showAd = mobile
-			? i % 4 === 3
+			? i % 5 === 4
 			: i === renderedCardIds.length - 1;
 
 		return (

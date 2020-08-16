@@ -3,13 +3,12 @@ import {MdArrowForward} from "react-icons/all";
 import Button from "@material-ui/core/Button";
 import {RouteComponentProps, withRouter} from "react-router";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
-import {UserData, UserDataStore} from "../../Global/DataStore/UserDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import {SponsorList} from "./SponsorList";
-import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
-import {JoinNewButtons} from "../../UI/JoinNewButtons";
-import {Ad720x90} from "../../Shared/UI/Ads/sharedAds";
+import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
+import {JoinNewButtons} from "@UI/JoinNewButtons";
 import {Paper} from "@material-ui/core";
 
 interface IGameDashboardProps extends RouteComponentProps
@@ -79,8 +78,6 @@ class GameDashboard extends React.Component<Props, State>
 						{otherLabel} &nbsp; <MdArrowForward/>
 					</Button>
 				</ButtonGroup>
-
-				<Ad720x90/>
 
 				{EnvDataStore.state.site.family && (
 					<Paper style={{padding: "1rem", marginTop: "3rem"}}>
