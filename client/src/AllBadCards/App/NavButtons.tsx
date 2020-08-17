@@ -1,6 +1,6 @@
 import {Button, createStyles, DialogActions, DialogContent, IconButton, Menu, MenuItem, Typography, useMediaQuery} from "@material-ui/core";
 import {Link} from "react-router-dom";
-import {FaHome, FaUser, GiCardPlay, GiCardRandom} from "react-icons/all";
+import {FaListAlt, FaUser, GiCardPlay, GiCardRandom} from "react-icons/all";
 import {SiteRoutes} from "../Global/Routes/Routes";
 import * as React from "react";
 import {useState} from "react";
@@ -27,8 +27,8 @@ export const NavButtons = () =>
 
 	return (
 		<>
-			<NavButton to={"/"} icon={<FaHome/>}>
-				Home
+			<NavButton to={"/how-to-play"} icon={<FaListAlt/>}>
+				How To Play
 			</NavButton>
 			{envData.site.base && (
 				<NavButton to={SiteRoutes.Games.resolve()} icon={<GiCardPlay/>}>

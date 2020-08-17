@@ -129,13 +129,15 @@ const Create = () =>
 		PackCreatorDataStore.save()
 			.then(pack =>
 			{
-				setSaveLoading(false);
 				if (pack && !params.id)
 				{
 					history.push(SiteRoutes.PackCreate.resolve({
 						id: pack?.definition?.pack?.id
 					}));
 				}
+			})
+			.finally(() => {
+				setSaveLoading(false);
 			});
 	};
 

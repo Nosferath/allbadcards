@@ -1,16 +1,18 @@
 import Grid from "@material-ui/core/Grid";
-import {WhiteCard} from "../../../../UI/WhiteCard";
+import {WhiteCard} from "@AbcUI/WhiteCard";
 import Button from "@material-ui/core/Button";
 import * as React from "react";
 import {useState} from "react";
-import {GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
-import {UserData} from "../../../../../Shared/Global/DataStore/UserDataStore";
+import {GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {UserData} from "@Global/DataStore/UserDataStore";
 import sanitize from "sanitize-html";
-import {CardId} from "../../../../Global/Platform/Contract";
+import {CardId} from "@AbcGlobal/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import useMediaQuery from "@material-ui/core/useMediaQuery";
+import {AdCard} from "@UI/Ads/sharedAds";
 
 interface Props
 {
@@ -93,28 +95,42 @@ export const WhiteCardHand: React.FC<Props> = (
 
 	const metPickTarget = targetPicked <= pickedCards.length;
 
+	const mobile = useMediaQuery('(max-width:768px)');
+	const every = mobile ? 3 : 5;
+
 	const renderedHand = renderedCardIds.map((cardId, i) =>
 	{
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
+		const showAd = mobile
+			? i % 5 === 4
+			: i === renderedCardIds.length - 1;
 
 		return (
-			<Grid item xs={12} sm={6} md={4} lg={3}>
-				{cardId && (
-					<WhiteCardOption
-						targetPicked={targetPicked}
-						cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
-						cardId={cardId}
-						hasPlayed={hasPlayed}
-						metPickTarget={metPickTarget}
-						onPick={onPick}
-						onUnpick={onUnpick}
-						picked={picked}
-						pickedIndex={pickedIndex}
-						isCustom={false}
-					/>
+			<>
+				<Grid item xs={12} sm={6} md={4} lg={3}>
+					{cardId && (
+						<WhiteCardOption
+							targetPicked={targetPicked}
+							cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
+							cardId={cardId}
+							hasPlayed={hasPlayed}
+							metPickTarget={metPickTarget}
+							onPick={onPick}
+							onUnpick={onUnpick}
+							picked={picked}
+							pickedIndex={pickedIndex}
+							isCustom={false}
+						/>
+					)}
+				</Grid>
+
+				{showAd && (
+					<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+						<AdCard/>
+					</Grid>
 				)}
-			</Grid>
+			</>
 		);
 	});
 

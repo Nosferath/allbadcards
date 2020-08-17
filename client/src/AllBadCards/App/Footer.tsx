@@ -1,27 +1,28 @@
 import {useHistory} from "react-router";
-import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
-import {ChatDataStore} from "../../Shared/Global/DataStore/ChatDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
 import {Button, ButtonGroup, Container, IconButton, Switch, Typography, useMediaQuery} from "@material-ui/core";
-import Grid from "@material-ui/core/Grid";
-import Divider from "@material-ui/core/Divider";
-import {DiamondSponsor} from "../Areas/GameDashboard/SponsorList";
 import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
 import * as React from "react";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
+import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
+import {RemoveAdsButton} from "@UI/Ads/RemoveAdsButton";
 
 export const Footer = () =>
 {
+	const authData = useDataStore(AuthDataStore);
 	const history = useHistory();
 	const chatData = useDataStore(ChatDataStore);
 	const tablet = useMediaQuery('(max-width:1200px)');
 	const isGamePage = history.location.pathname.startsWith("/game/");
 
-	const isHome = history.location.pathname === "/";
 	const bugReportUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=bug&template=bug_report.md";
 	const featureRequestUrl = "https://github.com/jakelauer/allbadcards/issues/new?assignees=jakelauer&labels=enhancement&template=feature_request.md";
 	const date = new Date();
 	const year = date.getFullYear();
 	const chatMode = (isGamePage && chatData.sidebarOpen && !tablet);
+
+	const width = !authData.isSubscriber ? "33vw" : "15vw";
 
 	return (
 		<Container
@@ -29,16 +30,11 @@ export const Footer = () =>
 			style={{
 				position: "relative",
 				padding: "2rem 0 0 0",
-				maxWidth: chatMode ? "calc(100% - 320px)" : "100%",
+				maxWidth: chatMode ? `calc(100% - ${width})` : "100%",
 				marginLeft: chatMode ? "0" : "auto"
 			}}
 		>
-			{!isHome && (
-				<Grid style={{marginTop: "5rem"}}>
-					<Divider style={{margin: "1rem 0"}}/>
-					<DiamondSponsor/>
-				</Grid>
-			)}
+			<RemoveAdsButton/>
 			<DarkModeSwitch/>
 			<div style={{textAlign: "center", padding: "0.5rem 0"}}>
 				<ButtonGroup style={{margin: "1rem 0 2rem"}}>

@@ -39,7 +39,7 @@ class _SocketDataStore extends DataStore<SocketDataStorePayload>
 			manualClose = true;
 		}
 
-		const isLocal = !!location.hostname.match("local");
+		const isLocal = !!location.host.match(":");
 		const protocol = location.protocol === "http:" ? "ws:" : "wss:";
 		const url = isLocal
 			? `ws://${location.hostname}:8080`

@@ -37,7 +37,7 @@ export const Confirmation: React.FC = (props) =>
 	const isGamePage = history.location.pathname.startsWith("/game/");
 
 	return (
-		<Paper className={classes.container} style={{maxWidth: (isGamePage && chatDrawerOpen && !tablet) ? "calc(100% - 320px)" : "100%"}}>
+		<Paper className={classes.container} style={{maxWidth: (isGamePage && chatDrawerOpen && !tablet) ? "calc(100% - 33vw)" : "100%"}}>
 			<Container maxWidth={"xl"} style={{padding :0}}>
 				<div className={classes.inner}>
 					{props.children}

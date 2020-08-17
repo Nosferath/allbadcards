@@ -1,11 +1,11 @@
 import React from "react";
 import {Avatar, CardActions, CardContent, CardHeader, createStyles, Divider, IconButton, Typography} from "@material-ui/core";
-import {AbcPlatform} from "../../Global/Platform/abcPlatform";
+import {AbcPlatform} from "@AbcGlobal/Platform/abcPlatform";
 import {FaArrowAltCircleRight} from "react-icons/all";
 import {Link} from "react-router-dom";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
-import {AbstractGameList} from "../../../Shared/UI/AbstractGameList";
+import {getTrueRoundsToWin} from "@AbcGlobal/Utils/GameUtils";
+import {AbstractGameList} from "@UI/AbstractGameList";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {

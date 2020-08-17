@@ -19,7 +19,6 @@ import {AppBarGameButtons} from "./GameButtons";
 import {Footer} from "./Footer";
 import {AppDrawer} from "./AppDrawer";
 import {ErrorModal} from "../../Shared/UI/ErrorModal";
-import {AdFixedBottom, HideableAd} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -111,9 +110,6 @@ const AllBadCardsApp: React.FC = () =>
 						<Routes/>
 					</ErrorBoundary>
 				</Container>
-				<HideableAd>
-					<AdFixedBottom/>
-				</HideableAd>
 				<Footer/>
 			</OuterContainer>
 			<ErrorModal/>

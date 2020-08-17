@@ -169,7 +169,7 @@ export class ShowWinner extends React.Component<Props, State>
 						</WhiteCard>
 					</Grid>
 				</Grid>
-				<Grid item xs={12} sm={12}>
+				<Grid item md={12} lg={6}>
 					{!gameWinner && (
 						<>
 							{isChooser && (

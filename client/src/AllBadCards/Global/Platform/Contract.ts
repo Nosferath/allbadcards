@@ -147,9 +147,8 @@ export interface IBlackCardDefinition
 export enum BackerType
 {
 	None = "None",
-	"Support the site! (Pay-what-you-want)" = "Support the site! (Pay-what-you-want)",
+	"Hide Ads (Pay-what-you-want)" = "Hide Ads (Pay-what-you-want)",
 	Sponsor = "Sponsor",
-	DiamondSponsor = "DiamondSponsor",
 	Owner = "Owner"
 }
 
@@ -215,10 +214,10 @@ export const PackCategories = [
 
 export interface PackSearch
 {
-	search?: string;
-	category?: ValuesOf<typeof PackCategories>;
-	nsfw?: boolean;
-	sort?: PackSearchSort;
+	search: string | null;
+	category: ValuesOf<typeof PackCategories> | null;
+	nsfw: boolean | null;
+	sort: PackSearchSort | null;
 }
 
 export type PackSearchSort = "favorites" | "newest" | "largest";

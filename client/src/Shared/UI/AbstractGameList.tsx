@@ -7,6 +7,7 @@ import {ErrorDataStore} from "../../AllBadCards/Global/DataStore/ErrorDataStore"
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../AllBadCards/UI/JoinNewButtons";
 import Helmet from "react-helmet";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -133,12 +134,19 @@ export const AbstractGameList = <TGameSummaryData extends any>(props: IAbstractG
 			</Typography>
 			<Pagination page={currentPage + 1} count={currentPageGames.length >= 8 ? currentPage + 2 : currentPage + 1} onChange={handleChange} style={{marginTop: "1rem"}}/>
 			<Grid container spacing={2} className={classes.cardContainer}>
-				{currentPageGames.map(game => (
-					<Grid item xs={12} sm={6} md={4} lg={3}>
-						<Card elevation={5}>
-							{props.renderGameSummary(game)}
-						</Card>
-					</Grid>
+				{currentPageGames.map((game, i) => (
+					<>
+						<Grid item xs={12} sm={6} md={4} lg={3}>
+							<Card elevation={5}>
+								{props.renderGameSummary(game)}
+							</Card>
+						</Grid>
+						{i % 3 === 2 && i > 1 && (
+							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+								<AdResponsive/>
+							</Grid>
+						)}
+					</>
 				))}
 			</Grid>
 			<Typography variant={"subtitle2"} style={{opacity: 0.75, marginBottom: "1rem"}}>

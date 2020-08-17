@@ -2,9 +2,8 @@ import * as React from "react";
 import {RouteComponentProps, withRouter} from "react-router";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import Container from "@material-ui/core/Container";
-import Paper from "@material-ui/core/Paper";
 import Typography from "@material-ui/core/Typography";
-import {Divider, Grid} from "@material-ui/core";
+import {Divider, Grid, Paper} from "@material-ui/core";
 import {TwitterTimelineEmbed} from "react-twitter-embed";
 import {SponsorList} from "../../AllBadCards/Areas/GameDashboard/SponsorList";
 
@@ -55,7 +54,7 @@ class GameDashboard extends React.Component<Props, State>
 
 		return (
 			<Container style={{textAlign: "center"}}>
-				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>{this.props.tagline}</Typography>
+				<Typography component={"h1"} variant={mobile ? "h5" : "h3"}>be rude. be irreverent. be hilarious!</Typography>
 
 				{this.props.subTagLine && (
 					<Typography variant={"h4"} style={{marginTop: "1rem"}}>{this.props.subTagLine}</Typography>

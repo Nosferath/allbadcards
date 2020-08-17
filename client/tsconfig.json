@@ -27,9 +27,10 @@
       }
     ],
     "paths": {
-      "@Global/*": ["Global/*"],
-      "@Areas/*": ["Areas/*"],
-      "@UI/*": ["./UI/*"]
+      "@UI/*": ["Shared/UI/*"],
+      "@Global/*": ["Shared/Global/*"],
+      "@AbcGlobal/*": ["AllBadCards/Global/*"],
+      "@AbcUI/*": ["AllBadCards/UI/*"]
     }
   },
   "include": [

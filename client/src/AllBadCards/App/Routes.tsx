@@ -3,9 +3,9 @@ import {ComponentType} from "react";
 import {Redirect, Route, Switch} from "react-router";
 import {ContainerProgress} from "../UI/ContainerProgress";
 import {SiteRoutes} from "../Global/Routes/Routes";
-import {useDataStore} from "../../Shared/Global/Utils/HookUtils";
-import {AuthDataStore} from "../../Shared/Global/DataStore/AuthDataStore";
-import {UserDataStore} from "../../Shared/Global/DataStore/UserDataStore";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 
 interface IRoutesProps
 {
@@ -58,6 +58,9 @@ export const Routes: React.FC<Props> = (props) =>
 			<Route path={SiteRoutes.Settings.path}>
 				<Suspender importer={() => import("../Areas/User/Settings")}/>
 			</Route>
+			<Route path={SiteRoutes.Rules.path}>
+				<Suspender importer={() => import("../Areas/Rules/Rules")}/>
+			</Route>share
 			<Route>
 				<Redirect to={"/"}/>
 			</Route>
