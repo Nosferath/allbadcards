@@ -12,7 +12,7 @@ import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
-import {AdCard} from "@UI/Ads/sharedAds";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface Props
 {
@@ -127,7 +127,7 @@ export const WhiteCardHand: React.FC<Props> = (
 
 				{showAd && (
 					<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-						<AdCard/>
+						<AdResponsive/>
 					</Grid>
 				)}
 			</>
