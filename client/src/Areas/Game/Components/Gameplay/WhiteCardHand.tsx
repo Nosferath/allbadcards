@@ -5,14 +5,14 @@ import * as React from "react";
 import {useState} from "react";
 import {GameDataStorePayload} from "@Global/DataStore/GameDataStore";
 import {UserData} from "@Global/DataStore/UserDataStore";
-import sanitize from "sanitize-html";
 import {CardId} from "@Global/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {AdCard} from "../../../../Shared/UI/Ads/sharedAds";
+import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
+import {normalizeCard} from "@Global/Utils/GameUtils";
 
 interface Props
 {
@@ -103,7 +103,7 @@ export const WhiteCardHand: React.FC<Props> = (
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
 		const showAd = mobile
-			? i % 5 === 4
+			? i === 4
 			: i === renderedCardIds.length - 1;
 
 		return (
@@ -112,7 +112,7 @@ export const WhiteCardHand: React.FC<Props> = (
 					{cardId && (
 						<WhiteCardOption
 							targetPicked={targetPicked}
-							cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
+							cardBody={normalizeCard(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "[card failed to load]")}
 							cardId={cardId}
 							hasPlayed={hasPlayed}
 							metPickTarget={metPickTarget}
@@ -127,7 +127,7 @@ export const WhiteCardHand: React.FC<Props> = (
 
 				{showAd && (
 					<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-						<AdCard/>
+						<AdResponsive/>
 					</Grid>
 				)}
 			</>
@@ -247,7 +247,7 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 					onChange={e => setInput(e.currentTarget.value)}
 				/>
 			) : (
-				<div dangerouslySetInnerHTML={{__html: sanitize(unescape(cardBody))}}/>
+				<div dangerouslySetInnerHTML={{__html: normalizeCard(cardBody)}}/>
 			)}
 		</WhiteCard>
 	);

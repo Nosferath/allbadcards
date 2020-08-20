@@ -9,7 +9,6 @@ import Typography from "@material-ui/core/Typography";
 import {SponsorList} from "./SponsorList";
 import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 import {JoinNewButtons} from "@UI/JoinNewButtons";
-import {Paper} from "@material-ui/core";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -78,14 +77,6 @@ class GameDashboard extends React.Component<Props, State>
 						{otherLabel} &nbsp; <MdArrowForward/>
 					</Button>
 				</ButtonGroup>
-
-				{EnvDataStore.state.site.family && (
-					<Paper style={{padding: "1rem", marginTop: "3rem"}}>
-						<Typography variant={"caption"}>
-							Cards Against Humanity by <a href={"https://cardsagainsthumanity.com"}>Cards Against Humanity</a> LLC is licensed under CC BY-NC-SA 2.0.
-						</Typography>
-					</Paper>
-				)}
 
 				<div>
 					<SponsorList/>

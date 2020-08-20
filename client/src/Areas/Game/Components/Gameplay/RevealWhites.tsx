@@ -4,10 +4,10 @@ import {WhiteCard} from "../../../../UI/WhiteCard";
 import Divider from "@material-ui/core/Divider";
 import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import {UserData, UserDataStore} from "../../../../Global/DataStore/UserDataStore";
-import sanitize from "sanitize-html";
 import {LoadingButton} from "../../../../UI/LoadingButton";
 import {Typography} from "@material-ui/core";
 import {CardId} from "../../../../Global/Platform/Contract";
+import {normalizeCard} from "@Global/Utils/GameUtils";
 
 interface IRevealWhitesProps
 {
@@ -119,7 +119,7 @@ export class RevealWhites extends React.Component <Props, State>
 						<WhiteCard key={revealedIndex} style={{marginBottom: "0.5rem"}}>
 							{cardsRevealed.map(card => card && (
 								<>
-									<div dangerouslySetInnerHTML={{__html: sanitize(unescape(card))}}/>
+									<div dangerouslySetInnerHTML={{__html: normalizeCard(card)}}/>
 									<Divider style={{margin: "1rem 0"}}/>
 								</>
 							))}

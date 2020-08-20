@@ -33,11 +33,6 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 		return null;
 	}
 
-	if (envData.site?.family)
-	{
-		return null;
-	}
-
 	if (authData.authorized && authData.isSubscriber)
 	{
 		return null;
