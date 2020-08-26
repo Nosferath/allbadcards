@@ -60,6 +60,7 @@ export const ChatSidebar: React.FC<Props> = () =>
 				width: "18vw"
 			}}>
 				<AdResponsive/>
+				<AdResponsive/>
 				<br/>
 				<RemoveAdsButton />
 			</div>

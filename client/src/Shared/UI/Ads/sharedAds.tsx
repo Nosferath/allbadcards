@@ -161,7 +161,7 @@ export const AdMobileBanner: React.FC<AdProps> = (props) =>
 				<ins className="adsbygoogle"
 				     style={{
 					     display: "block",
-					     maxWidth: 800,
+					     maxWidth: 1200,
 					     height: 90
 				     }}
 				     data-ad-format="fluid"

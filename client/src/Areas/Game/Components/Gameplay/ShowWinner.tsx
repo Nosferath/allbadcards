@@ -152,12 +152,12 @@ export class ShowWinner extends React.Component<Props, State>
 		return (
 			<>
 				<Grid style={{margin: "1rem 0 0.5rem", justifyContent: "center"}} container spacing={3}>
-					<Grid item xs={12} sm={6} md={4} lg={3}>
+					<Grid item xs={12} sm={6} md={4}>
 						<BlackCard packId={this.state.gameData.game?.blackCard.packId}>
 							{blackCardContent}
 						</BlackCard>
 					</Grid>
-					<Grid item xs={12} sm={6} md={4} lg={3}>
+					<Grid item xs={12} sm={6} md={4}>
 						<WhiteCard>
 							{winnerCards.map(card => card && (
 								<>

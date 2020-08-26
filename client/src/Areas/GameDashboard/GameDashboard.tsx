@@ -9,6 +9,7 @@ import Typography from "@material-ui/core/Typography";
 import {SponsorList} from "./SponsorList";
 import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 import {JoinNewButtons} from "@UI/JoinNewButtons";
+import {AdMobileBanner} from "../../Shared/UI/Ads/sharedAds";
 
 interface IGameDashboardProps extends RouteComponentProps
 {
@@ -77,6 +78,8 @@ class GameDashboard extends React.Component<Props, State>
 						{otherLabel} &nbsp; <MdArrowForward/>
 					</Button>
 				</ButtonGroup>
+
+				<AdMobileBanner/>
 
 				<div>
 					<SponsorList/>
