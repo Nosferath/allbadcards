@@ -15,7 +15,7 @@ export const RemoveAdsButton = () =>
 	const [showModal, setShowModal] = useState(false);
 	const history = useHistory();
 
-	if(authData.isSubscriber || envData.site?.family)
+	if(authData.isSubscriber)
 	{
 		return null;
 	}

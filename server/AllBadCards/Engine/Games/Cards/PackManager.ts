@@ -455,7 +455,7 @@ class _PackManager
 				packIds.unshift(...PackManager.getApprovedCustomPacks().map(c => c.packId));
 				break;
 			case "family":
-				packIds = ["family_edition", "DcaImc6UC"];
+				packIds = ["DcaImc6UC"];
 				break;
 			default:
 				throw new Error("No pack type " + which + " exists!");
@@ -499,9 +499,9 @@ class _PackManager
 				isOfficial: false,
 				name: "All Bad Cards - Official Family Edition",
 				quantity: {
-					black: 38,
-					white: 179,
-					total: 38 + 179
+					black: 58,
+					white: 287,
+					total: 58 + 287
 				}
 			}
 		];

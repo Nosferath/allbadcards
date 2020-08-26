@@ -2,11 +2,13 @@ import {useHistory} from "react-router";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
 import {Button, ButtonGroup, Container, IconButton, Switch, Typography, useMediaQuery} from "@material-ui/core";
-import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, MdBugReport, TiLightbulb} from "react-icons/all";
+import {FaGithub, FaPatreon, FaRedditAlien, FaTwitter, TiLightbulb} from "react-icons/all";
 import * as React from "react";
 import {PreferencesDataStore} from "../Global/DataStore/PreferencesDataStore";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {RemoveAdsButton} from "@UI/Ads/RemoveAdsButton";
+
+declare var _urq: any;
 
 export const Footer = () =>
 {
@@ -42,23 +44,16 @@ export const Footer = () =>
 						size={"small"}
 						color={"default"}
 						variant={"outlined"}
-						href={bugReportUrl}
+						href={"https://feedback.userreport.com/f3ba274c-3e8b-474b-b478-1b39ccbe5f9a/"}
 						target={"_blank"}
 						rel={"noreferrer nofollow"}
-						startIcon={<MdBugReport/>}
-					>
-						Report a Bug
-					</Button>
-					<Button
-						size={"small"}
-						color={"default"}
-						variant={"outlined"}
+						onClick={(event) => {
+							event.preventDefault();
+							_urq.push(['Feedback_Open']);
+						}}
 						startIcon={<TiLightbulb/>}
-						href={featureRequestUrl}
-						target={"_blank"}
-						rel={"noreferrer nofollow"}
 					>
-						Feature Idea
+						Feedback + Ideas?
 					</Button>
 				</ButtonGroup>
 				<Typography>

@@ -5,13 +5,14 @@ import * as React from "react";
 import {useState} from "react";
 import {GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
 import {UserData} from "@Global/DataStore/UserDataStore";
-import sanitize from "sanitize-html";
 import {CardId} from "@AbcGlobal/Platform/Contract";
 import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
+import {normalizeCard} from "@Global/Utils/GameUtils";
 import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface Props
@@ -103,7 +104,7 @@ export const WhiteCardHand: React.FC<Props> = (
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
 		const showAd = mobile
-			? i % 5 === 4
+			? i === 4
 			: i === renderedCardIds.length - 1;
 
 		return (
@@ -112,7 +113,7 @@ export const WhiteCardHand: React.FC<Props> = (
 					{cardId && (
 						<WhiteCardOption
 							targetPicked={targetPicked}
-							cardBody={renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? ""}
+							cardBody={normalizeCard(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "[card failed to load]")}
 							cardId={cardId}
 							hasPlayed={hasPlayed}
 							metPickTarget={metPickTarget}
@@ -247,7 +248,7 @@ const WhiteCardOption: React.FC<CardOptionProps> = (
 					onChange={e => setInput(e.currentTarget.value)}
 				/>
 			) : (
-				<div dangerouslySetInnerHTML={{__html: sanitize(unescape(cardBody))}}/>
+				<div dangerouslySetInnerHTML={{__html: normalizeCard(cardBody)}}/>
 			)}
 		</WhiteCard>
 	);

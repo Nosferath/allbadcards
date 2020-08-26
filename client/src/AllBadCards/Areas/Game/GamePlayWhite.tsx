@@ -19,6 +19,7 @@ import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import Button from "@material-ui/core/Button";
 import {Instructions} from "./Components/Gameplay/Instructions";
+import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
 
 interface IGamePlayWhiteProps
 {
@@ -219,7 +220,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 			.filter(pg => !(pg in (roundCards ?? {})) && pg !== chooserGuid);
 
 		const remainingPlayers = remainingPlayerGuids.map(pg => unescape(players?.[pg]?.nickname));
-
+		const mobile = matchMedia('(max-width:768px)').matches;
 		const hasPlayed = userData.playerGuid in roundCards;
 		const hasWinner = !!gameData.game?.lastWinner;
 
@@ -242,7 +243,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 				<Divider style={{margin: "1rem 0"}}/>
 				<Grid container spacing={2} style={{justifyContent: "center"}}>
 					{(roundStarted && !hasWinner) && (
-						<Grid item xs={12} sm={6} md={4} lg={3}>
+						<Grid item xs={12} sm={6} md={4}>
 							<BlackCard packId={gameData.game?.blackCard.packId}>
 								{gameData.blackCardDef?.content}
 							</BlackCard>
@@ -283,6 +284,12 @@ export class GamePlayWhite extends React.Component<Props, State>
 										</LoadingButton>
 									</div>
 								</Tooltip>
+							</Grid>
+						)}
+
+						{mobile && (
+							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+								<AdResponsive/>
 							</Grid>
 						)}
 					</Grid>

@@ -33,11 +33,6 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 		return null;
 	}
 
-	if (envData.site?.family)
-	{
-		return null;
-	}
-
 	if (authData.authorized && authData.isSubscriber)
 	{
 		return null;
@@ -166,7 +161,7 @@ export const AdMobileBanner: React.FC<AdProps> = (props) =>
 				<ins className="adsbygoogle"
 				     style={{
 					     display: "block",
-					     maxWidth: 800,
+					     maxWidth: 1200,
 					     height: 90
 				     }}
 				     data-ad-format="fluid"

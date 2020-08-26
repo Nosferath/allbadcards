@@ -6,10 +6,9 @@ import {useDataStore} from "../../../../../Shared/Global/Utils/HookUtils";
 import {GameDataStore} from "../../../../Global/DataStore/GameDataStore";
 import {WhiteCard} from "../../../../UI/WhiteCard";
 import {UserDataStore} from "../../../../../Shared/Global/DataStore/UserDataStore";
-import sanitize from "sanitize-html";
 import {LoadingButton} from "../../../../UI/LoadingButton";
 import {CardId} from "../../../../Global/Platform/Contract";
-import {cardDefsLoaded} from "../../../../Global/Utils/GameUtils";
+import {cardDefsLoaded, normalizeCard} from "../../../../Global/Utils/GameUtils";
 
 export interface IPickWinnerProps
 {
@@ -74,7 +73,7 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 				<>
 					<Grid container spacing={2} style={{justifyContent: "center"}}>
 						{roundCardKeys.map((playerGuid, i) => (
-							<Grid item xs={12} sm={6} md={4} lg={3}>
+							<Grid item xs={12} sm={6} md={4}>
 								<WhiteCard actions={canPick && (
 									<LoadingButton
 										loading={pickWinnerLoading}
@@ -87,7 +86,7 @@ export const PickWinner: React.FC<IPickWinnerProps> = (
 								)}>
 									{roundCardValues[i]?.map(card => card && (
 										<>
-											<div dangerouslySetInnerHTML={{__html: sanitize(unescape(card))}}/>
+											<div dangerouslySetInnerHTML={{__html: normalizeCard(card)}}/>
 											<Divider style={{margin: "1rem 0"}}/>
 										</>
 									))}
