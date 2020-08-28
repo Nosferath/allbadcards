@@ -71,9 +71,9 @@ const AdRefresher: React.FC<AdProps> = (props) =>
 		let newRefresh = false;
 		if (prevPath && prevPath !== history.url)
 		{
-			newRefresh = true;
+			/*newRefresh = true;
 			setRefresh(newRefresh);
-			setTimeout(() => setRefresh(false), 100);
+			setTimeout(() => setRefresh(false), 100);*/
 		}
 
 		if (!newRefresh && !refresh)
