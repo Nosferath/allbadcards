@@ -1,12 +1,12 @@
-import {GameChat} from "./GameChat";
 import {Drawer, useMediaQuery} from "@material-ui/core";
 import React from "react";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {ChatDataStore} from "../../../../Global/DataStore/ChatDataStore";
-import {useDataStore} from "../../../../Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
-import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
-import {RemoveAdsButton} from "../../../../Shared/UI/Ads/RemoveAdsButton";
+import {AdResponsive} from "@UI/Ads/sharedAds";
+import {RemoveAdsButton} from "@UI/Ads/RemoveAdsButton";
+import {useDataStore} from "@Global/Utils/HookUtils";
+import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
+import {GameChat} from "../../../../AllBadCards/Areas/Game/Components/Chat/GameChat";
 
 interface Props
 {

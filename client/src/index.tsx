@@ -12,6 +12,7 @@ import {useDataStore} from "./Shared/Global/Utils/HookUtils";
 import {PreferencesDataStore} from "./AllBadCards/Global/DataStore/PreferencesDataStore";
 import {abcColors} from "./colors";
 import {HoldEmGameDashboard} from "./HoldEm/Areas/GameDashboard/HoldEmGameDashboard";
+import {TopBanner} from "@UI/TopBanner";
 
 require('es6-promise').polyfill();
 const promiseFinally = require('promise.prototype.finally');
@@ -100,6 +101,7 @@ const AllBadCardsTheme: React.FC = (props) =>
 ReactDOM.render(
 	<BrowserRouter>
 		<CssBaseline/>
+		<TopBanner />
 		<Switch>
 			<Route path={"/holdem"} exact>
 				<HoldEmGameDashboard/>

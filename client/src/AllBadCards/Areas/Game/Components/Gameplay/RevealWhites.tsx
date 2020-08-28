@@ -1,13 +1,13 @@
 import * as React from "react";
 import Grid from "@material-ui/core/Grid";
-import {WhiteCard} from "../../../../UI/WhiteCard";
+import {WhiteCard} from "@AbcUI/WhiteCard";
 import Divider from "@material-ui/core/Divider";
-import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../../../Shared/Global/DataStore/UserDataStore";
-import {LoadingButton} from "../../../../UI/LoadingButton";
+import {GameDataStore, GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
+import {LoadingButton} from "@AbcUI/LoadingButton";
 import {Typography} from "@material-ui/core";
-import {CardId} from "../../../../Global/Platform/Contract";
-import {normalizeCard} from "@Global/Utils/GameUtils";
+import {CardId} from "@AbcGlobal/Platform/Contract";
+import {normalizeCard} from "@AbcGlobal/Utils/GameUtils";
 
 interface IRevealWhitesProps
 {

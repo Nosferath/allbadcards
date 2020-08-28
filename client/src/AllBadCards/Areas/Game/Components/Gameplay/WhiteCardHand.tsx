@@ -10,10 +10,9 @@ import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
-import {normalizeCard} from "@Global/Utils/GameUtils";
 import {AdResponsive} from "@UI/Ads/sharedAds";
+import {normalizeCard} from "@AbcGlobal/Utils/GameUtils";
 
 interface Props
 {

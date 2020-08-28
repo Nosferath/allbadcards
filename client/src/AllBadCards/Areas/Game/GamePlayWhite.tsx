@@ -1,25 +1,25 @@
 import * as React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../Shared/Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import Grid from "@material-ui/core/Grid";
-import {BlackCard} from "../../UI/BlackCard";
+import {BlackCard} from "@AbcUI/BlackCard";
 import Divider from "@material-ui/core/Divider";
 import {DialogActions, DialogTitle, Typography} from "@material-ui/core";
 import {RevealWhites} from "./Components/Gameplay/RevealWhites";
 import {ShowWinner} from "./Components/Gameplay/ShowWinner";
-import {Confirmation} from "../../UI/Confirmation";
+import {Confirmation} from "@AbcUI/Confirmation";
 import {WhiteCardHand} from "./Components/Gameplay/WhiteCardHand";
 import Tooltip from "@material-ui/core/Tooltip";
 import {PickWinner} from "./Components/Gameplay/PickWinner";
-import {LoadingButton} from "../../UI/LoadingButton";
-import {CardId} from "../../Global/Platform/Contract";
-import {BrowserUtils} from "../../../Shared/Global/Utils/BrowserUtils";
+import {LoadingButton} from "@AbcUI/LoadingButton";
+import {CardId} from "@AbcGlobal/Platform/Contract";
+import {BrowserUtils} from "@Global/Utils/BrowserUtils";
 import {PlayersRemaining} from "./Components/Gameplay/PlayersRemaining";
 import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import Button from "@material-ui/core/Button";
 import {Instructions} from "./Components/Gameplay/Instructions";
-import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface IGamePlayWhiteProps
 {

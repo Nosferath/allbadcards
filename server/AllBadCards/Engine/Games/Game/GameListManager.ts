@@ -1,34 +1,16 @@
 import {CardsDatabase} from "../../Database/CardsDatabase";
 import {GameItem} from "./GameContract";
+import {BaseGameListManager} from "../../../../Shared/Games/BaseGameListManager";
 
-class _GameListManager
+class _GameListManager extends BaseGameListManager<GameItem>
 {
 	public static Instance = new _GameListManager();
 
 	constructor()
 	{
 		CardsDatabase.initialize().then(() => console.log("DB init"));
-	}
 
-	private static get games()
-	{
-		return CardsDatabase.db.collection<GameItem>("games");
-	}
-
-	public async getGames(zeroBasedPage: number)
-	{
-		const found = await _GameListManager.games
-			.find({
-				["settings.public"]: true,
-				dateUpdated: {
-					$gt: (new Date(Date.now() - (15 * 60 * 1000)))
-				}
-			})
-			.sort({dateUpdated: -1})
-			.skip(8 * zeroBasedPage)
-			.limit(8);
-
-		return found.toArray();
+		super(CardsDatabase.db.collection<GameItem>("games"));
 	}
 }
 

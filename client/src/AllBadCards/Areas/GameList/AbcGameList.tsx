@@ -34,7 +34,7 @@ const useStyles = makeStyles(theme => createStyles({
 	}
 }));
 
-const GameList = () =>
+const AbcGameList = () =>
 {
 	const classes = useStyles();
 
@@ -81,4 +81,4 @@ const GameList = () =>
 	/>;
 };
 
-export default GameList;
+export default AbcGameList;

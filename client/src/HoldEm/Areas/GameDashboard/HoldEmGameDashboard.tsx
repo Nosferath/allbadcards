@@ -6,9 +6,8 @@ export const HoldEmGameDashboard: React.FC = () =>
 	return (
 		<AbstractGameDashboard
 			tagline={"play. bluff. win."}
-			logo={null}
+			logo={<span>Hold Em</span>}
 			joinButtons={null}
-			changelist={null}
 		/>
 	);
 }

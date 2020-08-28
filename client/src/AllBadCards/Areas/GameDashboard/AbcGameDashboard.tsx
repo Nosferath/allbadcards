@@ -4,7 +4,6 @@ import Button from "@material-ui/core/Button";
 import {RouteComponentProps, withRouter} from "react-router";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import {UserData, UserDataStore} from "../../../Shared/Global/DataStore/UserDataStore";
-import Typography from "@material-ui/core/Typography";
 import {EnvDataStore} from "../../Global/DataStore/EnvDataStore";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
 import AbstractGameDashboard from "../../../Shared/UI/AbstractGameDashboard";
@@ -72,21 +71,6 @@ class AbcGameDashboard extends React.Component<Props, State>
 							Family-Friendly Version &nbsp; <MdArrowForward/>
 						</Button>
 					</ButtonGroup>
-				)}
-				changelist={(
-					<Typography>
-						<strong>Updates - 7/30</strong>
-						<li>Included All Bad Cards' official packs in the default packs.</li>
-						<li>Added option to delete packs</li>
-						<li>Made AI Player naming more interesting</li>
-						<li>AI Players can now be added mid-game</li>
-						<br/>
-						<strong>Updates - 7/28</strong>
-						<li>Vastly improved saving time for custom packs</li>
-						<li>Potential fix for the issue kicking players mid-game</li>
-						<li>Fixed for some of the more common errors</li>
-						<br/>
-					</Typography>
 				)}
 			/>
 		);

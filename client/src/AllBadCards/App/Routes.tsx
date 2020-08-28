@@ -41,7 +41,7 @@ export const Routes: React.FC<Props> = (props) =>
 				<Suspender importer={() => import("../Areas/Game/Game")}/>
 			</Route>
 			<Route path={SiteRoutes.Games.path}>
-				<Suspender importer={() => import("../Areas/GameList/GameList")}/>
+				<Suspender importer={() => import("../Areas/GameList/AbcGameList")}/>
 			</Route>
 			<Route path={SiteRoutes.PackCreate.path}>
 				<Suspender importer={() => import("../Areas/Pack/Create")}/>
