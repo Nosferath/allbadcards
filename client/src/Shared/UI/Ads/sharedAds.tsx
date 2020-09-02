@@ -3,8 +3,9 @@ import {useEffect, useState} from "react";
 import {useDataStore, usePrevious} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
-import {EnvDataStore} from "@Global/DataStore/EnvDataStore";
 import {useAdBlockDetector} from 'adblock-detector-hook';
+import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
+import Grid from "@material-ui/core/Grid";
 
 declare var adsbygoogle: any;
 
@@ -21,7 +22,6 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 	const {detected} = useAdBlockDetector();
 
 	const authData = useDataStore(AuthDataStore);
-	const envData = useDataStore(EnvDataStore);
 
 	if (detected)
 	{
@@ -49,14 +49,20 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 	};
 
 	return (
-		<div
-			{...align}
-			{...rest}
-		>
-			<div className={"adwrap"}>
-				{props.children}
-			</div>
-		</div>
+		<GameOwnerContext.Consumer>
+			{data => (
+				!data?.hideGameAds && (
+					<div
+						{...align}
+						{...rest}
+					>
+						<div className={"adwrap"}>
+							{props.children}
+						</div>
+					</div>
+				)
+			)}
+		</GameOwnerContext.Consumer>
 	);
 };
 
@@ -71,9 +77,9 @@ const AdRefresher: React.FC<AdProps> = (props) =>
 		let newRefresh = false;
 		if (prevPath && prevPath !== history.url)
 		{
-			/*newRefresh = true;
+			newRefresh = true;
 			setRefresh(newRefresh);
-			setTimeout(() => setRefresh(false), 100);*/
+			setTimeout(() => setRefresh(false), 100);
 		}
 
 		if (!newRefresh && !refresh)
@@ -83,7 +89,7 @@ const AdRefresher: React.FC<AdProps> = (props) =>
 				(window as any).adsbygoogle = (window as any).adsbygoogle ?? []
 				adsbygoogle?.push({})
 			}
-			catch(e)
+			catch (e)
 			{
 				console.error(e);
 			}
@@ -124,8 +130,6 @@ export const AdResponsive: React.FC<AdProps> = (props) =>
 				<ins className="adsbygoogle adResponsive"
 				     style={{
 					     display: "block",
-					     height: 100,
-					     maxHeight: 100
 				     }}
 				     data-ad-client="ca-pub-8346501809638313"
 				     data-ad-slot="7995851073"
@@ -134,6 +138,17 @@ export const AdResponsive: React.FC<AdProps> = (props) =>
 		</HideableAd>
 	);
 };
+
+export const AdResponsiveCard: React.FC<AdProps> = (props) =>
+{
+	return (
+		<HideableAd {...props}>
+			<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
+				<AdResponsive {...props}/>
+			</Grid>
+		</HideableAd>
+	);
+}
 
 export const AdCard: React.FC<AdProps> = (props) =>
 {

@@ -15,7 +15,7 @@ import {Link} from "react-router-dom";
 import Helmet from "react-helmet";
 import deepEqual from "deep-equal";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
-import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
+import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -249,9 +249,7 @@ const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
 									favorited={faved}/>
 							</Grid>
 							{i % 3 === 2 && i > 1 && (
-								<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-									<AdResponsive/>
-								</Grid>
+								<AdResponsiveCard />
 							)}
 						</>
 					);

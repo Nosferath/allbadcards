@@ -55,6 +55,7 @@ export const GameInner: React.FC<Props> = (
 
 	const iWasKicked = !!kickedPlayers?.[playerGuid];
 	const amInGame = playerGuid in (players ?? {});
+	const owner = (players ?? {})[ownerGuid ?? ""];
 	const isOwner = ownerGuid === userData.playerGuid;
 	const isChooser = playerGuid === chooserGuid;
 	const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};

@@ -8,17 +8,20 @@ export interface IAuthContext
 	userId: string | null;
 	authorized: boolean;
 	levels: BackerType[];
+	hideGameAds: boolean;
 	loaded: boolean;
 	isSubscriber: boolean;
 }
 
 const LowestBacker = BackerType["Hide Ads (Pay-what-you-want)"];
+const BackerHideGameAds = BackerType["Ad-free Games"];
 
 export const BackerLevelMap = {
 	[BackerType.None]: [BackerType.None],
 	[LowestBacker]: [LowestBacker],
-	[BackerType.Sponsor]: [LowestBacker, BackerType.Sponsor],
-	[BackerType.Owner]: [LowestBacker, BackerType.Sponsor, BackerType.Owner],
+	[BackerHideGameAds]: [BackerHideGameAds, LowestBacker],
+	[BackerType.Sponsor]: [LowestBacker, BackerHideGameAds, BackerType.Sponsor],
+	[BackerType.Owner]: [LowestBacker, BackerHideGameAds, BackerType.Sponsor, BackerType.Owner],
 };
 
 class _AuthDatastore extends DataStore<IAuthContext>
@@ -31,6 +34,7 @@ class _AuthDatastore extends DataStore<IAuthContext>
 			authorized: false,
 			userId: null,
 			isSubscriber: false,
+			hideGameAds: false,
 			loaded: false,
 			levels: []
 		});
@@ -57,6 +61,7 @@ class _AuthDatastore extends DataStore<IAuthContext>
 					userId,
 					levels: ownedLevels,
 					isSubscriber: (ownedLevels ?? []).includes(LowestBacker),
+					hideGameAds: (ownedLevels ?? []).includes(BackerHideGameAds),
 					loaded: true
 				});
 			})

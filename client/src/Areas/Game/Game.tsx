@@ -17,6 +17,7 @@ import {ClientGameItem} from "@Global/Platform/Contract";
 import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
 import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
 import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
+import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
 
 interface IGameParams
 {
@@ -168,7 +169,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const width = !this.state.authContext.isSubscriber ? "33vw" : "15vw";
 
 		return (
-			<>
+			<GameOwnerContext.Provider value={owner ?? null}>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
@@ -200,11 +201,11 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 					{canChat && (
 						<>
 							<GameChatFab showChat={amInGame || amSpectating}/>
-							<ChatSidebar/>
+							<ChatSidebar ownerHidingAds={!!owner?.hideGameAds}/>
 						</>
 					)}
 				</div>
-			</>
+			</GameOwnerContext.Provider>
 		);
 	}
 };

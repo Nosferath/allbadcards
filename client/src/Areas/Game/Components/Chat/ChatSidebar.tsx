@@ -10,6 +10,7 @@ import {RemoveAdsButton} from "../../../../Shared/UI/Ads/RemoveAdsButton";
 
 interface Props
 {
+	ownerHidingAds: boolean;
 }
 
 const useStyles = (showAds: boolean) => makeStyles({
@@ -26,10 +27,10 @@ const useStyles = (showAds: boolean) => makeStyles({
 	}
 });
 
-export const ChatSidebar: React.FC<Props> = () =>
+export const ChatSidebar: React.FC<Props> = (props) =>
 {
 	const authData = useDataStore(AuthDataStore);
-	const classes = useStyles(!authData.isSubscriber)();
+	const classes = useStyles(!authData.isSubscriber && !props.ownerHidingAds)();
 	const tablet = useMediaQuery('(max-width:1200px)');
 	const chatData = useDataStore(ChatDataStore);
 
@@ -52,18 +53,22 @@ export const ChatSidebar: React.FC<Props> = () =>
 			open={chatDrawerOpen}
 		>
 			<GameChat/>
-			<div style={{
-				position: "absolute",
-				right: 0,
-				top: 64,
-				height: "100%",
-				width: "18vw"
-			}}>
-				<AdResponsive/>
-				<AdResponsive/>
-				<br/>
-				<RemoveAdsButton />
-			</div>
+			{!props.ownerHidingAds && (
+				<div style={{
+					position: "absolute",
+					right: 0,
+					top: 64,
+					height: "100%",
+					width: "18vw"
+				}}>
+					<br/>
+					<RemoveAdsButton/>
+					<br/>
+					<AdResponsive/>
+					<AdResponsive/>
+					<AdResponsive/>
+				</div>
+			)}
 
 			<div style={{
 				top: 0,
@@ -72,7 +77,7 @@ export const ChatSidebar: React.FC<Props> = () =>
 				position: "absolute",
 				right: !authData.isSubscriber ? "18vw" : 0,
 				background: "#CCC"
-			}} />
+			}}/>
 		</Drawer>
 	);
 };

@@ -13,6 +13,7 @@ import {PlayersRemaining} from "./Components/Gameplay/PlayersRemaining";
 import {CardPlayTimeRemaining} from "./Components/Gameplay/CardPlayTimeRemaining";
 import {ContainerProgress} from "../../UI/ContainerProgress";
 import {cardDefsLoaded} from "../../Global/Utils/GameUtils";
+import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
 
 interface IGamePlayBlackProps
 {
@@ -157,6 +158,11 @@ export class GamePlayBlack extends React.Component<Props, State>
 						</LoadingButton>
 					</div>
 				)}
+
+				<Grid item xs={12} style={{overflow: "hidden", paddingBottom: "1rem"}}>
+					<AdResponsive/>
+				</Grid>
+
 				<PickWinner
 					canPick={true}
 					hasWinner={hasWinner}

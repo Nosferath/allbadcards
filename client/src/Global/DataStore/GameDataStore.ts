@@ -277,8 +277,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 			map[cardId.packId][cardId.cardIndex] = cardDef;
 		});
 
-		console.log(map);
-
 		return map;
 	}
 

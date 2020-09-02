@@ -11,7 +11,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../UI/JoinNewButtons";
 import Helmet from "react-helmet";
 import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
-import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
+import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -171,9 +171,7 @@ const GameList = () =>
 							</Card>
 						</Grid>
 						{i % 3 === 2 && i > 1 && (
-							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-								<AdResponsive/>
-							</Grid>
+							<AdResponsiveCard />
 						)}
 					</>
 				))}

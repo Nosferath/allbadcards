@@ -31,7 +31,7 @@ class _UserUtils
 		return validSecret === secret;
 	}
 
-	public validateUser(user: IPlayer)
+	public  validateUser(user: IPlayer)
 	{
 		if(!user.guid || !user.secret)
 		{

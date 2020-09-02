@@ -1,5 +1,5 @@
 import * as React from "react";
-import {useEffect} from "react";
+import {useEffect, useState} from "react";
 import {AppBar, Container, createStyles, styled, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
@@ -21,11 +21,18 @@ import {ErrorModal} from "./ErrorModal";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
+import {useAdBlockDetector} from "adblock-detector-hook";
+import {CloseableDialog} from "@UI/CloseableDialog";
+import {AdBlockDialogContent} from "./AdBlockDialogContent";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
 		position: "relative",
 		zIndex: 1300
+	},
+	adBlockBar: {
+		background: "#CC0000",
+		color: "#FFF"
 	},
 	appBar: {
 		background: colors.dark.main,
@@ -54,10 +61,13 @@ const OuterContainer = styled(Container)({
 
 const App: React.FC = () =>
 {
+	const {detected} = useAdBlockDetector();
+	const seenToday = sessionStorage.getItem("seenAdBlocker") === "true";
 	const classes = useStyles();
 	const history = useHistory();
 	const mobile = useMediaQuery('(max-width:768px)');
 	const authData = useDataStore(AuthDataStore);
+	const [showAdBlockDialog, setShowAdBlockDialog] = useState(detected && !authData.isSubscriber && !seenToday);
 	history.listen(() => BrowserUtils.scrollToTop());
 	useEffect(() =>
 	{
@@ -68,6 +78,16 @@ const App: React.FC = () =>
 			HistoryDataStore.onChange();
 		});
 	}, []);
+
+	useEffect(() =>
+	{
+		setShowAdBlockDialog(detected && !authData.isSubscriber && !seenToday);
+	}, [detected, authData]);
+
+	const closeAndStore = () => {
+		setShowAdBlockDialog(false);
+		sessionStorage.setItem("seenAdBlocker", "true");
+	}
 
 	const appBarClasses = classNames(classes.appBar, {});
 	const isFamilyMode = location.hostname.startsWith("not");
@@ -85,12 +105,16 @@ const App: React.FC = () =>
 	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
 	const isSubscriber = authData.isSubscriber && authData.authorized;
 
+
 	return (
 		<div>
 			<Helmet titleTemplate={`%s | ${template}`} defaultTitle={titleDefault}>
 				<meta name="description" content={`Play All Bad Cards${familyEdition} online, for free! Play with friends over video chat, or in your house with your family. `}/>
 			</Helmet>
 			<OuterContainer>
+				<CloseableDialog onClose={closeAndStore} open={showAdBlockDialog}>
+					<AdBlockDialogContent/>
+				</CloseableDialog>
 				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
 					<Toolbar className={appBarClasses}>
 						{mobile && (
