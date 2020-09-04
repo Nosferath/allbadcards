@@ -5,7 +5,7 @@ export class AdBlockerMessageManager
 		sessionStorage.setItem("seenAdBlockerDate", Date.now().toString());
 	}
 
-	public static seenRecently(since = 10 * 60 * 1000)
+	public static seenRecently(since = 20 * 60 * 1000)
 	{
 		const seenItem = sessionStorage.getItem("seenAdBlockerDate");
 		if(!seenItem)

@@ -24,7 +24,6 @@ import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {AdBlockDialogContent} from "./AdBlockDialogContent";
 import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
 import {AdBlockDataStore} from "@Global/DataStore/AdBlockDataStore";
-import {Platform} from "@Global/Platform/platform";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -89,18 +88,9 @@ const App: React.FC = () =>
 			&& adBlockerDetected;
 
 		setShowAdBlockDialog(
-			String(null) === "2"
-			&& adsShouldShow
+			adsShouldShow
 			&& !seenAdMsgRecently);
 
-		if (adsShouldShow)
-		{
-			Platform.trackEvent("AdBlocker View");
-			history.listen(() =>
-			{
-				Platform.trackEvent("AdBlocker View");
-			});
-		}
 	}, [adBlockerDetected, authData]);
 
 	const closeAndStore = () =>
@@ -138,7 +128,7 @@ const App: React.FC = () =>
 					</DialogTitle>
 					<AdBlockDialogContent/>
 					<DialogActions style={{justifyContent: "center"}}>
-						<Button variant={"outlined"} onClick={closeAndStore}>Snooze for 10 minutes</Button>
+						<Button variant={"outlined"} onClick={closeAndStore}>Snooze for 20 minutes</Button>
 					</DialogActions>
 				</Dialog>
 				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
