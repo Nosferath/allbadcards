@@ -12,6 +12,7 @@ import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "./ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
 import {ArrayUtils} from "../Utils/ArrayUtils";
+import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
 
 export type WhiteCardMap = {
 	[packId: string]: {
@@ -138,6 +139,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		const newBuildVersion = this.state.game?.buildVersion;
 		if (prevBuildVersion && newBuildVersion && prevBuildVersion !== newBuildVersion)
 		{
+			AdBlockerMessageManager.updateSeen();
 			location.href = location.href + "";
 		}
 

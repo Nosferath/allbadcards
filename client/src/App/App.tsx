@@ -1,6 +1,6 @@
 import * as React from "react";
 import {useEffect, useState} from "react";
-import {AppBar, Container, createStyles, styled, Typography, useMediaQuery} from "@material-ui/core";
+import {AppBar, Button, Container, createStyles, Dialog, DialogActions, DialogTitle, styled, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
 import {UserDataStore} from "@Global/DataStore/UserDataStore";
@@ -21,9 +21,10 @@ import {ErrorModal} from "./ErrorModal";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
-import {useAdBlockDetector} from "adblock-detector-hook";
-import {CloseableDialog} from "@UI/CloseableDialog";
 import {AdBlockDialogContent} from "./AdBlockDialogContent";
+import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
+import {AdBlockDataStore} from "@Global/DataStore/AdBlockDataStore";
+import {Platform} from "@Global/Platform/platform";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -61,13 +62,15 @@ const OuterContainer = styled(Container)({
 
 const App: React.FC = () =>
 {
-	const {detected} = useAdBlockDetector();
-	const seenToday = sessionStorage.getItem("seenAdBlocker") === "true";
 	const classes = useStyles();
 	const history = useHistory();
 	const mobile = useMediaQuery('(max-width:768px)');
 	const authData = useDataStore(AuthDataStore);
-	const [showAdBlockDialog, setShowAdBlockDialog] = useState(detected && !authData.isSubscriber && !seenToday);
+	const {
+		adBlockerDetected
+	} = useDataStore(AdBlockDataStore);
+	const seenAdMsgRecently = AdBlockerMessageManager.seenRecently();
+	const [showAdBlockDialog, setShowAdBlockDialog] = useState(false);
 	history.listen(() => BrowserUtils.scrollToTop());
 	useEffect(() =>
 	{
@@ -81,12 +84,29 @@ const App: React.FC = () =>
 
 	useEffect(() =>
 	{
-		setShowAdBlockDialog(detected && !authData.isSubscriber && !seenToday);
-	}, [detected, authData]);
+		const adsShouldShow = authData.loaded
+			&& !authData.isSubscriber
+			&& adBlockerDetected;
 
-	const closeAndStore = () => {
+		setShowAdBlockDialog(
+			String(null) === "2"
+			&& adsShouldShow
+			&& !seenAdMsgRecently);
+
+		if (adsShouldShow)
+		{
+			Platform.trackEvent("AdBlocker View");
+			history.listen(() =>
+			{
+				Platform.trackEvent("AdBlocker View");
+			});
+		}
+	}, [adBlockerDetected, authData]);
+
+	const closeAndStore = () =>
+	{
 		setShowAdBlockDialog(false);
-		sessionStorage.setItem("seenAdBlocker", "true");
+		AdBlockerMessageManager.updateSeen();
 	}
 
 	const appBarClasses = classNames(classes.appBar, {});
@@ -112,9 +132,15 @@ const App: React.FC = () =>
 				<meta name="description" content={`Play All Bad Cards${familyEdition} online, for free! Play with friends over video chat, or in your house with your family. `}/>
 			</Helmet>
 			<OuterContainer>
-				<CloseableDialog onClose={closeAndStore} open={showAdBlockDialog}>
+				<Dialog onClose={() => void (0)} open={showAdBlockDialog}>
+					<DialogTitle>
+						🛑 Hol' up
+					</DialogTitle>
 					<AdBlockDialogContent/>
-				</CloseableDialog>
+					<DialogActions style={{justifyContent: "center"}}>
+						<Button variant={"outlined"} onClick={closeAndStore}>Snooze for 10 minutes</Button>
+					</DialogActions>
+				</Dialog>
 				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
 					<Toolbar className={appBarClasses}>
 						{mobile && (

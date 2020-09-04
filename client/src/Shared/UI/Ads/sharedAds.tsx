@@ -3,13 +3,14 @@ import {useEffect, useState} from "react";
 import {useDataStore, usePrevious} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
-import {useAdBlockDetector} from 'adblock-detector-hook';
 import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
 import Grid from "@material-ui/core/Grid";
+import {AdBlockDataStore} from "@Global/DataStore/AdBlockDataStore";
 
 declare var adsbygoogle: any;
 
 type AdProps = React.PropsWithChildren<React.HTMLProps<HTMLDivElement>>;
+
 
 export const HideableAd: React.FC<AdProps> = (props) =>
 {
@@ -19,11 +20,12 @@ export const HideableAd: React.FC<AdProps> = (props) =>
 		...rest
 	} = props;
 
-	const {detected} = useAdBlockDetector();
-
 	const authData = useDataStore(AuthDataStore);
+	const {
+		adBlockerDetected
+	} = useDataStore(AdBlockDataStore);
 
-	if (detected)
+	if (adBlockerDetected)
 	{
 		return null;
 	}
