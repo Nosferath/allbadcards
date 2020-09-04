@@ -2165,11 +2165,6 @@ acorn@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.1.1.tgz#e35668de0b402f359de515c5482a1ab9f89a69bf"
   integrity sha512-add7dgA5ppRPxCFJoAGfMDi7PIBXq1RtGo7BhbLaxwrXPOmw8gq48Y9ozT01hUKy9byMjlR20EJhu5zlkErEkg==
 
-adblock-detector-hook@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/adblock-detector-hook/-/adblock-detector-hook-0.1.3.tgz#d6b726c613b58ddbf9382a81d4450aaac03b7fa5"
-  integrity sha512-cSwACzYllixL49IPzF9FsPPL4H1E7lQtO1Iap6YleFbN8S4zZUk/+vOAvvWXVOtDYShv5trzvHV5z3F4A0ol3A==
-
 address@1.1.2, address@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/address/-/address-1.1.2.tgz#bf1116c9c758c51b7a933d296b72c221ed9428b6"
@@ -5597,6 +5592,11 @@ fstream@^1.0.0, fstream@^1.0.12:
     inherits "~2.0.0"
     mkdirp ">=0.5 0"
     rimraf "2"
+
+fuckadblock@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/fuckadblock/-/fuckadblock-3.2.1.tgz#17fa3237a5e15c86613406b911e608191a3e62e2"
+  integrity sha1-F/oyN6XhXIZhNAa5EeYIGRo+YuI=
 
 function-bind@^1.1.1:
   version "1.1.1"

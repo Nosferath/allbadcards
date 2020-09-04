@@ -7,7 +7,8 @@ import {ErrorDataStore} from "../../AllBadCards/Global/DataStore/ErrorDataStore"
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {JoinNewButtons} from "../../AllBadCards/UI/JoinNewButtons";
 import Helmet from "react-helmet";
-import {AdResponsive} from "@UI/Ads/sharedAds";
+import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
+import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -142,9 +143,7 @@ export const AbstractGameList = <TGameSummaryData extends any>(props: IAbstractG
 							</Card>
 						</Grid>
 						{i % 3 === 2 && i > 1 && (
-							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-								<AdResponsive/>
-							</Grid>
+							<AdResponsiveCard />
 						)}
 					</>
 				))}

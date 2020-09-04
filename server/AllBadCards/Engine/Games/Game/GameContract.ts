@@ -19,6 +19,7 @@ export interface GamePlayer
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	hideGameAds?: boolean;
 	levels?: string[];
 	kickedForTimeout?: boolean;
 	isIdle?: boolean;

@@ -10,6 +10,7 @@ import deepEqual from "deep-equal";
 import {TextField} from "@material-ui/core";
 import {CardPlayTimeRemaining} from "./CardPlayTimeRemaining";
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import {AdResponsiveCard} from "../../../../Shared/UI/Ads/sharedAds";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import {AdResponsive} from "@UI/Ads/sharedAds";
 import {normalizeCard} from "@AbcGlobal/Utils/GameUtils";
@@ -96,23 +97,21 @@ export const WhiteCardHand: React.FC<Props> = (
 	const metPickTarget = targetPicked <= pickedCards.length;
 
 	const mobile = useMediaQuery('(max-width:768px)');
-	const every = mobile ? 3 : 5;
 
 	const renderedHand = renderedCardIds.map((cardId, i) =>
 	{
 		const pickedIndex = pickedCards.findIndex(c => deepEqual(c, cardId));
 		const picked = pickedIndex > -1;
-		const showAd = mobile
-			? i === 4
-			: i === renderedCardIds.length - 1;
-
 		return (
 			<>
+				{mobile && (i === 5 || i === 0) && (
+					<AdResponsiveCard />
+				)}
 				<Grid item xs={12} sm={6} md={4} lg={3}>
 					{cardId && (
 						<WhiteCardOption
 							targetPicked={targetPicked}
-							cardBody={normalizeCard(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "[card failed to load]")}
+							cardBody={normalizeCard(renderedDefs?.[cardId.packId]?.[cardId.cardIndex] ?? "[loading]")}
 							cardId={cardId}
 							hasPlayed={hasPlayed}
 							metPickTarget={metPickTarget}
@@ -124,11 +123,8 @@ export const WhiteCardHand: React.FC<Props> = (
 						/>
 					)}
 				</Grid>
-
-				{showAd && (
-					<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-						<AdResponsive/>
-					</Grid>
+				{!mobile && (i === 4 || i === renderedCardIds.length - 1) && (
+					<AdResponsiveCard />
 				)}
 			</>
 		);

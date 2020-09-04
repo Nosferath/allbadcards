@@ -19,7 +19,7 @@ import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
 import Button from "@material-ui/core/Button";
 import {Instructions} from "./Components/Gameplay/Instructions";
-import {AdResponsive} from "@UI/Ads/sharedAds";
+import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
 
 interface IGamePlayWhiteProps
 {
@@ -288,9 +288,7 @@ export class GamePlayWhite extends React.Component<Props, State>
 						)}
 
 						{mobile && (
-							<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
-								<AdResponsive/>
-							</Grid>
+							<AdResponsiveCard/>
 						)}
 					</Grid>
 				)}

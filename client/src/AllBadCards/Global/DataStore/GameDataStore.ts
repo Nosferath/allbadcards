@@ -11,6 +11,7 @@ import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
 import {ChatDataStore} from "../../../Shared/Global/DataStore/ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
+import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
 import {ArrayUtils} from "../../../Shared/Global/Utils/ArrayUtils";
 
 export type WhiteCardMap = {
@@ -138,6 +139,7 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 		const newBuildVersion = this.state.game?.buildVersion;
 		if (prevBuildVersion && newBuildVersion && prevBuildVersion !== newBuildVersion)
 		{
+			AdBlockerMessageManager.updateSeen();
 			location.href = location.href + "";
 		}
 
@@ -276,8 +278,6 @@ class _GameDataStore extends DataStore<GameDataStorePayload>
 
 			map[cardId.packId][cardId.cardIndex] = cardDef;
 		});
-
-		console.log(map);
 
 		return map;
 	}

@@ -15,6 +15,12 @@ import moment from "moment";
 import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
 import {ClientGameItem} from "../../Global/Platform/Contract";
 import {PlayerJoinApproval} from "./Components/Gameplay/PlayerJoinApproval";
+import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
+import {ClientGameItem} from "@Global/Platform/Contract";
+import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
+import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
+import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
+import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
 
 interface IGameParams
 {
@@ -154,7 +160,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 		const canChat = (amInGame || amSpectating) && moment(dateCreated).isAfter(moment(new Date(1589260798170)));
 
 		return (
-			<>
+			<GameOwnerContext.Provider value={owner ?? null}>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
@@ -185,10 +191,11 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				{canChat && (
 					<>
 						<GameChatFab showChat={amInGame || amSpectating}/>
-						<ChatSidebar />
+							<ChatSidebar ownerHidingAds={!!owner?.hideGameAds}/>
 					</>
 				)}
-			</>
+				</div>
+			</GameOwnerContext.Provider>
 		);
 	}
 };

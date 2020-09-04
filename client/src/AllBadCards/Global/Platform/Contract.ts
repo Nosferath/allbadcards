@@ -17,6 +17,7 @@ export interface GamePlayer
 	isSpectating: boolean;
 	isRandom: boolean;
 	isSubscriber?: boolean;
+	hideGameAds?: boolean;
 	kickedForTimeout?: boolean;
 	isIdle?: boolean;
 	isApproved?: boolean | null;
@@ -148,6 +149,7 @@ export enum BackerType
 {
 	None = "None",
 	"Hide Ads (Pay-what-you-want)" = "Hide Ads (Pay-what-you-want)",
+	"Ad-free Games" = "Ad-free Games",
 	Sponsor = "Sponsor",
 	Owner = "Owner"
 }

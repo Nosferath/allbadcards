@@ -113,33 +113,40 @@ export class RevealWhites extends React.Component <Props, State>
 		const canSeeReveal = this.props.canReveal || !game.settings.hideDuringReveal;
 
 		return (
-			<Grid item xs={12} sm={6} md={4}>
-				{(realRevealIndex >= 0 && canSeeReveal) && (
-					<>
-						<WhiteCard key={revealedIndex} style={{marginBottom: "0.5rem"}}>
-							{cardsRevealed.map(card => card && (
-								<>
-									<div dangerouslySetInnerHTML={{__html: normalizeCard(card)}}/>
-									<Divider style={{margin: "1rem 0"}}/>
-								</>
-							))}
-							{this.props.canReveal && (
-								<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
-									{label}
-								</LoadingButton>
-							)}
-						</WhiteCard>
-					</>
+			<>
+				<Grid item xs={12} sm={6} md={4}>
+					{(realRevealIndex >= 0 && canSeeReveal) && (
+						<>
+							<WhiteCard key={revealedIndex} style={{marginBottom: "0.5rem"}}>
+								{cardsRevealed.map(card => card && (
+									<>
+										<div dangerouslySetInnerHTML={{__html: normalizeCard(card)}}/>
+										<Divider style={{margin: "1rem 0"}}/>
+									</>
+								))}
+								{this.props.canReveal && (
+									<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
+										{label}
+									</LoadingButton>
+								)}
+							</WhiteCard>
+						</>
+					)}
+					{realRevealIndex > -1 && (
+						<Typography>Revealed: {realRevealIndex + 1} / {totalCardLength}</Typography>
+					)}
+					{realRevealIndex === -1 && this.props.canReveal && (
+						<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
+							Show me the cards!
+						</LoadingButton>
+					)}
+				</Grid>
+				{!this.props.canReveal && (
+					<div>
+						<AdResponsive/>
+					</div>
 				)}
-				{realRevealIndex > -1 && (
-					<Typography>Revealed: {realRevealIndex + 1} / {totalCardLength}</Typography>
-				)}
-				{realRevealIndex === -1 && this.props.canReveal && (
-					<LoadingButton loading={revealLoading} color={"secondary"} variant={"contained"} onClick={this.onReveal}>
-						Show me the cards!
-					</LoadingButton>
-				)}
-			</Grid>
+			</>
 		);
 	}
 }
