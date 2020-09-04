@@ -3,9 +3,9 @@ import {useEffect, useState} from "react";
 import {useDataStore, usePrevious} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
-import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
 import Grid from "@material-ui/core/Grid";
-import {AdBlockDataStore} from "@Global/DataStore/AdBlockDataStore";
+import {GameOwnerContext} from "../../../Global/Utils/GameOwnerContext";
+import {AdBlockDataStore} from "../../../Global/DataStore/AdBlockDataStore";
 
 declare var adsbygoogle: any;
 
@@ -148,44 +148,6 @@ export const AdResponsiveCard: React.FC<AdProps> = (props) =>
 			<Grid item xs={12} sm={6} md={4} lg={3} style={{overflow: "hidden"}}>
 				<AdResponsive {...props}/>
 			</Grid>
-		</HideableAd>
-	);
-}
-
-export const AdCard: React.FC<AdProps> = (props) =>
-{
-	return (
-		<HideableAd {...props}>
-			<AdRefresher>
-				<ins className="adsbygoogle"
-				     style={{
-					     display: "block",
-				     }}
-				     data-ad-format="fluid"
-				     data-ad-layout-key="-6n+ef+1v-2l-b"
-				     data-ad-client="ca-pub-8346501809638313"
-				     data-ad-slot="6335602272"/>
-			</AdRefresher>
-		</HideableAd>
-	);
-};
-
-export const AdMobileBanner: React.FC<AdProps> = (props) =>
-{
-	return (
-		<HideableAd {...props}>
-			<AdRefresher>
-				<ins className="adsbygoogle"
-				     style={{
-					     display: "block",
-					     maxWidth: 1200,
-					     height: 90
-				     }}
-				     data-ad-format="fluid"
-				     data-ad-layout-key="-6n+ef+1v-2l-b"
-				     data-ad-client="ca-pub-8346501809638313"
-				     data-ad-slot="6335602272"/>
-			</AdRefresher>
 		</HideableAd>
 	);
 }

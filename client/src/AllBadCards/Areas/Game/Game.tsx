@@ -1,26 +1,21 @@
 import {Redirect, RouteComponentProps, withRouter} from "react-router";
 import React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../Shared/Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import Helmet from "react-helmet";
 import {Dialog, DialogContent, Typography} from "@material-ui/core";
-import {ContainerProgress} from "../../UI/ContainerProgress";
-import {LoadingButton} from "../../UI/LoadingButton";
+import {ContainerProgress} from "@AbcUI/ContainerProgress";
+import {LoadingButton} from "@AbcUI/LoadingButton";
 import {Support} from "./Components/Gameplay/Support";
 import {GameChatFab} from "./Components/Chat/GameChatFab";
 import {ChatSidebar} from "./Components/Chat/ChatSidebar";
 import {GameInner} from "./Components/Gameplay/GameInner";
-import {SocketDataStore, SocketDataStorePayload} from "../../Global/DataStore/SocketDataStore";
+import {SocketDataStore, SocketDataStorePayload} from "@AbcGlobal/DataStore/SocketDataStore";
 import moment from "moment";
-import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
-import {ClientGameItem} from "../../Global/Platform/Contract";
+import {ClientGameItem} from "@AbcGlobal/Platform/Contract";
 import {PlayerJoinApproval} from "./Components/Gameplay/PlayerJoinApproval";
-import {getTrueRoundsToWin} from "@Global/Utils/GameUtils";
-import {ClientGameItem} from "@Global/Platform/Contract";
-import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinApproval";
-import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
-import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
-import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
+import {getTrueRoundsToWin} from "@AbcGlobal/Utils/GameUtils";
+import {GameOwnerContext} from "../../../Global/Utils/GameOwnerContext";
 
 interface IGameParams
 {
@@ -78,7 +73,6 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 	{
 		const {
 			players,
-			settings
 		} = state.gameData.game ?? {};
 
 		const playerGuids = Object.keys(players ?? {});
@@ -137,7 +131,6 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			spectators,
 			pendingPlayers,
 			players,
-			settings,
 		} = this.state.gameData.game ?? {};
 
 		if (!this.state.gameData.game || !this.state.gameData.loaded || !this.state.socketData.hasConnection)
@@ -194,10 +187,9 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 							<ChatSidebar ownerHidingAds={!!owner?.hideGameAds}/>
 					</>
 				)}
-				</div>
 			</GameOwnerContext.Provider>
 		);
 	}
-};
+}
 
 export default withRouter(Game);

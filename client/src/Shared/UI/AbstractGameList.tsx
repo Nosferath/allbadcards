@@ -3,12 +3,11 @@ import {Card, createStyles, Divider, Grid, TextField, Typography} from "@materia
 import {Pagination} from "@material-ui/lab";
 import {FaArrowAltCircleRight} from "react-icons/all";
 import {useHistory} from "react-router";
-import {ErrorDataStore} from "../../AllBadCards/Global/DataStore/ErrorDataStore";
+import {ErrorDataStore} from "@AbcGlobal/DataStore/ErrorDataStore";
 import makeStyles from "@material-ui/core/styles/makeStyles";
-import {JoinNewButtons} from "../../AllBadCards/UI/JoinNewButtons";
+import {JoinNewButtons} from "@AbcUI/JoinNewButtons";
 import Helmet from "react-helmet";
-import {getTrueRoundsToWin} from "../../Global/Utils/GameUtils";
-import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
+import {AdResponsiveCard} from "@UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {

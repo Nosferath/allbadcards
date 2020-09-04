@@ -1,6 +1,6 @@
 import {GamePlayer} from "../Game/GameContract";
-import {IAuthContext} from "../../Auth/UserContract";
-import {BackerType} from "../../../../client/src/Global/Platform/Contract";
+import {BackerType} from "../../../../../client/src/AllBadCards/Global/Platform/Contract";
+import {IAuthContext} from "../../../../Shared/Auth/UserContract";
 
 const LowestBacker = BackerType["Hide Ads (Pay-what-you-want)"];
 const BackerHideGameAds = BackerType["Ad-free Games"];

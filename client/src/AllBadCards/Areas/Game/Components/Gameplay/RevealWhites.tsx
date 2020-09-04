@@ -8,6 +8,7 @@ import {LoadingButton} from "@AbcUI/LoadingButton";
 import {Typography} from "@material-ui/core";
 import {CardId} from "@AbcGlobal/Platform/Contract";
 import {normalizeCard} from "@AbcGlobal/Utils/GameUtils";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface IRevealWhitesProps
 {

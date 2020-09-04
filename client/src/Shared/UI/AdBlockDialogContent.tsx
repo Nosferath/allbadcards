@@ -1,9 +1,9 @@
 import {Button, ButtonGroup, DialogContent, Typography} from "@material-ui/core";
-import {getPatreonUrl} from "@Global/Utils/UserUtils";
 import * as React from "react";
 import {useHistory} from "react-router";
 import {FiLogIn} from "react-icons/fi/index";
 import {FaDollarSign} from "react-icons/fa/index";
+import {getPatreonUrl} from "@AbcGlobal/Utils/UserUtils";
 
 export const AdBlockDialogContent = () =>
 {

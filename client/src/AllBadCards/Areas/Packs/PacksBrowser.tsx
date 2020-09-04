@@ -14,7 +14,7 @@ import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
 import {AbcPlatform} from "@AbcGlobal/Platform/abcPlatform";
-import {AdResponsiveCard} from "../../Shared/UI/Ads/sharedAds";
+import {AdResponsiveCard} from "@UI/Ads/sharedAds";
 
 const useStyles = makeStyles(theme => createStyles({
 	cardContainer: {
@@ -56,7 +56,7 @@ interface IPacksBrowserProps
 
 let oldInput: any = null;
 
-const PacksBrowser: React.FC<IPacksBrowserProps> = (props) =>
+const PacksBrowser: React.FC<IPacksBrowserProps> = () =>
 {
 	const fromUrl = new URLSearchParams(location.search);
 	const envData = useDataStore(EnvDataStore);

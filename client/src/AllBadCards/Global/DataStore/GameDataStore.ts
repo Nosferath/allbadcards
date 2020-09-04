@@ -1,18 +1,18 @@
-import {DataStore} from "../../../Shared/Global/DataStore/DataStore";
+import {DataStore} from "@Global/DataStore/DataStore";
 import {AbcPlatform, GamePayload, IWhiteCard} from "../Platform/abcPlatform";
-import {UserDataStore} from "../../../Shared/Global/DataStore/UserDataStore";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import deepEqual from "deep-equal";
 import {CardId, ClientGameItem, IBlackCardDefinition, ICardPackSummary, ICustomCardPack, IGameClientSettings, IGameSettings, PackTypes} from "../Platform/Contract";
 import {ErrorDataStore} from "./ErrorDataStore";
-import {BrowserUtils} from "../../../Shared/Global/Utils/BrowserUtils";
-import {AudioUtils} from "../../../Shared/Global/Utils/AudioUtils";
+import {BrowserUtils} from "@Global/Utils/BrowserUtils";
+import {AudioUtils} from "@Global/Utils/AudioUtils";
 import {gamesOwnedLsKey} from "../../Areas/GameDashboard/AbcGameDashboard";
 import moment from "moment";
 import {SocketDataStore} from "./SocketDataStore";
-import {ChatDataStore} from "../../../Shared/Global/DataStore/ChatDataStore";
+import {ChatDataStore} from "@Global/DataStore/ChatDataStore";
 import {EnvDataStore} from "./EnvDataStore";
-import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
-import {ArrayUtils} from "../../../Shared/Global/Utils/ArrayUtils";
+import {ArrayUtils} from "@Global/Utils/ArrayUtils";
+import {AdBlockerMessageManager} from "../../../Global/Utils/AdBlockerMessageManager";
 
 export type WhiteCardMap = {
 	[packId: string]: {

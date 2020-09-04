@@ -1,21 +1,21 @@
 import * as React from "react";
-import {GameDataStore, GameDataStorePayload} from "@Global/DataStore/GameDataStore";
 import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import {Typography} from "@material-ui/core";
 import Divider from "@material-ui/core/Divider";
-import {Platform} from "@Global/Platform/platform";
-import {WhiteCard} from "@UI/WhiteCard";
 import Grid from "@material-ui/core/Grid";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import {LoadingButton} from "@UI/LoadingButton";
-import {BlackCard} from "@UI/BlackCard";
 import {UserFlair} from "../Users/UserFlair";
-import {getTrueRoundsToWin, normalizeCard} from "@Global/Utils/GameUtils";
-import {ClientGameItem} from "@Global/Platform/Contract";
 import {GameRoster} from "./GameRoster";
-import {AdResponsive} from "../../../../Shared/UI/Ads/sharedAds";
+import {GameDataStore, GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {AbcPlatform} from "@AbcGlobal/Platform/abcPlatform";
+import {getTrueRoundsToWin, normalizeCard} from "@AbcGlobal/Utils/GameUtils";
+import {ClientGameItem} from "@AbcGlobal/Platform/Contract";
+import {BlackCard} from "@AbcUI/BlackCard";
+import {WhiteCard} from "@AbcUI/WhiteCard";
+import {LoadingButton} from "@AbcUI/LoadingButton";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface IShowWinnerProps
 {
@@ -121,7 +121,6 @@ export class ShowWinner extends React.Component<Props, State>
 	public render()
 	{
 		const game = this.state.gameData.game;
-		const settings = game?.settings;
 		const players = game?.players ?? {};
 		const playerGuids = Object.keys(players);
 		const roundsToWin = getTrueRoundsToWin(game as ClientGameItem);
@@ -138,6 +137,7 @@ export class ShowWinner extends React.Component<Props, State>
 		{
 			return cardId.customInput ?? this.state.gameData.roundCardDefs?.[cardId.packId]?.[cardId.cardIndex]
 		});
+
 		const blackCardContent = this.state.gameData.blackCardDef?.content;
 		if (!lastWinner || !game || winnerCards.length === 0 || !blackCardContent)
 		{
@@ -145,10 +145,7 @@ export class ShowWinner extends React.Component<Props, State>
 		}
 
 		const isChooser = game.chooserGuid === this.state.userData.playerGuid;
-
 		const winner = game.players[lastWinner.guid];
-
-		const sortedPlayerGuids = [...playerGuids].sort((a, b) => game.players[b].wins - game.players[a].wins);
 
 		return (
 			<>

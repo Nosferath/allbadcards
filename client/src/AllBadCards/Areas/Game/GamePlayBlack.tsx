@@ -1,19 +1,19 @@
 import * as React from "react";
-import {GameDataStore, GameDataStorePayload} from "../../Global/DataStore/GameDataStore";
-import {UserData, UserDataStore} from "../../../Shared/Global/DataStore/UserDataStore";
+import {GameDataStore, GameDataStorePayload} from "@AbcGlobal/DataStore/GameDataStore";
+import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import Grid from "@material-ui/core/Grid";
-import {BlackCard} from "../../UI/BlackCard";
+import {BlackCard} from "@AbcUI/BlackCard";
 import Divider from "@material-ui/core/Divider";
 import {Typography} from "@material-ui/core";
 import {RevealWhites} from "./Components/Gameplay/RevealWhites";
 import {ShowWinner} from "./Components/Gameplay/ShowWinner";
 import {PickWinner} from "./Components/Gameplay/PickWinner";
-import {LoadingButton} from "../../UI/LoadingButton";
+import {LoadingButton} from "@AbcUI/LoadingButton";
 import {PlayersRemaining} from "./Components/Gameplay/PlayersRemaining";
 import {CardPlayTimeRemaining} from "./Components/Gameplay/CardPlayTimeRemaining";
-import {ContainerProgress} from "../../UI/ContainerProgress";
-import {cardDefsLoaded} from "../../Global/Utils/GameUtils";
-import {AdResponsive} from "../../Shared/UI/Ads/sharedAds";
+import {ContainerProgress} from "@AbcUI/ContainerProgress";
+import {cardDefsLoaded} from "@AbcGlobal/Utils/GameUtils";
+import {AdResponsive} from "@UI/Ads/sharedAds";
 
 interface IGamePlayBlackProps
 {

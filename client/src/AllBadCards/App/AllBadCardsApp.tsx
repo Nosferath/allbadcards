@@ -3,14 +3,13 @@ import {useEffect, useState} from "react";
 import {AppBar, Button, Container, createStyles, Dialog, DialogActions, DialogTitle, styled, Typography, useMediaQuery} from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import {Routes} from "./Routes";
-import {UserDataStore} from "../../Shared/Global/DataStore/UserDataStore";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import {Link, matchPath} from "react-router-dom";
 import {useHistory} from "react-router";
-import ReactGA from "react-ga";
 import classNames from "classnames";
 import Helmet from "react-helmet";
-import {ErrorBoundary} from "../../Shared/UI/ErrorBoundary";
-import {BrowserUtils} from "../../Shared/Global/Utils/BrowserUtils";
+import {ErrorBoundary} from "@UI/ErrorBoundary";
+import {BrowserUtils} from "@Global/Utils/BrowserUtils";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import {SiteRoutes} from "../Global/Routes/Routes";
 import {AppBarLeftButtons, AppBarRightButtons} from "./NavButtons";
@@ -18,14 +17,13 @@ import {abcColors} from "../../colors";
 import {AppBarGameButtons} from "./GameButtons";
 import {Footer} from "./Footer";
 import {AppDrawer} from "./AppDrawer";
-import {ErrorModal} from "../../Shared/UI/ErrorModal";
+import {ErrorModal} from "@UI/ErrorModal";
 import {HistoryDataStore} from "@Global/DataStore/HistoryDataStore";
 import {useDataStore} from "@Global/Utils/HookUtils";
 import {AuthDataStore} from "@Global/DataStore/AuthDataStore";
-import {AdBlockDialogContent} from "./AdBlockDialogContent";
-import {AdBlockerMessageManager} from "@Global/Utils/AdBlockerMessageManager";
-import {AdBlockDataStore} from "@Global/DataStore/AdBlockDataStore";
-import {Platform} from "@Global/Platform/platform";
+import {AdBlockerMessageManager} from "../../Global/Utils/AdBlockerMessageManager";
+import {AdBlockDataStore} from "../../Global/DataStore/AdBlockDataStore";
+import {AdBlockDialogContent} from "@UI/AdBlockDialogContent";
 
 const useStyles = makeStyles(theme => createStyles({
 	header: {
@@ -90,18 +88,9 @@ const AllBadCardsApp: React.FC = () =>
 			&& adBlockerDetected;
 
 		setShowAdBlockDialog(
-			String(null) === "2"
-			&& adsShouldShow
+			adsShouldShow
 			&& !seenAdMsgRecently);
 
-		if (adsShouldShow)
-		{
-			Platform.trackEvent("AdBlocker View");
-			history.listen(() =>
-			{
-				Platform.trackEvent("AdBlocker View");
-			});
-		}
 	}, [adBlockerDetected, authData]);
 
 	const closeAndStore = () =>
@@ -124,8 +113,6 @@ const AllBadCardsApp: React.FC = () =>
 	const familyEdition = isFamilyMode ? " (Family Edition)" : "";
 
 	const isGame = !!matchPath(history.location.pathname, SiteRoutes.Game.path);
-	const isSubscriber = authData.isSubscriber && authData.authorized;
-
 
 	return (
 		<div>
@@ -139,7 +126,7 @@ const AllBadCardsApp: React.FC = () =>
 					</DialogTitle>
 					<AdBlockDialogContent/>
 					<DialogActions style={{justifyContent: "center"}}>
-						<Button variant={"outlined"} onClick={closeAndStore}>Snooze for 10 minutes</Button>
+						<Button variant={"outlined"} onClick={closeAndStore}>Snooze for 20 minutes</Button>
 					</DialogActions>
 				</Dialog>
 				<AppBar className={classes.appBar} classes={{root: classes.header}} position="static" elevation={0}>
@@ -149,7 +136,7 @@ const AllBadCardsApp: React.FC = () =>
 						)}
 						<Typography variant={mobile ? "body1" : "h5"} style={{marginRight: mobile ? "auto" : undefined}}>
 							<Link to={"/"} className={classes.logo}>
-								<img className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>
+								<img alt={"Logo"} className={classes.logoIcon} src={"/logo-tiny-inverted.png"}/>
 								{isFamilyMode && !mobile ? "(not) " : ""} {!mobile && "ALL BAD CARDS"}
 							</Link>
 						</Typography>
