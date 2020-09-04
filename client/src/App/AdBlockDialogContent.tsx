@@ -1,4 +1,4 @@
-import {Button, ButtonGroup, DialogContent, Typography} from "@material-ui/core";
+import {Button, ButtonGroup, DialogContent, Typography, useMediaQuery} from "@material-ui/core";
 import {getPatreonUrl} from "@Global/Utils/UserUtils";
 import * as React from "react";
 import {useHistory} from "react-router";
@@ -8,11 +8,12 @@ import {FaDollarSign} from "react-icons/fa/index";
 export const AdBlockDialogContent = () =>
 {
 	const history = useHistory();
+	const mobile = useMediaQuery('(max-width:768px)');
 
 	return (
 		<>
 			<DialogContent style={{paddingBottom: "2rem"}}>
-				<Typography variant={"body1"} style={{fontSize: "1.33em"}}>
+				<Typography variant={"body1"} style={{fontSize: "1.1em"}}>
 					To hide this message, you can turn off your ad blocker or subscribe!
 					<br/>
 					<br/>
@@ -25,7 +26,7 @@ export const AdBlockDialogContent = () =>
 					<br/>
 					<div style={{textAlign: "center"}}>
 						<br/>
-						<ButtonGroup size={"large"}>
+						<ButtonGroup size={"large"} orientation={mobile ? "vertical" : "horizontal"}>
 							<Button startIcon={<FaDollarSign/>} href={"http://patreon.com/allbadcards"} variant={"contained"} color={"secondary"}>
 								Become a Patron
 							</Button>

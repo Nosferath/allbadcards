@@ -18,6 +18,7 @@ import {PlayerJoinApproval} from "@Areas/Game/Components/Gameplay/PlayerJoinAppr
 import {UpdateGameUrl} from "@Areas/Game/GameUrlUpdater";
 import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
 import {GameOwnerContext} from "@Global/Utils/GameOwnerContext";
+import {KickPlayerDialog} from "@Areas/Game/Components/Users/KickPlayerDialog";
 
 interface IGameParams
 {
@@ -174,6 +175,7 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 					<title>{title}</title>
 				</Helmet>
 				<div style={{width: tablet ? "100%" : `calc(100% - ${width})`}}>
+					<KickPlayerDialog game={this.state.gameData.game} />
 					<PlayerJoinApproval/>
 					<GameInner gameId={id}/>
 					{winnerGuid && (
