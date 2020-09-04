@@ -1,15 +1,27 @@
 import {Collection} from "mongodb";
 import {IBaseGame} from "./BaseContracts";
 
-export class BaseGameListManager<TGameType extends IBaseGame>
+export abstract class BaseGameListManager<TGameType extends IBaseGame>
 {
-	constructor(private readonly dbGameCollection: Collection<IBaseGame>)
+	protected abstract collectionSetter: () => Collection<IBaseGame>;
+	private dbGameCollection: Collection<IBaseGame>;
+
+	protected constructor()
 	{
 	}
 
 	private get games()
 	{
+		if (!this.dbGameCollection)
+		{
+			this.initialize();
+		}
 		return this.dbGameCollection;
+	}
+
+	protected initialize()
+	{
+		this.dbGameCollection = this.collectionSetter();
 	}
 
 	public async getGames(zeroBasedPage: number)

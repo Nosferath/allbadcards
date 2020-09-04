@@ -6,11 +6,11 @@ class _GameListManager extends BaseGameListManager<GameItem>
 {
 	public static Instance = new _GameListManager();
 
+	protected collectionSetter = () => CardsDatabase.db.collection<GameItem>("games");
+
 	constructor()
 	{
-		CardsDatabase.initialize().then(() => console.log("DB init"));
-
-		super(CardsDatabase.db.collection<GameItem>("games"));
+		super();
 	}
 }
 

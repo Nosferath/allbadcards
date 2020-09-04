@@ -1,7 +1,8 @@
 import ReactGA from "react-ga";
-import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameClientSettings, IGameSettings, PackSearch} from "./Contract";
+import {CardId, ClientGameItem, GamesList, IBlackCardDefinition, ICardPackDefinition, ICardPackSummary, IClientAuthStatus, ICustomCardPack, ICustomPackDataInput, ICustomPackSearchResult, IGameClientSettings, PackSearch} from "./Contract";
 import {Fetcher} from "../../../Shared/Global/Platform/Fetcher";
-import {EnvDataStore} from "../DataStore/EnvDataStore";
+import {BaseCardGamePlatform} from "@Global/Platform/BaseCardGamePlatform";
+import {EnvDataStore} from "@AbcGlobal/DataStore/EnvDataStore";
 
 export interface GamePayload extends ClientGameItem, WithBuildVersion
 {
@@ -14,7 +15,7 @@ export interface WithBuildVersion
 
 export type IWhiteCard = string;
 
-class _AllBadCardsPlatform
+class _AllBadCardsPlatform extends BaseCardGamePlatform<ClientGameItem,IGameClientSettings, CardId, GamesList>
 {
 	public static Instance = new _AllBadCardsPlatform();
 
@@ -30,11 +31,6 @@ class _AllBadCardsPlatform
 		});
 	}
 
-	public async getGame(gameId: string)
-	{
-		return Fetcher.doGet<ClientGameItem>(`/api/abc/game/get?gameId=${gameId}`);
-	}
-
 	public async createGame(guid: string, nickname: string)
 	{
 		this.trackEvent("create");
@@ -46,79 +42,6 @@ class _AllBadCardsPlatform
 		});
 	}
 
-	public async sendChat(guid: string, gameId: string, message: string)
-	{
-		this.trackEvent("chat-message", gameId);
-
-		return Fetcher.doPost(`/api/abc/game/send-chat`, {
-			gameId: gameId,
-			message: message,
-			playerGuid: guid
-		})
-	}
-
-	public async joinGame(guid: string, gameId: string, nickname: string, isSpectating = false)
-	{
-		this.trackEvent("join", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/join", {
-			guid,
-			gameId,
-			nickname,
-			isSpectating
-		});
-	}
-
-	public async removePlayer(gameId: string, targetGuid: string, guid: string)
-	{
-		this.trackEvent("remove-player", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/kick", {
-			gameId,
-			targetGuid,
-			guid
-		});
-	}
-
-	public async startGame(
-		guid: string,
-		gameId: string,
-		settings: IGameSettings)
-	{
-		this.trackEvent("start", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/start", {
-			gameId,
-			guid,
-			settings
-		});
-	}
-
-	public async updateSettings(
-		guid: string,
-		gameId: string,
-		settings: IGameClientSettings)
-	{
-		this.trackEvent("start", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/update-settings", {
-			gameId,
-			guid,
-			settings
-		});
-	}
-
-	public async playCards(gameId: string, guid: string, cardIds: CardId[])
-	{
-		this.trackEvent("play-cards", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/play-cards", {
-			gameId,
-			guid,
-			cardIds
-		});
-	}
-
 	public async forfeit(gameId: string, guid: string, playedCards: CardId[])
 	{
 		this.trackEvent("my-cards-suck", gameId);
@@ -127,16 +50,6 @@ class _AllBadCardsPlatform
 			gameId,
 			guid,
 			playedCards
-		});
-	}
-
-	public async restart(gameId: string, guid: string)
-	{
-		this.trackEvent("game-restart", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/restart", {
-			gameId,
-			guid,
 		});
 	}
 
@@ -159,29 +72,11 @@ class _AllBadCardsPlatform
 		});
 	}
 
-	public async startRound(gameId: string, guid: string)
-	{
-		this.trackEvent("round-start", gameId);
-
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/start-round", {
-			gameId,
-			guid,
-		});
-	}
-
 	public async addRandomPlayer(gameId: string, guid: string)
 	{
 		this.trackEvent("round-start", gameId);
 
 		return Fetcher.doPost<ClientGameItem>("/api/abc/game/add-random-player", {
-			gameId,
-			guid,
-		});
-	}
-
-	public async nextRound(gameId: string, guid: string)
-	{
-		return Fetcher.doPost<ClientGameItem>("/api/abc/game/next-round", {
 			gameId,
 			guid,
 		});
@@ -243,11 +138,6 @@ class _AllBadCardsPlatform
 	public async getPacks(type: "all" | "official" | "thirdParty" | "family" = "all")
 	{
 		return Fetcher.doGet<ICardPackSummary[]>("/api/abc/game/get-packnames?type=" + type);
-	}
-
-	public async getGames(zeroBasedPage = 0)
-	{
-		return Fetcher.doGet<GamesList>(`/api/abc/games/public?zeroBasedPage=${zeroBasedPage}`);
 	}
 
 	public async getCardCastPackCached(deckId: string)
