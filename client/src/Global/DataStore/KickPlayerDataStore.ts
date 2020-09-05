@@ -1,6 +1,6 @@
 import {DataStore} from "@Global/DataStore/DataStore";
-import {Platform} from "@Global/Platform/platform";
 import {UserData} from "@Global/DataStore/UserDataStore";
+import {AbcPlatform} from "@AbcGlobal/Platform/abcPlatform";
 
 interface IKickPlayerDataStorePayload
 {
@@ -36,13 +36,13 @@ class _KickPlayerDataStore extends DataStore<IKickPlayerDataStorePayload>
 	{
 		if(this.state.kickCandidateGuid)
 		{
-			Platform.removePlayer(gameId, this.state.kickCandidateGuid, userData.playerGuid)
+			AbcPlatform.removePlayer(gameId, this.state.kickCandidateGuid, userData.playerGuid)
 				.then(() => {
 					this.update({
 						kickCandidateGuid: null
 					});
 				})
-				.catch(e => console.error(e));
+				.catch((e: any) => console.error(e));
 		}
 	}
 }

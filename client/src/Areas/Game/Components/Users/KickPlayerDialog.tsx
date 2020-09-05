@@ -2,9 +2,9 @@ import {Dialog, DialogActions, DialogContent, DialogTitle} from "@material-ui/co
 import Button from "@material-ui/core/Button";
 import React from "react";
 import {useDataStore} from "@Global/Utils/HookUtils";
-import {KickPlayerDataStore} from "@Global/DataStore/KickPlayerDataStore";
-import {GamePayload} from "@Global/Platform/platform";
 import {UserDataStore} from "@Global/DataStore/UserDataStore";
+import {GamePayload} from "@AbcGlobal/Platform/Contract";
+import {KickPlayerDataStore} from "../../../../Global/DataStore/KickPlayerDataStore";
 
 interface IKickPlayerDialog
 {

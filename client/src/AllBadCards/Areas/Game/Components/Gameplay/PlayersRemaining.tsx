@@ -4,13 +4,12 @@ import {ClockLoader} from "react-spinners";
 import {Tooltip, Typography} from "@material-ui/core";
 import * as React from "react";
 import {useDataStore} from "@Global/Utils/HookUtils";
-import {GameDataStore} from "@Global/DataStore/GameDataStore";
 import {UserData, UserDataStore} from "@Global/DataStore/UserDataStore";
 import {UserFlair} from "../Users/UserFlair";
-import {GamePlayer} from "@Global/Platform/Contract";
-import {KickPlayerDataStore} from "@Global/DataStore/KickPlayerDataStore";
 import {TiUserDelete} from "react-icons/ti/index";
-
+import {GameDataStore} from "@AbcGlobal/DataStore/GameDataStore";
+import {KickPlayerDataStore} from "Global/DataStore/KickPlayerDataStore";
+import {GamePlayer} from "@AbcGlobal/Platform/Contract";
 
 export const PlayersRemaining = () =>
 {

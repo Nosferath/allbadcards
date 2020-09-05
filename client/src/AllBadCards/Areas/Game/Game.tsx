@@ -16,6 +16,8 @@ import {ClientGameItem} from "@AbcGlobal/Platform/Contract";
 import {PlayerJoinApproval} from "./Components/Gameplay/PlayerJoinApproval";
 import {getTrueRoundsToWin} from "@AbcGlobal/Utils/GameUtils";
 import {GameOwnerContext} from "../../../Global/Utils/GameOwnerContext";
+import {KickPlayerDialog} from "../../../Areas/Game/Components/Users/KickPlayerDialog";
+import {AuthDataStore, IAuthContext} from "@Global/DataStore/AuthDataStore";
 
 interface IGameParams
 {
@@ -31,6 +33,7 @@ interface IGameState
 	restartDelayed: boolean;
 	showSupport: boolean;
 	chatDrawerOpen: boolean;
+	authContext: IAuthContext;
 }
 
 class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
@@ -48,7 +51,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			restartLoading: false,
 			restartDelayed: true,
 			showSupport: false,
-			chatDrawerOpen: true
+			chatDrawerOpen: true,
+			authContext: AuthDataStore.state
 		};
 	}
 
@@ -142,6 +146,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 			playerGuid
 		} = this.state.userData;
 
+		const tablet = matchMedia('(max-width:1200px)');
+		const width = !this.state.authContext.isSubscriber ? "33vw" : "15vw";
 		const owner = players?.[ownerGuid ?? ""];
 		const amInGame = playerGuid in (players ?? {});
 		const amSpectating = playerGuid in {...(spectators ?? {}), ...(pendingPlayers ?? {})};
@@ -158,37 +164,38 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 					<title>{title}</title>
 				</Helmet>
 				<div style={{width: tablet ? "100%" : `calc(100% - ${width})`}}>
-					<KickPlayerDialog game={this.state.gameData.game} />
-				<PlayerJoinApproval/>
-				<GameInner gameId={id} />
-				{winnerGuid && (
-					<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
-						<DialogContent style={{padding: "2rem"}}>
-							<Typography variant={"h6"} style={{textAlign: "center"}}>
-								Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
-							</Typography>
+					<KickPlayerDialog game={this.state.gameData.game}/>
+					<PlayerJoinApproval/>
+					<GameInner gameId={id}/>
+					{winnerGuid && (
+						<Dialog open={this.state.showSupport} onClose={() => this.setState({showSupport: false})}>
+							<DialogContent style={{padding: "2rem"}}>
+								<Typography variant={"h6"} style={{textAlign: "center"}}>
+									Game over! {unescape(players?.[winnerGuid].nickname ?? "")} is the winner.
+								</Typography>
 
-							<Support/>
+								<Support/>
 
-							{playerGuid === ownerGuid && (
-								<div style={{
-									marginTop: "7rem",
-									textAlign: "center"
-								}}>
-									<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"secondary"} onClick={() => this.restartClick(playerGuid)}>
-										Restart this game?
-									</LoadingButton>
-								</div>
-							)}
-						</DialogContent>
-					</Dialog>
-				)}
-				{canChat && (
-					<>
-						<GameChatFab showChat={amInGame || amSpectating}/>
+								{playerGuid === ownerGuid && (
+									<div style={{
+										marginTop: "7rem",
+										textAlign: "center"
+									}}>
+										<LoadingButton loading={this.state.restartLoading || this.state.restartDelayed} variant={"contained"} color={"secondary"} onClick={() => this.restartClick(playerGuid)}>
+											Restart this game?
+										</LoadingButton>
+									</div>
+								)}
+							</DialogContent>
+						</Dialog>
+					)}
+					{canChat && (
+						<>
+							<GameChatFab showChat={amInGame || amSpectating}/>
 							<ChatSidebar ownerHidingAds={!!owner?.hideGameAds}/>
-					</>
-				)}
+						</>
+					)}
+				</div>
 			</GameOwnerContext.Provider>
 		);
 	}

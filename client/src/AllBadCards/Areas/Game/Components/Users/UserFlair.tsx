@@ -1,7 +1,7 @@
-import {BackerType, GamePlayer} from "@Global/Platform/Contract";
 import React from "react";
 import {Tooltip} from "@material-ui/core";
 import {FaPatreon} from "react-icons/all";
+import {BackerType, GamePlayer} from "@AbcGlobal/Platform/Contract";
 
 interface UserFlairProps
 {
