@@ -8,3 +8,7 @@
 **/keys.json
 keys.json
 /cardcast-packs/
+/client/.bit/
+/client/.bitmap
+/.bitmap
+/.idea/shelf/

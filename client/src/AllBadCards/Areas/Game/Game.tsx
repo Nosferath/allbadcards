@@ -157,6 +157,8 @@ class Game extends React.Component<RouteComponentProps<IGameParams>, IGameState>
 				<Helmet>
 					<title>{title}</title>
 				</Helmet>
+				<div style={{width: tablet ? "100%" : `calc(100% - ${width})`}}>
+					<KickPlayerDialog game={this.state.gameData.game} />
 				<PlayerJoinApproval/>
 				<GameInner gameId={id} />
 				{winnerGuid && (

@@ -3,10 +3,13 @@ import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
 import React, {useState} from "react";
+import {GameDataStore, GameDataStorePayload} from "@Global/DataStore/GameDataStore";
+import {ListItemSecondaryAction} from "@material-ui/core";
 import {GameDataStore, GameDataStorePayload} from "../../../../Global/DataStore/GameDataStore";
 import {Dialog, DialogActions, DialogContent, DialogTitle, ListItemSecondaryAction} from "@material-ui/core";
 import Button from "@material-ui/core/Button";
 import {createStyles} from "@material-ui/styles";
+import {UserDataStore} from "@Global/DataStore/UserDataStore";
 import {UserDataStore} from "../../../../../Shared/Global/DataStore/UserDataStore";
 import {AbcPlatform} from "../../../../Global/Platform/abcPlatform";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
@@ -21,6 +24,7 @@ import {UserFlair} from "../Users/UserFlair";
 import {getTrueRoundsToWin} from "../../../../Global/Utils/GameUtils";
 import {LoadingButton} from "../../../../UI/LoadingButton";
 import {MdAdd} from "react-icons/all";
+import {KickPlayerDataStore} from "@Global/DataStore/KickPlayerDataStore";
 
 const useStyles = makeStyles(theme => createStyles({
 	iconButton: {
@@ -42,7 +46,6 @@ export const GameRoster = () =>
 	const socketData = useDataStore(SocketDataStore);
 	const gameData = useDataStore(GameDataStore);
 	const userData = useDataStore(UserDataStore);
-	const [kickCandidate, setKickCandidate] = useState<string | null>(null);
 	const [randomPlayerLoading, setRandomPlayerLoading] = useState(false);
 
 	if (!gameData.game || !gameData.loaded || !socketData.hasConnection)
@@ -51,21 +54,10 @@ export const GameRoster = () =>
 	}
 
 	const game = gameData.game;
-	const gameId = gameData.game.id;
 
 	const onClickKick = (playerGuid: string) =>
 	{
-		setKickCandidate(playerGuid);
-	};
-
-	const onKickConfirm = () =>
-	{
-		if (kickCandidate)
-		{
-			setKickCandidate(null);
-			AbcPlatform.removePlayer(gameId, kickCandidate, userData.playerGuid)
-				.catch(e => console.error(e));
-		}
+		KickPlayerDataStore.setKickCandidate(playerGuid);
 	};
 
 	const onClickAddRandom = () =>
@@ -166,17 +158,6 @@ export const GameRoster = () =>
 					)
 				})}
 			</List>
-			<Dialog open={!!kickCandidate} onClose={() => setKickCandidate(null)}>
-				<DialogTitle>Confirm</DialogTitle>
-				{!!kickCandidate && (
-					<DialogContent>
-						Are you sure you want to remove {unescape(gameData.game?.players?.[kickCandidate]?.nickname)} from this game?
-					</DialogContent>
-				)}
-				<DialogActions>
-					<Button variant={"contained"} color={"secondary"} onClick={onKickConfirm}>Kick em!</Button>
-				</DialogActions>
-			</Dialog>
 		</div>
 	);
 };

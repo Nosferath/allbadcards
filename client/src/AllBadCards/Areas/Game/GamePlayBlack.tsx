@@ -159,10 +159,6 @@ export class GamePlayBlack extends React.Component<Props, State>
 					</div>
 				)}
 
-				<Grid item xs={12} style={{overflow: "hidden", paddingBottom: "1rem"}}>
-					<AdResponsive/>
-				</Grid>
-
 				<PickWinner
 					canPick={true}
 					hasWinner={hasWinner}
@@ -170,6 +166,10 @@ export class GamePlayBlack extends React.Component<Props, State>
 					revealMode={revealMode}
 					timeToPick={timeToPick}
 				/>
+
+				<Grid item xs={12} style={{overflow: "hidden", paddingBottom: "1rem"}}>
+					<AdResponsive/>
+				</Grid>
 			</>
 		);
 	}
